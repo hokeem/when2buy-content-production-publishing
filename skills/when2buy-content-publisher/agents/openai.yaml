@@ -1,4 +1,4 @@
 interface:
   display_name: "when2buy 内容制作与发布"
-  short_description: "研究美股选题、生成原创图文、通过浏览器发布并复盘数据"
-  default_prompt: "Use $when2buy-content-publisher to run today’s when2buy content production and publishing workflow."
+  short_description: "扫描双对标账号，复刻同选题并生成 when2buy 图文"
+  default_prompt: "Use $when2buy-content-publisher to scan @WhaleInsider and @StockMKTNewz first, then produce the strongest same-topic when2buy package."

@@ -2,7 +2,7 @@
 
 ## Radar inputs
 
-Monitor the newest original public posts from `@WhaleInsider` and `@StockMKTNewz`. Use them to detect topics, then trace each material claim upstream. Prefer:
+Monitor the newest original public posts from `@WhaleInsider` and `@StockMKTNewz` before using any other discovery source. The selected benchmark post determines the when2buy topic; upstream research only verifies and enriches its factual payload. Prefer:
 
 1. SEC filings and company investor-relations releases.
 2. Federal Reserve, BLS, BEA, Treasury, CFTC, exchanges, and other official data.
@@ -10,6 +10,15 @@ Monitor the newest original public posts from `@WhaleInsider` and `@StockMKTNewz
 4. Benchmark X posts only as discovery and timing evidence.
 
 Do not treat engagement counts as factual verification.
+
+For each captured benchmark post, store:
+
+- exact X status ID and URL;
+- benchmark account and visible publication time;
+- visible text and media type;
+- company/ticker, event type, key numbers, and factual order;
+- whether when2buy has already covered the same event;
+- upstream sources used for verification.
 
 ## Candidate score
 
@@ -23,6 +32,8 @@ Score each dimension from 0 to 5:
 - Duplication risk: subtract 0 to 5 when the account recently covered the same angle.
 
 Rank by total score. If two candidates tie, choose the fresher primary-source event.
+
+Each recommendation must map one-to-one to one captured benchmark post. Never combine two unrelated benchmark posts into a synthetic topic.
 
 ## Copy system
 

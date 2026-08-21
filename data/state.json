@@ -6,6 +6,7 @@
     {"handle": "WhaleInsider", "role": "breaking-market-discovery", "active": true},
     {"handle": "StockMKTNewz", "role": "breaking-market-discovery", "active": true}
   ],
+  "benchmarkPosts": [],
   "radar": [],
   "packages": [],
   "posts": [

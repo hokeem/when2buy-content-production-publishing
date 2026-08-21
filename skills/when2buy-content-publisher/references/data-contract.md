@@ -8,6 +8,7 @@
 - `updatedAt`: ISO-8601 timestamp of the last successful state write.
 - `account`: intended X handle and timezone.
 - `benchmarks`: monitored discovery accounts.
+- `benchmarkPosts`: append-only snapshots of eligible originals captured from the two benchmark feeds.
 - `radar`: ranked opportunities from the most recent scan.
 - `packages`: generated text-and-image packages.
 - `posts`: verified public posts.
@@ -23,6 +24,7 @@
 ## Stable IDs
 
 - Radar: `radar-YYYYMMDD-HHMM-rank` in Asia/Shanghai.
+- Benchmark post: the numeric X status ID.
 - Package: `pkg-YYYYMMDD-topic-slug`.
 - Post: X status ID when available; otherwise package ID until publication.
 - Snapshot: `statusId-YYYYMMDDTHHMMSSZ`.
@@ -31,3 +33,5 @@
 ## Write rules
 
 Use `skills/when2buy-content-publisher/scripts/state.py` for validation and append operations. Write atomically. Preserve unknown fields for forward compatibility. Never record secrets or copied third-party commentary.
+
+Every radar record requires `benchmarkPostId`, `sourceAccount`, and `sourcePostUrl`. Every generated package requires `benchmarkPostId`, `benchmarkPostUrl`, and a non-empty `mirroredFacts` array.

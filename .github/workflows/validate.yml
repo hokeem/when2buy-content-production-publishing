@@ -11,5 +11,6 @@ jobs:
         with:
           python-version: "3.12"
       - run: python3 skills/when2buy-content-publisher/scripts/state.py validate
+      - run: python3 skills/when2buy-content-publisher/scripts/preflight.py
       - run: python3 scripts/security_scan.py
       - run: python3 scripts/render_report.py --check

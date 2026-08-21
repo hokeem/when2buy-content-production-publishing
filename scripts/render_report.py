@@ -22,13 +22,21 @@ def render(state):
         "",
         f"- 状态更新：`{esc(state['updatedAt'])}`",
         f"- X 账号：`@{esc(state['account']['handle'])}`",
+        f"- 对标帖子快照：**{len(state['benchmarkPosts'])}**",
         f"- 待选选题：**{len(state['radar'])}**",
         f"- 待发布制作包：**{sum(1 for item in state['packages'] if item.get('status') == 'ready')}**",
         f"- 已验证发布：**{sum(1 for item in state['posts'] if item.get('status') == 'published')}**",
         "",
-        "## 选题推荐",
+        "## 对标账号扫描",
         "",
     ]
+    if state["benchmarkPosts"]:
+        lines += ["| 账号 | 时间 | 内容 | URL |", "|---|---|---|---|"]
+        for item in state["benchmarkPosts"][-30:][::-1]:
+            lines.append(f"| @{esc(item.get('account'))} | {esc(item.get('postedAt'))} | {esc(item.get('text'))} | [X]({esc(item.get('url'))}) |")
+    else:
+        lines.append("尚无对标帖子快照；下一次运行必须先扫描 `@WhaleInsider` 和 `@StockMKTNewz`。")
+    lines += ["", "## 选题推荐", ""]
     if state["radar"]:
         lines += ["| 排名 | 选题 | 信号源 | 分数 | 为什么是现在 |", "|---:|---|---|---:|---|"]
         for item in sorted(state["radar"], key=lambda value: value.get("rank", 999)):
