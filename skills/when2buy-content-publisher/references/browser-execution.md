@@ -8,7 +8,7 @@
 4. Enter the approved post text exactly as stored in the package.
 5. Upload the generated image from its absolute local path and wait for the preview.
 6. Proofread text, image, ticker, numbers, and dates in the visible composer.
-7. If the task carries explicit direct-publish authorization, click Post. Do not add another approval checkpoint.
+7. Request action-time confirmation for the exact account, text, and media, then click Post after confirmation. Do not introduce an earlier editorial-review checkpoint.
 8. Wait for success navigation or toast, open the resulting status, and confirm text and media are public.
 9. Store the exact status URL and `publishedAt`. If the public URL cannot be verified, record `verification_failed`, not `published`.
 

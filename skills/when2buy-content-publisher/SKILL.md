@@ -33,7 +33,7 @@ Read only the references needed for the selected mode:
 5. Write independently. Preserve facts, tickers, numbers, and urgency, but do not copy distinctive wording, jokes, structure, or commentary from another account.
 6. Verify every number, date, company name, and transaction detail. Record source URLs and verification notes.
 7. Create one 1:1 branded image. Use `assets/when2buy-logo-reference.png` as the logo reference. Keep the graphic legible at mobile size and avoid unsupported claims.
-8. If the current task or scheduled-task prompt explicitly authorizes direct publishing, publish without requesting another editorial approval. Otherwise stop at `ready` and ask once. Platform login, CAPTCHA, account lock, or materially inconsistent facts always require user attention.
+8. Complete research, copy, and image production autonomously. For browser-based publishing, stop at `ready` and request action-time confirmation immediately before clicking Post; this is an execution confirmation, not a separate editorial review. Platform login, CAPTCHA, account lock, or materially inconsistent facts also require user attention.
 9. After publishing, open the public status URL and verify that text and media are visible. Only then set status to `published` and store the URL.
 10. Record the run and metric snapshot with `state.py`; run validation and `python3 scripts/render_report.py` again.
 

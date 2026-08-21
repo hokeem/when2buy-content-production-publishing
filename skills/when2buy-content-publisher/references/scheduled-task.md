@@ -12,7 +12,7 @@ Use a standalone scheduled task so each run starts clean and reports into Schedu
 ## Task prompt
 
 ```text
-Use $when2buy-content-publisher in this repository. Run the mode appropriate for the current scheduled window using Asia/Shanghai time. You have standing authorization to publish one verified, original when2buy X post through the already signed-in browser session without a separate editorial approval. Do not send DMs, follow accounts, reply to users, or import cookies. Verify the public status URL before marking success. Update data/state.json, run python3 scripts/render_report.py, validate the state, commit only the state, report, and newly generated approved assets, and report blockers precisely.
+Use $when2buy-content-publisher in this repository. Run the mode appropriate for the current scheduled window using Asia/Shanghai time. Research, verify, write, and create the image autonomously. Store the strongest eligible package as ready, update data/state.json, run python3 scripts/render_report.py, validate the state, and notify the user that one exact browser publishing action is ready for confirmation. Do not send DMs, follow accounts, reply to users, import cookies, or claim a post was published without a verified public URL.
 ```
 
-Run against the local project when browser access and generated local files are required. Keep the computer on and the desktop app running. Test the task manually before enabling the schedule.
+Run against the local project when browser access and generated local files are required. Keep the computer on and the desktop app running. Test the task manually before enabling the schedule. After the user confirms a ready package, use a foreground run to publish and verify it.

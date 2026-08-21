@@ -12,7 +12,7 @@
 ## 给新 Codex 的交接语
 
 ```text
-请在当前仓库使用 $when2buy-content-publisher，先运行状态校验，然后按 full 模式执行 when2buy 今日内容流程。使用已登录的 X 浏览器会话直接发布，发布后验证公开 URL，更新 data/state.json 并运行 python3 scripts/render_report.py。不要发私信，不要导入或保存 Cookie，不要复制其他博主的独特文案。
+请在当前仓库使用 $when2buy-content-publisher，先运行状态校验，然后按 full 模式执行 when2buy 今日内容流程。自动完成选题、核验、文案和配图，将最强的一条记为 ready，更新 data/state.json 并运行 python3 scripts/render_report.py。浏览器点击 X 发布前请求一次即时执行确认，发布后验证公开 URL。不要发私信，不要导入或保存 Cookie，不要复制其他博主的独特文案。
 ```
 
 ## 生成最新报告
