@@ -1,0 +1,12 @@
+# when2buy Agent Rules
+
+Use `$when2buy-content-publisher` for all editorial, publishing, metrics, and review work in this repository.
+
+1. Read `data/state.json` before acting, validate it after every write, then regenerate `reports/latest.md`.
+2. Keep all agent-to-agent handoff state in tracked JSON; do not rely on chat history.
+3. Never commit credentials, cookies, browser profiles, private messages, or raw authentication material.
+4. Treat benchmark accounts as discovery inputs, not copy sources. Produce original wording and visuals.
+5. Verify financial claims against primary sources or authoritative financial reporting before publication.
+6. Publish only when the task contains explicit current or standing authorization. Verify the public URL before recording success.
+7. Preserve prior metric snapshots. Append observations; never rewrite history.
+8. Keep changes narrow. Stage explicit files only and never overwrite unrelated agent work.

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-22T00:00:00+08:00",
+  "account": {"handle": "_When2buy", "timezone": "Asia/Shanghai"},
+  "benchmarks": [
+    {"handle": "WhaleInsider", "role": "breaking-market-discovery", "active": true},
+    {"handle": "StockMKTNewz", "role": "breaking-market-discovery", "active": true}
+  ],
+  "radar": [],
+  "packages": [],
+  "posts": [
+    {
+      "id": "2084535905050829005",
+      "packageId": "legacy-intel-stock-offering",
+      "title": "Intel proposed stock offering",
+      "ticker": "INTC",
+      "text": "Intel just announced a proposed $15B common stock offering.\n\nIt also gave underwriters a 30-day option to buy up to another $2.25B.\nIntel said the proceeds may be used for general corporate purposes, including CapEx and working capital.",
+      "url": "https://x.com/_When2buy/status/2084535905050829005",
+      "publishedAt": "2026-08-10T00:00:00+08:00",
+      "imagePath": "",
+      "status": "published",
+      "sources": [],
+      "verificationNotes": ["Imported from a previously verified public status URL; refresh facts and metrics before analysis."]
+    }
+  ],
+  "metricSnapshots": [],
+  "experiments": [],
+  "runs": []
+}
