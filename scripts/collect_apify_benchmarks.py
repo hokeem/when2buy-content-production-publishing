@@ -1,0 +1,133 @@
+#!/usr/bin/env python3
+"""Collect the two when2buy benchmark feeds through Apify only.
+
+The script never publishes to X. It stores only eligible original posts with a
+canonical status URL, so later editorial steps retain one-to-one provenance.
+"""
+
+import argparse
+import json
+import os
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.error import HTTPError, URLError
+from urllib.parse import quote
+from urllib.request import Request, urlopen
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "skills" / "when2buy-content-publisher" / "scripts"))
+import state  # noqa: E402
+
+ACTOR_DEFAULT = "scraper-engine/twitter-x-scraper"
+BENCHMARKS = ("WhaleInsider", "StockMKTNewz")
+
+
+def utc_now():
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+
+def actor_path(actor_id):
+    # Apify's API path accepts owner~actor-name. It avoids an ambiguous slash.
+    return quote(actor_id.replace("/", "~"), safe="~")
+
+
+def run_actor(token, actor_id, max_posts):
+    payload = json.dumps({
+        "startUrls": [f"https://x.com/{handle}" for handle in BENCHMARKS],
+        "maxTweets": max_posts,
+        "withReplies": False,
+        "includeUserInfo": False,
+    }).encode("utf-8")
+    url = f"https://api.apify.com/v2/acts/{actor_path(actor_id)}/run-sync-get-dataset-items?token={quote(token, safe='')}"
+    request = Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
+    try:
+        with urlopen(request, timeout=300) as response:
+            data = json.load(response)
+    except HTTPError as exc:
+        detail = exc.read(400).decode("utf-8", "replace")
+        raise RuntimeError(f"Apify request failed with HTTP {exc.code}: {detail}") from exc
+    except URLError as exc:
+        raise RuntimeError(f"Apify request could not be completed: {exc.reason}") from exc
+    if not isinstance(data, list):
+        raise RuntimeError("Apify returned an unexpected dataset payload (expected a JSON list).")
+    return data
+
+
+def value(item, *keys):
+    for key in keys:
+        if item.get(key) is not None:
+            return item[key]
+    return None
+
+
+def normalize(item):
+    post_id = str(value(item, "id", "tweetId", "tweet_id") or "")
+    handle = str(value(item, "username", "userName", "screen_name") or "").lstrip("@")
+    if not post_id.isdigit() or handle.lower() not in {name.lower() for name in BENCHMARKS}:
+        return None
+    if bool(value(item, "isReply", "is_reply")) or bool(value(item, "isRetweet", "is_retweet", "retweeted")):
+        return None
+    text = str(value(item, "text", "fullText", "full_text") or "").strip()
+    if not text:
+        return None
+    url = str(value(item, "url", "tweetUrl", "tweet_url") or f"https://x.com/{handle}/status/{post_id}")
+    if not url.startswith("https://x.com/") or "/status/" not in url:
+        url = f"https://x.com/{handle}/status/{post_id}"
+    return {
+        "id": post_id,
+        "account": next(name for name in BENCHMARKS if name.lower() == handle.lower()),
+        "url": url.split("?")[0],
+        "postedAt": value(item, "createdAt", "created_at", "timestamp", "time") or "",
+        "text": text,
+        "mediaType": "media" if value(item, "media", "photos", "videos") else "text",
+        "source": "apify",
+        "capturedAt": utc_now(),
+    }
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Collect when2buy benchmarks from Apify.")
+    parser.add_argument("--max-posts", type=int, default=30, choices=range(1, 101), metavar="1..100")
+    parser.add_argument("--input-json", type=Path, help="Use a saved Apify dataset JSON file instead of the network (test only).")
+    parser.add_argument("--dry-run", action="store_true", help="Print eligible normalized posts without changing state.")
+    args = parser.parse_args()
+
+    if args.input_json:
+        raw = json.loads(args.input_json.read_text(encoding="utf-8"))
+    else:
+        token = os.environ.get("APIFY_TOKEN")
+        if not token:
+            raise SystemExit("APIFY_TOKEN is required. Set it in the environment; never commit it.")
+        raw = run_actor(token, os.environ.get("APIFY_ACTOR_ID", ACTOR_DEFAULT), args.max_posts)
+
+    normalized = [post for item in raw if isinstance(item, dict) for post in [normalize(item)] if post]
+    normalized.sort(key=lambda post: (post["postedAt"], post["id"]), reverse=True)
+    if args.dry_run:
+        print(json.dumps(normalized, ensure_ascii=False, indent=2))
+        return
+
+    current = state.load_state()
+    known = {str(post.get("id")) for post in current["benchmarkPosts"]}
+    new_posts = [post for post in normalized if post["id"] not in known]
+    current["benchmarkPosts"].extend(new_posts)
+    run_id = f"run-{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}-radar"
+    current["runs"].append({
+        "id": run_id,
+        "mode": "radar",
+        "status": "succeeded" if normalized else "blocked",
+        "startedAt": utc_now(),
+        "completedAt": utc_now(),
+        "summary": f"Apify scanned both benchmark accounts; captured {len(normalized)} eligible originals and added {len(new_posts)} new post(s).",
+        "reason": "" if normalized else "Apify returned no eligible original posts from either benchmark account.",
+        "collector": {"provider": "Apify", "actor": os.environ.get("APIFY_ACTOR_ID", ACTOR_DEFAULT)},
+    })
+    errors = state.validate(current)
+    if errors:
+        raise SystemExit("\n".join(errors))
+    state.atomic_write(current)
+    print(f"Apify scan complete: {len(new_posts)} new eligible benchmark post(s).")
+
+
+if __name__ == "__main__":
+    main()

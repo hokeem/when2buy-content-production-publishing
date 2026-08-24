@@ -1,0 +1,30 @@
+name: Apify benchmark radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 08:30, 12:30, 18:30, 22:30 Asia/Shanghai (UTC+8).
+    - cron: "30 0,4,10,14 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/collect_apify_benchmarks.py
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      - run: python3 skills/when2buy-content-publisher/scripts/state.py validate
+      - run: python3 scripts/render_report.py
+      - run: python3 scripts/security_scan.py
+      - name: Persist radar state
+        run: |
+          git config user.name "when2buy-radar[bot]"
+          git config user.email "when2buy-radar[bot]@users.noreply.github.com"
+          git add -- data/state.json reports/latest.md

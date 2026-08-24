@@ -34,6 +34,18 @@
 python3 scripts/render_report.py
 ```
 
+## Apify 对标采集
+
+唯一采集通道是 Apify Actor `scraper-engine/twitter-x-scraper`。它在一次运行中读取 `@WhaleInsider` 与 `@StockMKTNewz` 的公开 profile timeline，不携带 X Cookie；脚本过滤回复与转帖、以 status ID 去重，并只把可回溯的原创帖写入 `data/state.json`。
+
+```bash
+export APIFY_TOKEN='…' # 仅在本机或 GitHub Actions Secret 中配置，绝不提交
+python3 scripts/collect_apify_benchmarks.py
+python3 scripts/render_report.py
+```
+
+GitHub Actions 的 `Apify benchmark radar` 在北京时间 08:30、12:30、18:30、22:30 运行。启用前，在仓库 Actions secrets 中设置 `APIFY_TOKEN`；也可先通过 `workflow_dispatch` 手动验证一轮。采集只发现和持久化对标帖，绝不发布 X 内容。
+
 ## 凭据
 
 仓库不保存凭据。X 使用本机已登录的浏览器会话；GitHub 使用 GitHub Connector、`gh auth login` 或系统凭据管理器。永远不要把 PAT 写入 `.env`、Git remote URL 或 Git 历史。
