@@ -9,7 +9,7 @@ import argparse
 import json
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote
@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "skills" / "when2buy-content-publisher" / "scripts"))
 import state  # noqa: E402
 
-ACTOR_DEFAULT = "dami_studio/tweet-scraper"
+ACTOR_DEFAULT = "apidojo/twitter-profile-scraper"
 BENCHMARKS = ("WhaleInsider", "StockMKTNewz")
 
 
@@ -37,9 +37,11 @@ def run_actor(token, actor_id, max_posts):
     all_items = []
     for handle in BENCHMARKS:
         payload = json.dumps({
-            "twitterHandles": [handle],
+            "startUrls": [f"https://x.com/{handle}"],
             "maxItems": max_posts,
-            "includeReplies": False,
+            "start": (datetime.now(timezone.utc) - timedelta(hours=48)).strftime("%Y-%m-%d_%H:%M:%S_UTC"),
+            "getReplies": False,
+            "includeNativeRetweets": False,
         }).encode("utf-8")
         request = Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
         try:
@@ -52,7 +54,7 @@ def run_actor(token, actor_id, max_posts):
             raise RuntimeError(f"Apify request for @{handle} could not be completed: {exc.reason}") from exc
         if not isinstance(data, list):
             raise RuntimeError(f"Apify returned an unexpected dataset payload for @{handle} (expected a JSON list).")
-        all_items.extend(data)
+        all_items.extend({**item, "_requestedAccount": handle} for item in data if isinstance(item, dict))
     return all_items
 
 
@@ -81,7 +83,7 @@ def media_urls(item):
 def normalize(item):
     post_id = str(value(item, "id", "tweetId", "tweet_id") or "")
     author = item.get("author") if isinstance(item.get("author"), dict) else {}
-    raw_handle = value(item, "username", "userName", "screen_name") or author.get("userName") or author.get("username")
+    raw_handle = value(item, "username", "userName", "screen_name", "_requestedAccount") or author.get("userName") or author.get("username")
     handle = str(raw_handle or "").lstrip("@")
     if not post_id.isdigit() or handle.lower() not in {name.lower() for name in BENCHMARKS}:
         return None
