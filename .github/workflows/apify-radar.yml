@@ -3,7 +3,9 @@ name: Apify benchmark radar
 on:
   push:
     branches: [main]
-    paths: ["scripts/collect_apify_benchmarks.py"]
+    paths:
+      - "scripts/collect_apify_benchmarks.py"
+      - ".github/workflows/apify-radar.yml"
   workflow_dispatch:
   schedule:
     # 08:30, 12:30, 18:30, 22:30 Asia/Shanghai (UTC+8).
@@ -31,3 +33,5 @@ jobs:
           git config user.name "when2buy-radar[bot]"
           git config user.email "when2buy-radar[bot]@users.noreply.github.com"
           git add -- data/state.json reports/latest.md
+          git diff --cached --quiet || git commit -m "chore: refresh Apify benchmark radar"
+          git push
