@@ -61,6 +61,21 @@ def value(item, *keys):
     return None
 
 
+def media_urls(item):
+    collected = []
+    media = value(item, "media", "photos", "videos") or []
+    if isinstance(media, list):
+        for entry in media:
+            if isinstance(entry, str) and entry.startswith("http"):
+                collected.append(entry)
+            elif isinstance(entry, dict):
+                for key in ("url", "mediaUrl", "media_url_https", "previewUrl"):
+                    url = entry.get(key)
+                    if isinstance(url, str) and url.startswith("http"):
+                        collected.append(url)
+    return list(dict.fromkeys(collected))
+
+
 def normalize(item):
     post_id = str(value(item, "id", "tweetId", "tweet_id") or "")
     handle = str(value(item, "username", "userName", "screen_name") or "").lstrip("@")
@@ -81,6 +96,7 @@ def normalize(item):
         "postedAt": value(item, "createdAt", "created_at", "timestamp", "time") or "",
         "text": text,
         "mediaType": "media" if value(item, "media", "photos", "videos") else "text",
+        "mediaUrls": media_urls(item),
         "source": "apify",
         "capturedAt": utc_now(),
     }
