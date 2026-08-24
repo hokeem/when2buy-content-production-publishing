@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T11:01:53.253925+00:00",
+  "updatedAt": "2026-08-24T15:10:15.703409+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -430,6 +430,48 @@
       ],
       "source": "apify",
       "capturedAt": "2026-08-24T11:01:53Z"
+    },
+    {
+      "id": "2091869545145287107",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091869545145287107",
+      "postedAt": "Mon Aug 24 12:45:39 +0000 2026",
+      "text": "JUST IN: 🇺🇸🇮🇷 President Trump says Iran is “completely collapsing.” https://t.co/zFNeSzwEfN",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQfQQzHXsAAIA8S.jpg",
+        "https://pbs.twimg.com/media/HQfQQxxWYAAyXax.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T15:10:15Z"
+    },
+    {
+      "id": "2091864671334858846",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091864671334858846",
+      "postedAt": "Mon Aug 24 12:26:17 +0000 2026",
+      "text": "JUST IN: 🇺🇸 The U.S. Treasury could use its $935,000,000,000 cash stockpile to fund expanded bond buybacks, rather than relying solely on new short-term debt issuance. https://t.co/I0zRT5ORZx",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQfLruxaIAAvpC7.jpg",
+        "https://pbs.twimg.com/media/HQfL0TwasAACYgn.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T15:10:15Z"
+    },
+    {
+      "id": "2091858062495699173",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091858062495699173",
+      "postedAt": "Mon Aug 24 12:00:01 +0000 2026",
+      "text": "JUST IN: $BTC forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/AKtrgus6h4",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQfF0eNXMAA4h-H.jpg",
+        "https://pbs.twimg.com/media/HQfF0eNXYAAcXrv.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T15:10:15Z"
     }
   ],
   "radar": [],
@@ -487,6 +529,19 @@
       "startedAt": "2026-08-24T11:01:53Z",
       "completedAt": "2026-08-24T11:01:53Z",
       "summary": "Apify scanned both benchmark accounts; captured 16 eligible originals and added 5 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260824T151015Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-08-24T15:10:15Z",
+      "completedAt": "2026-08-24T15:10:15Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 3 new post(s).",
       "reason": "",
       "collector": {
         "provider": "Apify",
