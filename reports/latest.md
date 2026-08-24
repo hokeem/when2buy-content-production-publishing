@@ -1,8 +1,8 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-08-24T07:39:19.365799+00:00`
+- 状态更新：`2026-08-24T11:01:53.253925+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**26**
+- 对标帖子快照：**31**
 - 待选选题：**0**
 - 待发布制作包：**0**
 - 已验证发布：**1**
@@ -11,6 +11,11 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Aug 24 08:21:30 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Iran’s Baghaei says Iran will use all its bilateral capabilities to confront U.S. economic sanctions​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/d8NlbsfVbC | [X](https://x.com/WhaleInsider/status/2091803071537955249) |
+| @WhaleInsider | Mon Aug 24 09:09:30 +0000 2026 | JUST IN: 🇮🇷 Iran’s rial fell to a record low of 2.027 million against the US dollar in the open market on Monday, according to the latest available exchange rates. https://t.co/zqubFxrMHw | [X](https://x.com/WhaleInsider/status/2091815151053766823) |
+| @WhaleInsider | Mon Aug 24 09:37:25 +0000 2026 | JUST IN: WhiteBIT Coin $WBT reaches new all-time high, with the price surpassing $72 - CoinGecko. https://t.co/4AJJ1bnc1R | [X](https://x.com/WhaleInsider/status/2091822177402175650) |
+| @WhaleInsider | Mon Aug 24 10:02:21 +0000 2026 | JUST IN: 🇯🇵 Japan’s Financial Services Agency (FSA) to allow stablecoin transactions over 1 million yen - Nikkei​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/N1a9gfKT47 | [X](https://x.com/WhaleInsider/status/2091828451921522865) |
+| @StockMKTNewz | Mon Aug 24 10:24:11 +0000 2026 | Xpeng $XPEV just said its robotics unit raised more than $900M at a $6.3 Billion valuation in its first funding round  “the largest single private financing in China’s embodied AI sector.” | [X](https://x.com/StockMKTNewz/status/2091833946271101177) |
 | @StockMKTNewz | Mon Aug 24 00:16:12 +0000 2026 | Rocket Lab $RKLB just posted this today   “Pre-flight testing with Hungry Hippo is underway” https://t.co/4KLDhPr1CE | [X](https://x.com/StockMKTNewz/status/2091680939873018137) |
 | @StockMKTNewz | Mon Aug 24 03:22:22 +0000 2026 | Nvidia $NVDA is reportedly in talks to invest multiple billions of dollars into Perplexity at a $30+ Billion valuation | [X](https://x.com/StockMKTNewz/status/2091727792161296758) |
 | @WhaleInsider | Mon Aug 24 06:50:07 +0000 2026 | JUST IN: Cyberleek.sns is reportedly now owned by CYBERLEEK, although the user remains “mysterious.” https://t.co/VOoy2fSW8U | [X](https://x.com/WhaleInsider/status/2091780074097741980) |
@@ -36,7 +41,6 @@
 | @WhaleInsider | Sun Apr 27 18:47:02 +0000 2025 | JUST IN: Binance founder CZ believes Satoshi Nakamoto was an AI from the future. https://t.co/1dR3LjToxn | [X](https://x.com/WhaleInsider/status/1916564763024228445) |
 | @StockMKTNewz | Sun Aug 07 22:30:00 +0000 2022 | Gross Income vs Net Income https://t.co/7fSvNyYr6M | [X](https://x.com/StockMKTNewz/status/1556407337925152771) |
 | @StockMKTNewz | Sun Aug 23 14:10:48 +0000 2026 | GET READY FOR THE STOCK MARKET TO BE OPEN AGAIN   Here is my full catalyst watch to make sure you miss nothing major from the week ⬇️  https://t.co/4Pbb59d65k | [X](https://x.com/StockMKTNewz/status/2091528587446808621) |
-| @WhaleInsider | Wed Feb 05 06:52:59 +0000 2025 | JUST IN: BlackRock buys 100,535 ETH worth $284.92 million. https://t.co/fTx2zZP6WN | [X](https://x.com/WhaleInsider/status/1887031650371997758) |
 
 ## 选题推荐
 
@@ -54,5 +58,6 @@
 
 ## 最近运行
 
+- `2026-08-24T11:01:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 5 new post(s).
 - `2026-08-24T07:39:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 16 new post(s).
 - `2026-08-24T07:33:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 10 new post(s).

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T07:39:19.365799+00:00",
+  "updatedAt": "2026-08-24T11:01:53.253925+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -364,6 +364,72 @@
       ],
       "source": "apify",
       "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091833946271101177",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2091833946271101177",
+      "postedAt": "Mon Aug 24 10:24:11 +0000 2026",
+      "text": "Xpeng $XPEV just said its robotics unit raised more than $900M at a $6.3 Billion valuation in its first funding round\n\n“the largest single private financing in China’s embodied AI sector.”",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "source": "apify",
+      "capturedAt": "2026-08-24T11:01:53Z"
+    },
+    {
+      "id": "2091828451921522865",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091828451921522865",
+      "postedAt": "Mon Aug 24 10:02:21 +0000 2026",
+      "text": "JUST IN: 🇯🇵 Japan’s Financial Services Agency (FSA) to allow stablecoin transactions over 1 million yen - Nikkei​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/N1a9gfKT47",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQeq4vCXIAEUoXS.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T11:01:53Z"
+    },
+    {
+      "id": "2091822177402175650",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091822177402175650",
+      "postedAt": "Mon Aug 24 09:37:25 +0000 2026",
+      "text": "JUST IN: WhiteBIT Coin $WBT reaches new all-time high, with the price surpassing $72 - CoinGecko. https://t.co/4AJJ1bnc1R",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQelLteW4AA3mY5.jpg",
+        "https://pbs.twimg.com/media/HQelLtbWsAARt_x.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T11:01:53Z"
+    },
+    {
+      "id": "2091815151053766823",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091815151053766823",
+      "postedAt": "Mon Aug 24 09:09:30 +0000 2026",
+      "text": "JUST IN: 🇮🇷 Iran’s rial fell to a record low of 2.027 million against the US dollar in the open market on Monday, according to the latest available exchange rates. https://t.co/zqubFxrMHw",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQeeyYLWcAAPj60.jpg",
+        "https://pbs.twimg.com/media/HQeeyYJWsAAy9fN.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T11:01:53Z"
+    },
+    {
+      "id": "2091803071537955249",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091803071537955249",
+      "postedAt": "Mon Aug 24 08:21:30 +0000 2026",
+      "text": "JUST IN: 🇮🇷🇺🇸 Iran’s Baghaei says Iran will use all its bilateral capabilities to confront U.S. economic sanctions​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/d8NlbsfVbC",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQeTzieWwAAgoMe.jpg",
+        "https://pbs.twimg.com/media/HQeTzigW0AAY41K.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T11:01:53Z"
     }
   ],
   "radar": [],
@@ -408,6 +474,19 @@
       "startedAt": "2026-08-24T07:39:19Z",
       "completedAt": "2026-08-24T07:39:19Z",
       "summary": "Apify scanned both benchmark accounts; captured 16 eligible originals and added 16 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260824T110153Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-08-24T11:01:53Z",
+      "completedAt": "2026-08-24T11:01:53Z",
+      "summary": "Apify scanned both benchmark accounts; captured 16 eligible originals and added 5 new post(s).",
       "reason": "",
       "collector": {
         "provider": "Apify",
