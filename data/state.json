@@ -1,12 +1,157 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T00:00:00+08:00",
-  "account": {"handle": "_When2buy", "timezone": "Asia/Shanghai"},
+  "updatedAt": "2026-08-24T07:33:59.611429+00:00",
+  "account": {
+    "handle": "_When2buy",
+    "timezone": "Asia/Shanghai"
+  },
   "benchmarks": [
-    {"handle": "WhaleInsider", "role": "breaking-market-discovery", "active": true},
-    {"handle": "StockMKTNewz", "role": "breaking-market-discovery", "active": true}
+    {
+      "handle": "WhaleInsider",
+      "role": "breaking-market-discovery",
+      "active": true
+    },
+    {
+      "handle": "StockMKTNewz",
+      "role": "breaking-market-discovery",
+      "active": true
+    }
   ],
-  "benchmarkPosts": [],
+  "benchmarkPosts": [
+    {
+      "id": "1887031650371997758",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/1887031650371997758",
+      "postedAt": "Wed Feb 05 06:52:59 +0000 2025",
+      "text": "JUST IN: BlackRock buys 100,535 ETH worth $284.92 million. https://t.co/fTx2zZP6WN",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/GjAVR9BXsAAKR66.jpg",
+        "https://pbs.twimg.com/media/GjAVR87XYAA_MAS.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "2091528587446808621",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2091528587446808621",
+      "postedAt": "Sun Aug 23 14:10:48 +0000 2026",
+      "text": "GET READY FOR THE STOCK MARKET TO BE OPEN AGAIN \n\nHere is my full catalyst watch to make sure you miss nothing major from the week ⬇️\n\nhttps://t.co/4Pbb59d65k",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "1556407337925152771",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/1556407337925152771",
+      "postedAt": "Sun Aug 07 22:30:00 +0000 2022",
+      "text": "Gross Income vs Net Income https://t.co/7fSvNyYr6M",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/ext_tw_video_thumb/1535450305227374595/pu/img/ydismLk6zUTD7xql.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "1916564763024228445",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/1916564763024228445",
+      "postedAt": "Sun Apr 27 18:47:02 +0000 2025",
+      "text": "JUST IN: Binance founder CZ believes Satoshi Nakamoto was an AI from the future. https://t.co/1dR3LjToxn",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/GpkBfXNWUAAbrEq.jpg",
+        "https://pbs.twimg.com/media/GpkBfXSXUAAiuCD.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "1976967763043430626",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/1976967763043430626",
+      "postedAt": "Sat Oct 11 11:06:59 +0000 2025",
+      "text": "JUST IN: 🇺🇦 Crypto investor and influencer Konstantin Galish found dead in Lamborghini amid historic market crash. https://t.co/up18I09SJ8",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/G2-Zs1uW4AAOgQQ.jpg",
+        "https://pbs.twimg.com/media/G2-Zs1vXQAAJjqw.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "1924527284154736782",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/1924527284154736782",
+      "postedAt": "Mon May 19 18:07:15 +0000 2025",
+      "text": "People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/DZC2HXI7jT",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/GrVLXY7XYAAB0CM.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "1665526991850811394",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/1665526991850811394",
+      "postedAt": "Mon Jun 05 01:12:33 +0000 2023",
+      "text": "People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/mFhTAMg25Q",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/Fx0j3o4XoAUncb9.png"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "1684961178399735809",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/1684961178399735809",
+      "postedAt": "Fri Jul 28 16:17:04 +0000 2023",
+      "text": "People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/iuRS8tZ0El",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/F2IvBFGWwAAtD1C.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "1885369796503445614",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/1885369796503445614",
+      "postedAt": "Fri Jan 31 16:49:22 +0000 2025",
+      "text": "NEW: BlackRock buys 24,529 Ethereum worth $83.24M. https://t.co/kD8yIIwJzY",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/Giot1QoWgAAk7C1.jpg",
+        "https://pbs.twimg.com/media/Giot1QoXIAABcJa.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "2090881346709143938",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2090881346709143938",
+      "postedAt": "Fri Aug 21 19:18:54 +0000 2026",
+      "text": "JUST IN: Jim Cramer says \"buy Bitcoin.\" https://t.co/MglL6Twzja",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQRNf0-WUAAJtNP.jpg",
+        "https://pbs.twimg.com/media/HQRNf0_XIAAu3Hm.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:33:59Z"
+    }
+  ],
   "radar": [],
   "packages": [],
   "posts": [
@@ -21,10 +166,26 @@
       "imagePath": "",
       "status": "published",
       "sources": [],
-      "verificationNotes": ["Imported from a previously verified public status URL; refresh facts and metrics before analysis."]
+      "verificationNotes": [
+        "Imported from a previously verified public status URL; refresh facts and metrics before analysis."
+      ]
     }
   ],
   "metricSnapshots": [],
   "experiments": [],
-  "runs": []
+  "runs": [
+    {
+      "id": "run-20260824T073359Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-08-24T07:33:59Z",
+      "completedAt": "2026-08-24T07:33:59Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 10 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "dami_studio/tweet-scraper"
+      }
+    }
+  ]
 }
