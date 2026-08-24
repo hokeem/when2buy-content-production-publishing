@@ -88,7 +88,7 @@ def normalize(item):
 
 def main():
     parser = argparse.ArgumentParser(description="Collect when2buy benchmarks from Apify.")
-    parser.add_argument("--max-posts", type=int, default=30, choices=range(1, 101), metavar="1..100")
+    parser.add_argument("--max-posts", type=int, default=5, choices=range(1, 101), metavar="1..100")
     parser.add_argument("--input-json", type=Path, help="Use a saved Apify dataset JSON file instead of the network (test only).")
     parser.add_argument("--dry-run", action="store_true", help="Print eligible normalized posts without changing state.")
     args = parser.parse_args()
