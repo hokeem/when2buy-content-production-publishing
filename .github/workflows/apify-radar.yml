@@ -1,6 +1,9 @@
 name: Apify benchmark radar
 
 on:
+  push:
+    branches: [main]
+    paths: ["scripts/collect_apify_benchmarks.py"]
   workflow_dispatch:
   schedule:
     # 08:30, 12:30, 18:30, 22:30 Asia/Shanghai (UTC+8).
