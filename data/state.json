@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T07:33:59.611429+00:00",
+  "updatedAt": "2026-08-24T07:39:19.365799+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -150,6 +150,220 @@
       ],
       "source": "apify",
       "capturedAt": "2026-08-24T07:33:59Z"
+    },
+    {
+      "id": "2091676107770855428",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2091676107770855428",
+      "postedAt": "Sun Aug 23 23:57:00 +0000 2026",
+      "text": "Amazon's $AMZN newest self-driving cars without a steering wheel, dashboard or pedals have started hitting the streets in San Francisco and charging for rides in Las Vegas\n\nThey can drive in either direction and hold up to four passengers who sit facing each other. Windows stretch across much of the sides - WSJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQcdWuqWQAEGN2v.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091672349951041665",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2091672349951041665",
+      "postedAt": "Sun Aug 23 23:42:04 +0000 2026",
+      "text": "Here is the macro calendar for the week - TradingEconomics\n\n(There's more events to watch out for this week on my catalyt watch below) https://t.co/tBoA7ZqN0Y",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQcc4vWXAAAsaA4.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091668303856972079",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2091668303856972079",
+      "postedAt": "Sun Aug 23 23:25:59 +0000 2026",
+      "text": "Stock futures are back … we’re getting closer to the market being open again 👀 https://t.co/OWPpokXsKh",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQcZPLfXgAAdeOJ.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091647876489244890",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2091647876489244890",
+      "postedAt": "Sun Aug 23 22:04:49 +0000 2026",
+      "text": "This is what it looks like when you go from a large company to the largest company in the world https://t.co/H663MAHrTl",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQcElwwXIAAU7j5.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091606856506450211",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091606856506450211",
+      "postedAt": "Sun Aug 23 19:21:49 +0000 2026",
+      "text": "JUST IN: Hugging Face has been fielding acquisition interest at a valuation of at least $13 billion - Business Insider. https://t.co/rRAR6Hr89B",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQbhWRxXsAAct90.jpg",
+        "https://pbs.twimg.com/media/HQbhWR7WQAAeCd9.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091594517518438881",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091594517518438881",
+      "postedAt": "Sun Aug 23 18:32:47 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Odds of a Fed rate cute before 2027 fall below 13%, per Kalshi traders. https://t.co/7DA1r3mkxv",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQbWIF1W0AE_gZ5.jpg",
+        "https://pbs.twimg.com/media/HQbWIFvX0AAft03.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091586545551622455",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091586545551622455",
+      "postedAt": "Sun Aug 23 18:01:06 +0000 2026",
+      "text": "JUST IN: Crypto card spending hits $1B in July 2026, with stablecoins powering 70%+ of everyday buys​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/CTi14kBOUF",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQbO4GuWsAAmFQi.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091574918462714193",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091574918462714193",
+      "postedAt": "Sun Aug 23 17:14:54 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. spot $BTC ETFs saw $1.92 billion in net inflows this week, highest since October 2025. https://t.co/j4KunuTHkr",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQbETRFWkAIdQPt.jpg",
+        "https://pbs.twimg.com/media/HQbETRJWMAA_UqE.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091567098292027502",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091567098292027502",
+      "postedAt": "Sun Aug 23 16:43:50 +0000 2026",
+      "text": "JUST IN: $XRP enabled for FedNow Payments via Volante's Ripple Integration. https://t.co/okclWQQL3v",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQa9MK3XIAAOqna.jpg",
+        "https://pbs.twimg.com/media/HQa9MKaWkAAVd_o.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091542933866480038",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091542933866480038",
+      "postedAt": "Sun Aug 23 15:07:49 +0000 2026",
+      "text": "JUST IN: Coldcard hardware wallet flaw caused 1,816 $BTC worth $116,000,000 to be stolen, raising self-custody risks. https://t.co/g11lc3BbZr",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQanNi4XIAE1Ukg.jpg",
+        "https://pbs.twimg.com/media/HQanNi6XsAErQkv.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091475771814547622",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091475771814547622",
+      "postedAt": "Sun Aug 23 10:40:56 +0000 2026",
+      "text": "JUST IN: $ETH forecasted to hit a high of $2.66K this month, per Kalshi traders. https://t.co/sFAk6SgQ4F",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQZqIH5XYAAyGAI.jpg",
+        "https://pbs.twimg.com/media/HQZqIH4XIAAWaqp.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091460538219770100",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091460538219770100",
+      "postedAt": "Sun Aug 23 09:40:24 +0000 2026",
+      "text": "JUST IN: 🇮🇷🇺🇸 Iran will hit U.S. economic interests if sanctioned - national security chief. https://t.co/g62558gwhP",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQZcRaOXcAA2vTv.jpg",
+        "https://pbs.twimg.com/media/HQZcRaQWcAAQCxz.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091782282667257978",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091782282667257978",
+      "postedAt": "Mon Aug 24 06:58:54 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. crude inventories have fallen to just 41 days of supply, the tightest buffer seen in 50 years. https://t.co/DBhISsG30f",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQeA5eAXgAA8XMh.jpg",
+        "https://pbs.twimg.com/media/HQeA5d_WAAAODAy.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091780074097741980",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2091780074097741980",
+      "postedAt": "Mon Aug 24 06:50:07 +0000 2026",
+      "text": "JUST IN: Cyberleek.sns is reportedly now owned by CYBERLEEK, although the user remains “mysterious.” https://t.co/VOoy2fSW8U",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HQd-46XXoAAUB-G.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091727792161296758",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2091727792161296758",
+      "postedAt": "Mon Aug 24 03:22:22 +0000 2026",
+      "text": "Nvidia $NVDA is reportedly in talks to invest multiple billions of dollars into Perplexity at a $30+ Billion valuation",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
+    },
+    {
+      "id": "2091680939873018137",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2091680939873018137",
+      "postedAt": "Mon Aug 24 00:16:12 +0000 2026",
+      "text": "Rocket Lab $RKLB just posted this today \n\n“Pre-flight testing with Hungry Hippo is underway” https://t.co/4KLDhPr1CE",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2091621059674181632/img/hFcWswc68_7Nbeps.jpg"
+      ],
+      "source": "apify",
+      "capturedAt": "2026-08-24T07:39:19Z"
     }
   ],
   "radar": [],
@@ -185,6 +399,19 @@
       "collector": {
         "provider": "Apify",
         "actor": "dami_studio/tweet-scraper"
+      }
+    },
+    {
+      "id": "run-20260824T073919Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-08-24T07:39:19Z",
+      "completedAt": "2026-08-24T07:39:19Z",
+      "summary": "Apify scanned both benchmark accounts; captured 16 eligible originals and added 16 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
       }
     }
   ]
