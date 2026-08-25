@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-08-25T10:59:01.034530+00:00`
+- 状态更新：`2026-08-25T15:14:55.607775+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**34**
 - 待选选题：**0**
@@ -58,6 +58,7 @@
 
 ## 最近运行
 
+- `2026-08-25T15:14:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-25T10:59:01Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-25T05:04:40Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-25T01:59:10Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
