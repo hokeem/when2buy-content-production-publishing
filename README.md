@@ -4,7 +4,7 @@
 
 ## 最核心的运行逻辑
 
-这不是一个自由发散的财经选题器。Agent 每天在北京时间 `08:30`、`12:30`、`18:30`、`22:30` 必须首先扫描：
+这不是一个自由发散的财经选题器。Agent 每天在北京时间 `08:30`、`14:30`、`20:30` 必须首先扫描：
 
 - `https://x.com/WhaleInsider`
 - `https://x.com/StockMKTNewz`
@@ -12,6 +12,8 @@
 它会收集两个账号自上次运行以来的全部合格原创帖，选出最强的尚未覆盖选题，然后让 when2buy 发同一个事件、同一组关键事实和数字、同一时效窗口的内容。文案和画面必须重新创作，不复制对标账号的独特句子或图片。
 
 上游新闻、SEC 文件和公司公告只用于验证事实，不能代替这两个对标账号进行选题。
+
+自动闭环：**Apify 采集 → 原文、链接、互动数据写入状态库 → 原图下载为 GitHub Actions Artifact（保留 30 天） → 生成 `data/production-queue.json` 与 `radar` 优先队列 → Codex 根据其中一对一来源完成核验、when2buy 改写和原创视觉。** 自动任务绝不触碰 X 发布按钮。
 
 ## 交付内容
 
@@ -44,7 +46,7 @@ python3 scripts/collect_apify_benchmarks.py
 python3 scripts/render_report.py
 ```
 
-GitHub Actions 的 `Apify benchmark radar` 在北京时间 08:30、12:30、18:30、22:30 运行。启用前，在仓库 Actions secrets 中设置 `APIFY_TOKEN`；也可先通过 `workflow_dispatch` 手动验证一轮。采集只发现和持久化对标帖，绝不发布 X 内容。
+GitHub Actions 的 `Apify benchmark radar` 在北京时间 08:30、14:30、20:30 运行。启用前，在仓库 Actions secrets 中设置 `APIFY_TOKEN`；也可先通过 `workflow_dispatch` 手动验证一轮。每一轮会自动保留原帖文字、X 链接、可见互动数据和原图归档；不需要人工点击。采集与生产准备绝不发布 X 内容。
 
 ## 凭据
 

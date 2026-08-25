@@ -1,0 +1,162 @@
+{
+  "generatedAt": "2026-08-25T04:42:08Z",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "rank": 1,
+      "benchmarkPostId": "2091833946271101177",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2091833946271101177",
+      "originalText": "Xpeng $XPEV just said its robotics unit raised more than $900M at a $6.3 Billion valuation in its first funding round\n\n“the largest single private financing in China’s embodied AI sector.”",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {},
+      "postedAt": "Mon Aug 24 10:24:11 +0000 2026",
+      "score": 22,
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 5,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2091606856506450211",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2091606856506450211",
+      "originalText": "JUST IN: Hugging Face has been fielding acquisition interest at a valuation of at least $13 billion - Business Insider. https://t.co/rRAR6Hr89B",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HQbhWRxXsAAct90.jpg",
+        "https://pbs.twimg.com/media/HQbhWR7WQAAeCd9.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbhWRxXsAAct90.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091606856506450211-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbhWR7WQAAeCd9.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091606856506450211-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {},
+      "postedAt": "Sun Aug 23 19:21:49 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2091594517518438881",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2091594517518438881",
+      "originalText": "JUST IN: 🇺🇸 Odds of a Fed rate cute before 2027 fall below 13%, per Kalshi traders. https://t.co/7DA1r3mkxv",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HQbWIF1W0AE_gZ5.jpg",
+        "https://pbs.twimg.com/media/HQbWIFvX0AAft03.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbWIF1W0AE_gZ5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091594517518438881-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbWIFvX0AAft03.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091594517518438881-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {},
+      "postedAt": "Sun Aug 23 18:32:47 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 4,
+      "benchmarkPostId": "2091864671334858846",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2091864671334858846",
+      "originalText": "JUST IN: 🇺🇸 The U.S. Treasury could use its $935,000,000,000 cash stockpile to fund expanded bond buybacks, rather than relying solely on new short-term debt issuance. https://t.co/I0zRT5ORZx",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HQfLruxaIAAvpC7.jpg",
+        "https://pbs.twimg.com/media/HQfL0TwasAACYgn.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQfLruxaIAAvpC7.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091864671334858846-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQfL0TwasAACYgn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091864671334858846-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {},
+      "postedAt": "Mon Aug 24 12:26:17 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 5,
+      "benchmarkPostId": "2091815151053766823",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2091815151053766823",
+      "originalText": "JUST IN: 🇮🇷 Iran’s rial fell to a record low of 2.027 million against the US dollar in the open market on Monday, according to the latest available exchange rates. https://t.co/zqubFxrMHw",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HQeeyYLWcAAPj60.jpg",
+        "https://pbs.twimg.com/media/HQeeyYJWsAAy9fN.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeeyYLWcAAPj60.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091815151053766823-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeeyYJWsAAy9fN.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091815151053766823-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {},
+      "postedAt": "Mon Aug 24 09:09:30 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    }
+  ]
+}

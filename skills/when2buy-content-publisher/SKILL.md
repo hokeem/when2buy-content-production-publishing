@@ -1,6 +1,6 @@
 ---
 name: when2buy-content-publisher
-description: "Run the benchmark-first when2buy U.S.-market X workflow end to end. At four fixed daily windows, inspect every new original post from @WhaleInsider and @StockMKTNewz, select the strongest same-topic opportunities, verify the underlying facts, create independently worded when2buy English posts and branded images, prepare browser publishing, collect metrics, and produce an agent-readable report. Use for daily when2buy competitor monitoring, mirrored-topic production, X publishing, scheduled runs, performance reviews, or migration to another Codex agent."
+description: "Run the benchmark-first when2buy U.S.-market X workflow end to end. At three fixed daily windows, inspect every new original post from @WhaleInsider and @StockMKTNewz, select the strongest same-topic opportunities, verify the underlying facts, create independently worded when2buy English posts and branded images, prepare browser publishing, collect metrics, and produce an agent-readable report. Use for daily when2buy competitor monitoring, mirrored-topic production, X publishing, scheduled runs, performance reviews, or migration to another Codex agent."
 ---
 
 # when2buy Content Publisher
@@ -20,7 +20,7 @@ Run a **benchmark-first mirror desk**, not a general finance idea generator.
 5. Do not copy the benchmark's distinctive sentences, jokes, commentary, or artwork. `Same content` means the same verified topic and factual payload expressed in original when2buy wording and visuals.
 6. Store the benchmark status URL and mapping before producing. A package without a `benchmarkPostId`, benchmark URL, and mirrored-facts list is invalid.
 
-Scheduled scans use Asia/Shanghai time at **08:30, 12:30, 18:30, and 22:30**. Read [scheduled-task.md](references/scheduled-task.md) for the exact behavior at each window.
+Scheduled scans use Asia/Shanghai time at **08:30, 14:30, and 20:30**. Read [scheduled-task.md](references/scheduled-task.md) for the exact behavior at each window.
 
 ## Select the run mode
 

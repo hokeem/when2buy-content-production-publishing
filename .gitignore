@@ -9,3 +9,4 @@ __pycache__/
 browser-profile/
 cookies*.txt
 secrets/
+output/

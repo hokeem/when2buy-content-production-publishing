@@ -80,6 +80,30 @@ def media_urls(item):
     return list(dict.fromkeys(collected))
 
 
+
+def number(value):
+    if isinstance(value, bool) or value is None:
+        return 0
+    if isinstance(value, (int, float)):
+        return int(value)
+    if isinstance(value, str):
+        try:
+            return int(float(value.replace(",", "").strip()))
+        except ValueError:
+            return 0
+    return 0
+
+
+def engagement(item):
+    nested = item.get("engagement") if isinstance(item.get("engagement"), dict) else {}
+    return {
+        "likes": number(value(item, "likeCount", "likes", "favorite_count") or nested.get("likes")),
+        "replies": number(value(item, "replyCount", "replies", "reply_count") or nested.get("replies")),
+        "reposts": number(value(item, "retweetCount", "retweets", "reposts", "retweet_count") or nested.get("reposts")),
+        "quotes": number(value(item, "quoteCount", "quotes", "quote_count") or nested.get("quotes")),
+        "views": number(value(item, "viewCount", "views", "view_count") or nested.get("views")),
+    }
+
 def normalize(item):
     post_id = str(value(item, "id", "tweetId", "tweet_id") or "")
     author = item.get("author") if isinstance(item.get("author"), dict) else {}
@@ -103,6 +127,7 @@ def normalize(item):
         "text": text,
         "mediaType": "media" if value(item, "media", "photos", "videos") else "text",
         "mediaUrls": media_urls(item),
+        "engagement": engagement(item),
         "source": "apify",
         "capturedAt": utc_now(),
     }
