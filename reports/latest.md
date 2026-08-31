@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-08-31T08:15:04.785373+00:00`
+- 状态更新：`2026-08-31T08:15:22.429543+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**35**
 - 待选选题：**0**
@@ -51,7 +51,7 @@
 ### Apple CEO transition: Ternus in, Cook to chair
 
 - 状态：`published`
-- 配图：`output/production/2026-08-31-aapl/when2buy-aapl-transition.png`
+- 配图：`deliverables/2026-08-31-aapl-leadership/when2buy-aapl-transition.png`
 
 Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept. 1. Tim Cook becomes executive chairman after 15 years in the top job.  This isn’t a product-cycle headline. It’s a leadership handoff at a $4T company heading into its next AI chapter.
 

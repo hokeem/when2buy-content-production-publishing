@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T08:15:04.785373+00:00",
+  "updatedAt": "2026-08-31T08:15:22.429543+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -508,7 +508,7 @@
         "https://www.apple.com/nz/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
       ],
       "postText": "Apple’s CEO transition lands tomorrow.\n\nJohn Ternus takes over as CEO on Sept. 1. Tim Cook becomes executive chairman after 15 years in the top job.\n\nThis isn’t a product-cycle headline. It’s a leadership handoff at a $4T company heading into its next AI chapter.",
-      "imagePath": "output/production/2026-08-31-aapl/when2buy-aapl-transition.png",
+      "imagePath": "deliverables/2026-08-31-aapl-leadership/when2buy-aapl-transition.png",
       "postizPostId": "cmtgy4ykx048it00ymre96w9m",
       "publishedAt": "2026-08-31T07:58:00.000Z",
       "createdAt": "2026-08-31T08:15:04Z"
