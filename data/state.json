@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T14:54:54.237877+00:00",
+  "updatedAt": "2026-08-31T05:54:07.265422+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -749,6 +749,19 @@
       "status": "blocked",
       "startedAt": "2026-08-30T14:54:54Z",
       "completedAt": "2026-08-30T14:54:54Z",
+      "summary": "Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s).",
+      "reason": "Apify returned no eligible original posts from either benchmark account.",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260831T055407Z-radar",
+      "mode": "radar",
+      "status": "blocked",
+      "startedAt": "2026-08-31T05:54:07Z",
+      "completedAt": "2026-08-31T05:54:07Z",
       "summary": "Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s).",
       "reason": "Apify returned no eligible original posts from either benchmark account.",
       "collector": {
