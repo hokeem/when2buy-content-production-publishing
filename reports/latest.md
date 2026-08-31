@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-08-31T05:54:07.265422+00:00`
+- 状态更新：`2026-08-31T08:15:04.785373+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**34**
+- 对标帖子快照：**35**
 - 待选选题：**0**
 - 待发布制作包：**0**
-- 已验证发布：**1**
+- 已验证发布：**2**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sun Aug 30 23:36:15 +0000 2026 | Tim Cook will remain fully involved at Apple $AAPL as he moves into the role of chairman of Apple's board of directors | [X](https://x.com/StockMKTNewz/status/2094207602661966183) |
 | @WhaleInsider | Mon Aug 24 12:00:01 +0000 2026 | JUST IN: $BTC forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/AKtrgus6h4 | [X](https://x.com/WhaleInsider/status/2091858062495699173) |
 | @WhaleInsider | Mon Aug 24 12:26:17 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury could use its $935,000,000,000 cash stockpile to fund expanded bond buybacks, rather than relying solely on new short-term debt issuance. https://t.co/I0zRT5ORZx | [X](https://x.com/WhaleInsider/status/2091864671334858846) |
 | @WhaleInsider | Mon Aug 24 12:45:39 +0000 2026 | JUST IN: 🇺🇸🇮🇷 President Trump says Iran is “completely collapsing.” https://t.co/zFNeSzwEfN | [X](https://x.com/WhaleInsider/status/2091869545145287107) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Jul 28 16:17:04 +0000 2023 | People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/iuRS8tZ0El | [X](https://x.com/StockMKTNewz/status/1684961178399735809) |
 | @StockMKTNewz | Mon Jun 05 01:12:33 +0000 2023 | People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/mFhTAMg25Q | [X](https://x.com/StockMKTNewz/status/1665526991850811394) |
 | @StockMKTNewz | Mon May 19 18:07:15 +0000 2025 | People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/DZC2HXI7jT | [X](https://x.com/StockMKTNewz/status/1924527284154736782) |
-| @WhaleInsider | Sat Oct 11 11:06:59 +0000 2025 | JUST IN: 🇺🇦 Crypto investor and influencer Konstantin Galish found dead in Lamborghini amid historic market crash. https://t.co/up18I09SJ8 | [X](https://x.com/WhaleInsider/status/1976967763043430626) |
 
 ## 选题推荐
 
@@ -48,16 +48,24 @@
 
 ## 制作队列
 
-尚无制作包。
+### Apple CEO transition: Ternus in, Cook to chair
+
+- 状态：`published`
+- 配图：`output/production/2026-08-31-aapl/when2buy-aapl-transition.png`
+
+Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept. 1. Tim Cook becomes executive chairman after 15 years in the top job.  This isn’t a product-cycle headline. It’s a leadership handoff at a $4T company heading into its next AI chapter.
+
 
 ## 已发内容（按最新浏览量排序）
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2084535905050829005) |
+| Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2094334035149607267) |
 
 ## 最近运行
 
+- `2026-08-31T08:15:04Z` **full / succeeded** — Apify benchmark source, primary-source verification, original visual, Postiz publication, and public X URL verification completed.
 - `2026-08-31T05:54:07Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-30T14:54:54Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-30T05:39:12Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
@@ -77,4 +85,3 @@
 - `2026-08-25T01:59:10Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-24T15:10:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 3 new post(s).
 - `2026-08-24T11:01:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 5 new post(s).
-- `2026-08-24T07:39:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 16 new post(s).

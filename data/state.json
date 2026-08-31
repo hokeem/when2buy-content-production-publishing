@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T05:54:07.265422+00:00",
+  "updatedAt": "2026-08-31T08:15:04.785373+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -472,10 +472,48 @@
       ],
       "source": "apify",
       "capturedAt": "2026-08-24T15:10:15Z"
+    },
+    {
+      "id": "2094207602661966183",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094207602661966183",
+      "postedAt": "Sun Aug 30 23:36:15 +0000 2026",
+      "text": "Tim Cook will remain fully involved at Apple $AAPL as he moves into the role of chairman of Apple's board of directors",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 133,
+        "replies": 17,
+        "reposts": 11,
+        "quotes": 0,
+        "views": 43680
+      },
+      "source": "apify",
+      "capturedAt": "2026-08-31T08:15:04Z"
     }
   ],
   "radar": [],
-  "packages": [],
+  "packages": [
+    {
+      "id": "pkg-aapl-leadership-20260831",
+      "status": "published",
+      "title": "Apple CEO transition: Ternus in, Cook to chair",
+      "benchmarkPostId": "2094207602661966183",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2094207602661966183",
+      "mirroredFacts": [
+        "John Ternus becomes Apple CEO on September 1, 2026.",
+        "Tim Cook becomes Apple executive chairman on September 1, 2026."
+      ],
+      "verificationSources": [
+        "https://www.apple.com/nz/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+      ],
+      "postText": "Apple’s CEO transition lands tomorrow.\n\nJohn Ternus takes over as CEO on Sept. 1. Tim Cook becomes executive chairman after 15 years in the top job.\n\nThis isn’t a product-cycle headline. It’s a leadership handoff at a $4T company heading into its next AI chapter.",
+      "imagePath": "output/production/2026-08-31-aapl/when2buy-aapl-transition.png",
+      "postizPostId": "cmtgy4ykx048it00ymre96w9m",
+      "publishedAt": "2026-08-31T07:58:00.000Z",
+      "createdAt": "2026-08-31T08:15:04Z"
+    }
+  ],
   "posts": [
     {
       "id": "2084535905050829005",
@@ -491,6 +529,15 @@
       "verificationNotes": [
         "Imported from a previously verified public status URL; refresh facts and metrics before analysis."
       ]
+    },
+    {
+      "id": "2094334035149607267",
+      "packageId": "pkg-aapl-leadership-20260831",
+      "title": "Apple CEO transition: Ternus in, Cook to chair",
+      "status": "published",
+      "publishedAt": "2026-08-31T07:58:00.000Z",
+      "url": "https://x.com/_When2buy/status/2094334035149607267",
+      "postizPostId": "cmtgy4ykx048it00ymre96w9m"
     }
   ],
   "metricSnapshots": [],
@@ -768,6 +815,15 @@
         "provider": "Apify",
         "actor": "apidojo/twitter-profile-scraper"
       }
+    },
+    {
+      "id": "run-20260831T081504Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-08-31T08:15:04Z",
+      "completedAt": "2026-08-31T08:15:04Z",
+      "summary": "Apify benchmark source, primary-source verification, original visual, Postiz publication, and public X URL verification completed.",
+      "reason": ""
     }
   ]
 }
