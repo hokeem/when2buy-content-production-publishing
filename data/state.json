@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T08:15:22.429543+00:00",
+  "updatedAt": "2026-08-31T08:24:13.163221+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -30,7 +30,19 @@
         "https://pbs.twimg.com/media/GjAVR87XYAA_MAS.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/GjAVR9BXsAAKR66.jpg",
+          "path": "output/benchmark-media/WhaleInsider/1887031650371997758-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/GjAVR87XYAA_MAS.jpg",
+          "path": "output/benchmark-media/WhaleInsider/1887031650371997758-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091528587446808621",
@@ -41,7 +53,8 @@
       "mediaType": "text",
       "mediaUrls": [],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": []
     },
     {
       "id": "1556407337925152771",
@@ -54,7 +67,14 @@
         "https://pbs.twimg.com/ext_tw_video_thumb/1535450305227374595/pu/img/ydismLk6zUTD7xql.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1535450305227374595/pu/img/ydismLk6zUTD7xql.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/1556407337925152771-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "1916564763024228445",
@@ -68,7 +88,19 @@
         "https://pbs.twimg.com/media/GpkBfXSXUAAiuCD.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/GpkBfXNWUAAbrEq.jpg",
+          "path": "output/benchmark-media/WhaleInsider/1916564763024228445-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/GpkBfXSXUAAiuCD.jpg",
+          "path": "output/benchmark-media/WhaleInsider/1916564763024228445-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "1976967763043430626",
@@ -82,7 +114,19 @@
         "https://pbs.twimg.com/media/G2-Zs1vXQAAJjqw.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/G2-Zs1uW4AAOgQQ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/1976967763043430626-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/G2-Zs1vXQAAJjqw.jpg",
+          "path": "output/benchmark-media/WhaleInsider/1976967763043430626-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "1924527284154736782",
@@ -95,7 +139,14 @@
         "https://pbs.twimg.com/media/GrVLXY7XYAAB0CM.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/GrVLXY7XYAAB0CM.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/1924527284154736782-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "1665526991850811394",
@@ -108,7 +159,14 @@
         "https://pbs.twimg.com/media/Fx0j3o4XoAUncb9.png"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/Fx0j3o4XoAUncb9.png",
+          "path": "output/benchmark-media/StockMKTNewz/1665526991850811394-1.png",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "1684961178399735809",
@@ -121,7 +179,14 @@
         "https://pbs.twimg.com/media/F2IvBFGWwAAtD1C.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/F2IvBFGWwAAtD1C.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/1684961178399735809-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "1885369796503445614",
@@ -135,7 +200,19 @@
         "https://pbs.twimg.com/media/Giot1QoXIAABcJa.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/Giot1QoWgAAk7C1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/1885369796503445614-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/Giot1QoXIAABcJa.jpg",
+          "path": "output/benchmark-media/WhaleInsider/1885369796503445614-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2090881346709143938",
@@ -149,7 +226,19 @@
         "https://pbs.twimg.com/media/HQRNf0_XIAAu3Hm.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:33:59Z"
+      "capturedAt": "2026-08-24T07:33:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQRNf0-WUAAJtNP.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2090881346709143938-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQRNf0_XIAAu3Hm.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2090881346709143938-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091676107770855428",
@@ -162,7 +251,14 @@
         "https://pbs.twimg.com/media/HQcdWuqWQAEGN2v.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQcdWuqWQAEGN2v.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2091676107770855428-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091672349951041665",
@@ -175,7 +271,14 @@
         "https://pbs.twimg.com/media/HQcc4vWXAAAsaA4.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQcc4vWXAAAsaA4.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2091672349951041665-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091668303856972079",
@@ -188,7 +291,14 @@
         "https://pbs.twimg.com/media/HQcZPLfXgAAdeOJ.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQcZPLfXgAAdeOJ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2091668303856972079-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091647876489244890",
@@ -201,7 +311,14 @@
         "https://pbs.twimg.com/media/HQcElwwXIAAU7j5.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQcElwwXIAAU7j5.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2091647876489244890-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091606856506450211",
@@ -215,7 +332,19 @@
         "https://pbs.twimg.com/media/HQbhWR7WQAAeCd9.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbhWRxXsAAct90.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091606856506450211-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbhWR7WQAAeCd9.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091606856506450211-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091594517518438881",
@@ -229,7 +358,19 @@
         "https://pbs.twimg.com/media/HQbWIFvX0AAft03.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbWIF1W0AE_gZ5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091594517518438881-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbWIFvX0AAft03.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091594517518438881-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091586545551622455",
@@ -242,7 +383,14 @@
         "https://pbs.twimg.com/media/HQbO4GuWsAAmFQi.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbO4GuWsAAmFQi.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091586545551622455-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091574918462714193",
@@ -256,7 +404,19 @@
         "https://pbs.twimg.com/media/HQbETRJWMAA_UqE.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbETRFWkAIdQPt.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091574918462714193-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQbETRJWMAA_UqE.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091574918462714193-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091567098292027502",
@@ -270,7 +430,19 @@
         "https://pbs.twimg.com/media/HQa9MKaWkAAVd_o.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQa9MK3XIAAOqna.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091567098292027502-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQa9MKaWkAAVd_o.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091567098292027502-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091542933866480038",
@@ -284,7 +456,19 @@
         "https://pbs.twimg.com/media/HQanNi6XsAErQkv.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQanNi4XIAE1Ukg.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091542933866480038-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQanNi6XsAErQkv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091542933866480038-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091475771814547622",
@@ -298,7 +482,19 @@
         "https://pbs.twimg.com/media/HQZqIH4XIAAWaqp.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQZqIH5XYAAyGAI.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091475771814547622-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQZqIH4XIAAWaqp.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091475771814547622-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091460538219770100",
@@ -312,7 +508,19 @@
         "https://pbs.twimg.com/media/HQZcRaQWcAAQCxz.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQZcRaOXcAA2vTv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091460538219770100-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQZcRaQWcAAQCxz.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091460538219770100-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091782282667257978",
@@ -326,7 +534,19 @@
         "https://pbs.twimg.com/media/HQeA5d_WAAAODAy.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeA5eAXgAA8XMh.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091782282667257978-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeA5d_WAAAODAy.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091782282667257978-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091780074097741980",
@@ -339,7 +559,14 @@
         "https://pbs.twimg.com/media/HQd-46XXoAAUB-G.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQd-46XXoAAUB-G.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091780074097741980-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091727792161296758",
@@ -350,7 +577,8 @@
       "mediaType": "text",
       "mediaUrls": [],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": []
     },
     {
       "id": "2091680939873018137",
@@ -363,7 +591,14 @@
         "https://pbs.twimg.com/amplify_video_thumb/2091621059674181632/img/hFcWswc68_7Nbeps.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T07:39:19Z"
+      "capturedAt": "2026-08-24T07:39:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2091621059674181632/img/hFcWswc68_7Nbeps.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2091680939873018137-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091833946271101177",
@@ -374,7 +609,8 @@
       "mediaType": "text",
       "mediaUrls": [],
       "source": "apify",
-      "capturedAt": "2026-08-24T11:01:53Z"
+      "capturedAt": "2026-08-24T11:01:53Z",
+      "mediaArchive": []
     },
     {
       "id": "2091828451921522865",
@@ -387,7 +623,14 @@
         "https://pbs.twimg.com/media/HQeq4vCXIAEUoXS.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T11:01:53Z"
+      "capturedAt": "2026-08-24T11:01:53Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeq4vCXIAEUoXS.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091828451921522865-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091822177402175650",
@@ -401,7 +644,19 @@
         "https://pbs.twimg.com/media/HQelLtbWsAARt_x.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T11:01:53Z"
+      "capturedAt": "2026-08-24T11:01:53Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQelLteW4AA3mY5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091822177402175650-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQelLtbWsAARt_x.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091822177402175650-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091815151053766823",
@@ -415,7 +670,19 @@
         "https://pbs.twimg.com/media/HQeeyYJWsAAy9fN.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T11:01:53Z"
+      "capturedAt": "2026-08-24T11:01:53Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeeyYLWcAAPj60.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091815151053766823-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeeyYJWsAAy9fN.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091815151053766823-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091803071537955249",
@@ -429,7 +696,19 @@
         "https://pbs.twimg.com/media/HQeTzigW0AAY41K.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T11:01:53Z"
+      "capturedAt": "2026-08-24T11:01:53Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeTzieWwAAgoMe.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091803071537955249-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQeTzigW0AAY41K.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091803071537955249-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091869545145287107",
@@ -443,7 +722,19 @@
         "https://pbs.twimg.com/media/HQfQQxxWYAAyXax.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T15:10:15Z"
+      "capturedAt": "2026-08-24T15:10:15Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQfQQzHXsAAIA8S.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091869545145287107-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQfQQxxWYAAyXax.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091869545145287107-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091864671334858846",
@@ -457,7 +748,19 @@
         "https://pbs.twimg.com/media/HQfL0TwasAACYgn.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T15:10:15Z"
+      "capturedAt": "2026-08-24T15:10:15Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQfLruxaIAAvpC7.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091864671334858846-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQfL0TwasAACYgn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091864671334858846-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2091858062495699173",
@@ -471,7 +774,19 @@
         "https://pbs.twimg.com/media/HQfF0eNXYAAcXrv.jpg"
       ],
       "source": "apify",
-      "capturedAt": "2026-08-24T15:10:15Z"
+      "capturedAt": "2026-08-24T15:10:15Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQfF0eNXMAA4h-H.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091858062495699173-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HQfF0eNXYAAcXrv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2091858062495699173-2.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2094207602661966183",
@@ -489,7 +804,8 @@
         "views": 43680
       },
       "source": "apify",
-      "capturedAt": "2026-08-31T08:15:04Z"
+      "capturedAt": "2026-08-31T08:15:04Z",
+      "mediaArchive": []
     }
   ],
   "radar": [],
@@ -823,6 +1139,28 @@
       "startedAt": "2026-08-31T08:15:04Z",
       "completedAt": "2026-08-31T08:15:04Z",
       "summary": "Apify benchmark source, primary-source verification, original visual, Postiz publication, and public X URL verification completed.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260831T082404Z-radar",
+      "mode": "radar",
+      "status": "blocked",
+      "startedAt": "2026-08-31T08:24:04Z",
+      "completedAt": "2026-08-31T08:24:04Z",
+      "summary": "Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s).",
+      "reason": "Apify returned no eligible original posts from either benchmark account.",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260831T082413Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-08-31T08:24:13Z",
+      "completedAt": "2026-08-31T08:24:13Z",
+      "summary": "Prepared 0 one-to-one production candidate(s).",
       "reason": ""
     }
   ]
