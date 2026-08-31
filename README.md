@@ -28,7 +28,7 @@
 ## 给新 Codex 的交接语
 
 ```text
-请在当前仓库使用 $when2buy-content-publisher 执行 full 模式。这是 benchmark-first 任务：必须先打开 @WhaleInsider 和 @StockMKTNewz，收集上次扫描以来的原创帖；只有两个账号都没有新帖时才回溯 48 小时。选一条最强且 when2buy 未覆盖的对标帖，做同一事件、同一关键事实与数字、同一时效窗口的 when2buy 内容，但用独立英文和原创画面表达。制作前必须读取 brand-and-style.md 和 cases.md，使用仓库内的真实 Logo，并对照三张风格成品。完成后更新 `data/state.json`、`reports/latest.md` 和 `reports/run-panel.html`。发布时使用 `scripts/postiz_publish.py --package-id <id> --confirm`，并确认取得公开 X URL。
+请在当前仓库使用 $when2buy-content-publisher 执行 full 模式。这是 benchmark-first 任务：必须先打开 @WhaleInsider 和 @StockMKTNewz，收集上次扫描以来的原创帖；只有两个账号都没有新帖时才回溯 48 小时。选一条最强且 when2buy 未覆盖的对标帖，做同一事件、同一关键事实与数字、同一时效窗口的 when2buy 内容，但用独立英文和原创画面表达。制作前必须读取 brand-and-style.md 和 cases.md，使用仓库内的真实 Logo，并对照三张风格成品。完成后更新 `data/state.json`、`reports/latest.md` 和唯一的 `reports/run-panel.html`。该面板会展示最新对标原图缩略图/原图链接、归档状态、核验、成图和发布 URL。发布时使用 `scripts/postiz_publish.py --package-id <id> --confirm`，并确认取得公开 X URL。
 ```
 
 ## 生成最新报告

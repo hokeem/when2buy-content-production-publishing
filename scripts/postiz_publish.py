@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Upload and publish one ready when2buy package through Postiz, then verify release."""
-import argparse,json,mimetypes,os,sys,time,uuid
+import argparse,json,mimetypes,os,subprocess,sys,time,uuid
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.error import HTTPError
@@ -44,5 +44,5 @@ def main():
  s['runs'].append({'id':f"run-{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}-publish",'mode':'publish','status':'succeeded','startedAt':datetime.now(timezone.utc).isoformat(),'completedAt':datetime.now(timezone.utc).isoformat(),'summary':'Published through Postiz and verified a public X release URL.','reason':''})
  errors=state.validate(s)
  if errors: raise SystemExit('\n'.join(errors))
- state.atomic_write(s);print(json.dumps({'postizPostId':postiz_id,'url':url}))
+ state.atomic_write(s); subprocess.run([sys.executable, str(ROOT/'scripts'/'render_report.py')], check=True); subprocess.run([sys.executable, str(ROOT/'scripts'/'render_run_panel.py')], check=True); print(json.dumps({'postizPostId':postiz_id,'url':url}))
 if __name__=='__main__': main()
