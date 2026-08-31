@@ -1,6 +1,6 @@
 ---
 name: when2buy-content-publisher
-description: "Run the benchmark-first when2buy U.S.-market X workflow end to end. At three fixed daily windows, inspect every new original post from @WhaleInsider and @StockMKTNewz, select the strongest same-topic opportunities, verify the underlying facts, create independently worded when2buy English posts and branded images, prepare browser publishing, collect metrics, and produce an agent-readable report. Use for daily when2buy competitor monitoring, mirrored-topic production, X publishing, scheduled runs, performance reviews, or migration to another Codex agent."
+description: "Run the benchmark-first when2buy U.S.-market X workflow end to end. At three fixed daily windows, inspect every new original post from @WhaleInsider and @StockMKTNewz, select the strongest same-topic opportunities, verify the underlying facts, create independently worded when2buy English posts and branded images, publish through Postiz, collect metrics, and produce an agent-readable report. Use for daily when2buy competitor monitoring, mirrored-topic production, X publishing, scheduled runs, performance reviews, or migration to another Codex agent."
 ---
 
 # when2buy Content Publisher
@@ -26,7 +26,7 @@ Scheduled scans use Asia/Shanghai time at **08:30, 14:30, and 20:30**. Read [sch
 
 - `radar`: inspect sources and populate five ranked opportunities.
 - `produce`: turn the strongest eligible opportunity into a complete text-and-image package.
-- `publish`: publish a ready package through the signed-in X browser session.
+- `publish`: publish a ready package through Postiz.
 - `metrics`: refresh public metrics for published posts.
 - `review`: compare performance and record an evidence-backed next experiment.
 - `full`: run radar, produce, publish, and record the initial snapshot.
@@ -47,8 +47,8 @@ Read only the references needed for the selected mode:
 5. Rank benchmark posts by freshness, market impact, factual clarity, visual potential, and duplication risk. Store up to five one-to-one opportunities; never create an unrelated filler topic.
 6. Produce from the highest-ranked benchmark post. Preserve the selected topic, tickers, factual sequence, key numbers, and urgency; independently write the narration and analysis.
 7. Create one 1:1 branded image using the exact `assets/when2buy-logo-reference.png` logo and the visual rules in [brand-and-style.md](references/brand-and-style.md). Compare the draft against all three supplied style examples before accepting it.
-8. Complete research, copy, and image production autonomously. For browser-based publishing, stop at `ready` and request action-time confirmation immediately before clicking Post; this is an execution confirmation, not a separate editorial review. Platform login, CAPTCHA, account lock, or materially inconsistent facts also require user attention.
-9. After publishing, open the public status URL and verify that text and media are visible. Only then set status to `published` and store the URL.
+8. Complete research, copy, and image production autonomously. When standing or current publishing authorization exists, run `python3 scripts/postiz_publish.py --package-id <id> --confirm`. The script verifies the Postiz integration is `@_When2buy`, uploads the package image, and waits for `PUBLISHED` plus a public X URL. Without authorization or on factual inconsistency, stop at `ready`.
+9. Only record `published` after Postiz returns `PUBLISHED` and a public X release URL. Then refresh the run panel.
 10. Record the run and metric snapshot with `state.py`; run validation and `python3 scripts/render_report.py` again.
 
 ## Publishing invariants

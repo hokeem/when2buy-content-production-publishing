@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-08-25T04:42:08Z",
+  "generatedAt": "2026-08-31T07:56:07Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2091833946271101177",
+      "benchmarkPostId": "2094197565713527043",
       "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2091833946271101177",
-      "originalText": "Xpeng $XPEV just said its robotics unit raised more than $900M at a $6.3 Billion valuation in its first funding round\n\n“the largest single private financing in China’s embodied AI sector.”",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094197565713527043",
+      "originalText": "Here is every stock in the S&P 500 that is up by more than 1,000% over the last decade\n\n👑 Nvidia $NVDA: +13,928.70% 🟢\n🥈 AMD $AMD: +5,970.14% 🟢\n🥉 Micron $MU: +5,550.27% 🟢\nComfort Systems $FIX: +5,191.74% 🟢\nArista Networks $ANET: +3,857.56% 🟢\nDell $DELL: +3,456.43% 🟢\nLam Research $LRCX: +3,118.21% 🟢\nLumentum $LITE: +2,540.90% 🟢\nKLA $KLAC: +2,499.82% 🟢\nSeagate blockstack:native: +2,389.53% 🟢\nTesla $TSLA: +2,277.95% 🟢\nFortinet $FTNT: +2,224.93% 🟢\nQuanta Services $PWR: +2,218.08% 🟢\nAxon Enterprise $AXON: +2,007.09% 🟢\nBroadcom $AVGO: +1,981.68% 🟢\nTexas Pacific $TPL: +1,915.00% 🟢\nMarvell $MRVL: +1,665.44% 🟢\nCiena $CIEN: +1,648.80% 🟢\nSuper Micro $SMCI: +1,635.14% 🟢\nTeradyne $TER: +1,585.52% 🟢\nMonolithic Power $MPWR: +1,538.10% 🟢\nPalo Alto $PANW: +1,484.83% 🟢\nApplied Materials $AMAT: +1,440.44% 🟢\nHowmet $HWM: +1,436.41% 🟢\nEli Lilly $LLY: +1,401.29% 🟢\nJabil $JBL: +1,330.03% 🟢\nCadence $CDNS: +1,231.21% 🟢\nCoherent $COHR: +1,206.50% 🟢\nEMCOR $EME: +1,198.32% 🟢\nWestern Digital $WDC: +1,195.63% 🟢\nUnited Rentals $URI: +1,152.43% 🟢\nApple $AAPL: +1,095.81% 🟢\nFlex $FLEX: +1,072.16% 🟢",
       "originalMediaUrls": [],
       "archivedMedia": [],
-      "engagement": {},
-      "postedAt": "Mon Aug 24 10:24:11 +0000 2026",
+      "engagement": {
+        "likes": 206,
+        "replies": 10,
+        "reposts": 27,
+        "quotes": 3,
+        "views": 59644
+      },
+      "postedAt": "Sun Aug 30 22:56:22 +0000 2026",
       "score": 22,
       "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 5,
+        "freshness": 4,
+        "when2buyFit": 4,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
@@ -24,31 +30,37 @@
     },
     {
       "rank": 2,
-      "benchmarkPostId": "2091606856506450211",
+      "benchmarkPostId": "2094094296458678444",
       "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2091606856506450211",
-      "originalText": "JUST IN: Hugging Face has been fielding acquisition interest at a valuation of at least $13 billion - Business Insider. https://t.co/rRAR6Hr89B",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094094296458678444",
+      "originalText": "JUST IN: Monero $XMR privacy coin rallies 8.9% in the past 24 hours as THORChain network upgrade introduces native support for Monero (XMR) swaps. https://t.co/UVqOXZk4Zb",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HQbhWRxXsAAct90.jpg",
-        "https://pbs.twimg.com/media/HQbhWR7WQAAeCd9.jpg"
+        "https://pbs.twimg.com/media/HQ-3qNOWgAAGo2k.jpg",
+        "https://pbs.twimg.com/media/HQ-3qNHXUAAAwr_.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HQbhWRxXsAAct90.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2091606856506450211-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HQ-3qNOWgAAGo2k.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094094296458678444-1.jpg",
           "status": "archived"
         },
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HQbhWR7WQAAeCd9.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2091606856506450211-2.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HQ-3qNHXUAAAwr_.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094094296458678444-2.jpg",
           "status": "archived"
         }
       ],
-      "engagement": {},
-      "postedAt": "Sun Aug 23 19:21:49 +0000 2026",
-      "score": 17,
+      "engagement": {
+        "likes": 759,
+        "replies": 49,
+        "reposts": 58,
+        "quotes": 9,
+        "views": 50224
+      },
+      "postedAt": "Sun Aug 30 16:06:01 +0000 2026",
+      "score": 18,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -58,65 +70,23 @@
     },
     {
       "rank": 3,
-      "benchmarkPostId": "2091594517518438881",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2091594517518438881",
-      "originalText": "JUST IN: 🇺🇸 Odds of a Fed rate cute before 2027 fall below 13%, per Kalshi traders. https://t.co/7DA1r3mkxv",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HQbWIF1W0AE_gZ5.jpg",
-        "https://pbs.twimg.com/media/HQbWIFvX0AAft03.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HQbWIF1W0AE_gZ5.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2091594517518438881-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HQbWIFvX0AAft03.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2091594517518438881-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {},
-      "postedAt": "Sun Aug 23 18:32:47 +0000 2026",
+      "benchmarkPostId": "2094207602661966183",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094207602661966183",
+      "originalText": "Tim Cook will remain fully involved at Apple $AAPL as he moves into the role of chairman of Apple's board of direction",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 133,
+        "replies": 17,
+        "reposts": 11,
+        "quotes": 1,
+        "views": 43680
+      },
+      "postedAt": "Sun Aug 30 23:36:15 +0000 2026",
       "score": 17,
       "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2091864671334858846",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2091864671334858846",
-      "originalText": "JUST IN: 🇺🇸 The U.S. Treasury could use its $935,000,000,000 cash stockpile to fund expanded bond buybacks, rather than relying solely on new short-term debt issuance. https://t.co/I0zRT5ORZx",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HQfLruxaIAAvpC7.jpg",
-        "https://pbs.twimg.com/media/HQfL0TwasAACYgn.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HQfLruxaIAAvpC7.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2091864671334858846-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HQfL0TwasAACYgn.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2091864671334858846-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {},
-      "postedAt": "Mon Aug 24 12:26:17 +0000 2026",
-      "score": 16,
-      "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
@@ -125,35 +95,75 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 5,
-      "benchmarkPostId": "2091815151053766823",
+      "rank": 4,
+      "benchmarkPostId": "2094161899323543999",
       "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2091815151053766823",
-      "originalText": "JUST IN: 🇮🇷 Iran’s rial fell to a record low of 2.027 million against the US dollar in the open market on Monday, according to the latest available exchange rates. https://t.co/zqubFxrMHw",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094161899323543999",
+      "originalText": "JUST IN: 69% chance of Claude being the best AI at the end of 2026, per Kalshi traders. https://t.co/oEikxwXQkG",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HQeeyYLWcAAPj60.jpg",
-        "https://pbs.twimg.com/media/HQeeyYJWsAAy9fN.jpg"
+        "https://pbs.twimg.com/media/HQ_1JNdWsAAuLen.jpg",
+        "https://pbs.twimg.com/media/HQ_1JN4XUAAj3Ks.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HQeeyYLWcAAPj60.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2091815151053766823-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HQ_1JNdWsAAuLen.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094161899323543999-1.jpg",
           "status": "archived"
         },
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HQeeyYJWsAAy9fN.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2091815151053766823-2.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HQ_1JN4XUAAj3Ks.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094161899323543999-2.jpg",
           "status": "archived"
         }
       ],
-      "engagement": {},
-      "postedAt": "Mon Aug 24 09:09:30 +0000 2026",
-      "score": 16,
+      "engagement": {
+        "likes": 338,
+        "replies": 55,
+        "reposts": 27,
+        "quotes": 2,
+        "views": 38928
+      },
+      "postedAt": "Sun Aug 30 20:34:39 +0000 2026",
+      "score": 17,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 5,
+      "benchmarkPostId": "2094188677463146533",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094188677463146533",
+      "originalText": "This is what you need to watch out for this week in the stock market https://t.co/8DUvyS89Wq",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRAMof3X0AA0NqC.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRAMof3X0AA0NqC.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094188677463146533-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 64,
+        "replies": 11,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 34247
+      },
+      "postedAt": "Sun Aug 30 22:21:03 +0000 2026",
+      "score": 15,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       },
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."

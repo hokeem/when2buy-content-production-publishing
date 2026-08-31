@@ -10,3 +10,5 @@ Use `$when2buy-content-publisher` for all editorial, publishing, metrics, and re
 6. Publish only when the task contains explicit current or standing authorization. Verify the public URL before recording success.
 7. Preserve prior metric snapshots. Append observations; never rewrite history.
 8. Keep changes narrow. Stage explicit files only and never overwrite unrelated agent work.
+9. For a full run, follow `docs/OPERATING_MODEL.md`; use `scripts/postiz_publish.py` rather than ad-hoc API requests.
+10. Every completed run must regenerate `reports/latest.md` and `reports/run-panel.html`. Never publish a report externally without explicit user approval.

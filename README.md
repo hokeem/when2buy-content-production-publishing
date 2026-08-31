@@ -13,7 +13,7 @@
 
 上游新闻、SEC 文件和公司公告只用于验证事实，不能代替这两个对标账号进行选题。
 
-自动闭环：**Apify 采集 → 原文、链接、互动数据写入状态库 → 原图下载为 GitHub Actions Artifact（保留 30 天） → 生成 `data/production-queue.json` 与 `radar` 优先队列 → Codex 根据其中一对一来源完成核验、when2buy 改写和原创视觉。** 自动任务绝不触碰 X 发布按钮。
+自动闭环：**Apify 采集 → 原文、链接、互动数据写入状态库 → 原图下载为 GitHub Actions Artifact（保留 30 天） → 生成 `data/production-queue.json` 与 `radar` 优先队列 → Codex 根据其中一对一来源完成核验、when2buy 改写和原创视觉。** 自动任务绝不触碰 X 发布按钮；具备 standing/current 授权时，Agent 可使用 Postiz 完成经核验的发布。
 
 ## 交付内容
 
@@ -22,12 +22,13 @@
 - `skills/when2buy-content-publisher/references/brand-and-style.md`：文案语气、结构、禁用写法和配图规则。
 - `data/state.json`：选题、制作队列、已发布内容、指标快照和运行日志。
 - `reports/latest.md`：Agent 每次运行后自动刷新的人类可读报告，不需要在页面上点击。
-- `scripts/`：状态验证、报告生成和安全检查。
+- `scripts/`：采集、媒体归档、生产队列、Postiz 发布、报告与安全检查。
+- `docs/OPERATING_MODEL.md`：端到端运行手册；`docs/AGENT_HANDOFF.md`：新 Agent 交接卡。
 
 ## 给新 Codex 的交接语
 
 ```text
-请在当前仓库使用 $when2buy-content-publisher 执行 full 模式。这是 benchmark-first 任务：必须先打开 @WhaleInsider 和 @StockMKTNewz，收集上次扫描以来的原创帖；只有两个账号都没有新帖时才回溯 48 小时。选一条最强且 when2buy 未覆盖的对标帖，做同一事件、同一关键事实与数字、同一时效窗口的 when2buy 内容，但用独立英文和原创画面表达。制作前必须读取 brand-and-style.md 和 cases.md，使用仓库内的真实 Logo，并对照三张风格成品。完成后更新 data/state.json 和 reports/latest.md。
+请在当前仓库使用 $when2buy-content-publisher 执行 full 模式。这是 benchmark-first 任务：必须先打开 @WhaleInsider 和 @StockMKTNewz，收集上次扫描以来的原创帖；只有两个账号都没有新帖时才回溯 48 小时。选一条最强且 when2buy 未覆盖的对标帖，做同一事件、同一关键事实与数字、同一时效窗口的 when2buy 内容，但用独立英文和原创画面表达。制作前必须读取 brand-and-style.md 和 cases.md，使用仓库内的真实 Logo，并对照三张风格成品。完成后更新 `data/state.json`、`reports/latest.md` 和 `reports/run-panel.html`。发布时使用 `scripts/postiz_publish.py --package-id <id> --confirm`，并确认取得公开 X URL。
 ```
 
 ## 生成最新报告
@@ -51,3 +52,13 @@ GitHub Actions 的 `Apify benchmark radar` 在北京时间 08:30、14:30、20:30
 ## 凭据
 
 仓库不保存凭据。X 使用本机已登录的浏览器会话；GitHub 使用 GitHub Connector、`gh auth login` 或系统凭据管理器。永远不要把 PAT 写入 `.env`、Git remote URL 或 Git 历史。
+
+## Postiz 发布（仅在已获发布授权时）
+
+```bash
+export POSTIZ_API_KEY='…' # 仅在会话环境中配置
+python3 scripts/postiz_publish.py --package-id pkg-YYYYMMDD-topic --confirm
+python3 scripts/render_run_panel.py
+```
+
+发布器会验证目标 integration 是 `@_When2buy`，上传 package 中真实图片，并且只在 Postiz 返回 `PUBLISHED` 与公开 X URL 后写入 `published`。完整操作见 `docs/OPERATING_MODEL.md`。
