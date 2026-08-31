@@ -34,3 +34,13 @@
 - 使用精确 `when2buy-logo-reference.png`；1:1、黑底/白字、红色为风险或转折、绿色仅为积极上行。
 - Postiz 返回 `QUEUE` 不算发布成功；必须轮询到 `PUBLISHED` 且存在 `releaseURL`。
 - API 密钥只从环境变量读取，永不写入状态、报告、HTML、Git 或终端摘要。
+
+## 自动化时钟（Asia/Shanghai）
+
+| 时间 | 执行器 | 职责 |
+|---|---|---|
+| 08:30、14:30、20:30 | GitHub Actions `Apify benchmark radar` | 采集两位对标帐号、归档原图、重建队列和稳定 HTML 面板，并将状态推回 `main`。 |
+| 08:40、14:40、20:40 | Paseo `when2buy-production-publish` | 拉取 `main`；只处理最新且未覆盖的候选；核验、原创制作、Postiz 发布、公开 URL 核验，并推回状态与面板。 |
+| 次日 09:05 | Paseo `when2buy-performance-review` | 为已发布内容补充可获取的公开指标和复盘结论；只追加快照，绝不重写历史。 |
+
+生产定时任务拥有针对 `@_When2buy` 的 standing 发布授权，但不是无条件发布器。它必须按本手册的 Verify、Produce、Publish 三道门执行；任一门不通过就记录原因、刷新报告并结束。`POSTIZ_API_KEY` 与 `WHEN2BUY_AUTOPUBLISH_ENABLED=true` 只能放在受限运行环境，不能进入仓库或 GitHub Actions 日志。

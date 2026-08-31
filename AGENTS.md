@@ -7,8 +7,8 @@ Use `$when2buy-content-publisher` for all editorial, publishing, metrics, and re
 3. Never commit credentials, cookies, browser profiles, private messages, or raw authentication material.
 4. Treat benchmark accounts as discovery inputs, not copy sources. Produce original wording and visuals.
 5. Verify financial claims against primary sources or authoritative financial reporting before publication.
-6. Publish only when the task contains explicit current or standing authorization. Verify the public URL before recording success.
+6. Publish only when the task contains explicit current or standing authorization. The scheduled `when2buy-production-publish` task has standing authorization to publish through Postiz to `@_When2buy`; verify the public URL before recording success.
 7. Preserve prior metric snapshots. Append observations; never rewrite history.
 8. Keep changes narrow. Stage explicit files only and never overwrite unrelated agent work.
 9. For a full run, follow `docs/OPERATING_MODEL.md`; use `scripts/postiz_publish.py` rather than ad-hoc API requests.
-10. Every completed run must regenerate `reports/latest.md` and `reports/run-panel.html`. Never publish a report externally without explicit user approval.
+10. Every completed run must regenerate `reports/latest.md` and `reports/run-panel.html`. The scheduled report sync may update the already-authorized stable report URL, but must never create a new public destination.

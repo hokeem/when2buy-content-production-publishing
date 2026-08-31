@@ -13,7 +13,7 @@
 
 上游新闻、SEC 文件和公司公告只用于验证事实，不能代替这两个对标账号进行选题。
 
-自动闭环：**Apify 采集 → 原文、链接、互动数据写入状态库 → 原图下载为 GitHub Actions Artifact（保留 30 天） → 生成 `data/production-queue.json` 与 `radar` 优先队列 → Codex 根据其中一对一来源完成核验、when2buy 改写和原创视觉。** 自动任务绝不触碰 X 发布按钮；具备 standing/current 授权时，Agent 可使用 Postiz 完成经核验的发布。
+自动闭环：**Apify 采集 → 原文、链接、互动数据写入状态库 → 原图下载为 GitHub Actions Artifact（保留 30 天） → 生成 `data/production-queue.json` 与 `radar` 优先队列 → Codex 根据其中一对一来源完成核验、when2buy 改写和原创视觉 → Postiz 发布 → 公开 X URL 核验 → 稳定 HTML 面板刷新。** 已配置的生产定时任务拥有对 `@_When2buy` 的 standing 发布授权，但只能发布通过全部事实、图片和目标帐号校验的 package。
 
 ## 交付内容
 
@@ -23,7 +23,7 @@
 - `data/state.json`：选题、制作队列、已发布内容、指标快照和运行日志。
 - `reports/latest.md`：Agent 每次运行后自动刷新的人类可读报告，不需要在页面上点击。
 - `scripts/`：采集、媒体归档、生产队列、Postiz 发布、报告与安全检查。
-- `docs/OPERATING_MODEL.md`：端到端运行手册；`docs/AGENT_HANDOFF.md`：新 Agent 交接卡。
+- `docs/OPERATING_MODEL.md`：端到端运行手册；`docs/AUTOMATION.md`：三个自动时钟与恢复规则；`docs/AGENT_HANDOFF.md`：新 Agent 交接卡。
 
 ## 给新 Codex 的交接语
 
