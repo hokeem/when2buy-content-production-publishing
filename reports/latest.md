@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-08-31T08:24:13.163221+00:00`
+- 状态更新：`2026-08-31T08:28:01.075650+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**35**
 - 待选选题：**0**
@@ -65,6 +65,8 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 
 ## 最近运行
 
+- `2026-08-31T08:28:01Z` **queue / succeeded** — Prepared 0 one-to-one production candidate(s).
+- `2026-08-31T08:28:00Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-31T08:24:13Z` **queue / succeeded** — Prepared 0 one-to-one production candidate(s).
 - `2026-08-31T08:24:04Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-31T08:15:04Z` **full / succeeded** — Apify benchmark source, primary-source verification, original visual, Postiz publication, and public X URL verification completed.
@@ -83,5 +85,3 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 - `2026-08-26T02:09:21Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-25T15:14:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-25T10:59:01Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-25T05:04:40Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-25T01:59:10Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
