@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-01T05:32:40.218970+00:00`
+- 状态更新：`2026-09-01T11:57:30.587784+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**54**
-- 待选选题：**6**
+- 对标帖子快照：**63**
+- 待选选题：**8**
 - 待发布制作包：**0**
 - 已验证发布：**3**
 
@@ -11,6 +11,15 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 01 05:35:51 +0000 2026 | JUST IN: Canary ETF clients buy $4.71 million worth of $XRP. https://t.co/ZMBJFGKYyW | [X](https://x.com/WhaleInsider/status/2094660485085794525) |
+| @WhaleInsider | Tue Sep 01 06:19:22 +0000 2026 | JUST IN: BlackRock clients buy $205.91 million worth of $BTC. https://t.co/p9hCCzclwo | [X](https://x.com/WhaleInsider/status/2094671438951092233) |
+| @WhaleInsider | Tue Sep 01 07:08:38 +0000 2026 | JUST IN: BlackRock ETF clients buy $59.94 million worth of $ETH. https://t.co/YUQZbtp9cx | [X](https://x.com/WhaleInsider/status/2094683837808644389) |
+| @WhaleInsider | Tue Sep 01 08:14:38 +0000 2026 | JUST IN: Spot gold falls 1% to $4,405.49/oz. https://t.co/zzKHbYUFH6 | [X](https://x.com/WhaleInsider/status/2094700443565772862) |
+| @WhaleInsider | Tue Sep 01 08:43:27 +0000 2026 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holders. Hold PANDA. Earn COIN. Powered by @ponsdotfamily. https://t.co/k4LzIx7hEI | [X](https://x.com/WhaleInsider/status/2094707697350295566) |
+| @WhaleInsider | Tue Sep 01 08:48:14 +0000 2026 | JUST IN: 🇯🇵 Japan’s 30-year yield just ripped above 4.18%, the highest level in history. https://t.co/qWHkiRh1pW | [X](https://x.com/WhaleInsider/status/2094708901077819742) |
+| @WhaleInsider | Tue Sep 01 09:14:30 +0000 2026 | JUST IN: Spot silver falls nearly 3% to $64.55/oz. https://t.co/KWjVzlGeFJ | [X](https://x.com/WhaleInsider/status/2094715511569256676) |
+| @WhaleInsider | Tue Sep 01 10:36:25 +0000 2026 | JUST IN: Jim Cramer says rate cuts look unlikely. https://t.co/B5QERjPFss | [X](https://x.com/WhaleInsider/status/2094736124874821910) |
+| @WhaleInsider | Tue Sep 01 11:30:40 +0000 2026 | JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https://t.co/1nTXKalehC | [X](https://x.com/WhaleInsider/status/2094749779653800408) |
 | @WhaleInsider | Mon Aug 31 13:07:50 +0000 2026 | JUST IN: Tom Lee’s BitMine bought 53,501 $ETH last week, bringing the total to 5.9 million Ethereum. https://t.co/wM2iMcghyK | [X](https://x.com/WhaleInsider/status/2094411842252591224) |
 | @WhaleInsider | Mon Aug 31 15:27:57 +0000 2026 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM, 5 minutes after it bonded..  Since then, it has logged a cluster of 75 KOL calls. FONE later peaked at $37M MC on Aug 28 at 16:00, about 145x from the first tracked call.  MWX Alpha tracks who called, at what market cap, plus smart wallet flow and CT narrative momentum.  Full breakdown: https://t.co/BGtPmiyWmk | [X](https://x.com/WhaleInsider/status/2094447104219324482) |
 | @WhaleInsider | Mon Aug 31 15:59:30 +0000 2026 | JUST IN: 🇺🇸 Fed Chair Warsh says ‘Economic growth in the US appears to have strengthened.’ https://t.co/DoK4zvMyeP | [X](https://x.com/WhaleInsider/status/2094455043512488019) |
@@ -32,24 +41,17 @@
 | @StockMKTNewz | Mon Aug 31 23:31:29 +0000 2026 | ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD  The deal is with Lambda, an Nvidia-backed cloud provider, but Nvidia itself holds the lease on the actual data center  The data center is being built by Hut 8 in Nueces County, Texas. Nvidia signed its own agreement with Hut 8 a few weeks ago to lock down the capacity.  Lambda will use the space to plug in chips it bought from Nvidia, which is also its investor. - WSJ | [X](https://x.com/StockMKTNewz/status/2094568791762215155) |
 | @StockMKTNewz | Sun Aug 30 23:36:15 +0000 2026 | Tim Cook will remain fully involved at Apple $AAPL as he moves into the role of chairman of Apple's board of directors | [X](https://x.com/StockMKTNewz/status/2094207602661966183) |
 | @WhaleInsider | Mon Aug 24 12:00:01 +0000 2026 | JUST IN: $BTC forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/AKtrgus6h4 | [X](https://x.com/WhaleInsider/status/2091858062495699173) |
-| @WhaleInsider | Mon Aug 24 12:26:17 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury could use its $935,000,000,000 cash stockpile to fund expanded bond buybacks, rather than relying solely on new short-term debt issuance. https://t.co/I0zRT5ORZx | [X](https://x.com/WhaleInsider/status/2091864671334858846) |
-| @WhaleInsider | Mon Aug 24 12:45:39 +0000 2026 | JUST IN: 🇺🇸🇮🇷 President Trump says Iran is “completely collapsing.” https://t.co/zFNeSzwEfN | [X](https://x.com/WhaleInsider/status/2091869545145287107) |
-| @WhaleInsider | Mon Aug 24 08:21:30 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Iran’s Baghaei says Iran will use all its bilateral capabilities to confront U.S. economic sanctions​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/d8NlbsfVbC | [X](https://x.com/WhaleInsider/status/2091803071537955249) |
-| @WhaleInsider | Mon Aug 24 09:09:30 +0000 2026 | JUST IN: 🇮🇷 Iran’s rial fell to a record low of 2.027 million against the US dollar in the open market on Monday, according to the latest available exchange rates. https://t.co/zqubFxrMHw | [X](https://x.com/WhaleInsider/status/2091815151053766823) |
-| @WhaleInsider | Mon Aug 24 09:37:25 +0000 2026 | JUST IN: WhiteBIT Coin $WBT reaches new all-time high, with the price surpassing $72 - CoinGecko. https://t.co/4AJJ1bnc1R | [X](https://x.com/WhaleInsider/status/2091822177402175650) |
-| @WhaleInsider | Mon Aug 24 10:02:21 +0000 2026 | JUST IN: 🇯🇵 Japan’s Financial Services Agency (FSA) to allow stablecoin transactions over 1 million yen - Nikkei​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/N1a9gfKT47 | [X](https://x.com/WhaleInsider/status/2091828451921522865) |
-| @StockMKTNewz | Mon Aug 24 10:24:11 +0000 2026 | Xpeng $XPEV just said its robotics unit raised more than $900M at a $6.3 Billion valuation in its first funding round  “the largest single private financing in China’s embodied AI sector.” | [X](https://x.com/StockMKTNewz/status/2091833946271101177) |
-| @StockMKTNewz | Mon Aug 24 00:16:12 +0000 2026 | Rocket Lab $RKLB just posted this today   “Pre-flight testing with Hungry Hippo is underway” https://t.co/4KLDhPr1CE | [X](https://x.com/StockMKTNewz/status/2091680939873018137) |
-| @StockMKTNewz | Mon Aug 24 03:22:22 +0000 2026 | Nvidia $NVDA is reportedly in talks to invest multiple billions of dollars into Perplexity at a $30+ Billion valuation | [X](https://x.com/StockMKTNewz/status/2091727792161296758) |
 
 ## 选题推荐
 
 | 排名 | 选题 | 信号源 | 分数 | 为什么是现在 |
 |---:|---|---|---:|---|
 | 1 | ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD The deal is with … | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
+| 1 | JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https:/… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
+| 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 
@@ -80,6 +82,8 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ## 最近运行
 
+- `2026-09-01T11:57:30Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
+- `2026-09-01T11:57:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 9 new post(s).
 - `2026-09-01T05:32:40Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-01T05:32:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
 - `2026-09-01T04:48:07.900684+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -98,5 +102,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-08-31T05:54:07Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-30T14:54:54Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-30T05:39:12Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-29T15:10:10Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-29T07:16:26Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.

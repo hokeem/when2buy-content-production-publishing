@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-09-01T05:32:40Z",
+  "generatedAt": "2026-09-01T11:57:30Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2094749779653800408",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
+      "originalText": "JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https://t.co/1nTXKalehC",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
+        "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 209,
+        "replies": 30,
+        "reposts": 9,
+        "quotes": 5,
+        "views": 17869
+      },
+      "postedAt": "Tue Sep 01 11:30:40 +0000 2026",
+      "score": 20,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 2,
       "benchmarkPostId": "2094568791762215155",
       "benchmarkAccount": "StockMKTNewz",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094568791762215155",
@@ -26,9 +66,9 @@
         "views": 59820
       },
       "postedAt": "Mon Aug 31 23:31:29 +0000 2026",
-      "score": 20,
+      "score": 19,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -37,7 +77,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2094567351962255556",
       "benchmarkAccount": "StockMKTNewz",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094567351962255556",
@@ -60,9 +100,9 @@
         "views": 23979
       },
       "postedAt": "Mon Aug 31 23:25:46 +0000 2026",
-      "score": 20,
+      "score": 19,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -71,7 +111,47 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "benchmarkPostId": "2094707697350295566",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094707697350295566",
+      "originalText": "JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holders. Hold PANDA. Earn COIN. Powered by @ponsdotfamily. https://t.co/k4LzIx7hEI",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRHli6nWMAEkWHn.jpg",
+        "https://pbs.twimg.com/media/HRHli6kW0AANgUu.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHli6nWMAEkWHn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094707697350295566-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHli6kW0AANgUu.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094707697350295566-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 213,
+        "replies": 30,
+        "reposts": 24,
+        "quotes": 3,
+        "views": 32266
+      },
+      "postedAt": "Tue Sep 01 08:43:27 +0000 2026",
+      "score": 18,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 5,
       "benchmarkPostId": "2094461736925491308",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094461736925491308",
@@ -106,72 +186,6 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2094447104219324482",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094447104219324482",
-      "originalText": "JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM, 5 minutes after it bonded..\n\nSince then, it has logged a cluster of 75 KOL calls.\nFONE later peaked at $37M MC on Aug 28 at 16:00, about 145x from the first tracked call.\n\nMWX Alpha tracks who called, at what market cap, plus smart wallet flow and CT narrative momentum.\n\nFull breakdown: https://t.co/BGtPmiyWmk",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
-        "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 167,
-        "replies": 22,
-        "reposts": 13,
-        "quotes": 0,
-        "views": 37858
-      },
-      "postedAt": "Mon Aug 31 15:27:57 +0000 2026",
-      "score": 18,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2094535439570878878",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094535439570878878",
-      "originalText": "APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 299,
-        "replies": 17,
-        "reposts": 20,
-        "quotes": 0,
-        "views": 37469
-      },
-      "postedAt": "Mon Aug 31 21:18:58 +0000 2026",
-      "score": 17,
-      "scoreBreakdown": {
-        "freshness": 4,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
         "factualClarity": 4
       },
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."

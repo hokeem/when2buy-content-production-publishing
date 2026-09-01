@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T05:32:40.218970+00:00",
+  "updatedAt": "2026-09-01T11:57:30.587784+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -1349,6 +1349,297 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2094749779653800408",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094749779653800408",
+      "postedAt": "Tue Sep 01 11:30:40 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https://t.co/1nTXKalehC",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
+        "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg"
+      ],
+      "engagement": {
+        "likes": 209,
+        "replies": 30,
+        "reposts": 9,
+        "quotes": 5,
+        "views": 17869
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094736124874821910",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094736124874821910",
+      "postedAt": "Tue Sep 01 10:36:25 +0000 2026",
+      "text": "JUST IN: Jim Cramer says rate cuts look unlikely. https://t.co/B5QERjPFss",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRH_ZmVWEAA_Fo7.jpg"
+      ],
+      "engagement": {
+        "likes": 573,
+        "replies": 94,
+        "reposts": 40,
+        "quotes": 26,
+        "views": 34564
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRH_ZmVWEAA_Fo7.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094736124874821910-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094715511569256676",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094715511569256676",
+      "postedAt": "Tue Sep 01 09:14:30 +0000 2026",
+      "text": "JUST IN: Spot silver falls nearly 3% to $64.55/oz. https://t.co/KWjVzlGeFJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRHspykWgAACiRZ.jpg",
+        "https://pbs.twimg.com/media/HRHspyiXYAAUkEA.jpg"
+      ],
+      "engagement": {
+        "likes": 260,
+        "replies": 24,
+        "reposts": 12,
+        "quotes": 0,
+        "views": 28627
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHspykWgAACiRZ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094715511569256676-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHspyiXYAAUkEA.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094715511569256676-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094708901077819742",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094708901077819742",
+      "postedAt": "Tue Sep 01 08:48:14 +0000 2026",
+      "text": "JUST IN: 🇯🇵 Japan’s 30-year yield just ripped above 4.18%, the highest level in history. https://t.co/qWHkiRh1pW",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRHmo-9WUAAvr-Q.jpg",
+        "https://pbs.twimg.com/media/HRHmo-1XQAAC4O7.jpg"
+      ],
+      "engagement": {
+        "likes": 609,
+        "replies": 46,
+        "reposts": 58,
+        "quotes": 9,
+        "views": 36619
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHmo-9WUAAvr-Q.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094708901077819742-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHmo-1XQAAC4O7.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094708901077819742-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094707697350295566",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094707697350295566",
+      "postedAt": "Tue Sep 01 08:43:27 +0000 2026",
+      "text": "JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holders. Hold PANDA. Earn COIN. Powered by @ponsdotfamily. https://t.co/k4LzIx7hEI",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRHli6nWMAEkWHn.jpg",
+        "https://pbs.twimg.com/media/HRHli6kW0AANgUu.jpg"
+      ],
+      "engagement": {
+        "likes": 213,
+        "replies": 30,
+        "reposts": 24,
+        "quotes": 3,
+        "views": 32266
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHli6nWMAEkWHn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094707697350295566-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHli6kW0AANgUu.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094707697350295566-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094700443565772862",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094700443565772862",
+      "postedAt": "Tue Sep 01 08:14:38 +0000 2026",
+      "text": "JUST IN: Spot gold falls 1% to $4,405.49/oz. https://t.co/zzKHbYUFH6",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRHe8K5WEAAbiNn.jpg",
+        "https://pbs.twimg.com/media/HRHe8LDWkAAB8vO.jpg"
+      ],
+      "engagement": {
+        "likes": 316,
+        "replies": 41,
+        "reposts": 17,
+        "quotes": 0,
+        "views": 28649
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHe8K5WEAAbiNn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094700443565772862-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHe8LDWkAAB8vO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094700443565772862-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094683837808644389",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094683837808644389",
+      "postedAt": "Tue Sep 01 07:08:38 +0000 2026",
+      "text": "JUST IN: BlackRock ETF clients buy $59.94 million worth of $ETH. https://t.co/YUQZbtp9cx",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRHP2KoXsAAb1RZ.jpg",
+        "https://pbs.twimg.com/media/HRHP2KhXQAEfaI0.jpg"
+      ],
+      "engagement": {
+        "likes": 537,
+        "replies": 54,
+        "reposts": 42,
+        "quotes": 3,
+        "views": 32502
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHP2KoXsAAb1RZ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094683837808644389-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHP2KhXQAEfaI0.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094683837808644389-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094671438951092233",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094671438951092233",
+      "postedAt": "Tue Sep 01 06:19:22 +0000 2026",
+      "text": "JUST IN: BlackRock clients buy $205.91 million worth of $BTC. https://t.co/p9hCCzclwo",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRHEkc_WIAAmtFA.jpg",
+        "https://pbs.twimg.com/media/HRHEkdDXgAAa3C8.jpg"
+      ],
+      "engagement": {
+        "likes": 663,
+        "replies": 55,
+        "reposts": 70,
+        "quotes": 8,
+        "views": 34593
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHEkc_WIAAmtFA.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094671438951092233-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRHEkdDXgAAa3C8.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094671438951092233-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094660485085794525",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094660485085794525",
+      "postedAt": "Tue Sep 01 05:35:51 +0000 2026",
+      "text": "JUST IN: Canary ETF clients buy $4.71 million worth of $XRP. https://t.co/ZMBJFGKYyW",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRG6m1rXAAA2gmi.jpg",
+        "https://pbs.twimg.com/media/HRG6m1rXMAAWJUS.jpg"
+      ],
+      "engagement": {
+        "likes": 667,
+        "replies": 35,
+        "reposts": 81,
+        "quotes": 6,
+        "views": 36489
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T11:57:29Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRG6m1rXAAA2gmi.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094660485085794525-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRG6m1rXMAAWJUS.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094660485085794525-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -1460,6 +1751,44 @@
       "createdAt": "2026-09-01T05:32:40Z",
       "scoreBreakdown": {
         "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094749779653800408",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https:/…",
+      "benchmarkPostId": "2094749779653800408",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-01T11:57:30Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094707697350295566",
+      "rank": 4,
+      "title": "JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder…",
+      "benchmarkPostId": "2094707697350295566",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094707697350295566",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-01T11:57:30Z",
+      "scoreBreakdown": {
+        "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
@@ -2002,6 +2331,28 @@
       "status": "succeeded",
       "startedAt": "2026-09-01T05:32:40Z",
       "completedAt": "2026-09-01T05:32:40Z",
+      "summary": "Prepared 5 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260901T115729Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-01T11:57:29Z",
+      "completedAt": "2026-09-01T11:57:29Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 9 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260901T115730Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-01T11:57:30Z",
+      "completedAt": "2026-09-01T11:57:30Z",
       "summary": "Prepared 5 one-to-one production candidate(s).",
       "reason": ""
     }
