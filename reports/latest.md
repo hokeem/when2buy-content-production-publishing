@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-01T04:42:04.808197+00:00`
+- 状态更新：`2026-09-01T04:48:07.901029+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**54**
 - 待选选题：**5**
 - 待发布制作包：**0**
-- 已验证发布：**2**
+- 已验证发布：**3**
 
 ## 对标账号扫描
 
@@ -61,6 +61,13 @@
 
 Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept. 1. Tim Cook becomes executive chairman after 15 years in the top job.  This isn’t a product-cycle headline. It’s a leadership handoff at a $4T company heading into its next AI chapter.
 
+### Bitcoin: CK Zheng's $150K late-2027 forecast
+
+- 状态：`published`
+- 配图：`deliverables/2026-09-01-btc-zheng-forecast/when2buy-btc-zheng-forecast.png`
+
+Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse risk chief, told Investing.com the worst of the cycle may be over.  The thesis: institutional adoption and clearer regulation.  A forecast—not a catalyst.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -68,9 +75,11 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 |---|---|---:|---:|---:|---:|---|
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2094334035149607267) |
+| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2094648465645265080) |
 
 ## 最近运行
 
+- `2026-09-01T04:48:07.900684+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-01T04:41:54Z` **produce / blocked** — Production skipped; the newest eligible queue candidate could not be verified into a publishable package. Primary-source verification failed for benchmark post 2094568791762215155: no primary source located confirms the claimed $35 billion Anthropic-Lambda cloud deal or the stated NVIDIA/Hut 8 Nueces County lease-and-capacity arrangement. Available Lambda primary releases describe different financings and customer deployments; no package or post was created.
 - `2026-09-01T04:09:42Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-01T04:09:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 19 new post(s).
@@ -90,4 +99,3 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 - `2026-08-29T07:16:26Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-28T23:38:30Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-28T11:37:14Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-27T20:41:20Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.

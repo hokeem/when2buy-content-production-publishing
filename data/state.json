@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T04:42:04.808197+00:00",
+  "updatedAt": "2026-09-01T04:48:07.901029+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -1467,6 +1467,44 @@
       "postizPostId": "cmtgy4ykx048it00ymre96w9m",
       "publishedAt": "2026-08-31T07:58:00.000Z",
       "createdAt": "2026-08-31T08:15:04Z"
+    },
+    {
+      "id": "pkg-20260901-btc-zheng-forecast",
+      "status": "published",
+      "title": "Bitcoin: CK Zheng's $150K late-2027 forecast",
+      "benchmarkPostId": "2094484148941414860",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2094484148941414860",
+      "benchmarkMapping": {
+        "sourceAccount": "WhaleInsider",
+        "sourcePostUrl": "https://x.com/WhaleInsider/status/2094484148941414860",
+        "selectionOrder": 3,
+        "rank1Disposition": "Previously blocked at 2026-09-01T04:41Z; not reconsidered because no primary source substantiated its central $35B claim.",
+        "rank2Disposition": "Skipped: Federal Reserve materials confirm the meeting but do not substantiate the claimed 55% probability or an outcome before the meeting."
+      },
+      "mirroredFacts": [
+        "CK Zheng is the former global head of valuation risk at Credit Suisse and co-founder/CIO of ZX Squared Capital.",
+        "Zheng told Investing.com that he expects Bitcoin to reach $150,000 by late 2027.",
+        "The forecast was presented as Zheng's opinion and cited institutional adoption and regulatory clarity as part of his rationale."
+      ],
+      "materialFacts": [
+        {
+          "fact": "Bitcoin could reach $150,000 by late 2027, according to CK Zheng.",
+          "source": "https://www.investing.com/news/cryptocurrency-news/bitcoins-worst-is-over-former-credit-suisse-risk%2Dhead-sees-150000-by-2027-4883017"
+        },
+        {
+          "fact": "The claim is an attributed market forecast, not a company filing, official price target, or investment recommendation.",
+          "source": "https://www.investing.com/news/cryptocurrency-news/bitcoins-worst-is-over-former-credit-suisse-risk%2Dhead-sees-150000-by-2027-4883017"
+        }
+      ],
+      "verificationSources": [
+        "https://www.investing.com/news/cryptocurrency-news/bitcoins-worst-is-over-former-credit-suisse-risk%2Dhead-sees-150000-by-2027-4883017"
+      ],
+      "verificationNotes": "Rank 3 was verified through contemporaneous authoritative financial reporting of a direct interview. Wording keeps the price target explicitly attributed to Zheng. No benchmark text or imagery was reused.",
+      "postText": "Bitcoin is staring at a $150K call for late 2027.\n\nCK Zheng, ex-Credit Suisse risk chief, told Investing.com the worst of the cycle may be over.\n\nThe thesis: institutional adoption and clearer regulation.\n\nA forecast—not a catalyst.",
+      "imagePath": "deliverables/2026-09-01-btc-zheng-forecast/when2buy-btc-zheng-forecast.png",
+      "createdAt": "2026-09-01T05:00:00Z",
+      "postizPostId": "cmti6rr5r000jnu0y1wf4rbpt",
+      "publishedAt": "2026-09-01T04:47:00.000Z"
     }
   ],
   "posts": [
@@ -1493,6 +1531,15 @@
       "publishedAt": "2026-08-31T07:58:00.000Z",
       "url": "https://x.com/_When2buy/status/2094334035149607267",
       "postizPostId": "cmtgy4ykx048it00ymre96w9m"
+    },
+    {
+      "id": "2094648465645265080",
+      "packageId": "pkg-20260901-btc-zheng-forecast",
+      "title": "Bitcoin: CK Zheng's $150K late-2027 forecast",
+      "status": "published",
+      "publishedAt": "2026-09-01T04:47:00.000Z",
+      "url": "https://x.com/_When2buy/status/2094648465645265080",
+      "postizPostId": "cmti6rr5r000jnu0y1wf4rbpt"
     }
   ],
   "metricSnapshots": [
@@ -1907,6 +1954,15 @@
       "completedAt": "2026-09-01T04:41:54Z",
       "summary": "Production skipped; the newest eligible queue candidate could not be verified into a publishable package.",
       "reason": "Primary-source verification failed for benchmark post 2094568791762215155: no primary source located confirms the claimed $35 billion Anthropic-Lambda cloud deal or the stated NVIDIA/Hut 8 Nueces County lease-and-capacity arrangement. Available Lambda primary releases describe different financings and customer deployments; no package or post was created."
+    },
+    {
+      "id": "run-20260901T044807Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-01T04:48:07.900684+00:00",
+      "completedAt": "2026-09-01T04:48:07.900696+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ]
 }
