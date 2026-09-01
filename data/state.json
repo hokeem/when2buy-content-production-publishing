@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T04:09:42.716976+00:00",
+  "updatedAt": "2026-09-01T04:42:04.808197+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -1898,6 +1898,15 @@
       "completedAt": "2026-09-01T04:09:42Z",
       "summary": "Prepared 5 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260901T044154Z-produce",
+      "mode": "produce",
+      "status": "blocked",
+      "startedAt": "2026-09-01T04:41:54Z",
+      "completedAt": "2026-09-01T04:41:54Z",
+      "summary": "Production skipped; the newest eligible queue candidate could not be verified into a publishable package.",
+      "reason": "Primary-source verification failed for benchmark post 2094568791762215155: no primary source located confirms the claimed $35 billion Anthropic-Lambda cloud deal or the stated NVIDIA/Hut 8 Nueces County lease-and-capacity arrangement. Available Lambda primary releases describe different financings and customer deployments; no package or post was created."
     }
   ]
 }
