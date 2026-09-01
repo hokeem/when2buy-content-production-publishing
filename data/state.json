@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T04:48:07.901029+00:00",
+  "updatedAt": "2026-09-01T05:32:40.218970+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -1446,6 +1446,25 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2094535439570878878",
+      "rank": 5,
+      "title": "APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg",
+      "benchmarkPostId": "2094535439570878878",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094535439570878878",
+      "score": 17,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-01T05:32:40Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -1962,6 +1981,28 @@
       "startedAt": "2026-09-01T04:48:07.900684+00:00",
       "completedAt": "2026-09-01T04:48:07.900696+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260901T053240Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-01T05:32:40Z",
+      "completedAt": "2026-09-01T05:32:40Z",
+      "summary": "Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260901T053240Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-01T05:32:40Z",
+      "completedAt": "2026-09-01T05:32:40Z",
+      "summary": "Prepared 5 one-to-one production candidate(s).",
       "reason": ""
     }
   ]

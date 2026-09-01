@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-01T04:48:07.901029+00:00`
+- 状态更新：`2026-09-01T05:32:40.218970+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**54**
-- 待选选题：**5**
+- 待选选题：**6**
 - 待发布制作包：**0**
 - 已验证发布：**3**
 
@@ -51,6 +51,7 @@
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
+| 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 
 ## 制作队列
 
@@ -79,6 +80,8 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ## 最近运行
 
+- `2026-09-01T05:32:40Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
+- `2026-09-01T05:32:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
 - `2026-09-01T04:48:07.900684+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-01T04:41:54Z` **produce / blocked** — Production skipped; the newest eligible queue candidate could not be verified into a publishable package. Primary-source verification failed for benchmark post 2094568791762215155: no primary source located confirms the claimed $35 billion Anthropic-Lambda cloud deal or the stated NVIDIA/Hut 8 Nueces County lease-and-capacity arrangement. Available Lambda primary releases describe different financings and customer deployments; no package or post was created.
 - `2026-09-01T04:09:42Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
@@ -97,5 +100,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-08-30T05:39:12Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-29T15:10:10Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-29T07:16:26Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-28T23:38:30Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-28T11:37:14Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
