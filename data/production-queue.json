@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:57:30Z",
+  "generatedAt": "2026-09-01T16:51:35Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
@@ -32,9 +32,9 @@
         "views": 17869
       },
       "postedAt": "Tue Sep 01 11:30:40 +0000 2026",
-      "score": 20,
+      "score": 19,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -140,9 +140,9 @@
         "views": 32266
       },
       "postedAt": "Tue Sep 01 08:43:27 +0000 2026",
-      "score": 18,
+      "score": 17,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
@@ -180,9 +180,9 @@
         "views": 40844
       },
       "postedAt": "Mon Aug 31 16:26:05 +0000 2026",
-      "score": 18,
+      "score": 17,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,

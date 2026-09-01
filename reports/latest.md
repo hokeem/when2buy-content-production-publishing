@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-01T11:57:30.587784+00:00`
+- 状态更新：`2026-09-01T16:51:35.449991+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**63**
 - 待选选题：**8**
@@ -82,6 +82,8 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ## 最近运行
 
+- `2026-09-01T16:51:35Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
+- `2026-09-01T16:51:35Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-01T11:57:30Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-01T11:57:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 9 new post(s).
 - `2026-09-01T05:32:40Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
@@ -100,5 +102,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-08-31T08:24:04Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-31T08:15:04Z` **full / succeeded** — Apify benchmark source, primary-source verification, original visual, Postiz publication, and public X URL verification completed.
 - `2026-08-31T05:54:07Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-30T14:54:54Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-30T05:39:12Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
