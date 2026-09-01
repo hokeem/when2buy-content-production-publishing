@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T03:40:39.661707+00:00",
+  "updatedAt": "2026-09-01T04:09:42.716976+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -806,9 +806,648 @@
       "source": "apify",
       "capturedAt": "2026-08-31T08:15:04Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2094568791762215155",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094568791762215155",
+      "postedAt": "Mon Aug 31 23:31:29 +0000 2026",
+      "text": "ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD\n\nThe deal is with Lambda, an Nvidia-backed cloud provider, but Nvidia itself holds the lease on the actual data center\n\nThe data center is being built by Hut 8 in Nueces County, Texas. Nvidia signed its own agreement with Hut 8 a few weeks ago to lock down the capacity.\n\nLambda will use the space to plug in chips it bought from Nvidia, which is also its investor. - WSJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg"
+      ],
+      "engagement": {
+        "likes": 661,
+        "replies": 35,
+        "reposts": 68,
+        "quotes": 14,
+        "views": 59820
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094568791762215155-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094567351962255556",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094567351962255556",
+      "postedAt": "Mon Aug 31 23:25:46 +0000 2026",
+      "text": "A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER\n\nThere is now a 55% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% in September https://t.co/Vt4dUtgul9",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg"
+      ],
+      "engagement": {
+        "likes": 75,
+        "replies": 21,
+        "reposts": 11,
+        "quotes": 1,
+        "views": 23979
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094567351962255556-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094545613836722658",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094545613836722658",
+      "postedAt": "Mon Aug 31 21:59:23 +0000 2026",
+      "text": "Robinhood $HOOD CEO Vlad Tenev just posted this:\n\n\"Robinhood Banking has crossed $4B in assets.\"",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 126,
+        "replies": 6,
+        "reposts": 10,
+        "quotes": 0,
+        "views": 37157
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2094535439570878878",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094535439570878878",
+      "postedAt": "Mon Aug 31 21:18:58 +0000 2026",
+      "text": "APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 299,
+        "replies": 17,
+        "reposts": 20,
+        "quotes": 0,
+        "views": 37469
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2094528834208952805",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094528834208952805",
+      "postedAt": "Mon Aug 31 20:52:43 +0000 2026",
+      "text": "JUST IN: 🇺🇸 S&amp;P 500 posts its highest monthly close ever. https://t.co/E0kEoXng22",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRFC3vRXMAAQvR5.jpg",
+        "https://pbs.twimg.com/media/HRFC3vHXwAE-13V.jpg"
+      ],
+      "engagement": {
+        "likes": 679,
+        "replies": 36,
+        "reposts": 29,
+        "quotes": 5,
+        "views": 43292
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRFC3vRXMAAQvR5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094528834208952805-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRFC3vHXwAE-13V.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094528834208952805-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094524356210602289",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094524356210602289",
+      "postedAt": "Mon Aug 31 20:34:55 +0000 2026",
+      "text": "This is how every stock in the S&amp;P 500 performed today https://t.co/2LY0ET94Ho",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRE-zF-XoAAdxap.jpg"
+      ],
+      "engagement": {
+        "likes": 70,
+        "replies": 10,
+        "reposts": 8,
+        "quotes": 1,
+        "views": 28038
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRE-zF-XoAAdxap.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094524356210602289-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094518004851540314",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094518004851540314",
+      "postedAt": "Mon Aug 31 20:09:41 +0000 2026",
+      "text": "JUST IN: 🇺🇸 66% chance of President Trump being impeached during his term, per Kalshi traders. https://t.co/fER03S0fZG",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRE5BWfW0AICpyL.jpg",
+        "https://pbs.twimg.com/media/HRE5BWrXAAAZ6Mh.jpg"
+      ],
+      "engagement": {
+        "likes": 370,
+        "replies": 42,
+        "reposts": 31,
+        "quotes": 2,
+        "views": 36985
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRE5BWfW0AICpyL.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094518004851540314-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRE5BWrXAAAZ6Mh.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094518004851540314-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094505511924175323",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094505511924175323",
+      "postedAt": "Mon Aug 31 19:20:02 +0000 2026",
+      "text": "CrowdStrike $CRWD stock hit new ALL TIME HIGHS today https://t.co/iPF06ypVWk",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HREtqLsWoAAI66B.jpg"
+      ],
+      "engagement": {
+        "likes": 224,
+        "replies": 12,
+        "reposts": 13,
+        "quotes": 6,
+        "views": 34575
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREtqLsWoAAI66B.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094505511924175323-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094505080540090521",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094505080540090521",
+      "postedAt": "Mon Aug 31 19:18:19 +0000 2026",
+      "text": "JUST IN: 🇺🇸 President Trump’s approval rating remains at 33%, the lowest level of his political career - Reuters/Ipsos. https://t.co/LixaCSDCMK",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HREtRMAWMAEE1M-.jpg"
+      ],
+      "engagement": {
+        "likes": 252,
+        "replies": 25,
+        "reposts": 11,
+        "quotes": 1,
+        "views": 32886
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREtRMAWMAEE1M-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094505080540090521-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094503202980868236",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094503202980868236",
+      "postedAt": "Mon Aug 31 19:10:52 +0000 2026",
+      "text": "Meta Platforms $META CEO Mark Zuckerberg just posted this \n\n“Muse Code is out of beta and now built to handle bigger, more complex engineering tasks.“\n\n“Workflows can break out a task across multiple focused agents, carry the intermediate work between stages, and return one result at the end. Good for engineering work that's too complex for a single agent.￼”",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRErj9vWgAANFPC.jpg"
+      ],
+      "engagement": {
+        "likes": 147,
+        "replies": 14,
+        "reposts": 3,
+        "quotes": 2,
+        "views": 37944
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRErj9vWgAANFPC.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094503202980868236-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094493720263397836",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094493720263397836",
+      "postedAt": "Mon Aug 31 18:33:11 +0000 2026",
+      "text": "JUST IN: Bitwise’s $XRP ETF has surpassed $500,000,000 in assets under management just nine months after launch. https://t.co/uI0P5Algns",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HREi74-WEAAQ3nn.jpg",
+        "https://pbs.twimg.com/media/HREi75lW8AAVIeZ.jpg"
+      ],
+      "engagement": {
+        "likes": 958,
+        "replies": 33,
+        "reposts": 105,
+        "quotes": 5,
+        "views": 42735
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREi74-WEAAQ3nn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094493720263397836-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREi75lW8AAVIeZ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094493720263397836-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094490737547067842",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094490737547067842",
+      "postedAt": "Mon Aug 31 18:21:20 +0000 2026",
+      "text": "$META is my largest single stock holding 🫡",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 417,
+        "replies": 32,
+        "reposts": 8,
+        "quotes": 1,
+        "views": 61921
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2094484148941414860",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094484148941414860",
+      "postedAt": "Mon Aug 31 17:55:09 +0000 2026",
+      "text": "JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst may be over and expects it to reach $150,000 by late 2027. https://t.co/12DvibVXIV",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HREaOvvW4AA1qGx.jpg",
+        "https://pbs.twimg.com/media/HREaOv9WQAIkEfm.jpg"
+      ],
+      "engagement": {
+        "likes": 391,
+        "replies": 35,
+        "reposts": 30,
+        "quotes": 2,
+        "views": 37458
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREaOvvW4AA1qGx.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094484148941414860-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREaOv9WQAIkEfm.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094484148941414860-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094467570732548406",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094467570732548406",
+      "postedAt": "Mon Aug 31 16:49:16 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Hyperliquid in talks with Kraken parent Payward about a potential U.S. market entry. https://t.co/TJgRvJQVNY",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRELI07W4AACzF4.jpg",
+        "https://pbs.twimg.com/media/HRELI05XsAAPz1i.jpg"
+      ],
+      "engagement": {
+        "likes": 770,
+        "replies": 43,
+        "reposts": 93,
+        "quotes": 17,
+        "views": 51221
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRELI07W4AACzF4.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094467570732548406-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRELI05XsAAPz1i.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094467570732548406-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094461736925491308",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094461736925491308",
+      "postedAt": "Mon Aug 31 16:26:05 +0000 2026",
+      "text": "JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. https://t.co/rl27wc4k1W",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HREF1hjW8AAXo31.jpg",
+        "https://pbs.twimg.com/media/HREF1g5XQAEPzug.jpg"
+      ],
+      "engagement": {
+        "likes": 371,
+        "replies": 40,
+        "reposts": 14,
+        "quotes": 3,
+        "views": 40844
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREF1hjW8AAXo31.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094461736925491308-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREF1g5XQAEPzug.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094461736925491308-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094461725181370675",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2094461725181370675",
+      "postedAt": "Mon Aug 31 16:26:03 +0000 2026",
+      "text": "This is what the Linkedin of the new CEO of Apple $AAPL 🍏 looks like https://t.co/UiyGAd3LQZ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HREDfRrWAAA6SgK.jpg"
+      ],
+      "engagement": {
+        "likes": 3930,
+        "replies": 103,
+        "reposts": 112,
+        "quotes": 30,
+        "views": 343389
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HREDfRrWAAA6SgK.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094461725181370675-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094455043512488019",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094455043512488019",
+      "postedAt": "Mon Aug 31 15:59:30 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Fed Chair Warsh says ‘Economic growth in the US appears to have strengthened.’ https://t.co/DoK4zvMyeP",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRD_wiiWYAACEKC.jpg",
+        "https://pbs.twimg.com/media/HRD_wijW4AA3yqa.jpg"
+      ],
+      "engagement": {
+        "likes": 1347,
+        "replies": 57,
+        "reposts": 91,
+        "quotes": 7,
+        "views": 57692
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRD_wiiWYAACEKC.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094455043512488019-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRD_wijW4AA3yqa.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094455043512488019-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094447104219324482",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094447104219324482",
+      "postedAt": "Mon Aug 31 15:27:57 +0000 2026",
+      "text": "JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM, 5 minutes after it bonded..\n\nSince then, it has logged a cluster of 75 KOL calls.\nFONE later peaked at $37M MC on Aug 28 at 16:00, about 145x from the first tracked call.\n\nMWX Alpha tracks who called, at what market cap, plus smart wallet flow and CT narrative momentum.\n\nFull breakdown: https://t.co/BGtPmiyWmk",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
+        "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg"
+      ],
+      "engagement": {
+        "likes": 167,
+        "replies": 22,
+        "reposts": 13,
+        "quotes": 0,
+        "views": 37858
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2094411842252591224",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2094411842252591224",
+      "postedAt": "Mon Aug 31 13:07:50 +0000 2026",
+      "text": "JUST IN: Tom Lee’s BitMine bought 53,501 $ETH last week, bringing the total to 5.9 million Ethereum. https://t.co/wM2iMcghyK",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRDYdwwWMAAvP79.jpg",
+        "https://pbs.twimg.com/media/HRDYdwzXMAAGA95.jpg"
+      ],
+      "engagement": {
+        "likes": 522,
+        "replies": 38,
+        "reposts": 29,
+        "quotes": 6,
+        "views": 39769
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-01T04:09:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRDYdwwWMAAvP79.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094411842252591224-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRDYdwzXMAAGA95.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094411842252591224-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
-  "radar": [],
+  "radar": [
+    {
+      "id": "radar-2094568791762215155",
+      "rank": 1,
+      "title": "ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD The deal is with …",
+      "benchmarkPostId": "2094568791762215155",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094568791762215155",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-01T04:09:42Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094567351962255556",
+      "rank": 2,
+      "title": "A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha…",
+      "benchmarkPostId": "2094567351962255556",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094567351962255556",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-01T04:09:42Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094484148941414860",
+      "rank": 3,
+      "title": "JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst …",
+      "benchmarkPostId": "2094484148941414860",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094484148941414860",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-01T04:09:42Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094461736925491308",
+      "rank": 4,
+      "title": "JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http…",
+      "benchmarkPostId": "2094461736925491308",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094461736925491308",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-01T04:09:42Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094447104219324482",
+      "rank": 5,
+      "title": "JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,…",
+      "benchmarkPostId": "2094447104219324482",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094447104219324482",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-01T04:09:42Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    }
+  ],
   "packages": [
     {
       "id": "pkg-aapl-leadership-20260831",
@@ -1237,6 +1876,28 @@
       "completedAt": "2026-09-01T03:40:02Z",
       "reason": "The mature Intel public X status URL returned HTTP 403 Forbidden, so visible engagement counters could not be read reliably. Apple was 19h 42m old at review time and was not yet mature enough for a meaningful check.",
       "summary": "Appended an Intel metric snapshot with null counters and attributable public-fetch evidence; no metrics were estimated or invented."
+    },
+    {
+      "id": "run-20260901T040941Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-01T04:09:41Z",
+      "completedAt": "2026-09-01T04:09:41Z",
+      "summary": "Apify scanned both benchmark accounts; captured 19 eligible originals and added 19 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260901T040942Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-01T04:09:42Z",
+      "completedAt": "2026-09-01T04:09:42Z",
+      "summary": "Prepared 5 one-to-one production candidate(s).",
+      "reason": ""
     }
   ]
 }

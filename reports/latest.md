@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-01T03:40:39.661707+00:00`
+- 状态更新：`2026-09-01T04:09:42.716976+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**35**
-- 待选选题：**0**
+- 对标帖子快照：**54**
+- 待选选题：**5**
 - 待发布制作包：**0**
 - 已验证发布：**2**
 
@@ -11,6 +11,25 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Aug 31 13:07:50 +0000 2026 | JUST IN: Tom Lee’s BitMine bought 53,501 $ETH last week, bringing the total to 5.9 million Ethereum. https://t.co/wM2iMcghyK | [X](https://x.com/WhaleInsider/status/2094411842252591224) |
+| @WhaleInsider | Mon Aug 31 15:27:57 +0000 2026 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM, 5 minutes after it bonded..  Since then, it has logged a cluster of 75 KOL calls. FONE later peaked at $37M MC on Aug 28 at 16:00, about 145x from the first tracked call.  MWX Alpha tracks who called, at what market cap, plus smart wallet flow and CT narrative momentum.  Full breakdown: https://t.co/BGtPmiyWmk | [X](https://x.com/WhaleInsider/status/2094447104219324482) |
+| @WhaleInsider | Mon Aug 31 15:59:30 +0000 2026 | JUST IN: 🇺🇸 Fed Chair Warsh says ‘Economic growth in the US appears to have strengthened.’ https://t.co/DoK4zvMyeP | [X](https://x.com/WhaleInsider/status/2094455043512488019) |
+| @StockMKTNewz | Mon Aug 31 16:26:03 +0000 2026 | This is what the Linkedin of the new CEO of Apple $AAPL 🍏 looks like https://t.co/UiyGAd3LQZ | [X](https://x.com/StockMKTNewz/status/2094461725181370675) |
+| @WhaleInsider | Mon Aug 31 16:26:05 +0000 2026 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. https://t.co/rl27wc4k1W | [X](https://x.com/WhaleInsider/status/2094461736925491308) |
+| @WhaleInsider | Mon Aug 31 16:49:16 +0000 2026 | JUST IN: 🇺🇸 Hyperliquid in talks with Kraken parent Payward about a potential U.S. market entry. https://t.co/TJgRvJQVNY | [X](https://x.com/WhaleInsider/status/2094467570732548406) |
+| @WhaleInsider | Mon Aug 31 17:55:09 +0000 2026 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst may be over and expects it to reach $150,000 by late 2027. https://t.co/12DvibVXIV | [X](https://x.com/WhaleInsider/status/2094484148941414860) |
+| @StockMKTNewz | Mon Aug 31 18:21:20 +0000 2026 | $META is my largest single stock holding 🫡 | [X](https://x.com/StockMKTNewz/status/2094490737547067842) |
+| @WhaleInsider | Mon Aug 31 18:33:11 +0000 2026 | JUST IN: Bitwise’s $XRP ETF has surpassed $500,000,000 in assets under management just nine months after launch. https://t.co/uI0P5Algns | [X](https://x.com/WhaleInsider/status/2094493720263397836) |
+| @StockMKTNewz | Mon Aug 31 19:10:52 +0000 2026 | Meta Platforms $META CEO Mark Zuckerberg just posted this   “Muse Code is out of beta and now built to handle bigger, more complex engineering tasks.“  “Workflows can break out a task across multiple focused agents, carry the intermediate work between stages, and return one result at the end. Good for engineering work that's too complex for a single agent.￼” | [X](https://x.com/StockMKTNewz/status/2094503202980868236) |
+| @WhaleInsider | Mon Aug 31 19:18:19 +0000 2026 | JUST IN: 🇺🇸 President Trump’s approval rating remains at 33%, the lowest level of his political career - Reuters/Ipsos. https://t.co/LixaCSDCMK | [X](https://x.com/WhaleInsider/status/2094505080540090521) |
+| @StockMKTNewz | Mon Aug 31 19:20:02 +0000 2026 | CrowdStrike $CRWD stock hit new ALL TIME HIGHS today https://t.co/iPF06ypVWk | [X](https://x.com/StockMKTNewz/status/2094505511924175323) |
+| @WhaleInsider | Mon Aug 31 20:09:41 +0000 2026 | JUST IN: 🇺🇸 66% chance of President Trump being impeached during his term, per Kalshi traders. https://t.co/fER03S0fZG | [X](https://x.com/WhaleInsider/status/2094518004851540314) |
+| @StockMKTNewz | Mon Aug 31 20:34:55 +0000 2026 | This is how every stock in the S&amp;P 500 performed today https://t.co/2LY0ET94Ho | [X](https://x.com/StockMKTNewz/status/2094524356210602289) |
+| @WhaleInsider | Mon Aug 31 20:52:43 +0000 2026 | JUST IN: 🇺🇸 S&amp;P 500 posts its highest monthly close ever. https://t.co/E0kEoXng22 | [X](https://x.com/WhaleInsider/status/2094528834208952805) |
+| @StockMKTNewz | Mon Aug 31 21:18:58 +0000 2026 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | [X](https://x.com/StockMKTNewz/status/2094535439570878878) |
+| @StockMKTNewz | Mon Aug 31 21:59:23 +0000 2026 | Robinhood $HOOD CEO Vlad Tenev just posted this:  "Robinhood Banking has crossed $4B in assets." | [X](https://x.com/StockMKTNewz/status/2094545613836722658) |
+| @StockMKTNewz | Mon Aug 31 23:25:46 +0000 2026 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER  There is now a 55% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% in September https://t.co/Vt4dUtgul9 | [X](https://x.com/StockMKTNewz/status/2094567351962255556) |
+| @StockMKTNewz | Mon Aug 31 23:31:29 +0000 2026 | ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD  The deal is with Lambda, an Nvidia-backed cloud provider, but Nvidia itself holds the lease on the actual data center  The data center is being built by Hut 8 in Nueces County, Texas. Nvidia signed its own agreement with Hut 8 a few weeks ago to lock down the capacity.  Lambda will use the space to plug in chips it bought from Nvidia, which is also its investor. - WSJ | [X](https://x.com/StockMKTNewz/status/2094568791762215155) |
 | @StockMKTNewz | Sun Aug 30 23:36:15 +0000 2026 | Tim Cook will remain fully involved at Apple $AAPL as he moves into the role of chairman of Apple's board of directors | [X](https://x.com/StockMKTNewz/status/2094207602661966183) |
 | @WhaleInsider | Mon Aug 24 12:00:01 +0000 2026 | JUST IN: $BTC forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/AKtrgus6h4 | [X](https://x.com/WhaleInsider/status/2091858062495699173) |
 | @WhaleInsider | Mon Aug 24 12:26:17 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury could use its $935,000,000,000 cash stockpile to fund expanded bond buybacks, rather than relying solely on new short-term debt issuance. https://t.co/I0zRT5ORZx | [X](https://x.com/WhaleInsider/status/2091864671334858846) |
@@ -22,29 +41,16 @@
 | @StockMKTNewz | Mon Aug 24 10:24:11 +0000 2026 | Xpeng $XPEV just said its robotics unit raised more than $900M at a $6.3 Billion valuation in its first funding round  “the largest single private financing in China’s embodied AI sector.” | [X](https://x.com/StockMKTNewz/status/2091833946271101177) |
 | @StockMKTNewz | Mon Aug 24 00:16:12 +0000 2026 | Rocket Lab $RKLB just posted this today   “Pre-flight testing with Hungry Hippo is underway” https://t.co/4KLDhPr1CE | [X](https://x.com/StockMKTNewz/status/2091680939873018137) |
 | @StockMKTNewz | Mon Aug 24 03:22:22 +0000 2026 | Nvidia $NVDA is reportedly in talks to invest multiple billions of dollars into Perplexity at a $30+ Billion valuation | [X](https://x.com/StockMKTNewz/status/2091727792161296758) |
-| @WhaleInsider | Mon Aug 24 06:50:07 +0000 2026 | JUST IN: Cyberleek.sns is reportedly now owned by CYBERLEEK, although the user remains “mysterious.” https://t.co/VOoy2fSW8U | [X](https://x.com/WhaleInsider/status/2091780074097741980) |
-| @WhaleInsider | Mon Aug 24 06:58:54 +0000 2026 | JUST IN: 🇺🇸 U.S. crude inventories have fallen to just 41 days of supply, the tightest buffer seen in 50 years. https://t.co/DBhISsG30f | [X](https://x.com/WhaleInsider/status/2091782282667257978) |
-| @WhaleInsider | Sun Aug 23 09:40:24 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Iran will hit U.S. economic interests if sanctioned - national security chief. https://t.co/g62558gwhP | [X](https://x.com/WhaleInsider/status/2091460538219770100) |
-| @WhaleInsider | Sun Aug 23 10:40:56 +0000 2026 | JUST IN: $ETH forecasted to hit a high of $2.66K this month, per Kalshi traders. https://t.co/sFAk6SgQ4F | [X](https://x.com/WhaleInsider/status/2091475771814547622) |
-| @WhaleInsider | Sun Aug 23 15:07:49 +0000 2026 | JUST IN: Coldcard hardware wallet flaw caused 1,816 $BTC worth $116,000,000 to be stolen, raising self-custody risks. https://t.co/g11lc3BbZr | [X](https://x.com/WhaleInsider/status/2091542933866480038) |
-| @WhaleInsider | Sun Aug 23 16:43:50 +0000 2026 | JUST IN: $XRP enabled for FedNow Payments via Volante's Ripple Integration. https://t.co/okclWQQL3v | [X](https://x.com/WhaleInsider/status/2091567098292027502) |
-| @WhaleInsider | Sun Aug 23 17:14:54 +0000 2026 | JUST IN: 🇺🇸 U.S. spot $BTC ETFs saw $1.92 billion in net inflows this week, highest since October 2025. https://t.co/j4KunuTHkr | [X](https://x.com/WhaleInsider/status/2091574918462714193) |
-| @WhaleInsider | Sun Aug 23 18:01:06 +0000 2026 | JUST IN: Crypto card spending hits $1B in July 2026, with stablecoins powering 70%+ of everyday buys​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/CTi14kBOUF | [X](https://x.com/WhaleInsider/status/2091586545551622455) |
-| @WhaleInsider | Sun Aug 23 18:32:47 +0000 2026 | JUST IN: 🇺🇸 Odds of a Fed rate cute before 2027 fall below 13%, per Kalshi traders. https://t.co/7DA1r3mkxv | [X](https://x.com/WhaleInsider/status/2091594517518438881) |
-| @WhaleInsider | Sun Aug 23 19:21:49 +0000 2026 | JUST IN: Hugging Face has been fielding acquisition interest at a valuation of at least $13 billion - Business Insider. https://t.co/rRAR6Hr89B | [X](https://x.com/WhaleInsider/status/2091606856506450211) |
-| @StockMKTNewz | Sun Aug 23 22:04:49 +0000 2026 | This is what it looks like when you go from a large company to the largest company in the world https://t.co/H663MAHrTl | [X](https://x.com/StockMKTNewz/status/2091647876489244890) |
-| @StockMKTNewz | Sun Aug 23 23:25:59 +0000 2026 | Stock futures are back … we’re getting closer to the market being open again 👀 https://t.co/OWPpokXsKh | [X](https://x.com/StockMKTNewz/status/2091668303856972079) |
-| @StockMKTNewz | Sun Aug 23 23:42:04 +0000 2026 | Here is the macro calendar for the week - TradingEconomics  (There's more events to watch out for this week on my catalyt watch below) https://t.co/tBoA7ZqN0Y | [X](https://x.com/StockMKTNewz/status/2091672349951041665) |
-| @StockMKTNewz | Sun Aug 23 23:57:00 +0000 2026 | Amazon's $AMZN newest self-driving cars without a steering wheel, dashboard or pedals have started hitting the streets in San Francisco and charging for rides in Las Vegas  They can drive in either direction and hold up to four passengers who sit facing each other. Windows stretch across much of the sides - WSJ | [X](https://x.com/StockMKTNewz/status/2091676107770855428) |
-| @WhaleInsider | Fri Aug 21 19:18:54 +0000 2026 | JUST IN: Jim Cramer says "buy Bitcoin." https://t.co/MglL6Twzja | [X](https://x.com/WhaleInsider/status/2090881346709143938) |
-| @WhaleInsider | Fri Jan 31 16:49:22 +0000 2025 | NEW: BlackRock buys 24,529 Ethereum worth $83.24M. https://t.co/kD8yIIwJzY | [X](https://x.com/WhaleInsider/status/1885369796503445614) |
-| @StockMKTNewz | Fri Jul 28 16:17:04 +0000 2023 | People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/iuRS8tZ0El | [X](https://x.com/StockMKTNewz/status/1684961178399735809) |
-| @StockMKTNewz | Mon Jun 05 01:12:33 +0000 2023 | People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/mFhTAMg25Q | [X](https://x.com/StockMKTNewz/status/1665526991850811394) |
-| @StockMKTNewz | Mon May 19 18:07:15 +0000 2025 | People that locked in a 30-year fixed mortgage at 2.69% in 2021 https://t.co/DZC2HXI7jT | [X](https://x.com/StockMKTNewz/status/1924527284154736782) |
 
 ## 选题推荐
 
-尚无选题；等待下一次 `radar` 运行。
+| 排名 | 选题 | 信号源 | 分数 | 为什么是现在 |
+|---:|---|---|---:|---|
+| 1 | ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD The deal is with … | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
+| 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
+| 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
+| 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
+| 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 
 ## 制作队列
 
@@ -65,6 +71,8 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 
 ## 最近运行
 
+- `2026-09-01T04:09:42Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
+- `2026-09-01T04:09:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 19 new post(s).
 - `2026-09-01T03:40:02Z` **review / blocked** — Appended an Intel metric snapshot with null counters and attributable public-fetch evidence; no metrics were estimated or invented. The mature Intel public X status URL returned HTTP 403 Forbidden, so visible engagement counters could not be read reliably. Apple was 19h 42m old at review time and was not yet mature enough for a meaningful check.
 - `2026-09-01T03:38:16Z` **produce / blocked** — Production skipped; no eligible queue candidate was available for a validated original package. No eligible queue candidate: data/production-queue.json contains no items, and the newest captured benchmark event is already covered by published package pkg-aapl-leadership-20260831.
 - `2026-08-31T19:12:56Z` **queue / succeeded** — Prepared 0 one-to-one production candidate(s).
@@ -83,5 +91,3 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 - `2026-08-28T11:37:14Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-27T20:41:20Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-27T10:08:00Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-26T16:00:36Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-26T11:01:35Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
