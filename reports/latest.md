@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-08-31T19:12:56.920983+00:00`
+- 状态更新：`2026-09-01T03:38:28.415706+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**35**
 - 待选选题：**0**
@@ -65,6 +65,7 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 
 ## 最近运行
 
+- `2026-09-01T03:38:16Z` **produce / blocked** — Production skipped; no eligible queue candidate was available for a validated original package. No eligible queue candidate: data/production-queue.json contains no items, and the newest captured benchmark event is already covered by published package pkg-aapl-leadership-20260831.
 - `2026-08-31T19:12:56Z` **queue / succeeded** — Prepared 0 one-to-one production candidate(s).
 - `2026-08-31T19:12:56Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-31T08:28:01Z` **queue / succeeded** — Prepared 0 one-to-one production candidate(s).
@@ -84,4 +85,3 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 - `2026-08-26T16:00:36Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-26T11:01:35Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-26T05:05:57Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-26T02:09:21Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
