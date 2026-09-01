@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T03:38:28.415706+00:00",
+  "updatedAt": "2026-09-01T03:40:39.661707+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -856,7 +856,20 @@
       "postizPostId": "cmtgy4ykx048it00ymre96w9m"
     }
   ],
-  "metricSnapshots": [],
+  "metricSnapshots": [
+    {
+      "id": "2084535905050829005-20260901T034002Z",
+      "postId": "2084535905050829005",
+      "observedAt": "2026-09-01T03:40:02Z",
+      "evidence": {
+        "source": "public X status URL",
+        "url": "https://x.com/_When2buy/status/2084535905050829005",
+        "checkedAt": "2026-09-01T03:40:02Z",
+        "result": "HTTP 403 Forbidden; no visible public counters were returned."
+      },
+      "observation": "Intel is mature enough for review, but no reliable public engagement metrics were readable; all unavailable counters remain null."
+    }
+  ],
   "experiments": [],
   "runs": [
     {
@@ -1215,6 +1228,15 @@
       "completedAt": "2026-09-01T03:38:16Z",
       "summary": "Production skipped; no eligible queue candidate was available for a validated original package.",
       "reason": "No eligible queue candidate: data/production-queue.json contains no items, and the newest captured benchmark event is already covered by published package pkg-aapl-leadership-20260831."
+    },
+    {
+      "id": "run-20260901T034002Z-review",
+      "mode": "review",
+      "status": "blocked",
+      "startedAt": "2026-09-01T03:40:02Z",
+      "completedAt": "2026-09-01T03:40:02Z",
+      "reason": "The mature Intel public X status URL returned HTTP 403 Forbidden, so visible engagement counters could not be read reliably. Apple was 19h 42m old at review time and was not yet mature enough for a meaningful check.",
+      "summary": "Appended an Intel metric snapshot with null counters and attributable public-fetch evidence; no metrics were estimated or invented."
     }
   ]
 }
