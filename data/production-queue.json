@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T16:51:35Z",
+  "generatedAt": "2026-09-02T04:57:55Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
@@ -32,9 +32,9 @@
         "views": 17869
       },
       "postedAt": "Tue Sep 01 11:30:40 +0000 2026",
-      "score": 19,
+      "score": 18,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -66,9 +66,9 @@
         "views": 59820
       },
       "postedAt": "Mon Aug 31 23:31:29 +0000 2026",
-      "score": 19,
+      "score": 18,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -100,9 +100,9 @@
         "views": 23979
       },
       "postedAt": "Mon Aug 31 23:25:46 +0000 2026",
-      "score": 19,
+      "score": 18,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -112,46 +112,6 @@
     },
     {
       "rank": 4,
-      "benchmarkPostId": "2094707697350295566",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094707697350295566",
-      "originalText": "JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holders. Hold PANDA. Earn COIN. Powered by @ponsdotfamily. https://t.co/k4LzIx7hEI",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRHli6nWMAEkWHn.jpg",
-        "https://pbs.twimg.com/media/HRHli6kW0AANgUu.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRHli6nWMAEkWHn.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094707697350295566-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRHli6kW0AANgUu.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094707697350295566-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 213,
-        "replies": 30,
-        "reposts": 24,
-        "quotes": 3,
-        "views": 32266
-      },
-      "postedAt": "Tue Sep 01 08:43:27 +0000 2026",
-      "score": 17,
-      "scoreBreakdown": {
-        "freshness": 4,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 5,
       "benchmarkPostId": "2094461736925491308",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094461736925491308",
@@ -180,6 +140,46 @@
         "views": 40844
       },
       "postedAt": "Mon Aug 31 16:26:05 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 5,
+      "benchmarkPostId": "2094447104219324482",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094447104219324482",
+      "originalText": "JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM, 5 minutes after it bonded..\n\nSince then, it has logged a cluster of 75 KOL calls.\nFONE later peaked at $37M MC on Aug 28 at 16:00, about 145x from the first tracked call.\n\nMWX Alpha tracks who called, at what market cap, plus smart wallet flow and CT narrative momentum.\n\nFull breakdown: https://t.co/BGtPmiyWmk",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
+        "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 167,
+        "replies": 22,
+        "reposts": 13,
+        "quotes": 0,
+        "views": 37858
+      },
+      "postedAt": "Mon Aug 31 15:27:57 +0000 2026",
       "score": 17,
       "scoreBreakdown": {
         "freshness": 2,
