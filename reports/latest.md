@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-02T04:57:55.377351+00:00`
+- 状态更新：`2026-09-02T11:39:54.817603+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**63**
 - 待选选题：**8**
@@ -82,6 +82,8 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ## 最近运行
 
+- `2026-09-02T11:39:54Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
+- `2026-09-02T11:39:54Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-02T04:57:55Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-02T04:57:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-01T16:51:35Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
@@ -100,5 +102,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-08-31T19:12:56Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-08-31T08:28:01Z` **queue / succeeded** — Prepared 0 one-to-one production candidate(s).
 - `2026-08-31T08:28:00Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-08-31T08:24:13Z` **queue / succeeded** — Prepared 0 one-to-one production candidate(s).
-- `2026-08-31T08:24:04Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.

@@ -1,49 +1,9 @@
 {
-  "generatedAt": "2026-09-02T04:57:55Z",
+  "generatedAt": "2026-09-02T11:39:54Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2094749779653800408",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
-      "originalText": "JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https://t.co/1nTXKalehC",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
-        "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 209,
-        "replies": 30,
-        "reposts": 9,
-        "quotes": 5,
-        "views": 17869
-      },
-      "postedAt": "Tue Sep 01 11:30:40 +0000 2026",
-      "score": 18,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2094568791762215155",
       "benchmarkAccount": "StockMKTNewz",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094568791762215155",
@@ -77,7 +37,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "benchmarkPostId": "2094567351962255556",
       "benchmarkAccount": "StockMKTNewz",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094567351962255556",
@@ -104,6 +64,46 @@
       "scoreBreakdown": {
         "freshness": 2,
         "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2094749779653800408",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
+      "originalText": "JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https://t.co/1nTXKalehC",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
+        "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 209,
+        "replies": 30,
+        "reposts": 9,
+        "quotes": 5,
+        "views": 17869
+      },
+      "postedAt": "Tue Sep 01 11:30:40 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
