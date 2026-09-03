@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T05:35:47.348165+00:00`
+- 状态更新：`2026-09-03T05:40:13.009492+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**63**
-- 待选选题：**8**
+- 对标帖子快照：**71**
+- 待选选题：**11**
 - 待发布制作包：**0**
 - 已验证发布：**3**
 
@@ -11,6 +11,14 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 03 00:40:10 +0000 2026 | UBER AND WAYVE JUST LAUNCHED ROBOTAXIS IN LONDON, THE FIRST BROAD AV AVAILABILITY IN THE CITY  Starting Thursday, riders using Uber's app in London 🇬🇧 could be matched with a vehicle running Wayve's autonomous-driving technology.   A human driver still sits behind the wheel to monitor and take over if needed, while the companies work toward full regulatory approval for driverless operation. | [X](https://x.com/StockMKTNewz/status/2095310852081566126) |
+| @StockMKTNewz | Thu Sep 03 01:54:22 +0000 2026 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK  The truck called the Ford Fathom will start around $30,000 and will go on sale starting next year - WSJ The truck, called the Ford Fathom, starts around $30,000 and goes on sale next year, according to people familiar with the matter. Ford is aiming for mainstream volume its earlier, pricier EVs never reached. | [X](https://x.com/StockMKTNewz/status/2095329525928255559) |
+| @WhaleInsider | Wed Sep 02 17:49:33 +0000 2026 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first Roblox-themed coin paired with $RBLX stock. https://t.co/zoBWXax5ss | [X](https://x.com/WhaleInsider/status/2095207516124684726) |
+| @WhaleInsider | Wed Sep 02 18:41:57 +0000 2026 | JUST IN: Robinhood Chain $HOOD has gone from zero to the largest issuer of stock tokens by holder count in roughly two months - Token Terminal. https://t.co/C9LnidaH3D | [X](https://x.com/WhaleInsider/status/2095220701804339504) |
+| @WhaleInsider | Wed Sep 02 19:07:48 +0000 2026 | JUST IN: Lead artist behind SUI’s $100M FUD memecoin launches his own token, $HOPE. https://t.co/TBYl0sXfoh | [X](https://x.com/WhaleInsider/status/2095227206473588751) |
+| @WhaleInsider | Wed Sep 02 20:11:19 +0000 2026 | JUST IN: 🇺🇸 Chairman Paul Atkins says the "Regulation Crypto Assets proposal" is the SEC's most historic step to cement America as the crypto capital of the world. https://t.co/3KoXgy5uy8 | [X](https://x.com/WhaleInsider/status/2095243190899024142) |
+| @StockMKTNewz | Wed Sep 02 21:45:07 +0000 2026 | Michael Dell has started giving $250 to up to $25 Million kids through the @InvestAmerica24 accounts | [X](https://x.com/StockMKTNewz/status/2095266796676804805) |
+| @StockMKTNewz | Wed Sep 02 22:48:49 +0000 2026 | Goodles is about to be acquired by Barilla https://t.co/lPmfQFDGlp | [X](https://x.com/StockMKTNewz/status/2095282828862800063) |
 | @WhaleInsider | Tue Sep 01 05:35:51 +0000 2026 | JUST IN: Canary ETF clients buy $4.71 million worth of $XRP. https://t.co/ZMBJFGKYyW | [X](https://x.com/WhaleInsider/status/2094660485085794525) |
 | @WhaleInsider | Tue Sep 01 06:19:22 +0000 2026 | JUST IN: BlackRock clients buy $205.91 million worth of $BTC. https://t.co/p9hCCzclwo | [X](https://x.com/WhaleInsider/status/2094671438951092233) |
 | @WhaleInsider | Tue Sep 01 07:08:38 +0000 2026 | JUST IN: BlackRock ETF clients buy $59.94 million worth of $ETH. https://t.co/YUQZbtp9cx | [X](https://x.com/WhaleInsider/status/2094683837808644389) |
@@ -33,14 +41,6 @@
 | @WhaleInsider | Mon Aug 31 19:18:19 +0000 2026 | JUST IN: 🇺🇸 President Trump’s approval rating remains at 33%, the lowest level of his political career - Reuters/Ipsos. https://t.co/LixaCSDCMK | [X](https://x.com/WhaleInsider/status/2094505080540090521) |
 | @StockMKTNewz | Mon Aug 31 19:20:02 +0000 2026 | CrowdStrike $CRWD stock hit new ALL TIME HIGHS today https://t.co/iPF06ypVWk | [X](https://x.com/StockMKTNewz/status/2094505511924175323) |
 | @WhaleInsider | Mon Aug 31 20:09:41 +0000 2026 | JUST IN: 🇺🇸 66% chance of President Trump being impeached during his term, per Kalshi traders. https://t.co/fER03S0fZG | [X](https://x.com/WhaleInsider/status/2094518004851540314) |
-| @StockMKTNewz | Mon Aug 31 20:34:55 +0000 2026 | This is how every stock in the S&amp;P 500 performed today https://t.co/2LY0ET94Ho | [X](https://x.com/StockMKTNewz/status/2094524356210602289) |
-| @WhaleInsider | Mon Aug 31 20:52:43 +0000 2026 | JUST IN: 🇺🇸 S&amp;P 500 posts its highest monthly close ever. https://t.co/E0kEoXng22 | [X](https://x.com/WhaleInsider/status/2094528834208952805) |
-| @StockMKTNewz | Mon Aug 31 21:18:58 +0000 2026 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | [X](https://x.com/StockMKTNewz/status/2094535439570878878) |
-| @StockMKTNewz | Mon Aug 31 21:59:23 +0000 2026 | Robinhood $HOOD CEO Vlad Tenev just posted this:  "Robinhood Banking has crossed $4B in assets." | [X](https://x.com/StockMKTNewz/status/2094545613836722658) |
-| @StockMKTNewz | Mon Aug 31 23:25:46 +0000 2026 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER  There is now a 55% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% in September https://t.co/Vt4dUtgul9 | [X](https://x.com/StockMKTNewz/status/2094567351962255556) |
-| @StockMKTNewz | Mon Aug 31 23:31:29 +0000 2026 | ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD  The deal is with Lambda, an Nvidia-backed cloud provider, but Nvidia itself holds the lease on the actual data center  The data center is being built by Hut 8 in Nueces County, Texas. Nvidia signed its own agreement with Hut 8 a few weeks ago to lock down the capacity.  Lambda will use the space to plug in chips it bought from Nvidia, which is also its investor. - WSJ | [X](https://x.com/StockMKTNewz/status/2094568791762215155) |
-| @StockMKTNewz | Sun Aug 30 23:36:15 +0000 2026 | Tim Cook will remain fully involved at Apple $AAPL as he moves into the role of chairman of Apple's board of directors | [X](https://x.com/StockMKTNewz/status/2094207602661966183) |
-| @WhaleInsider | Mon Aug 24 12:00:01 +0000 2026 | JUST IN: $BTC forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/AKtrgus6h4 | [X](https://x.com/WhaleInsider/status/2091858062495699173) |
 
 ## 选题推荐
 
@@ -48,8 +48,11 @@
 |---:|---|---|---:|---|
 | 1 | ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD The deal is with … | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 1 | JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https:/… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
+| 1 | JUST IN: Robinhood Chain $HOOD has gone from zero to the largest issuer of stock tokens by h… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
+| 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
+| 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
@@ -82,6 +85,10 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ## 最近运行
 
+- `2026-09-03T05:39:54Z` **full / blocked** — A fresh Apify collection was attempted only for WhaleInsider and StockMKTNewz but did not complete, so no candidate was selected, produced, or published. Fresh Apify collection gate timed out after 20 seconds with no result or radar state write. The pre-existing production queue was not reused; no factual verification, package creation, Postiz publication, or X release URL verification occurred.
+- `2026-09-03T05:39:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
+- `2026-09-03T05:39:03Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
+- `2026-09-03T05:39:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 8 new post(s).
 - `2026-09-03T05:35:34Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Report sync gate failed closed: REPORT_PUBLISHER_ID was absent after silently sourcing /root/.report-skill/tokens.env; no public destination was created or changed.
 - `2026-09-03T05:34:20Z` **full / blocked** — Production stopped before candidate selection, verification, package creation, or publication because the required Apify discovery collection could not run. Apify collection gate failed: APIFY_TOKEN was absent after silently sourcing /root/.when2buy/secrets.env. The existing production queue was not eligible as a substitute for this unattended run, so no content was published.
 - `2026-09-03T05:34:02Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
@@ -98,7 +105,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-09-01T16:51:35Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-01T11:57:30Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-01T11:57:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 9 new post(s).
-- `2026-09-01T05:32:40Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-01T05:32:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
-- `2026-09-01T04:48:07.900684+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-01T04:41:54Z` **produce / blocked** — Production skipped; the newest eligible queue candidate could not be verified into a publishable package. Primary-source verification failed for benchmark post 2094568791762215155: no primary source located confirms the claimed $35 billion Anthropic-Lambda cloud deal or the stated NVIDIA/Hut 8 Nueces County lease-and-capacity arrangement. Available Lambda primary releases describe different financings and customer deployments; no package or post was created.

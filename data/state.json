@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T05:35:47.348165+00:00",
+  "updatedAt": "2026-09-03T05:40:13.009492+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -1640,6 +1640,232 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095282828862800063",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095282828862800063",
+      "postedAt": "Wed Sep 02 22:48:49 +0000 2026",
+      "text": "Goodles is about to be acquired by Barilla https://t.co/lPmfQFDGlp",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPwoINWgAIf1hC.jpg"
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 39733
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T05:39:02Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPwoINWgAIf1hC.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095282828862800063-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095266796676804805",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095266796676804805",
+      "postedAt": "Wed Sep 02 21:45:07 +0000 2026",
+      "text": "Michael Dell has started giving $250 to up to $25 Million kids through the @InvestAmerica24 accounts",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 176,
+        "replies": 18,
+        "reposts": 12,
+        "quotes": 0,
+        "views": 38928
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T05:39:02Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095243190899024142",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095243190899024142",
+      "postedAt": "Wed Sep 02 20:11:19 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Chairman Paul Atkins says the \"Regulation Crypto Assets proposal\" is the SEC's most historic step to cement America as the crypto capital of the world. https://t.co/3KoXgy5uy8",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPMjaeaoAADohH.jpg",
+        "https://pbs.twimg.com/media/HRPMkDXaAAAU72n.jpg"
+      ],
+      "engagement": {
+        "likes": 425,
+        "replies": 27,
+        "reposts": 39,
+        "quotes": 5,
+        "views": 33448
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T05:39:02Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPMjaeaoAADohH.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095243190899024142-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPMkDXaAAAU72n.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095243190899024142-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095227206473588751",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095227206473588751",
+      "postedAt": "Wed Sep 02 19:07:48 +0000 2026",
+      "text": "JUST IN: Lead artist behind SUI’s $100M FUD memecoin launches his own token, $HOPE. https://t.co/TBYl0sXfoh",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRO-CehXUAInzzg.jpg",
+        "https://pbs.twimg.com/media/HRO-CfHawAATTnE.jpg"
+      ],
+      "engagement": {
+        "likes": 270,
+        "replies": 33,
+        "reposts": 41,
+        "quotes": 8,
+        "views": 52069
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T05:39:02Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRO-CehXUAInzzg.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095227206473588751-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRO-CfHawAATTnE.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095227206473588751-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095220701804339504",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095220701804339504",
+      "postedAt": "Wed Sep 02 18:41:57 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD has gone from zero to the largest issuer of stock tokens by holder count in roughly two months - Token Terminal. https://t.co/C9LnidaH3D",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRO4HgCb0AAfIQ4.jpg"
+      ],
+      "engagement": {
+        "likes": 305,
+        "replies": 19,
+        "reposts": 19,
+        "quotes": 5,
+        "views": 36463
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T05:39:02Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRO4HgCb0AAfIQ4.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095220701804339504-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095207516124684726",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095207516124684726",
+      "postedAt": "Wed Sep 02 17:49:33 +0000 2026",
+      "text": "JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first Roblox-themed coin paired with $RBLX stock. https://t.co/zoBWXax5ss",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROsILXasAA433z.jpg",
+        "https://pbs.twimg.com/media/HROsIKrXsAUWnlE.jpg"
+      ],
+      "engagement": {
+        "likes": 210,
+        "replies": 25,
+        "reposts": 25,
+        "quotes": 7,
+        "views": 42553
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T05:39:02Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROsILXasAA433z.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095207516124684726-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROsIKrXsAUWnlE.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095207516124684726-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095329525928255559",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095329525928255559",
+      "postedAt": "Thu Sep 03 01:54:22 +0000 2026",
+      "text": "FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK\n\nThe truck called the Ford Fathom will start around $30,000 and will go on sale starting next year - WSJ\nThe truck, called the Ford Fathom, starts around $30,000 and goes on sale next year, according to people familiar with the matter. Ford is aiming for mainstream volume its earlier, pricier EVs never reached.",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRQbF8DW4AUb5Xt.jpg"
+      ],
+      "engagement": {
+        "likes": 81,
+        "replies": 19,
+        "reposts": 4,
+        "quotes": 2,
+        "views": 27737
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T05:39:02Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRQbF8DW4AUb5Xt.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095329525928255559-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095310852081566126",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095310852081566126",
+      "postedAt": "Thu Sep 03 00:40:10 +0000 2026",
+      "text": "UBER AND WAYVE JUST LAUNCHED ROBOTAXIS IN LONDON, THE FIRST BROAD AV AVAILABILITY IN THE CITY\n\nStarting Thursday, riders using Uber's app in London 🇬🇧 could be matched with a vehicle running Wayve's autonomous-driving technology. \n\nA human driver still sits behind the wheel to monitor and take over if needed, while the companies work toward full regulatory approval for driverless operation.",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRQKEDebIAAE8BG.jpg"
+      ],
+      "engagement": {
+        "likes": 97,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 25919
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T05:39:02Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRQKEDebIAAE8BG.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095310852081566126-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -1787,6 +2013,63 @@
       "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
       "status": "queued",
       "createdAt": "2026-09-01T11:57:30Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095220701804339504",
+      "rank": 1,
+      "title": "JUST IN: Robinhood Chain $HOOD has gone from zero to the largest issuer of stock tokens by h…",
+      "benchmarkPostId": "2095220701804339504",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095220701804339504",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T05:39:03Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095207516124684726",
+      "rank": 2,
+      "title": "JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R…",
+      "benchmarkPostId": "2095207516124684726",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095207516124684726",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T05:39:03Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095329525928255559",
+      "rank": 3,
+      "title": "FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c…",
+      "benchmarkPostId": "2095329525928255559",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095329525928255559",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T05:39:03Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -2549,6 +2832,50 @@
       "completedAt": "2026-09-03T05:35:34Z",
       "summary": "Rendered local report artifacts but could not update the existing stable run-panel URL.",
       "reason": "Report sync gate failed closed: REPORT_PUBLISHER_ID was absent after silently sourcing /root/.report-skill/tokens.env; no public destination was created or changed."
+    },
+    {
+      "id": "run-20260903T053902Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T05:39:02Z",
+      "completedAt": "2026-09-03T05:39:02Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 8 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260903T053903Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T05:39:03Z",
+      "completedAt": "2026-09-03T05:39:03Z",
+      "summary": "Prepared 5 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T053917Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T05:39:17Z",
+      "completedAt": "2026-09-03T05:39:17Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260903T053954Z-full",
+      "mode": "full",
+      "status": "blocked",
+      "startedAt": "2026-09-03T05:39:54Z",
+      "completedAt": "2026-09-03T05:39:54Z",
+      "summary": "A fresh Apify collection was attempted only for WhaleInsider and StockMKTNewz but did not complete, so no candidate was selected, produced, or published.",
+      "reason": "Fresh Apify collection gate timed out after 20 seconds with no result or radar state write. The pre-existing production queue was not reused; no factual verification, package creation, Postiz publication, or X release URL verification occurred."
     }
   ]
 }
