@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T05:55:18.045306+00:00`
+- 状态更新：`2026-09-03T06:32:54.714344+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**71**
 - 待选选题：**11**
-- 待发布制作包：**0**
+- 待发布制作包：**1**
 - 已验证发布：**3**
 
 ## 对标账号扫描
@@ -74,6 +74,13 @@ Apple’s CEO transition lands tomorrow.  John Ternus takes over as CEO on Sept.
 
 Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse risk chief, told Investing.com the worst of the cycle may be over.  The thesis: institutional adoption and clearer regulation.  A forecast—not a catalyst.
 
+### Ford Fathom: reported 100K+ first-year sales target
+
+- 状态：`ready`
+- 配图：`deliverables/2026-09-03-ford-fathom-market-radar/when2buy-ford-fathom-market-radar.png`
+
+Ford $F is on the market-radar board.  @StockMKTNewz reports Ford is targeting 100,000+ first-year sales for a new EV truck called Fathom, with an around-$30K starting price and sales beginning next year.  That is a reported target — not a confirmed company forecast.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -85,6 +92,8 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ## 最近运行
 
+- `2026-09-03T06:31:31Z` **report / blocked** — Local reports were rendered after the QUICK MARKET RADAR delivery failure, but the stable panel could not be updated. Terminal panel blocker: /root/.report-skill/tokens.env is unavailable. No report-hub credentials were sourced and no public destination was created or changed.
+- `2026-09-03T06:31:31Z` **publish / failed** — QUICK MARKET RADAR package pkg-20260903-ford-fathom-market-radar was prepared but could not be delivered through Postiz. Terminal delivery blocker: /root/.when2buy/secrets.env was unavailable and a direct Postiz preflight confirmed POSTIZ_API_KEY is absent. No upload, Postiz post, PUBLISHED state, or public X release URL exists. The package remains ready for a credential-restored retry.
 - `2026-09-03T05:55:04Z` **report / blocked** — Local reports were rendered, but the existing stable panel could not be updated. Report sync failed closed because /root/.report-skill/tokens.env was unavailable, so REPORT_HUB_URL and REPORT_HUB_TOKEN could not be sourced. No public destination was created or changed.
 - `2026-09-03T05:54:23Z` **produce / blocked** — Assessed every remaining fresh queue candidate after the separately recorded Robinhood Chain block; no fully verified candidate remained for package production or publication. 2095207516124684726 (Roblox): no official Roblox release or other authoritative source confirms the claimed first Roblox-themed coin paired with $RBLX stock. 2095329525928255559 (Ford Fathom): Ford materials confirm the Fathom product and 2027 availability, but not the claimed >100,000 first-year-sales target; the material target cannot be mirrored. 2094749779653800408 (Kalshi): Kalshi's official Aug. 29 article reports 66%, not the benchmark's 76%, for the next Fed rate hike before 2027 (https://news.kalshi.com/p/fed-rate-hike-odds-september-2026-jackson-hole-speech). 2094568791762215155 (Anthropic/Lambda): no primary source confirms the claimed $35B deal and related NVIDIA/Hut 8 arrangement; a prior run already recorded this gap. No package, visual, Postiz request, or X release URL was created.
 - `2026-09-03T05:41:21Z` **produce / blocked** — Selected fresh benchmark post 2095220701804339504 (Robinhood Chain Stock Tokens) but did not create a package or publish. Verification failed for the benchmark's material claim that Robinhood Chain became the largest stock-token issuer by holder count in roughly two months. Robinhood's official Stock Tokens documentation (https://docs.robinhood.com/chain/stock-tokens/) and July 1 newsroom release (https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading/) confirm the product and issuer structure, but neither confirms that comparative holder-count ranking or timeframe. No original copy or visual was produced and no Postiz publication was attempted.
@@ -103,5 +112,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-09-02T11:39:54Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-02T11:39:54Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-02T04:57:55Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-02T04:57:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-01T16:51:35Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).

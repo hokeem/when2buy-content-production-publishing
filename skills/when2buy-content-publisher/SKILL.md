@@ -20,6 +20,17 @@ Run a **benchmark-first mirror desk**, not a general finance idea generator.
 5. Do not copy the benchmark's distinctive sentences, jokes, commentary, or artwork. `Same content` means the same verified topic and factual payload expressed in original when2buy wording and visuals.
 6. Store the benchmark status URL and mapping before producing. A package without a `benchmarkPostId`, benchmark URL, and mirrored-facts list is invalid.
 
+## QUICK MARKET RADAR mode
+
+When the owner directs QUICK MARKET RADAR, prioritize timely publication from the two fixed benchmark accounts after basic source capture. Independent verification is not a publication gate in this mode, but every post must:
+
+- include the exact disclosure: `Market radar — reported by @account; not independently verified.`
+- retain the benchmark account, status URL, captured text, and media provenance in the package/state;
+- attribute third-party claims, forecasts, rankings, deal terms, prices, and probabilities to the benchmark account rather than presenting them as established facts;
+- avoid trading recommendations, buy/sell instructions, return promises, and certainty language.
+
+The post and visual remain original. The only delivery gate is successful Postiz publication with `PUBLISHED` and a public X URL.
+
 Scheduled scans use Asia/Shanghai time at **08:30, 14:30, and 20:30**. Read [scheduled-task.md](references/scheduled-task.md) for the exact behavior at each window.
 
 ## Select the run mode
@@ -43,11 +54,11 @@ Read only the references needed for the selected mode:
 1. Run `python3 skills/when2buy-content-publisher/scripts/preflight.py` and `python3 skills/when2buy-content-publisher/scripts/state.py validate`.
 2. Inspect `data/state.json`; determine the last successful benchmark scan time and avoid duplicate topics.
 3. Scan both benchmark feeds first. Append the discovered source posts to `benchmarkPosts` with exact status URL, timestamp, visible text, and account.
-4. Trace every material claim to a primary source or authoritative financial reporting. Record what was confirmed and what remains uncertain.
+4. In standard mode, trace every material claim to a primary source or authoritative financial reporting. In QUICK MARKET RADAR mode, capture the benchmark account and status URL, preserve attribution and the required disclosure, and do not present the claim as independently established.
 5. Rank benchmark posts by freshness, market impact, factual clarity, visual potential, and duplication risk. Store up to five one-to-one opportunities; never create an unrelated filler topic.
 6. Produce from the highest-ranked benchmark post. Preserve the selected topic, tickers, factual sequence, key numbers, and urgency; independently write the narration and analysis.
 7. Create one 1:1 branded image using the exact `assets/when2buy-logo-reference.png` logo and the visual rules in [brand-and-style.md](references/brand-and-style.md). Compare the draft against all three supplied style examples before accepting it.
-8. Complete research, copy, and image production autonomously. When standing or current publishing authorization exists, run `python3 scripts/postiz_publish.py --package-id <id> --confirm`. The script verifies the Postiz integration is `@_When2buy`, uploads the package image, and waits for `PUBLISHED` plus a public X URL. Without authorization or on factual inconsistency, stop at `ready`.
+8. Complete research, copy, and image production autonomously. When standing or current publishing authorization exists, run `python3 scripts/postiz_publish.py --package-id <id> --confirm`. The script verifies the Postiz integration is `@_When2buy`, uploads the package image, and waits for `PUBLISHED` plus a public X URL. In QUICK MARKET RADAR mode, attribution and disclosure replace independent-verification gating; without authorization, stop at `ready`.
 9. Only record `published` after Postiz returns `PUBLISHED` and a public X release URL. Then refresh the run panel.
 10. Record the run and metric snapshot with `state.py`; run validation and `python3 scripts/render_report.py` again.
 
@@ -60,7 +71,7 @@ Read only the references needed for the selected mode:
 - Do not label generated media as AI unless the user or platform requires it. Never remove a platform-required provenance label.
 - Do not make investment guarantees, fabricate quotes, or imply inside information.
 - Do not replace the two benchmark accounts with a generic news search. Upstream sources verify facts; they do not replace benchmark-first topic selection.
-- On uncertainty, publish nothing and record a `blocked` run with a precise reason.
+- In standard mode, uncertainty blocks publication and must be recorded precisely. In QUICK MARKET RADAR mode, unverified content is publishable only with the required source attribution and disclosure; operational or delivery uncertainty still blocks publication.
 
 ## Completion
 

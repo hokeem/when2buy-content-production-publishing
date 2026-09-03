@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T05:55:18.045306+00:00",
+  "updatedAt": "2026-09-03T06:32:54.714344+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2136,6 +2136,32 @@
       "createdAt": "2026-09-01T05:00:00Z",
       "postizPostId": "cmti6rr5r000jnu0y1wf4rbpt",
       "publishedAt": "2026-09-01T04:47:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-ford-fathom-market-radar",
+      "status": "ready",
+      "title": "Ford Fathom: reported 100K+ first-year sales target",
+      "createdAt": "2026-09-03T06:31:31Z",
+      "benchmarkPostId": "2095329525928255559",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095329525928255559",
+      "benchmarkMapping": {
+        "sourceAccount": "StockMKTNewz",
+        "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095329525928255559",
+        "mode": "quick-market-radar",
+        "sourceCaptured": true
+      },
+      "mirroredFacts": [
+        "@StockMKTNewz reported that Ford is targeting more than 100,000 sales in year one for a new electric truck called Fathom.",
+        "@StockMKTNewz reported an around-$30,000 starting price and sales beginning next year.",
+        "The reported target, price, and timing are not independently verified."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095329525928255559"
+      ],
+      "verificationNotes": "QUICK MARKET RADAR mode: source account, status URL, captured text, and archived media were recorded. Independent verification was intentionally not performed under the owner-directed policy; all third-party commercial terms remain attributed to @StockMKTNewz.",
+      "disclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "postText": "Ford $F is on the market-radar board.\n\n@StockMKTNewz reports Ford is targeting 100,000+ first-year sales for a new EV truck called Fathom, with an around-$30K starting price and sales beginning next year.\n\nThat is a reported target — not a confirmed company forecast.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-ford-fathom-market-radar/when2buy-ford-fathom-market-radar.png"
     }
   ],
   "posts": [
@@ -2903,6 +2929,24 @@
       "completedAt": "2026-09-03T05:55:04Z",
       "summary": "Local reports were rendered, but the existing stable panel could not be updated.",
       "reason": "Report sync failed closed because /root/.report-skill/tokens.env was unavailable, so REPORT_HUB_URL and REPORT_HUB_TOKEN could not be sourced. No public destination was created or changed."
+    },
+    {
+      "id": "run-20260903T063131Z-publish",
+      "mode": "publish",
+      "status": "failed",
+      "startedAt": "2026-09-03T06:31:31Z",
+      "completedAt": "2026-09-03T06:31:31Z",
+      "summary": "QUICK MARKET RADAR package pkg-20260903-ford-fathom-market-radar was prepared but could not be delivered through Postiz.",
+      "reason": "Terminal delivery blocker: /root/.when2buy/secrets.env was unavailable and a direct Postiz preflight confirmed POSTIZ_API_KEY is absent. No upload, Postiz post, PUBLISHED state, or public X release URL exists. The package remains ready for a credential-restored retry."
+    },
+    {
+      "id": "run-20260903T063131Z-report",
+      "mode": "report",
+      "status": "blocked",
+      "startedAt": "2026-09-03T06:31:31Z",
+      "completedAt": "2026-09-03T06:31:31Z",
+      "summary": "Local reports were rendered after the QUICK MARKET RADAR delivery failure, but the stable panel could not be updated.",
+      "reason": "Terminal panel blocker: /root/.report-skill/tokens.env is unavailable. No report-hub credentials were sourced and no public destination was created or changed."
     }
   ]
 }

@@ -3,7 +3,7 @@
 本仓库的自动化由三段相互解耦的时钟组成，统一使用 `Asia/Shanghai`：
 
 1. **Radar（GitHub Actions，08:30 / 14:30 / 20:30）**：从 `@WhaleInsider`、`@StockMKTNewz` 拉取公开原创帖，保存原文、链接、互动数据与原始媒体归档；重建 `data/production-queue.json`、`reports/latest.md` 和唯一的 `reports/run-panel.html`。
-2. **Production + publish（Paseo，08:40 / 14:40 / 20:40）**：等待 Radar 的状态已在 `main` 后执行。它只选一条新且强的候选，必须用一级来源核验，生成全新英文文案和 when2buy 原创方图；通过 `scripts/postiz_publish.py` 发布到 `@_When2buy`，并轮询到公开 X URL。
+2. **Production + publish（Paseo，08:40 / 14:40 / 20:40）**：等待 Radar 的状态已在 `main` 后执行。默认的 QUICK MARKET RADAR 模式从两个固定对标账号中选择最新未覆盖的候选，在保存来源账号、原帖 URL 和原始媒体后，生成全新英文文案和 when2buy 原创方图；通过 `scripts/postiz_publish.py` 发布到 `@_When2buy`，并轮询到公开 X URL。
 3. **Performance review（Paseo，次日 09:05）**：只给成熟的已发帖追加新的指标快照与可行动结论，不发布内容，也不修改旧快照。
 
 ## 运行环境
@@ -11,6 +11,13 @@
 - GitHub Actions 只需要仓库 Secret `APIFY_TOKEN`。
 - Paseo 的生产任务只从受限运行环境读取 `POSTIZ_API_KEY`、`POSTIZ_BASE_URL`、`WHEN2BUY_POSTIZ_HANDLE` 和 `WHEN2BUY_AUTOPUBLISH_ENABLED=true`。这些变量绝不写入 Git、报告或终端输出。
 - 稳定面板使用既有的 report-hub 目标更新；它没有创建新公开 URL 的权限。
+
+## QUICK MARKET RADAR 模式
+
+- 仅使用 `@WhaleInsider` 与 `@StockMKTNewz` 的已归档原创帖作为快速雷达来源；保留来源账号、状态 URL、原文和媒体归档。
+- 不要求在发布前完成独立事实核验，但成文必须明确标注：`Market radar — reported by @account; not independently verified.`
+- 所有第三方的预测、排名、交易条款、价格、概率、目标或指控都必须以“reported by @account”归因表达，不能写成已证实事实。
+- 不提供交易推荐、买卖指令、收益承诺或确定性结论；仍必须使用原创文案和原创配图。
 
 ## 可恢复性
 
