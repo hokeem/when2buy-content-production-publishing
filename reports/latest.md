@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T11:07:43.565227+00:00`
+- 状态更新：`2026-09-03T11:37:53.780775+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**71**
 - 待选选题：**11**
@@ -149,6 +149,8 @@ Market radar: @StockMKTNewz reports Uber and Wayve launched London robotaxi matc
 
 ## 最近运行
 
+- `2026-09-03T11:37:53Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
+- `2026-09-03T11:37:53Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-03T08:28:16.019203+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T08:27:34.548132+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T08:26:42.885400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -167,5 +169,3 @@ Market radar: @StockMKTNewz reports Uber and Wayve launched London robotaxi matc
 - `2026-09-03T05:39:54Z` **full / blocked** — A fresh Apify collection was attempted only for WhaleInsider and StockMKTNewz but did not complete, so no candidate was selected, produced, or published. Fresh Apify collection gate timed out after 20 seconds with no result or radar state write. The pre-existing production queue was not reused; no factual verification, package creation, Postiz publication, or X release URL verification occurred.
 - `2026-09-03T05:39:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-03T05:39:03Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-03T05:39:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 8 new post(s).
-- `2026-09-03T05:35:34Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Report sync gate failed closed: REPORT_PUBLISHER_ID was absent after silently sourcing /root/.report-skill/tokens.env; no public destination was created or changed.
