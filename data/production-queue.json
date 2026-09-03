@@ -1,77 +1,9 @@
 {
-  "generatedAt": "2026-09-02T16:48:57Z",
+  "generatedAt": "2026-09-03T04:55:51Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2094568791762215155",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094568791762215155",
-      "originalText": "ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD\n\nThe deal is with Lambda, an Nvidia-backed cloud provider, but Nvidia itself holds the lease on the actual data center\n\nThe data center is being built by Hut 8 in Nueces County, Texas. Nvidia signed its own agreement with Hut 8 a few weeks ago to lock down the capacity.\n\nLambda will use the space to plug in chips it bought from Nvidia, which is also its investor. - WSJ",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094568791762215155-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 661,
-        "replies": 35,
-        "reposts": 68,
-        "quotes": 14,
-        "views": 59820
-      },
-      "postedAt": "Mon Aug 31 23:31:29 +0000 2026",
-      "score": 18,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 2,
-      "benchmarkPostId": "2094567351962255556",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094567351962255556",
-      "originalText": "A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER\n\nThere is now a 55% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% in September https://t.co/Vt4dUtgul9",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094567351962255556-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 75,
-        "replies": 21,
-        "reposts": 11,
-        "quotes": 1,
-        "views": 23979
-      },
-      "postedAt": "Mon Aug 31 23:25:46 +0000 2026",
-      "score": 18,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 3,
       "benchmarkPostId": "2094749779653800408",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
@@ -104,6 +36,74 @@
       "scoreBreakdown": {
         "freshness": 2,
         "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2094568791762215155",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094568791762215155",
+      "originalText": "ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD\n\nThe deal is with Lambda, an Nvidia-backed cloud provider, but Nvidia itself holds the lease on the actual data center\n\nThe data center is being built by Hut 8 in Nueces County, Texas. Nvidia signed its own agreement with Hut 8 a few weeks ago to lock down the capacity.\n\nLambda will use the space to plug in chips it bought from Nvidia, which is also its investor. - WSJ",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094568791762215155-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 661,
+        "replies": 35,
+        "reposts": 68,
+        "quotes": 14,
+        "views": 59820
+      },
+      "postedAt": "Mon Aug 31 23:31:29 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2094567351962255556",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094567351962255556",
+      "originalText": "A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER\n\nThere is now a 55% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% in September https://t.co/Vt4dUtgul9",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2094567351962255556-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 75,
+        "replies": 21,
+        "reposts": 11,
+        "quotes": 1,
+        "views": 23979
+      },
+      "postedAt": "Mon Aug 31 23:25:46 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
