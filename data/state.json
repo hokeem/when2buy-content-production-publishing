@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T05:40:13.009492+00:00",
+  "updatedAt": "2026-09-03T05:41:40.930107+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2876,6 +2876,15 @@
       "completedAt": "2026-09-03T05:39:54Z",
       "summary": "A fresh Apify collection was attempted only for WhaleInsider and StockMKTNewz but did not complete, so no candidate was selected, produced, or published.",
       "reason": "Fresh Apify collection gate timed out after 20 seconds with no result or radar state write. The pre-existing production queue was not reused; no factual verification, package creation, Postiz publication, or X release URL verification occurred."
+    },
+    {
+      "id": "run-20260903T054121Z-produce",
+      "mode": "produce",
+      "status": "blocked",
+      "startedAt": "2026-09-03T05:41:21Z",
+      "completedAt": "2026-09-03T05:41:21Z",
+      "summary": "Selected fresh benchmark post 2095220701804339504 (Robinhood Chain Stock Tokens) but did not create a package or publish.",
+      "reason": "Verification failed for the benchmark's material claim that Robinhood Chain became the largest stock-token issuer by holder count in roughly two months. Robinhood's official Stock Tokens documentation (https://docs.robinhood.com/chain/stock-tokens/) and July 1 newsroom release (https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading/) confirm the product and issuer structure, but neither confirms that comparative holder-count ranking or timeframe. No original copy or visual was produced and no Postiz publication was attempted."
     }
   ]
 }

@@ -1,9 +1,117 @@
 {
-  "generatedAt": "2026-09-03T05:34:02Z",
+  "generatedAt": "2026-09-03T05:39:03Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2095220701804339504",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095220701804339504",
+      "originalText": "JUST IN: Robinhood Chain $HOOD has gone from zero to the largest issuer of stock tokens by holder count in roughly two months - Token Terminal. https://t.co/C9LnidaH3D",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRO4HgCb0AAfIQ4.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRO4HgCb0AAfIQ4.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095220701804339504-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 305,
+        "replies": 19,
+        "reposts": 19,
+        "quotes": 5,
+        "views": 36463
+      },
+      "postedAt": "Wed Sep 02 18:41:57 +0000 2026",
+      "score": 18,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2095207516124684726",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095207516124684726",
+      "originalText": "JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first Roblox-themed coin paired with $RBLX stock. https://t.co/zoBWXax5ss",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HROsILXasAA433z.jpg",
+        "https://pbs.twimg.com/media/HROsIKrXsAUWnlE.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROsILXasAA433z.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095207516124684726-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROsIKrXsAUWnlE.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095207516124684726-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 210,
+        "replies": 25,
+        "reposts": 25,
+        "quotes": 7,
+        "views": 42553
+      },
+      "postedAt": "Wed Sep 02 17:49:33 +0000 2026",
+      "score": 18,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2095329525928255559",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095329525928255559",
+      "originalText": "FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK\n\nThe truck called the Ford Fathom will start around $30,000 and will go on sale starting next year - WSJ\nThe truck, called the Ford Fathom, starts around $30,000 and goes on sale next year, according to people familiar with the matter. Ford is aiming for mainstream volume its earlier, pricier EVs never reached.",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRQbF8DW4AUb5Xt.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRQbF8DW4AUb5Xt.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095329525928255559-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 81,
+        "replies": 19,
+        "reposts": 4,
+        "quotes": 2,
+        "views": 27737
+      },
+      "postedAt": "Thu Sep 03 01:54:22 +0000 2026",
+      "score": 18,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 4,
       "benchmarkPostId": "2094749779653800408",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
@@ -43,7 +151,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 2,
+      "rank": 5,
       "benchmarkPostId": "2094568791762215155",
       "benchmarkAccount": "StockMKTNewz",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094568791762215155",
@@ -70,120 +178,6 @@
       "scoreBreakdown": {
         "freshness": 1,
         "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 3,
-      "benchmarkPostId": "2094567351962255556",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094567351962255556",
-      "originalText": "A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER\n\nThere is now a 55% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% in September https://t.co/Vt4dUtgul9",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094567351962255556-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 75,
-        "replies": 21,
-        "reposts": 11,
-        "quotes": 1,
-        "views": 23979
-      },
-      "postedAt": "Mon Aug 31 23:25:46 +0000 2026",
-      "score": 17,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2094461736925491308",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094461736925491308",
-      "originalText": "JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. https://t.co/rl27wc4k1W",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HREF1hjW8AAXo31.jpg",
-        "https://pbs.twimg.com/media/HREF1g5XQAEPzug.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HREF1hjW8AAXo31.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094461736925491308-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HREF1g5XQAEPzug.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094461736925491308-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 371,
-        "replies": 40,
-        "reposts": 14,
-        "quotes": 3,
-        "views": 40844
-      },
-      "postedAt": "Mon Aug 31 16:26:05 +0000 2026",
-      "score": 16,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2094447104219324482",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094447104219324482",
-      "originalText": "JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM, 5 minutes after it bonded..\n\nSince then, it has logged a cluster of 75 KOL calls.\nFONE later peaked at $37M MC on Aug 28 at 16:00, about 145x from the first tracked call.\n\nMWX Alpha tracks who called, at what market cap, plus smart wallet flow and CT narrative momentum.\n\nFull breakdown: https://t.co/BGtPmiyWmk",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
-        "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 167,
-        "replies": 22,
-        "reposts": 13,
-        "quotes": 0,
-        "views": 37858
-      },
-      "postedAt": "Mon Aug 31 15:27:57 +0000 2026",
-      "score": 16,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
