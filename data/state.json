@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T06:32:54.714344+00:00",
+  "updatedAt": "2026-09-03T06:41:08.610675+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2947,6 +2947,16 @@
       "completedAt": "2026-09-03T06:31:31Z",
       "summary": "Local reports were rendered after the QUICK MARKET RADAR delivery failure, but the stable panel could not be updated.",
       "reason": "Terminal panel blocker: /root/.report-skill/tokens.env is unavailable. No report-hub credentials were sourced and no public destination was created or changed."
+    },
+    {
+      "id": "run-20260903T064057Z-produce",
+      "mode": "produce",
+      "status": "blocked",
+      "packageId": "pkg-20260903-ford-fathom-market-radar",
+      "summary": "Skipped publication: the newest queued Ford Fathom candidate does not meet the validated-content gate.",
+      "reason": "Primary-source verification failed for benchmark post 2095329525928255559: Ford materials confirm the Fathom product and 2027 availability, but do not confirm the benchmark's material claim that Ford is targeting more than 100,000 first-year sales. The existing package is explicitly marked not independently verified, so it cannot be published in this validated-content run.",
+      "startedAt": "2026-09-03T06:40:57Z",
+      "completedAt": "2026-09-03T06:40:57Z"
     }
   ]
 }
