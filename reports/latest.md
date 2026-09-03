@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-02T16:48:57.607740+00:00`
+- 状态更新：`2026-09-03T01:07:41.231212+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**63**
 - 待选选题：**8**
@@ -76,12 +76,13 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
-| Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2084535905050829005) |
-| Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2094334035149607267) |
-| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2094648465645265080) |
+| Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 38 |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
+| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 16 |  |  |  | [X](https://x.com/_When2buy/status/2094648465645265080) |
+| Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 14 |  |  |  | [X](https://x.com/_When2buy/status/2094334035149607267) |
 
 ## 最近运行
 
+- `2026-09-03T01:07:08Z` **review / succeeded** — Reviewed all three published posts old enough for a meaningful public check; appended visible view-count snapshots for Intel (38), Apple (14), and Bitcoin (16). Only public status-page counters were used. Numeric reply, repost, and like counts were not displayed and remain null; no performance ranking beyond visible views is inferred.
 - `2026-09-02T16:48:57Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-02T16:48:57Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-02T11:39:54Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
@@ -101,4 +102,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-09-01T03:40:02Z` **review / blocked** — Appended an Intel metric snapshot with null counters and attributable public-fetch evidence; no metrics were estimated or invented. The mature Intel public X status URL returned HTTP 403 Forbidden, so visible engagement counters could not be read reliably. Apple was 19h 42m old at review time and was not yet mature enough for a meaningful check.
 - `2026-09-01T03:38:16Z` **produce / blocked** — Production skipped; no eligible queue candidate was available for a validated original package. No eligible queue candidate: data/production-queue.json contains no items, and the newest captured benchmark event is already covered by published package pkg-aapl-leadership-20260831.
 - `2026-08-31T19:12:56Z` **queue / succeeded** — Prepared 0 one-to-one production candidate(s).
-- `2026-08-31T19:12:56Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.

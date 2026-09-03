@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T16:48:57.607740+00:00",
+  "updatedAt": "2026-09-03T01:07:41.231212+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -1902,6 +1902,54 @@
         "result": "HTTP 403 Forbidden; no visible public counters were returned."
       },
       "observation": "Intel is mature enough for review, but no reliable public engagement metrics were readable; all unavailable counters remain null."
+    },
+    {
+      "id": "2084535905050829005-20260903T010708Z",
+      "postId": "2084535905050829005",
+      "observedAt": "2026-09-03T01:07:08Z",
+      "views": 38,
+      "likes": null,
+      "replies": null,
+      "reposts": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2084535905050829005",
+        "checkedAt": "2026-09-03T01:07:08Z",
+        "result": "Unauthenticated public page rendered a visible 38 Views counter; no numeric reply, repost, or like counters were displayed."
+      },
+      "observation": "The mature Intel offering post has 38 visible views; engagement sub-counters were not displayed, so no engagement rate or comparison is asserted."
+    },
+    {
+      "id": "2094334035149607267-20260903T010708Z",
+      "postId": "2094334035149607267",
+      "observedAt": "2026-09-03T01:07:08Z",
+      "views": 14,
+      "likes": null,
+      "replies": null,
+      "reposts": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2094334035149607267",
+        "checkedAt": "2026-09-03T01:07:08Z",
+        "result": "Unauthenticated public page rendered a visible 14 Views counter; no numeric reply, repost, or like counters were displayed."
+      },
+      "observation": "The Apple leadership-transition post is mature enough for its first check and has 14 visible views; engagement sub-counters remain unavailable."
+    },
+    {
+      "id": "2094648465645265080-20260903T010708Z",
+      "postId": "2094648465645265080",
+      "observedAt": "2026-09-03T01:07:08Z",
+      "views": 16,
+      "likes": null,
+      "replies": null,
+      "reposts": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2094648465645265080",
+        "checkedAt": "2026-09-03T01:07:08Z",
+        "result": "Unauthenticated public page rendered a visible 16 Views counter; no numeric reply, repost, or like counters were displayed."
+      },
+      "observation": "The Bitcoin forecast post is mature enough for its first check and has 16 visible views; engagement sub-counters remain unavailable."
     }
   ],
   "experiments": [],
@@ -2443,6 +2491,15 @@
       "completedAt": "2026-09-02T16:48:57Z",
       "summary": "Prepared 5 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260903T010708Z-review",
+      "mode": "review",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T01:07:08Z",
+      "completedAt": "2026-09-03T01:07:08Z",
+      "summary": "Reviewed all three published posts old enough for a meaningful public check; appended visible view-count snapshots for Intel (38), Apple (14), and Bitcoin (16).",
+      "reason": "Only public status-page counters were used. Numeric reply, repost, and like counts were not displayed and remain null; no performance ranking beyond visible views is inferred."
     }
   ]
 }
