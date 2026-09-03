@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T11:38:37.449743+00:00`
+- 状态更新：`2026-09-03T11:40:33.003444+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**84**
-- 待选选题：**16**
+- 待选选题：**18**
 - 待发布制作包：**0**
 - 已验证发布：**12**
 
@@ -59,9 +59,11 @@
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
+| 4 | JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $2.67 billion, marking a new all-time hig… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
+| 5 | JUST IN: Over $100 million is now sitting in RWAs on Robinhood Chain $HOOD - up 2x in the la… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 
 ## 制作队列
 
@@ -169,10 +171,13 @@ Reuters reports Moonshot AI filed confidentially for a Hong Kong IPO.  The Kimi 
 
 ## 最近运行
 
+- `2026-09-03T11:40:33Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-03T11:38:29.458795+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T11:34:24Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-03T11:34:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 13 new post(s).
 - `2026-09-03T11:33:03Z` **radar / blocked** — Fresh Apify collection could not start, so no fresh benchmark candidates were available for media archiving, queue construction, production, or delivery. Terminal collection blocker: APIFY_TOKEN is absent from the protected runtime credential paths. No substitute source was used; no benchmark posts, media, packages, Postiz submissions, or X releases were created.
+- `2026-09-03T11:37:53Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
+- `2026-09-03T11:37:53Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-03T08:28:16.019203+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T08:27:34.548132+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T08:26:42.885400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -186,6 +191,3 @@ Reuters reports Moonshot AI filed confidentially for a Hong Kong IPO.  The Kimi 
 - `2026-09-03T06:31:31Z` **report / blocked** — Local reports were rendered after the QUICK MARKET RADAR delivery failure, but the stable panel could not be updated. Terminal panel blocker: /root/.report-skill/tokens.env is unavailable. No report-hub credentials were sourced and no public destination was created or changed.
 - `2026-09-03T06:31:31Z` **publish / failed** — QUICK MARKET RADAR package pkg-20260903-ford-fathom-market-radar was prepared but could not be delivered through Postiz. Terminal delivery blocker: /root/.when2buy/secrets.env was unavailable and a direct Postiz preflight confirmed POSTIZ_API_KEY is absent. No upload, Postiz post, PUBLISHED state, or public X release URL exists. The package remains ready for a credential-restored retry.
 - `2026-09-03T05:55:04Z` **report / blocked** — Local reports were rendered, but the existing stable panel could not be updated. Report sync failed closed because /root/.report-skill/tokens.env was unavailable, so REPORT_HUB_URL and REPORT_HUB_TOKEN could not be sourced. No public destination was created or changed.
-- `2026-09-03T05:54:23Z` **produce / blocked** — Assessed every remaining fresh queue candidate after the separately recorded Robinhood Chain block; no fully verified candidate remained for package production or publication. 2095207516124684726 (Roblox): no official Roblox release or other authoritative source confirms the claimed first Roblox-themed coin paired with $RBLX stock. 2095329525928255559 (Ford Fathom): Ford materials confirm the Fathom product and 2027 availability, but not the claimed >100,000 first-year-sales target; the material target cannot be mirrored. 2094749779653800408 (Kalshi): Kalshi's official Aug. 29 article reports 66%, not the benchmark's 76%, for the next Fed rate hike before 2027 (https://news.kalshi.com/p/fed-rate-hike-odds-september-2026-jackson-hole-speech). 2094568791762215155 (Anthropic/Lambda): no primary source confirms the claimed $35B deal and related NVIDIA/Hut 8 arrangement; a prior run already recorded this gap. No package, visual, Postiz request, or X release URL was created.
-- `2026-09-03T05:41:21Z` **produce / blocked** — Selected fresh benchmark post 2095220701804339504 (Robinhood Chain Stock Tokens) but did not create a package or publish. Verification failed for the benchmark's material claim that Robinhood Chain became the largest stock-token issuer by holder count in roughly two months. Robinhood's official Stock Tokens documentation (https://docs.robinhood.com/chain/stock-tokens/) and July 1 newsroom release (https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading/) confirm the product and issuer structure, but neither confirms that comparative holder-count ranking or timeframe. No original copy or visual was produced and no Postiz publication was attempted.
-- `2026-09-03T05:39:54Z` **full / blocked** — A fresh Apify collection was attempted only for WhaleInsider and StockMKTNewz but did not complete, so no candidate was selected, produced, or published. Fresh Apify collection gate timed out after 20 seconds with no result or radar state write. The pre-existing production queue was not reused; no factual verification, package creation, Postiz publication, or X release URL verification occurred.

@@ -1,10 +1,6 @@
 {
   "version": 1,
-<<<<<<< HEAD
-  "updatedAt": "2026-09-03T11:37:53.780775+00:00",
-=======
-  "updatedAt": "2026-09-03T11:38:37.449743+00:00",
->>>>>>> fda7f98 (Run when2buy benchmark publishing workflow)
+  "updatedAt": "2026-09-03T11:40:33.003444+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2561,6 +2557,44 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095407164617560134",
+      "rank": 4,
+      "title": "JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $2.67 billion, marking a new all-time hig…",
+      "benchmarkPostId": "2095407164617560134",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095407164617560134",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:40:33Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095395081431773199",
+      "rank": 5,
+      "title": "JUST IN: Over $100 million is now sitting in RWAs on Robinhood Chain $HOOD - up 2x in the la…",
+      "benchmarkPostId": "2095395081431773199",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095395081431773199",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:40:33Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -4444,7 +4478,6 @@
       "reason": ""
     },
     {
-<<<<<<< HEAD
       "id": "run-20260903T113753Z-radar",
       "mode": "radar",
       "status": "blocked",
@@ -4452,7 +4485,21 @@
       "completedAt": "2026-09-03T11:37:53Z",
       "summary": "Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s).",
       "reason": "Apify returned no eligible original posts from either benchmark account.",
-=======
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260903T113753Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:37:53Z",
+      "completedAt": "2026-09-03T11:37:53Z",
+      "summary": "Prepared 5 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
       "id": "run-20260903T113303Z-radar",
       "mode": "radar",
       "status": "blocked",
@@ -4477,22 +4524,12 @@
       "completedAt": "2026-09-03T11:34:16Z",
       "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 13 new post(s).",
       "reason": "",
->>>>>>> fda7f98 (Run when2buy benchmark publishing workflow)
       "collector": {
         "provider": "Apify",
         "actor": "apidojo/twitter-profile-scraper"
       }
     },
     {
-<<<<<<< HEAD
-      "id": "run-20260903T113753Z-queue",
-      "mode": "queue",
-      "status": "succeeded",
-      "startedAt": "2026-09-03T11:37:53Z",
-      "completedAt": "2026-09-03T11:37:53Z",
-      "summary": "Prepared 5 one-to-one production candidate(s).",
-      "reason": ""
-=======
       "id": "run-20260903T113424Z-queue",
       "mode": "queue",
       "status": "succeeded",
@@ -4509,7 +4546,15 @@
       "completedAt": "2026-09-03T11:38:29.458814+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
->>>>>>> fda7f98 (Run when2buy benchmark publishing workflow)
+    },
+    {
+      "id": "run-20260903T114033Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:40:33Z",
+      "completedAt": "2026-09-03T11:40:33Z",
+      "summary": "Prepared 5 one-to-one production candidate(s).",
+      "reason": ""
     }
   ]
 }
