@@ -8,7 +8,7 @@ STATE = ROOT / "data" / "state.json"
 OUTPUT = ROOT / "reports" / "latest.md"
 
 def esc(value):
-    return str(value if value is not None else "").replace("|", "\\|").replace("\n", " ")
+    return str(value if value is not None else "").replace("|", "\\|").replace("\n", " ").strip()
 
 def render(state):
     snapshots = {}

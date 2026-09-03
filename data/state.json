@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T11:40:33.003444+00:00",
+  "updatedAt": "2026-09-03T11:56:22.778428+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2251,6 +2251,417 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095262314014409103",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095262314014409103",
+      "postedAt": "Wed Sep 02 21:27:18 +0000 2026",
+      "text": "Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. https://t.co/WyWvIh9Cdi",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPd6nMXEAASXac.jpg"
+      ],
+      "engagement": {
+        "likes": 212,
+        "replies": 32,
+        "reposts": 7,
+        "quotes": 17,
+        "views": 102580
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPd6nMXEAASXac.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095262314014409103-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095261443717239182",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095261443717239182",
+      "postedAt": "Wed Sep 02 21:23:50 +0000 2026",
+      "text": "Broadcom $AVGO just said that it expects to bring in $230 Billion of revenue from AI semiconductors in FY 2028 https://t.co/lv9YbJ9cdP",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPdLYxaQAAp7xJ.png"
+      ],
+      "engagement": {
+        "likes": 164,
+        "replies": 10,
+        "reposts": 11,
+        "quotes": 5,
+        "views": 35556
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPdLYxaQAAp7xJ.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095261443717239182-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095260639446929657",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095260639446929657",
+      "postedAt": "Wed Sep 02 21:20:39 +0000 2026",
+      "text": "BROADCOM'S $AVGO CEO JUST SAID: \n\n- IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 BILLION",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 284,
+        "replies": 13,
+        "reposts": 16,
+        "quotes": 5,
+        "views": 57066
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095260451147800640",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095260451147800640",
+      "postedAt": "Wed Sep 02 21:19:54 +0000 2026",
+      "text": "Snowflake's $SNOW CEO just said\n\n- WE REMAIN ON TRACK FOR GAAP PROFITABILITY IN Q4 FY28",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 75,
+        "replies": 8,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 35951
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095259425544061399",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095259425544061399",
+      "postedAt": "Wed Sep 02 21:15:49 +0000 2026",
+      "text": "Here is a early look at some of the largest stocks that report earnings tomorrow\n\nLululemon $LULU \nCiena $CIEN \nUiPath $PATH \nZscaler $ZS \nPlanet Labs $PL \nDocusign $DOCU https://t.co/yG3V8YyFM5",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPbQysWYAEVvDz.jpg"
+      ],
+      "engagement": {
+        "likes": 55,
+        "replies": 7,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 28794
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPbQysWYAEVvDz.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095259425544061399-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095257442594455572",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095257442594455572",
+      "postedAt": "Wed Sep 02 21:07:56 +0000 2026",
+      "text": "This is how the 🇺🇸 stock market performed today  https://t.co/pV4ZezDX6o",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/ext_tw_video_thumb/2095243022414077952/pu/img/A2Kg8LU5h-UIAuyo.jpg"
+      ],
+      "engagement": {
+        "likes": 56,
+        "replies": 11,
+        "reposts": 9,
+        "quotes": 1,
+        "views": 31131
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2095243022414077952/pu/img/A2Kg8LU5h-UIAuyo.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095257442594455572-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095249439321399761",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095249439321399761",
+      "postedAt": "Wed Sep 02 20:36:08 +0000 2026",
+      "text": "Microsoft $MSFT just confirmed that it will be changing the way it reports earnings\n\nMicrosoft will report in 2 segments going forward\n\n- Agents and Infrastructure \n- Devices and Consumer",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 287,
+        "replies": 9,
+        "reposts": 8,
+        "quotes": 3,
+        "views": 60981
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095194323918713317",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095194323918713317",
+      "postedAt": "Wed Sep 02 16:57:08 +0000 2026",
+      "text": "JUST IN: G20 Finance Ministers and Central Bank Governors announce that digital assets ‘can play in supporting broad-based economic growth.’ https://t.co/QjJCYOYDDR",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROgIIeXIAYkJ7r.jpg"
+      ],
+      "engagement": {
+        "likes": 457,
+        "replies": 23,
+        "reposts": 41,
+        "quotes": 4,
+        "views": 36865
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROgIIeXIAYkJ7r.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095194323918713317-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095193305638211846",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095193305638211846",
+      "postedAt": "Wed Sep 02 16:53:05 +0000 2026",
+      "text": "JUST IN: @MetaWin announces another $1M will be given away to players this month.\n\nDeposit on https://t.co/WKcp4l4N4H to qualify. https://t.co/N7KLS838yH",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROfMpJaoAA0zQl.jpg",
+        "https://pbs.twimg.com/media/HROfMolWgAAtINx.jpg"
+      ],
+      "engagement": {
+        "likes": 92,
+        "replies": 17,
+        "reposts": 7,
+        "quotes": 0,
+        "views": 19005
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROfMpJaoAA0zQl.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095193305638211846-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROfMolWgAAtINx.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095193305638211846-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095172700113133770",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095172700113133770",
+      "postedAt": "Wed Sep 02 15:31:12 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. https://t.co/QKRDkWhDNW",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROMdQDbAAE_DAf.jpg",
+        "https://pbs.twimg.com/media/HROMdPoWQAMaZ8i.jpg"
+      ],
+      "engagement": {
+        "likes": 608,
+        "replies": 37,
+        "reposts": 22,
+        "quotes": 4,
+        "views": 46390
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROMdQDbAAE_DAf.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095172700113133770-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROMdPoWQAMaZ8i.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095172700113133770-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095150147470508217",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095150147470508217",
+      "postedAt": "Wed Sep 02 14:01:35 +0000 2026",
+      "text": "JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - Artemis. https://t.co/uI7CGx31lf",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRN38PLWEAEEVgP.jpg",
+        "https://pbs.twimg.com/media/HRN38PMWQAEyUkd.jpg"
+      ],
+      "engagement": {
+        "likes": 732,
+        "replies": 44,
+        "reposts": 43,
+        "quotes": 2,
+        "views": 49259
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRN38PLWEAEEVgP.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095150147470508217-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRN38PMWQAEyUkd.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095150147470508217-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095148744584860111",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095148744584860111",
+      "postedAt": "Wed Sep 02 13:56:01 +0000 2026",
+      "text": "JUST IN: A Binance content creator followed by CZ highlighted #MARIANHOOD community and volume, noting potential upside if Binance lists the token. https://t.co/zZMGmhQqgt",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRN2qQbWkAAXxqd.jpg",
+        "https://pbs.twimg.com/media/HRN2qQIWgAAuL36.jpg"
+      ],
+      "engagement": {
+        "likes": 234,
+        "replies": 36,
+        "reposts": 10,
+        "quotes": 0,
+        "views": 37540
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRN2qQbWkAAXxqd.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095148744584860111-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRN2qQIWgAAuL36.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095148744584860111-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095127114982822217",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095127114982822217",
+      "postedAt": "Wed Sep 02 12:30:04 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ https://t.co/uvdwRqMFl2",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRNi_7uWoAcNDwD.jpg",
+        "https://pbs.twimg.com/media/HRNi_7wWQAE9GeF.jpg"
+      ],
+      "engagement": {
+        "likes": 430,
+        "replies": 46,
+        "reposts": 47,
+        "quotes": 14,
+        "views": 110164
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRNi_7uWoAcNDwD.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095127114982822217-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRNi_7wWQAE9GeF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095127114982822217-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095480211940749790",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095480211940749790",
+      "postedAt": "Thu Sep 03 11:53:09 +0000 2026",
+      "text": "This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years https://t.co/KrGJxE0TlD",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSj1E0bcAALc5Q.jpg"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 3402
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSj1E0bcAALc5Q.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095480211940749790-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095476096225378535",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095476096225378535",
+      "postedAt": "Thu Sep 03 11:36:48 +0000 2026",
+      "text": "WATCH OUT FOR THIS MAJOR EVENT TONIGHT\n\nTesla $TSLA will be hosting its Cybercab event tonight in Austin, Texas. The event will reportedly start around 5:45PM ET \n\nTesla is expected to show off the production version of its new self driving car https://t.co/yqy8tO0AY1",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSeFQcbwAAmELJ.jpg"
+      ],
+      "engagement": {
+        "likes": 59,
+        "replies": 6,
+        "reposts": 8,
+        "quotes": 2,
+        "views": 10293
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:53:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSeFQcbwAAmELJ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095476096225378535-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -2595,6 +3006,785 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095261443717239182",
+      "rank": 3,
+      "title": "Broadcom $AVGO just said that it expects to bring in $230 Billion of revenue from AI semicon…",
+      "benchmarkPostId": "2095261443717239182",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095261443717239182",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 3,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095260639446929657",
+      "rank": 5,
+      "title": "BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE T…",
+      "benchmarkPostId": "2095260639446929657",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095260639446929657",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095480211940749790",
+      "rank": 6,
+      "title": "This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years h…",
+      "benchmarkPostId": "2095480211940749790",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095480211940749790",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095441173636604329",
+      "rank": 7,
+      "title": "JUST IN: 🇦🇪 $447 billion Standard Chartered is now offering spot crypto trading to instituti…",
+      "benchmarkPostId": "2095441173636604329",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095441173636604329",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095432476726366373",
+      "rank": 8,
+      "title": "JUST IN: $BTC forecasted to hit a high of $83,000 this month, per Kalshi traders. https://t.…",
+      "benchmarkPostId": "2095432476726366373",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095432476726366373",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095150147470508217",
+      "rank": 11,
+      "title": "JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 bi…",
+      "benchmarkPostId": "2095150147470508217",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095150147470508217",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095476096225378535",
+      "rank": 12,
+      "title": "WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its Cybercab event tonigh…",
+      "benchmarkPostId": "2095476096225378535",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095476096225378535",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095472251269157058",
+      "rank": 13,
+      "title": "Scotiabank started coverage on $SOFI stock with a $25 price target and an Outperform rating",
+      "benchmarkPostId": "2095472251269157058",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095472251269157058",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095458198014620094",
+      "rank": 14,
+      "title": "JUST IN: 🇯🇵 Bank of Japan leans toward raising rates from 1% to 1.25% this month - Bloomberg…",
+      "benchmarkPostId": "2095458198014620094",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095458198014620094",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095388710502039635",
+      "rank": 15,
+      "title": "JUST IN: BlackRock ETF clients buy $115.45 million worth of $BTC. https://t.co/gQHSIvjsHt",
+      "benchmarkPostId": "2095388710502039635",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095388710502039635",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095259425544061399",
+      "rank": 16,
+      "title": "Here is a early look at some of the largest stocks that report earnings tomorrow Lululemon $…",
+      "benchmarkPostId": "2095259425544061399",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095259425544061399",
+      "score": 17,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095193305638211846",
+      "rank": 17,
+      "title": "JUST IN: @MetaWin announces another $1M will be given away to players this month. Deposit on…",
+      "benchmarkPostId": "2095193305638211846",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095193305638211846",
+      "score": 17,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095260451147800640",
+      "rank": 20,
+      "title": "Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITABILITY IN Q4 FY28",
+      "benchmarkPostId": "2095260451147800640",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095260451147800640",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095249439321399761",
+      "rank": 21,
+      "title": "Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsof…",
+      "benchmarkPostId": "2095249439321399761",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095249439321399761",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095172700113133770",
+      "rank": 22,
+      "title": "JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. https:…",
+      "benchmarkPostId": "2095172700113133770",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095172700113133770",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095127114982822217",
+      "rank": 23,
+      "title": "JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ https://t.…",
+      "benchmarkPostId": "2095127114982822217",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095127114982822217",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095262314014409103",
+      "rank": 27,
+      "title": "Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immed…",
+      "benchmarkPostId": "2095262314014409103",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095262314014409103",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094715511569256676",
+      "rank": 28,
+      "title": "JUST IN: Spot silver falls nearly 3% to $64.55/oz. https://t.co/KWjVzlGeFJ",
+      "benchmarkPostId": "2094715511569256676",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094715511569256676",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094700443565772862",
+      "rank": 29,
+      "title": "JUST IN: Spot gold falls 1% to $4,405.49/oz. https://t.co/zzKHbYUFH6",
+      "benchmarkPostId": "2094700443565772862",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094700443565772862",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094683837808644389",
+      "rank": 30,
+      "title": "JUST IN: BlackRock ETF clients buy $59.94 million worth of $ETH. https://t.co/YUQZbtp9cx",
+      "benchmarkPostId": "2094683837808644389",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094683837808644389",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094671438951092233",
+      "rank": 31,
+      "title": "JUST IN: BlackRock clients buy $205.91 million worth of $BTC. https://t.co/p9hCCzclwo",
+      "benchmarkPostId": "2094671438951092233",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094671438951092233",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094660485085794525",
+      "rank": 32,
+      "title": "JUST IN: Canary ETF clients buy $4.71 million worth of $XRP. https://t.co/ZMBJFGKYyW",
+      "benchmarkPostId": "2094660485085794525",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094660485085794525",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094545613836722658",
+      "rank": 33,
+      "title": "Robinhood $HOOD CEO Vlad Tenev just posted this: \"Robinhood Banking has crossed $4B in asset…",
+      "benchmarkPostId": "2094545613836722658",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094545613836722658",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094455043512488019",
+      "rank": 34,
+      "title": "JUST IN: 🇺🇸 Fed Chair Warsh says ‘Economic growth in the US appears to have strengthened.’ h…",
+      "benchmarkPostId": "2094455043512488019",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094455043512488019",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094411842252591224",
+      "rank": 35,
+      "title": "JUST IN: Tom Lee’s BitMine bought 53,501 $ETH last week, bringing the total to 5.9 million E…",
+      "benchmarkPostId": "2094411842252591224",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094411842252591224",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095257442594455572",
+      "rank": 36,
+      "title": "This is how the 🇺🇸 stock market performed today https://t.co/pV4ZezDX6o",
+      "benchmarkPostId": "2095257442594455572",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095257442594455572",
+      "score": 14,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094505511924175323",
+      "rank": 39,
+      "title": "CrowdStrike $CRWD stock hit new ALL TIME HIGHS today https://t.co/iPF06ypVWk",
+      "benchmarkPostId": "2094505511924175323",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094505511924175323",
+      "score": 14,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094505080540090521",
+      "rank": 40,
+      "title": "JUST IN: 🇺🇸 President Trump’s approval rating remains at 33%, the lowest level of his politi…",
+      "benchmarkPostId": "2094505080540090521",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094505080540090521",
+      "score": 14,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095263514336100844",
+      "rank": 41,
+      "title": "This is a real headline by the way ... https://t.co/KMyR7CKchq",
+      "benchmarkPostId": "2095263514336100844",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095263514336100844",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095194323918713317",
+      "rank": 42,
+      "title": "JUST IN: G20 Finance Ministers and Central Bank Governors announce that digital assets ‘can …",
+      "benchmarkPostId": "2095194323918713317",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095194323918713317",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095148744584860111",
+      "rank": 43,
+      "title": "JUST IN: A Binance content creator followed by CZ highlighted #MARIANHOOD community and volu…",
+      "benchmarkPostId": "2095148744584860111",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095148744584860111",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094708901077819742",
+      "rank": 44,
+      "title": "JUST IN: 🇯🇵 Japan’s 30-year yield just ripped above 4.18%, the highest level in history. htt…",
+      "benchmarkPostId": "2094708901077819742",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094708901077819742",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094518004851540314",
+      "rank": 45,
+      "title": "JUST IN: 🇺🇸 66% chance of President Trump being impeached during his term, per Kalshi trader…",
+      "benchmarkPostId": "2094518004851540314",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094518004851540314",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094503202980868236",
+      "rank": 46,
+      "title": "Meta Platforms $META CEO Mark Zuckerberg just posted this “Muse Code is out of beta and now …",
+      "benchmarkPostId": "2094503202980868236",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094503202980868236",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094493720263397836",
+      "rank": 47,
+      "title": "JUST IN: Bitwise’s $XRP ETF has surpassed $500,000,000 in assets under management just nine …",
+      "benchmarkPostId": "2094493720263397836",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094493720263397836",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094490737547067842",
+      "rank": 48,
+      "title": "$META is my largest single stock holding 🫡",
+      "benchmarkPostId": "2094490737547067842",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094490737547067842",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2094461725181370675",
+      "rank": 49,
+      "title": "This is what the Linkedin of the new CEO of Apple $AAPL 🍏 looks like https://t.co/UiyGAd3LQZ",
+      "benchmarkPostId": "2094461725181370675",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094461725181370675",
+      "score": 13,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094524356210602289",
+      "rank": 50,
+      "title": "This is how every stock in the S&amp;P 500 performed today https://t.co/2LY0ET94Ho",
+      "benchmarkPostId": "2094524356210602289",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2094524356210602289",
+      "score": 12,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094736124874821910",
+      "rank": 51,
+      "title": "JUST IN: Jim Cramer says rate cuts look unlikely. https://t.co/B5QERjPFss",
+      "benchmarkPostId": "2094736124874821910",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094736124874821910",
+      "score": 11,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094528834208952805",
+      "rank": 52,
+      "title": "JUST IN: 🇺🇸 S&amp;P 500 posts its highest monthly close ever. https://t.co/E0kEoXng22",
+      "benchmarkPostId": "2094528834208952805",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094528834208952805",
+      "score": 11,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2094467570732548406",
+      "rank": 53,
+      "title": "JUST IN: 🇺🇸 Hyperliquid in talks with Kraken parent Payward about a potential U.S. market en…",
+      "benchmarkPostId": "2094467570732548406",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2094467570732548406",
+      "score": 11,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:53:45Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -2928,6 +4118,278 @@
       "imagePath": "deliverables/2026-09-03-moonshot-hk-ipo/when2buy-moonshot-hk-ipo.png",
       "postizPostId": "cmtlgb6p401t8lm0yk5j75k26",
       "publishedAt": "2026-09-03T11:38:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-zoom-zm-just-announced-that-jeff-epstein-has-joi-09103",
+      "benchmarkPostId": "2095262314014409103",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095262314014409103",
+      "title": "Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately.",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Zoom $ZM just announced that Jeff Epstein has joined its Board of Dire\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095262314014409103"
+      ],
+      "imagePath": "deliverables/pkg-20260903-zoom-zm-just-announced-that-jeff-epstein-has-joi-09103/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:04.503897+00:00"
+    },
+    {
+      "id": "pkg-20260903-broadcom-avgo-just-said-that-it-expects-to-bring-39182",
+      "benchmarkPostId": "2095261443717239182",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095261443717239182",
+      "title": "Broadcom $AVGO just said that it expects to bring in $230 Billion of revenue from AI semiconductors ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Broadcom $AVGO just said that it expects to bring in $230 Billion of r\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Broadcom $AVGO just said that it expects to bring in $230 Billion of revenue from AI semiconductors in FY 2028"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095261443717239182"
+      ],
+      "imagePath": "deliverables/pkg-20260903-broadcom-avgo-just-said-that-it-expects-to-bring-39182/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:04.593202+00:00"
+    },
+    {
+      "id": "pkg-20260903-broadcom-s-avgo-ceo-just-said-in-2027-we-have-se-29657",
+      "benchmarkPostId": "2095260639446929657",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095260639446929657",
+      "title": "BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 BILLION"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095260639446929657"
+      ],
+      "imagePath": "deliverables/pkg-20260903-broadcom-s-avgo-ceo-just-said-in-2027-we-have-se-29657/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:04.735627+00:00"
+    },
+    {
+      "id": "pkg-20260903-snowflake-s-snow-ceo-just-said-we-remain-on-trac-00640",
+      "benchmarkPostId": "2095260451147800640",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095260451147800640",
+      "title": "Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITABILITY IN Q4 FY28",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITAB\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITABILITY IN Q4 FY28"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095260451147800640"
+      ],
+      "imagePath": "deliverables/pkg-20260903-snowflake-s-snow-ceo-just-said-we-remain-on-trac-00640/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:04.826883+00:00"
+    },
+    {
+      "id": "pkg-20260903-here-is-a-early-look-at-some-of-the-largest-stoc-61399",
+      "benchmarkPostId": "2095259425544061399",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095259425544061399",
+      "title": "Here is a early look at some of the largest stocks that report earnings tomorrow Lululemon $LULU Cie",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Here is a early look at some of the largest stocks that report earning\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Here is a early look at some of the largest stocks that report earnings tomorrow Lululemon $LULU Ciena $CIEN UiPath $PATH Zscaler $ZS Planet Labs $PL Docusign $DOCU"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095259425544061399"
+      ],
+      "imagePath": "deliverables/pkg-20260903-here-is-a-early-look-at-some-of-the-largest-stoc-61399/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:04.947518+00:00"
+    },
+    {
+      "id": "pkg-20260903-this-is-how-the-stock-market-performed-today-55572",
+      "benchmarkPostId": "2095257442594455572",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095257442594455572",
+      "title": "This is how the 🇺🇸 stock market performed today",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is how the 🇺🇸 stock market performed today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is how the 🇺🇸 stock market performed today"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095257442594455572"
+      ],
+      "imagePath": "deliverables/pkg-20260903-this-is-how-the-stock-market-performed-today-55572/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.043260+00:00"
+    },
+    {
+      "id": "pkg-20260903-microsoft-msft-just-confirmed-that-it-will-be-ch-99761",
+      "benchmarkPostId": "2095249439321399761",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095249439321399761",
+      "title": "Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Microsoft $MSFT just confirmed that it will be changing the way it rep\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will report in 2 segments going forward - Agents and Infrastructure - Devices and Consumer"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095249439321399761"
+      ],
+      "imagePath": "deliverables/pkg-20260903-microsoft-msft-just-confirmed-that-it-will-be-ch-99761/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.187894+00:00"
+    },
+    {
+      "id": "pkg-20260903-just-in-g20-finance-ministers-and-central-bank-g-13317",
+      "benchmarkPostId": "2095194323918713317",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095194323918713317",
+      "title": "JUST IN: G20 Finance Ministers and Central Bank Governors announce that digital assets ‘can play in ",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: G20 Finance Ministers and Central Bank Governors announce tha\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: G20 Finance Ministers and Central Bank Governors announce that digital assets ‘can play in supporting broad-based economic growth.’"
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095194323918713317"
+      ],
+      "imagePath": "deliverables/pkg-20260903-just-in-g20-finance-ministers-and-central-bank-g-13317/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.346257+00:00"
+    },
+    {
+      "id": "pkg-20260903-just-in-metawin-announces-another-1m-will-be-giv-11846",
+      "benchmarkPostId": "2095193305638211846",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095193305638211846",
+      "title": "JUST IN: @MetaWin announces another $1M will be given away to players this month. Deposit on to qual",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: @MetaWin announces another $1M will be given away to players \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: @MetaWin announces another $1M will be given away to players this month. Deposit on to qualify."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095193305638211846"
+      ],
+      "imagePath": "deliverables/pkg-20260903-just-in-metawin-announces-another-1m-will-be-giv-11846/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.509966+00:00"
+    },
+    {
+      "id": "pkg-20260903-just-in-robinhood-chain-hood-total-tokenized-val-33770",
+      "benchmarkPostId": "2095172700113133770",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095172700113133770",
+      "title": "JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095172700113133770"
+      ],
+      "imagePath": "deliverables/pkg-20260903-just-in-robinhood-chain-hood-total-tokenized-val-33770/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.636207+00:00"
+    },
+    {
+      "id": "pkg-20260903-just-in-daily-volume-on-robinhood-chain-hood-con-08217",
+      "benchmarkPostId": "2095150147470508217",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095150147470508217",
+      "title": "JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - ",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new hi\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - Artemis."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095150147470508217"
+      ],
+      "imagePath": "deliverables/pkg-20260903-just-in-daily-volume-on-robinhood-chain-hood-con-08217/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.740138+00:00"
+    },
+    {
+      "id": "pkg-20260903-just-in-a-binance-content-creator-followed-by-cz-60111",
+      "benchmarkPostId": "2095148744584860111",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095148744584860111",
+      "title": "JUST IN: A Binance content creator followed by CZ highlighted #MARIANHOOD community and volume, noti",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: A Binance content creator followed by CZ highlighted #MARIANH\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: A Binance content creator followed by CZ highlighted #MARIANHOOD community and volume, noting potential upside if Binance lists the token."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095148744584860111"
+      ],
+      "imagePath": "deliverables/pkg-20260903-just-in-a-binance-content-creator-followed-by-cz-60111/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.819293+00:00"
+    },
+    {
+      "id": "pkg-20260903-just-in-fed-s-williams-says-recent-data-have-bee-22217",
+      "benchmarkPostId": "2095127114982822217",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095127114982822217",
+      "title": "JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’\n\nUnverified source claim—watch the wider context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’"
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095127114982822217"
+      ],
+      "imagePath": "deliverables/pkg-20260903-just-in-fed-s-williams-says-recent-data-have-bee-22217/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.913466+00:00",
+      "postizPostId": "cmtlgx9t40200qk0ymy2yeleq",
+      "publishedAt": "2026-09-03T11:55:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-this-is-how-you-go-from-being-worth-250b-to-bein-49790",
+      "benchmarkPostId": "2095480211940749790",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095480211940749790",
+      "title": "This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is how you go from being worth ~$250B to being worth $1.75T in ju\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095480211940749790"
+      ],
+      "imagePath": "deliverables/pkg-20260903-this-is-how-you-go-from-being-worth-250b-to-bein-49790/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:05.994919+00:00"
+    },
+    {
+      "id": "pkg-20260903-watch-out-for-this-major-event-tonight-tesla-tsl-78535",
+      "benchmarkPostId": "2095476096225378535",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095476096225378535",
+      "title": "WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its Cybercab event tonight in Aus",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its Cybercab event tonight in Austin, Texas. The event will reportedly start around 5:45PM ET Tesla is expected to show off the production version of its new self driving car"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095476096225378535"
+      ],
+      "imagePath": "deliverables/pkg-20260903-watch-out-for-this-major-event-tonight-tesla-tsl-78535/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-03T11:55:06.083260+00:00"
     }
   ],
   "posts": [
@@ -3128,6 +4590,23 @@
         "windowStart": "2026-09-03T11:38:00Z",
         "windowEnd": "2026-09-06T11:38:00Z",
         "lastAttemptAt": "2026-09-03T11:38:37.189725Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095480844748231138",
+      "packageId": "pkg-20260903-just-in-fed-s-williams-says-recent-data-have-bee-22217",
+      "title": "JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’",
+      "status": "published",
+      "publishedAt": "2026-09-03T11:55:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095480844748231138",
+      "postizPostId": "cmtlgx9t40200qk0ymy2yeleq",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-03T11:55:00Z",
+        "windowEnd": "2026-09-06T11:55:00Z",
+        "lastAttemptAt": "2026-09-03T11:56:04.485658Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -3695,6 +5174,48 @@
         },
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-03T11:38:37.189725Z"
+      }
+    },
+    {
+      "id": "metric-2095480844748231138-20260903T115604Z",
+      "postId": "2095480844748231138",
+      "observedAt": "2026-09-03T11:56:04.485658Z",
+      "views": 0,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtlgx9t40200qk0ymy2yeleq",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtlgx9t40200qk0ymy2yeleq",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-03"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-03"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-03"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-03"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-03"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-03T11:56:04.485658Z"
       }
     }
   ],
@@ -4554,6 +6075,46 @@
       "startedAt": "2026-09-03T11:40:33Z",
       "completedAt": "2026-09-03T11:40:33Z",
       "summary": "Prepared 5 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T115344Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:53:44Z",
+      "completedAt": "2026-09-03T11:53:44Z",
+      "summary": "Apify scanned both benchmark accounts; captured 36 eligible originals and added 15 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260903T115346Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:53:46Z",
+      "completedAt": "2026-09-03T11:53:46Z",
+      "summary": "Prepared 53 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T115506Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:55:06.083306+00:00",
+      "completedAt": "2026-09-03T11:55:06.083312+00:00",
+      "summary": "Created 15 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T115545Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:55:45.070765+00:00",
+      "completedAt": "2026-09-03T11:55:45.070777+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]

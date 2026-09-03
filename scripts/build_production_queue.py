@@ -50,18 +50,17 @@ def main():
         if str(post.get("id")) in covered or (posted and now() - posted > timedelta(hours=72)):
             continue
         total, breakdown = score(post)
-        # Keep the queue aligned with when2buy's U.S. equity / macro remit.
-        if breakdown["when2buyFit"] == 0 or any(token in post["text"].lower() for token in ("$btc", "$eth", "$xrp", "stablecoin", "hardware wallet")):
-            continue
+        # Every eligible captured original receives an output.  Reframe weak or
+        # unverified claims as attributed radar/context; do not discard them.
         candidates.append((total, post, breakdown))
     candidates.sort(key=lambda item: (item[0], item[1].get("postedAt", "")), reverse=True)
-    for rank, (total, post, breakdown) in enumerate(candidates[:5], start=1):
+    for rank, (total, post, breakdown) in enumerate(candidates, start=1):
         if str(post["id"]) not in known_radar:
             current["radar"].append({
                 "id": f"radar-{post['id']}", "rank": rank,
                 "title": title(post["text"]), "benchmarkPostId": post["id"],
                 "sourceAccount": post["account"], "sourcePostUrl": post["url"],
-                "score": total, "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+                "score": total, "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
                 "status": "queued", "createdAt": iso(), "scoreBreakdown": breakdown,
             })
     queue = {"generatedAt": iso(), "timezone": "Asia/Shanghai", "items": [
@@ -71,7 +70,7 @@ def main():
          "engagement": post.get("engagement", {}), "postedAt": post.get("postedAt", ""),
          "score": total, "scoreBreakdown": breakdown,
          "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."}
-        for rank, (total, post, breakdown) in enumerate(candidates[:5], start=1)
+        for rank, (total, post, breakdown) in enumerate(candidates, start=1)
     ]}
     QUEUE_PATH.write_text(json.dumps(queue, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     current["runs"].append({"id": f"run-{now().strftime('%Y%m%dT%H%M%SZ')}-queue", "mode": "queue", "status": "succeeded", "startedAt": iso(), "completedAt": iso(), "summary": f"Prepared {len(queue['items'])} one-to-one production candidate(s).", "reason": ""})

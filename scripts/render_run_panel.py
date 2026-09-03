@@ -96,7 +96,11 @@ def main():
     for item in state.get('metricSnapshots', []):
         if item.get('postId'): snapshots[str(item.get('postId'))].append(item)
     grouped = defaultdict(list)
-    for post in state.get('benchmarkPosts', []): grouped[day(post.get('capturedAt'))].append(post)
+    # The dashboard is an output ledger: captured sources without a package stay
+    # in durable state, but are intentionally not displayed as empty rows.
+    for post in state.get('benchmarkPosts', []):
+        if post.get('id') in packages:
+            grouped[day(post.get('capturedAt'))].append(post)
     sections = []
     for captured_day in sorted(grouped, reverse=True):
         body = ''.join(row(post, packages, releases, snapshots) for post in sorted(grouped[captured_day], key=lambda post: str(post.get('capturedAt', '')), reverse=True))

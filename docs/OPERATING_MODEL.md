@@ -4,14 +4,14 @@
 
 `Apify 采集 → 原图归档 → 生产队列 → 快速来源披露 → 原创文案/视觉 → Postiz 发布 → 发布核验 → 状态、报告、HTML 面板`
 
-每次运行只选一个与一条对标帖一对一映射的事件；对标帐号只负责发现与时效，不能复制其措辞或配图。QUICK MARKET RADAR 模式允许以这两个固定来源的已捕获帖子快速发布，但必须清晰披露来源和未独立核验状态，且不将第三方主张表述为已证实事实。
+每次运行对每条新捕获的合格对标帖建立一对一原创输出；对标帐号只负责发现与时效，不能复制其措辞或配图。QUICK MARKET RADAR 模式允许以这两个固定来源的已捕获帖子快速发布；独立核验不足时必须改写成带来源归因的 market-radar 或更广泛趋势/背景帖，而不是丢弃，并且不将第三方主张表述为已证实事实。
 
 ## 固定输入与输出
 
 | 阶段 | 输入 | 成功输出 | 不通过时 |
 |---|---|---|---|
 | Radar | Apify、两个固定帐号 | `benchmarkPosts`、`production-queue.json` | 记录 `blocked`，不补造选题 |
-| Quick radar | 候选帖、账号与状态 URL | 来源捕获、显著未核验披露、无交易建议 | 终止该候选 |
+| Quick radar | 候选帖、账号与状态 URL | 每条候选都有原创输出、来源捕获、显著未核验披露、无交易建议 | 因运营或交付失败而保留原因；不得仅因未独立核验而丢弃 |
 | Produce | 已核验事实、品牌资产 | `packages` 中 `ready` 包、1:1 PNG | 不使用对标原图作成品 |
 | Publish | ready 包、Postiz | `PUBLISHED` 和公开 X URL | 保持 `ready`/`failed`，不虚报成功 |
 | Review | 已发帖、公开指标 | `metricSnapshots`、结论 | 不改写历史快照 |
@@ -22,7 +22,7 @@
 2. `python3 scripts/collect_apify_benchmarks.py`
 3. `python3 scripts/archive_benchmark_media.py`
 4. `python3 scripts/build_production_queue.py`
-5. QUICK MARKET RADAR：选择最新未覆盖候选，保存账号与状态 URL；以“Market radar — reported by @account; not independently verified.”披露，制作 `ready` package。第三方预测、排名、交易条款、价格和概率必须保持归因，不能写成事实。
+5. QUICK MARKET RADAR：为每条新合格候选保存账号与状态 URL，并制作 `ready` package；以“Market radar — reported by @account; not independently verified.”披露。第三方预测、排名、交易条款、价格和概率必须保持归因，不能写成事实；无法独立核验时改为 market-radar 或更广泛背景角度。
 6. 仅在用户已有当前或持续发布授权时执行：`python3 scripts/postiz_publish.py --package-id <id> --confirm`
 7. `python3 scripts/render_report.py && python3 scripts/render_run_panel.py`
 8. `python3 skills/when2buy-content-publisher/scripts/state.py validate && python3 scripts/security_scan.py`

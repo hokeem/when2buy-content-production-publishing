@@ -16,7 +16,7 @@ Run a **benchmark-first mirror desk**, not a general finance idea generator.
    - `https://x.com/StockMKTNewz`
 2. Capture every new original post since the previous successful scan. Exclude replies, repost-only entries, promotions, and unrelated crypto content.
 3. If neither account has a new eligible post, scan backward up to 48 hours. Do not invent an unrelated topic merely to fill a slot.
-4. Make when2buy cover the **same news event, company/ticker, key disclosed facts, decisive numbers, and urgency window** as the selected benchmark post.
+4. Make when2buy cover the **same news event, company/ticker, key disclosed facts, decisive numbers, and urgency window** as the selected benchmark post. Every newly captured eligible original must receive an original when2buy package; lack of independent verification changes the framing, never silently discards the topic.
 5. Do not copy the benchmark's distinctive sentences, jokes, commentary, or artwork. `Same content` means the same verified topic and factual payload expressed in original when2buy wording and visuals.
 6. Store the benchmark status URL and mapping before producing. A package without a `benchmarkPostId`, benchmark URL, and mirrored-facts list is invalid.
 
@@ -56,7 +56,7 @@ Read only the references needed for the selected mode:
 3. Scan both benchmark feeds first. Append the discovered source posts to `benchmarkPosts` with exact status URL, timestamp, visible text, and account.
 4. In standard mode, trace every material claim to a primary source or authoritative financial reporting. In QUICK MARKET RADAR mode, capture the benchmark account and status URL, preserve attribution and the required disclosure, and do not present the claim as independently established.
 5. Rank benchmark posts by freshness, market impact, factual clarity, visual potential, and duplication risk. Store up to five one-to-one opportunities; never create an unrelated filler topic.
-6. Produce from the highest-ranked benchmark post. Preserve the selected topic, tickers, factual sequence, key numbers, and urgency; independently write the narration and analysis.
+6. Produce from every newly eligible benchmark post. Preserve source provenance and write independently; for an unverified or overly specific claim, make an attributed market-radar or broader trend/context post rather than stating the claim as established fact.
 7. Create one 1:1 branded image using the exact `assets/when2buy-logo-reference.png` logo and the visual rules in [brand-and-style.md](references/brand-and-style.md). Compare the draft against all three supplied style examples before accepting it.
 8. Complete research, copy, and image production autonomously. When standing or current publishing authorization exists, run `python3 scripts/postiz_publish.py --package-id <id> --confirm`. The script verifies the Postiz integration is `@_When2buy`, uploads the package image, and waits for `PUBLISHED` plus a public X URL. In QUICK MARKET RADAR mode, attribution and disclosure replace independent-verification gating; without authorization, stop at `ready`.
 9. Only record `published` after Postiz returns `PUBLISHED` and a public X release URL. Then refresh the run panel.
@@ -71,7 +71,7 @@ Read only the references needed for the selected mode:
 - Do not label generated media as AI unless the user or platform requires it. Never remove a platform-required provenance label.
 - Do not make investment guarantees, fabricate quotes, or imply inside information.
 - Do not replace the two benchmark accounts with a generic news search. Upstream sources verify facts; they do not replace benchmark-first topic selection.
-- In standard mode, uncertainty blocks publication and must be recorded precisely. In QUICK MARKET RADAR mode, unverified content is publishable only with the required source attribution and disclosure; operational or delivery uncertainty still blocks publication.
+- Unverified or specific third-party claims are reframed with source attribution and the required disclosure; they are not discarded solely for lacking independent verification. Operational or delivery uncertainty still blocks publication.
 
 ## Completion
 
