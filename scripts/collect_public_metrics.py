@@ -30,6 +30,7 @@ LABEL_MAP = {
     'retweets': 'reposts', 'retweet': 'reposts', 'reposts': 'reposts', 'repost': 'reposts',
     'shares': 'reposts', 'share': 'reposts',
     'likes': 'likes', 'like': 'likes',
+    'bookmarks': 'bookmarks', 'bookmark': 'bookmarks', 'saves': 'bookmarks', 'save': 'bookmarks',
 }
 
 
