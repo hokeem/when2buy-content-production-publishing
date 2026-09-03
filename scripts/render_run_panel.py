@@ -29,7 +29,42 @@ def source_media(post):
     urls = [url for url in post.get('mediaUrls', []) if isinstance(url, str) and url.startswith('https://')]
     return '<div class="source-images">' + ''.join(thumb(url, 'Original source image', 'source-image') for url in urls) + '</div>' if urls else '<span class="muted">No source image</span>'
 
-def row(post, packages, releases):
+def usable_snapshot(item):
+    return any(item.get(field) is not None for field in ('views', 'replies', 'reposts', 'likes'))
+
+def snapshot_line(item):
+    source = (item.get('evidence') or {}).get('source') or 'legacy capture'
+    values = f'V {metric(item.get("views"))} · R {metric(item.get("replies"))} · RP {metric(item.get("reposts"))} · L {metric(item.get("likes"))}'
+    suffix = '' if usable_snapshot(item) else ' · no metrics recorded'
+    return f'{e(crawl_time(item.get("observedAt")))} · {values} · {e(source)}{suffix}'
+
+def first_day_history(post, snapshots):
+    published_at = as_datetime(post.get('publishedAt'))
+    if not published_at:
+        return '<span class="muted">No publication timestamp</span>'
+    cutoff = published_at + timedelta(hours=24)
+    first_day = [item for item in snapshots if as_datetime(item.get('observedAt')) and published_at <= as_datetime(item.get('observedAt')) <= cutoff and usable_snapshot(item)]
+    if not first_day:
+        return '<span class="muted">No first-24h metrics captured</span>'
+    return '<ol class="snapshots">' + ''.join(f'<li>{snapshot_line(item)}</li>' for item in first_day) + '</ol>'
+
+def metric_cell(post, snapshots):
+    ordered = sorted(snapshots, key=lambda item: str(item.get('observedAt', '')))
+    measured = [item for item in ordered if usable_snapshot(item)]
+    latest = measured[-1] if measured else {}
+    tracking = post.get('metricsTracking') or {}
+    first_count = 0
+    published_at = as_datetime(post.get('publishedAt'))
+    if published_at:
+        cutoff = published_at + timedelta(hours=24)
+        first_count = sum(1 for item in measured if as_datetime(item.get('observedAt')) and published_at <= as_datetime(item.get('observedAt')) <= cutoff)
+    checked_at = tracking.get('lastAttemptAt') or latest.get('observedAt')
+    summary = f'V {metric(latest.get("views"))} · R {metric(latest.get("replies"))} · RP {metric(latest.get("reposts"))} · L {metric(latest.get("likes"))}'
+    status = tracking.get('status', 'not initialized').upper()
+    history = '<span class="muted">No snapshots</span>' if not ordered else '<ol class="snapshots">' + ''.join(f'<li>{snapshot_line(item)}</li>' for item in ordered) + '</ol>'
+    return f'''<div class="tracking-cell"><div class="tracking-values">{summary}</div><div class="tracking-meta">Checked: {e(crawl_time(checked_at))}<br>72h: {e(status)} · First 24h: {first_count}</div><details class="metric-details"><summary>First 24h history</summary>{first_day_history(post, ordered)}</details><details class="metric-details"><summary>All snapshots ({len(ordered)})</summary>{history}</details></div>'''
+
+def row(post, packages, releases, snapshots):
     package = packages.get(post.get('id'), {})
     release = releases.get(package.get('id'), {})
     image_url = asset(package.get('imagePath'))
@@ -40,60 +75,25 @@ def row(post, packages, releases):
     image = thumb(image_url, package.get('title', 'when2buy final image'), 'final-image') if image_url else '<span class="muted">No final image</span>'
     output = f'<p class="copy">{copy}</p>{image}'
     release_cell = f'<span class="status {status_class}">{e(status.upper())}</span><br>{link(release.get("url"), "Open confirmed release")}' if release else f'<span class="status {status_class}">{e(status.upper())}</span>'
-    return f'<tr><td>{e(crawl_time(post.get("capturedAt")))}</td><td>{source}</td><td>{output}</td><td>{release_cell}</td></tr>'
-
-def first_day_history(post, snapshots):
-    published_at = as_datetime(post.get('publishedAt'))
-    if not published_at:
-        return '<span class="muted">No publication timestamp</span>'
-    cutoff = published_at + timedelta(hours=24)
-    first_day = [item for item in snapshots if published_at <= as_datetime(item.get('observedAt')) <= cutoff]
-    if not first_day:
-        return '<span class="muted">No first-24h snapshot captured</span>'
-    items = []
-    for item in first_day:
-        items.append(f'<li>{e(crawl_time(item.get("observedAt")))} · V {metric(item.get("views"))} · R {metric(item.get("replies"))} · RP {metric(item.get("reposts"))} · L {metric(item.get("likes"))}</li>')
-    return '<ol class="snapshots">' + ''.join(items) + '</ol>'
-
-def snapshot_line(item):
-    return f'{e(crawl_time(item.get("observedAt")))} · V {metric(item.get("views"))} · R {metric(item.get("replies"))} · RP {metric(item.get("reposts"))} · L {metric(item.get("likes"))}'
-
-def full_history(snapshots):
-    if not snapshots:
-        return '<span class="muted">No public snapshots captured</span>'
-    return '<details class="history"><summary>All captured snapshots (' + str(len(snapshots)) + ')</summary><ol class="snapshots">' + ''.join(f'<li>{snapshot_line(item)}</li>' for item in snapshots) + '</ol></details>'
-
-def tracker_card(post, snapshots):
-    ordered = sorted(snapshots, key=lambda item: str(item.get('observedAt', '')))
-    latest = ordered[-1] if ordered else {}
-    tracking = post.get('metricsTracking', {})
-    tracking_status = tracking.get('status', 'not initialized').upper()
-    return f'''<article class="metric-card"><div><b>{e(post.get('title'))}</b><br>{link(post.get('url'), 'Open public X post')}</div>
-      <div class="metric-status">72h tracking: {e(tracking_status)}<br>Last checked: {e(crawl_time(latest.get('observedAt'))) if latest else '—'}</div>
-      <dl class="metric-values"><div><dt>Views</dt><dd>{metric(latest.get('views'))}</dd></div><div><dt>Replies</dt><dd>{metric(latest.get('replies'))}</dd></div><div><dt>Reposts</dt><dd>{metric(latest.get('reposts'))}</dd></div><div><dt>Likes</dt><dd>{metric(latest.get('likes'))}</dd></div></dl>
-      <div><b>First 24h</b>{first_day_history(post, ordered)}</div><div>{full_history(ordered)}</div></article>'''
-
-def tracker(posts, snapshots):
-    by_post = defaultdict(list)
-    for item in snapshots:
-        if item.get('postId'): by_post[str(item['postId'])].append(item)
-    cards = ''.join(tracker_card(post, by_post.get(str(post.get('id')), [])) for post in sorted(posts, key=lambda item: str(item.get('publishedAt', '')), reverse=True) if post.get('status') == 'published')
-    empty = '<p class="muted">No published posts.</p>'
-    return f'<section><h2>Publication metrics</h2><p class="muted">Public X observations only. V = views, R = replies, RP = reposts, L = likes. First-24h history is chronological and uses captured snapshots only.</p><div class="metric-cards">{cards or empty}</div></section>'
+    release_post = release if release else {}
+    return f'<tr><td>{e(crawl_time(post.get("capturedAt")))}</td><td>{source}</td><td>{output}</td><td>{release_cell}</td><td>{metric_cell(release_post, snapshots.get(str(release_post.get("id")), [])) if release else "—"}</td></tr>'
 
 def main():
     state = json.loads(STATE.read_text(encoding='utf-8'))
     packages = {item.get('benchmarkPostId'): item for item in state.get('packages', []) if item.get('benchmarkPostId')}
     releases = {item.get('packageId'): item for item in state.get('posts', []) if item.get('packageId')}
+    snapshots = defaultdict(list)
+    for item in state.get('metricSnapshots', []):
+        if item.get('postId'): snapshots[str(item.get('postId'))].append(item)
     grouped = defaultdict(list)
     for post in state.get('benchmarkPosts', []): grouped[day(post.get('capturedAt'))].append(post)
     sections = []
     for captured_day in sorted(grouped, reverse=True):
-        body = ''.join(row(post, packages, releases) for post in sorted(grouped[captured_day], key=lambda post: str(post.get('capturedAt', '')), reverse=True))
-        sections.append(f'<section><h2>{e(captured_day)}</h2><div class="table-wrap"><table><thead><tr><th>Crawl time</th><th>Original source</th><th>when2buy output</th><th>Confirmed release</th></tr></thead><tbody>{body}</tbody></table></div></section>')
+        body = ''.join(row(post, packages, releases, snapshots) for post in sorted(grouped[captured_day], key=lambda post: str(post.get('capturedAt', '')), reverse=True))
+        sections.append(f'<section><h2>{e(captured_day)}</h2><div class="table-wrap"><table><thead><tr><th>Crawl time</th><th>Original source</th><th>when2buy output</th><th>Confirmed release</th><th>24h data</th></tr></thead><tbody>{body}</tbody></table></div></section>')
     out = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>when2buy daily table</title><style>
-      :root{{--bg:#0c0d10;--panel:#14161b;--line:#30343b;--text:#f6f7f9;--muted:#a8b0bd;--green:#75c66a}}*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}}main{{max-width:1440px;margin:auto;padding:32px 18px 60px}}h1{{margin:0 0 6px;font-size:30px}}h2{{margin:34px 0 10px;font-size:20px}}p{{margin:8px 0}}a{{color:var(--green)}}.muted{{color:var(--muted)}}.table-wrap{{overflow:auto;border:1px solid var(--line);border-radius:10px}}table{{width:100%;min-width:1050px;border-collapse:collapse;background:var(--panel)}}th,td{{padding:14px;vertical-align:top;text-align:left;border-bottom:1px solid var(--line)}}th{{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);background:#101217}}td:first-child{{white-space:nowrap;color:var(--muted);width:165px}}td:nth-child(2){{width:34%}}td:nth-child(3){{width:37%}}.source-images{{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}}.source-image{{width:94px;height:94px;object-fit:cover;border-radius:6px;border:1px solid var(--line)}}.final-image{{display:block;width:180px;height:180px;object-fit:cover;border-radius:8px;border:1px solid var(--line);margin-top:12px}}.copy{{max-width:560px}}.status{{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;font-weight:800;letter-spacing:.04em}}.published{{background:#183b20;color:#a5e898}}.pending{{background:#472522;color:#ffb2a8}}.metric-cards{{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:12px}}.metric-card{{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:15px}}.metric-status{{font-size:12px;color:var(--muted);margin-top:8px}}.metric-values{{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:14px 0}}.metric-values div{{background:#0f1115;border-radius:7px;padding:7px}}dt{{font-size:11px;color:var(--muted);text-transform:uppercase}}dd{{font-weight:800;font-size:18px;margin:2px 0 0}}.snapshots{{margin:7px 0;padding-left:20px;color:var(--muted);font-size:12px}}details.history{{margin-top:12px;border-top:1px solid var(--line);padding-top:10px}}details.history summary{{cursor:pointer;color:var(--green);font-weight:700}}@media(max-width:700px){{main{{padding:22px 12px}}h1{{font-size:25px}}}}
-      </style></head><body><main><h1>when2buy daily crawl → release</h1><p class="muted">Full history by crawl date. Newest first.</p>{''.join(sections) or '<p class="muted">No source posts captured.</p>'}{tracker(state.get('posts', []), state.get('metricSnapshots', []))}</main></body></html>'''
+      :root{{--bg:#0c0d10;--panel:#14161b;--line:#30343b;--text:#f6f7f9;--muted:#a8b0bd;--green:#75c66a}}*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}}main{{max-width:1600px;margin:auto;padding:32px 18px 60px}}h1{{margin:0 0 6px;font-size:30px}}h2{{margin:34px 0 10px;font-size:20px}}p{{margin:8px 0}}a{{color:var(--green)}}.muted{{color:var(--muted)}}.table-wrap{{overflow:auto;border:1px solid var(--line);border-radius:10px}}table{{width:100%;min-width:1280px;border-collapse:collapse;background:var(--panel)}}th,td{{padding:14px;vertical-align:top;text-align:left;border-bottom:1px solid var(--line)}}th{{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);background:#101217}}td:first-child{{white-space:nowrap;color:var(--muted);width:165px}}td:nth-child(2){{width:30%}}td:nth-child(3){{width:32%}}.source-images{{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}}.source-image{{width:94px;height:94px;object-fit:cover;border-radius:6px;border:1px solid var(--line)}}.final-image{{display:block;width:180px;height:180px;object-fit:cover;border-radius:8px;border:1px solid var(--line);margin-top:12px}}.copy{{max-width:560px}}.status{{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;font-weight:800;letter-spacing:.04em}}.published{{background:#183b20;color:#a5e898}}.pending{{background:#472522;color:#ffb2a8}}.tracking-cell{{min-width:260px;font-size:12px}}.tracking-values{{font-weight:800;white-space:nowrap}}.tracking-meta{{color:var(--muted);margin-top:5px}}.snapshots{{margin:7px 0;padding-left:18px;color:var(--muted);font-size:12px}}.metric-details{{margin-top:7px;border-top:1px solid var(--line);padding-top:6px}}.metric-details summary{{cursor:pointer;color:var(--green);font-weight:700}}@media(max-width:700px){{main{{padding:22px 12px}}h1{{font-size:25px}}}}
+    </style></head><body><main><h1>when2buy daily crawl → release</h1><p class="muted">Full history by crawl date. Newest first. Metrics are Postiz API-first; public X is a fallback only when it exposes numeric counters.</p>{''.join(sections) or '<p class="muted">No source posts captured.</p>'}</main></body></html>'''
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(out + '\n', encoding='utf-8')
     print(f'Wrote {OUT}')

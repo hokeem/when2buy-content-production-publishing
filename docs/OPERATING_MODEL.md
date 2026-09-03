@@ -42,6 +42,6 @@
 |---|---|---|
 | 08:30、14:30、20:30 | GitHub Actions `Apify benchmark radar` | 采集两位对标帐号、归档原图、重建队列和稳定 HTML 面板，并将状态推回 `main`。 |
 | 08:40、14:40、20:40 | Paseo `when2buy-production-publish` | 拉取 `main`；只处理最新且未覆盖的候选；核验、原创制作、Postiz 发布、公开 URL 核验，并推回状态与面板。 |
-| 每日 09:05 | Paseo `when2buy-performance-review` | 运行 `scripts/collect_public_metrics.py`；仅在 Postiz 发布后的 72 小时窗口内读取该帖公开 X URL 并追加可归因指标，窗口结束即标记 `metricsTracking=complete` 且永不再抓取。 |
+| 每日 09:05 | Paseo `when2buy-performance-review` | 运行 `scripts/collect_public_metrics.py`；仅在 Postiz 发布后的 72 小时窗口内先读取 Postiz Public API 的每帖 analytics，公开 X URL 仅作 API 失败/空值时的数值后备；窗口结束即标记 `metricsTracking=complete` 且永不再抓取。 |
 
 生产定时任务拥有针对 `@_When2buy` 的 standing 发布授权，但不是无条件发布器。它必须按本手册的 Verify、Produce、Publish 三道门执行；任一门不通过就记录原因、刷新报告并结束。`POSTIZ_API_KEY` 与 `WHEN2BUY_AUTOPUBLISH_ENABLED=true` 只能放在受限运行环境，不能进入仓库或 GitHub Actions 日志。

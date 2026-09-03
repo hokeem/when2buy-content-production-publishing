@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T10:48:07.539310+00:00`
+- 状态更新：`2026-09-03T11:07:43.565227+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**71**
 - 待选选题：**11**
@@ -135,17 +135,17 @@ Market radar: @StockMKTNewz reports Uber and Wayve launched London robotaxi matc
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
+| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z | 91 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428469635395700) |
+| HOPE token launch reported | 2026-09-03T08:24:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427868683829570) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 38 |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
-| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 16 |  |  |  | [X](https://x.com/_When2buy/status/2094648465645265080) |
+| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
+| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 20 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
+| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 14 |  |  |  | [X](https://x.com/_When2buy/status/2094334035149607267) |
-| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095424711853584893) |
-| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427314796704032) |
-| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427576059834822) |
-| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427724378767851) |
-| HOPE token launch reported | 2026-09-03T08:24:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427868683829570) |
-| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428221366091837) |
-| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428469635395700) |
-| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428640263766427) |
+| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
+| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
+| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 
 ## 最近运行
 

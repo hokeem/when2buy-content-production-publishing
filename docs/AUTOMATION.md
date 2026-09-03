@@ -4,7 +4,7 @@
 
 1. **Radar（GitHub Actions，08:30 / 14:30 / 20:30）**：从 `@WhaleInsider`、`@StockMKTNewz` 拉取公开原创帖，保存原文、链接、互动数据与原始媒体归档；重建 `data/production-queue.json`、`reports/latest.md` 和唯一的 `reports/run-panel.html`。
 2. **Production + publish（Paseo，08:40 / 14:40 / 20:40）**：等待 Radar 的状态已在 `main` 后执行。默认的 QUICK MARKET RADAR 模式从两个固定对标账号中选择最新未覆盖的候选，在保存来源账号、原帖 URL 和原始媒体后，生成全新英文文案和 when2buy 原创方图；通过 `scripts/postiz_publish.py` 发布到 `@_When2buy`，并轮询到公开 X URL。
-3. **Performance review（Paseo，每日 09:05）**：执行 `python3 scripts/collect_public_metrics.py`，只对发布后 72 小时窗口内的 Postiz 已发布内容追加每日公开指标快照；不发布内容，也不修改旧快照。窗口结束后写入 `metricsTracking.status=complete`，此后永不再请求该帖子。
+3. **Performance review（Paseo，每日 09:05）**：执行 `python3 scripts/collect_public_metrics.py`，只对发布后 72 小时窗口内的 Postiz 已发布内容追加每日公开指标快照；主数据源是 Postiz Public API 的每帖 analytics，公开 X 页面仅在 API 不可用或未返回可映射指标时作为后备。不发布内容，也不修改旧快照。窗口结束后写入 `metricsTracking.status=complete`，此后永不再请求该帖子。
 
 ## 运行环境
 
@@ -23,9 +23,9 @@
 
 - `data/state.json` 的 `metricSnapshots` 是唯一指标来源；快照只追加，绝不覆盖历史观测。
 - `posts[].metricsTracking` 保存 `windowStart`、`windowEnd`、`status`、`lastAttemptAt` 与完成原因；唯一允许的状态流转是 `active → complete`。`complete` 帖子绝不再次抓取。
-- 每个已发布内容在 `reports/run-panel.html` 显示公开 X URL、最新可得 views/replies/reposts/likes、最后检查时间、发布后首 24 小时内按时间顺序记录的快照，以及可展开的完整快照历史。
+- 每个已发布内容在同一条“来源 → 输出 → 确认发布”日表行的 `24h data` 单元格显示公开 X URL、最新可得 views/replies/reposts/likes、最后检查时间、发布后首 24 小时内按时间顺序记录的快照，以及可展开的完整快照历史和 72h 状态。
 - 当公开页面没有显示某个计数，或没有在首 24 小时采集到快照时，面板必须显示 `—` 或明确的“未采集”提示，而不是推算值。
-- 抓取器只请求 `posts[].url` 指向的公开 X 状态页；每个 `metricSnapshots` 记录该 URL、检查时间与页面结果，确保每个数值可归因。
+- 主抓取器请求 `GET /analytics/post/{posts[].postizPostId}?date=<1..3>`；Postiz 标签 `Impressions`、`Replies`、`Retweets`、`Likes` 分别映射为 views/replies/reposts/likes，并把 endpoint、查询天数、原始标签和 analytics 日期写入 `metricSnapshots[].evidence`。仅当 Postiz 失败或无可用映射值时才请求 `posts[].url` 的公开 X 状态页；若页面没有可解析的数值，记录本次尝试但**不**追加指标快照。
 
 ## 可恢复性
 
