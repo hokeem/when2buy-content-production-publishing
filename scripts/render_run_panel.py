@@ -55,20 +55,31 @@ def first_day_history(post, snapshots):
         items.append(f'<li>{e(crawl_time(item.get("observedAt")))} · V {metric(item.get("views"))} · R {metric(item.get("replies"))} · RP {metric(item.get("reposts"))} · L {metric(item.get("likes"))}</li>')
     return '<ol class="snapshots">' + ''.join(items) + '</ol>'
 
-def tracker_row(post, snapshots):
+def snapshot_line(item):
+    return f'{e(crawl_time(item.get("observedAt")))} · V {metric(item.get("views"))} · R {metric(item.get("replies"))} · RP {metric(item.get("reposts"))} · L {metric(item.get("likes"))}'
+
+def full_history(snapshots):
+    if not snapshots:
+        return '<span class="muted">No public snapshots captured</span>'
+    return '<details class="history"><summary>All captured snapshots (' + str(len(snapshots)) + ')</summary><ol class="snapshots">' + ''.join(f'<li>{snapshot_line(item)}</li>' for item in snapshots) + '</ol></details>'
+
+def tracker_card(post, snapshots):
     ordered = sorted(snapshots, key=lambda item: str(item.get('observedAt', '')))
     latest = ordered[-1] if ordered else {}
-    return f'''<tr><td><b>{e(post.get('title'))}</b><br>{link(post.get('url'), 'Open public X post')}</td>
-      <td>{metric(latest.get('views'))}</td><td>{metric(latest.get('replies'))}</td><td>{metric(latest.get('reposts'))}</td><td>{metric(latest.get('likes'))}</td>
-      <td>{e(crawl_time(latest.get('observedAt'))) if latest else '—'}</td><td>{first_day_history(post, ordered)}</td></tr>'''
+    tracking = post.get('metricsTracking', {})
+    tracking_status = tracking.get('status', 'not initialized').upper()
+    return f'''<article class="metric-card"><div><b>{e(post.get('title'))}</b><br>{link(post.get('url'), 'Open public X post')}</div>
+      <div class="metric-status">72h tracking: {e(tracking_status)}<br>Last checked: {e(crawl_time(latest.get('observedAt'))) if latest else '—'}</div>
+      <dl class="metric-values"><div><dt>Views</dt><dd>{metric(latest.get('views'))}</dd></div><div><dt>Replies</dt><dd>{metric(latest.get('replies'))}</dd></div><div><dt>Reposts</dt><dd>{metric(latest.get('reposts'))}</dd></div><div><dt>Likes</dt><dd>{metric(latest.get('likes'))}</dd></div></dl>
+      <div><b>First 24h</b>{first_day_history(post, ordered)}</div><div>{full_history(ordered)}</div></article>'''
 
 def tracker(posts, snapshots):
     by_post = defaultdict(list)
     for item in snapshots:
         if item.get('postId'): by_post[str(item['postId'])].append(item)
-    rows = ''.join(tracker_row(post, by_post.get(str(post.get('id')), [])) for post in sorted(posts, key=lambda item: str(item.get('publishedAt', '')), reverse=True) if post.get('status') == 'published')
-    empty = '<tr><td colspan="7" class="muted">No published posts.</td></tr>'
-    return f'<section><h2>Publication metrics</h2><p class="muted">Public X observations only. V = views, R = replies, RP = reposts, L = likes. First-24h history is chronological and uses captured snapshots only.</p><div class="table-wrap"><table class="metrics"><thead><tr><th>Published post</th><th>Views</th><th>Replies</th><th>Reposts</th><th>Likes</th><th>Last checked</th><th>First 24h snapshots</th></tr></thead><tbody>{rows or empty}</tbody></table></div></section>'
+    cards = ''.join(tracker_card(post, by_post.get(str(post.get('id')), [])) for post in sorted(posts, key=lambda item: str(item.get('publishedAt', '')), reverse=True) if post.get('status') == 'published')
+    empty = '<p class="muted">No published posts.</p>'
+    return f'<section><h2>Publication metrics</h2><p class="muted">Public X observations only. V = views, R = replies, RP = reposts, L = likes. First-24h history is chronological and uses captured snapshots only.</p><div class="metric-cards">{cards or empty}</div></section>'
 
 def main():
     state = json.loads(STATE.read_text(encoding='utf-8'))
@@ -81,7 +92,7 @@ def main():
         body = ''.join(row(post, packages, releases) for post in sorted(grouped[captured_day], key=lambda post: str(post.get('capturedAt', '')), reverse=True))
         sections.append(f'<section><h2>{e(captured_day)}</h2><div class="table-wrap"><table><thead><tr><th>Crawl time</th><th>Original source</th><th>when2buy output</th><th>Confirmed release</th></tr></thead><tbody>{body}</tbody></table></div></section>')
     out = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>when2buy daily table</title><style>
-      :root{{--bg:#0c0d10;--panel:#14161b;--line:#30343b;--text:#f6f7f9;--muted:#a8b0bd;--green:#75c66a}}*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}}main{{max-width:1440px;margin:auto;padding:32px 18px 60px}}h1{{margin:0 0 6px;font-size:30px}}h2{{margin:34px 0 10px;font-size:20px}}p{{margin:8px 0}}a{{color:var(--green)}}.muted{{color:var(--muted)}}.table-wrap{{overflow:auto;border:1px solid var(--line);border-radius:10px}}table{{width:100%;min-width:1050px;border-collapse:collapse;background:var(--panel)}}th,td{{padding:14px;vertical-align:top;text-align:left;border-bottom:1px solid var(--line)}}th{{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);background:#101217}}td:first-child{{white-space:nowrap;color:var(--muted);width:165px}}td:nth-child(2){{width:34%}}td:nth-child(3){{width:37%}}.source-images{{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}}.source-image{{width:94px;height:94px;object-fit:cover;border-radius:6px;border:1px solid var(--line)}}.final-image{{display:block;width:180px;height:180px;object-fit:cover;border-radius:8px;border:1px solid var(--line);margin-top:12px}}.copy{{max-width:560px}}.status{{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;font-weight:800;letter-spacing:.04em}}.published{{background:#183b20;color:#a5e898}}.pending{{background:#472522;color:#ffb2a8}}.metrics{{min-width:1120px}}.metrics td:first-child{{white-space:normal;width:28%}}.metrics td{{white-space:nowrap}}.metrics td:last-child{{white-space:normal;min-width:260px}}.snapshots{{margin:0;padding-left:20px;color:var(--muted);font-size:12px}}@media(max-width:700px){{main{{padding:22px 12px}}h1{{font-size:25px}}}}
+      :root{{--bg:#0c0d10;--panel:#14161b;--line:#30343b;--text:#f6f7f9;--muted:#a8b0bd;--green:#75c66a}}*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}}main{{max-width:1440px;margin:auto;padding:32px 18px 60px}}h1{{margin:0 0 6px;font-size:30px}}h2{{margin:34px 0 10px;font-size:20px}}p{{margin:8px 0}}a{{color:var(--green)}}.muted{{color:var(--muted)}}.table-wrap{{overflow:auto;border:1px solid var(--line);border-radius:10px}}table{{width:100%;min-width:1050px;border-collapse:collapse;background:var(--panel)}}th,td{{padding:14px;vertical-align:top;text-align:left;border-bottom:1px solid var(--line)}}th{{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);background:#101217}}td:first-child{{white-space:nowrap;color:var(--muted);width:165px}}td:nth-child(2){{width:34%}}td:nth-child(3){{width:37%}}.source-images{{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}}.source-image{{width:94px;height:94px;object-fit:cover;border-radius:6px;border:1px solid var(--line)}}.final-image{{display:block;width:180px;height:180px;object-fit:cover;border-radius:8px;border:1px solid var(--line);margin-top:12px}}.copy{{max-width:560px}}.status{{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;font-weight:800;letter-spacing:.04em}}.published{{background:#183b20;color:#a5e898}}.pending{{background:#472522;color:#ffb2a8}}.metric-cards{{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:12px}}.metric-card{{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:15px}}.metric-status{{font-size:12px;color:var(--muted);margin-top:8px}}.metric-values{{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:14px 0}}.metric-values div{{background:#0f1115;border-radius:7px;padding:7px}}dt{{font-size:11px;color:var(--muted);text-transform:uppercase}}dd{{font-weight:800;font-size:18px;margin:2px 0 0}}.snapshots{{margin:7px 0;padding-left:20px;color:var(--muted);font-size:12px}}details.history{{margin-top:12px;border-top:1px solid var(--line);padding-top:10px}}details.history summary{{cursor:pointer;color:var(--green);font-weight:700}}@media(max-width:700px){{main{{padding:22px 12px}}h1{{font-size:25px}}}}
       </style></head><body><main><h1>when2buy daily crawl → release</h1><p class="muted">Full history by crawl date. Newest first.</p>{''.join(sections) or '<p class="muted">No source posts captured.</p>'}{tracker(state.get('posts', []), state.get('metricSnapshots', []))}</main></body></html>'''
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(out + '\n', encoding='utf-8')

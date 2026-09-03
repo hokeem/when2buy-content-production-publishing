@@ -16,7 +16,7 @@ def render(state):
         previous = snapshots.get(item.get("postId"))
         if previous is None or item.get("observedAt", "") > previous.get("observedAt", ""):
             snapshots[item.get("postId")] = item
-    posts = sorted(state["posts"], key=lambda post: snapshots.get(post["id"], {}).get("views", 0), reverse=True)
+    posts = sorted(state["posts"], key=lambda post: snapshots.get(post["id"], {}).get("views") or 0, reverse=True)
     lines = [
         "# when2buy Agent 运行报告",
         "",

@@ -59,6 +59,6 @@ Benchmarking may preserve public facts, tickers, numbers, and short official lab
 
 ## Experiments and review
 
-Change one major variable per experiment: hook, visual hierarchy, post length, publishing window, or CTA. Capture impressions, likes, replies, reposts, and bookmarks when visible at 1h, 6h, 24h, and 72h. Compare medians, not a single viral outlier.
+Change one major variable per experiment: hook, visual hierarchy, post length, publishing window, or CTA. Capture only publicly visible, attributable views, likes, replies, and reposts while a post is within its first 72 hours; append each observation and stop all collection after the 72-hour window. Compare medians, not a single viral outlier.
 
 For each review, record evidence, conclusion, next change, minimum sample size, and rollback condition. Do not claim causality when topic importance or account distribution could explain the result.
