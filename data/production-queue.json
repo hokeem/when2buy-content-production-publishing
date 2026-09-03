@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-03T11:37:53Z",
+  "generatedAt": "2026-09-03T11:34:24Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2094568791762215155",
+      "benchmarkPostId": "2095468266487476518",
       "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094568791762215155",
-      "originalText": "ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD\n\nThe deal is with Lambda, an Nvidia-backed cloud provider, but Nvidia itself holds the lease on the actual data center\n\nThe data center is being built by Hut 8 in Nueces County, Texas. Nvidia signed its own agreement with Hut 8 a few weeks ago to lock down the capacity.\n\nLambda will use the space to plug in chips it bought from Nvidia, which is also its investor. - WSJ",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095468266487476518",
+      "originalText": "Victoria's Secret $VSXY stock is down by 20% in pre market trading following its earnings\n\n🔴🔴🔴🔴🔴 https://t.co/2uL12UK9un",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg"
+        "https://pbs.twimg.com/media/HRSZSH9a8AAzHXv.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094568791762215155-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRSZSH9a8AAzHXv.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095468266487476518-1.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 661,
-        "replies": 35,
-        "reposts": 68,
-        "quotes": 14,
-        "views": 59820
+        "likes": 41,
+        "replies": 9,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 11618
       },
-      "postedAt": "Mon Aug 31 23:31:29 +0000 2026",
-      "score": 17,
+      "postedAt": "Thu Sep 03 11:05:41 +0000 2026",
+      "score": 21,
       "scoreBreakdown": {
-        "freshness": 1,
+        "freshness": 5,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -38,31 +38,31 @@
     },
     {
       "rank": 2,
-      "benchmarkPostId": "2094567351962255556",
+      "benchmarkPostId": "2095464505148924271",
       "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094567351962255556",
-      "originalText": "A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER\n\nThere is now a 55% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% in September https://t.co/Vt4dUtgul9",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095464505148924271",
+      "originalText": "MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO\n\nChinese AI startup Moonshot, developer of the Kimi model, has confidentially filed to go public within China with plans to raise about $3 Billion - Reuters https://t.co/cquOIrgd1V",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg"
+        "https://pbs.twimg.com/media/HRSV0skWQAAks4h.png"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094567351962255556-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRSV0skWQAAks4h.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095464505148924271-1.png",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 75,
-        "replies": 21,
-        "reposts": 11,
-        "quotes": 1,
-        "views": 23979
+        "likes": 20,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 16397
       },
-      "postedAt": "Mon Aug 31 23:25:46 +0000 2026",
-      "score": 17,
+      "postedAt": "Thu Sep 03 10:50:44 +0000 2026",
+      "score": 21,
       "scoreBreakdown": {
-        "freshness": 1,
+        "freshness": 5,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -72,38 +72,38 @@
     },
     {
       "rank": 3,
-      "benchmarkPostId": "2094749779653800408",
+      "benchmarkPostId": "2095452728918941789",
       "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
-      "originalText": "JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https://t.co/1nTXKalehC",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095452728918941789",
+      "originalText": "JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is targeting roughly $3 billion in proceeds - Reuters. https://t.co/fXhVHYM9iA",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
-        "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg"
+        "https://pbs.twimg.com/media/HRSLJXSWwAApUZH.jpg",
+        "https://pbs.twimg.com/media/HRSLJXza0AAzo7I.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRSLJXSWwAApUZH.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095452728918941789-1.jpg",
           "status": "archived"
         },
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-2.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRSLJXza0AAzo7I.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095452728918941789-2.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 209,
-        "replies": 30,
-        "reposts": 9,
-        "quotes": 5,
-        "views": 17869
+        "likes": 269,
+        "replies": 34,
+        "reposts": 22,
+        "quotes": 2,
+        "views": 24120
       },
-      "postedAt": "Tue Sep 01 11:30:40 +0000 2026",
-      "score": 16,
+      "postedAt": "Thu Sep 03 10:03:56 +0000 2026",
+      "score": 21,
       "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
+        "freshness": 5,
+        "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
@@ -112,38 +112,32 @@
     },
     {
       "rank": 4,
-      "benchmarkPostId": "2094461736925491308",
+      "benchmarkPostId": "2095422904456368330",
       "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094461736925491308",
-      "originalText": "JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. https://t.co/rl27wc4k1W",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095422904456368330",
+      "originalText": "JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major chains - DefiLlama. https://t.co/mQ0QITc6mN",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HREF1hjW8AAXo31.jpg",
-        "https://pbs.twimg.com/media/HREF1g5XQAEPzug.jpg"
+        "https://pbs.twimg.com/media/HRRwBowbIAAvD6r.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HREF1hjW8AAXo31.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094461736925491308-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HREF1g5XQAEPzug.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094461736925491308-2.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRRwBowbIAAvD6r.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095422904456368330-1.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 371,
-        "replies": 40,
-        "reposts": 14,
-        "quotes": 3,
-        "views": 40844
+        "likes": 400,
+        "replies": 58,
+        "reposts": 36,
+        "quotes": 10,
+        "views": 41146
       },
-      "postedAt": "Mon Aug 31 16:26:05 +0000 2026",
-      "score": 16,
+      "postedAt": "Thu Sep 03 08:05:26 +0000 2026",
+      "score": 21,
       "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
+        "freshness": 5,
+        "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
@@ -152,40 +146,40 @@
     },
     {
       "rank": 5,
-      "benchmarkPostId": "2094447104219324482",
+      "benchmarkPostId": "2095447324449198322",
       "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094447104219324482",
-      "originalText": "JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM, 5 minutes after it bonded..\n\nSince then, it has logged a cluster of 75 KOL calls.\nFONE later peaked at $37M MC on Aug 28 at 16:00, about 145x from the first tracked call.\n\nMWX Alpha tracks who called, at what market cap, plus smart wallet flow and CT narrative momentum.\n\nFull breakdown: https://t.co/BGtPmiyWmk",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095447324449198322",
+      "originalText": "JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gains attention on Robinhood Chain. https://t.co/2QztS8ittA",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
-        "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg"
+        "https://pbs.twimg.com/media/HRSGPB8bMAAQv9m.jpg",
+        "https://pbs.twimg.com/media/HRSGPBZWMAYP_fb.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYzXwAAMV2x.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRSGPB8bMAAQv9m.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095447324449198322-1.jpg",
           "status": "archived"
         },
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HRD4iYwWcAAug6J.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094447104219324482-2.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRSGPBZWMAYP_fb.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095447324449198322-2.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 167,
-        "replies": 22,
-        "reposts": 13,
-        "quotes": 0,
-        "views": 37858
+        "likes": 205,
+        "replies": 41,
+        "reposts": 25,
+        "quotes": 11,
+        "views": 30455
       },
-      "postedAt": "Mon Aug 31 15:27:57 +0000 2026",
-      "score": 16,
+      "postedAt": "Thu Sep 03 09:42:28 +0000 2026",
+      "score": 20,
       "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
+        "freshness": 5,
+        "when2buyFit": 3,
         "marketImpact": 5,
-        "visualPotential": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       },
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."

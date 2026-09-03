@@ -1,6 +1,10 @@
 {
   "version": 1,
+<<<<<<< HEAD
   "updatedAt": "2026-09-03T11:37:53.780775+00:00",
+=======
+  "updatedAt": "2026-09-03T11:38:37.449743+00:00",
+>>>>>>> fda7f98 (Run when2buy benchmark publishing workflow)
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -1866,6 +1870,391 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095263514336100844",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095263514336100844",
+      "postedAt": "Wed Sep 02 21:32:04 +0000 2026",
+      "text": "This is a real headline by the way ... https://t.co/KMyR7CKchq",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPfCfeXwAQmZKF.jpg"
+      ],
+      "engagement": {
+        "likes": 60,
+        "replies": 4,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 42792
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPfCfeXwAQmZKF.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095263514336100844-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095472251269157058",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095472251269157058",
+      "postedAt": "Thu Sep 03 11:21:31 +0000 2026",
+      "text": "Scotiabank started coverage on $SOFI stock with a $25 price target and an Outperform rating",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 24,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 9872
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095468266487476518",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095468266487476518",
+      "postedAt": "Thu Sep 03 11:05:41 +0000 2026",
+      "text": "Victoria's Secret $VSXY stock is down by 20% in pre market trading following its earnings\n\n🔴🔴🔴🔴🔴 https://t.co/2uL12UK9un",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSZSH9a8AAzHXv.jpg"
+      ],
+      "engagement": {
+        "likes": 41,
+        "replies": 9,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 11618
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSZSH9a8AAzHXv.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095468266487476518-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095464505148924271",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095464505148924271",
+      "postedAt": "Thu Sep 03 10:50:44 +0000 2026",
+      "text": "MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO\n\nChinese AI startup Moonshot, developer of the Kimi model, has confidentially filed to go public within China with plans to raise about $3 Billion - Reuters https://t.co/cquOIrgd1V",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSV0skWQAAks4h.png"
+      ],
+      "engagement": {
+        "likes": 20,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 16397
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSV0skWQAAks4h.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095464505148924271-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095458198014620094",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095458198014620094",
+      "postedAt": "Thu Sep 03 10:25:40 +0000 2026",
+      "text": "JUST IN: 🇯🇵 Bank of Japan leans toward raising rates from 1% to 1.25% this month - Bloomberg. https://t.co/p3HWsZkJId",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSQHt9XUAEm6qv.jpg",
+        "https://pbs.twimg.com/media/HRSQHuXbEAAN4xo.jpg"
+      ],
+      "engagement": {
+        "likes": 414,
+        "replies": 30,
+        "reposts": 42,
+        "quotes": 3,
+        "views": 26158
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSQHt9XUAEm6qv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095458198014620094-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSQHuXbEAAN4xo.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095458198014620094-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095452728918941789",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095452728918941789",
+      "postedAt": "Thu Sep 03 10:03:56 +0000 2026",
+      "text": "JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is targeting roughly $3 billion in proceeds - Reuters. https://t.co/fXhVHYM9iA",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSLJXSWwAApUZH.jpg",
+        "https://pbs.twimg.com/media/HRSLJXza0AAzo7I.jpg"
+      ],
+      "engagement": {
+        "likes": 269,
+        "replies": 34,
+        "reposts": 22,
+        "quotes": 2,
+        "views": 24120
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSLJXSWwAApUZH.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095452728918941789-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSLJXza0AAzo7I.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095452728918941789-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095447324449198322",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095447324449198322",
+      "postedAt": "Thu Sep 03 09:42:28 +0000 2026",
+      "text": "JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gains attention on Robinhood Chain. https://t.co/2QztS8ittA",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSGPB8bMAAQv9m.jpg",
+        "https://pbs.twimg.com/media/HRSGPBZWMAYP_fb.jpg"
+      ],
+      "engagement": {
+        "likes": 205,
+        "replies": 41,
+        "reposts": 25,
+        "quotes": 11,
+        "views": 30455
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSGPB8bMAAQv9m.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095447324449198322-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSGPBZWMAYP_fb.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095447324449198322-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095441173636604329",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095441173636604329",
+      "postedAt": "Thu Sep 03 09:18:01 +0000 2026",
+      "text": "JUST IN: 🇦🇪 $447 billion Standard Chartered is now offering spot crypto trading to institutions in the UAE. https://t.co/snrUwlqjo2",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSAooKWQAI1mOT.jpg",
+        "https://pbs.twimg.com/media/HRSAoopbEAAR-20.jpg"
+      ],
+      "engagement": {
+        "likes": 420,
+        "replies": 30,
+        "reposts": 20,
+        "quotes": 2,
+        "views": 26347
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSAooKWQAI1mOT.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095441173636604329-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSAoopbEAAR-20.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095441173636604329-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095432476726366373",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095432476726366373",
+      "postedAt": "Thu Sep 03 08:43:28 +0000 2026",
+      "text": "JUST IN: $BTC forecasted to hit a high of $83,000 this month, per Kalshi traders. https://t.co/JW0MB86So7",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRR4utsaQAATkaz.jpg",
+        "https://pbs.twimg.com/media/HRR4us-WwAIFXak.jpg"
+      ],
+      "engagement": {
+        "likes": 383,
+        "replies": 45,
+        "reposts": 28,
+        "quotes": 7,
+        "views": 29376
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRR4utsaQAATkaz.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095432476726366373-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRR4us-WwAIFXak.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095432476726366373-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095422904456368330",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095422904456368330",
+      "postedAt": "Thu Sep 03 08:05:26 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major chains - DefiLlama. https://t.co/mQ0QITc6mN",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRRwBowbIAAvD6r.jpg"
+      ],
+      "engagement": {
+        "likes": 400,
+        "replies": 58,
+        "reposts": 36,
+        "quotes": 10,
+        "views": 41146
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRRwBowbIAAvD6r.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095422904456368330-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095407164617560134",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095407164617560134",
+      "postedAt": "Thu Sep 03 07:02:53 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $2.67 billion, marking a new all-time high - Arbdata. https://t.co/1QfNMGC605",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRRhtVTbsAAHr6m.jpg",
+        "https://pbs.twimg.com/media/HRRhtVJaEAAhgTt.jpg"
+      ],
+      "engagement": {
+        "likes": 612,
+        "replies": 62,
+        "reposts": 30,
+        "quotes": 17,
+        "views": 42746
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRRhtVTbsAAHr6m.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095407164617560134-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRRhtVJaEAAhgTt.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095407164617560134-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095395081431773199",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095395081431773199",
+      "postedAt": "Thu Sep 03 06:14:52 +0000 2026",
+      "text": "JUST IN: Over $100 million is now sitting in RWAs on Robinhood Chain $HOOD - up 2x in the last 3 days. https://t.co/oiG3j0e20L",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRRWuBda8AE-G-X.jpg"
+      ],
+      "engagement": {
+        "likes": 469,
+        "replies": 35,
+        "reposts": 31,
+        "quotes": 3,
+        "views": 32339
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRRWuBda8AE-G-X.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095395081431773199-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095388710502039635",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095388710502039635",
+      "postedAt": "Thu Sep 03 05:49:33 +0000 2026",
+      "text": "JUST IN: BlackRock ETF clients buy $115.45 million worth of $BTC. https://t.co/gQHSIvjsHt",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRRQ7GNXQAEmDzm.jpg",
+        "https://pbs.twimg.com/media/HRRQ7GWbIAAb_yW.jpg"
+      ],
+      "engagement": {
+        "likes": 474,
+        "replies": 36,
+        "reposts": 29,
+        "quotes": 3,
+        "views": 31716
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T11:34:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRRQ7GNXQAEmDzm.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095388710502039635-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRRQ7GWbIAAb_yW.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095388710502039635-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -2073,6 +2462,101 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095468266487476518",
+      "rank": 1,
+      "title": "Victoria's Secret $VSXY stock is down by 20% in pre market trading following its earnings 🔴🔴…",
+      "benchmarkPostId": "2095468266487476518",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095468266487476518",
+      "score": 21,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:34:24Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095464505148924271",
+      "rank": 2,
+      "title": "MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of…",
+      "benchmarkPostId": "2095464505148924271",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095464505148924271",
+      "score": 21,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:34:24Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095452728918941789",
+      "rank": 3,
+      "title": "JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target…",
+      "benchmarkPostId": "2095452728918941789",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095452728918941789",
+      "score": 21,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:34:24Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095422904456368330",
+      "rank": 4,
+      "title": "JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c…",
+      "benchmarkPostId": "2095422904456368330",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095422904456368330",
+      "score": 21,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:34:24Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095447324449198322",
+      "rank": 5,
+      "title": "JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai…",
+      "benchmarkPostId": "2095447324449198322",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095447324449198322",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; verify the primary source before writing.",
+      "status": "queued",
+      "createdAt": "2026-09-03T11:34:24Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 3,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -2356,6 +2840,60 @@
       "imagePath": "deliverables/2026-09-03-uber-wayve-market-radar/when2buy-uber-wayve-market-radar.png",
       "postizPostId": "cmtl9ik7t0044my0yuvu3i0gy",
       "publishedAt": "2026-09-03T08:27:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-vsxy-q2-reaction",
+      "status": "blocked",
+      "title": "Victoria's Secret Q2: unverified 20% pre-market claim",
+      "createdAt": "2026-09-03T11:39:00Z",
+      "benchmarkPostId": "2095468266487476518",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095468266487476518",
+      "benchmarkMapping": {
+        "sourceAccount": "StockMKTNewz",
+        "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095468266487476518",
+        "selectionOrder": 1
+      },
+      "mirroredFacts": [
+        "@StockMKTNewz claimed that VSXY was down 20% in pre-market trading following earnings.",
+        "Victoria's Secret & Co. released second-quarter 2026 results on September 3, 2026."
+      ],
+      "verificationSources": [
+        "https://www.victoriassecretandco.com/investors/",
+        "https://www.marketscreener.com/news/victoriaa-s-secret-co-reports-second-quarter-2026-results-ce7858d3d18bf42d",
+        "https://ca.investing.com/news/stock-market-news/why-is-victorias-secret-stock-surging-today-93CH-4827051"
+      ],
+      "verificationNotes": "The source claim could not be verified. The company confirms its September 3 Q2 release; contemporaneous reporting shows Q2 net sales of $1.611B and adjusted operating income of $124M, while another current market report described a pre-open gain. No authoritative source substantiated the benchmark's claimed 20% pre-market decline.",
+      "postText": "",
+      "imagePath": "",
+      "deliveryReason": "Terminal content gate: standard-mode verification did not substantiate the benchmark's central 20% pre-market decline claim. No derivative image, Postiz upload, or X submission was attempted."
+    },
+    {
+      "id": "pkg-20260903-moonshot-hk-ipo",
+      "status": "published",
+      "title": "Moonshot AI: reported Hong Kong IPO filing and $3B target",
+      "createdAt": "2026-09-03T11:39:00Z",
+      "benchmarkPostId": "2095464505148924271",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095464505148924271",
+      "benchmarkMapping": {
+        "sourceAccount": "StockMKTNewz",
+        "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095464505148924271",
+        "selectionOrder": 2,
+        "rank1Disposition": "Blocked: current primary and authoritative sources did not substantiate the benchmark's claimed 20% VSXY pre-market decline."
+      },
+      "mirroredFacts": [
+        "Reuters reported that Chinese AI startup Moonshot confidentially filed for a Hong Kong IPO.",
+        "Reuters reported that the Kimi developer is targeting about $3 billion in proceeds, according to a source familiar with the matter.",
+        "The filing and target have not been publicly confirmed by Moonshot."
+      ],
+      "verificationSources": [
+        "https://www.marketscreener.com/news/chinese-ai-firm-moonshot-files-confidentially-for-hong-kong-ipo-sources-say-ce7858d3df8af52c",
+        "https://www.rte.ie/news/business/2026/0903/1590165-ai-firm-moonshot-files-confidentially-for-hong-kong-ipo/"
+      ],
+      "verificationNotes": "Verified against contemporaneous Reuters reporting carried by authoritative outlets. Because the claimed filing is confidential and not confirmed by Moonshot, the copy and image retain explicit Reuters attribution and do not state it as a confirmed corporate filing. The text and image are original; benchmark text and media were not reused.",
+      "postText": "Reuters reports Moonshot AI filed confidentially for a Hong Kong IPO.\n\nThe Kimi developer is targeting about $3B in proceeds.\n\nNo company confirmation yet—but a big capital-markets test for China AI.",
+      "imagePath": "deliverables/2026-09-03-moonshot-hk-ipo/when2buy-moonshot-hk-ipo.png",
+      "postizPostId": "cmtlgb6p401t8lm0yk5j75k26",
+      "publishedAt": "2026-09-03T11:38:00.000Z"
     }
   ],
   "posts": [
@@ -2539,6 +3077,23 @@
         "windowEnd": "2026-09-06T08:27:00Z",
         "status": "active",
         "lastAttemptAt": "2026-09-03T11:07:41.153764Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095476518642397201",
+      "packageId": "pkg-20260903-moonshot-hk-ipo",
+      "title": "Moonshot AI: reported Hong Kong IPO filing and $3B target",
+      "status": "published",
+      "publishedAt": "2026-09-03T11:38:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095476518642397201",
+      "postizPostId": "cmtlgb6p401t8lm0yk5j75k26",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-03T11:38:00Z",
+        "windowEnd": "2026-09-06T11:38:00Z",
+        "lastAttemptAt": "2026-09-03T11:38:37.189725Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -3064,6 +3619,48 @@
         },
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-03T11:07:41.153764Z"
+      }
+    },
+    {
+      "id": "metric-2095476518642397201-20260903T113837Z",
+      "postId": "2095476518642397201",
+      "observedAt": "2026-09-03T11:38:37.189725Z",
+      "views": 0,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtlgb6p401t8lm0yk5j75k26",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtlgb6p401t8lm0yk5j75k26",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-03"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-03"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-03"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-03"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-03"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-03T11:38:37.189725Z"
       }
     }
   ],
@@ -3847,6 +4444,7 @@
       "reason": ""
     },
     {
+<<<<<<< HEAD
       "id": "run-20260903T113753Z-radar",
       "mode": "radar",
       "status": "blocked",
@@ -3854,12 +4452,39 @@
       "completedAt": "2026-09-03T11:37:53Z",
       "summary": "Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s).",
       "reason": "Apify returned no eligible original posts from either benchmark account.",
+=======
+      "id": "run-20260903T113303Z-radar",
+      "mode": "radar",
+      "status": "blocked",
+      "startedAt": "2026-09-03T11:33:03Z",
+      "completedAt": "2026-09-03T11:33:03Z",
+      "summary": "Fresh Apify collection could not start, so no fresh benchmark candidates were available for media archiving, queue construction, production, or delivery.",
+      "reason": "Terminal collection blocker: APIFY_TOKEN is absent from the protected runtime credential paths. No substitute source was used; no benchmark posts, media, packages, Postiz submissions, or X releases were created.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "attempted": true
+      }
+    },
+    {
+      "id": "run-20260903T113416Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:34:16Z",
+      "completedAt": "2026-09-03T11:34:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 13 new post(s).",
+      "reason": "",
+>>>>>>> fda7f98 (Run when2buy benchmark publishing workflow)
       "collector": {
         "provider": "Apify",
         "actor": "apidojo/twitter-profile-scraper"
       }
     },
     {
+<<<<<<< HEAD
       "id": "run-20260903T113753Z-queue",
       "mode": "queue",
       "status": "succeeded",
@@ -3867,6 +4492,24 @@
       "completedAt": "2026-09-03T11:37:53Z",
       "summary": "Prepared 5 one-to-one production candidate(s).",
       "reason": ""
+=======
+      "id": "run-20260903T113424Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:34:24Z",
+      "completedAt": "2026-09-03T11:34:24Z",
+      "summary": "Prepared 5 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T113829Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T11:38:29.458795+00:00",
+      "completedAt": "2026-09-03T11:38:29.458814+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+>>>>>>> fda7f98 (Run when2buy benchmark publishing workflow)
     }
   ]
 }
