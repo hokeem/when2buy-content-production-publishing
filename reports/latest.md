@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T05:41:40.930107+00:00`
+- 状态更新：`2026-09-03T05:55:18.045306+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**71**
 - 待选选题：**11**
@@ -85,6 +85,8 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ## 最近运行
 
+- `2026-09-03T05:55:04Z` **report / blocked** — Local reports were rendered, but the existing stable panel could not be updated. Report sync failed closed because /root/.report-skill/tokens.env was unavailable, so REPORT_HUB_URL and REPORT_HUB_TOKEN could not be sourced. No public destination was created or changed.
+- `2026-09-03T05:54:23Z` **produce / blocked** — Assessed every remaining fresh queue candidate after the separately recorded Robinhood Chain block; no fully verified candidate remained for package production or publication. 2095207516124684726 (Roblox): no official Roblox release or other authoritative source confirms the claimed first Roblox-themed coin paired with $RBLX stock. 2095329525928255559 (Ford Fathom): Ford materials confirm the Fathom product and 2027 availability, but not the claimed >100,000 first-year-sales target; the material target cannot be mirrored. 2094749779653800408 (Kalshi): Kalshi's official Aug. 29 article reports 66%, not the benchmark's 76%, for the next Fed rate hike before 2027 (https://news.kalshi.com/p/fed-rate-hike-odds-september-2026-jackson-hole-speech). 2094568791762215155 (Anthropic/Lambda): no primary source confirms the claimed $35B deal and related NVIDIA/Hut 8 arrangement; a prior run already recorded this gap. No package, visual, Postiz request, or X release URL was created.
 - `2026-09-03T05:41:21Z` **produce / blocked** — Selected fresh benchmark post 2095220701804339504 (Robinhood Chain Stock Tokens) but did not create a package or publish. Verification failed for the benchmark's material claim that Robinhood Chain became the largest stock-token issuer by holder count in roughly two months. Robinhood's official Stock Tokens documentation (https://docs.robinhood.com/chain/stock-tokens/) and July 1 newsroom release (https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading/) confirm the product and issuer structure, but neither confirms that comparative holder-count ranking or timeframe. No original copy or visual was produced and no Postiz publication was attempted.
 - `2026-09-03T05:39:54Z` **full / blocked** — A fresh Apify collection was attempted only for WhaleInsider and StockMKTNewz but did not complete, so no candidate was selected, produced, or published. Fresh Apify collection gate timed out after 20 seconds with no result or radar state write. The pre-existing production queue was not reused; no factual verification, package creation, Postiz publication, or X release URL verification occurred.
 - `2026-09-03T05:39:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -103,5 +105,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-09-02T04:57:55Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-02T04:57:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-01T16:51:35Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-01T16:51:35Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-01T11:57:30Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
