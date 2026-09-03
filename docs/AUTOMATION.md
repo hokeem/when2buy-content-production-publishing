@@ -4,7 +4,7 @@
 
 1. **Radar（GitHub Actions，08:30 / 14:30 / 20:30）**：从 `@WhaleInsider`、`@StockMKTNewz` 拉取公开原创帖，保存原文、链接、互动数据与原始媒体归档；重建 `data/production-queue.json`、`reports/latest.md` 和唯一的 `reports/run-panel.html`。
 2. **Production + publish（Paseo，08:40 / 14:40 / 20:40）**：等待 Radar 的状态已在 `main` 后执行。默认的 QUICK MARKET RADAR 模式从两个固定对标账号中选择最新未覆盖的候选，在保存来源账号、原帖 URL 和原始媒体后，生成全新英文文案和 when2buy 原创方图；通过 `scripts/postiz_publish.py` 发布到 `@_When2buy`，并轮询到公开 X URL。
-3. **Performance review（Paseo，次日 09:05）**：只给成熟的已发帖追加新的指标快照与可行动结论，不发布内容，也不修改旧快照。
+3. **Performance review（Paseo，每日 09:05）**：只给成熟的已发帖追加新的指标快照与可行动结论，不发布内容，也不修改旧快照。每日测量只读取公开 X 页面可见的 views、replies、reposts、likes；每个字段不可见时保留 `null`，面板显示为 `—`，绝不估算或补造数据。
 
 ## 运行环境
 
@@ -18,6 +18,12 @@
 - 不要求在发布前完成独立事实核验，但成文必须明确标注：`Market radar — reported by @account; not independently verified.`
 - 所有第三方的预测、排名、交易条款、价格、概率、目标或指控都必须以“reported by @account”归因表达，不能写成已证实事实。
 - 不提供交易推荐、买卖指令、收益承诺或确定性结论；仍必须使用原创文案和原创配图。
+
+## 发布数据追踪
+
+- `data/state.json` 的 `metricSnapshots` 是唯一指标来源；快照只追加，绝不覆盖历史观测。
+- 每个已发布内容在 `reports/run-panel.html` 显示公开 X URL、最新可得 views/replies/reposts/likes、最后检查时间，以及发布后首 24 小时内按时间顺序记录的快照。
+- 当公开页面没有显示某个计数，或没有在首 24 小时采集到快照时，面板必须显示 `—` 或明确的“未采集”提示，而不是推算值。
 
 ## 可恢复性
 
