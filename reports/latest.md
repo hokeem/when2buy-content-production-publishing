@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T04:55:51.704694+00:00`
+- 状态更新：`2026-09-03T05:35:47.348165+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**63**
 - 待选选题：**8**
@@ -82,6 +82,9 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ## 最近运行
 
+- `2026-09-03T05:35:34Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Report sync gate failed closed: REPORT_PUBLISHER_ID was absent after silently sourcing /root/.report-skill/tokens.env; no public destination was created or changed.
+- `2026-09-03T05:34:20Z` **full / blocked** — Production stopped before candidate selection, verification, package creation, or publication because the required Apify discovery collection could not run. Apify collection gate failed: APIFY_TOKEN was absent after silently sourcing /root/.when2buy/secrets.env. The existing production queue was not eligible as a substitute for this unattended run, so no content was published.
+- `2026-09-03T05:34:02Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-03T04:55:51Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-03T04:55:51Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-03T01:07:08Z` **review / succeeded** — Reviewed all three published posts old enough for a meaningful public check; appended visible view-count snapshots for Intel (38), Apple (14), and Bitcoin (16). Only public status-page counters were used. Numeric reply, repost, and like counts were not displayed and remain null; no performance ranking beyond visible views is inferred.
@@ -99,6 +102,3 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 - `2026-09-01T05:32:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
 - `2026-09-01T04:48:07.900684+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-01T04:41:54Z` **produce / blocked** — Production skipped; the newest eligible queue candidate could not be verified into a publishable package. Primary-source verification failed for benchmark post 2094568791762215155: no primary source located confirms the claimed $35 billion Anthropic-Lambda cloud deal or the stated NVIDIA/Hut 8 Nueces County lease-and-capacity arrangement. Available Lambda primary releases describe different financings and customer deployments; no package or post was created.
-- `2026-09-01T04:09:42Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-01T04:09:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 19 new post(s).
-- `2026-09-01T03:40:02Z` **review / blocked** — Appended an Intel metric snapshot with null counters and attributable public-fetch evidence; no metrics were estimated or invented. The mature Intel public X status URL returned HTTP 403 Forbidden, so visible engagement counters could not be read reliably. Apple was 19h 42m old at review time and was not yet mature enough for a meaningful check.

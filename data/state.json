@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T04:55:51.704694+00:00",
+  "updatedAt": "2026-09-03T05:35:47.348165+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2522,6 +2522,33 @@
       "completedAt": "2026-09-03T04:55:51Z",
       "summary": "Prepared 5 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260903T053402Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T05:34:02Z",
+      "completedAt": "2026-09-03T05:34:02Z",
+      "summary": "Prepared 5 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T053420Z-full",
+      "mode": "full",
+      "status": "blocked",
+      "startedAt": "2026-09-03T05:34:20Z",
+      "completedAt": "2026-09-03T05:34:20Z",
+      "summary": "Production stopped before candidate selection, verification, package creation, or publication because the required Apify discovery collection could not run.",
+      "reason": "Apify collection gate failed: APIFY_TOKEN was absent after silently sourcing /root/.when2buy/secrets.env. The existing production queue was not eligible as a substitute for this unattended run, so no content was published."
+    },
+    {
+      "id": "run-20260903T053534Z-report",
+      "mode": "report",
+      "status": "blocked",
+      "startedAt": "2026-09-03T05:35:34Z",
+      "completedAt": "2026-09-03T05:35:34Z",
+      "summary": "Rendered local report artifacts but could not update the existing stable run-panel URL.",
+      "reason": "Report sync gate failed closed: REPORT_PUBLISHER_ID was absent after silently sourcing /root/.report-skill/tokens.env; no public destination was created or changed."
     }
   ]
 }
