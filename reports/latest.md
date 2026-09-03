@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T06:41:44.559066+00:00`
+- 状态更新：`2026-09-03T08:28:16.019976+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**71**
 - 待选选题：**11**
-- 待发布制作包：**1**
-- 已验证发布：**3**
+- 待发布制作包：**0**
+- 已验证发布：**11**
 
 ## 对标账号扫描
 
@@ -76,10 +76,59 @@ Bitcoin is staring at a $150K call for late 2027.  CK Zheng, ex-Credit Suisse ri
 
 ### Ford Fathom: reported 100K+ first-year sales target
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/2026-09-03-ford-fathom-market-radar/when2buy-ford-fathom-market-radar.png`
 
-Ford $F is on the market-radar board.  @StockMKTNewz reports Ford is targeting 100,000+ first-year sales for a new EV truck called Fathom, with an around-$30K starting price and sales beginning next year.  That is a reported target — not a confirmed company forecast.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Market radar: @StockMKTNewz reports Ford $F is targeting 100K+ first-year sales for an EV truck called Fathom, from about $30K, next year.  Reported target, not a confirmed Ford forecast. Not investment advice.
+
+### Goodles: Barilla acquisition reported
+
+- 状态：`published`
+- 配图：`deliverables/2026-09-03-goodles-barilla-market-radar/when2buy-goodles-barilla-market-radar.png`
+
+Market radar: @StockMKTNewz reports Goodles is about to be acquired by Barilla.  That is a reported transaction, not a confirmed announcement.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### Michael Dell: $250 Invest America contribution reported
+
+- 状态：`published`
+- 配图：`deliverables/2026-09-03-michael-dell-market-radar/when2buy-michael-dell-market-radar.png`
+
+Market radar: @StockMKTNewz reports Michael Dell is giving $250 through Invest America accounts to up to 25M kids.  Reported initiative, not confirmed.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### SEC crypto-assets proposal: Atkins remarks reported
+
+- 状态：`published`
+- 配图：`deliverables/2026-09-03-sec-crypto-market-radar/when2buy-sec-crypto-market-radar.png`
+
+Market radar: @WhaleInsider reports SEC Chair Paul Atkins called the Regulation Crypto Assets proposal a historic U.S. crypto-policy step.  Reported characterization, not confirmed.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### HOPE token launch reported
+
+- 状态：`published`
+- 配图：`deliverables/2026-09-03-hope-token-market-radar/when2buy-hope-token-market-radar.png`
+
+Market radar: @WhaleInsider reports a lead artist tied to SUI's reported $100M FUD memecoin launched $HOPE.  Reported launch, not confirmed.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### Robinhood Chain: stock-token holder ranking reported
+
+- 状态：`published`
+- 配图：`deliverables/2026-09-03-robinhood-chain-market-radar/when2buy-robinhood-chain-market-radar.png`
+
+Market radar: @WhaleInsider, citing Token Terminal, reports Robinhood Chain $HOOD became the largest stock-token issuer by holders in ~2 months.  Reported ranking, not confirmed.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### Roblox-themed token pairing reported
+
+- 状态：`published`
+- 配图：`deliverables/2026-09-03-robloxians-market-radar/when2buy-robloxians-market-radar.png`
+
+Market radar: @WhaleInsider reports Roblox replied to the $ROBLOXIANS team, calling it the first Roblox-themed coin paired with $RBLX stock.  Reported claim, not confirmed.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### Uber and Wayve: London robotaxi launch reported
+
+- 状态：`published`
+- 配图：`deliverables/2026-09-03-uber-wayve-market-radar/when2buy-uber-wayve-market-radar.png`
+
+Market radar: @StockMKTNewz reports Uber and Wayve launched London robotaxi matching, with a human driver still at the wheel.  Reported rollout, not confirmed.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -89,9 +138,25 @@ Ford $F is on the market-radar board.  @StockMKTNewz reports Ford is targeting 1
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 38 |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 16 |  |  |  | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 14 |  |  |  | [X](https://x.com/_When2buy/status/2094334035149607267) |
+| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095424711853584893) |
+| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095427576059834822) |
+| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095427724378767851) |
+| HOPE token launch reported | 2026-09-03T08:24:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095427868683829570) |
+| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095428221366091837) |
+| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095428469635395700) |
+| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095428640263766427) |
 
 ## 最近运行
 
+- `2026-09-03T08:28:16.019203+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-03T08:27:34.548132+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-03T08:26:42.885400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-03T08:25:18.514402+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-03T08:24:38.957338+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-03T08:24:01.417428+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-03T08:22:59.596837+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-03T08:12:50.312270+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T06:41:34Z` **report / blocked** — Stable report-hub panel update was not attempted. Report sync failed closed because /root/.report-skill/tokens.env is unavailable; no report-hub credentials were sourced and no existing public destination was changed.
 - `2026-09-03T06:40:57Z` **produce / blocked** — Skipped publication: the newest queued Ford Fathom candidate does not meet the validated-content gate. Primary-source verification failed for benchmark post 2095329525928255559: Ford materials confirm the Fathom product and 2027 availability, but do not confirm the benchmark's material claim that Ford is targeting more than 100,000 first-year sales. The existing package is explicitly marked not independently verified, so it cannot be published in this validated-content run.
 - `2026-09-03T06:31:31Z` **report / blocked** — Local reports were rendered after the QUICK MARKET RADAR delivery failure, but the stable panel could not be updated. Terminal panel blocker: /root/.report-skill/tokens.env is unavailable. No report-hub credentials were sourced and no public destination was created or changed.
@@ -104,11 +169,3 @@ Ford $F is on the market-radar board.  @StockMKTNewz reports Ford is targeting 1
 - `2026-09-03T05:39:03Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-03T05:39:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 8 new post(s).
 - `2026-09-03T05:35:34Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Report sync gate failed closed: REPORT_PUBLISHER_ID was absent after silently sourcing /root/.report-skill/tokens.env; no public destination was created or changed.
-- `2026-09-03T05:34:20Z` **full / blocked** — Production stopped before candidate selection, verification, package creation, or publication because the required Apify discovery collection could not run. Apify collection gate failed: APIFY_TOKEN was absent after silently sourcing /root/.when2buy/secrets.env. The existing production queue was not eligible as a substitute for this unattended run, so no content was published.
-- `2026-09-03T05:34:02Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-03T04:55:51Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-03T04:55:51Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-03T01:07:08Z` **review / succeeded** — Reviewed all three published posts old enough for a meaningful public check; appended visible view-count snapshots for Intel (38), Apple (14), and Bitcoin (16). Only public status-page counters were used. Numeric reply, repost, and like counts were not displayed and remain null; no performance ranking beyond visible views is inferred.
-- `2026-09-02T16:48:57Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-02T16:48:57Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-02T11:39:54Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).

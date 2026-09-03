@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T06:41:44.559066+00:00",
+  "updatedAt": "2026-09-03T08:28:16.019976+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2139,7 +2139,7 @@
     },
     {
       "id": "pkg-20260903-ford-fathom-market-radar",
-      "status": "ready",
+      "status": "published",
       "title": "Ford Fathom: reported 100K+ first-year sales target",
       "createdAt": "2026-09-03T06:31:31Z",
       "benchmarkPostId": "2095329525928255559",
@@ -2160,8 +2160,202 @@
       ],
       "verificationNotes": "QUICK MARKET RADAR mode: source account, status URL, captured text, and archived media were recorded. Independent verification was intentionally not performed under the owner-directed policy; all third-party commercial terms remain attributed to @StockMKTNewz.",
       "disclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "postText": "Ford $F is on the market-radar board.\n\n@StockMKTNewz reports Ford is targeting 100,000+ first-year sales for a new EV truck called Fathom, with an around-$30K starting price and sales beginning next year.\n\nThat is a reported target — not a confirmed company forecast.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
-      "imagePath": "deliverables/2026-09-03-ford-fathom-market-radar/when2buy-ford-fathom-market-radar.png"
+      "postText": "Market radar: @StockMKTNewz reports Ford $F is targeting 100K+ first-year sales for an EV truck called Fathom, from about $30K, next year.\n\nReported target, not a confirmed Ford forecast. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-ford-fathom-market-radar/when2buy-ford-fathom-market-radar.png",
+      "postizPostId": "cmtl8ygi704t6my0yjh1ewogq",
+      "publishedAt": "2026-09-03T08:12:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-goodles-barilla-market-radar",
+      "status": "published",
+      "title": "Goodles: Barilla acquisition reported",
+      "createdAt": "2026-09-03T08:30:00Z",
+      "benchmarkPostId": "2095282828862800063",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095282828862800063",
+      "benchmarkMapping": {
+        "sourceAccount": "StockMKTNewz",
+        "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095282828862800063",
+        "mode": "quick-market-radar",
+        "sourceCaptured": true
+      },
+      "mirroredFacts": [
+        "@StockMKTNewz reported that Goodles is about to be acquired by Barilla.",
+        "The reported transaction has not been independently verified."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095282828862800063"
+      ],
+      "verificationNotes": "QUICK MARKET RADAR: preserved the source account, status URL, captured claim, and original visual provenance. No independent verification was performed.",
+      "disclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "postText": "Market radar: @StockMKTNewz reports Goodles is about to be acquired by Barilla.\n\nThat is a reported transaction, not a confirmed announcement.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-goodles-barilla-market-radar/when2buy-goodles-barilla-market-radar.png",
+      "postizPostId": "cmtl9broq045aqg0yerppip17",
+      "publishedAt": "2026-09-03T08:22:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-michael-dell-market-radar",
+      "status": "published",
+      "title": "Michael Dell: $250 Invest America contribution reported",
+      "createdAt": "2026-09-03T08:30:01Z",
+      "benchmarkPostId": "2095266796676804805",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095266796676804805",
+      "benchmarkMapping": {
+        "sourceAccount": "StockMKTNewz",
+        "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095266796676804805",
+        "mode": "quick-market-radar",
+        "sourceCaptured": true
+      },
+      "mirroredFacts": [
+        "@StockMKTNewz reported that Michael Dell began giving $250 through Invest America accounts.",
+        "@StockMKTNewz reported the initiative could reach up to 25 million children.",
+        "The reported contribution and reach have not been independently verified."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095266796676804805"
+      ],
+      "verificationNotes": "QUICK MARKET RADAR: preserved source account, status URL, captured claim, and original visual provenance. No independent verification was performed.",
+      "disclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "postText": "Market radar: @StockMKTNewz reports Michael Dell is giving $250 through Invest America accounts to up to 25M kids.\n\nReported initiative, not confirmed.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-michael-dell-market-radar/when2buy-michael-dell-market-radar.png",
+      "postizPostId": "cmtl9d3x9045qqg0yr0j8a7fm",
+      "publishedAt": "2026-09-03T08:23:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-sec-crypto-market-radar",
+      "status": "published",
+      "title": "SEC crypto-assets proposal: Atkins remarks reported",
+      "createdAt": "2026-09-03T08:30:02Z",
+      "benchmarkPostId": "2095243190899024142",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095243190899024142",
+      "benchmarkMapping": {
+        "sourceAccount": "WhaleInsider",
+        "sourcePostUrl": "https://x.com/WhaleInsider/status/2095243190899024142",
+        "mode": "quick-market-radar",
+        "sourceCaptured": true
+      },
+      "mirroredFacts": [
+        "@WhaleInsider reported SEC Chair Paul Atkins described a Regulation Crypto Assets proposal as a historic step.",
+        "The characterization and proposal status have not been independently verified."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095243190899024142"
+      ],
+      "verificationNotes": "QUICK MARKET RADAR: preserved source account, status URL, captured claim, and original visual provenance. No independent verification was performed.",
+      "disclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "postText": "Market radar: @WhaleInsider reports SEC Chair Paul Atkins called the Regulation Crypto Assets proposal a historic U.S. crypto-policy step.\n\nReported characterization, not confirmed.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-sec-crypto-market-radar/when2buy-sec-crypto-market-radar.png",
+      "postizPostId": "cmtl9dvgo002pmy0ysqmanwr6",
+      "publishedAt": "2026-09-03T08:24:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-hope-token-market-radar",
+      "status": "published",
+      "title": "HOPE token launch reported",
+      "createdAt": "2026-09-03T08:30:03Z",
+      "benchmarkPostId": "2095227206473588751",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095227206473588751",
+      "benchmarkMapping": {
+        "sourceAccount": "WhaleInsider",
+        "sourcePostUrl": "https://x.com/WhaleInsider/status/2095227206473588751",
+        "mode": "quick-market-radar",
+        "sourceCaptured": true
+      },
+      "mirroredFacts": [
+        "@WhaleInsider reported that a lead artist associated with SUI's $100M FUD memecoin launched a token called $HOPE.",
+        "The association and token launch have not been independently verified."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095227206473588751"
+      ],
+      "verificationNotes": "QUICK MARKET RADAR: preserved source account, status URL, captured claim, and original visual provenance. No independent verification was performed.",
+      "disclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "postText": "Market radar: @WhaleInsider reports a lead artist tied to SUI's reported $100M FUD memecoin launched $HOPE.\n\nReported launch, not confirmed.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-hope-token-market-radar/when2buy-hope-token-market-radar.png",
+      "postizPostId": "cmtl9elov002vmy0yh4vnhxde",
+      "publishedAt": "2026-09-03T08:24:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-robinhood-chain-market-radar",
+      "status": "published",
+      "title": "Robinhood Chain: stock-token holder ranking reported",
+      "createdAt": "2026-09-03T08:30:04Z",
+      "benchmarkPostId": "2095220701804339504",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095220701804339504",
+      "benchmarkMapping": {
+        "sourceAccount": "WhaleInsider",
+        "sourcePostUrl": "https://x.com/WhaleInsider/status/2095220701804339504",
+        "mode": "quick-market-radar",
+        "sourceCaptured": true
+      },
+      "mirroredFacts": [
+        "@WhaleInsider, citing Token Terminal, reported Robinhood Chain became the largest issuer of stock tokens by holder count in about two months.",
+        "The reported ranking and timeframe have not been independently verified."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095220701804339504"
+      ],
+      "verificationNotes": "QUICK MARKET RADAR: preserved source account, status URL, captured claim, and original visual provenance. No independent verification was performed.",
+      "disclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "postText": "Market radar: @WhaleInsider, citing Token Terminal, reports Robinhood Chain $HOOD became the largest stock-token issuer by holders in ~2 months.\n\nReported ranking, not confirmed.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-robinhood-chain-market-radar/when2buy-robinhood-chain-market-radar.png",
+      "postizPostId": "cmtl9ge860462qg0y85z5z4wx",
+      "publishedAt": "2026-09-03T08:26:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-robloxians-market-radar",
+      "status": "published",
+      "title": "Roblox-themed token pairing reported",
+      "createdAt": "2026-09-03T08:30:05Z",
+      "benchmarkPostId": "2095207516124684726",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095207516124684726",
+      "benchmarkMapping": {
+        "sourceAccount": "WhaleInsider",
+        "sourcePostUrl": "https://x.com/WhaleInsider/status/2095207516124684726",
+        "mode": "quick-market-radar",
+        "sourceCaptured": true
+      },
+      "mirroredFacts": [
+        "@WhaleInsider reported the official Roblox X account replied to the $ROBLOXIANS team.",
+        "@WhaleInsider characterized it as the first Roblox-themed coin paired with $RBLX stock.",
+        "The reply and characterization have not been independently verified."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095207516124684726"
+      ],
+      "verificationNotes": "QUICK MARKET RADAR: preserved source account, status URL, captured claim, and original visual provenance. No independent verification was performed.",
+      "disclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "postText": "Market radar: @WhaleInsider reports Roblox replied to the $ROBLOXIANS team, calling it the first Roblox-themed coin paired with $RBLX stock.\n\nReported claim, not confirmed.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-robloxians-market-radar/when2buy-robloxians-market-radar.png",
+      "postizPostId": "cmtl9hoo2003rmy0yv03do8w0",
+      "publishedAt": "2026-09-03T08:27:00.000Z"
+    },
+    {
+      "id": "pkg-20260903-uber-wayve-market-radar",
+      "status": "published",
+      "title": "Uber and Wayve: London robotaxi launch reported",
+      "createdAt": "2026-09-03T08:30:06Z",
+      "benchmarkPostId": "2095310852081566126",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095310852081566126",
+      "benchmarkMapping": {
+        "sourceAccount": "StockMKTNewz",
+        "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095310852081566126",
+        "mode": "quick-market-radar",
+        "sourceCaptured": true
+      },
+      "mirroredFacts": [
+        "@StockMKTNewz reported Uber and Wayve launched robotaxi matching in London.",
+        "@StockMKTNewz reported a human driver remains behind the wheel while full driverless approval is pursued.",
+        "The reported launch and operating conditions have not been independently verified."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095310852081566126"
+      ],
+      "verificationNotes": "QUICK MARKET RADAR: preserved source account, status URL, captured claim, and original visual provenance. No independent verification was performed.",
+      "disclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "postText": "Market radar: @StockMKTNewz reports Uber and Wayve launched London robotaxi matching, with a human driver still at the wheel.\n\nReported rollout, not confirmed.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "imagePath": "deliverables/2026-09-03-uber-wayve-market-radar/when2buy-uber-wayve-market-radar.png",
+      "postizPostId": "cmtl9ik7t0044my0yuvu3i0gy",
+      "publishedAt": "2026-09-03T08:27:00.000Z"
     }
   ],
   "posts": [
@@ -2197,6 +2391,78 @@
       "publishedAt": "2026-09-01T04:47:00.000Z",
       "url": "https://x.com/_When2buy/status/2094648465645265080",
       "postizPostId": "cmti6rr5r000jnu0y1wf4rbpt"
+    },
+    {
+      "id": "2095424711853584893",
+      "packageId": "pkg-20260903-ford-fathom-market-radar",
+      "title": "Ford Fathom: reported 100K+ first-year sales target",
+      "status": "published",
+      "publishedAt": "2026-09-03T08:12:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095424711853584893",
+      "postizPostId": "cmtl8ygi704t6my0yjh1ewogq"
+    },
+    {
+      "id": "2095427314796704032",
+      "packageId": "pkg-20260903-goodles-barilla-market-radar",
+      "title": "Goodles: Barilla acquisition reported",
+      "status": "published",
+      "publishedAt": "2026-09-03T08:22:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095427314796704032",
+      "postizPostId": "cmtl9broq045aqg0yerppip17"
+    },
+    {
+      "id": "2095427576059834822",
+      "packageId": "pkg-20260903-michael-dell-market-radar",
+      "title": "Michael Dell: $250 Invest America contribution reported",
+      "status": "published",
+      "publishedAt": "2026-09-03T08:23:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095427576059834822",
+      "postizPostId": "cmtl9d3x9045qqg0yr0j8a7fm"
+    },
+    {
+      "id": "2095427724378767851",
+      "packageId": "pkg-20260903-sec-crypto-market-radar",
+      "title": "SEC crypto-assets proposal: Atkins remarks reported",
+      "status": "published",
+      "publishedAt": "2026-09-03T08:24:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095427724378767851",
+      "postizPostId": "cmtl9dvgo002pmy0ysqmanwr6"
+    },
+    {
+      "id": "2095427868683829570",
+      "packageId": "pkg-20260903-hope-token-market-radar",
+      "title": "HOPE token launch reported",
+      "status": "published",
+      "publishedAt": "2026-09-03T08:24:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095427868683829570",
+      "postizPostId": "cmtl9elov002vmy0yh4vnhxde"
+    },
+    {
+      "id": "2095428221366091837",
+      "packageId": "pkg-20260903-robinhood-chain-market-radar",
+      "title": "Robinhood Chain: stock-token holder ranking reported",
+      "status": "published",
+      "publishedAt": "2026-09-03T08:26:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095428221366091837",
+      "postizPostId": "cmtl9ge860462qg0y85z5z4wx"
+    },
+    {
+      "id": "2095428469635395700",
+      "packageId": "pkg-20260903-robloxians-market-radar",
+      "title": "Roblox-themed token pairing reported",
+      "status": "published",
+      "publishedAt": "2026-09-03T08:27:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095428469635395700",
+      "postizPostId": "cmtl9hoo2003rmy0yv03do8w0"
+    },
+    {
+      "id": "2095428640263766427",
+      "packageId": "pkg-20260903-uber-wayve-market-radar",
+      "title": "Uber and Wayve: London robotaxi launch reported",
+      "status": "published",
+      "publishedAt": "2026-09-03T08:27:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095428640263766427",
+      "postizPostId": "cmtl9ik7t0044my0yuvu3i0gy"
     }
   ],
   "metricSnapshots": [
@@ -2967,6 +3233,78 @@
       "reason": "Report sync failed closed because /root/.report-skill/tokens.env is unavailable; no report-hub credentials were sourced and no existing public destination was changed.",
       "startedAt": "2026-09-03T06:41:34Z",
       "completedAt": "2026-09-03T06:41:34Z"
+    },
+    {
+      "id": "run-20260903T081250Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T08:12:50.312270+00:00",
+      "completedAt": "2026-09-03T08:12:50.312296+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T082259Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T08:22:59.596837+00:00",
+      "completedAt": "2026-09-03T08:22:59.596850+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T082401Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T08:24:01.417428+00:00",
+      "completedAt": "2026-09-03T08:24:01.417440+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T082438Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T08:24:38.957338+00:00",
+      "completedAt": "2026-09-03T08:24:38.957349+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T082518Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T08:25:18.514402+00:00",
+      "completedAt": "2026-09-03T08:25:18.514413+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T082642Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T08:26:42.885400+00:00",
+      "completedAt": "2026-09-03T08:26:42.885427+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T082734Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T08:27:34.548132+00:00",
+      "completedAt": "2026-09-03T08:27:34.548156+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T082816Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T08:28:16.019203+00:00",
+      "completedAt": "2026-09-03T08:28:16.019226+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ]
 }
