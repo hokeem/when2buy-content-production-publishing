@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T06:41:08.610675+00:00`
+- 状态更新：`2026-09-03T06:41:44.559066+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**71**
 - 待选选题：**11**
@@ -92,6 +92,7 @@ Ford $F is on the market-radar board.  @StockMKTNewz reports Ford is targeting 1
 
 ## 最近运行
 
+- `2026-09-03T06:41:34Z` **report / blocked** — Stable report-hub panel update was not attempted. Report sync failed closed because /root/.report-skill/tokens.env is unavailable; no report-hub credentials were sourced and no existing public destination was changed.
 - `2026-09-03T06:40:57Z` **produce / blocked** — Skipped publication: the newest queued Ford Fathom candidate does not meet the validated-content gate. Primary-source verification failed for benchmark post 2095329525928255559: Ford materials confirm the Fathom product and 2027 availability, but do not confirm the benchmark's material claim that Ford is targeting more than 100,000 first-year sales. The existing package is explicitly marked not independently verified, so it cannot be published in this validated-content run.
 - `2026-09-03T06:31:31Z` **report / blocked** — Local reports were rendered after the QUICK MARKET RADAR delivery failure, but the stable panel could not be updated. Terminal panel blocker: /root/.report-skill/tokens.env is unavailable. No report-hub credentials were sourced and no public destination was created or changed.
 - `2026-09-03T06:31:31Z` **publish / failed** — QUICK MARKET RADAR package pkg-20260903-ford-fathom-market-radar was prepared but could not be delivered through Postiz. Terminal delivery blocker: /root/.when2buy/secrets.env was unavailable and a direct Postiz preflight confirmed POSTIZ_API_KEY is absent. No upload, Postiz post, PUBLISHED state, or public X release URL exists. The package remains ready for a credential-restored retry.
@@ -111,4 +112,3 @@ Ford $F is on the market-radar board.  @StockMKTNewz reports Ford is targeting 1
 - `2026-09-02T16:48:57Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-02T16:48:57Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-02T11:39:54Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-02T11:39:54Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.

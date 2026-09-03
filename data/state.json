@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T06:41:08.610675+00:00",
+  "updatedAt": "2026-09-03T06:41:44.559066+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2957,6 +2957,16 @@
       "reason": "Primary-source verification failed for benchmark post 2095329525928255559: Ford materials confirm the Fathom product and 2027 availability, but do not confirm the benchmark's material claim that Ford is targeting more than 100,000 first-year sales. The existing package is explicitly marked not independently verified, so it cannot be published in this validated-content run.",
       "startedAt": "2026-09-03T06:40:57Z",
       "completedAt": "2026-09-03T06:40:57Z"
+    },
+    {
+      "id": "run-20260903T064134Z-report",
+      "mode": "report",
+      "status": "blocked",
+      "packageId": null,
+      "summary": "Stable report-hub panel update was not attempted.",
+      "reason": "Report sync failed closed because /root/.report-skill/tokens.env is unavailable; no report-hub credentials were sourced and no existing public destination was changed.",
+      "startedAt": "2026-09-03T06:41:34Z",
+      "completedAt": "2026-09-03T06:41:34Z"
     }
   ]
 }
