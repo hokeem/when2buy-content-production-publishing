@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T11:56:22.778428+00:00",
+  "updatedAt": "2026-09-03T12:45:41.751310+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2662,6 +2662,104 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095489853974589823",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095489853974589823",
+      "postedAt": "Thu Sep 03 12:31:28 +0000 2026",
+      "text": "206K people filed for unemployment this past week in the United States 🇺🇸, basically in line with expectations",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 23,
+        "replies": 7,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 10513
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T12:41:10Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095486679737946360",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095486679737946360",
+      "postedAt": "Thu Sep 03 12:18:51 +0000 2026",
+      "text": "Nvidia $NVDA just said this:\n\n\"NVIDIA plans to help scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide.\"\n\n\"Hugging Face will remain an open, neutral and platform-agnostic home for the entire AI ecosystem.\"",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 40,
+        "replies": 5,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 16159
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T12:41:10Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095484907938082935",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095484907938082935",
+      "postedAt": "Thu Sep 03 12:11:48 +0000 2026",
+      "text": "JUST IN: $NVDA is acquiring Hugging Face for $12.9 billion buying one of the biggest distribution layers in open AI with 18M+ developers and 3M+ models. https://t.co/03Knm342M9",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSoabsaMAEnxQt.jpg",
+        "https://pbs.twimg.com/media/HRSoabQXUAMQOLA.jpg"
+      ],
+      "engagement": {
+        "likes": 245,
+        "replies": 28,
+        "reposts": 17,
+        "quotes": 5,
+        "views": 20660
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T12:41:10Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSoabsaMAEnxQt.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095484907938082935-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSoabQXUAMQOLA.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095484907938082935-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095483102520840604",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095483102520840604",
+      "postedAt": "Thu Sep 03 12:04:38 +0000 2026",
+      "text": "Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging Face for \n\n$12,930,300,000.00 https://t.co/Wru86WklAF",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSmxHDXwAc2VNv.jpg"
+      ],
+      "engagement": {
+        "likes": 154,
+        "replies": 6,
+        "reposts": 17,
+        "quotes": 1,
+        "views": 32711
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-03T12:41:10Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSmxHDXwAc2VNv.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095483102520840604-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -3785,6 +3883,82 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095484907938082935",
+      "rank": 2,
+      "title": "JUST IN: $NVDA is acquiring Hugging Face for $12.9 billion buying one of the biggest distrib…",
+      "benchmarkPostId": "2095484907938082935",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095484907938082935",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T12:41:10Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095486679737946360",
+      "rank": 5,
+      "title": "Nvidia $NVDA just said this: \"NVIDIA plans to help scale Hugging Face’s platform, strengthen…",
+      "benchmarkPostId": "2095486679737946360",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095486679737946360",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T12:41:10Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095483102520840604",
+      "rank": 10,
+      "title": "Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging…",
+      "benchmarkPostId": "2095483102520840604",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095483102520840604",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T12:41:10Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095489853974589823",
+      "rank": 24,
+      "title": "206K people filed for unemployment this past week in the United States 🇺🇸, basically in line…",
+      "benchmarkPostId": "2095489853974589823",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095489853974589823",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-03T12:41:10Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -4390,6 +4564,26 @@
       "imagePath": "deliverables/pkg-20260903-watch-out-for-this-major-event-tonight-tesla-tsl-78535/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
       "createdAt": "2026-09-03T11:55:06.083260+00:00"
+    },
+    {
+      "id": "pkg-20260903-nvda-hugging-face-acquisition",
+      "benchmarkPostId": "2095486679737946360",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095486679737946360",
+      "title": "NVIDIA to acquire Hugging Face for $12.93B",
+      "status": "published",
+      "postText": "$NVDA is buying Hugging Face for $12.93B.\n\nNVIDIA says it will stay open across models, clouds and accelerators—not locked to NVIDIA compute.\n\nThe prize: 18M+ users and 3M+ models. This is a developer-distribution move, not just a chip deal.",
+      "mirroredFacts": [
+        "NVIDIA agreed to acquire Hugging Face for $12,930,300,000.",
+        "NVIDIA says Hugging Face will remain open across models, clouds, inference providers and computing platforms.",
+        "NVIDIA says more than 18 million people use Hugging Face and it hosts more than 3 million models."
+      ],
+      "verificationSources": [
+        "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+      ],
+      "imagePath": "deliverables/pkg-20260903-nvda-hugging-face-acquisition/when2buy-nvda-hugging-face.png",
+      "createdAt": "2026-09-03T12:44:40.721440+00:00",
+      "postizPostId": "cmtliovxn02p8lm0yjisr3dkk",
+      "publishedAt": "2026-09-03T12:44:00.000Z"
     }
   ],
   "posts": [
@@ -4607,6 +4801,23 @@
         "windowStart": "2026-09-03T11:55:00Z",
         "windowEnd": "2026-09-06T11:55:00Z",
         "lastAttemptAt": "2026-09-03T11:56:04.485658Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095493296038748333",
+      "packageId": "pkg-20260903-nvda-hugging-face-acquisition",
+      "title": "NVIDIA to acquire Hugging Face for $12.93B",
+      "status": "published",
+      "publishedAt": "2026-09-03T12:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095493296038748333",
+      "postizPostId": "cmtliovxn02p8lm0yjisr3dkk",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-03T12:44:00Z",
+        "windowEnd": "2026-09-06T12:44:00Z",
+        "lastAttemptAt": "2026-09-03T12:45:41.455349Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -5216,6 +5427,48 @@
         },
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-03T11:56:04.485658Z"
+      }
+    },
+    {
+      "id": "metric-2095493296038748333-20260903T124541Z",
+      "postId": "2095493296038748333",
+      "observedAt": "2026-09-03T12:45:41.455349Z",
+      "views": 1,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtliovxn02p8lm0yjisr3dkk",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtliovxn02p8lm0yjisr3dkk",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-03"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-03"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-03"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-03"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-03"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-03T12:45:41.455349Z"
       }
     }
   ],
@@ -6114,6 +6367,55 @@
       "status": "succeeded",
       "startedAt": "2026-09-03T11:55:45.070765+00:00",
       "completedAt": "2026-09-03T11:55:45.070777+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T124110Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T12:41:10Z",
+      "completedAt": "2026-09-03T12:41:10Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 4 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260903T124110Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T12:41:10Z",
+      "completedAt": "2026-09-03T12:41:10Z",
+      "summary": "Prepared 42 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260903T124351Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T12:43:51.186920+00:00",
+      "completedAt": "2026-09-03T12:43:51.186925+00:00",
+      "summary": "Created a verified original NVIDIA/Hugging Face package from the newest uncovered StockMKTNewz source.",
+      "reason": "Verified against NVIDIA's September 3, 2026 announcement."
+    },
+    {
+      "id": "run-20260903T124440Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T12:44:40.721519+00:00",
+      "completedAt": "2026-09-03T12:44:40.721524+00:00",
+      "summary": "Prepared a verified original NVIDIA/Hugging Face package from the newest uncovered StockMKTNewz source.",
+      "reason": "Verified against NVIDIA's September 3, 2026 announcement; copy shortened after Postiz rejected the initial version as too long."
+    },
+    {
+      "id": "run-20260903T124513Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-03T12:45:13.090834+00:00",
+      "completedAt": "2026-09-03T12:45:13.090854+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

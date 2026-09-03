@@ -1,16 +1,20 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T11:56:22.778428+00:00`
+- 状态更新：`2026-09-03T12:45:41.751310+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**99**
-- 待选选题：**59**
+- 对标帖子快照：**103**
+- 待选选题：**63**
 - 待发布制作包：**14**
-- 已验证发布：**13**
+- 已验证发布：**14**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 03 12:04:38 +0000 2026 | Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging Face for   $12,930,300,000.00 https://t.co/Wru86WklAF | [X](https://x.com/StockMKTNewz/status/2095483102520840604) |
+| @WhaleInsider | Thu Sep 03 12:11:48 +0000 2026 | JUST IN: $NVDA is acquiring Hugging Face for $12.9 billion buying one of the biggest distribution layers in open AI with 18M+ developers and 3M+ models. https://t.co/03Knm342M9 | [X](https://x.com/WhaleInsider/status/2095484907938082935) |
+| @StockMKTNewz | Thu Sep 03 12:18:51 +0000 2026 | Nvidia $NVDA just said this:  "NVIDIA plans to help scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide."  "Hugging Face will remain an open, neutral and platform-agnostic home for the entire AI ecosystem." | [X](https://x.com/StockMKTNewz/status/2095486679737946360) |
+| @StockMKTNewz | Thu Sep 03 12:31:28 +0000 2026 | 206K people filed for unemployment this past week in the United States 🇺🇸, basically in line with expectations | [X](https://x.com/StockMKTNewz/status/2095489853974589823) |
 | @StockMKTNewz | Thu Sep 03 11:36:48 +0000 2026 | WATCH OUT FOR THIS MAJOR EVENT TONIGHT  Tesla $TSLA will be hosting its Cybercab event tonight in Austin, Texas. The event will reportedly start around 5:45PM ET   Tesla is expected to show off the production version of its new self driving car https://t.co/yqy8tO0AY1 | [X](https://x.com/StockMKTNewz/status/2095476096225378535) |
 | @StockMKTNewz | Thu Sep 03 11:53:09 +0000 2026 | This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years https://t.co/KrGJxE0TlD | [X](https://x.com/StockMKTNewz/status/2095480211940749790) |
 | @WhaleInsider | Wed Sep 02 12:30:04 +0000 2026 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ https://t.co/uvdwRqMFl2 | [X](https://x.com/WhaleInsider/status/2095127114982822217) |
@@ -37,10 +41,6 @@
 | @WhaleInsider | Thu Sep 03 10:25:40 +0000 2026 | JUST IN: 🇯🇵 Bank of Japan leans toward raising rates from 1% to 1.25% this month - Bloomberg. https://t.co/p3HWsZkJId | [X](https://x.com/WhaleInsider/status/2095458198014620094) |
 | @StockMKTNewz | Thu Sep 03 10:50:44 +0000 2026 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO  Chinese AI startup Moonshot, developer of the Kimi model, has confidentially filed to go public within China with plans to raise about $3 Billion - Reuters https://t.co/cquOIrgd1V | [X](https://x.com/StockMKTNewz/status/2095464505148924271) |
 | @StockMKTNewz | Thu Sep 03 11:05:41 +0000 2026 | Victoria's Secret $VSXY stock is down by 20% in pre market trading following its earnings  🔴🔴🔴🔴🔴 https://t.co/2uL12UK9un | [X](https://x.com/StockMKTNewz/status/2095468266487476518) |
-| @StockMKTNewz | Thu Sep 03 11:21:31 +0000 2026 | Scotiabank started coverage on $SOFI stock with a $25 price target and an Outperform rating | [X](https://x.com/StockMKTNewz/status/2095472251269157058) |
-| @StockMKTNewz | Wed Sep 02 21:32:04 +0000 2026 | This is a real headline by the way ... https://t.co/KMyR7CKchq | [X](https://x.com/StockMKTNewz/status/2095263514336100844) |
-| @StockMKTNewz | Thu Sep 03 00:40:10 +0000 2026 | UBER AND WAYVE JUST LAUNCHED ROBOTAXIS IN LONDON, THE FIRST BROAD AV AVAILABILITY IN THE CITY  Starting Thursday, riders using Uber's app in London 🇬🇧 could be matched with a vehicle running Wayve's autonomous-driving technology.   A human driver still sits behind the wheel to monitor and take over if needed, while the companies work toward full regulatory approval for driverless operation. | [X](https://x.com/StockMKTNewz/status/2095310852081566126) |
-| @StockMKTNewz | Thu Sep 03 01:54:22 +0000 2026 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK  The truck called the Ford Fathom will start around $30,000 and will go on sale starting next year - WSJ The truck, called the Ford Fathom, starts around $30,000 and goes on sale next year, according to people familiar with the matter. Ford is aiming for mainstream volume its earlier, pricier EVs never reached. | [X](https://x.com/StockMKTNewz/status/2095329525928255559) |
 
 ## 选题推荐
 
@@ -53,6 +53,7 @@
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
+| 2 | JUST IN: $NVDA is acquiring Hugging Face for $12.9 billion buying one of the biggest distrib… | WhaleInsider | 20 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -66,9 +67,11 @@
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Over $100 million is now sitting in RWAs on Robinhood Chain $HOOD - up 2x in the la… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE T… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 5 | Nvidia $NVDA just said this: "NVIDIA plans to help scale Hugging Face’s platform, strengthen… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 6 | This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years h… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 7 | JUST IN: 🇦🇪 $447 billion Standard Chartered is now offering spot crypto trading to instituti… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 8 | JUST IN: $BTC forecasted to hit a high of $83,000 this month, per Kalshi traders. https://t.… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 10 | Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging… | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 11 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 bi… | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 12 | WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its Cybercab event tonigh… | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 13 | Scotiabank started coverage on $SOFI stock with a $25 price target and an Outperform rating | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -80,6 +83,7 @@
 | 21 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsof… | StockMKTNewz | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 22 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. https:… | WhaleInsider | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 23 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ https://t.… | WhaleInsider | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 24 | 206K people filed for unemployment this past week in the United States 🇺🇸, basically in line… | StockMKTNewz | 15 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 27 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immed… | StockMKTNewz | 15 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 28 | JUST IN: Spot silver falls nearly 3% to $64.55/oz. https://t.co/KWjVzlGeFJ | WhaleInsider | 15 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 29 | JUST IN: Spot gold falls 1% to $4,405.49/oz. https://t.co/zzKHbYUFH6 | WhaleInsider | 15 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -297,6 +301,13 @@ Market radar: @StockMKTNewz reports: This is how you go from being worth ~$250B 
 
 Market radar: @StockMKTNewz reports: WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
+### NVIDIA to acquire Hugging Face for $12.93B
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260903-nvda-hugging-face-acquisition/when2buy-nvda-hugging-face.png`
+
+$NVDA is buying Hugging Face for $12.93B.  NVIDIA says it will stay open across models, clouds and accelerators—not locked to NVIDIA compute.  The prize: 18M+ users and 3M+ models. This is a developer-distribution move, not just a chip deal.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -313,11 +324,17 @@ Market radar: @StockMKTNewz reports: WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesl
 | Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
 | Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
+| NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 
 ## 最近运行
 
+- `2026-09-03T12:45:13.090834+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-03T12:44:40.721519+00:00` **produce / succeeded** — Prepared a verified original NVIDIA/Hugging Face package from the newest uncovered StockMKTNewz source. Verified against NVIDIA's September 3, 2026 announcement; copy shortened after Postiz rejected the initial version as too long.
+- `2026-09-03T12:43:51.186920+00:00` **produce / succeeded** — Created a verified original NVIDIA/Hugging Face package from the newest uncovered StockMKTNewz source. Verified against NVIDIA's September 3, 2026 announcement.
+- `2026-09-03T12:41:10Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
+- `2026-09-03T12:41:10Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 4 new post(s).
 - `2026-09-03T11:55:45.070765+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T11:55:06.083306+00:00` **produce / succeeded** — Created 15 original attributed market-radar package(s).
 - `2026-09-03T11:53:46Z` **queue / succeeded** — Prepared 53 one-to-one production candidate(s).
@@ -333,8 +350,3 @@ Market radar: @StockMKTNewz reports: WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesl
 - `2026-09-03T08:27:34.548132+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T08:26:42.885400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T08:25:18.514402+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T08:24:38.957338+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T08:24:01.417428+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T08:22:59.596837+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T08:12:50.312270+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T06:41:34Z` **report / blocked** — Stable report-hub panel update was not attempted. Report sync failed closed because /root/.report-skill/tokens.env is unavailable; no report-hub credentials were sourced and no existing public destination was changed.
