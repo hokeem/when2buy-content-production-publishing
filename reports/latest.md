@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-03T12:45:41.751310+00:00`
+- 状态更新：`2026-09-03T16:38:24.022340+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**103**
 - 待选选题：**63**
@@ -330,6 +330,8 @@ $NVDA is buying Hugging Face for $12.93B.  NVIDIA says it will stay open across 
 
 ## 最近运行
 
+- `2026-09-03T16:38:24Z` **queue / succeeded** — Prepared 36 one-to-one production candidate(s).
+- `2026-09-03T16:38:23Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-03T12:45:13.090834+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T12:44:40.721519+00:00` **produce / succeeded** — Prepared a verified original NVIDIA/Hugging Face package from the newest uncovered StockMKTNewz source. Verified against NVIDIA's September 3, 2026 announcement; copy shortened after Postiz rejected the initial version as too long.
 - `2026-09-03T12:43:51.186920+00:00` **produce / succeeded** — Created a verified original NVIDIA/Hugging Face package from the newest uncovered StockMKTNewz source. Verified against NVIDIA's September 3, 2026 announcement.
@@ -348,5 +350,3 @@ $NVDA is buying Hugging Face for $12.93B.  NVIDIA says it will stay open across 
 - `2026-09-03T11:37:53Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-03T08:28:16.019203+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-03T08:27:34.548132+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T08:26:42.885400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T08:25:18.514402+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
