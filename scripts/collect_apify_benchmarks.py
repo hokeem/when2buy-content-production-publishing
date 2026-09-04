@@ -129,6 +129,7 @@ def normalize(item):
         "mediaUrls": media_urls(item),
         "engagement": engagement(item),
         "source": "apify",
+        "isPinned": bool(value(item, "isPinned", "is_pinned", "pinned")),
         "capturedAt": utc_now(),
     }
 

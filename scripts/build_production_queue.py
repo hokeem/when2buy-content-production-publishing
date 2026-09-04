@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Turn captured benchmark originals into a deterministic, one-to-one production queue."""
+"""Turn captured benchmark originals into a freshness-first, one-to-one queue."""
 import json
 import re
 import sys
@@ -64,24 +64,24 @@ def main():
     for post in current.get("benchmarkPosts", []):
         posted = parse(post.get("postedAt"))
         package = packages.get(str(post.get("id")))
-        if (package and package.get("status") == "published") or (posted and now() - posted > timedelta(hours=72)):
+        if post.get("isPinned") or (package and package.get("status") == "published") or (posted and now() - posted > timedelta(hours=72)):
             continue
         editorial_total, breakdown = score(post)
         total = heat_score(post)
         # Every eligible captured original receives an output.  Reframe weak or
         # unverified claims as attributed radar/context; do not discard them.
         candidates.append((total, post, breakdown, package, editorial_total))
-    candidates.sort(key=lambda item: (item[0], item[1].get("postedAt", "")), reverse=True)
+    candidates.sort(key=lambda item: (parse(item[1].get("postedAt")) or datetime.min.replace(tzinfo=timezone.utc), item[0]), reverse=True)
     for rank, (total, post, breakdown, package, editorial_total) in enumerate(candidates, start=1):
         if str(post["id"]) not in known_radar:
             current["radar"].append({
                 "id": f"radar-{post['id']}", "rank": rank,
                 "title": title(post["text"]), "benchmarkPostId": post["id"],
                 "sourceAccount": post["account"], "sourcePostUrl": post["url"],
-                "score": total, "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+                "score": total, "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
                 "status": "queued", "createdAt": iso(), "scoreBreakdown": breakdown,
             })
-    queue = {"generatedAt": iso(), "timezone": "Asia/Shanghai", "items": [
+    queue = {"generatedAt": iso(), "timezone": "Asia/Shanghai", "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties", "items": [
         {"rank": rank, "benchmarkPostId": post["id"], "benchmarkAccount": post["account"],
          "packageId": package.get("id") if package else None,
          "packageStatus": package.get("status") if package else "unproduced",
@@ -90,7 +90,7 @@ def main():
          "engagement": post.get("engagement", {}), "postedAt": post.get("postedAt", ""),
          "score": total, "heatScore": total, "scoreBreakdown": breakdown,
          "editorialScore": editorial_total,
-         "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."}
+         "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."}
         for rank, (total, post, breakdown, package, editorial_total) in enumerate(candidates, start=1)
     ]}
     QUEUE_PATH.write_text(json.dumps(queue, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
