@@ -82,7 +82,7 @@ def postiz_metrics(postiz_id, days):
     except (HTTPError, URLError, RuntimeError, json.JSONDecodeError) as exc:
         return None, {'source': 'Postiz public API', 'endpoint': endpoint, 'query': {'date': days}, 'result': f'failed: {type(exc).__name__}'}, str(exc)
 
-    values = {field: None for field in CORE_FIELDS}
+    values = {}
     field_map = {}
     for series in payload if isinstance(payload, list) else []:
         label = str(series.get('label', '')).strip()
@@ -100,7 +100,7 @@ def postiz_metrics(postiz_id, days):
         'postizPostId': postiz_id, 'fieldMap': field_map,
         'result': 'analytics labels mapped to dashboard fields',
     }
-    if any(values[field] is not None for field in CORE_FIELDS):
+    if values:
         return values, evidence, None
     evidence['result'] = 'no usable mapped analytics values'
     return None, evidence, 'Postiz returned no usable mapped analytics values'
@@ -117,7 +117,7 @@ def public_x_metrics(url):
     except (HTTPError, URLError) as exc:
         return None, {'source': 'public X status page', 'url': url, 'result': f'failed: {type(exc).__name__}'}, str(exc)
 
-    values = {field: None for field in CORE_FIELDS}
+    values = {}
     patterns = {
         'views': r'([0-9][0-9,\.]*[KMBkmb]?)\s+(?:Views|views)',
         'replies': r'([0-9][0-9,\.]*[KMBkmb]?)\s+(?:Replies|replies)',
@@ -127,9 +127,11 @@ def public_x_metrics(url):
     for field, pattern in patterns.items():
         match = re.search(pattern, page)
         if match:
-            values[field] = parse_number(match.group(1))
+            parsed = parse_number(match.group(1))
+            if parsed is not None:
+                values[field] = parsed
     evidence = {'source': 'public X status page', 'url': url, 'result': 'visible numeric counters parsed'}
-    if any(values[field] is not None for field in CORE_FIELDS):
+    if values:
         return values, evidence, None
     evidence['result'] = 'no visible numeric counters parsed; no observation recorded'
     return None, evidence, 'public X did not expose any parseable numeric counters'

@@ -1,8 +1,8 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T04:33:39.167858+00:00`
+- 状态更新：`2026-09-04T04:43:29.469681+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**132**
+- 对标帖子快照：**183**
 - 待选选题：**92**
 - 待发布制作包：**32**
 - 已验证发布：**25**
@@ -11,36 +11,36 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
-| @WhaleInsider | Thu Sep 03 12:53:52 +0000 2026 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x in the past two weeks - Token Terminal. https://t.co/l5Aqop8pyO | [X](https://x.com/WhaleInsider/status/2095495493774110970) |
-| @WhaleInsider | Thu Sep 03 13:48:57 +0000 2026 | JUST IN: $XRP price rallies 4.8% in the past 24 hours. https://t.co/wqfeeECGte | [X](https://x.com/WhaleInsider/status/2095509354686378405) |
-| @WhaleInsider | Thu Sep 03 14:26:30 +0000 2026 | JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the bell. https://t.co/Xwj3ksus82 | [X](https://x.com/WhaleInsider/status/2095518802452570499) |
-| @WhaleInsider | Thu Sep 03 14:48:00 +0000 2026 | JUST IN: You can now trade 1000X leverage on new trading site https://t.co/zXSp1C00px. https://t.co/Rzi1b9JLM2 | [X](https://x.com/WhaleInsider/status/2095524216011456777) |
-| @WhaleInsider | Thu Sep 03 15:26:49 +0000 2026 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. https://t.co/wh4eeaoXWu | [X](https://x.com/WhaleInsider/status/2095533985652686930) |
-| @WhaleInsider | Thu Sep 03 16:01:15 +0000 2026 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF speculation. https://t.co/eoGwM6JfmB | [X](https://x.com/WhaleInsider/status/2095542648807288874) |
-| @StockMKTNewz | Thu Sep 03 18:06:19 +0000 2026 | OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIGENT MODEL  OpenAI says Astra leads the market in software engineering, science, and cybersecurity  President Greg Brockman said the model "represents a generational leap in capability" and could arguably meet the bar for artificial general intelligence  OpenAI is rolling Astra out first to a small group of businesses to work through cybersecurity concerns before wider availability in the coming days - Financial Times | [X](https://x.com/StockMKTNewz/status/2095574123720126479) |
-| @WhaleInsider | Thu Sep 03 18:12:50 +0000 2026 | JUST IN: Martian’s AI Frontier is now live, letting users compare AI models across quality, cost, reliability, and real-world tasks. | [X](https://x.com/WhaleInsider/status/2095575763814629437) |
-| @StockMKTNewz | Thu Sep 03 18:16:45 +0000 2026 | OPENAI'S GREG BROCKMAN JUST SAID: "WELCOME TO THE AGI ERA" | [X](https://x.com/StockMKTNewz/status/2095576748448424284) |
-| @StockMKTNewz | Thu Sep 03 18:32:56 +0000 2026 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today  SpaceX $SPCX +$136B Nvidia $NVDA +$135B Microsoft $MSFT +$133B Tesla $TSLA +$100B https://t.co/eUo11kSQK1 | [X](https://x.com/StockMKTNewz/status/2095580820421366163) |
-| @WhaleInsider | Thu Sep 03 18:33:15 +0000 2026 | JUST IN: 119,453 crypto traders were liquidated in the past 24 hours. https://t.co/N292b05npG | [X](https://x.com/WhaleInsider/status/2095580903158227350) |
-| @StockMKTNewz | Thu Sep 03 18:54:23 +0000 2026 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain  If Robinhood brought in the same revenue it did yesterday every day for the next year they would bring in more than  $1 BILLION https://t.co/BKWqoLawgz | [X](https://x.com/StockMKTNewz/status/2095586218176053289) |
-| @StockMKTNewz | Thu Sep 03 18:59:46 +0000 2026 | The CEO of Strategy $MSTR is on this live stream right now ⬇️ | [X](https://x.com/StockMKTNewz/status/2095587575339659391) |
-| @StockMKTNewz | Thu Sep 03 19:08:59 +0000 2026 | Tesla $TSLA just posted this video ahead of their Cybercab event later tonight  “The future has arrived in Austin” https://t.co/j7C9DBLANK | [X](https://x.com/StockMKTNewz/status/2095589894294831586) |
-| @WhaleInsider | Thu Sep 03 19:30:39 +0000 2026 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership with UMG.  Hook users are able to remix tracks from artists including The Weeknd, Lil Wayne, and Metro Boomin, and receive royalties alongside the artist.  This comes just days after Sony sues Anthropic over AI music training, seeking $150k per song. | [X](https://x.com/WhaleInsider/status/2095595346101752181) |
-| @WhaleInsider | Thu Sep 03 19:44:25 +0000 2026 | JUST IN: Flap releases the first DeFi lending yield product around bStocks memes, powered by BNBCHAIN. https://t.co/RMvkvIFdI6 | [X](https://x.com/WhaleInsider/status/2095598809787036057) |
-| @WhaleInsider | Thu Sep 03 20:05:22 +0000 2026 | JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user followed by Elon Musk. https://t.co/WwvgJpMYBt | [X](https://x.com/WhaleInsider/status/2095604081410691167) |
-| @StockMKTNewz | Thu Sep 03 20:05:38 +0000 2026 | Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq under the ticker $OURA https://t.co/OR2vklZT9v | [X](https://x.com/StockMKTNewz/status/2095604149098361327) |
-| @StockMKTNewz | Thu Sep 03 20:11:14 +0000 2026 | Lululemon $LULU stock is down by 15% in after hours following its earnings  🔴🔴🔴🔴🔴 https://t.co/zxwZmluxfQ | [X](https://x.com/StockMKTNewz/status/2095605560003424271) |
-| @StockMKTNewz | Thu Sep 03 20:15:02 +0000 2026 | Zscaler $ZS stock is up initially in after hours following its earnings https://t.co/aNyl92nMr6 | [X](https://x.com/StockMKTNewz/status/2095606516673810468) |
-| @StockMKTNewz | Thu Sep 03 20:17:46 +0000 2026 | Adobe $ADBE just announced that Anil Chakravarthy will take over as the next CEO of the company | [X](https://x.com/StockMKTNewz/status/2095607202224443703) |
-| @StockMKTNewz | Thu Sep 03 21:12:47 +0000 2026 | All these stocks hit new 52 WEEK HIGHS at some point today  Snowflake $SNOW Pfizer $PFE Dell Technologies $DELL Zeta Global $ZETA Gen Digital $GEN Canadian Natural Resources $CNQ ConocoPhillips $COP Mitsubishi Financial $MUFG Mizuho Financial $MFG Remitly Global $RELY Ultrapar $UGP Principal $PFG Chime $CHYM Atlassian $TEAM Vodafone $VOD Deutsche Bank $DB Valero Energy $VLO Royalty Pharma $RPRX SSR Mining $SSRM Phillips 66 $PSX Fluor $FLR Frontline $FRO TechnipFMC $FTI Match Group $MTCH HF Sinclair $DINO Instacart $CART Marathon Petroleum $MPC NOV $NOV IQVIA Holdings $IQV Deere & Company $DE Halozyme Therapeutics $HALO ING Groep $ING RingCentral $RNG  ArcelorMittal $MT Exelixis $EXEL Revvity $RVTY Bank of Nova Scotia $BNS Banco Bilbao $BBVA Unum $UNM Travere Therapeutics $TVTX Nomura Holdings ethereum:0x1776e1f26f98b1a5df9cd347953a26dd3cb46671 Voya Financial $VOYA Vertex Pharmaceuticals $VRTX International Seaways $INSW Paycom Software $PAYC Corpay $CPAY Regeneron Pharmaceuticals $REGN Biogen $BIIB | [X](https://x.com/StockMKTNewz/status/2095621046959251780) |
-| @WhaleInsider | Thu Sep 03 21:16:12 +0000 2026 | JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for business clients. https://t.co/taXMLJQFhZ | [X](https://x.com/WhaleInsider/status/2095621908288946214) |
-| @StockMKTNewz | Thu Sep 03 21:29:29 +0000 2026 | Microsoft sold $43 Million worth of $MSFT stock this week https://t.co/quAX1glQpU | [X](https://x.com/StockMKTNewz/status/2095625251199611179) |
-| @WhaleInsider | Thu Sep 03 21:34:49 +0000 2026 | JUST IN: $BTC surpasses $82,000. https://t.co/YvSo8VML69 | [X](https://x.com/WhaleInsider/status/2095626594484154874) |
-| @StockMKTNewz | Thu Sep 03 22:18:32 +0000 2026 | Is the Tesla $TSLA event happening? | [X](https://x.com/StockMKTNewz/status/2095637595174691054) |
-| @StockMKTNewz | Thu Sep 03 22:48:03 +0000 2026 | This is what $3.3 Million gets you less than 2 hours away from New York City  A Pyramid house on an island https://t.co/phVHZ3wcAj | [X](https://x.com/StockMKTNewz/status/2095645024985764023) |
-| @StockMKTNewz | Thu Sep 03 23:37:56 +0000 2026 | Tesla $TSLA just posted this new video of the Cybercab  https://t.co/2vXr4mN90X | [X](https://x.com/StockMKTNewz/status/2095657577606422737) |
-| @StockMKTNewz | Thu Sep 03 23:40:42 +0000 2026 | Tesla $TSLA just said its new self driving cars will have a theater mode and be equipped with Starlink  https://t.co/qiLQJpI21c | [X](https://x.com/StockMKTNewz/status/2095658272644645361) |
-| @StockMKTNewz | Thu Sep 03 12:04:38 +0000 2026 | Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging Face for   $12,930,300,000.00 https://t.co/Wru86WklAF | [X](https://x.com/StockMKTNewz/status/2095483102520840604) |
+| @StockMKTNewz | Fri Sep 04 01:12:01 +0000 2026 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no steering wheel to the public according to @SawyerMerritt   https://t.co/6Hz8dn9YHM | [X](https://x.com/StockMKTNewz/status/2095681253504651266) |
+| @StockMKTNewz | Fri Sep 04 01:28:22 +0000 2026 | Jim Cramer was just asked about $IREN stock:  “If you’re going to do neoclouds, the only one I like is CoreWeave.” | [X](https://x.com/StockMKTNewz/status/2095685369031278901) |
+| @StockMKTNewz | Thu Sep 03 12:52:19 +0000 2026 | 🇺🇸 FED'S WALLER JUST SAID:   - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT A REASONABLE CPI.  - IF THAT REVERSES IN AUGUST WILLING TO PULL TRIGGER ON RATE HIKE | [X](https://x.com/StockMKTNewz/status/2095495103158599973) |
+| @StockMKTNewz | Thu Sep 03 13:09:46 +0000 2026 | Name another platform where you can get triggered by both Michael Burry and Elon Musk at the same time https://t.co/LDICl5Mfvs | [X](https://x.com/StockMKTNewz/status/2095499492183151063) |
+| @StockMKTNewz | Thu Sep 03 13:26:00 +0000 2026 | Tim Apple cooked the market during his time as the CEO of Apple $AAPL https://t.co/l6mb6LWf9T | [X](https://x.com/StockMKTNewz/status/2095503578802606552) |
+| @StockMKTNewz | Thu Sep 03 13:37:34 +0000 2026 | Snowflake $SNOW is starting trading today up by more than 20% following its earnings last night   🟢 https://t.co/ZexTWQ5hHD | [X](https://x.com/StockMKTNewz/status/2095506487988645951) |
+| @StockMKTNewz | Thu Sep 03 13:48:23 +0000 2026 | $META’s stock is back to starting with a 6 https://t.co/ASFZWnICQm | [X](https://x.com/StockMKTNewz/status/2095509213367718105) |
+| @StockMKTNewz | Thu Sep 03 14:16:28 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/50lxbSGZlH | [X](https://x.com/StockMKTNewz/status/2095516280321102293) |
+| @StockMKTNewz | Thu Sep 03 14:20:16 +0000 2026 | The stock market Fear and Greed index is now down into Fear currently at 35/100 https://t.co/IreKwU5FXX | [X](https://x.com/StockMKTNewz/status/2095517235057975299) |
+| @StockMKTNewz | Thu Sep 03 14:37:05 +0000 2026 | JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club https://t.co/X5AbrcZ3f1 | [X](https://x.com/StockMKTNewz/status/2095521469094662334) |
+| @StockMKTNewz | Thu Sep 03 14:46:47 +0000 2026 | Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of its workforce - WSJ https://t.co/XN9VvX6UAq | [X](https://x.com/StockMKTNewz/status/2095523910951256433) |
+| @StockMKTNewz | Thu Sep 03 14:50:28 +0000 2026 | Bitcoin $BTC is back over $80,000  🟢🟢🟢🟢🟢🟢🟢🟢 https://t.co/Wwq2UAfk3g | [X](https://x.com/StockMKTNewz/status/2095524837208834303) |
+| @StockMKTNewz | Thu Sep 03 14:59:45 +0000 2026 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | [X](https://x.com/StockMKTNewz/status/2095527173582885289) |
+| @StockMKTNewz | Thu Sep 03 15:18:31 +0000 2026 | POLYMARKET JUST LAUNCHED PERPETUAL FUTURES  Polymarket⁠.com just launched Perps on the platform which lets people trade stuff like crypto, stocks, indices and commodities with leverage alongside prediction markets on the same platform | [X](https://x.com/StockMKTNewz/status/2095531894926451028) |
+| @StockMKTNewz | Thu Sep 03 16:03:44 +0000 2026 | GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET ARENA | [X](https://x.com/StockMKTNewz/status/2095543274987507876) |
+| @StockMKTNewz | Thu Sep 03 17:11:30 +0000 2026 | The 3 founders of Hugging Face are now each worth $1.8 Billion after today's Nvidia deal  Clement "Clem" Delangue, Julien Chaumond, and Thomas Wolf are now all billionaires - Bloomberg https://t.co/ijDvx9XVPP | [X](https://x.com/StockMKTNewz/status/2095560327723106558) |
+| @StockMKTNewz | Thu Sep 03 17:51:17 +0000 2026 | Google $GOOGL CEO Sundar Pichai just posted this:  “New Gemini voice capabilities are rolling out so you can search your Gmail inbox, organize thoughts and tasks in Keep, and create new Docs, all conversationally” https://t.co/fcHc681NDH | [X](https://x.com/StockMKTNewz/status/2095570340181098993) |
+| @StockMKTNewz | Thu Sep 03 17:52:10 +0000 2026 | Hugging Face x Nvidia $NVDA  https://t.co/uPGEFGDVq7 | [X](https://x.com/StockMKTNewz/status/2095570560407183583) |
+| @StockMKTNewz | Thu Sep 03 17:55:42 +0000 2026 | Google $GOOGL just launched what it calls his the most advanced and accurate weather prediction model   “WeatherNext 3 is a major breakthrough in how we forecast global weather.” https://t.co/2HQRJFjMe5 | [X](https://x.com/StockMKTNewz/status/2095571452686635457) |
+| @StockMKTNewz | Thu Sep 03 17:58:58 +0000 2026 | WHAT A TURN AROUND   We’re don’t a stock picking competition with Gamestock … the people who come in the top 10 get $100 each   I am now in 8th place with Robinhood and Circle running today   IS INVERSE EVAN OVER? https://t.co/oHUNdYDeXc | [X](https://x.com/StockMKTNewz/status/2095572272689872910) |
+| @StockMKTNewz | Thu Sep 03 18:04:07 +0000 2026 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | [X](https://x.com/StockMKTNewz/status/2095573569849700552) |
+| @WhaleInsider | Wed Sep 02 04:44:45 +0000 2026 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. https://t.co/pZDW4KmWgF | [X](https://x.com/WhaleInsider/status/2095010013710278779) |
+| @WhaleInsider | Wed Sep 02 05:19:12 +0000 2026 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. https://t.co/gmqHNFvz3U | [X](https://x.com/WhaleInsider/status/2095018683512857038) |
+| @WhaleInsider | Wed Sep 02 06:08:47 +0000 2026 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. https://t.co/KBTaMvxKRn | [X](https://x.com/WhaleInsider/status/2095031163773440065) |
+| @WhaleInsider | Wed Sep 02 10:56:35 +0000 2026 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/9yQvGL0uyt | [X](https://x.com/WhaleInsider/status/2095103588028535044) |
+| @WhaleInsider | Wed Sep 02 11:34:46 +0000 2026 | NEW: XYO and Gate AI team up to launch XYO crypto cards. https://t.co/kJwdxDQtt5 https://t.co/UfwRLSHDAE | [X](https://x.com/WhaleInsider/status/2095113199389495519) |
+| @WhaleInsider | Wed Sep 02 12:05:39 +0000 2026 | JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform rating. https://t.co/YquuZR6Wfc | [X](https://x.com/WhaleInsider/status/2095120971413790757) |
+| @StockMKTNewz | Wed Sep 02 13:07:31 +0000 2026 | SEPTEMBER RATE HIKE ODDS  There is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% this month  There is currently a 44% chance that Kevin Warsh and the 🇺🇸 Fed make no changes to rates this month https://t.co/zArobzPEcZ | [X](https://x.com/StockMKTNewz/status/2095136541538386124) |
+| @StockMKTNewz | Wed Sep 02 13:22:47 +0000 2026 | Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of AI as a way to enhance growth  “Every single country needs to build infrastructure so you can support your own local economy”  In his remarks, Huang said that the “single worst outcome” for a country is “being left behind.” The Nvidia chief warned that could happen if the public and policymakers let fears about AI drive the conversation about the technology.   “We have to make sure that we are balanced in talking about it”  (Source Bloomberg) | [X](https://x.com/StockMKTNewz/status/2095140381386031505) |
+| @StockMKTNewz | Wed Sep 02 13:48:40 +0000 2026 | $DELL is starting out trading today up by 12.8% 🟢 and is now up by 282% 🟢 so far in 2026 https://t.co/k4tOKmHyci | [X](https://x.com/StockMKTNewz/status/2095146897019154455) |
 
 ## 选题推荐
 
@@ -573,6 +573,8 @@ Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's 
 
 ## 最近运行
 
+- `2026-09-04T04:43:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 119 eligible originals and added 51 new post(s).
+- `2026-09-04T04:42:34Z` **queue / succeeded** — Prepared 23 one-to-one production candidate(s).
 - `2026-09-04T04:33:26.973001+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:32:59.631913+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:32:32.303201+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -591,5 +593,3 @@ Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's 
 - `2026-09-04T00:41:28Z` **queue / succeeded** — Prepared 52 one-to-one production candidate(s).
 - `2026-09-04T00:41:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 29 new post(s).
 - `2026-09-03T16:38:24Z` **queue / succeeded** — Prepared 36 one-to-one production candidate(s).
-- `2026-09-03T16:38:23Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-03T12:45:13.090834+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
