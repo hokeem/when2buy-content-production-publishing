@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:23:00Z",
+  "generatedAt": "2026-09-04T11:38:48Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -214,13 +214,13 @@
       "score": 39073,
       "heatScore": 39073,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 18,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1776,13 +1776,13 @@
       "score": 12233,
       "heatScore": 12233,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 15,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1806,13 +1806,13 @@
       "score": 10432,
       "heatScore": 10432,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 15,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1844,13 +1844,13 @@
       "score": 13058,
       "heatScore": 13058,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 18,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1888,13 +1888,13 @@
       "score": 37918,
       "heatScore": 37918,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 15,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -3346,13 +3346,13 @@
       "score": 40723,
       "heatScore": 40723,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 13,
+      "editorialScore": 12,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -3390,13 +3390,13 @@
       "score": 63410,
       "heatScore": 63410,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 14,
+      "editorialScore": 13,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -3441,88 +3441,6 @@
         "factualClarity": 4
       },
       "editorialScore": 15,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 91,
-      "benchmarkPostId": "2094749779653800408",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
-      "originalText": "JUST IN: 🇺🇸 Odds of next Fed rate hike before 2027 surge to 76%, per Kalshi traders. https://t.co/1nTXKalehC",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
-        "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T3XQAAfpP8.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRIL0T2XMAA3seO.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094749779653800408-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 209,
-        "replies": 30,
-        "reposts": 9,
-        "quotes": 5,
-        "views": 17869
-      },
-      "postedAt": "Tue Sep 01 11:30:40 +0000 2026",
-      "score": 23999,
-      "heatScore": 23999,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 92,
-      "benchmarkPostId": "2094736124874821910",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094736124874821910",
-      "originalText": "JUST IN: Jim Cramer says rate cuts look unlikely. https://t.co/B5QERjPFss",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRH_ZmVWEAA_Fo7.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRH_ZmVWEAA_Fo7.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094736124874821910-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 573,
-        "replies": 94,
-        "reposts": 40,
-        "quotes": 26,
-        "views": 34564
-      },
-      "postedAt": "Tue Sep 01 10:36:25 +0000 2026",
-      "score": 53344,
-      "heatScore": 53344,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 11,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     }
   ]
