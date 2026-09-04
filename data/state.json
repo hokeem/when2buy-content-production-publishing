@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T05:00:02.594878+00:00",
+  "updatedAt": "2026-09-04T06:45:34.764326+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -4886,6 +4886,39 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095748158001131691",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095748158001131691",
+      "postedAt": "Fri Sep 04 05:37:52 +0000 2026",
+      "text": "JUST IN: BlackRock clients buy $453.96 million worth of $BTC. https://t.co/kpudUam0g6",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRWX10kWgAIIuIf.jpg",
+        "https://pbs.twimg.com/media/HRWX10kWoAM9VRz.jpg"
+      ],
+      "engagement": {
+        "likes": 340,
+        "replies": 33,
+        "reposts": 28,
+        "quotes": 3,
+        "views": 21319
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T06:41:37Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRWX10kWgAIIuIf.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095748158001131691-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRWX10kWoAM9VRz.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095748158001131691-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -7605,6 +7638,25 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095748158001131691",
+      "rank": 84,
+      "title": "JUST IN: BlackRock clients buy $453.96 million worth of $BTC. https://t.co/kpudUam0g6",
+      "benchmarkPostId": "2095748158001131691",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095748158001131691",
+      "score": 31019,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T06:42:20Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -8054,7 +8106,7 @@
       "benchmarkPostId": "2095249439321399761",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095249439321399761",
       "title": "Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: Microsoft $MSFT just confirmed that it will be changing the way it rep\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -8065,7 +8117,9 @@
       ],
       "imagePath": "deliverables/pkg-20260903-microsoft-msft-just-confirmed-that-it-will-be-ch-99761/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:05.187894+00:00"
+      "createdAt": "2026-09-03T11:55:05.187894+00:00",
+      "postizPostId": "cmtml9nsx03zhqk0ybwiludgz",
+      "publishedAt": "2026-09-04T06:44:00.000Z"
     },
     {
       "id": "pkg-20260903-just-in-g20-finance-ministers-and-central-bank-g-13317",
@@ -8126,7 +8180,7 @@
       "benchmarkPostId": "2095150147470508217",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095150147470508217",
       "title": "JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - ",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new hi\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -8137,7 +8191,9 @@
       ],
       "imagePath": "deliverables/pkg-20260903-just-in-daily-volume-on-robinhood-chain-hood-con-08217/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-03T11:55:05.740138+00:00"
+      "createdAt": "2026-09-03T11:55:05.740138+00:00",
+      "postizPostId": "cmtml8agk03zgqk0ya5x1aa4h",
+      "publishedAt": "2026-09-04T06:43:00.000Z"
     },
     {
       "id": "pkg-20260903-just-in-a-binance-content-creator-followed-by-cz-60111",
@@ -8690,7 +8746,7 @@
       "benchmarkPostId": "2095533985652686930",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095533985652686930",
       "title": "JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours.",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $169,000,000 worth of shorts liquidated from the crypto marke\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -8701,7 +8757,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-169-000-000-worth-of-shorts-liquidated-f-86930/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:42:01.736563+00:00"
+      "createdAt": "2026-09-04T00:42:01.736563+00:00",
+      "postizPostId": "cmtmlacmq0d8dlm0y9x3vfua7",
+      "publishedAt": "2026-09-04T06:45:00.000Z"
     },
     {
       "id": "pkg-20260904-just-in-you-can-now-trade-1000x-leverage-on-new--56777",
@@ -8984,7 +9042,7 @@
       "benchmarkPostId": "2095180650324103269",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095180650324103269",
       "title": "This is what $5.35 Million gets you in Cleveland Ohio",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: This is what $5.35 Million gets you in Cleveland Ohio\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -8995,7 +9053,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-this-is-what-5-35-million-gets-you-in-cleveland--03269/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:25.164611+00:00"
+      "createdAt": "2026-09-04T04:45:25.164611+00:00",
+      "postizPostId": "cmtml8z3c0d87lm0yqez86vv2",
+      "publishedAt": "2026-09-04T06:44:00.000Z"
     },
     {
       "id": "pkg-20260904-southwest-airlines-luv-plans-to-roll-out-its-fir-46611",
@@ -9056,7 +9116,7 @@
       "benchmarkPostId": "2095173158466654669",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095173158466654669",
       "title": "Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -9067,7 +9127,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:25.630691+00:00"
+      "createdAt": "2026-09-04T04:45:25.630691+00:00",
+      "postizPostId": "cmtml7lvu03z4qk0y9ejx1f05",
+      "publishedAt": "2026-09-04T06:43:00.000Z"
     },
     {
       "id": "pkg-20260904-president-trump-just-posted-this-now-that-we-hav-80873",
@@ -9710,6 +9772,24 @@
       "imagePath": "deliverables/pkg-20260904-tesla-tsla-has-now-officially-started-offering-r-51266/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
       "createdAt": "2026-09-04T04:45:29.086746+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-blackrock-clients-buy-453-96-million-wor-31691",
+      "benchmarkPostId": "2095748158001131691",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095748158001131691",
+      "title": "JUST IN: BlackRock clients buy $453.96 million worth of $BTC.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $453.96 million worth of $BTC.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: BlackRock clients buy $453.96 million worth of $BTC."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095748158001131691"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-blackrock-clients-buy-453-96-million-wor-31691/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T06:42:51.812831+00:00"
     }
   ],
   "posts": [
@@ -10288,6 +10368,91 @@
         "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095764647991488660",
+      "packageId": "pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669",
+      "title": "Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena",
+      "status": "published",
+      "publishedAt": "2026-09-04T06:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095764647991488660",
+      "postizPostId": "cmtml7lvu03z4qk0y9ejx1f05",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T06:43:00.000Z",
+        "windowEnd": "2026-09-07T06:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095764780548346157",
+      "packageId": "pkg-20260903-just-in-daily-volume-on-robinhood-chain-hood-con-08217",
+      "title": "JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - ",
+      "status": "published",
+      "publishedAt": "2026-09-04T06:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095764780548346157",
+      "postizPostId": "cmtml8agk03zgqk0ya5x1aa4h",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T06:43:00.000Z",
+        "windowEnd": "2026-09-07T06:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095764914346598739",
+      "packageId": "pkg-20260904-this-is-what-5-35-million-gets-you-in-cleveland--03269",
+      "title": "This is what $5.35 Million gets you in Cleveland Ohio",
+      "status": "published",
+      "publishedAt": "2026-09-04T06:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095764914346598739",
+      "postizPostId": "cmtml8z3c0d87lm0yqez86vv2",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T06:44:00.000Z",
+        "windowEnd": "2026-09-07T06:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095765047444377609",
+      "packageId": "pkg-20260903-microsoft-msft-just-confirmed-that-it-will-be-ch-99761",
+      "title": "Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r",
+      "status": "published",
+      "publishedAt": "2026-09-04T06:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095765047444377609",
+      "postizPostId": "cmtml9nsx03zhqk0ybwiludgz",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T06:44:00.000Z",
+        "windowEnd": "2026-09-07T06:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095765184359088366",
+      "packageId": "pkg-20260904-just-in-169-000-000-worth-of-shorts-liquidated-f-86930",
+      "title": "JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours.",
+      "status": "published",
+      "publishedAt": "2026-09-04T06:45:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095765184359088366",
+      "postizPostId": "cmtmlacmq0d8dlm0y9x3vfua7",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T06:45:00.000Z",
+        "windowEnd": "2026-09-07T06:45:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -13800,6 +13965,91 @@
       "startedAt": "2026-09-04T05:00:02Z",
       "completedAt": "2026-09-04T05:00:02Z",
       "summary": "Prepared 98 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T064137Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:41:37Z",
+      "completedAt": "2026-09-04T06:41:37Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260904T064220Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:42:20Z",
+      "completedAt": "2026-09-04T06:42:20Z",
+      "summary": "Prepared 97 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T064251Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:42:51.812899+00:00",
+      "completedAt": "2026-09-04T06:42:51.812905+00:00",
+      "summary": "Created 1 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T064251Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:42:51Z",
+      "completedAt": "2026-09-04T06:42:51Z",
+      "summary": "Prepared 97 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T064326Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:43:26.932807+00:00",
+      "completedAt": "2026-09-04T06:43:26.932818+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T064358Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:43:58.757834+00:00",
+      "completedAt": "2026-09-04T06:43:58.757838+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T064430Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:44:30.560577+00:00",
+      "completedAt": "2026-09-04T06:44:30.560583+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T064502Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:45:02.666074+00:00",
+      "completedAt": "2026-09-04T06:45:02.666080+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T064534Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T06:45:34.763062+00:00",
+      "completedAt": "2026-09-04T06:45:34.763075+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]

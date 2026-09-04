@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T05:00:02.594878+00:00`
+- 状态更新：`2026-09-04T06:45:34.764326+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**183**
-- 待选选题：**143**
-- 待发布制作包：**74**
-- 已验证发布：**34**
+- 对标帖子快照：**184**
+- 待选选题：**144**
+- 待发布制作包：**70**
+- 已验证发布：**39**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 04 05:37:52 +0000 2026 | JUST IN: BlackRock clients buy $453.96 million worth of $BTC. https://t.co/kpudUam0g6 | [X](https://x.com/WhaleInsider/status/2095748158001131691) |
 | @StockMKTNewz | Fri Sep 04 01:12:01 +0000 2026 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no steering wheel to the public according to @SawyerMerritt   https://t.co/6Hz8dn9YHM | [X](https://x.com/StockMKTNewz/status/2095681253504651266) |
 | @StockMKTNewz | Fri Sep 04 01:28:22 +0000 2026 | Jim Cramer was just asked about $IREN stock:  “If you’re going to do neoclouds, the only one I like is CoreWeave.” | [X](https://x.com/StockMKTNewz/status/2095685369031278901) |
 | @StockMKTNewz | Thu Sep 03 12:52:19 +0000 2026 | 🇺🇸 FED'S WALLER JUST SAID:   - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT A REASONABLE CPI.  - IF THAT REVERSES IN AUGUST WILLING TO PULL TRIGGER ON RATE HIKE | [X](https://x.com/StockMKTNewz/status/2095495103158599973) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Wed Sep 02 12:05:39 +0000 2026 | JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform rating. https://t.co/YquuZR6Wfc | [X](https://x.com/WhaleInsider/status/2095120971413790757) |
 | @StockMKTNewz | Wed Sep 02 13:07:31 +0000 2026 | SEPTEMBER RATE HIKE ODDS  There is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% this month  There is currently a 44% chance that Kevin Warsh and the 🇺🇸 Fed make no changes to rates this month https://t.co/zArobzPEcZ | [X](https://x.com/StockMKTNewz/status/2095136541538386124) |
 | @StockMKTNewz | Wed Sep 02 13:22:47 +0000 2026 | Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of AI as a way to enhance growth  “Every single country needs to build infrastructure so you can support your own local economy”  In his remarks, Huang said that the “single worst outcome” for a country is “being left behind.” The Nvidia chief warned that could happen if the public and policymakers let fears about AI drive the conversation about the technology.   “We have to make sure that we are balanced in talking about it”  (Source Bloomberg) | [X](https://x.com/StockMKTNewz/status/2095140381386031505) |
-| @StockMKTNewz | Wed Sep 02 13:48:40 +0000 2026 | $DELL is starting out trading today up by 12.8% 🟢 and is now up by 282% 🟢 so far in 2026 https://t.co/k4tOKmHyci | [X](https://x.com/StockMKTNewz/status/2095146897019154455) |
 
 ## 选题推荐
 
@@ -181,6 +181,7 @@
 | 76 | Southwest Airlines $LUV plans to roll out its first-ever lounge network next year - Bloomber… | StockMKTNewz | 36937 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 79 | Here is some of the stuff that our partners at BTQ Technologies have done so far in 2026 👀 h… | StockMKTNewz | 35777 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 84 | POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launched Perps on the platfo… | StockMKTNewz | 34521 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 84 | JUST IN: BlackRock clients buy $453.96 million worth of $BTC. https://t.co/kpudUam0g6 | WhaleInsider | 31019 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 85 | Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢 https://t.co/Wwq2UAfk3g | StockMKTNewz | 34156 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 87 | Snowflake $SNOW is starting trading today up by more than 20% following its earnings last ni… | StockMKTNewz | 33485 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 89 | JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club… | StockMKTNewz | 32788 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -320,7 +321,7 @@ Market radar: @StockMKTNewz reports: This is how the 🇺🇸 stock market perfo
 
 ### Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260903-microsoft-msft-just-confirmed-that-it-will-be-ch-99761/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Microsoft $MSFT just confirmed that it will be changing the way it rep  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -348,7 +349,7 @@ Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD Total Tokeni
 
 ### JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion -
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260903-just-in-daily-volume-on-robinhood-chain-hood-con-08217/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new hi  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -558,7 +559,7 @@ Market radar: @WhaleInsider reports: JUST IN: $PEPE surges 13% in 24 hours as on
 
 ### JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours.
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-just-in-169-000-000-worth-of-shorts-liquidated-f-86930/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: $169,000,000 worth of shorts liquidated from the crypto marke  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -670,7 +671,7 @@ Market radar: @StockMKTNewz reports: Uber Technologies $UBER is shutting down it
 
 ### This is what $5.35 Million gets you in Cleveland Ohio
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-this-is-what-5-35-million-gets-you-in-cleveland--03269/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: This is what $5.35 Million gets you in Cleveland Ohio  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -698,7 +699,7 @@ Market radar: @StockMKTNewz reports: GE Vernova $GEV has committed to repairing 
 
 ### Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -948,6 +949,13 @@ Market radar: @StockMKTNewz reports: Jim Cramer was just asked about $IREN stock
 
 Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offering rides in its fully sel  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
+### JUST IN: BlackRock clients buy $453.96 million worth of $BTC.
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260904-just-in-blackrock-clients-buy-453-96-million-wor-31691/when2buy-market-radar.png`
+
+Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $453.96 million worth of $BTC.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -987,9 +995,23 @@ Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offe
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
+| Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena | 2026-09-04T06:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095764647991488660) |
+| JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095764780548346157) |
+| This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095764914346598739) |
+| Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095765047444377609) |
+| JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095765184359088366) |
 
 ## 最近运行
 
+- `2026-09-04T06:45:34.763062+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T06:45:02.666074+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T06:44:30.560577+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T06:43:58.757834+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T06:43:26.932807+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T06:42:51Z` **queue / succeeded** — Prepared 97 one-to-one production candidate(s).
+- `2026-09-04T06:42:51.812899+00:00` **produce / succeeded** — Created 1 original attributed market-radar package(s).
+- `2026-09-04T06:42:20Z` **queue / succeeded** — Prepared 97 one-to-one production candidate(s).
+- `2026-09-04T06:41:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-04T05:00:02Z` **queue / succeeded** — Prepared 98 one-to-one production candidate(s).
 - `2026-09-04T04:59:58Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-04T04:51:00+00:00` **publish / failed** — Terminal Postiz delivery failure after one safe retry; no PUBLISHED state or public X URL. Package pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669: Postiz returned ERROR for delivery IDs cmtmh7thr0ceglm0ybqu8j3mg and cmtmh87nv0ceilm0yx5sxyxxe; releaseURL and releaseId were null.
@@ -1001,12 +1023,3 @@ Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offe
 - `2026-09-04T04:49:27.668421+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:47:58.104909+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:47:25.091716+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:46:53.191678+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:45:29Z` **queue / succeeded** — Prepared 107 one-to-one production candidate(s).
-- `2026-09-04T04:45:29.086806+00:00` **produce / succeeded** — Created 51 original attributed market-radar package(s).
-- `2026-09-04T04:43:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 119 eligible originals and added 51 new post(s).
-- `2026-09-04T04:42:34Z` **queue / succeeded** — Prepared 23 one-to-one production candidate(s).
-- `2026-09-04T04:33:26.973001+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:32:59.631913+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:32:32.303201+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:32:04.991947+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
