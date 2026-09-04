@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Create original, source-attributed 1:1 market-radar packages for new sources."""
-import re, sys
+import re, sys, subprocess
 from datetime import datetime, timezone
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFont
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'skills'/'when2buy-content-publisher'/'scripts'))
@@ -14,20 +13,22 @@ REG='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
 LOGO=ROOT/'skills/when2buy-content-publisher/assets/when2buy-logo-reference.png'
 def clean(text): return re.sub(r'\s+',' ',re.sub(r'https?://\S+','',text)).strip()
 def slug(text): return re.sub(r'[^a-z0-9]+','-',text.lower()).strip('-')[:48] or 'market-radar'
-def wrap(draw,text,font,width):
- out=[]; line=''
- for word in text.split():
-  if draw.textlength((line+' '+word).strip(),font=font)<=width: line=(line+' '+word).strip()
-  else: out.append(line);line=word
- return out+[line] if line else out
 def art(path,title,account):
- im=Image.new('RGB',(1080,1080),(7,8,10));d=ImageDraw.Draw(im); bold=ImageFont.truetype(FONT,76); small=ImageFont.truetype(FONT,27); body=ImageFont.truetype(REG,31)
- d.rectangle((58,80,72,330),fill=(231,42,59)); d.text((104,82),'QUICK MARKET\nRADAR',font=small,fill='white',spacing=8)
- y=215
- for line in wrap(d,title.upper(),bold,850)[:4]: d.text((104,y),line,font=bold,fill='white');y+=88
- d.text((104,860),f'REPORTED BY @{account.upper()}',font=small,fill=(239,73,86))
- d.text((104,908),'NOT INDEPENDENTLY VERIFIED',font=body,fill=(170,175,184))
- logo=Image.open(LOGO).convert('RGBA');logo.thumbnail((100,100));im.paste(logo,(920,920),logo);path.parent.mkdir(parents=True,exist_ok=True);im.save(path)
+ # A compact entity badge makes each original visual event-specific while
+ # keeping third-party source media out of the finished artwork.
+ entity=(re.search(r'\$[A-Za-z]{1,8}',title) or re.search(r'\b[A-Z][A-Za-z]+\b',title))
+ entity=entity.group(0).upper() if entity else 'MARKET'
+ lines=[]; words=title.upper().split(); line=''
+ for word in words:
+  candidate=(line+' '+word).strip()
+  if len(candidate)>23 and line: lines.append(line); line=word
+  else: line=candidate
+ if line: lines.append(line)
+ path.parent.mkdir(parents=True,exist_ok=True)
+ command=['convert','-size','1080x1080','xc:#07080a','-fill','#e72a3b','-draw','rectangle 58,78 72,948','-fill','#15191f','-stroke','#e72a3b','-strokewidth','5','-draw','circle 885,205 1007,205','-stroke','none','-font',FONT,'-fill','white','-pointsize','28','-annotate','+112+118','QUICK MARKET RADAR','-pointsize','34','-gravity','NorthEast','-annotate','+118+185',entity[:10],'-gravity','NorthWest','-pointsize','70']
+ for i,line in enumerate(lines[:4]): command.extend(['-annotate',f'+112+{315+i*91}',line])
+ command.extend(['-fill','#3a4048','-draw','line 112,785 968,785','-fill','#ef4956','-pointsize','28','-annotate','+112+850',f'REPORTED BY @{account.upper()}','-fill','#aab0ba','-pointsize','31','-annotate','+112+905','NOT INDEPENDENTLY VERIFIED',str(LOGO),'-resize','100x100','-gravity','SouthEast','-geometry','+70+70','-composite',str(path)])
+ subprocess.run(command,check=True)
 def main():
  s=state.load_state(); covered={str(x.get('benchmarkPostId')) for x in s['packages']}; newest=max((p.get('capturedAt','') for p in s['benchmarkPosts']),default='')
  posts=[p for p in s['benchmarkPosts'] if p.get('capturedAt')==newest and str(p.get('id')) not in covered]

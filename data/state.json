@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T11:38:48.620808+00:00",
+  "updatedAt": "2026-09-04T12:47:29.950283+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -5117,6 +5117,312 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095852270202048699",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095852270202048699",
+      "postedAt": "Fri Sep 04 12:31:34 +0000 2026",
+      "text": "The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of +53K jobs added (NFP Non-farm Payrolls)",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 53,
+        "replies": 7,
+        "reposts": 8,
+        "quotes": 4,
+        "views": 12588
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095847527920685319",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095847527920685319",
+      "postedAt": "Fri Sep 04 12:12:44 +0000 2026",
+      "text": "Nvidia $NVDA has committed to invest more than $40 billion into AI companies so far in 2026",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 45,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 18413
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095845567893024937",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095845567893024937",
+      "postedAt": "Fri Sep 04 12:04:56 +0000 2026",
+      "text": "JUST IN: $BTC currently forecasted to hit a high of $90,000 this year, per Kalshi traders. https://t.co/BVyYS5iXLC",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXwbxnW4AE8ovM.jpg",
+        "https://pbs.twimg.com/media/HRXwbxoWwAEG879.jpg"
+      ],
+      "engagement": {
+        "likes": 96,
+        "replies": 30,
+        "reposts": 19,
+        "quotes": 3,
+        "views": 20609
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXwbxnW4AE8ovM.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095845567893024937-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXwbxoWwAEG879.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095845567893024937-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095845351089414299",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095845351089414299",
+      "postedAt": "Fri Sep 04 12:04:05 +0000 2026",
+      "text": "Volkswagen just announced plans for a further 50,000 job cuts - CNBC https://t.co/h12w3Y8zaB",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXwMhBWIAMIVgU.png"
+      ],
+      "engagement": {
+        "likes": 56,
+        "replies": 2,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 15627
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXwMhBWIAMIVgU.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095845351089414299-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095838483235348731",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095838483235348731",
+      "postedAt": "Fri Sep 04 11:36:47 +0000 2026",
+      "text": "THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL WORKFORCE",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 68,
+        "replies": 10,
+        "reposts": 5,
+        "quotes": 3,
+        "views": 20701
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095836337303699834",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095836337303699834",
+      "postedAt": "Fri Sep 04 11:28:16 +0000 2026",
+      "text": "CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIGGEST COMPANIES IN CHINA 🇨🇳 ON HIS VISIT TO MEET 🇺🇸 PRESIDENT TRUMP IN THE US",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 262,
+        "replies": 11,
+        "reposts": 16,
+        "quotes": 2,
+        "views": 27295
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095833017654661484",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095833017654661484",
+      "postedAt": "Fri Sep 04 11:15:04 +0000 2026",
+      "text": "This is what $3.2 Million gets you in Los Angeles \n\nThe former house of Fred Durst, Adam Brody, and Amanda Seyfried https://t.co/FywwpIKy7E",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXlBXKbkAAy-6a.jpg"
+      ],
+      "engagement": {
+        "likes": 38,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 30357
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXlBXKbkAAy-6a.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095833017654661484-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095820668109484277",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095820668109484277",
+      "postedAt": "Fri Sep 04 10:26:00 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, despite Chair Kevin Warsh’s hawkish Jackson Hole speech. https://t.co/Or1AIUAOmq",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXZydcWkAEUgAQ.jpg",
+        "https://pbs.twimg.com/media/HRXZydoW8AQYFod.jpg"
+      ],
+      "engagement": {
+        "likes": 420,
+        "replies": 38,
+        "reposts": 27,
+        "quotes": 5,
+        "views": 30560
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXZydcWkAEUgAQ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095820668109484277-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXZydoW8AQYFod.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095820668109484277-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095819068913680666",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095819068913680666",
+      "postedAt": "Fri Sep 04 10:19:39 +0000 2026",
+      "text": "JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity pool, is positioning itself to compete with $AI on Robinhood Chain. https://t.co/IyX8QmpDsO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXYVa1W8AEmMm5.jpg",
+        "https://pbs.twimg.com/media/HRXYVbLbMAAFSyT.jpg"
+      ],
+      "engagement": {
+        "likes": 161,
+        "replies": 25,
+        "reposts": 22,
+        "quotes": 3,
+        "views": 27976
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXYVa1W8AEmMm5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095819068913680666-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXYVbLbMAAFSyT.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095819068913680666-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095812430299312173",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095812430299312173",
+      "postedAt": "Fri Sep 04 09:53:16 +0000 2026",
+      "text": "JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China. https://t.co/Y3GHz8dNqm",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXSIARWEAE8OyD.jpg",
+        "https://pbs.twimg.com/media/HRXSRVJWUAEqdxp.jpg"
+      ],
+      "engagement": {
+        "likes": 257,
+        "replies": 23,
+        "reposts": 14,
+        "quotes": 2,
+        "views": 27405
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXSIARWEAE8OyD.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095812430299312173-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXSRVJWUAEqdxp.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095812430299312173-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095811048884310350",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095811048884310350",
+      "postedAt": "Fri Sep 04 09:47:46 +0000 2026",
+      "text": "JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market launchpad $nSTOCKS amid ongoing drama involving Vlad Tenev and Adam Aron. https://t.co/QO2Y7H3c5D",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXRCkCWQAUsxwV.jpg",
+        "https://pbs.twimg.com/media/HRXRCkBWsAABJpq.jpg"
+      ],
+      "engagement": {
+        "likes": 281,
+        "replies": 58,
+        "reposts": 48,
+        "quotes": 4,
+        "views": 30211
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-04T12:40:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXRCkCWQAUsxwV.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095811048884310350-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXRCkBWsAABJpq.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095811048884310350-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -7969,6 +8275,215 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095852270202048699",
+      "rank": 1,
+      "title": "The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of +53K jobs added (NFP N…",
+      "benchmarkPostId": "2095852270202048699",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095852270202048699",
+      "score": 14568,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095847527920685319",
+      "rank": 2,
+      "title": "Nvidia $NVDA has committed to invest more than $40 billion into AI companies so far in 2026",
+      "benchmarkPostId": "2095847527920685319",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095847527920685319",
+      "score": 19563,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095845567893024937",
+      "rank": 3,
+      "title": "JUST IN: $BTC currently forecasted to hit a high of $90,000 this year, per Kalshi traders. h…",
+      "benchmarkPostId": "2095845567893024937",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095845567893024937",
+      "score": 24859,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095845351089414299",
+      "rank": 4,
+      "title": "Volkswagen just announced plans for a further 50,000 job cuts - CNBC https://t.co/h12w3Y8zaB",
+      "benchmarkPostId": "2095845351089414299",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095845351089414299",
+      "score": 17077,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095838483235348731",
+      "rank": 5,
+      "title": "THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL WORKFORCE",
+      "benchmarkPostId": "2095838483235348731",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095838483235348731",
+      "score": 22891,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095836337303699834",
+      "rank": 6,
+      "title": "CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIGGEST COMPANIES IN CHIN…",
+      "benchmarkPostId": "2095836337303699834",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095836337303699834",
+      "score": 33895,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095833017654661484",
+      "rank": 7,
+      "title": "This is what $3.2 Million gets you in Los Angeles The former house of Fred Durst, Adam Brody…",
+      "benchmarkPostId": "2095833017654661484",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095833017654661484",
+      "score": 31317,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095820668109484277",
+      "rank": 8,
+      "title": "JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, despite Chair Kevin Wars…",
+      "benchmarkPostId": "2095820668109484277",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095820668109484277",
+      "score": 42130,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095819068913680666",
+      "rank": 9,
+      "title": "JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity …",
+      "benchmarkPostId": "2095819068913680666",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095819068913680666",
+      "score": 33476,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095812430299312173",
+      "rank": 10,
+      "title": "JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China. https://t.…",
+      "benchmarkPostId": "2095812430299312173",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095812430299312173",
+      "score": 34285,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095811048884310350",
+      "rank": 11,
+      "title": "JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market l…",
+      "benchmarkPostId": "2095811048884310350",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095811048884310350",
+      "score": 40791,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-04T12:41:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -8346,7 +8861,7 @@
       "benchmarkPostId": "2095260639446929657",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095260639446929657",
       "title": "BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 ",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -8357,7 +8872,9 @@
       ],
       "imagePath": "deliverables/pkg-20260903-broadcom-s-avgo-ceo-just-said-in-2027-we-have-se-29657/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:04.735627+00:00"
+      "createdAt": "2026-09-03T11:55:04.735627+00:00",
+      "postizPostId": "cmtmy3wfy06twqk0yd6ex777c",
+      "publishedAt": "2026-09-04T12:44:00.000Z"
     },
     {
       "id": "pkg-20260903-snowflake-s-snow-ceo-just-said-we-remain-on-trac-00640",
@@ -8474,7 +8991,7 @@
       "benchmarkPostId": "2095172700113133770",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095172700113133770",
       "title": "JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata.",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -8485,7 +9002,9 @@
       ],
       "imagePath": "deliverables/pkg-20260903-just-in-robinhood-chain-hood-total-tokenized-val-33770/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-03T11:55:05.636207+00:00"
+      "createdAt": "2026-09-03T11:55:05.636207+00:00",
+      "postizPostId": "cmtmy5yfw06uaqk0yb7kccix7",
+      "publishedAt": "2026-09-04T12:45:00.000Z"
     },
     {
       "id": "pkg-20260903-just-in-daily-volume-on-robinhood-chain-hood-con-08217",
@@ -9486,7 +10005,7 @@
       "benchmarkPostId": "2095152899093389441",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095152899093389441",
       "title": "Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: ",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the la\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -9497,7 +10016,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-nvidia-nvda-ceo-jensen-huang-said-this-today-to--89441/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:25.978349+00:00"
+      "createdAt": "2026-09-04T04:45:25.978349+00:00",
+      "postizPostId": "cmtmy5aj606u5qk0ys9wlfhl1",
+      "publishedAt": "2026-09-04T12:45:00.000Z"
     },
     {
       "id": "pkg-20260904-salesforce-crm-and-anthropic-just-released-this--08333",
@@ -9634,7 +10155,7 @@
       "benchmarkPostId": "2095103588028535044",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095103588028535044",
       "title": "JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders.",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC currently forecasted to go as high as $82,000 this month\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -9645,7 +10166,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-btc-currently-forecasted-to-go-as-high-a-35044/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T04:45:26.892409+00:00"
+      "createdAt": "2026-09-04T04:45:26.892409+00:00",
+      "postizPostId": "cmtmy4l9w06u2qk0ye9w5ebob",
+      "publishedAt": "2026-09-04T12:44:00.000Z"
     },
     {
       "id": "pkg-20260904-just-in-franklin-canary-and-grayscale-etf-client-40065",
@@ -9672,7 +10195,7 @@
       "benchmarkPostId": "2095018683512857038",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095018683512857038",
       "title": "JUST IN: Fidelity clients sell $43.67 million worth of $BTC.",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Fidelity clients sell $43.67 million worth of $BTC.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -9683,7 +10206,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-fidelity-clients-sell-43-67-million-wort-57038/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.101635+00:00"
+      "createdAt": "2026-09-04T04:45:27.101635+00:00",
+      "postizPostId": "cmtmy6n8b06ukqk0ysismget6",
+      "publishedAt": "2026-09-04T12:46:00.000Z"
     },
     {
       "id": "pkg-20260904-just-in-blackrock-clients-sell-2-605-btc-worth-2-78779",
@@ -10124,6 +10649,204 @@
       "createdAt": "2026-09-04T09:23:00+00:00",
       "postizPostId": "cmtmr0zsx052eqk0yi991ewej",
       "publishedAt": "2026-09-04T09:25:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-the-economy-saw-162-000-jobs-added-in-august-abo-48699",
+      "benchmarkPostId": "2095852270202048699",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095852270202048699",
+      "title": "The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of +53K jobs added (NFP Non-farm ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of +53K jobs added (NFP Non-farm Payrolls)"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095852270202048699"
+      ],
+      "imagePath": "deliverables/pkg-20260904-the-economy-saw-162-000-jobs-added-in-august-abo-48699/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T12:43:49.588478+00:00"
+    },
+    {
+      "id": "pkg-20260904-nvidia-nvda-has-committed-to-invest-more-than-40-85319",
+      "benchmarkPostId": "2095847527920685319",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095847527920685319",
+      "title": "Nvidia $NVDA has committed to invest more than $40 billion into AI companies so far in 2026",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA has committed to invest more than $40 billion into AI com\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nvidia $NVDA has committed to invest more than $40 billion into AI companies so far in 2026"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095847527920685319"
+      ],
+      "imagePath": "deliverables/pkg-20260904-nvidia-nvda-has-committed-to-invest-more-than-40-85319/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T12:43:49.691163+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-btc-currently-forecasted-to-hit-a-high-o-24937",
+      "benchmarkPostId": "2095845567893024937",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095845567893024937",
+      "title": "JUST IN: $BTC currently forecasted to hit a high of $90,000 this year, per Kalshi traders.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC currently forecasted to hit a high of $90,000 this year,\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $BTC currently forecasted to hit a high of $90,000 this year, per Kalshi traders."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095845567893024937"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-btc-currently-forecasted-to-hit-a-high-o-24937/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T12:43:49.837591+00:00"
+    },
+    {
+      "id": "pkg-20260904-volkswagen-just-announced-plans-for-a-further-50-14299",
+      "benchmarkPostId": "2095845351089414299",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095845351089414299",
+      "title": "Volkswagen just announced plans for a further 50,000 job cuts - CNBC",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Volkswagen just announced plans for a further 50,000 job cuts - CNBC\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Volkswagen just announced plans for a further 50,000 job cuts - CNBC"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095845351089414299"
+      ],
+      "imagePath": "deliverables/pkg-20260904-volkswagen-just-announced-plans-for-a-further-50-14299/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T12:43:49.979212+00:00"
+    },
+    {
+      "id": "pkg-20260904-the-trade-deredacted-credential-like-string",
+      "benchmarkPostId": "2095838483235348731",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095838483235348731",
+      "title": "THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL WORKFORCE",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL WORKFORCE"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095838483235348731"
+      ],
+      "imagePath": "deliverables/pkg-20260904-the-trade-deredacted-credential-like-string/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T12:43:50.123397+00:00"
+    },
+    {
+      "id": "pkg-20260904-chinese-leader-xi-jinping-to-bring-a-delegation--99834",
+      "benchmarkPostId": "2095836337303699834",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095836337303699834",
+      "title": "CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIGGEST COMPANIES IN CHINA 🇨🇳 ON ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIG\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIGGEST COMPANIES IN CHINA 🇨🇳 ON HIS VISIT TO MEET 🇺🇸 PRESIDENT TRUMP IN THE US"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095836337303699834"
+      ],
+      "imagePath": "deliverables/pkg-20260904-chinese-leader-xi-jinping-to-bring-a-delegation--99834/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T12:43:50.262236+00:00"
+    },
+    {
+      "id": "pkg-20260904-this-is-what-3-2-million-gets-you-in-los-angeles-61484",
+      "benchmarkPostId": "2095833017654661484",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095833017654661484",
+      "title": "This is what $3.2 Million gets you in Los Angeles The former house of Fred Durst, Adam Brody, and Am",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is what $3.2 Million gets you in Los Angeles The former house of \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is what $3.2 Million gets you in Los Angeles The former house of Fred Durst, Adam Brody, and Amanda Seyfried"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095833017654661484"
+      ],
+      "imagePath": "deliverables/pkg-20260904-this-is-what-3-2-million-gets-you-in-los-angeles-61484/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T12:43:50.409903+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-morgan-stanley-expects-the-fed-to-keep-r-84277",
+      "benchmarkPostId": "2095820668109484277",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095820668109484277",
+      "title": "JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, despite Chair Kevin Warsh’s hawk",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, de\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, despite Chair Kevin Warsh’s hawkish Jackson Hole speech."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095820668109484277"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-morgan-stanley-expects-the-fed-to-keep-r-84277/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T12:43:50.571853+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-ap-with-over-20-000-in-nvidia-holdings-a-80666",
+      "benchmarkPostId": "2095819068913680666",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095819068913680666",
+      "title": "JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity pool, is",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $AP, with over $20,000 in Nvidia holdings across its communit\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity pool, is positioning itself to compete with $AI on Robinhood Chain."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095819068913680666"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-ap-with-over-20-000-in-nvidia-holdings-a-80666/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T12:43:50.731316+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-deepseek-plans-to-install-more-than-160--12173",
+      "benchmarkPostId": "2095812430299312173",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095812430299312173",
+      "title": "JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chip\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095812430299312173"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-deepseek-plans-to-install-more-than-160--12173/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T12:43:50.910487+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-reports-and-rumours-suggest-some-users-m-10350",
+      "benchmarkPostId": "2095811048884310350",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095811048884310350",
+      "title": "JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market launchpad",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some users may be moving toward a\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market launchpad $nSTOCKS amid ongoing drama involving Vlad Tenev and Adam Aron."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095811048884310350"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-reports-and-rumours-suggest-some-users-m-10350/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T12:43:51.043029+00:00"
     }
   ],
   "posts": [
@@ -10801,6 +11524,91 @@
         "status": "active",
         "windowStart": "2026-09-04T09:25:00.000Z",
         "windowEnd": "2026-09-07T09:25:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095855505831010807",
+      "packageId": "pkg-20260903-broadcom-s-avgo-ceo-just-said-in-2027-we-have-se-29657",
+      "title": "BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 ",
+      "status": "published",
+      "publishedAt": "2026-09-04T12:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095855505831010807",
+      "postizPostId": "cmtmy3wfy06twqk0yd6ex777c",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T12:44:00.000Z",
+        "windowEnd": "2026-09-07T12:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095855640375922725",
+      "packageId": "pkg-20260904-just-in-btc-currently-forecasted-to-go-as-high-a-35044",
+      "title": "JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders.",
+      "status": "published",
+      "publishedAt": "2026-09-04T12:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095855640375922725",
+      "postizPostId": "cmtmy4l9w06u2qk0ye9w5ebob",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T12:44:00.000Z",
+        "windowEnd": "2026-09-07T12:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095855783753953496",
+      "packageId": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-said-this-today-to--89441",
+      "title": "Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: ",
+      "status": "published",
+      "publishedAt": "2026-09-04T12:45:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095855783753953496",
+      "postizPostId": "cmtmy5aj606u5qk0ys9wlfhl1",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T12:45:00.000Z",
+        "windowEnd": "2026-09-07T12:45:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095855909612498984",
+      "packageId": "pkg-20260903-just-in-robinhood-chain-hood-total-tokenized-val-33770",
+      "title": "JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata.",
+      "status": "published",
+      "publishedAt": "2026-09-04T12:45:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095855909612498984",
+      "postizPostId": "cmtmy5yfw06uaqk0yb7kccix7",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T12:45:00.000Z",
+        "windowEnd": "2026-09-07T12:45:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095856045784805886",
+      "packageId": "pkg-20260904-just-in-fidelity-clients-sell-43-67-million-wort-57038",
+      "title": "JUST IN: Fidelity clients sell $43.67 million worth of $BTC.",
+      "status": "published",
+      "publishedAt": "2026-09-04T12:46:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095856045784805886",
+      "postizPostId": "cmtmy6n8b06ukqk0ysismget6",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T12:46:00.000Z",
+        "windowEnd": "2026-09-07T12:46:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -14485,6 +15293,127 @@
       "startedAt": "2026-09-04T11:38:48Z",
       "completedAt": "2026-09-04T11:38:48Z",
       "summary": "Prepared 90 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124059Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:40:59Z",
+      "completedAt": "2026-09-04T12:40:59Z",
+      "summary": "Apify scanned both benchmark accounts; captured 37 eligible originals and added 11 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260904T124112Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:41:12Z",
+      "completedAt": "2026-09-04T12:41:12Z",
+      "summary": "Prepared 101 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124125Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:41:25Z",
+      "completedAt": "2026-09-04T12:41:25Z",
+      "summary": "Prepared 101 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124209Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:42:09Z",
+      "completedAt": "2026-09-04T12:42:09Z",
+      "summary": "Prepared 101 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124228Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:42:28Z",
+      "completedAt": "2026-09-04T12:42:28Z",
+      "summary": "Prepared 101 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124313Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:43:13Z",
+      "completedAt": "2026-09-04T12:43:13Z",
+      "summary": "Prepared 101 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124351Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:43:51.043067+00:00",
+      "completedAt": "2026-09-04T12:43:51.043069+00:00",
+      "summary": "Created 11 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124351Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:43:51Z",
+      "completedAt": "2026-09-04T12:43:51Z",
+      "summary": "Prepared 101 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124429Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:44:29.096796+00:00",
+      "completedAt": "2026-09-04T12:44:29.096804+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124501Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:45:01.137523+00:00",
+      "completedAt": "2026-09-04T12:45:01.137533+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124533Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:45:33.861397+00:00",
+      "completedAt": "2026-09-04T12:45:33.861403+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124604Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:46:04.772048+00:00",
+      "completedAt": "2026-09-04T12:46:04.772052+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T124636Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T12:46:36.889384+00:00",
+      "completedAt": "2026-09-04T12:46:36.889388+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]
