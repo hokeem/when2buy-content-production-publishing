@@ -3,7 +3,7 @@
 本仓库的自动化由三段相互解耦的时钟组成，统一使用 `Asia/Shanghai`：
 
 1. **Radar（GitHub Actions，08:30 / 14:30 / 20:30）**：从 `@WhaleInsider`、`@StockMKTNewz` 拉取公开原创帖，保存原文、链接、互动数据与原始媒体归档；重建 `data/production-queue.json`、`reports/latest.md` 和唯一的 `reports/run-panel.html`。
-2. **Production + publish（Paseo，08:40 / 14:40 / 20:40）**：等待 Radar 的状态已在 `main` 后执行。每条新捕获的合格来源帖都必须生成一对一的原创英文文案和 when2buy 原创方图；独立核验不足时改写为带来源归因的 market-radar 或更广泛的趋势/背景帖，而不是丢弃选题。通过 `scripts/postiz_publish.py` 发布到 `@_When2buy`，并轮询到公开 X URL。
+2. **Production + publish（Paseo，08:40 / 14:40 / 20:40）**：等待 Radar 的状态已在 `main` 后执行。每条新捕获的合格来源帖都必须生成一对一的原创英文文案和 when2buy 原创方图；独立核验不足时改写为带来源归因的 market-radar 或更广泛的趋势/背景帖，而不是丢弃选题。每个窗口按 `production-queue.json` 分数严格排序，独立处理 top 10 ready packages；通过 `scripts/postiz_publish.py` 发布到 `@_When2buy`，并轮询到公开 X URL。
 3. **Performance review（Paseo，每日 09:05）**：执行 `python3 scripts/collect_public_metrics.py`，只对发布后 72 小时窗口内的 Postiz 已发布内容追加每日公开指标快照；主数据源是 Postiz Public API 的每帖 analytics，公开 X 页面仅在 API 不可用或未返回可映射指标时作为后备。不发布内容，也不修改旧快照。窗口结束后写入 `metricsTracking.status=complete`，此后永不再请求该帖子。
 
 ## 运行环境

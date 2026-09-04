@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T01:07:00.312525+00:00`
+- 状态更新：`2026-09-04T04:33:39.167858+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**132**
 - 待选选题：**92**
-- 待发布制作包：**42**
-- 已验证发布：**15**
+- 待发布制作包：**32**
+- 已验证发布：**25**
 
 ## 对标账号扫描
 
@@ -346,14 +346,14 @@ Tesla $TSLA feature radar.  @StockMKTNewz says its new self-driving cars will in
 
 ### Tesla $TSLA just posted this new video of the Cybercab
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-tesla-tsla-just-posted-this-new-video-of-the-cyb-22737/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Tesla $TSLA just posted this new video of the Cybercab  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-this-is-what-3-3-million-gets-you-less-than-2-ho-64023/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: This is what $3.3 Million gets you less than 2 hours away from New Yor  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -374,7 +374,7 @@ Market radar: @WhaleInsider reports: JUST IN: $BTC surpasses $82,000.  Unverifie
 
 ### Microsoft sold $43 Million worth of $MSFT stock this week
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-microsoft-sold-43-million-worth-of-msft-stock-th-11179/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Microsoft sold $43 Million worth of $MSFT stock this week  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -388,7 +388,7 @@ Market radar: @WhaleInsider reports: JUST IN: SpaceXAI $SPCX launches Grok bot f
 
 ### All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-all-these-stocks-hit-new-52-week-highs-at-some-p-51780/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -409,7 +409,7 @@ Market radar: @StockMKTNewz reports: Zscaler $ZS stock is up initially in after 
 
 ### Lululemon $LULU stock is down by 15% in after hours following its earnings 🔴🔴🔴🔴🔴
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-lululemon-lulu-stock-is-down-by-15-in-after-hour-24271/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Lululemon $LULU stock is down by 15% in after hours following its earn  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -437,7 +437,7 @@ Market radar: @WhaleInsider reports: JUST IN: Flap releases the first DeFi lendi
 
 ### JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-just-in-hook-has-launched-licensed-music-remix-p-52181/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Hook has launched licensed music remix platform with a 20m+ s  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -458,7 +458,7 @@ Market radar: @StockMKTNewz reports: The CEO of Strategy $MSTR is on this live s
 
 ### Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-here-is-how-much-fees-robinhood-hood-has-generat-53289/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Here is how much fees Robinhood $HOOD has generated from its Robinhood  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -472,7 +472,7 @@ Market radar: @WhaleInsider reports: JUST IN: 119,453 crypto traders were liquid
 
 ### Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-each-of-these-4-stocks-have-seen-their-market-ca-66163/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Each of these 4 stocks have seen their market caps increase by more th  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -500,7 +500,7 @@ Market radar: @StockMKTNewz reports: OPENAI JUST RELEASED GPT-6 ASTRA, CALLING I
 
 ### JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-just-in-pepe-surges-13-in-24-hours-as-on-chain-d-88874/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -535,7 +535,7 @@ Market radar: @WhaleInsider reports: JUST IN: $XRP price rallies 4.8% in the pas
 
 ### JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-just-in-daily-trading-volume-on-uniswap-s-robinh-10970/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment   Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -545,24 +545,44 @@ Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's 
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
+| Tesla product-feature market radar | 2026-09-04T00:43:00.000Z | 123 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095674191865692472) |
+| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z | 118 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428469635395700) |
+| HOPE token launch reported | 2026-09-03T08:24:00.000Z | 65 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427868683829570) |
+| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
+| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 38 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
+| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 30 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
+| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
+| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
+| Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
+| NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 15 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
+| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
+| Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
+| JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
+| Lululemon $LULU stock is down by 15% in after hours following its earnings 🔴🔴🔴🔴🔴 | 2026-09-04T04:30:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731360514404660) |
+| Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
+| All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
+| Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
+| This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
+| JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2094334035149607267) |
-| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2094648465645265080) |
-| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095424711853584893) |
-| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427314796704032) |
-| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427576059834822) |
-| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427724378767851) |
-| HOPE token launch reported | 2026-09-03T08:24:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427868683829570) |
-| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428221366091837) |
-| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428469635395700) |
-| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428640263766427) |
-| Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095476518642397201) |
-| JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095480844748231138) |
-| NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095493296038748333) |
-| Tesla product-feature market radar | 2026-09-04T00:43:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095674191865692472) |
+| Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
+| JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
+| JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 
 ## 最近运行
 
+- `2026-09-04T04:33:26.973001+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:32:59.631913+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:32:32.303201+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:32:04.991947+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:31:37.651256+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:31:10.358496+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:30:43.017179+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:30:15.121427+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:29:47.866217+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T04:29:20.604681+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T01:07:00.311953+00:00` **metrics / partial** — Checked public X status pages for all 15 published @_When2buy posts; appended 15 timestamped snapshots. All requests returned HTTP 200 but exposed no parseable visible numeric counters; views, replies, reposts, and likes were recorded as null with per-snapshot public-X evidence.
 - `2026-09-04T00:44:00.395309+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T00:43:33.150460+00:00` **publish / partial** — Postiz rejected initial Tesla package as too long; shortened copy for one safe retry. Postiz HTTP 400: post is too long.
@@ -573,13 +593,3 @@ Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's 
 - `2026-09-03T16:38:24Z` **queue / succeeded** — Prepared 36 one-to-one production candidate(s).
 - `2026-09-03T16:38:23Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-03T12:45:13.090834+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T12:44:40.721519+00:00` **produce / succeeded** — Prepared a verified original NVIDIA/Hugging Face package from the newest uncovered StockMKTNewz source. Verified against NVIDIA's September 3, 2026 announcement; copy shortened after Postiz rejected the initial version as too long.
-- `2026-09-03T12:43:51.186920+00:00` **produce / succeeded** — Created a verified original NVIDIA/Hugging Face package from the newest uncovered StockMKTNewz source. Verified against NVIDIA's September 3, 2026 announcement.
-- `2026-09-03T12:41:10Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
-- `2026-09-03T12:41:10Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 4 new post(s).
-- `2026-09-03T11:55:45.070765+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T11:55:06.083306+00:00` **produce / succeeded** — Created 15 original attributed market-radar package(s).
-- `2026-09-03T11:53:46Z` **queue / succeeded** — Prepared 53 one-to-one production candidate(s).
-- `2026-09-03T11:53:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 15 new post(s).
-- `2026-09-03T11:40:33Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
-- `2026-09-03T11:38:29.458795+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

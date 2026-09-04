@@ -35,8 +35,8 @@ Scheduled scans use Asia/Shanghai time at **08:30, 14:30, and 20:30**. Read [sch
 
 ## Select the run mode
 
-- `radar`: inspect sources and populate five ranked opportunities.
-- `produce`: turn the strongest eligible opportunity into a complete text-and-image package.
+- `radar`: inspect sources and populate the ranked production queue.
+- `produce`: turn every newly eligible opportunity into a complete text-and-image package.
 - `publish`: publish a ready package through Postiz.
 - `metrics`: refresh public metrics for published posts.
 - `review`: compare performance and record an evidence-backed next experiment.
@@ -55,7 +55,7 @@ Read only the references needed for the selected mode:
 2. Inspect `data/state.json`; determine the last successful benchmark scan time and avoid duplicate topics.
 3. Scan both benchmark feeds first. Append the discovered source posts to `benchmarkPosts` with exact status URL, timestamp, visible text, and account.
 4. In standard mode, trace every material claim to a primary source or authoritative financial reporting. In QUICK MARKET RADAR mode, capture the benchmark account and status URL, preserve attribution and the required disclosure, and do not present the claim as independently established.
-5. Rank benchmark posts by freshness, market impact, factual clarity, visual potential, and duplication risk. Store up to five one-to-one opportunities; never create an unrelated filler topic.
+5. Rank benchmark posts by freshness, market impact, factual clarity, visual potential, and duplication risk. The publishing pass selects the top 10 ready packages strictly by this production-queue score; never create an unrelated filler topic.
 6. Produce from every newly eligible benchmark post. Preserve source provenance and write independently; for an unverified or overly specific claim, make an attributed market-radar or broader trend/context post rather than stating the claim as established fact.
 7. Create one 1:1 branded image using the exact `assets/when2buy-logo-reference.png` logo and the visual rules in [brand-and-style.md](references/brand-and-style.md). Compare the draft against all three supplied style examples before accepting it.
 8. Complete research, copy, and image production autonomously. When standing or current publishing authorization exists, run `python3 scripts/postiz_publish.py --package-id <id> --confirm`. The script verifies the Postiz integration is `@_When2buy`, uploads the package image, and waits for `PUBLISHED` plus a public X URL. In QUICK MARKET RADAR mode, attribution and disclosure replace independent-verification gating; without authorization, stop at `ready`.

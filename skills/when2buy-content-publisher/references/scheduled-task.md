@@ -4,7 +4,11 @@ All times are Asia/Shanghai (UTC+8). GitHub Actions runs the Apify collection au
 
 - 08:30: collect both benchmark timelines, archive available original media, and build the source-preserving production queue. Every newly eligible original is queued for an original output; unverified claims are reframed as attributed market radar/context, never silently discarded.
 - 14:30: repeat the collection and rerank only uncovered, eligible events.
-- 20:30: repeat the collection, refresh the queue, and leave the strongest verified candidate ready for the next production pass.
+- 20:30: repeat the collection, refresh the queue, and leave the queue ranked for the next top-10 production and publication pass.
+
+## Top-10 production and publication pass
+
+At each production window, sort `ready` packages strictly by the corresponding `data/production-queue.json` score and process the top 10 independently. Continue after an item-level error; retry only safe, clearly pre-delivery failures. A success requires Postiz `PUBLISHED`, a public X URL, initialized 72-hour metrics tracking, and regenerated state/panel.
 
 ## Daily Postiz publication metrics (09:05)
 
