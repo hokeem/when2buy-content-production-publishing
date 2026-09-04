@@ -1,9 +1,399 @@
 {
-  "generatedAt": "2026-09-03T16:38:24Z",
+  "generatedAt": "2026-09-04T00:41:28Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2095621046959251780",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095621046959251780",
+      "originalText": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nSnowflake $SNOW\nPfizer $PFE\nDell Technologies $DELL\nZeta Global $ZETA\nGen Digital $GEN\nCanadian Natural Resources $CNQ\nConocoPhillips $COP\nMitsubishi Financial $MUFG\nMizuho Financial $MFG\nRemitly Global $RELY\nUltrapar $UGP\nPrincipal $PFG\nChime $CHYM\nAtlassian $TEAM\nVodafone $VOD\nDeutsche Bank $DB\nValero Energy $VLO\nRoyalty Pharma $RPRX\nSSR Mining $SSRM\nPhillips 66 $PSX\nFluor $FLR\nFrontline $FRO\nTechnipFMC $FTI\nMatch Group $MTCH\nHF Sinclair $DINO\nInstacart $CART\nMarathon Petroleum $MPC\nNOV $NOV\nIQVIA Holdings $IQV\nDeere & Company $DE\nHalozyme Therapeutics $HALO\nING Groep $ING\nRingCentral $RNG \nArcelorMittal $MT\nExelixis $EXEL\nRevvity $RVTY\nBank of Nova Scotia $BNS\nBanco Bilbao $BBVA\nUnum $UNM\nTravere Therapeutics $TVTX\nNomura Holdings ethereum:0x1776e1f26f98b1a5df9cd347953a26dd3cb46671\nVoya Financial $VOYA\nVertex Pharmaceuticals $VRTX\nInternational Seaways $INSW\nPaycom Software $PAYC\nCorpay $CPAY\nRegeneron Pharmaceuticals $REGN\nBiogen $BIIB",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 117,
+        "replies": 14,
+        "reposts": 17,
+        "quotes": 1,
+        "views": 31482
+      },
+      "postedAt": "Thu Sep 03 21:12:47 +0000 2026",
+      "score": 21,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2095580820421366163",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095580820421366163",
+      "originalText": "Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today\n\nSpaceX $SPCX +$136B\nNvidia $NVDA +$135B\nMicrosoft $MSFT +$133B\nTesla $TSLA +$100B https://t.co/eUo11kSQK1",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRT7dWPboAAGuCg.png"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT7dWPboAAGuCg.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095580820421366163-1.png",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 180,
+        "replies": 17,
+        "reposts": 17,
+        "quotes": 4,
+        "views": 28294
+      },
+      "postedAt": "Thu Sep 03 18:32:56 +0000 2026",
+      "score": 21,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 3,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2095657577606422737",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095657577606422737",
+      "originalText": "Tesla $TSLA just posted this new video of the Cybercab  https://t.co/2vXr4mN90X",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095649682307620864/img/QZcYQgyP82SDaXLL.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095649682307620864/img/QZcYQgyP82SDaXLL.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095657577606422737-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 95,
+        "replies": 8,
+        "reposts": 7,
+        "quotes": 0,
+        "views": 18733
+      },
+      "postedAt": "Thu Sep 03 23:37:56 +0000 2026",
+      "score": 20,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 4,
+      "benchmarkPostId": "2095625251199611179",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095625251199611179",
+      "originalText": "Microsoft sold $43 Million worth of $MSFT stock this week https://t.co/quAX1glQpU",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUnogIaUAAcKcz.jpg",
+        "https://pbs.twimg.com/media/HRUoCu8WQAQnaFJ.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUnogIaUAAcKcz.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095625251199611179-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUoCu8WQAQnaFJ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095625251199611179-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 166,
+        "replies": 15,
+        "reposts": 17,
+        "quotes": 4,
+        "views": 32574
+      },
+      "postedAt": "Thu Sep 03 21:29:29 +0000 2026",
+      "score": 20,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 5,
+      "benchmarkPostId": "2095605560003424271",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095605560003424271",
+      "originalText": "Lululemon $LULU stock is down by 15% in after hours following its earnings\n\n🔴🔴🔴🔴🔴 https://t.co/zxwZmluxfQ",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUWI_nbYAAaEh2.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUWI_nbYAAaEh2.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095605560003424271-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 158,
+        "replies": 22,
+        "reposts": 9,
+        "quotes": 4,
+        "views": 77251
+      },
+      "postedAt": "Thu Sep 03 20:11:14 +0000 2026",
+      "score": 20,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 6,
+      "benchmarkPostId": "2095586218176053289",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095586218176053289",
+      "originalText": "Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain\n\nIf Robinhood brought in the same revenue it did yesterday every day for the next year they would bring in more than\n\n$1 BILLION https://t.co/BKWqoLawgz",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUEPr-WMAAY72v.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUEPr-WMAAY72v.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095586218176053289-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 198,
+        "replies": 15,
+        "reposts": 21,
+        "quotes": 3,
+        "views": 42051
+      },
+      "postedAt": "Thu Sep 03 18:54:23 +0000 2026",
+      "score": 20,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 7,
+      "benchmarkPostId": "2095658272644645361",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095658272644645361",
+      "originalText": "Tesla $TSLA just said its new self driving cars will have a theater mode and be equipped with Starlink  https://t.co/qiLQJpI21c",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095648643659317251/img/NjIOuQk2YMHtTZ56.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095648643659317251/img/NjIOuQk2YMHtTZ56.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095658272644645361-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 401,
+        "replies": 20,
+        "reposts": 29,
+        "quotes": 3,
+        "views": 26218
+      },
+      "postedAt": "Thu Sep 03 23:40:42 +0000 2026",
+      "score": 19,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 8,
+      "benchmarkPostId": "2095645024985764023",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095645024985764023",
+      "originalText": "This is what $3.3 Million gets you less than 2 hours away from New York City\n\nA Pyramid house on an island https://t.co/phVHZ3wcAj",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRU54R4bcAA1aEA.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRU54R4bcAA1aEA.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095645024985764023-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 6,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 28646
+      },
+      "postedAt": "Thu Sep 03 22:48:03 +0000 2026",
+      "score": 19,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 9,
+      "benchmarkPostId": "2095595346101752181",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095595346101752181",
+      "originalText": "JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership with UMG.\n\nHook users are able to remix tracks from artists including The Weeknd, Lil Wayne, and Metro Boomin, and receive royalties alongside the artist.\n\nThis comes just days after Sony sues Anthropic over AI music training, seeking $150k per song.",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUM2-yWsAQUZHK.jpg",
+        "https://pbs.twimg.com/media/HRUM2-vWcAQJES-.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUM2-yWsAQUZHK.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095595346101752181-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUM2-vWcAQJES-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095595346101752181-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 118,
+        "replies": 13,
+        "reposts": 8,
+        "quotes": 0,
+        "views": 30202
+      },
+      "postedAt": "Thu Sep 03 19:30:39 +0000 2026",
+      "score": 19,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 10,
+      "benchmarkPostId": "2095542648807288874",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095542648807288874",
+      "originalText": "JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF speculation. https://t.co/eoGwM6JfmB",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRTc7XjWQAIqee-.jpg",
+        "https://pbs.twimg.com/media/HRTc7YMaUAEbQM0.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTc7XjWQAIqee-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095542648807288874-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTc7YMaUAEbQM0.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095542648807288874-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 656,
+        "replies": 32,
+        "reposts": 74,
+        "quotes": 11,
+        "views": 43417
+      },
+      "postedAt": "Thu Sep 03 16:01:15 +0000 2026",
+      "score": 19,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 11,
+      "benchmarkPostId": "2095495493774110970",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095495493774110970",
+      "originalText": "JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x in the past two weeks - Token Terminal. https://t.co/l5Aqop8pyO",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRSyCzfXsAMUgKv.jpg",
+        "https://pbs.twimg.com/media/HRSyCz8aAAAs0dS.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSyCzfXsAMUgKv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095495493774110970-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSyCz8aAAAs0dS.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095495493774110970-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 449,
+        "replies": 42,
+        "reposts": 29,
+        "quotes": 5,
+        "views": 39811
+      },
+      "postedAt": "Thu Sep 03 12:53:52 +0000 2026",
+      "score": 19,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 12,
       "benchmarkPostId": "2095452728918941789",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095452728918941789",
@@ -32,9 +422,9 @@
         "views": 24120
       },
       "postedAt": "Thu Sep 03 10:03:56 +0000 2026",
-      "score": 20,
+      "score": 19,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -43,7 +433,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 2,
+      "rank": 13,
       "benchmarkPostId": "2095422904456368330",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095422904456368330",
@@ -66,9 +456,9 @@
         "views": 41146
       },
       "postedAt": "Thu Sep 03 08:05:26 +0000 2026",
-      "score": 20,
+      "score": 19,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -77,7 +467,161 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 3,
+      "rank": 14,
+      "benchmarkPostId": "2095621908288946214",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095621908288946214",
+      "originalText": "JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for business clients. https://t.co/taXMLJQFhZ",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUlBIsaEAA66bw.jpg",
+        "https://pbs.twimg.com/media/HRUlBIkbAAAxm3h.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUlBIsaEAA66bw.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095621908288946214-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUlBIkbAAAxm3h.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095621908288946214-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 339,
+        "replies": 15,
+        "reposts": 9,
+        "quotes": 3,
+        "views": 26046
+      },
+      "postedAt": "Thu Sep 03 21:16:12 +0000 2026",
+      "score": 18,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 15,
+      "benchmarkPostId": "2095606516673810468",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095606516673810468",
+      "originalText": "Zscaler $ZS stock is up initially in after hours following its earnings https://t.co/aNyl92nMr6",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUW3wqWoAsyKNS.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUW3wqWoAsyKNS.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095606516673810468-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 50,
+        "replies": 6,
+        "reposts": 7,
+        "quotes": 0,
+        "views": 24558
+      },
+      "postedAt": "Thu Sep 03 20:15:02 +0000 2026",
+      "score": 18,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 16,
+      "benchmarkPostId": "2095518802452570499",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095518802452570499",
+      "originalText": "JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the bell. https://t.co/Xwj3ksus82",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRTHPiAXkAEtP9g.jpg",
+        "https://pbs.twimg.com/media/HRTHPhuW0AQ4aWM.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTHPiAXkAEtP9g.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095518802452570499-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTHPhuW0AQ4aWM.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095518802452570499-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 256,
+        "replies": 21,
+        "reposts": 15,
+        "quotes": 4,
+        "views": 35340
+      },
+      "postedAt": "Thu Sep 03 14:26:30 +0000 2026",
+      "score": 18,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 17,
+      "benchmarkPostId": "2095509354686378405",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095509354686378405",
+      "originalText": "JUST IN: $XRP price rallies 4.8% in the past 24 hours. https://t.co/wqfeeECGte",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRS-pj9WYAEVJts.jpg",
+        "https://pbs.twimg.com/media/HRS-pj9W0AEKQjG.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRS-pj9WYAEVJts.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095509354686378405-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRS-pj9W0AEKQjG.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095509354686378405-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 927,
+        "replies": 46,
+        "reposts": 103,
+        "quotes": 6,
+        "views": 44846
+      },
+      "postedAt": "Thu Sep 03 13:48:57 +0000 2026",
+      "score": 18,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 18,
       "benchmarkPostId": "2095484907938082935",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095484907938082935",
@@ -106,9 +650,9 @@
         "views": 20660
       },
       "postedAt": "Thu Sep 03 12:11:48 +0000 2026",
-      "score": 19,
+      "score": 18,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -117,7 +661,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 4,
+      "rank": 19,
       "benchmarkPostId": "2095447324449198322",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095447324449198322",
@@ -146,9 +690,9 @@
         "views": 30455
       },
       "postedAt": "Thu Sep 03 09:42:28 +0000 2026",
-      "score": 19,
+      "score": 18,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 3,
         "marketImpact": 5,
         "visualPotential": 3,
@@ -157,7 +701,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 5,
+      "rank": 20,
       "benchmarkPostId": "2095407164617560134",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095407164617560134",
@@ -186,9 +730,9 @@
         "views": 42746
       },
       "postedAt": "Thu Sep 03 07:02:53 +0000 2026",
-      "score": 19,
+      "score": 18,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -197,7 +741,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 6,
+      "rank": 21,
       "benchmarkPostId": "2095395081431773199",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095395081431773199",
@@ -220,9 +764,9 @@
         "views": 32339
       },
       "postedAt": "Thu Sep 03 06:14:52 +0000 2026",
-      "score": 19,
+      "score": 18,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -231,7 +775,141 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 7,
+      "rank": 22,
+      "benchmarkPostId": "2095637595174691054",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095637595174691054",
+      "originalText": "Is the Tesla $TSLA event happening?",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 149,
+        "replies": 26,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 31012
+      },
+      "postedAt": "Thu Sep 03 22:18:32 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 23,
+      "benchmarkPostId": "2095604149098361327",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095604149098361327",
+      "originalText": "Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq under the ticker $OURA https://t.co/OR2vklZT9v",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUU3XObcAANfSc.png"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUU3XObcAANfSc.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095604149098361327-1.png",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 79,
+        "replies": 8,
+        "reposts": 13,
+        "quotes": 2,
+        "views": 33779
+      },
+      "postedAt": "Thu Sep 03 20:05:38 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 24,
+      "benchmarkPostId": "2095604081410691167",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095604081410691167",
+      "originalText": "JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user followed by Elon Musk. https://t.co/WwvgJpMYBt",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUUzbGakAA64Cz.jpg",
+        "https://pbs.twimg.com/media/HRUUzbMbUAEwKDO.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUUzbGakAA64Cz.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095604081410691167-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUUzbMbUAEwKDO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095604081410691167-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 288,
+        "replies": 42,
+        "reposts": 53,
+        "quotes": 1,
+        "views": 38005
+      },
+      "postedAt": "Thu Sep 03 20:05:22 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 25,
+      "benchmarkPostId": "2095589894294831586",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095589894294831586",
+      "originalText": "Tesla $TSLA just posted this video ahead of their Cybercab event later tonight\n\n“The future has arrived in Austin” https://t.co/j7C9DBLANK",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095588472174288896/img/N1btlzct-oJiaw6n.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095588472174288896/img/N1btlzct-oJiaw6n.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095589894294831586-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 358,
+        "replies": 15,
+        "reposts": 20,
+        "quotes": 3,
+        "views": 39393
+      },
+      "postedAt": "Thu Sep 03 19:08:59 +0000 2026",
+      "score": 17,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 26,
       "benchmarkPostId": "2095441173636604329",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095441173636604329",
@@ -260,9 +938,9 @@
         "views": 26347
       },
       "postedAt": "Thu Sep 03 09:18:01 +0000 2026",
-      "score": 18,
+      "score": 17,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -271,7 +949,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 8,
+      "rank": 27,
       "benchmarkPostId": "2095432476726366373",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095432476726366373",
@@ -300,9 +978,9 @@
         "views": 29376
       },
       "postedAt": "Thu Sep 03 08:43:28 +0000 2026",
-      "score": 18,
+      "score": 17,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -311,7 +989,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 9,
+      "rank": 28,
       "benchmarkPostId": "2095388710502039635",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2095388710502039635",
@@ -340,9 +1018,9 @@
         "views": 31716
       },
       "postedAt": "Thu Sep 03 05:49:33 +0000 2026",
-      "score": 18,
+      "score": 17,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
@@ -351,175 +1029,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 10,
-      "benchmarkPostId": "2095483102520840604",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095483102520840604",
-      "originalText": "Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging Face for \n\n$12,930,300,000.00 https://t.co/Wru86WklAF",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRSmxHDXwAc2VNv.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRSmxHDXwAc2VNv.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2095483102520840604-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 154,
-        "replies": 6,
-        "reposts": 17,
-        "quotes": 1,
-        "views": 32711
-      },
-      "postedAt": "Thu Sep 03 12:04:38 +0000 2026",
-      "score": 17,
-      "scoreBreakdown": {
-        "freshness": 4,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 11,
-      "benchmarkPostId": "2095472251269157058",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095472251269157058",
-      "originalText": "Scotiabank started coverage on $SOFI stock with a $25 price target and an Outperform rating",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 24,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "views": 9872
-      },
-      "postedAt": "Thu Sep 03 11:21:31 +0000 2026",
-      "score": 17,
-      "scoreBreakdown": {
-        "freshness": 4,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 12,
-      "benchmarkPostId": "2095458198014620094",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095458198014620094",
-      "originalText": "JUST IN: 🇯🇵 Bank of Japan leans toward raising rates from 1% to 1.25% this month - Bloomberg. https://t.co/p3HWsZkJId",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRSQHt9XUAEm6qv.jpg",
-        "https://pbs.twimg.com/media/HRSQHuXbEAAN4xo.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRSQHt9XUAEm6qv.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095458198014620094-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRSQHuXbEAAN4xo.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095458198014620094-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 414,
-        "replies": 30,
-        "reposts": 42,
-        "quotes": 3,
-        "views": 26158
-      },
-      "postedAt": "Thu Sep 03 10:25:40 +0000 2026",
-      "score": 17,
-      "scoreBreakdown": {
-        "freshness": 4,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 13,
-      "benchmarkPostId": "2094568791762215155",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094568791762215155",
-      "originalText": "ANTHROPIC JUST SIGNED A $35 BILLION CLOUD DEAL, AND NVIDIA IS THE LANDLORD\n\nThe deal is with Lambda, an Nvidia-backed cloud provider, but Nvidia itself holds the lease on the actual data center\n\nThe data center is being built by Hut 8 in Nueces County, Texas. Nvidia signed its own agreement with Hut 8 a few weeks ago to lock down the capacity.\n\nLambda will use the space to plug in chips it bought from Nvidia, which is also its investor. - WSJ",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFm9PhW8AA_-t0.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094568791762215155-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 661,
-        "replies": 35,
-        "reposts": 68,
-        "quotes": 14,
-        "views": 59820
-      },
-      "postedAt": "Mon Aug 31 23:31:29 +0000 2026",
-      "score": 17,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 14,
-      "benchmarkPostId": "2094567351962255556",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094567351962255556",
-      "originalText": "A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER\n\nThere is now a 55% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% in September https://t.co/Vt4dUtgul9",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFls0nWgAATxF4.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094567351962255556-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 75,
-        "replies": 21,
-        "reposts": 11,
-        "quotes": 1,
-        "views": 23979
-      },
-      "postedAt": "Mon Aug 31 23:25:46 +0000 2026",
-      "score": 17,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 15,
+      "rank": 29,
       "benchmarkPostId": "2094749779653800408",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094749779653800408",
@@ -559,7 +1069,347 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 16,
+      "rank": 30,
+      "benchmarkPostId": "2095626594484154874",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095626594484154874",
+      "originalText": "JUST IN: $BTC surpasses $82,000. https://t.co/YvSo8VML69",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUpRzfaUAAeo_1.jpg",
+        "https://pbs.twimg.com/media/HRUpRzkaIAAQhbu.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUpRzfaUAAeo_1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095626594484154874-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUpRzkaIAAQhbu.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095626594484154874-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 437,
+        "replies": 32,
+        "reposts": 30,
+        "quotes": 8,
+        "views": 28904
+      },
+      "postedAt": "Thu Sep 03 21:34:49 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 31,
+      "benchmarkPostId": "2095607202224443703",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095607202224443703",
+      "originalText": "Adobe $ADBE just announced that Anil Chakravarthy will take over as the next CEO of the company",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 93,
+        "replies": 10,
+        "reposts": 10,
+        "quotes": 0,
+        "views": 32013
+      },
+      "postedAt": "Thu Sep 03 20:17:46 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 32,
+      "benchmarkPostId": "2095598809787036057",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095598809787036057",
+      "originalText": "JUST IN: Flap releases the first DeFi lending yield product around bStocks memes, powered by BNBCHAIN. https://t.co/RMvkvIFdI6",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRUQAd7XAAMfuMP.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUQAd7XAAMfuMP.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095598809787036057-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 200,
+        "replies": 22,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 26912
+      },
+      "postedAt": "Thu Sep 03 19:44:25 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 33,
+      "benchmarkPostId": "2095587575339659391",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095587575339659391",
+      "originalText": "The CEO of Strategy $MSTR is on this live stream right now ⬇️",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 29,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 28195
+      },
+      "postedAt": "Thu Sep 03 18:59:46 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 34,
+      "benchmarkPostId": "2095580903158227350",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095580903158227350",
+      "originalText": "JUST IN: 119,453 crypto traders were liquidated in the past 24 hours. https://t.co/N292b05npG",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRT_uCibMAAhK6P.jpg",
+        "https://pbs.twimg.com/media/HRT_uB1WgAQ7yq1.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT_uCibMAAhK6P.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095580903158227350-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT_uB1WgAQ7yq1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095580903158227350-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 594,
+        "replies": 38,
+        "reposts": 24,
+        "quotes": 0,
+        "views": 32306
+      },
+      "postedAt": "Thu Sep 03 18:33:15 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 35,
+      "benchmarkPostId": "2095533985652686930",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095533985652686930",
+      "originalText": "JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. https://t.co/wh4eeaoXWu",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRTVDJgakAAW-W5.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTVDJgakAAW-W5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095533985652686930-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 672,
+        "replies": 52,
+        "reposts": 57,
+        "quotes": 9,
+        "views": 45469
+      },
+      "postedAt": "Thu Sep 03 15:26:49 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 36,
+      "benchmarkPostId": "2095524216011456777",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095524216011456777",
+      "originalText": "JUST IN: You can now trade 1000X leverage on new trading site https://t.co/zXSp1C00px. https://t.co/Rzi1b9JLM2",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRTMKMOWMAEQrB8.jpg",
+        "https://pbs.twimg.com/media/HRTMKMobsAADZr-.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTMKMOWMAEQrB8.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095524216011456777-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTMKMobsAADZr-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095524216011456777-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 146,
+        "replies": 20,
+        "reposts": 10,
+        "quotes": 1,
+        "views": 30993
+      },
+      "postedAt": "Thu Sep 03 14:48:00 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 37,
+      "benchmarkPostId": "2095483102520840604",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095483102520840604",
+      "originalText": "Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging Face for \n\n$12,930,300,000.00 https://t.co/Wru86WklAF",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRSmxHDXwAc2VNv.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSmxHDXwAc2VNv.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095483102520840604-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 154,
+        "replies": 6,
+        "reposts": 17,
+        "quotes": 1,
+        "views": 32711
+      },
+      "postedAt": "Thu Sep 03 12:04:38 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 38,
+      "benchmarkPostId": "2095472251269157058",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095472251269157058",
+      "originalText": "Scotiabank started coverage on $SOFI stock with a $25 price target and an Outperform rating",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 24,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 9872
+      },
+      "postedAt": "Thu Sep 03 11:21:31 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 39,
+      "benchmarkPostId": "2095458198014620094",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095458198014620094",
+      "originalText": "JUST IN: 🇯🇵 Bank of Japan leans toward raising rates from 1% to 1.25% this month - Bloomberg. https://t.co/p3HWsZkJId",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRSQHt9XUAEm6qv.jpg",
+        "https://pbs.twimg.com/media/HRSQHuXbEAAN4xo.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSQHt9XUAEm6qv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095458198014620094-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSQHuXbEAAN4xo.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095458198014620094-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 414,
+        "replies": 30,
+        "reposts": 42,
+        "quotes": 3,
+        "views": 26158
+      },
+      "postedAt": "Thu Sep 03 10:25:40 +0000 2026",
+      "score": 16,
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 40,
       "benchmarkPostId": "2094715511569256676",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094715511569256676",
@@ -599,7 +1449,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 17,
+      "rank": 41,
       "benchmarkPostId": "2094700443565772862",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094700443565772862",
@@ -639,7 +1489,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 18,
+      "rank": 42,
       "benchmarkPostId": "2094683837808644389",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094683837808644389",
@@ -679,7 +1529,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 19,
+      "rank": 43,
       "benchmarkPostId": "2094671438951092233",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094671438951092233",
@@ -719,7 +1569,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 20,
+      "rank": 44,
       "benchmarkPostId": "2094660485085794525",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094660485085794525",
@@ -759,33 +1609,67 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 21,
-      "benchmarkPostId": "2094545613836722658",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094545613836722658",
-      "originalText": "Robinhood $HOOD CEO Vlad Tenev just posted this:\n\n\"Robinhood Banking has crossed $4B in assets.\"",
+      "rank": 45,
+      "benchmarkPostId": "2095575763814629437",
+      "benchmarkAccount": "WhaleInsider",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095575763814629437",
+      "originalText": "JUST IN: Martian’s AI Frontier is now live, letting users compare AI models across quality, cost, reliability, and real-world tasks.",
       "originalMediaUrls": [],
       "archivedMedia": [],
       "engagement": {
-        "likes": 126,
-        "replies": 6,
-        "reposts": 10,
-        "quotes": 0,
-        "views": 37157
+        "likes": 123,
+        "replies": 14,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 32740
       },
-      "postedAt": "Mon Aug 31 21:59:23 +0000 2026",
+      "postedAt": "Thu Sep 03 18:12:50 +0000 2026",
       "score": 15,
       "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       },
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 22,
+      "rank": 46,
+      "benchmarkPostId": "2095574123720126479",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095574123720126479",
+      "originalText": "OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIGENT MODEL\n\nOpenAI says Astra leads the market in software engineering, science, and cybersecurity\n\nPresident Greg Brockman said the model \"represents a generational leap in capability\" and could arguably meet the bar for artificial general intelligence\n\nOpenAI is rolling Astra out first to a small group of businesses to work through cybersecurity concerns before wider availability in the coming days - Financial Times",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRT5dpiboAAwroJ.png"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT5dpiboAAwroJ.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095574123720126479-1.png",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 122,
+        "replies": 13,
+        "reposts": 8,
+        "quotes": 1,
+        "views": 43002
+      },
+      "postedAt": "Thu Sep 03 18:06:19 +0000 2026",
+      "score": 15,
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 47,
       "benchmarkPostId": "2094707697350295566",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094707697350295566",
@@ -825,161 +1709,33 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 23,
-      "benchmarkPostId": "2095489853974589823",
+      "rank": 48,
+      "benchmarkPostId": "2095576748448424284",
       "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095489853974589823",
-      "originalText": "206K people filed for unemployment this past week in the United States 🇺🇸, basically in line with expectations",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095576748448424284",
+      "originalText": "OPENAI'S GREG BROCKMAN JUST SAID: \"WELCOME TO THE AGI ERA\"",
       "originalMediaUrls": [],
       "archivedMedia": [],
       "engagement": {
-        "likes": 23,
-        "replies": 7,
-        "reposts": 6,
-        "quotes": 0,
-        "views": 10513
+        "likes": 247,
+        "replies": 15,
+        "reposts": 16,
+        "quotes": 4,
+        "views": 44371
       },
-      "postedAt": "Thu Sep 03 12:31:28 +0000 2026",
+      "postedAt": "Thu Sep 03 18:16:45 +0000 2026",
       "score": 14,
       "scoreBreakdown": {
         "freshness": 4,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 24,
-      "benchmarkPostId": "2094535439570878878",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094535439570878878",
-      "originalText": "APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 299,
-        "replies": 17,
-        "reposts": 20,
-        "quotes": 0,
-        "views": 37469
-      },
-      "postedAt": "Mon Aug 31 21:18:58 +0000 2026",
-      "score": 14,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 25,
-      "benchmarkPostId": "2094505511924175323",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094505511924175323",
-      "originalText": "CrowdStrike $CRWD stock hit new ALL TIME HIGHS today https://t.co/iPF06ypVWk",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HREtqLsWoAAI66B.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HREtqLsWoAAI66B.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094505511924175323-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 224,
-        "replies": 12,
-        "reposts": 13,
-        "quotes": 6,
-        "views": 34575
-      },
-      "postedAt": "Mon Aug 31 19:20:02 +0000 2026",
-      "score": 14,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 26,
-      "benchmarkPostId": "2094505080540090521",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094505080540090521",
-      "originalText": "JUST IN: 🇺🇸 President Trump’s approval rating remains at 33%, the lowest level of his political career - Reuters/Ipsos. https://t.co/LixaCSDCMK",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HREtRMAWMAEE1M-.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HREtRMAWMAEE1M-.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094505080540090521-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 252,
-        "replies": 25,
-        "reposts": 11,
-        "quotes": 1,
-        "views": 32886
-      },
-      "postedAt": "Mon Aug 31 19:18:19 +0000 2026",
-      "score": 14,
-      "scoreBreakdown": {
-        "freshness": 1,
         "when2buyFit": 1,
         "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 27,
-      "benchmarkPostId": "2095263514336100844",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095263514336100844",
-      "originalText": "This is a real headline by the way ... https://t.co/KMyR7CKchq",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRPfCfeXwAQmZKF.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRPfCfeXwAQmZKF.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2095263514336100844-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 60,
-        "replies": 4,
-        "reposts": 3,
-        "quotes": 1,
-        "views": 42792
-      },
-      "postedAt": "Wed Sep 02 21:32:04 +0000 2026",
-      "score": 13,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 0,
-        "marketImpact": 3,
         "visualPotential": 3,
-        "factualClarity": 4
+        "factualClarity": 3
       },
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 28,
+      "rank": 49,
       "benchmarkPostId": "2094708901077819742",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094708901077819742",
@@ -1019,173 +1775,25 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 29,
-      "benchmarkPostId": "2094518004851540314",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094518004851540314",
-      "originalText": "JUST IN: 🇺🇸 66% chance of President Trump being impeached during his term, per Kalshi traders. https://t.co/fER03S0fZG",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRE5BWfW0AICpyL.jpg",
-        "https://pbs.twimg.com/media/HRE5BWrXAAAZ6Mh.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRE5BWfW0AICpyL.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094518004851540314-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRE5BWrXAAAZ6Mh.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094518004851540314-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 370,
-        "replies": 42,
-        "reposts": 31,
-        "quotes": 2,
-        "views": 36985
-      },
-      "postedAt": "Mon Aug 31 20:09:41 +0000 2026",
-      "score": 13,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 30,
-      "benchmarkPostId": "2094503202980868236",
+      "rank": 50,
+      "benchmarkPostId": "2095489853974589823",
       "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094503202980868236",
-      "originalText": "Meta Platforms $META CEO Mark Zuckerberg just posted this \n\n“Muse Code is out of beta and now built to handle bigger, more complex engineering tasks.“\n\n“Workflows can break out a task across multiple focused agents, carry the intermediate work between stages, and return one result at the end. Good for engineering work that's too complex for a single agent.￼”",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRErj9vWgAANFPC.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRErj9vWgAANFPC.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094503202980868236-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 147,
-        "replies": 14,
-        "reposts": 3,
-        "quotes": 2,
-        "views": 37944
-      },
-      "postedAt": "Mon Aug 31 19:10:52 +0000 2026",
-      "score": 13,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 31,
-      "benchmarkPostId": "2094493720263397836",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094493720263397836",
-      "originalText": "JUST IN: Bitwise’s $XRP ETF has surpassed $500,000,000 in assets under management just nine months after launch. https://t.co/uI0P5Algns",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HREi74-WEAAQ3nn.jpg",
-        "https://pbs.twimg.com/media/HREi75lW8AAVIeZ.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HREi74-WEAAQ3nn.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094493720263397836-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HREi75lW8AAVIeZ.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094493720263397836-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 958,
-        "replies": 33,
-        "reposts": 105,
-        "quotes": 5,
-        "views": 42735
-      },
-      "postedAt": "Mon Aug 31 18:33:11 +0000 2026",
-      "score": 13,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 32,
-      "benchmarkPostId": "2094490737547067842",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094490737547067842",
-      "originalText": "$META is my largest single stock holding 🫡",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095489853974589823",
+      "originalText": "206K people filed for unemployment this past week in the United States 🇺🇸, basically in line with expectations",
       "originalMediaUrls": [],
       "archivedMedia": [],
       "engagement": {
-        "likes": 417,
-        "replies": 32,
-        "reposts": 8,
-        "quotes": 1,
-        "views": 61921
+        "likes": 23,
+        "replies": 7,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 10513
       },
-      "postedAt": "Mon Aug 31 18:21:20 +0000 2026",
+      "postedAt": "Thu Sep 03 12:31:28 +0000 2026",
       "score": 13,
       "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 3
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 33,
-      "benchmarkPostId": "2094524356210602289",
-      "benchmarkAccount": "StockMKTNewz",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2094524356210602289",
-      "originalText": "This is how every stock in the S&amp;P 500 performed today https://t.co/2LY0ET94Ho",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRE-zF-XoAAdxap.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRE-zF-XoAAdxap.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2094524356210602289-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 70,
-        "replies": 10,
-        "reposts": 8,
-        "quotes": 1,
-        "views": 28038
-      },
-      "postedAt": "Mon Aug 31 20:34:55 +0000 2026",
-      "score": 12,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
+        "freshness": 3,
+        "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
@@ -1193,7 +1801,41 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 34,
+      "rank": 51,
+      "benchmarkPostId": "2095263514336100844",
+      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095263514336100844",
+      "originalText": "This is a real headline by the way ... https://t.co/KMyR7CKchq",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRPfCfeXwAQmZKF.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPfCfeXwAQmZKF.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095263514336100844-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 60,
+        "replies": 4,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 42792
+      },
+      "postedAt": "Wed Sep 02 21:32:04 +0000 2026",
+      "score": 12,
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
+    },
+    {
+      "rank": 52,
       "benchmarkPostId": "2094736124874821910",
       "benchmarkAccount": "WhaleInsider",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2094736124874821910",
@@ -1216,86 +1858,6 @@
         "views": 34564
       },
       "postedAt": "Tue Sep 01 10:36:25 +0000 2026",
-      "score": 11,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 35,
-      "benchmarkPostId": "2094528834208952805",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094528834208952805",
-      "originalText": "JUST IN: 🇺🇸 S&amp;P 500 posts its highest monthly close ever. https://t.co/E0kEoXng22",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRFC3vRXMAAQvR5.jpg",
-        "https://pbs.twimg.com/media/HRFC3vHXwAE-13V.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFC3vRXMAAQvR5.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094528834208952805-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRFC3vHXwAE-13V.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094528834208952805-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 679,
-        "replies": 36,
-        "reposts": 29,
-        "quotes": 5,
-        "views": 43292
-      },
-      "postedAt": "Mon Aug 31 20:52:43 +0000 2026",
-      "score": 11,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 36,
-      "benchmarkPostId": "2094467570732548406",
-      "benchmarkAccount": "WhaleInsider",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2094467570732548406",
-      "originalText": "JUST IN: 🇺🇸 Hyperliquid in talks with Kraken parent Payward about a potential U.S. market entry. https://t.co/TJgRvJQVNY",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRELI07W4AACzF4.jpg",
-        "https://pbs.twimg.com/media/HRELI05XsAAPz1i.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRELI07W4AACzF4.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094467570732548406-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRELI05XsAAPz1i.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2094467570732548406-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 770,
-        "replies": 43,
-        "reposts": 93,
-        "quotes": 17,
-        "views": 51221
-      },
-      "postedAt": "Mon Aug 31 16:49:16 +0000 2026",
       "score": 11,
       "scoreBreakdown": {
         "freshness": 1,

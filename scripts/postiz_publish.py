@@ -39,8 +39,10 @@ def main():
   if released: break
   time.sleep(5)
  if not released: raise SystemExit(f'Postiz queued {postiz_id}; no public release URL within {a.wait_seconds}s.')
- pkg['status']='published';pkg['postizPostId']=postiz_id;pkg['publishedAt']=released['publishDate']; url=released['releaseURL'].replace('twitter.com','x.com')
- s['posts'].append({'id':str(released['releaseId']),'packageId':pkg['id'],'title':pkg.get('title',''),'status':'published','publishedAt':released['publishDate'],'url':url,'postizPostId':postiz_id})
+ published_at=released['publishDate']; published_dt=datetime.fromisoformat(published_at.replace('Z','+00:00'))
+ window_end=(published_dt+timedelta(hours=72)).isoformat(timespec='seconds').replace('+00:00','Z')
+ pkg['status']='published';pkg['postizPostId']=postiz_id;pkg['publishedAt']=published_at; url=released['releaseURL'].replace('twitter.com','x.com')
+ s['posts'].append({'id':str(released['releaseId']),'packageId':pkg['id'],'title':pkg.get('title',''),'status':'published','publishedAt':published_at,'url':url,'postizPostId':postiz_id,'metricsTracking':{'status':'active','windowStart':published_at,'windowEnd':window_end,'lastAttemptAt':None,'lastAttemptSource':None,'lastAttemptResult':None}})
  s['runs'].append({'id':f"run-{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}-publish",'mode':'publish','status':'succeeded','startedAt':datetime.now(timezone.utc).isoformat(),'completedAt':datetime.now(timezone.utc).isoformat(),'summary':'Published through Postiz and verified a public X release URL.','reason':''})
  errors=state.validate(s)
  if errors: raise SystemExit('\n'.join(errors))

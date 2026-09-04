@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T16:38:24.022340+00:00",
+  "updatedAt": "2026-09-04T00:44:00.395851+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -2760,6 +2760,807 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095658272644645361",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095658272644645361",
+      "postedAt": "Thu Sep 03 23:40:42 +0000 2026",
+      "text": "Tesla $TSLA just said its new self driving cars will have a theater mode and be equipped with Starlink  https://t.co/qiLQJpI21c",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095648643659317251/img/NjIOuQk2YMHtTZ56.jpg"
+      ],
+      "engagement": {
+        "likes": 401,
+        "replies": 20,
+        "reposts": 29,
+        "quotes": 3,
+        "views": 26218
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095648643659317251/img/NjIOuQk2YMHtTZ56.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095658272644645361-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095657577606422737",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095657577606422737",
+      "postedAt": "Thu Sep 03 23:37:56 +0000 2026",
+      "text": "Tesla $TSLA just posted this new video of the Cybercab  https://t.co/2vXr4mN90X",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095649682307620864/img/QZcYQgyP82SDaXLL.jpg"
+      ],
+      "engagement": {
+        "likes": 95,
+        "replies": 8,
+        "reposts": 7,
+        "quotes": 0,
+        "views": 18733
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095649682307620864/img/QZcYQgyP82SDaXLL.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095657577606422737-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095645024985764023",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095645024985764023",
+      "postedAt": "Thu Sep 03 22:48:03 +0000 2026",
+      "text": "This is what $3.3 Million gets you less than 2 hours away from New York City\n\nA Pyramid house on an island https://t.co/phVHZ3wcAj",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRU54R4bcAA1aEA.jpg"
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 6,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 28646
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRU54R4bcAA1aEA.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095645024985764023-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095637595174691054",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095637595174691054",
+      "postedAt": "Thu Sep 03 22:18:32 +0000 2026",
+      "text": "Is the Tesla $TSLA event happening?",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 149,
+        "replies": 26,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 31012
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095626594484154874",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095626594484154874",
+      "postedAt": "Thu Sep 03 21:34:49 +0000 2026",
+      "text": "JUST IN: $BTC surpasses $82,000. https://t.co/YvSo8VML69",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUpRzfaUAAeo_1.jpg",
+        "https://pbs.twimg.com/media/HRUpRzkaIAAQhbu.jpg"
+      ],
+      "engagement": {
+        "likes": 437,
+        "replies": 32,
+        "reposts": 30,
+        "quotes": 8,
+        "views": 28904
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUpRzfaUAAeo_1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095626594484154874-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUpRzkaIAAQhbu.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095626594484154874-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095625251199611179",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095625251199611179",
+      "postedAt": "Thu Sep 03 21:29:29 +0000 2026",
+      "text": "Microsoft sold $43 Million worth of $MSFT stock this week https://t.co/quAX1glQpU",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUnogIaUAAcKcz.jpg",
+        "https://pbs.twimg.com/media/HRUoCu8WQAQnaFJ.jpg"
+      ],
+      "engagement": {
+        "likes": 166,
+        "replies": 15,
+        "reposts": 17,
+        "quotes": 4,
+        "views": 32574
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUnogIaUAAcKcz.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095625251199611179-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUoCu8WQAQnaFJ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095625251199611179-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095621908288946214",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095621908288946214",
+      "postedAt": "Thu Sep 03 21:16:12 +0000 2026",
+      "text": "JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for business clients. https://t.co/taXMLJQFhZ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUlBIsaEAA66bw.jpg",
+        "https://pbs.twimg.com/media/HRUlBIkbAAAxm3h.jpg"
+      ],
+      "engagement": {
+        "likes": 339,
+        "replies": 15,
+        "reposts": 9,
+        "quotes": 3,
+        "views": 26046
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUlBIsaEAA66bw.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095621908288946214-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUlBIkbAAAxm3h.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095621908288946214-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095621046959251780",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095621046959251780",
+      "postedAt": "Thu Sep 03 21:12:47 +0000 2026",
+      "text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nSnowflake $SNOW\nPfizer $PFE\nDell Technologies $DELL\nZeta Global $ZETA\nGen Digital $GEN\nCanadian Natural Resources $CNQ\nConocoPhillips $COP\nMitsubishi Financial $MUFG\nMizuho Financial $MFG\nRemitly Global $RELY\nUltrapar $UGP\nPrincipal $PFG\nChime $CHYM\nAtlassian $TEAM\nVodafone $VOD\nDeutsche Bank $DB\nValero Energy $VLO\nRoyalty Pharma $RPRX\nSSR Mining $SSRM\nPhillips 66 $PSX\nFluor $FLR\nFrontline $FRO\nTechnipFMC $FTI\nMatch Group $MTCH\nHF Sinclair $DINO\nInstacart $CART\nMarathon Petroleum $MPC\nNOV $NOV\nIQVIA Holdings $IQV\nDeere & Company $DE\nHalozyme Therapeutics $HALO\nING Groep $ING\nRingCentral $RNG \nArcelorMittal $MT\nExelixis $EXEL\nRevvity $RVTY\nBank of Nova Scotia $BNS\nBanco Bilbao $BBVA\nUnum $UNM\nTravere Therapeutics $TVTX\nNomura Holdings ethereum:0x1776e1f26f98b1a5df9cd347953a26dd3cb46671\nVoya Financial $VOYA\nVertex Pharmaceuticals $VRTX\nInternational Seaways $INSW\nPaycom Software $PAYC\nCorpay $CPAY\nRegeneron Pharmaceuticals $REGN\nBiogen $BIIB",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 117,
+        "replies": 14,
+        "reposts": 17,
+        "quotes": 1,
+        "views": 31482
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095607202224443703",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095607202224443703",
+      "postedAt": "Thu Sep 03 20:17:46 +0000 2026",
+      "text": "Adobe $ADBE just announced that Anil Chakravarthy will take over as the next CEO of the company",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 93,
+        "replies": 10,
+        "reposts": 10,
+        "quotes": 0,
+        "views": 32013
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095606516673810468",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095606516673810468",
+      "postedAt": "Thu Sep 03 20:15:02 +0000 2026",
+      "text": "Zscaler $ZS stock is up initially in after hours following its earnings https://t.co/aNyl92nMr6",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUW3wqWoAsyKNS.jpg"
+      ],
+      "engagement": {
+        "likes": 50,
+        "replies": 6,
+        "reposts": 7,
+        "quotes": 0,
+        "views": 24558
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUW3wqWoAsyKNS.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095606516673810468-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095605560003424271",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095605560003424271",
+      "postedAt": "Thu Sep 03 20:11:14 +0000 2026",
+      "text": "Lululemon $LULU stock is down by 15% in after hours following its earnings\n\n🔴🔴🔴🔴🔴 https://t.co/zxwZmluxfQ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUWI_nbYAAaEh2.jpg"
+      ],
+      "engagement": {
+        "likes": 158,
+        "replies": 22,
+        "reposts": 9,
+        "quotes": 4,
+        "views": 77251
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUWI_nbYAAaEh2.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095605560003424271-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095604149098361327",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095604149098361327",
+      "postedAt": "Thu Sep 03 20:05:38 +0000 2026",
+      "text": "Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq under the ticker $OURA https://t.co/OR2vklZT9v",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUU3XObcAANfSc.png"
+      ],
+      "engagement": {
+        "likes": 79,
+        "replies": 8,
+        "reposts": 13,
+        "quotes": 2,
+        "views": 33779
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUU3XObcAANfSc.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095604149098361327-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095604081410691167",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095604081410691167",
+      "postedAt": "Thu Sep 03 20:05:22 +0000 2026",
+      "text": "JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user followed by Elon Musk. https://t.co/WwvgJpMYBt",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUUzbGakAA64Cz.jpg",
+        "https://pbs.twimg.com/media/HRUUzbMbUAEwKDO.jpg"
+      ],
+      "engagement": {
+        "likes": 288,
+        "replies": 42,
+        "reposts": 53,
+        "quotes": 1,
+        "views": 38005
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUUzbGakAA64Cz.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095604081410691167-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUUzbMbUAEwKDO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095604081410691167-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095598809787036057",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095598809787036057",
+      "postedAt": "Thu Sep 03 19:44:25 +0000 2026",
+      "text": "JUST IN: Flap releases the first DeFi lending yield product around bStocks memes, powered by BNBCHAIN. https://t.co/RMvkvIFdI6",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUQAd7XAAMfuMP.jpg"
+      ],
+      "engagement": {
+        "likes": 200,
+        "replies": 22,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 26912
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUQAd7XAAMfuMP.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095598809787036057-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095595346101752181",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095595346101752181",
+      "postedAt": "Thu Sep 03 19:30:39 +0000 2026",
+      "text": "JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership with UMG.\n\nHook users are able to remix tracks from artists including The Weeknd, Lil Wayne, and Metro Boomin, and receive royalties alongside the artist.\n\nThis comes just days after Sony sues Anthropic over AI music training, seeking $150k per song.",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUM2-yWsAQUZHK.jpg",
+        "https://pbs.twimg.com/media/HRUM2-vWcAQJES-.jpg"
+      ],
+      "engagement": {
+        "likes": 118,
+        "replies": 13,
+        "reposts": 8,
+        "quotes": 0,
+        "views": 30202
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUM2-yWsAQUZHK.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095595346101752181-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUM2-vWcAQJES-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095595346101752181-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095589894294831586",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095589894294831586",
+      "postedAt": "Thu Sep 03 19:08:59 +0000 2026",
+      "text": "Tesla $TSLA just posted this video ahead of their Cybercab event later tonight\n\n“The future has arrived in Austin” https://t.co/j7C9DBLANK",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095588472174288896/img/N1btlzct-oJiaw6n.jpg"
+      ],
+      "engagement": {
+        "likes": 358,
+        "replies": 15,
+        "reposts": 20,
+        "quotes": 3,
+        "views": 39393
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095588472174288896/img/N1btlzct-oJiaw6n.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095589894294831586-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095587575339659391",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095587575339659391",
+      "postedAt": "Thu Sep 03 18:59:46 +0000 2026",
+      "text": "The CEO of Strategy $MSTR is on this live stream right now ⬇️",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 29,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 28195
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095586218176053289",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095586218176053289",
+      "postedAt": "Thu Sep 03 18:54:23 +0000 2026",
+      "text": "Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain\n\nIf Robinhood brought in the same revenue it did yesterday every day for the next year they would bring in more than\n\n$1 BILLION https://t.co/BKWqoLawgz",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRUEPr-WMAAY72v.jpg"
+      ],
+      "engagement": {
+        "likes": 198,
+        "replies": 15,
+        "reposts": 21,
+        "quotes": 3,
+        "views": 42051
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRUEPr-WMAAY72v.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095586218176053289-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095580903158227350",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095580903158227350",
+      "postedAt": "Thu Sep 03 18:33:15 +0000 2026",
+      "text": "JUST IN: 119,453 crypto traders were liquidated in the past 24 hours. https://t.co/N292b05npG",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRT_uCibMAAhK6P.jpg",
+        "https://pbs.twimg.com/media/HRT_uB1WgAQ7yq1.jpg"
+      ],
+      "engagement": {
+        "likes": 594,
+        "replies": 38,
+        "reposts": 24,
+        "quotes": 0,
+        "views": 32306
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT_uCibMAAhK6P.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095580903158227350-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT_uB1WgAQ7yq1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095580903158227350-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095580820421366163",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095580820421366163",
+      "postedAt": "Thu Sep 03 18:32:56 +0000 2026",
+      "text": "Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today\n\nSpaceX $SPCX +$136B\nNvidia $NVDA +$135B\nMicrosoft $MSFT +$133B\nTesla $TSLA +$100B https://t.co/eUo11kSQK1",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRT7dWPboAAGuCg.png"
+      ],
+      "engagement": {
+        "likes": 180,
+        "replies": 17,
+        "reposts": 17,
+        "quotes": 4,
+        "views": 28294
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT7dWPboAAGuCg.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095580820421366163-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095576748448424284",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095576748448424284",
+      "postedAt": "Thu Sep 03 18:16:45 +0000 2026",
+      "text": "OPENAI'S GREG BROCKMAN JUST SAID: \"WELCOME TO THE AGI ERA\"",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 247,
+        "replies": 15,
+        "reposts": 16,
+        "quotes": 4,
+        "views": 44371
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095575763814629437",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095575763814629437",
+      "postedAt": "Thu Sep 03 18:12:50 +0000 2026",
+      "text": "JUST IN: Martian’s AI Frontier is now live, letting users compare AI models across quality, cost, reliability, and real-world tasks.",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 123,
+        "replies": 14,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 32740
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095574123720126479",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095574123720126479",
+      "postedAt": "Thu Sep 03 18:06:19 +0000 2026",
+      "text": "OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIGENT MODEL\n\nOpenAI says Astra leads the market in software engineering, science, and cybersecurity\n\nPresident Greg Brockman said the model \"represents a generational leap in capability\" and could arguably meet the bar for artificial general intelligence\n\nOpenAI is rolling Astra out first to a small group of businesses to work through cybersecurity concerns before wider availability in the coming days - Financial Times",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRT5dpiboAAwroJ.png"
+      ],
+      "engagement": {
+        "likes": 122,
+        "replies": 13,
+        "reposts": 8,
+        "quotes": 1,
+        "views": 43002
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT5dpiboAAwroJ.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095574123720126479-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095542648807288874",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095542648807288874",
+      "postedAt": "Thu Sep 03 16:01:15 +0000 2026",
+      "text": "JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF speculation. https://t.co/eoGwM6JfmB",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTc7XjWQAIqee-.jpg",
+        "https://pbs.twimg.com/media/HRTc7YMaUAEbQM0.jpg"
+      ],
+      "engagement": {
+        "likes": 656,
+        "replies": 32,
+        "reposts": 74,
+        "quotes": 11,
+        "views": 43417
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTc7XjWQAIqee-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095542648807288874-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTc7YMaUAEbQM0.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095542648807288874-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095533985652686930",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095533985652686930",
+      "postedAt": "Thu Sep 03 15:26:49 +0000 2026",
+      "text": "JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. https://t.co/wh4eeaoXWu",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTVDJgakAAW-W5.jpg"
+      ],
+      "engagement": {
+        "likes": 672,
+        "replies": 52,
+        "reposts": 57,
+        "quotes": 9,
+        "views": 45469
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTVDJgakAAW-W5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095533985652686930-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095524216011456777",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095524216011456777",
+      "postedAt": "Thu Sep 03 14:48:00 +0000 2026",
+      "text": "JUST IN: You can now trade 1000X leverage on new trading site https://t.co/zXSp1C00px. https://t.co/Rzi1b9JLM2",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTMKMOWMAEQrB8.jpg",
+        "https://pbs.twimg.com/media/HRTMKMobsAADZr-.jpg"
+      ],
+      "engagement": {
+        "likes": 146,
+        "replies": 20,
+        "reposts": 10,
+        "quotes": 1,
+        "views": 30993
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTMKMOWMAEQrB8.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095524216011456777-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTMKMobsAADZr-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095524216011456777-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095518802452570499",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095518802452570499",
+      "postedAt": "Thu Sep 03 14:26:30 +0000 2026",
+      "text": "JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the bell. https://t.co/Xwj3ksus82",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTHPiAXkAEtP9g.jpg",
+        "https://pbs.twimg.com/media/HRTHPhuW0AQ4aWM.jpg"
+      ],
+      "engagement": {
+        "likes": 256,
+        "replies": 21,
+        "reposts": 15,
+        "quotes": 4,
+        "views": 35340
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTHPiAXkAEtP9g.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095518802452570499-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTHPhuW0AQ4aWM.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095518802452570499-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095509354686378405",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095509354686378405",
+      "postedAt": "Thu Sep 03 13:48:57 +0000 2026",
+      "text": "JUST IN: $XRP price rallies 4.8% in the past 24 hours. https://t.co/wqfeeECGte",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRS-pj9WYAEVJts.jpg",
+        "https://pbs.twimg.com/media/HRS-pj9W0AEKQjG.jpg"
+      ],
+      "engagement": {
+        "likes": 927,
+        "replies": 46,
+        "reposts": 103,
+        "quotes": 6,
+        "views": 44846
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRS-pj9WYAEVJts.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095509354686378405-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRS-pj9W0AEKQjG.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095509354686378405-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095495493774110970",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095495493774110970",
+      "postedAt": "Thu Sep 03 12:53:52 +0000 2026",
+      "text": "JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x in the past two weeks - Token Terminal. https://t.co/l5Aqop8pyO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRSyCzfXsAMUgKv.jpg",
+        "https://pbs.twimg.com/media/HRSyCz8aAAAs0dS.jpg"
+      ],
+      "engagement": {
+        "likes": 449,
+        "replies": 42,
+        "reposts": 29,
+        "quotes": 5,
+        "views": 39811
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T00:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSyCzfXsAMUgKv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095495493774110970-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRSyCz8aAAAs0dS.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095495493774110970-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -3959,6 +4760,557 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095621046959251780",
+      "rank": 1,
+      "title": "All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell …",
+      "benchmarkPostId": "2095621046959251780",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095621046959251780",
+      "score": 21,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095580820421366163",
+      "rank": 2,
+      "title": "Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far…",
+      "benchmarkPostId": "2095580820421366163",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095580820421366163",
+      "score": 21,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 3,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095657577606422737",
+      "rank": 3,
+      "title": "Tesla $TSLA just posted this new video of the Cybercab https://t.co/2vXr4mN90X",
+      "benchmarkPostId": "2095657577606422737",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095657577606422737",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095625251199611179",
+      "rank": 4,
+      "title": "Microsoft sold $43 Million worth of $MSFT stock this week https://t.co/quAX1glQpU",
+      "benchmarkPostId": "2095625251199611179",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095625251199611179",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095605560003424271",
+      "rank": 5,
+      "title": "Lululemon $LULU stock is down by 15% in after hours following its earnings 🔴🔴🔴🔴🔴 https://t.c…",
+      "benchmarkPostId": "2095605560003424271",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095605560003424271",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095586218176053289",
+      "rank": 6,
+      "title": "Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood br…",
+      "benchmarkPostId": "2095586218176053289",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095586218176053289",
+      "score": 20,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095658272644645361",
+      "rank": 7,
+      "title": "Tesla $TSLA just said its new self driving cars will have a theater mode and be equipped wit…",
+      "benchmarkPostId": "2095658272644645361",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095658272644645361",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095645024985764023",
+      "rank": 8,
+      "title": "This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house…",
+      "benchmarkPostId": "2095645024985764023",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095645024985764023",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095595346101752181",
+      "rank": 9,
+      "title": "JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via part…",
+      "benchmarkPostId": "2095595346101752181",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095595346101752181",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095542648807288874",
+      "rank": 10,
+      "title": "JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid grow…",
+      "benchmarkPostId": "2095542648807288874",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095542648807288874",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095495493774110970",
+      "rank": 11,
+      "title": "JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, …",
+      "benchmarkPostId": "2095495493774110970",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095495493774110970",
+      "score": 19,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095621908288946214",
+      "rank": 14,
+      "title": "JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for busin…",
+      "benchmarkPostId": "2095621908288946214",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095621908288946214",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095606516673810468",
+      "rank": 15,
+      "title": "Zscaler $ZS stock is up initially in after hours following its earnings https://t.co/aNyl92n…",
+      "benchmarkPostId": "2095606516673810468",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095606516673810468",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095518802452570499",
+      "rank": 16,
+      "title": "JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the be…",
+      "benchmarkPostId": "2095518802452570499",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095518802452570499",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095509354686378405",
+      "rank": 17,
+      "title": "JUST IN: $XRP price rallies 4.8% in the past 24 hours. https://t.co/wqfeeECGte",
+      "benchmarkPostId": "2095509354686378405",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095509354686378405",
+      "score": 18,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095637595174691054",
+      "rank": 22,
+      "title": "Is the Tesla $TSLA event happening?",
+      "benchmarkPostId": "2095637595174691054",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095637595174691054",
+      "score": 17,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2095604149098361327",
+      "rank": 23,
+      "title": "Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq unde…",
+      "benchmarkPostId": "2095604149098361327",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095604149098361327",
+      "score": 17,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095604081410691167",
+      "rank": 24,
+      "title": "JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user follow…",
+      "benchmarkPostId": "2095604081410691167",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095604081410691167",
+      "score": 17,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095589894294831586",
+      "rank": 25,
+      "title": "Tesla $TSLA just posted this video ahead of their Cybercab event later tonight “The future h…",
+      "benchmarkPostId": "2095589894294831586",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095589894294831586",
+      "score": 17,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095626594484154874",
+      "rank": 30,
+      "title": "JUST IN: $BTC surpasses $82,000. https://t.co/YvSo8VML69",
+      "benchmarkPostId": "2095626594484154874",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095626594484154874",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2095607202224443703",
+      "rank": 31,
+      "title": "Adobe $ADBE just announced that Anil Chakravarthy will take over as the next CEO of the comp…",
+      "benchmarkPostId": "2095607202224443703",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095607202224443703",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095598809787036057",
+      "rank": 32,
+      "title": "JUST IN: Flap releases the first DeFi lending yield product around bStocks memes, powered by…",
+      "benchmarkPostId": "2095598809787036057",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095598809787036057",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095587575339659391",
+      "rank": 33,
+      "title": "The CEO of Strategy $MSTR is on this live stream right now ⬇️",
+      "benchmarkPostId": "2095587575339659391",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095587575339659391",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095580903158227350",
+      "rank": 34,
+      "title": "JUST IN: 119,453 crypto traders were liquidated in the past 24 hours. https://t.co/N292b05np…",
+      "benchmarkPostId": "2095580903158227350",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095580903158227350",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095533985652686930",
+      "rank": 35,
+      "title": "JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours…",
+      "benchmarkPostId": "2095533985652686930",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095533985652686930",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095524216011456777",
+      "rank": 36,
+      "title": "JUST IN: You can now trade 1000X leverage on new trading site https://t.co/zXSp1C00px. https…",
+      "benchmarkPostId": "2095524216011456777",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095524216011456777",
+      "score": 16,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095575763814629437",
+      "rank": 45,
+      "title": "JUST IN: Martian’s AI Frontier is now live, letting users compare AI models across quality, …",
+      "benchmarkPostId": "2095575763814629437",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095575763814629437",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095574123720126479",
+      "rank": 46,
+      "title": "OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIGENT MODEL OpenAI says …",
+      "benchmarkPostId": "2095574123720126479",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095574123720126479",
+      "score": 15,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095576748448424284",
+      "rank": 48,
+      "title": "OPENAI'S GREG BROCKMAN JUST SAID: \"WELCOME TO THE AGI ERA\"",
+      "benchmarkPostId": "2095576748448424284",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095576748448424284",
+      "score": 14,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T00:41:28Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
     }
   ],
   "packages": [
@@ -4584,6 +5936,530 @@
       "createdAt": "2026-09-03T12:44:40.721440+00:00",
       "postizPostId": "cmtliovxn02p8lm0yjisr3dkk",
       "publishedAt": "2026-09-03T12:44:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-tesla-tsla-just-said-its-new-self-driving-cars-w-45361",
+      "benchmarkPostId": "2095658272644645361",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095658272644645361",
+      "title": "Tesla product-feature market radar",
+      "status": "published",
+      "postText": "Tesla $TSLA feature radar.\n\n@StockMKTNewz says its new self-driving cars will include Theater Mode and Starlink.\n\nProduct context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Tesla $TSLA just said its new self driving cars will have a theater mode and be equipped with Starlink"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095658272644645361"
+      ],
+      "imagePath": "deliverables/pkg-20260904-tesla-tsla-just-said-its-new-self-driving-cars-w-45361/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:41:58.920338+00:00",
+      "postizPostId": "cmtm8dd590anblm0yw2441vji",
+      "publishedAt": "2026-09-04T00:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-tesla-tsla-just-posted-this-new-video-of-the-cyb-22737",
+      "benchmarkPostId": "2095657577606422737",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095657577606422737",
+      "title": "Tesla $TSLA just posted this new video of the Cybercab",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Tesla $TSLA just posted this new video of the Cybercab\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Tesla $TSLA just posted this new video of the Cybercab"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095657577606422737"
+      ],
+      "imagePath": "deliverables/pkg-20260904-tesla-tsla-just-posted-this-new-video-of-the-cyb-22737/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:41:59.013754+00:00"
+    },
+    {
+      "id": "pkg-20260904-this-is-what-3-3-million-gets-you-less-than-2-ho-64023",
+      "benchmarkPostId": "2095645024985764023",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095645024985764023",
+      "title": "This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is what $3.3 Million gets you less than 2 hours away from New Yor\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an island"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095645024985764023"
+      ],
+      "imagePath": "deliverables/pkg-20260904-this-is-what-3-3-million-gets-you-less-than-2-ho-64023/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:41:59.181210+00:00"
+    },
+    {
+      "id": "pkg-20260904-is-the-tesla-tsla-event-happening-91054",
+      "benchmarkPostId": "2095637595174691054",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095637595174691054",
+      "title": "Is the Tesla $TSLA event happening?",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Is the Tesla $TSLA event happening?\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Is the Tesla $TSLA event happening?"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095637595174691054"
+      ],
+      "imagePath": "deliverables/pkg-20260904-is-the-tesla-tsla-event-happening-91054/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:41:59.352315+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-btc-surpasses-82-000-54874",
+      "benchmarkPostId": "2095626594484154874",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095626594484154874",
+      "title": "JUST IN: $BTC surpasses $82,000.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC surpasses $82,000.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $BTC surpasses $82,000."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095626594484154874"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-btc-surpasses-82-000-54874/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:41:59.520903+00:00"
+    },
+    {
+      "id": "pkg-20260904-microsoft-sold-43-million-worth-of-msft-stock-th-11179",
+      "benchmarkPostId": "2095625251199611179",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095625251199611179",
+      "title": "Microsoft sold $43 Million worth of $MSFT stock this week",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Microsoft sold $43 Million worth of $MSFT stock this week\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Microsoft sold $43 Million worth of $MSFT stock this week"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095625251199611179"
+      ],
+      "imagePath": "deliverables/pkg-20260904-microsoft-sold-43-million-worth-of-msft-stock-th-11179/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:41:59.703824+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-spacexai-spcx-launches-grok-bot-for-ente-46214",
+      "benchmarkPostId": "2095621908288946214",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095621908288946214",
+      "title": "JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for business clie",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-wee\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for business clients."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095621908288946214"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-spacexai-spcx-launches-grok-bot-for-ente-46214/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:41:59.880838+00:00"
+    },
+    {
+      "id": "pkg-20260904-all-these-stocks-hit-new-52-week-highs-at-some-p-51780",
+      "benchmarkPostId": "2095621046959251780",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095621046959251780",
+      "title": "All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technologies $DELL Zeta Global $ZETA Gen Digital $GEN Canadian Natural Resources $CNQ ConocoPhillips $COP Mitsubishi Financial $MUFG Mizuho Financial $MFG Remitly Global $RELY Ultrapar $UGP Principal $PFG Chime $CHYM Atlassian $TEAM Vodafone $VOD Deutsche Bank $DB Valero Energy $VLO Royalty Pharma $RPRX SSR Mining $SSRM Phillips 66 $PSX Fluor $FLR Frontline $FRO TechnipFMC $FTI Match Group $MTCH HF Sinclair $DINO Instacart $CART Marathon Petroleum $MPC NOV $NOV IQVIA Holdings $IQV Deere & Company $DE Halozyme Therapeutics $HALO ING Groep $ING RingCentral $RNG ArcelorMittal $MT Exelixis $EXEL Revvity $RVTY Bank of Nova Scotia $BNS Banco Bilbao $BBVA Unum $UNM Travere Therapeutics $TVTX Nomura Holdings ethereum:0x1776e1f26f98b1a5df9cd347953a26dd3cb46671 Voya Financial $VOYA Vertex Pharmaceuticals $VRTX International Seaways $INSW Paycom Software $PAYC Corpay $CPAY Regeneron Pharmaceuticals $REGN Biogen $BIIB"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095621046959251780"
+      ],
+      "imagePath": "deliverables/pkg-20260904-all-these-stocks-hit-new-52-week-highs-at-some-p-51780/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.006304+00:00"
+    },
+    {
+      "id": "pkg-20260904-adobe-adbe-just-announced-that-anil-chakravarthy-43703",
+      "benchmarkPostId": "2095607202224443703",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095607202224443703",
+      "title": "Adobe $ADBE just announced that Anil Chakravarthy will take over as the next CEO of the company",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Adobe $ADBE just announced that Anil Chakravarthy will take over as th\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Adobe $ADBE just announced that Anil Chakravarthy will take over as the next CEO of the company"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095607202224443703"
+      ],
+      "imagePath": "deliverables/pkg-20260904-adobe-adbe-just-announced-that-anil-chakravarthy-43703/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.127562+00:00"
+    },
+    {
+      "id": "pkg-20260904-zscaler-zs-stock-is-up-initially-in-after-hours--10468",
+      "benchmarkPostId": "2095606516673810468",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095606516673810468",
+      "title": "Zscaler $ZS stock is up initially in after hours following its earnings",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Zscaler $ZS stock is up initially in after hours following its earning\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Zscaler $ZS stock is up initially in after hours following its earnings"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095606516673810468"
+      ],
+      "imagePath": "deliverables/pkg-20260904-zscaler-zs-stock-is-up-initially-in-after-hours--10468/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.294210+00:00"
+    },
+    {
+      "id": "pkg-20260904-lululemon-lulu-stock-is-down-by-15-in-after-hour-24271",
+      "benchmarkPostId": "2095605560003424271",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095605560003424271",
+      "title": "Lululemon $LULU stock is down by 15% in after hours following its earnings 🔴🔴🔴🔴🔴",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Lululemon $LULU stock is down by 15% in after hours following its earn\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Lululemon $LULU stock is down by 15% in after hours following its earnings 🔴🔴🔴🔴🔴"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095605560003424271"
+      ],
+      "imagePath": "deliverables/pkg-20260904-lululemon-lulu-stock-is-down-by-15-in-after-hour-24271/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.376313+00:00"
+    },
+    {
+      "id": "pkg-20260904-smart-ring-maker-oura-just-filed-to-go-public-in-61327",
+      "benchmarkPostId": "2095604149098361327",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095604149098361327",
+      "title": "Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq under the ti",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Smart ring maker Oura just filed to go public in the US through a list\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq under the ticker $OURA"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095604149098361327"
+      ],
+      "imagePath": "deliverables/pkg-20260904-smart-ring-maker-oura-just-filed-to-go-public-in-61327/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.457259+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-doge-1-on-robinhood-chain-rallies-158-af-91167",
+      "benchmarkPostId": "2095604081410691167",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095604081410691167",
+      "title": "JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user followed by El",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledg\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user followed by Elon Musk."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095604081410691167"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-doge-1-on-robinhood-chain-rallies-158-af-91167/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.538468+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-flap-releases-the-first-defi-lending-yie-36057",
+      "benchmarkPostId": "2095598809787036057",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095598809787036057",
+      "title": "JUST IN: Flap releases the first DeFi lending yield product around bStocks memes, powered by BNBCHAI",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Flap releases the first DeFi lending yield product around bSt\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Flap releases the first DeFi lending yield product around bStocks memes, powered by BNBCHAIN."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095598809787036057"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-flap-releases-the-first-defi-lending-yie-36057/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.638370+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-hook-has-launched-licensed-music-remix-p-52181",
+      "benchmarkPostId": "2095595346101752181",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095595346101752181",
+      "title": "JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership ",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Hook has launched licensed music remix platform with a 20m+ s\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership with UMG. Hook users are able to remix tracks from artists including The Weeknd, Lil Wayne, and Metro Boomin, and receive royalties alongside the artist. This comes just days after Sony sues Anthropic over AI music training, seeking $150k per song."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095595346101752181"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-hook-has-launched-licensed-music-remix-p-52181/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.736119+00:00"
+    },
+    {
+      "id": "pkg-20260904-tesla-tsla-just-posted-this-video-ahead-of-their-31586",
+      "benchmarkPostId": "2095589894294831586",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095589894294831586",
+      "title": "Tesla $TSLA just posted this video ahead of their Cybercab event later tonight “The future has arriv",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Tesla $TSLA just posted this video ahead of their Cybercab event later\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Tesla $TSLA just posted this video ahead of their Cybercab event later tonight “The future has arrived in Austin”"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095589894294831586"
+      ],
+      "imagePath": "deliverables/pkg-20260904-tesla-tsla-just-posted-this-video-ahead-of-their-31586/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.827188+00:00"
+    },
+    {
+      "id": "pkg-20260904-the-ceo-of-strategy-mstr-is-on-this-live-stream--59391",
+      "benchmarkPostId": "2095587575339659391",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095587575339659391",
+      "title": "The CEO of Strategy $MSTR is on this live stream right now ⬇️",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: The CEO of Strategy $MSTR is on this live stream right now ⬇️\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "The CEO of Strategy $MSTR is on this live stream right now ⬇️"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095587575339659391"
+      ],
+      "imagePath": "deliverables/pkg-20260904-the-ceo-of-strategy-mstr-is-on-this-live-stream--59391/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:00.910453+00:00"
+    },
+    {
+      "id": "pkg-20260904-here-is-how-much-fees-robinhood-hood-has-generat-53289",
+      "benchmarkPostId": "2095586218176053289",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095586218176053289",
+      "title": "Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Here is how much fees Robinhood $HOOD has generated from its Robinhood\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in the same revenue it did yesterday every day for the next year they would bring in more than $1 BILLION"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095586218176053289"
+      ],
+      "imagePath": "deliverables/pkg-20260904-here-is-how-much-fees-robinhood-hood-has-generat-53289/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.021052+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-119-453-crypto-traders-were-liquidated-i-27350",
+      "benchmarkPostId": "2095580903158227350",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095580903158227350",
+      "title": "JUST IN: 119,453 crypto traders were liquidated in the past 24 hours.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 119,453 crypto traders were liquidated in the past 24 hours.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 119,453 crypto traders were liquidated in the past 24 hours."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095580903158227350"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-119-453-crypto-traders-were-liquidated-i-27350/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.137519+00:00"
+    },
+    {
+      "id": "pkg-20260904-each-of-these-4-stocks-have-seen-their-market-ca-66163",
+      "benchmarkPostId": "2095580820421366163",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095580820421366163",
+      "title": "Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Each of these 4 stocks have seen their market caps increase by more th\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today SpaceX $SPCX +$136B Nvidia $NVDA +$135B Microsoft $MSFT +$133B Tesla $TSLA +$100B"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095580820421366163"
+      ],
+      "imagePath": "deliverables/pkg-20260904-each-of-these-4-stocks-have-seen-their-market-ca-66163/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.333817+00:00"
+    },
+    {
+      "id": "pkg-20260904-openai-s-greg-brockman-just-said-welcome-to-the--24284",
+      "benchmarkPostId": "2095576748448424284",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095576748448424284",
+      "title": "OPENAI'S GREG BROCKMAN JUST SAID: \"WELCOME TO THE AGI ERA\"",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: OPENAI'S GREG BROCKMAN JUST SAID: \"WELCOME TO THE AGI ERA\"\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "OPENAI'S GREG BROCKMAN JUST SAID: \"WELCOME TO THE AGI ERA\""
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095576748448424284"
+      ],
+      "imagePath": "deliverables/pkg-20260904-openai-s-greg-brockman-just-said-welcome-to-the--24284/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.424741+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-martian-s-ai-frontier-is-now-live-lettin-29437",
+      "benchmarkPostId": "2095575763814629437",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095575763814629437",
+      "title": "JUST IN: Martian’s AI Frontier is now live, letting users compare AI models across quality, cost, re",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Martian’s AI Frontier is now live, letting users compare AI m\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Martian’s AI Frontier is now live, letting users compare AI models across quality, cost, reliability, and real-world tasks."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095575763814629437"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-martian-s-ai-frontier-is-now-live-lettin-29437/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.497597+00:00"
+    },
+    {
+      "id": "pkg-20260904-openai-just-released-gpt-6-astra-calling-it-the--26479",
+      "benchmarkPostId": "2095574123720126479",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095574123720126479",
+      "title": "OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIGENT MODEL OpenAI says Astra le",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIG\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIGENT MODEL OpenAI says Astra leads the market in software engineering, science, and cybersecurity President Greg Brockman said the model \"represents a generational leap in capability\" and could arguably meet the bar for artificial general intelligence OpenAI is rolling Astra out first to a small group of businesses to work through cybersecurity concerns before wider availability in the coming days - Financial Times"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095574123720126479"
+      ],
+      "imagePath": "deliverables/pkg-20260904-openai-just-released-gpt-6-astra-calling-it-the--26479/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.582397+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-pepe-surges-13-in-24-hours-as-on-chain-d-88874",
+      "benchmarkPostId": "2095542648807288874",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095542648807288874",
+      "title": "JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF ",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF speculation."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095542648807288874"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-pepe-surges-13-in-24-hours-as-on-chain-d-88874/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.663248+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-169-000-000-worth-of-shorts-liquidated-f-86930",
+      "benchmarkPostId": "2095533985652686930",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095533985652686930",
+      "title": "JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $169,000,000 worth of shorts liquidated from the crypto marke\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095533985652686930"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-169-000-000-worth-of-shorts-liquidated-f-86930/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.736563+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-you-can-now-trade-1000x-leverage-on-new--56777",
+      "benchmarkPostId": "2095524216011456777",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095524216011456777",
+      "title": "JUST IN: You can now trade 1000X leverage on new trading site",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: You can now trade 1000X leverage on new trading site\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: You can now trade 1000X leverage on new trading site"
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095524216011456777"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-you-can-now-trade-1000x-leverage-on-new--56777/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.808761+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-roblox-rblx-posts-its-strongest-market-o-70499",
+      "benchmarkPostId": "2095518802452570499",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095518802452570499",
+      "title": "JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the bell.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Roblox $RBLX posts its strongest market open in months, openi\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the bell."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095518802452570499"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-roblox-rblx-posts-its-strongest-market-o-70499/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.886371+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-xrp-price-rallies-4-8-in-the-past-24-hou-78405",
+      "benchmarkPostId": "2095509354686378405",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095509354686378405",
+      "title": "JUST IN: $XRP price rallies 4.8% in the past 24 hours.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $XRP price rallies 4.8% in the past 24 hours.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $XRP price rallies 4.8% in the past 24 hours."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095509354686378405"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-xrp-price-rallies-4-8-in-the-past-24-hou-78405/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:01.957611+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-daily-trading-volume-on-uniswap-s-robinh-10970",
+      "benchmarkPostId": "2095495493774110970",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095495493774110970",
+      "title": "JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x in the past two weeks - Token Terminal."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095495493774110970"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-daily-trading-volume-on-uniswap-s-robinh-10970/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T00:42:02.105540+00:00"
     }
   ],
   "posts": [
@@ -4820,6 +6696,23 @@
         "lastAttemptAt": "2026-09-03T12:45:41.455349Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095674191865692472",
+      "packageId": "pkg-20260904-tesla-tsla-just-said-its-new-self-driving-cars-w-45361",
+      "title": "Tesla product-feature market radar",
+      "status": "published",
+      "publishedAt": "2026-09-04T00:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095674191865692472",
+      "postizPostId": "cmtm8dd590anblm0yw2441vji",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T00:43:00.000Z",
+        "windowEnd": "2026-09-07T00:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -6439,6 +8332,64 @@
       "startedAt": "2026-09-03T16:38:24Z",
       "completedAt": "2026-09-03T16:38:24Z",
       "summary": "Prepared 36 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T004100Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T00:41:00Z",
+      "completedAt": "2026-09-04T00:41:00Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 29 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260904T004128Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T00:41:28Z",
+      "completedAt": "2026-09-04T00:41:28Z",
+      "summary": "Prepared 52 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T004202Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T00:42:02.105585+00:00",
+      "completedAt": "2026-09-04T00:42:02.105590+00:00",
+      "summary": "Created 29 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T004307Z-package-refine",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T00:43:07.041901+00:00",
+      "completedAt": "2026-09-04T00:43:07.041913+00:00",
+      "summary": "Refined newest Tesla market-radar package with original copy and entity-led visual.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T004333Z-publish-retry",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-04T00:43:33.150460+00:00",
+      "completedAt": "2026-09-04T00:43:33.150475+00:00",
+      "summary": "Postiz rejected initial Tesla package as too long; shortened copy for one safe retry.",
+      "reason": "Postiz HTTP 400: post is too long."
+    },
+    {
+      "id": "run-20260904T004400Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T00:44:00.395309+00:00",
+      "completedAt": "2026-09-04T00:44:00.395313+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]
