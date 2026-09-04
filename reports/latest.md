@@ -1,16 +1,22 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T06:45:34.764326+00:00`
+- 状态更新：`2026-09-04T09:26:21.094118+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**184**
-- 待选选题：**144**
+- 对标帖子快照：**190**
+- 待选选题：**150**
 - 待发布制作包：**70**
-- 已验证发布：**39**
+- 已验证发布：**40**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 04 06:49:17 +0000 2026 | JUST IN: BlackRock clients buy $72.07 million worth of $ETH. https://t.co/sp4lEpxAR6 | [X](https://x.com/WhaleInsider/status/2095766131956990320) |
+| @WhaleInsider | Fri Sep 04 07:18:15 +0000 2026 | JUST IN: Bitwise and Franklin ETF clients buy a combined $6.14 million worth of $XRP. https://t.co/RQf0nzkwJn | [X](https://x.com/WhaleInsider/status/2095773421531463758) |
+| @WhaleInsider | Fri Sep 04 08:18:39 +0000 2026 | JUST IN: YCombinator dev launches $RCOMBINATOR on Robinhood Chain. https://t.co/DdatgyG4SG | [X](https://x.com/WhaleInsider/status/2095788618207961240) |
+| @WhaleInsider | Fri Sep 04 08:20:49 +0000 2026 | JUST IN: Monero $XMR privacy coin rallies 17% in the past 7 days. https://t.co/eXtIFj6tMd | [X](https://x.com/WhaleInsider/status/2095789163169673283) |
+| @WhaleInsider | Fri Sep 04 08:49:02 +0000 2026 | JUST IN: 🇰🇷 South Korea looking to bring stocks, bonds, and funds to the blockchain for 24/7 trading. https://t.co/OsvvCoeNwN | [X](https://x.com/WhaleInsider/status/2095796264314998871) |
+| @WhaleInsider | Fri Sep 04 09:13:34 +0000 2026 | JUST IN: 🇺🇸 Major U.S. enforcement group, the NSA, now supports the CLARITY Act. https://t.co/H4htHZzZEg | [X](https://x.com/WhaleInsider/status/2095802439580393655) |
 | @WhaleInsider | Fri Sep 04 05:37:52 +0000 2026 | JUST IN: BlackRock clients buy $453.96 million worth of $BTC. https://t.co/kpudUam0g6 | [X](https://x.com/WhaleInsider/status/2095748158001131691) |
 | @StockMKTNewz | Fri Sep 04 01:12:01 +0000 2026 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no steering wheel to the public according to @SawyerMerritt   https://t.co/6Hz8dn9YHM | [X](https://x.com/StockMKTNewz/status/2095681253504651266) |
 | @StockMKTNewz | Fri Sep 04 01:28:22 +0000 2026 | Jim Cramer was just asked about $IREN stock:  “If you’re going to do neoclouds, the only one I like is CoreWeave.” | [X](https://x.com/StockMKTNewz/status/2095685369031278901) |
@@ -35,12 +41,6 @@
 | @StockMKTNewz | Thu Sep 03 18:04:07 +0000 2026 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | [X](https://x.com/StockMKTNewz/status/2095573569849700552) |
 | @WhaleInsider | Wed Sep 02 04:44:45 +0000 2026 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. https://t.co/pZDW4KmWgF | [X](https://x.com/WhaleInsider/status/2095010013710278779) |
 | @WhaleInsider | Wed Sep 02 05:19:12 +0000 2026 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. https://t.co/gmqHNFvz3U | [X](https://x.com/WhaleInsider/status/2095018683512857038) |
-| @WhaleInsider | Wed Sep 02 06:08:47 +0000 2026 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. https://t.co/KBTaMvxKRn | [X](https://x.com/WhaleInsider/status/2095031163773440065) |
-| @WhaleInsider | Wed Sep 02 10:56:35 +0000 2026 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/9yQvGL0uyt | [X](https://x.com/WhaleInsider/status/2095103588028535044) |
-| @WhaleInsider | Wed Sep 02 11:34:46 +0000 2026 | NEW: XYO and Gate AI team up to launch XYO crypto cards. https://t.co/kJwdxDQtt5 https://t.co/UfwRLSHDAE | [X](https://x.com/WhaleInsider/status/2095113199389495519) |
-| @WhaleInsider | Wed Sep 02 12:05:39 +0000 2026 | JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform rating. https://t.co/YquuZR6Wfc | [X](https://x.com/WhaleInsider/status/2095120971413790757) |
-| @StockMKTNewz | Wed Sep 02 13:07:31 +0000 2026 | SEPTEMBER RATE HIKE ODDS  There is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% this month  There is currently a 44% chance that Kevin Warsh and the 🇺🇸 Fed make no changes to rates this month https://t.co/zArobzPEcZ | [X](https://x.com/StockMKTNewz/status/2095136541538386124) |
-| @StockMKTNewz | Wed Sep 02 13:22:47 +0000 2026 | Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of AI as a way to enhance growth  “Every single country needs to build infrastructure so you can support your own local economy”  In his remarks, Huang said that the “single worst outcome” for a country is “being left behind.” The Nvidia chief warned that could happen if the public and policymakers let fears about AI drive the conversation about the technology.   “We have to make sure that we are balanced in talking about it”  (Source Bloomberg) | [X](https://x.com/StockMKTNewz/status/2095140381386031505) |
 
 ## 选题推荐
 
@@ -139,6 +139,7 @@
 | 35 | JUST IN: Tom Lee’s BitMine bought 53,501 $ETH last week, bringing the total to 5.9 million E… | WhaleInsider | 15 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 35 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours… | WhaleInsider | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 35 | 🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT … | StockMKTNewz | 50133 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 35 | JUST IN: BlackRock clients buy $72.07 million worth of $ETH. https://t.co/sp4lEpxAR6 | WhaleInsider | 42448 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 36 | This is how the 🇺🇸 stock market performed today https://t.co/pV4ZezDX6o | StockMKTNewz | 14 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 36 | JUST IN: You can now trade 1000X leverage on new trading site https://t.co/zXSp1C00px. https… | WhaleInsider | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 36 | I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought it at the end of the da… | StockMKTNewz | 49534 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -160,6 +161,7 @@
 | 48 | OPENAI'S GREG BROCKMAN JUST SAID: "WELCOME TO THE AGI ERA" | StockMKTNewz | 14 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 49 | This is what the Linkedin of the new CEO of Apple $AAPL 🍏 looks like https://t.co/UiyGAd3LQZ | StockMKTNewz | 13 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 49 | Tim Apple cooked the market during his time as the CEO of Apple $AAPL https://t.co/l6mb6LWf9… | StockMKTNewz | 44258 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 49 | JUST IN: Bitwise and Franklin ETF clients buy a combined $6.14 million worth of $XRP. https:… | WhaleInsider | 39073 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 50 | This is how every stock in the S&amp;P 500 performed today https://t.co/2LY0ET94Ho | StockMKTNewz | 12 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 50 | Costco $COST just reported revenue of $23.7 Billion of revenue in August up 9.9% YoY https:/… | StockMKTNewz | 44205 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 51 | JUST IN: Jim Cramer says rate cuts look unlikely. https://t.co/B5QERjPFss | WhaleInsider | 11 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -180,11 +182,15 @@
 | 72 | SMN analyst number 5 is in the region to monitor the situation | StockMKTNewz | 37770 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 76 | Southwest Airlines $LUV plans to roll out its first-ever lounge network next year - Bloomber… | StockMKTNewz | 36937 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 79 | Here is some of the stuff that our partners at BTQ Technologies have done so far in 2026 👀 h… | StockMKTNewz | 35777 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 82 | JUST IN: YCombinator dev launches $RCOMBINATOR on Robinhood Chain. https://t.co/DdatgyG4SG | WhaleInsider | 27254 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 84 | POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launched Perps on the platfo… | StockMKTNewz | 34521 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 84 | JUST IN: BlackRock clients buy $453.96 million worth of $BTC. https://t.co/kpudUam0g6 | WhaleInsider | 31019 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 84 | JUST IN: Monero $XMR privacy coin rallies 17% in the past 7 days. https://t.co/eXtIFj6tMd | WhaleInsider | 24666 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 85 | Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢 https://t.co/Wwq2UAfk3g | StockMKTNewz | 34156 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 85 | JUST IN: 🇰🇷 South Korea looking to bring stocks, bonds, and funds to the blockchain for 24/7… | WhaleInsider | 24191 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 87 | Snowflake $SNOW is starting trading today up by more than 20% following its earnings last ni… | StockMKTNewz | 33485 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 89 | JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club… | StockMKTNewz | 32788 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 89 | JUST IN: 🇺🇸 Major U.S. enforcement group, the NSA, now supports the CLARITY Act. https://t.c… | WhaleInsider | 12640 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 90 | Hugging Face x Nvidia $NVDA https://t.co/uPGEFGDVq7 | StockMKTNewz | 32742 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 92 | Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of … | StockMKTNewz | 32106 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 94 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading htt… | StockMKTNewz | 31096 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -956,6 +962,13 @@ Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offe
 
 Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $453.96 million worth of $BTC.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
+### BlackRock clients buy $72.07M of ETH
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260904-blackrock-eth-7207m-market-radar/when2buy-market-radar.png`
+
+BlackRock clients bought $72.07M of $ETH, according to @WhaleInsider.  Market radar — reported by @WhaleInsider; not independently verified.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -1000,9 +1013,13 @@ Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $453.96 mill
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095765184359088366) |
+| BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095805634109382831) |
 
 ## 最近运行
 
+- `2026-09-04T09:26:21.093208+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-04T09:19:11Z` **queue / succeeded** — Prepared 93 one-to-one production candidate(s).
+- `2026-09-04T09:19:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 6 new post(s).
 - `2026-09-04T06:45:34.763062+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T06:45:02.666074+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T06:44:30.560577+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1020,6 +1037,3 @@ Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $453.96 mill
 - `2026-09-04T04:51:06.799385+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:50:35.267527+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:50:02.723852+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:49:27.668421+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:47:58.104909+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:47:25.091716+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

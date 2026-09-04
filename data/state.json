@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T06:45:34.764326+00:00",
+  "updatedAt": "2026-09-04T09:26:21.094118+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -4919,6 +4919,204 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095802439580393655",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095802439580393655",
+      "postedAt": "Fri Sep 04 09:13:34 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Major U.S. enforcement group, the NSA, now supports the CLARITY Act. https://t.co/H4htHZzZEg",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXJNbcWEAYAh_M.jpg",
+        "https://pbs.twimg.com/media/HRXJNb5agAAPpas.jpg"
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 12,
+        "reposts": 9,
+        "quotes": 2,
+        "views": 10970
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T09:19:03Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXJNbcWEAYAh_M.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095802439580393655-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXJNb5agAAPpas.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095802439580393655-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095796264314998871",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095796264314998871",
+      "postedAt": "Fri Sep 04 08:49:02 +0000 2026",
+      "text": "JUST IN: 🇰🇷 South Korea looking to bring stocks, bonds, and funds to the blockchain for 24/7 trading. https://t.co/OsvvCoeNwN",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRXDl_qaoAAveFQ.jpg",
+        "https://pbs.twimg.com/media/HRXDl_tbAAAwuvL.jpg"
+      ],
+      "engagement": {
+        "likes": 218,
+        "replies": 34,
+        "reposts": 12,
+        "quotes": 3,
+        "views": 17691
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T09:19:03Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXDl_qaoAAveFQ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095796264314998871-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRXDl_tbAAAwuvL.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095796264314998871-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095789163169673283",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095789163169673283",
+      "postedAt": "Fri Sep 04 08:20:49 +0000 2026",
+      "text": "JUST IN: Monero $XMR privacy coin rallies 17% in the past 7 days. https://t.co/eXtIFj6tMd",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRW9IpCW0AEU67M.jpg",
+        "https://pbs.twimg.com/media/HRW9IphaAAA85QK.jpg"
+      ],
+      "engagement": {
+        "likes": 206,
+        "replies": 18,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 19466
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T09:19:03Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRW9IpCW0AEU67M.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095789163169673283-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRW9IphaAAA85QK.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095789163169673283-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095788618207961240",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095788618207961240",
+      "postedAt": "Fri Sep 04 08:18:39 +0000 2026",
+      "text": "JUST IN: YCombinator dev launches $RCOMBINATOR on Robinhood Chain. https://t.co/DdatgyG4SG",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRW8o9hW0AAIJJn.jpg",
+        "https://pbs.twimg.com/media/HRW8o-EboAATj6h.jpg"
+      ],
+      "engagement": {
+        "likes": 172,
+        "replies": 25,
+        "reposts": 16,
+        "quotes": 0,
+        "views": 22014
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T09:19:03Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRW8o9hW0AAIJJn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095788618207961240-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRW8o-EboAATj6h.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095788618207961240-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095773421531463758",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095773421531463758",
+      "postedAt": "Fri Sep 04 07:18:15 +0000 2026",
+      "text": "JUST IN: Bitwise and Franklin ETF clients buy a combined $6.14 million worth of $XRP. https://t.co/RQf0nzkwJn",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRWu0TBXEAE-W84.jpg",
+        "https://pbs.twimg.com/media/HRWu0TgaIAAEr1V.jpg"
+      ],
+      "engagement": {
+        "likes": 440,
+        "replies": 34,
+        "reposts": 46,
+        "quotes": 6,
+        "views": 26253
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T09:19:03Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRWu0TBXEAE-W84.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095773421531463758-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRWu0TgaIAAEr1V.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095773421531463758-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095766131956990320",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095766131956990320",
+      "postedAt": "Fri Sep 04 06:49:17 +0000 2026",
+      "text": "JUST IN: BlackRock clients buy $72.07 million worth of $ETH. https://t.co/sp4lEpxAR6",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRWoMB2WgAI8tuW.jpg",
+        "https://pbs.twimg.com/media/HRWoMB3XYAAEo1i.jpg"
+      ],
+      "engagement": {
+        "likes": 504,
+        "replies": 46,
+        "reposts": 32,
+        "quotes": 3,
+        "views": 28748
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T09:19:03Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRWoMB2WgAI8tuW.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095766131956990320-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRWoMB3XYAAEo1i.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095766131956990320-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -7657,6 +7855,120 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095766131956990320",
+      "rank": 35,
+      "title": "JUST IN: BlackRock clients buy $72.07 million worth of $ETH. https://t.co/sp4lEpxAR6",
+      "benchmarkPostId": "2095766131956990320",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095766131956990320",
+      "score": 42448,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T09:19:11Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095773421531463758",
+      "rank": 49,
+      "title": "JUST IN: Bitwise and Franklin ETF clients buy a combined $6.14 million worth of $XRP. https:…",
+      "benchmarkPostId": "2095773421531463758",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095773421531463758",
+      "score": 39073,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T09:19:11Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095788618207961240",
+      "rank": 82,
+      "title": "JUST IN: YCombinator dev launches $RCOMBINATOR on Robinhood Chain. https://t.co/DdatgyG4SG",
+      "benchmarkPostId": "2095788618207961240",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095788618207961240",
+      "score": 27254,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T09:19:11Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095789163169673283",
+      "rank": 84,
+      "title": "JUST IN: Monero $XMR privacy coin rallies 17% in the past 7 days. https://t.co/eXtIFj6tMd",
+      "benchmarkPostId": "2095789163169673283",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095789163169673283",
+      "score": 24666,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T09:19:11Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095796264314998871",
+      "rank": 85,
+      "title": "JUST IN: 🇰🇷 South Korea looking to bring stocks, bonds, and funds to the blockchain for 24/7…",
+      "benchmarkPostId": "2095796264314998871",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095796264314998871",
+      "score": 24191,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T09:19:11Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095802439580393655",
+      "rank": 89,
+      "title": "JUST IN: 🇺🇸 Major U.S. enforcement group, the NSA, now supports the CLARITY Act. https://t.c…",
+      "benchmarkPostId": "2095802439580393655",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095802439580393655",
+      "score": 12640,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T09:19:11Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -9790,6 +10102,28 @@
       "imagePath": "deliverables/pkg-20260904-just-in-blackrock-clients-buy-453-96-million-wor-31691/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
       "createdAt": "2026-09-04T06:42:51.812831+00:00"
+    },
+    {
+      "id": "pkg-20260904-blackrock-eth-7207m-market-radar",
+      "benchmarkPostId": "2095766131956990320",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095766131956990320",
+      "title": "BlackRock clients buy $72.07M of ETH",
+      "status": "published",
+      "postText": "BlackRock clients bought $72.07M of $ETH, according to @WhaleInsider.\n\nMarket radar — reported by @WhaleInsider; not independently verified.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "BlackRock clients buy $72.07 million worth of $ETH.",
+        "Source timestamp: Fri Sep 04 06:49:17 +0000 2026.",
+        "Source engagement at capture: 28,748 views, 504 likes, 46 replies, 32 reposts, and 3 quotes.",
+        "Source media archived: output/benchmark-media/WhaleInsider/2095766131956990320-1.jpg and output/benchmark-media/WhaleInsider/2095766131956990320-2.jpg."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095766131956990320"
+      ],
+      "imagePath": "deliverables/pkg-20260904-blackrock-eth-7207m-market-radar/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T09:23:00+00:00",
+      "postizPostId": "cmtmr0zsx052eqk0yi991ewej",
+      "publishedAt": "2026-09-04T09:25:00.000Z"
     }
   ],
   "posts": [
@@ -10450,6 +10784,23 @@
         "status": "active",
         "windowStart": "2026-09-04T06:45:00.000Z",
         "windowEnd": "2026-09-07T06:45:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2095805634109382831",
+      "packageId": "pkg-20260904-blackrock-eth-7207m-market-radar",
+      "title": "BlackRock clients buy $72.07M of ETH",
+      "status": "published",
+      "publishedAt": "2026-09-04T09:25:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095805634109382831",
+      "postizPostId": "cmtmr0zsx052eqk0yi991ewej",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T09:25:00.000Z",
+        "windowEnd": "2026-09-07T09:25:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -14049,6 +14400,37 @@
       "status": "succeeded",
       "startedAt": "2026-09-04T06:45:34.763062+00:00",
       "completedAt": "2026-09-04T06:45:34.763075+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T091903Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T09:19:03Z",
+      "completedAt": "2026-09-04T09:19:03Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 6 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260904T091911Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T09:19:11Z",
+      "completedAt": "2026-09-04T09:19:11Z",
+      "summary": "Prepared 93 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T092621Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T09:26:21.093208+00:00",
+      "completedAt": "2026-09-04T09:26:21.093217+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
