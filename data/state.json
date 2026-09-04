@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T00:44:00.395851+00:00",
+  "updatedAt": "2026-09-04T01:07:00.312525+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -7363,6 +7363,246 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-03T12:45:41.455349Z"
       }
+    },
+    {
+      "id": "2084535905050829005-20260904T010656Z",
+      "postId": "2084535905050829005",
+      "observedAt": "2026-09-04T01:06:56.784697Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2084535905050829005",
+        "checkedAt": "2026-09-04T01:06:56.784697Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2094334035149607267-20260904T010656Z",
+      "postId": "2094334035149607267",
+      "observedAt": "2026-09-04T01:06:56.788651Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2094334035149607267",
+        "checkedAt": "2026-09-04T01:06:56.788651Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2094648465645265080-20260904T010656Z",
+      "postId": "2094648465645265080",
+      "observedAt": "2026-09-04T01:06:56.790100Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2094648465645265080",
+        "checkedAt": "2026-09-04T01:06:56.790100Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095424711853584893-20260904T010656Z",
+      "postId": "2095424711853584893",
+      "observedAt": "2026-09-04T01:06:56.791745Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095424711853584893",
+        "checkedAt": "2026-09-04T01:06:56.791745Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095427314796704032-20260904T010656Z",
+      "postId": "2095427314796704032",
+      "observedAt": "2026-09-04T01:06:56.792302Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095427314796704032",
+        "checkedAt": "2026-09-04T01:06:56.792302Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095427576059834822-20260904T010657Z",
+      "postId": "2095427576059834822",
+      "observedAt": "2026-09-04T01:06:57.872985Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095427576059834822",
+        "checkedAt": "2026-09-04T01:06:57.872985Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095427724378767851-20260904T010657Z",
+      "postId": "2095427724378767851",
+      "observedAt": "2026-09-04T01:06:57.883363Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095427724378767851",
+        "checkedAt": "2026-09-04T01:06:57.883363Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095427868683829570-20260904T010657Z",
+      "postId": "2095427868683829570",
+      "observedAt": "2026-09-04T01:06:57.953858Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095427868683829570",
+        "checkedAt": "2026-09-04T01:06:57.953858Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095428221366091837-20260904T010657Z",
+      "postId": "2095428221366091837",
+      "observedAt": "2026-09-04T01:06:57.976401Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095428221366091837",
+        "checkedAt": "2026-09-04T01:06:57.976401Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095428469635395700-20260904T010658Z",
+      "postId": "2095428469635395700",
+      "observedAt": "2026-09-04T01:06:58.046066Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095428469635395700",
+        "checkedAt": "2026-09-04T01:06:58.046066Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095428640263766427-20260904T010658Z",
+      "postId": "2095428640263766427",
+      "observedAt": "2026-09-04T01:06:58.910884Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095428640263766427",
+        "checkedAt": "2026-09-04T01:06:58.910884Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095476518642397201-20260904T010658Z",
+      "postId": "2095476518642397201",
+      "observedAt": "2026-09-04T01:06:58.970082Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095476518642397201",
+        "checkedAt": "2026-09-04T01:06:58.970082Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095480844748231138-20260904T010658Z",
+      "postId": "2095480844748231138",
+      "observedAt": "2026-09-04T01:06:58.987599Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095480844748231138",
+        "checkedAt": "2026-09-04T01:06:58.987599Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095493296038748333-20260904T010659Z",
+      "postId": "2095493296038748333",
+      "observedAt": "2026-09-04T01:06:59.007845Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095493296038748333",
+        "checkedAt": "2026-09-04T01:06:59.007845Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
+    },
+    {
+      "id": "2095674191865692472-20260904T010659Z",
+      "postId": "2095674191865692472",
+      "observedAt": "2026-09-04T01:06:59.026259Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095674191865692472",
+        "checkedAt": "2026-09-04T01:06:59.026259Z",
+        "result": "HTTP 200; no visible numeric views, replies, reposts, or likes counters were exposed to the unauthenticated public request."
+      },
+      "observation": "Only visibly attributable public counters were recorded; unavailable counters remain null."
     }
   ],
   "experiments": [],
@@ -8391,6 +8631,15 @@
       "completedAt": "2026-09-04T00:44:00.395313+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260904T010700Z-metrics",
+      "mode": "metrics",
+      "status": "partial",
+      "startedAt": "2026-09-04T01:07:00.311953+00:00",
+      "completedAt": "2026-09-04T01:07:00.311953+00:00",
+      "summary": "Checked public X status pages for all 15 published @_When2buy posts; appended 15 timestamped snapshots.",
+      "reason": "All requests returned HTTP 200 but exposed no parseable visible numeric counters; views, replies, reposts, and likes were recorded as null with per-snapshot public-X evidence."
     }
   ]
 }

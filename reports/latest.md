@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T00:44:00.395851+00:00`
+- 状态更新：`2026-09-04T01:07:00.312525+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**132**
 - 待选选题：**92**
@@ -545,24 +545,25 @@ Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's 
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
-| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z | 91 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428469635395700) |
-| HOPE token launch reported | 2026-09-03T08:24:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427868683829570) |
-| Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 38 |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
-| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
-| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 20 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
-| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
-| Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 14 |  |  |  | [X](https://x.com/_When2buy/status/2094334035149607267) |
-| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
-| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
-| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
-| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
-| NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
-| Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
-| JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
-| Tesla product-feature market radar | 2026-09-04T00:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095674191865692472) |
+| Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
+| Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2094334035149607267) |
+| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2094648465645265080) |
+| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095424711853584893) |
+| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427576059834822) |
+| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427724378767851) |
+| HOPE token launch reported | 2026-09-03T08:24:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095427868683829570) |
+| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428221366091837) |
+| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428469635395700) |
+| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095428640263766427) |
+| Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095476518642397201) |
+| JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095480844748231138) |
+| NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095493296038748333) |
+| Tesla product-feature market radar | 2026-09-04T00:43:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095674191865692472) |
 
 ## 最近运行
 
+- `2026-09-04T01:07:00.311953+00:00` **metrics / partial** — Checked public X status pages for all 15 published @_When2buy posts; appended 15 timestamped snapshots. All requests returned HTTP 200 but exposed no parseable visible numeric counters; views, replies, reposts, and likes were recorded as null with per-snapshot public-X evidence.
 - `2026-09-04T00:44:00.395309+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T00:43:33.150460+00:00` **publish / partial** — Postiz rejected initial Tesla package as too long; shortened copy for one safe retry. Postiz HTTP 400: post is too long.
 - `2026-09-04T00:43:07.041901+00:00` **produce / succeeded** — Refined newest Tesla market-radar package with original copy and entity-led visual.
@@ -582,4 +583,3 @@ Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's 
 - `2026-09-03T11:53:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 15 new post(s).
 - `2026-09-03T11:40:33Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
 - `2026-09-03T11:38:29.458795+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-03T11:34:24Z` **queue / succeeded** — Prepared 5 one-to-one production candidate(s).
