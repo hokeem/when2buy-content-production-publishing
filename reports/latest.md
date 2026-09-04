@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T09:26:21.094118+00:00`
+- 状态更新：`2026-09-04T10:23:00.161147+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**190**
 - 待选选题：**150**
@@ -1017,6 +1017,9 @@ BlackRock clients bought $72.07M of $ETH, according to @WhaleInsider.  Market ra
 
 ## 最近运行
 
+- `2026-09-04T10:23:00Z` **queue / succeeded** — Prepared 92 one-to-one production candidate(s).
+- `2026-09-04T10:23:00Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
+- `2026-09-04T10:22:12Z` **queue / succeeded** — Prepared 92 one-to-one production candidate(s).
 - `2026-09-04T09:26:21.093208+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T09:19:11Z` **queue / succeeded** — Prepared 93 one-to-one production candidate(s).
 - `2026-09-04T09:19:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 6 new post(s).
@@ -1034,6 +1037,3 @@ BlackRock clients bought $72.07M of $ETH, according to @WhaleInsider.  Market ra
 - `2026-09-04T04:51:00+00:00` **publish / failed** — Terminal Postiz delivery failure after one safe retry; no PUBLISHED state or public X URL. Package pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669: Postiz returned ERROR for delivery IDs cmtmh7thr0ceglm0ybqu8j3mg and cmtmh87nv0ceilm0yx5sxyxxe; releaseURL and releaseId were null.
 - `2026-09-04T04:52:44.121647+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:52:12.801891+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:51:06.799385+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:50:35.267527+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:50:02.723852+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
