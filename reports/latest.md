@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T12:47:29.950283+00:00`
+- 状态更新：`2026-09-04T16:33:29.990228+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**201**
 - 待选选题：**161**
@@ -1110,6 +1110,8 @@ Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some u
 
 ## 最近运行
 
+- `2026-09-04T16:33:29Z` **queue / succeeded** — Prepared 96 one-to-one production candidate(s).
+- `2026-09-04T16:33:29Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-04T12:46:36.889384+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T12:46:04.772048+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T12:45:33.861397+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1128,5 +1130,3 @@ Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some u
 - `2026-09-04T10:23:00Z` **queue / succeeded** — Prepared 92 one-to-one production candidate(s).
 - `2026-09-04T10:23:00Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-04T10:22:12Z` **queue / succeeded** — Prepared 92 one-to-one production candidate(s).
-- `2026-09-04T09:26:21.093208+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T09:19:11Z` **queue / succeeded** — Prepared 93 one-to-one production candidate(s).

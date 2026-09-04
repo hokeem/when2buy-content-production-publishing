@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:43:51Z",
+  "generatedAt": "2026-09-04T16:33:29Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -24,13 +24,13 @@
       "score": 14568,
       "heatScore": 14568,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 15,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -54,13 +54,13 @@
       "score": 19563,
       "heatScore": 19563,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 21,
+      "editorialScore": 20,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -98,13 +98,13 @@
       "score": 24859,
       "heatScore": 24859,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -136,13 +136,13 @@
       "score": 17077,
       "heatScore": 17077,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -166,13 +166,13 @@
       "score": 22891,
       "heatScore": 22891,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 18,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -196,13 +196,13 @@
       "score": 33895,
       "heatScore": 33895,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -234,13 +234,13 @@
       "score": 31317,
       "heatScore": 31317,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 18,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -278,13 +278,13 @@
       "score": 42130,
       "heatScore": 42130,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 18,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -322,13 +322,13 @@
       "score": 33476,
       "heatScore": 33476,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 18,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -366,13 +366,13 @@
       "score": 34285,
       "heatScore": 34285,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 2,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -410,13 +410,13 @@
       "score": 40791,
       "heatScore": 40791,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -454,13 +454,13 @@
       "score": 12640,
       "heatScore": 12640,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -498,13 +498,13 @@
       "score": 24191,
       "heatScore": 24191,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 2,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -704,13 +704,13 @@
       "score": 37855,
       "heatScore": 37855,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -742,13 +742,13 @@
       "score": 51974,
       "heatScore": 51974,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1514,13 +1514,13 @@
       "score": 41965,
       "heatScore": 41965,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 2,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1544,13 +1544,13 @@
       "score": 34521,
       "heatScore": 34521,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 14,
+      "editorialScore": 13,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1582,13 +1582,13 @@
       "score": 34156,
       "heatScore": 34156,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1626,13 +1626,13 @@
       "score": 35273,
       "heatScore": 35273,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1664,13 +1664,13 @@
       "score": 32106,
       "heatScore": 32106,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1702,13 +1702,13 @@
       "score": 32788,
       "heatScore": 32788,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1746,13 +1746,13 @@
       "score": 42290,
       "heatScore": 42290,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1784,13 +1784,13 @@
       "score": 57702,
       "heatScore": 57702,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 14,
+      "editorialScore": 13,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1822,13 +1822,13 @@
       "score": 31096,
       "heatScore": 31096,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 14,
+      "editorialScore": 13,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1860,13 +1860,13 @@
       "score": 40324,
       "heatScore": 40324,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 15,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1898,13 +1898,13 @@
       "score": 33485,
       "heatScore": 33485,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1936,13 +1936,13 @@
       "score": 44258,
       "heatScore": 44258,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1974,13 +1974,13 @@
       "score": 41910,
       "heatScore": 41910,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -2004,13 +2004,13 @@
       "score": 50133,
       "heatScore": 50133,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 3,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -2731,36 +2731,6 @@
     },
     {
       "rank": 72,
-      "benchmarkPostId": "2095260639446929657",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260903-broadcom-s-avgo-ceo-just-said-in-2027-we-have-se-29657",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095260639446929657",
-      "originalText": "BROADCOM'S $AVGO CEO JUST SAID: \n\n- IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 BILLION",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 284,
-        "replies": 13,
-        "reposts": 16,
-        "quotes": 5,
-        "views": 57066
-      },
-      "postedAt": "Wed Sep 02 21:20:39 +0000 2026",
-      "score": 64366,
-      "heatScore": 64366,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 73,
       "benchmarkPostId": "2095260451147800640",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-snowflake-s-snow-ceo-just-said-we-remain-on-trac-00640",
@@ -2790,7 +2760,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 74,
+      "rank": 73,
       "benchmarkPostId": "2095259425544061399",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-here-is-a-early-look-at-some-of-the-largest-stoc-61399",
@@ -2828,7 +2798,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 75,
+      "rank": 74,
       "benchmarkPostId": "2095257442594455572",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-this-is-how-the-stock-market-performed-today-55572",
@@ -2866,7 +2836,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 76,
+      "rank": 75,
       "benchmarkPostId": "2095246378519687553",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-broadcom-avgo-stock-is-down-by-5-in-after-hours--87553",
@@ -2904,7 +2874,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 77,
+      "rank": 76,
       "benchmarkPostId": "2095245756265316732",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-costco-cost-just-reported-revenue-of-23-7-billio-16732",
@@ -2942,7 +2912,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 78,
+      "rank": 77,
       "benchmarkPostId": "2095243894900269397",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-snowflake-snow-stock-is-up-by-20-in-after-hours--69397",
@@ -2980,7 +2950,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 79,
+      "rank": 78,
       "benchmarkPostId": "2095239112630452702",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-deere-de-stock-hit-new-all-time-highs-again-toda-52702",
@@ -3018,7 +2988,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 80,
+      "rank": 79,
       "benchmarkPostId": "2095236089535418848",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-google-s-googl-self-driving-car-company-waymo-is-18848",
@@ -3056,7 +3026,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 81,
+      "rank": 80,
       "benchmarkPostId": "2095232751951614214",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-meta-platforms-meta-ceo-mark-zuckerberg-just-pos-14214",
@@ -3094,7 +3064,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 82,
+      "rank": 81,
       "benchmarkPostId": "2095224412077244758",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-johnson-amp-johnson-jnj-stock-hit-new-52-week-hi-44758",
@@ -3132,7 +3102,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 83,
+      "rank": 82,
       "benchmarkPostId": "2095221095443951871",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-here-is-some-of-the-stuff-that-our-partners-at-b-51871",
@@ -3170,7 +3140,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 84,
+      "rank": 83,
       "benchmarkPostId": "2095196970465755248",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-55248",
@@ -3208,7 +3178,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 85,
+      "rank": 84,
       "benchmarkPostId": "2095194323918713317",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260903-just-in-g20-finance-ministers-and-central-bank-g-13317",
@@ -3246,7 +3216,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 86,
+      "rank": 85,
       "benchmarkPostId": "2095193305638211846",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260903-just-in-metawin-announces-another-1m-will-be-giv-11846",
@@ -3290,7 +3260,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 87,
+      "rank": 86,
       "benchmarkPostId": "2095183032831361384",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-uber-technologies-uber-is-shutting-down-its-serv-61384",
@@ -3318,17 +3288,17 @@
       "score": 51199,
       "heatScore": 51199,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 14,
+      "editorialScore": 13,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 88,
+      "rank": 87,
       "benchmarkPostId": "2095179359199846611",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-southwest-airlines-luv-plans-to-roll-out-its-fir-46611",
@@ -3356,17 +3326,17 @@
       "score": 36937,
       "heatScore": 36937,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 89,
+      "rank": 88,
       "benchmarkPostId": "2095178347865096511",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-commerce-secretary-lutnick-just-said-anthropic-i-96511",
@@ -3386,17 +3356,17 @@
       "score": 38221,
       "heatScore": 38221,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 13,
+      "editorialScore": 12,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 90,
+      "rank": 89,
       "benchmarkPostId": "2095174970171076698",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-ge-vernova-gev-has-committed-to-repairing-large--76698",
@@ -3424,61 +3394,17 @@
       "score": 50686,
       "heatScore": 50686,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 91,
-      "benchmarkPostId": "2095172700113133770",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260903-just-in-robinhood-chain-hood-total-tokenized-val-33770",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095172700113133770",
-      "originalText": "JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. https://t.co/QKRDkWhDNW",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HROMdQDbAAE_DAf.jpg",
-        "https://pbs.twimg.com/media/HROMdPoWQAMaZ8i.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HROMdQDbAAE_DAf.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095172700113133770-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HROMdPoWQAMaZ8i.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095172700113133770-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 608,
-        "replies": 37,
-        "reposts": 22,
-        "quotes": 4,
-        "views": 46390
-      },
-      "postedAt": "Wed Sep 02 15:31:12 +0000 2026",
-      "score": 61370,
-      "heatScore": 61370,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 92,
+      "rank": 90,
       "benchmarkPostId": "2095170753813434495",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-smn-analyst-number-5-is-in-the-region-to-monitor-34495",
@@ -3498,55 +3424,17 @@
       "score": 37770,
       "heatScore": 37770,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 12,
+      "editorialScore": 11,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 93,
-      "benchmarkPostId": "2095152899093389441",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-said-this-today-to--89441",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095152899093389441",
-      "originalText": "Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world:\n\n“Every single country needs to build infrastructure so that you could support your own local economy.” https://t.co/hSPu5jgDmN",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2095149434506293248/img/pzIwzBuHb2LkOJ_I.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095149434506293248/img/pzIwzBuHb2LkOJ_I.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2095152899093389441-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 388,
-        "replies": 24,
-        "reposts": 35,
-        "quotes": 9,
-        "views": 50720
-      },
-      "postedAt": "Wed Sep 02 14:12:31 +0000 2026",
-      "score": 61730,
-      "heatScore": 61730,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 94,
+      "rank": 91,
       "benchmarkPostId": "2095149851797241905",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-i-bought-tempus-ai-tem-at-60-87-per-share-on-aug-41905",
@@ -3566,17 +3454,17 @@
       "score": 49534,
       "heatScore": 49534,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 95,
+      "rank": 92,
       "benchmarkPostId": "2095148744584860111",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260903-just-in-a-binance-content-creator-followed-by-cz-60111",
@@ -3610,17 +3498,17 @@
       "score": 44160,
       "heatScore": 44160,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 12,
+      "editorialScore": 11,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 96,
+      "rank": 93,
       "benchmarkPostId": "2095146897019154455",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-dell-is-starting-out-trading-today-up-by-12-8-an-54455",
@@ -3648,17 +3536,17 @@
       "score": 46032,
       "heatScore": 46032,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 15,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 97,
+      "rank": 94,
       "benchmarkPostId": "2095140381386031505",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-called-on-group-of--31505",
@@ -3686,17 +3574,17 @@
       "score": 51121,
       "heatScore": 51121,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 15,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 98,
+      "rank": 95,
       "benchmarkPostId": "2095136541538386124",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-september-rate-hike-odds-there-is-currently-a-56-86124",
@@ -3724,17 +3612,17 @@
       "score": 40378,
       "heatScore": 40378,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 1,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 99,
+      "rank": 96,
       "benchmarkPostId": "2095113199389495519",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-new-xyo-and-gate-ai-team-up-to-launch-xyo-crypto-95519",
@@ -3769,94 +3657,6 @@
         "factualClarity": 4
       },
       "editorialScore": 12,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 100,
-      "benchmarkPostId": "2095103588028535044",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260904-just-in-btc-currently-forecasted-to-go-as-high-a-35044",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095103588028535044",
-      "originalText": "JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/9yQvGL0uyt",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRNNmVUWoAMG0w2.jpg",
-        "https://pbs.twimg.com/media/HRNNmVcXwAInZh1.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRNNmVUWoAMG0w2.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095103588028535044-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRNNmVcXwAInZh1.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095103588028535044-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 755,
-        "replies": 45,
-        "reposts": 43,
-        "quotes": 1,
-        "views": 44300
-      },
-      "postedAt": "Wed Sep 02 10:56:35 +0000 2026",
-      "score": 63410,
-      "heatScore": 63410,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 13,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 101,
-      "benchmarkPostId": "2095018683512857038",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260904-just-in-fidelity-clients-sell-43-67-million-wort-57038",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095018683512857038",
-      "originalText": "JUST IN: Fidelity clients sell $43.67 million worth of $BTC. https://t.co/gmqHNFvz3U",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRMAYwRXQAQXTNP.jpg",
-        "https://pbs.twimg.com/media/HRMAYwMXsAsHb8Q.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRMAYwRXQAQXTNP.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095018683512857038-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRMAYwMXsAsHb8Q.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095018683512857038-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 605,
-        "replies": 56,
-        "reposts": 36,
-        "quotes": 7,
-        "views": 44669
-      },
-      "postedAt": "Wed Sep 02 05:19:12 +0000 2026",
-      "score": 61229,
-      "heatScore": 61229,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     }
   ]
