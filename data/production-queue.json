@@ -1,238 +1,9 @@
 {
-  "generatedAt": "2026-09-04T04:45:29Z",
+  "generatedAt": "2026-09-04T05:00:02Z",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2095527173582885289",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260904-outage-report-claude-openai-and-grok-are-all-cur-85289",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095527173582885289",
-      "originalText": "OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 603,
-        "replies": 86,
-        "reposts": 46,
-        "quotes": 81,
-        "views": 907180
-      },
-      "postedAt": "Thu Sep 03 14:59:45 +0000 2026",
-      "score": 929840,
-      "heatScore": 929840,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 14,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 2,
-      "benchmarkPostId": "2095217207504470355",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260904-president-trump-just-said-the-stock-market-will--70355",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095217207504470355",
-      "originalText": "🇺🇸 President Trump just said \n\n- THE STOCK MARKET WILL GO UP",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 855,
-        "replies": 44,
-        "reposts": 42,
-        "quotes": 9,
-        "views": 129116
-      },
-      "postedAt": "Wed Sep 02 18:28:04 +0000 2026",
-      "score": 150616,
-      "heatScore": 150616,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 2,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 14,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 3,
-      "benchmarkPostId": "2095010013710278779",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260904-just-in-blackrock-clients-sell-2-605-btc-worth-2-78779",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095010013710278779",
-      "originalText": "JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. https://t.co/pZDW4KmWgF",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRL4gFnWEAAOGVc.jpg",
-        "https://pbs.twimg.com/media/HRL4gFoXkAAx_Kf.jpg"
-      ],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 966,
-        "replies": 78,
-        "reposts": 93,
-        "quotes": 12,
-        "views": 89905
-      },
-      "postedAt": "Wed Sep 02 04:44:45 +0000 2026",
-      "score": 117715,
-      "heatScore": 117715,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2095262314014409103",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260903-zoom-zm-just-announced-that-jeff-epstein-has-joi-09103",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095262314014409103",
-      "originalText": "Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. https://t.co/WyWvIh9Cdi",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRPd6nMXEAASXac.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRPd6nMXEAASXac.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2095262314014409103-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 212,
-        "replies": 32,
-        "reposts": 7,
-        "quotes": 17,
-        "views": 102580
-      },
-      "postedAt": "Wed Sep 02 21:27:18 +0000 2026",
-      "score": 109470,
-      "heatScore": 109470,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 14,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2095171499707580873",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260904-president-trump-just-posted-this-now-that-we-hav-80873",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095171499707580873",
-      "originalText": "🇺🇸 President Trump just posted this:\n\n\"Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT???\" https://t.co/zbRAmEJ5Fa",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HROLSPRaMAA7i1U.jpg"
-      ],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 393,
-        "replies": 79,
-        "reposts": 18,
-        "quotes": 17,
-        "views": 82246
-      },
-      "postedAt": "Wed Sep 02 15:26:26 +0000 2026",
-      "score": 95186,
-      "heatScore": 95186,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 13,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2095031163773440065",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260904-just-in-franklin-canary-and-grayscale-etf-client-40065",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095031163773440065",
-      "originalText": "JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. https://t.co/KBTaMvxKRn",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRMLvNWXcAUvnRg.jpg",
-        "https://pbs.twimg.com/media/HRMLvNSWgAQ-f8-.jpg"
-      ],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 1096,
-        "replies": 43,
-        "reposts": 143,
-        "quotes": 11,
-        "views": 57901
-      },
-      "postedAt": "Wed Sep 02 06:08:47 +0000 2026",
-      "score": 89351,
-      "heatScore": 89351,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2095120971413790757",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260904-just-in-oppenheimer-raises-spacex-spcx-price-tar-90757",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095120971413790757",
-      "originalText": "JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform rating. https://t.co/YquuZR6Wfc",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRNdawKWoAAcidh.jpg",
-        "https://pbs.twimg.com/media/HRNdawSXQAEONuv.jpg"
-      ],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 864,
-        "replies": 49,
-        "reposts": 91,
-        "quotes": 13,
-        "views": 59713
-      },
-      "postedAt": "Wed Sep 02 12:05:39 +0000 2026",
-      "score": 84283,
-      "heatScore": 84283,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 8,
       "benchmarkPostId": "2095173158466654669",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669",
@@ -262,83 +33,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 9,
-      "benchmarkPostId": "2095150944275108333",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260904-salesforce-crm-and-anthropic-just-released-this--08333",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2095150944275108333",
-      "originalText": "Salesforce $CRM and Anthropic just released this new commercial together  https://t.co/fnlLdNlF4s",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRN39AZWcAEmMxz.jpg"
-      ],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 273,
-        "replies": 14,
-        "reposts": 26,
-        "quotes": 7,
-        "views": 64474
-      },
-      "postedAt": "Wed Sep 02 14:04:45 +0000 2026",
-      "score": 72214,
-      "heatScore": 72214,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 14,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 10,
-      "benchmarkPostId": "2095509354686378405",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260904-just-in-xrp-price-rallies-4-8-in-the-past-24-hou-78405",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095509354686378405",
-      "originalText": "JUST IN: $XRP price rallies 4.8% in the past 24 hours. https://t.co/wqfeeECGte",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRS-pj9WYAEVJts.jpg",
-        "https://pbs.twimg.com/media/HRS-pj9W0AEKQjG.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRS-pj9WYAEVJts.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095509354686378405-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRS-pj9W0AEKQjG.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095509354686378405-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 927,
-        "replies": 46,
-        "reposts": 103,
-        "quotes": 6,
-        "views": 44846
-      },
-      "postedAt": "Thu Sep 03 13:48:57 +0000 2026",
-      "score": 70736,
-      "heatScore": 70736,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
-    },
-    {
-      "rank": 11,
+      "rank": 2,
       "benchmarkPostId": "2095150147470508217",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260903-just-in-daily-volume-on-robinhood-chain-hood-con-08217",
@@ -382,7 +77,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 12,
+      "rank": 3,
       "benchmarkPostId": "2095180650324103269",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-this-is-what-5-35-million-gets-you-in-cleveland--03269",
@@ -392,7 +87,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HROTgRwa4AEqbXN.png"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROTgRwa4AEqbXN.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095180650324103269-1.png",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 97,
         "replies": 13,
@@ -414,7 +115,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 13,
+      "rank": 4,
       "benchmarkPostId": "2095249439321399761",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-microsoft-msft-just-confirmed-that-it-will-be-ch-99761",
@@ -444,7 +145,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 14,
+      "rank": 5,
       "benchmarkPostId": "2095533985652686930",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-169-000-000-worth-of-shorts-liquidated-f-86930",
@@ -482,7 +183,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 15,
+      "rank": 6,
       "benchmarkPostId": "2095260639446929657",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-broadcom-s-avgo-ceo-just-said-in-2027-we-have-se-29657",
@@ -512,7 +213,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 16,
+      "rank": 7,
       "benchmarkPostId": "2095103588028535044",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-btc-currently-forecasted-to-go-as-high-a-35044",
@@ -523,7 +224,18 @@
         "https://pbs.twimg.com/media/HRNNmVUWoAMG0w2.jpg",
         "https://pbs.twimg.com/media/HRNNmVcXwAInZh1.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRNNmVUWoAMG0w2.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095103588028535044-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRNNmVcXwAInZh1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095103588028535044-2.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 755,
         "replies": 45,
@@ -545,7 +257,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 17,
+      "rank": 8,
       "benchmarkPostId": "2095152899093389441",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-said-this-today-to--89441",
@@ -555,7 +267,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/amplify_video_thumb/2095149434506293248/img/pzIwzBuHb2LkOJ_I.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095149434506293248/img/pzIwzBuHb2LkOJ_I.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095152899093389441-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 388,
         "replies": 24,
@@ -577,7 +295,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 18,
+      "rank": 9,
       "benchmarkPostId": "2095172700113133770",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260903-just-in-robinhood-chain-hood-total-tokenized-val-33770",
@@ -621,7 +339,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 19,
+      "rank": 10,
       "benchmarkPostId": "2095018683512857038",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-fidelity-clients-sell-43-67-million-wort-57038",
@@ -632,7 +350,18 @@
         "https://pbs.twimg.com/media/HRMAYwRXQAQXTNP.jpg",
         "https://pbs.twimg.com/media/HRMAYwMXsAsHb8Q.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRMAYwRXQAQXTNP.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095018683512857038-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRMAYwMXsAsHb8Q.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095018683512857038-2.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 605,
         "replies": 56,
@@ -654,7 +383,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 20,
+      "rank": 11,
       "benchmarkPostId": "2095573569849700552",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-openai-says-it-has-overtaken-anthropic-with-its--00552",
@@ -684,7 +413,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 21,
+      "rank": 12,
       "benchmarkPostId": "2095232751951614214",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-meta-platforms-meta-ceo-mark-zuckerberg-just-pos-14214",
@@ -694,7 +423,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRPDDMcacAAOaN3.png"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPDDMcacAAOaN3.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095232751951614214-1.png",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 399,
         "replies": 11,
@@ -716,7 +451,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 22,
+      "rank": 13,
       "benchmarkPostId": "2095407164617560134",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -760,7 +495,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 23,
+      "rank": 14,
       "benchmarkPostId": "2095517235057975299",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-the-stock-market-fear-and-greed-index-is-now-dow-75299",
@@ -770,7 +505,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRTFx20XMAE5r5d.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTFx20XMAE5r5d.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095517235057975299-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 184,
         "replies": 38,
@@ -792,7 +533,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 24,
+      "rank": 15,
       "benchmarkPostId": "2094660485085794525",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -836,7 +577,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 25,
+      "rank": 16,
       "benchmarkPostId": "2094708901077819742",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -880,7 +621,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 26,
+      "rank": 17,
       "benchmarkPostId": "2094671438951092233",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -924,7 +665,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 27,
+      "rank": 18,
       "benchmarkPostId": "2095422904456368330",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -962,7 +703,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 28,
+      "rank": 19,
       "benchmarkPostId": "2094736124874821910",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -1000,7 +741,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 29,
+      "rank": 20,
       "benchmarkPostId": "2095681253504651266",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-tesla-tsla-has-now-officially-started-offering-r-51266",
@@ -1010,7 +751,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/amplify_video_thumb/2095679781488750593/img/RxS_VyRR8wnzrK9B.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095679781488750593/img/RxS_VyRR8wnzrK9B.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095681253504651266-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 443,
         "replies": 22,
@@ -1032,7 +779,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 30,
+      "rank": 21,
       "benchmarkPostId": "2095183032831361384",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-uber-technologies-uber-is-shutting-down-its-serv-61384",
@@ -1042,7 +789,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HROV28wagAA0x6H.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROV28wagAA0x6H.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095183032831361384-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 193,
         "replies": 23,
@@ -1064,7 +817,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 31,
+      "rank": 22,
       "benchmarkPostId": "2095140381386031505",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-called-on-group-of--31505",
@@ -1074,7 +827,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRNu_GpWAAIsuwe.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRNu_GpWAAIsuwe.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095140381386031505-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 305,
         "replies": 52,
@@ -1096,7 +855,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 32,
+      "rank": 23,
       "benchmarkPostId": "2095246378519687553",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-broadcom-avgo-stock-is-down-by-5-in-after-hours--87553",
@@ -1106,7 +865,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRPPXcPWEAU8Gfj.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPPXcPWEAU8Gfj.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095246378519687553-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 176,
         "replies": 19,
@@ -1128,7 +893,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 33,
+      "rank": 24,
       "benchmarkPostId": "2095576748448424284",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-openai-s-greg-brockman-just-said-welcome-to-the--24284",
@@ -1158,7 +923,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 34,
+      "rank": 25,
       "benchmarkPostId": "2095174970171076698",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-ge-vernova-gev-has-committed-to-repairing-large--76698",
@@ -1168,7 +933,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HROObaPaoAAFvtn.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROObaPaoAAFvtn.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095174970171076698-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 310,
         "replies": 5,
@@ -1190,7 +961,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 35,
+      "rank": 26,
       "benchmarkPostId": "2095495103158599973",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-fed-s-waller-just-said-we-should-start-to-see-so-99973",
@@ -1220,7 +991,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 36,
+      "rank": 27,
       "benchmarkPostId": "2095149851797241905",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-i-bought-tempus-ai-tem-at-60-87-per-share-on-aug-41905",
@@ -1250,7 +1021,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 37,
+      "rank": 28,
       "benchmarkPostId": "2095194323918713317",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260903-just-in-g20-finance-ministers-and-central-bank-g-13317",
@@ -1288,7 +1059,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 38,
+      "rank": 29,
       "benchmarkPostId": "2095243894900269397",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-snowflake-snow-stock-is-up-by-20-in-after-hours--69397",
@@ -1298,7 +1069,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRPNJ9vasAAlBRC.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPNJ9vasAAlBRC.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095243894900269397-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 237,
         "replies": 11,
@@ -1320,7 +1097,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 39,
+      "rank": 30,
       "benchmarkPostId": "2095589894294831586",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-tesla-tsla-just-posted-this-video-ahead-of-their-31586",
@@ -1358,7 +1135,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 40,
+      "rank": 31,
       "benchmarkPostId": "2095604081410691167",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-doge-1-on-robinhood-chain-rallies-158-af-91167",
@@ -1402,7 +1179,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 41,
+      "rank": 32,
       "benchmarkPostId": "2094683837808644389",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -1446,7 +1223,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 42,
+      "rank": 33,
       "benchmarkPostId": "2095580903158227350",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-119-453-crypto-traders-were-liquidated-i-27350",
@@ -1490,7 +1267,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 43,
+      "rank": 34,
       "benchmarkPostId": "2095574123720126479",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-openai-just-released-gpt-6-astra-calling-it-the--26479",
@@ -1528,7 +1305,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 44,
+      "rank": 35,
       "benchmarkPostId": "2095146897019154455",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-dell-is-starting-out-trading-today-up-by-12-8-an-54455",
@@ -1538,7 +1315,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRN0-W_X0AE0yWS.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRN0-W_X0AE0yWS.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095146897019154455-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 202,
         "replies": 30,
@@ -1560,7 +1343,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 45,
+      "rank": 36,
       "benchmarkPostId": "2095395081431773199",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -1598,7 +1381,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 46,
+      "rank": 37,
       "benchmarkPostId": "2095236089535418848",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-google-s-googl-self-driving-car-company-waymo-is-18848",
@@ -1608,7 +1391,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRPFzyMawAALcDg.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPFzyMawAALcDg.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095236089535418848-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 273,
         "replies": 14,
@@ -1630,7 +1419,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 47,
+      "rank": 38,
       "benchmarkPostId": "2095263514336100844",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -1668,7 +1457,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 48,
+      "rank": 39,
       "benchmarkPostId": "2095388710502039635",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -1712,7 +1501,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 49,
+      "rank": 40,
       "benchmarkPostId": "2095503578802606552",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-tim-apple-cooked-the-market-during-his-time-as-t-06552",
@@ -1722,7 +1511,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRS5SlWX0AgwmZh.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRS5SlWX0AgwmZh.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095503578802606552-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 145,
         "replies": 11,
@@ -1744,7 +1539,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 50,
+      "rank": 41,
       "benchmarkPostId": "2095245756265316732",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-costco-cost-just-reported-revenue-of-23-7-billio-16732",
@@ -1754,7 +1549,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRPO6PHWQAMI59K.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPO6PHWQAMI59K.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095245756265316732-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 194,
         "replies": 17,
@@ -1776,7 +1577,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 51,
+      "rank": 42,
       "benchmarkPostId": "2095148744584860111",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260903-just-in-a-binance-content-creator-followed-by-cz-60111",
@@ -1820,7 +1621,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 52,
+      "rank": 43,
       "benchmarkPostId": "2095239112630452702",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-deere-de-stock-hit-new-all-time-highs-again-toda-52702",
@@ -1830,7 +1631,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRPI3bCXAAQeV8z.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRPI3bCXAAQeV8z.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095239112630452702-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 241,
         "replies": 19,
@@ -1852,7 +1659,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 53,
+      "rank": 44,
       "benchmarkPostId": "2095518802452570499",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-roblox-rblx-posts-its-strongest-market-o-70499",
@@ -1896,7 +1703,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 54,
+      "rank": 45,
       "benchmarkPostId": "2095572272689872910",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-what-a-turn-around-we-re-don-t-a-stock-picking-c-72910",
@@ -1907,7 +1714,18 @@
         "https://pbs.twimg.com/media/HRT337hbIAALBbG.jpg",
         "https://pbs.twimg.com/media/HRT336yXYAE3fU_.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT337hbIAALBbG.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095572272689872910-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRT336yXYAE3fU_.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095572272689872910-2.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 27,
         "replies": 6,
@@ -1929,7 +1747,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 55,
+      "rank": 46,
       "benchmarkPostId": "2095543274987507876",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-grok-is-back-to-being-in-first-place-in-the-rall-07876",
@@ -1959,7 +1777,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 56,
+      "rank": 47,
       "benchmarkPostId": "2095499492183151063",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-name-another-platform-where-you-can-get-triggere-51063",
@@ -1969,7 +1787,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRS1nZVbMAEX-sF.png"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRS1nZVbMAEX-sF.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095499492183151063-1.png",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 97,
         "replies": 7,
@@ -1991,7 +1815,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 57,
+      "rank": 48,
       "benchmarkPostId": "2095560327723106558",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-the-3-founders-of-hugging-face-are-now-each-wort-06558",
@@ -2001,7 +1825,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRTs_QtWYAMdS0s.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTs_QtWYAMdS0s.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095560327723106558-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 179,
         "replies": 13,
@@ -2023,7 +1853,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 58,
+      "rank": 49,
       "benchmarkPostId": "2095626594484154874",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-btc-surpasses-82-000-54874",
@@ -2067,7 +1897,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 59,
+      "rank": 50,
       "benchmarkPostId": "2095113199389495519",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-new-xyo-and-gate-ai-team-up-to-launch-xyo-crypto-95519",
@@ -2077,7 +1907,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/amplify_video_thumb/2094785154535579648/img/2lnbblAQdcvfIWSJ.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2094785154535579648/img/2lnbblAQdcvfIWSJ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095113199389495519-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 101,
         "replies": 15,
@@ -2099,7 +1935,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 60,
+      "rank": 51,
       "benchmarkPostId": "2095432476726366373",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2143,7 +1979,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 61,
+      "rank": 52,
       "benchmarkPostId": "2095136541538386124",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-september-rate-hike-odds-there-is-currently-a-56-86124",
@@ -2153,7 +1989,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRNpsfyW4AQlihu.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRNpsfyW4AQlihu.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095136541538386124-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 103,
         "replies": 33,
@@ -2175,7 +2017,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 62,
+      "rank": 53,
       "benchmarkPostId": "2095509213367718105",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-meta-s-stock-is-back-to-starting-with-a-6-18105",
@@ -2185,7 +2027,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRS-hfZWUAEDoDk.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRS-hfZWUAEDoDk.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095509213367718105-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 341,
         "replies": 18,
@@ -2207,7 +2055,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 63,
+      "rank": 54,
       "benchmarkPostId": "2095261443717239182",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-broadcom-avgo-just-said-that-it-expects-to-bring-39182",
@@ -2245,7 +2093,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 64,
+      "rank": 55,
       "benchmarkPostId": "2095224412077244758",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-johnson-amp-johnson-jnj-stock-hit-new-52-week-hi-44758",
@@ -2255,7 +2103,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRO7PgrWYAcS3RT.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRO7PgrWYAcS3RT.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095224412077244758-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 129,
         "replies": 16,
@@ -2277,7 +2131,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 65,
+      "rank": 56,
       "benchmarkPostId": "2095196970465755248",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-55248",
@@ -2287,7 +2141,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HROiUVqWIAQXKuB.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROiUVqWIAQXKuB.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095196970465755248-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 113,
         "replies": 23,
@@ -2309,7 +2169,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 66,
+      "rank": 57,
       "benchmarkPostId": "2094707697350295566",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2353,7 +2213,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 67,
+      "rank": 58,
       "benchmarkPostId": "2095178347865096511",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-commerce-secretary-lutnick-just-said-anthropic-i-96511",
@@ -2383,7 +2243,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 68,
+      "rank": 59,
       "benchmarkPostId": "2095447324449198322",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2427,7 +2287,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 69,
+      "rank": 60,
       "benchmarkPostId": "2095260451147800640",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-snowflake-s-snow-ceo-just-said-we-remain-on-trac-00640",
@@ -2457,7 +2317,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 70,
+      "rank": 61,
       "benchmarkPostId": "2095458198014620094",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2501,7 +2361,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 71,
+      "rank": 62,
       "benchmarkPostId": "2095685369031278901",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-jim-cramer-was-just-asked-about-iren-stock-if-yo-78901",
@@ -2531,7 +2391,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 72,
+      "rank": 63,
       "benchmarkPostId": "2095170753813434495",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-smn-analyst-number-5-is-in-the-region-to-monitor-34495",
@@ -2561,7 +2421,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 73,
+      "rank": 64,
       "benchmarkPostId": "2094700443565772862",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2605,7 +2465,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 74,
+      "rank": 65,
       "benchmarkPostId": "2095441173636604329",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2649,7 +2509,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 75,
+      "rank": 66,
       "benchmarkPostId": "2095483102520840604",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -2687,7 +2547,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 76,
+      "rank": 67,
       "benchmarkPostId": "2095179359199846611",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-southwest-airlines-luv-plans-to-roll-out-its-fir-46611",
@@ -2697,7 +2557,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HROSa9iagAAdvu6.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HROSa9iagAAdvu6.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095179359199846611-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 50,
         "replies": 9,
@@ -2719,7 +2585,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 77,
+      "rank": 68,
       "benchmarkPostId": "2095604149098361327",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-smart-ring-maker-oura-just-filed-to-go-public-in-61327",
@@ -2757,7 +2623,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 78,
+      "rank": 69,
       "benchmarkPostId": "2095575763814629437",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-martian-s-ai-frontier-is-now-live-lettin-29437",
@@ -2787,7 +2653,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 79,
+      "rank": 70,
       "benchmarkPostId": "2095221095443951871",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-here-is-some-of-the-stuff-that-our-partners-at-b-51871",
@@ -2797,7 +2663,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRO3glVbwAEgAYK.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRO3glVbwAEgAYK.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095221095443951871-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 16,
         "replies": 6,
@@ -2819,7 +2691,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 80,
+      "rank": 71,
       "benchmarkPostId": "2094715511569256676",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2863,7 +2735,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 81,
+      "rank": 72,
       "benchmarkPostId": "2095524216011456777",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-you-can-now-trade-1000x-leverage-on-new--56777",
@@ -2907,7 +2779,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 82,
+      "rank": 73,
       "benchmarkPostId": "2095637595174691054",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-is-the-tesla-tsla-event-happening-91054",
@@ -2937,7 +2809,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 83,
+      "rank": 74,
       "benchmarkPostId": "2095607202224443703",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-adobe-adbe-just-announced-that-anil-chakravarthy-43703",
@@ -2967,7 +2839,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 84,
+      "rank": 75,
       "benchmarkPostId": "2095531894926451028",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-polymarket-just-launched-perpetual-futures-polym-51028",
@@ -2997,7 +2869,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 85,
+      "rank": 76,
       "benchmarkPostId": "2095524837208834303",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-bitcoin-btc-is-back-over-80-000-34303",
@@ -3007,7 +2879,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRTMu3jX0AAVAKE.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTMu3jX0AAVAKE.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095524837208834303-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 168,
         "replies": 16,
@@ -3029,7 +2907,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 86,
+      "rank": 77,
       "benchmarkPostId": "2095621908288946214",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-spacexai-spcx-launches-grok-bot-for-ente-46214",
@@ -3073,7 +2951,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 87,
+      "rank": 78,
       "benchmarkPostId": "2095506487988645951",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-snowflake-snow-is-starting-trading-today-up-by-m-45951",
@@ -3083,7 +2961,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRS8C0hXkAEH4kC.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRS8C0hXkAEH4kC.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095506487988645951-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 138,
         "replies": 16,
@@ -3105,7 +2989,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 88,
+      "rank": 79,
       "benchmarkPostId": "2095257442594455572",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-this-is-how-the-stock-market-performed-today-55572",
@@ -3143,7 +3027,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 89,
+      "rank": 80,
       "benchmarkPostId": "2095521469094662334",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-jpmorgan-jpm-is-now-less-than-50-billion-away-fr-62334",
@@ -3153,7 +3037,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRTJpzqaEAAsTLI.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTJpzqaEAAsTLI.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095521469094662334-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 124,
         "replies": 14,
@@ -3175,7 +3065,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 90,
+      "rank": 81,
       "benchmarkPostId": "2095570560407183583",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-hugging-face-x-nvidia-nvda-83583",
@@ -3185,7 +3075,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/amplify_video_thumb/2095502179918651392/img/D5_3p_26H-1PJCV_.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095502179918651392/img/D5_3p_26H-1PJCV_.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095570560407183583-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 162,
         "replies": 5,
@@ -3207,7 +3103,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 91,
+      "rank": 82,
       "benchmarkPostId": "2095598809787036057",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-flap-releases-the-first-defi-lending-yie-36057",
@@ -3245,7 +3141,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 92,
+      "rank": 83,
       "benchmarkPostId": "2095523910951256433",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-campbell-s-soup-cpb-just-announced-that-is-has-c-56433",
@@ -3255,7 +3151,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRTL2kAXQAADUDV.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTL2kAXQAADUDV.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095523910951256433-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 64,
         "replies": 20,
@@ -3277,7 +3179,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 93,
+      "rank": 84,
       "benchmarkPostId": "2095452728918941789",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -3321,7 +3223,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 94,
+      "rank": 85,
       "benchmarkPostId": "2095516280321102293",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-02293",
@@ -3331,7 +3233,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRTE8shacAAIpPz.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRTE8shacAAIpPz.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095516280321102293-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 96,
         "replies": 14,
@@ -3353,7 +3261,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 95,
+      "rank": 86,
       "benchmarkPostId": "2095570340181098993",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-google-googl-ceo-sundar-pichai-just-posted-this--98993",
@@ -3363,7 +3271,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/amplify_video_thumb/2095551285491863552/img/e12_fYaBs084D3VJ.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095551285491863552/img/e12_fYaBs084D3VJ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095570340181098993-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 93,
         "replies": 8,
@@ -3385,7 +3299,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 96,
+      "rank": 87,
       "benchmarkPostId": "2095571452686635457",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-google-googl-just-launched-what-it-calls-his-the-35457",
@@ -3395,7 +3309,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/amplify_video_thumb/2095526230070022145/img/ho5C75xc4fAqoVOe.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095526230070022145/img/ho5C75xc4fAqoVOe.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095571452686635457-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 94,
         "replies": 8,
@@ -3417,7 +3337,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 97,
+      "rank": 88,
       "benchmarkPostId": "2095259425544061399",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-here-is-a-early-look-at-some-of-the-largest-stoc-61399",
@@ -3455,7 +3375,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 98,
+      "rank": 89,
       "benchmarkPostId": "2095587575339659391",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-the-ceo-of-strategy-mstr-is-on-this-live-stream--59391",
@@ -3485,7 +3405,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 99,
+      "rank": 90,
       "benchmarkPostId": "2095484907938082935",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -3529,7 +3449,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 100,
+      "rank": 91,
       "benchmarkPostId": "2095606516673810468",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-zscaler-zs-stock-is-up-initially-in-after-hours--10468",
@@ -3567,7 +3487,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 101,
+      "rank": 92,
       "benchmarkPostId": "2094749779653800408",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -3611,7 +3531,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 102,
+      "rank": 93,
       "benchmarkPostId": "2095193305638211846",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260903-just-in-metawin-announces-another-1m-will-be-giv-11846",
@@ -3655,7 +3575,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 103,
+      "rank": 94,
       "benchmarkPostId": "2095468266487476518",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-vsxy-q2-reaction",
@@ -3693,7 +3613,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 104,
+      "rank": 95,
       "benchmarkPostId": "2095476096225378535",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-watch-out-for-this-major-event-tonight-tesla-tsl-78535",
@@ -3731,7 +3651,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 105,
+      "rank": 96,
       "benchmarkPostId": "2095489853974589823",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -3761,7 +3681,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 106,
+      "rank": 97,
       "benchmarkPostId": "2095472251269157058",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -3791,7 +3711,7 @@
       "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."
     },
     {
-      "rank": 107,
+      "rank": 98,
       "benchmarkPostId": "2095480211940749790",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260903-this-is-how-you-go-from-being-worth-250b-to-bein-49790",

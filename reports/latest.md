@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T04:53:51.762862+00:00`
+- 状态更新：`2026-09-04T05:00:02.594878+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**183**
 - 待选选题：**143**
@@ -990,6 +990,8 @@ Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offe
 
 ## 最近运行
 
+- `2026-09-04T05:00:02Z` **queue / succeeded** — Prepared 98 one-to-one production candidate(s).
+- `2026-09-04T04:59:58Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-04T04:51:00+00:00` **publish / failed** — Terminal Postiz delivery failure after one safe retry; no PUBLISHED state or public X URL. Package pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669: Postiz returned ERROR for delivery IDs cmtmh7thr0ceglm0ybqu8j3mg and cmtmh87nv0ceilm0yx5sxyxxe; releaseURL and releaseId were null.
 - `2026-09-04T04:52:44.121647+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:52:12.801891+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1008,5 +1010,3 @@ Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offe
 - `2026-09-04T04:32:59.631913+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:32:32.303201+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T04:32:04.991947+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:31:37.651256+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-04T04:31:10.358496+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
