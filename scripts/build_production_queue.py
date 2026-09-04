@@ -28,6 +28,22 @@ def title(text):
     clean = re.sub(r"\s+", " ", text).strip()
     return clean[:92] + ("…" if len(clean) > 92 else "")
 
+def heat_score(post):
+    """Deterministic current-engagement priority for delivery selection.
+
+    Views show reach while interactions signal active attention.  The raw,
+    freshly captured values remain in the queue for audit; the weighted total
+    is only used to order ready packages for this scheduled publishing pass.
+    """
+    engagement = post.get("engagement") or {}
+    return (
+        int(engagement.get("views") or 0)
+        + 20 * int(engagement.get("likes") or 0)
+        + 40 * int(engagement.get("replies") or 0)
+        + 50 * int(engagement.get("reposts") or 0)
+        + 60 * int(engagement.get("quotes") or 0)
+    )
+
 def score(post):
     text = post["text"].lower()
     posted = parse(post.get("postedAt"))
@@ -42,19 +58,21 @@ def score(post):
 
 def main():
     current = state.load_state()
-    covered = {str(x.get("benchmarkPostId")) for x in current.get("packages", [])}
+    packages = {str(x.get("benchmarkPostId")): x for x in current.get("packages", [])}
     known_radar = {str(x.get("benchmarkPostId")) for x in current.get("radar", [])}
     candidates = []
     for post in current.get("benchmarkPosts", []):
         posted = parse(post.get("postedAt"))
-        if str(post.get("id")) in covered or (posted and now() - posted > timedelta(hours=72)):
+        package = packages.get(str(post.get("id")))
+        if (package and package.get("status") == "published") or (posted and now() - posted > timedelta(hours=72)):
             continue
-        total, breakdown = score(post)
+        editorial_total, breakdown = score(post)
+        total = heat_score(post)
         # Every eligible captured original receives an output.  Reframe weak or
         # unverified claims as attributed radar/context; do not discard them.
-        candidates.append((total, post, breakdown))
+        candidates.append((total, post, breakdown, package, editorial_total))
     candidates.sort(key=lambda item: (item[0], item[1].get("postedAt", "")), reverse=True)
-    for rank, (total, post, breakdown) in enumerate(candidates, start=1):
+    for rank, (total, post, breakdown, package, editorial_total) in enumerate(candidates, start=1):
         if str(post["id"]) not in known_radar:
             current["radar"].append({
                 "id": f"radar-{post['id']}", "rank": rank,
@@ -65,12 +83,15 @@ def main():
             })
     queue = {"generatedAt": iso(), "timezone": "Asia/Shanghai", "items": [
         {"rank": rank, "benchmarkPostId": post["id"], "benchmarkAccount": post["account"],
+         "packageId": package.get("id") if package else None,
+         "packageStatus": package.get("status") if package else "unproduced",
          "benchmarkUrl": post["url"], "originalText": post["text"], "originalMediaUrls": post.get("mediaUrls", []),
          "archivedMedia": [x for x in post.get("mediaArchive", []) if x.get("status") == "archived"],
          "engagement": post.get("engagement", {}), "postedAt": post.get("postedAt", ""),
-         "score": total, "scoreBreakdown": breakdown,
+         "score": total, "heatScore": total, "scoreBreakdown": breakdown,
+         "editorialScore": editorial_total,
          "productionInstruction": "Verify the factual payload against a primary source, then make one original 1:1 when2buy visual and an independently worded English X post. Preserve this exact source mapping; do not publish without action-time confirmation."}
-        for rank, (total, post, breakdown) in enumerate(candidates, start=1)
+        for rank, (total, post, breakdown, package, editorial_total) in enumerate(candidates, start=1)
     ]}
     QUEUE_PATH.write_text(json.dumps(queue, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     current["runs"].append({"id": f"run-{now().strftime('%Y%m%dT%H%M%SZ')}-queue", "mode": "queue", "status": "succeeded", "startedAt": iso(), "completedAt": iso(), "summary": f"Prepared {len(queue['items'])} one-to-one production candidate(s).", "reason": ""})

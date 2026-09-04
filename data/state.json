@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T04:33:39.167858+00:00",
+  "updatedAt": "2026-09-04T04:53:51.762862+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -3561,6 +3561,1010 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095246378519687553",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095246378519687553",
+      "postedAt": "Wed Sep 02 20:23:59 +0000 2026",
+      "text": "Broadcom $AVGO stock is down by 5% in after hours following its earnings\n\n🔴🔴🔴🔴🔴 https://t.co/7SinK8w0V4",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPPXcPWEAU8Gfj.jpg"
+      ],
+      "engagement": {
+        "likes": 176,
+        "replies": 19,
+        "reposts": 11,
+        "quotes": 2,
+        "views": 46024
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095245756265316732",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095245756265316732",
+      "postedAt": "Wed Sep 02 20:21:30 +0000 2026",
+      "text": "Costco $COST just reported revenue of $23.7 Billion of revenue in August up 9.9% YoY https://t.co/hm11zyalof",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPO6PHWQAMI59K.jpg"
+      ],
+      "engagement": {
+        "likes": 194,
+        "replies": 17,
+        "reposts": 18,
+        "quotes": 1,
+        "views": 38685
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095243894900269397",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095243894900269397",
+      "postedAt": "Wed Sep 02 20:14:06 +0000 2026",
+      "text": "Snowflake $SNOW stock is up by 20% in after hours following its earnings\n\n🟢 https://t.co/J64CxEZQu4",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPNJ9vasAAlBRC.jpg"
+      ],
+      "engagement": {
+        "likes": 237,
+        "replies": 11,
+        "reposts": 18,
+        "quotes": 2,
+        "views": 42812
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095239112630452702",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095239112630452702",
+      "postedAt": "Wed Sep 02 19:55:06 +0000 2026",
+      "text": "Deere $DE stock hit new ALL TIME HIGHS again today\n\n🟢🟢🟢🟢🟢 https://t.co/1yNJSq83Nw",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPI3bCXAAQeV8z.jpg"
+      ],
+      "engagement": {
+        "likes": 241,
+        "replies": 19,
+        "reposts": 16,
+        "quotes": 3,
+        "views": 36680
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095236089535418848",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095236089535418848",
+      "postedAt": "Wed Sep 02 19:43:06 +0000 2026",
+      "text": "Google's $GOOGL self driving car company Waymo is in the final stages of talks to raise $3B of debt which would be the first time they raise money through debt - Bloomberg https://t.co/XrdKR08xZk",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPFzyMawAALcDg.jpg"
+      ],
+      "engagement": {
+        "likes": 273,
+        "replies": 14,
+        "reposts": 10,
+        "quotes": 3,
+        "views": 37972
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095232751951614214",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095232751951614214",
+      "postedAt": "Wed Sep 02 19:29:50 +0000 2026",
+      "text": "META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS:\n\n\"Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter. This is the biggest jump we've made so far on coding and agentic work.\" https://t.co/5Yl5sdxEVC",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRPDDMcacAAOaN3.png"
+      ],
+      "engagement": {
+        "likes": 399,
+        "replies": 11,
+        "reposts": 24,
+        "quotes": 4,
+        "views": 50343
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095224412077244758",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095224412077244758",
+      "postedAt": "Wed Sep 02 18:56:41 +0000 2026",
+      "text": "Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today\n\n🟢 https://t.co/tidwspycLc",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRO7PgrWYAcS3RT.jpg"
+      ],
+      "engagement": {
+        "likes": 129,
+        "replies": 16,
+        "reposts": 7,
+        "quotes": 2,
+        "views": 35549
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095221095443951871",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095221095443951871",
+      "postedAt": "Wed Sep 02 18:43:31 +0000 2026",
+      "text": "Here is some of the stuff that our partners at BTQ Technologies have done so far in 2026 👀 https://t.co/mPH5k5ienC",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRO3glVbwAEgAYK.jpg"
+      ],
+      "engagement": {
+        "likes": 16,
+        "replies": 6,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 35167
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095217207504470355",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095217207504470355",
+      "postedAt": "Wed Sep 02 18:28:04 +0000 2026",
+      "text": "🇺🇸 President Trump just said \n\n- THE STOCK MARKET WILL GO UP",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 855,
+        "replies": 44,
+        "reposts": 42,
+        "quotes": 9,
+        "views": 129116
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095196970465755248",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095196970465755248",
+      "postedAt": "Wed Sep 02 17:07:39 +0000 2026",
+      "text": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/zkPUhoa9KM",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROiUVqWIAQXKuB.jpg"
+      ],
+      "engagement": {
+        "likes": 113,
+        "replies": 23,
+        "reposts": 11,
+        "quotes": 0,
+        "views": 35418
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095183032831361384",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095183032831361384",
+      "postedAt": "Wed Sep 02 16:12:16 +0000 2026",
+      "text": "Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 effective September 2nd, following a review of its operations in the West African nation - Bloomberg https://t.co/yBZXxCSkkO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROV28wagAA0x6H.jpg"
+      ],
+      "engagement": {
+        "likes": 193,
+        "replies": 23,
+        "reposts": 12,
+        "quotes": 2,
+        "views": 45699
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095180650324103269",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095180650324103269",
+      "postedAt": "Wed Sep 02 16:02:48 +0000 2026",
+      "text": "This is what $5.35 Million gets you in Cleveland Ohio https://t.co/eKMzT15I7R",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROTgRwa4AEqbXN.png"
+      ],
+      "engagement": {
+        "likes": 97,
+        "replies": 13,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 65282
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095179359199846611",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095179359199846611",
+      "postedAt": "Wed Sep 02 15:57:40 +0000 2026",
+      "text": "Southwest Airlines $LUV plans to roll out its first-ever lounge network next year - Bloomberg https://t.co/sL8Eou7lI1",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROSa9iagAAdvu6.jpg"
+      ],
+      "engagement": {
+        "likes": 50,
+        "replies": 9,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 35377
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095178347865096511",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095178347865096511",
+      "postedAt": "Wed Sep 02 15:53:39 +0000 2026",
+      "text": "🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID:\n\n- ANTHROPIC IS \"BACK ON THE RIGHT SIDE\" WITH TRUMP ADMINISTRATION",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 92,
+        "replies": 11,
+        "reposts": 12,
+        "quotes": 0,
+        "views": 35341
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095174970171076698",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095174970171076698",
+      "postedAt": "Wed Sep 02 15:40:14 +0000 2026",
+      "text": "GE Vernova $GEV has committed to repairing large portions of Venezuela’s  🇻🇪 power grid - Bloomberg https://t.co/GD9iE9DMR5",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROObaPaoAAFvtn.jpg"
+      ],
+      "engagement": {
+        "likes": 310,
+        "replies": 5,
+        "reposts": 24,
+        "quotes": 8,
+        "views": 42606
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095173158466654669",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095173158466654669",
+      "postedAt": "Wed Sep 02 15:33:02 +0000 2026",
+      "text": "Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 182,
+        "replies": 11,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 70715
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095171499707580873",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095171499707580873",
+      "postedAt": "Wed Sep 02 15:26:26 +0000 2026",
+      "text": "🇺🇸 President Trump just posted this:\n\n\"Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT???\" https://t.co/zbRAmEJ5Fa",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HROLSPRaMAA7i1U.jpg"
+      ],
+      "engagement": {
+        "likes": 393,
+        "replies": 79,
+        "reposts": 18,
+        "quotes": 17,
+        "views": 82246
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095170753813434495",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095170753813434495",
+      "postedAt": "Wed Sep 02 15:23:28 +0000 2026",
+      "text": "SMN analyst number 5 is in the region to monitor the situation",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 29,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 36890
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095152899093389441",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095152899093389441",
+      "postedAt": "Wed Sep 02 14:12:31 +0000 2026",
+      "text": "Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world:\n\n“Every single country needs to build infrastructure so that you could support your own local economy.” https://t.co/hSPu5jgDmN",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095149434506293248/img/pzIwzBuHb2LkOJ_I.jpg"
+      ],
+      "engagement": {
+        "likes": 388,
+        "replies": 24,
+        "reposts": 35,
+        "quotes": 9,
+        "views": 50720
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095150944275108333",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095150944275108333",
+      "postedAt": "Wed Sep 02 14:04:45 +0000 2026",
+      "text": "Salesforce $CRM and Anthropic just released this new commercial together  https://t.co/fnlLdNlF4s",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRN39AZWcAEmMxz.jpg"
+      ],
+      "engagement": {
+        "likes": 273,
+        "replies": 14,
+        "reposts": 26,
+        "quotes": 7,
+        "views": 64474
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095149851797241905",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095149851797241905",
+      "postedAt": "Wed Sep 02 14:00:25 +0000 2026",
+      "text": "I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought it at the end of the day when the cancer vaccine news came out\n\nI plan to hold for a while\n\nTell me how you think I end up doing in this name using JUST 1 word",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 96,
+        "replies": 25,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 46564
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095146897019154455",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095146897019154455",
+      "postedAt": "Wed Sep 02 13:48:40 +0000 2026",
+      "text": "$DELL is starting out trading today up by 12.8% 🟢 and is now up by 282% 🟢 so far in 2026 https://t.co/k4tOKmHyci",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRN0-W_X0AE0yWS.jpg"
+      ],
+      "engagement": {
+        "likes": 202,
+        "replies": 30,
+        "reposts": 13,
+        "quotes": 4,
+        "views": 39902
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095140381386031505",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095140381386031505",
+      "postedAt": "Wed Sep 02 13:22:47 +0000 2026",
+      "text": "Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of AI as a way to enhance growth\n\n“Every single country needs to build infrastructure so you can support your own local economy”\n\nIn his remarks, Huang said that the “single worst outcome” for a country is “being left behind.” The Nvidia chief warned that could happen if the public and policymakers let fears about AI drive the conversation about the technology.\n\n “We have to make sure that we are balanced in talking about it”\n\n(Source Bloomberg)",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRNu_GpWAAIsuwe.jpg"
+      ],
+      "engagement": {
+        "likes": 305,
+        "replies": 52,
+        "reposts": 23,
+        "quotes": 5,
+        "views": 41491
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095136541538386124",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095136541538386124",
+      "postedAt": "Wed Sep 02 13:07:31 +0000 2026",
+      "text": "SEPTEMBER RATE HIKE ODDS\n\nThere is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% this month\n\nThere is currently a 44% chance that Kevin Warsh and the 🇺🇸 Fed make no changes to rates this month https://t.co/zArobzPEcZ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRNpsfyW4AQlihu.jpg"
+      ],
+      "engagement": {
+        "likes": 103,
+        "replies": 33,
+        "reposts": 6,
+        "quotes": 3,
+        "views": 36518
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095120971413790757",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095120971413790757",
+      "postedAt": "Wed Sep 02 12:05:39 +0000 2026",
+      "text": "JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform rating. https://t.co/YquuZR6Wfc",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRNdawKWoAAcidh.jpg",
+        "https://pbs.twimg.com/media/HRNdawSXQAEONuv.jpg"
+      ],
+      "engagement": {
+        "likes": 864,
+        "replies": 49,
+        "reposts": 91,
+        "quotes": 13,
+        "views": 59713
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095113199389495519",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095113199389495519",
+      "postedAt": "Wed Sep 02 11:34:46 +0000 2026",
+      "text": "NEW: XYO and Gate AI team up to launch XYO crypto cards. https://t.co/kJwdxDQtt5 https://t.co/UfwRLSHDAE",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2094785154535579648/img/2lnbblAQdcvfIWSJ.jpg"
+      ],
+      "engagement": {
+        "likes": 101,
+        "replies": 15,
+        "reposts": 12,
+        "quotes": 0,
+        "views": 37503
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095103588028535044",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095103588028535044",
+      "postedAt": "Wed Sep 02 10:56:35 +0000 2026",
+      "text": "JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. https://t.co/9yQvGL0uyt",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRNNmVUWoAMG0w2.jpg",
+        "https://pbs.twimg.com/media/HRNNmVcXwAInZh1.jpg"
+      ],
+      "engagement": {
+        "likes": 755,
+        "replies": 45,
+        "reposts": 43,
+        "quotes": 1,
+        "views": 44300
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095031163773440065",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095031163773440065",
+      "postedAt": "Wed Sep 02 06:08:47 +0000 2026",
+      "text": "JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. https://t.co/KBTaMvxKRn",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRMLvNWXcAUvnRg.jpg",
+        "https://pbs.twimg.com/media/HRMLvNSWgAQ-f8-.jpg"
+      ],
+      "engagement": {
+        "likes": 1096,
+        "replies": 43,
+        "reposts": 143,
+        "quotes": 11,
+        "views": 57901
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095018683512857038",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095018683512857038",
+      "postedAt": "Wed Sep 02 05:19:12 +0000 2026",
+      "text": "JUST IN: Fidelity clients sell $43.67 million worth of $BTC. https://t.co/gmqHNFvz3U",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRMAYwRXQAQXTNP.jpg",
+        "https://pbs.twimg.com/media/HRMAYwMXsAsHb8Q.jpg"
+      ],
+      "engagement": {
+        "likes": 605,
+        "replies": 56,
+        "reposts": 36,
+        "quotes": 7,
+        "views": 44669
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095010013710278779",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095010013710278779",
+      "postedAt": "Wed Sep 02 04:44:45 +0000 2026",
+      "text": "JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. https://t.co/pZDW4KmWgF",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRL4gFnWEAAOGVc.jpg",
+        "https://pbs.twimg.com/media/HRL4gFoXkAAx_Kf.jpg"
+      ],
+      "engagement": {
+        "likes": 966,
+        "replies": 78,
+        "reposts": 93,
+        "quotes": 12,
+        "views": 89905
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095573569849700552",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095573569849700552",
+      "postedAt": "Thu Sep 03 18:04:07 +0000 2026",
+      "text": "OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 115,
+        "replies": 8,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 58044
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095572272689872910",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095572272689872910",
+      "postedAt": "Thu Sep 03 17:58:58 +0000 2026",
+      "text": "WHAT A TURN AROUND \n\nWe’re don’t a stock picking competition with Gamestock … the people who come in the top 10 get $100 each \n\nI am now in 8th place with Robinhood and Circle running today \n\nIS INVERSE EVAN OVER? https://t.co/oHUNdYDeXc",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRT337hbIAALBbG.jpg",
+        "https://pbs.twimg.com/media/HRT336yXYAE3fU_.jpg"
+      ],
+      "engagement": {
+        "likes": 27,
+        "replies": 6,
+        "reposts": 2,
+        "quotes": 1,
+        "views": 41128
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095571452686635457",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095571452686635457",
+      "postedAt": "Thu Sep 03 17:55:42 +0000 2026",
+      "text": "Google $GOOGL just launched what it calls his the most advanced and accurate weather prediction model \n\n“WeatherNext 3 is a major breakthrough in how we forecast global weather.” https://t.co/2HQRJFjMe5",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095526230070022145/img/ho5C75xc4fAqoVOe.jpg"
+      ],
+      "engagement": {
+        "likes": 94,
+        "replies": 8,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 28265
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095570560407183583",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095570560407183583",
+      "postedAt": "Thu Sep 03 17:52:10 +0000 2026",
+      "text": "Hugging Face x Nvidia $NVDA  https://t.co/uPGEFGDVq7",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095502179918651392/img/D5_3p_26H-1PJCV_.jpg"
+      ],
+      "engagement": {
+        "likes": 162,
+        "replies": 5,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 28892
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095570340181098993",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095570340181098993",
+      "postedAt": "Thu Sep 03 17:51:17 +0000 2026",
+      "text": "Google $GOOGL CEO Sundar Pichai just posted this:\n\n“New Gemini voice capabilities are rolling out so you can search your Gmail inbox, organize thoughts and tasks in Keep, and create new Docs, all conversationally” https://t.co/fcHc681NDH",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095551285491863552/img/e12_fYaBs084D3VJ.jpg"
+      ],
+      "engagement": {
+        "likes": 93,
+        "replies": 8,
+        "reposts": 9,
+        "quotes": 0,
+        "views": 28090
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095560327723106558",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095560327723106558",
+      "postedAt": "Thu Sep 03 17:11:30 +0000 2026",
+      "text": "The 3 founders of Hugging Face are now each worth $1.8 Billion after today's Nvidia deal\n\nClement \"Clem\" Delangue, Julien Chaumond, and Thomas Wolf are now all billionaires - Bloomberg https://t.co/ijDvx9XVPP",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTs_QtWYAMdS0s.jpg"
+      ],
+      "engagement": {
+        "likes": 179,
+        "replies": 13,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 36595
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095543274987507876",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095543274987507876",
+      "postedAt": "Thu Sep 03 16:03:44 +0000 2026",
+      "text": "GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET ARENA",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 79,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 40085
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095531894926451028",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095531894926451028",
+      "postedAt": "Thu Sep 03 15:18:31 +0000 2026",
+      "text": "POLYMARKET JUST LAUNCHED PERPETUAL FUTURES\n\nPolymarket⁠.com just launched Perps on the platform which lets people trade stuff like crypto, stocks, indices and commodities with leverage alongside prediction markets on the same platform",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 43,
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 33251
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095527173582885289",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095527173582885289",
+      "postedAt": "Thu Sep 03 14:59:45 +0000 2026",
+      "text": "OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 603,
+        "replies": 86,
+        "reposts": 46,
+        "quotes": 81,
+        "views": 907180
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095524837208834303",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095524837208834303",
+      "postedAt": "Thu Sep 03 14:50:28 +0000 2026",
+      "text": "Bitcoin $BTC is back over $80,000\n\n🟢🟢🟢🟢🟢🟢🟢🟢 https://t.co/Wwq2UAfk3g",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTMu3jX0AAVAKE.jpg"
+      ],
+      "engagement": {
+        "likes": 168,
+        "replies": 16,
+        "reposts": 12,
+        "quotes": 5,
+        "views": 29256
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095523910951256433",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095523910951256433",
+      "postedAt": "Thu Sep 03 14:46:47 +0000 2026",
+      "text": "Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of its workforce - WSJ https://t.co/XN9VvX6UAq",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTL2kAXQAADUDV.jpg"
+      ],
+      "engagement": {
+        "likes": 64,
+        "replies": 20,
+        "reposts": 8,
+        "quotes": 4,
+        "views": 29386
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095521469094662334",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095521469094662334",
+      "postedAt": "Thu Sep 03 14:37:05 +0000 2026",
+      "text": "JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club https://t.co/X5AbrcZ3f1",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTJpzqaEAAsTLI.jpg"
+      ],
+      "engagement": {
+        "likes": 124,
+        "replies": 14,
+        "reposts": 10,
+        "quotes": 1,
+        "views": 29188
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095517235057975299",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095517235057975299",
+      "postedAt": "Thu Sep 03 14:20:16 +0000 2026",
+      "text": "The stock market Fear and Greed index is now down into Fear currently at 35/100 https://t.co/IreKwU5FXX",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTFx20XMAE5r5d.jpg"
+      ],
+      "engagement": {
+        "likes": 184,
+        "replies": 38,
+        "reposts": 15,
+        "quotes": 10,
+        "views": 51152
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095516280321102293",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095516280321102293",
+      "postedAt": "Thu Sep 03 14:16:28 +0000 2026",
+      "text": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/50lxbSGZlH",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRTE8shacAAIpPz.jpg"
+      ],
+      "engagement": {
+        "likes": 96,
+        "replies": 14,
+        "reposts": 10,
+        "quotes": 0,
+        "views": 28116
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095509213367718105",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095509213367718105",
+      "postedAt": "Thu Sep 03 13:48:23 +0000 2026",
+      "text": "$META’s stock is back to starting with a 6 https://t.co/ASFZWnICQm",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRS-hfZWUAEDoDk.jpg"
+      ],
+      "engagement": {
+        "likes": 341,
+        "replies": 18,
+        "reposts": 13,
+        "quotes": 2,
+        "views": 32014
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095506487988645951",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095506487988645951",
+      "postedAt": "Thu Sep 03 13:37:34 +0000 2026",
+      "text": "Snowflake $SNOW is starting trading today up by more than 20% following its earnings last night \n\n🟢 https://t.co/ZexTWQ5hHD",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRS8C0hXkAEH4kC.jpg"
+      ],
+      "engagement": {
+        "likes": 138,
+        "replies": 16,
+        "reposts": 12,
+        "quotes": 1,
+        "views": 29425
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095503578802606552",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095503578802606552",
+      "postedAt": "Thu Sep 03 13:26:00 +0000 2026",
+      "text": "Tim Apple cooked the market during his time as the CEO of Apple $AAPL https://t.co/l6mb6LWf9T",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRS5SlWX0AgwmZh.jpg"
+      ],
+      "engagement": {
+        "likes": 145,
+        "replies": 11,
+        "reposts": 12,
+        "quotes": 4,
+        "views": 40078
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095499492183151063",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095499492183151063",
+      "postedAt": "Thu Sep 03 13:09:46 +0000 2026",
+      "text": "Name another platform where you can get triggered by both Michael Burry and Elon Musk at the same time https://t.co/LDICl5Mfvs",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRS1nZVbMAEX-sF.png"
+      ],
+      "engagement": {
+        "likes": 97,
+        "replies": 7,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 39590
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095495103158599973",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095495103158599973",
+      "postedAt": "Thu Sep 03 12:52:19 +0000 2026",
+      "text": "🇺🇸 FED'S WALLER JUST SAID: \n\n- WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT A REASONABLE CPI.\n\n- IF THAT REVERSES IN AUGUST WILLING TO PULL TRIGGER ON RATE HIKE",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 122,
+        "replies": 10,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 46563
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095685369031278901",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095685369031278901",
+      "postedAt": "Fri Sep 04 01:28:22 +0000 2026",
+      "text": "Jim Cramer was just asked about $IREN stock:\n\n“If you’re going to do neoclouds, the only one I like is CoreWeave.”",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 133,
+        "replies": 23,
+        "reposts": 5,
+        "quotes": 3,
+        "views": 33845
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
+    },
+    {
+      "id": "2095681253504651266",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095681253504651266",
+      "postedAt": "Fri Sep 04 01:12:01 +0000 2026",
+      "text": "Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no steering wheel to the public according to @SawyerMerritt \n https://t.co/6Hz8dn9YHM",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095679781488750593/img/RxS_VyRR8wnzrK9B.jpg"
+      ],
+      "engagement": {
+        "likes": 443,
+        "replies": 22,
+        "reposts": 38,
+        "quotes": 6,
+        "views": 39974
+      },
+      "source": "apify",
+      "capturedAt": "2026-09-04T04:43:29Z"
     }
   ],
   "radar": [
@@ -5311,6 +6315,975 @@
         "visualPotential": 3,
         "factualClarity": 3
       }
+    },
+    {
+      "id": "radar-2095527173582885289",
+      "rank": 1,
+      "title": "OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now",
+      "benchmarkPostId": "2095527173582885289",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095527173582885289",
+      "score": 929840,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095217207504470355",
+      "rank": 2,
+      "title": "🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP",
+      "benchmarkPostId": "2095217207504470355",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095217207504470355",
+      "score": 150616,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095010013710278779",
+      "rank": 3,
+      "title": "JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. https://t.co/pZDW4KmWgF",
+      "benchmarkPostId": "2095010013710278779",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095010013710278779",
+      "score": 117715,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 1,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095171499707580873",
+      "rank": 5,
+      "title": "🇺🇸 President Trump just posted this: \"Now that we have it under U.S.A. control, should we ch…",
+      "benchmarkPostId": "2095171499707580873",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095171499707580873",
+      "score": 95186,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095031163773440065",
+      "rank": 6,
+      "title": "JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $…",
+      "benchmarkPostId": "2095031163773440065",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095031163773440065",
+      "score": 89351,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095120971413790757",
+      "rank": 7,
+      "title": "JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outp…",
+      "benchmarkPostId": "2095120971413790757",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095120971413790757",
+      "score": 84283,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095173158466654669",
+      "rank": 8,
+      "title": "Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena",
+      "benchmarkPostId": "2095173158466654669",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095173158466654669",
+      "score": 75095,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095150944275108333",
+      "rank": 9,
+      "title": "Salesforce $CRM and Anthropic just released this new commercial together https://t.co/fnlLdN…",
+      "benchmarkPostId": "2095150944275108333",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095150944275108333",
+      "score": 72214,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095180650324103269",
+      "rank": 12,
+      "title": "This is what $5.35 Million gets you in Cleveland Ohio https://t.co/eKMzT15I7R",
+      "benchmarkPostId": "2095180650324103269",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095180650324103269",
+      "score": 67842,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095103588028535044",
+      "rank": 16,
+      "title": "JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. …",
+      "benchmarkPostId": "2095103588028535044",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095103588028535044",
+      "score": 63410,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095152899093389441",
+      "rank": 17,
+      "title": "Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the…",
+      "benchmarkPostId": "2095152899093389441",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095152899093389441",
+      "score": 61730,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095018683512857038",
+      "rank": 19,
+      "title": "JUST IN: Fidelity clients sell $43.67 million worth of $BTC. https://t.co/gmqHNFvz3U",
+      "benchmarkPostId": "2095018683512857038",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095018683512857038",
+      "score": 61229,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095573569849700552",
+      "rank": 20,
+      "title": "OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times",
+      "benchmarkPostId": "2095573569849700552",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095573569849700552",
+      "score": 61074,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095232751951614214",
+      "rank": 21,
+      "title": "META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: \"Muse Spark 1.3 is rolling out to…",
+      "benchmarkPostId": "2095232751951614214",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095232751951614214",
+      "score": 60203,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095517235057975299",
+      "rank": 23,
+      "title": "The stock market Fear and Greed index is now down into Fear currently at 35/100 https://t.co…",
+      "benchmarkPostId": "2095517235057975299",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095517235057975299",
+      "score": 57702,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095681253504651266",
+      "rank": 29,
+      "title": "Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab wit…",
+      "benchmarkPostId": "2095681253504651266",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095681253504651266",
+      "score": 51974,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095183032831361384",
+      "rank": 30,
+      "title": "Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 effective September 2nd,…",
+      "benchmarkPostId": "2095183032831361384",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095183032831361384",
+      "score": 51199,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095140381386031505",
+      "rank": 31,
+      "title": "Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of …",
+      "benchmarkPostId": "2095140381386031505",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095140381386031505",
+      "score": 51121,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095246378519687553",
+      "rank": 32,
+      "title": "Broadcom $AVGO stock is down by 5% in after hours following its earnings 🔴🔴🔴🔴🔴 https://t.co/…",
+      "benchmarkPostId": "2095246378519687553",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095246378519687553",
+      "score": 50974,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095174970171076698",
+      "rank": 34,
+      "title": "GE Vernova $GEV has committed to repairing large portions of Venezuela’s 🇻🇪 power grid - Blo…",
+      "benchmarkPostId": "2095174970171076698",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095174970171076698",
+      "score": 50686,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095495103158599973",
+      "rank": 35,
+      "title": "🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT …",
+      "benchmarkPostId": "2095495103158599973",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095495103158599973",
+      "score": 50133,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 3,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095149851797241905",
+      "rank": 36,
+      "title": "I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought it at the end of the da…",
+      "benchmarkPostId": "2095149851797241905",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095149851797241905",
+      "score": 49534,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095243894900269397",
+      "rank": 38,
+      "title": "Snowflake $SNOW stock is up by 20% in after hours following its earnings 🟢 https://t.co/J64C…",
+      "benchmarkPostId": "2095243894900269397",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095243894900269397",
+      "score": 49012,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095146897019154455",
+      "rank": 44,
+      "title": "$DELL is starting out trading today up by 12.8% 🟢 and is now up by 282% 🟢 so far in 2026 htt…",
+      "benchmarkPostId": "2095146897019154455",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095146897019154455",
+      "score": 46032,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095236089535418848",
+      "rank": 46,
+      "title": "Google's $GOOGL self driving car company Waymo is in the final stages of talks to raise $3B …",
+      "benchmarkPostId": "2095236089535418848",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095236089535418848",
+      "score": 44672,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095503578802606552",
+      "rank": 49,
+      "title": "Tim Apple cooked the market during his time as the CEO of Apple $AAPL https://t.co/l6mb6LWf9…",
+      "benchmarkPostId": "2095503578802606552",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095503578802606552",
+      "score": 44258,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095245756265316732",
+      "rank": 50,
+      "title": "Costco $COST just reported revenue of $23.7 Billion of revenue in August up 9.9% YoY https:/…",
+      "benchmarkPostId": "2095245756265316732",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095245756265316732",
+      "score": 44205,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095239112630452702",
+      "rank": 52,
+      "title": "Deere $DE stock hit new ALL TIME HIGHS again today 🟢🟢🟢🟢🟢 https://t.co/1yNJSq83Nw",
+      "benchmarkPostId": "2095239112630452702",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095239112630452702",
+      "score": 43240,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095572272689872910",
+      "rank": 54,
+      "title": "WHAT A TURN AROUND We’re don’t a stock picking competition with Gamestock … the people who c…",
+      "benchmarkPostId": "2095572272689872910",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095572272689872910",
+      "score": 42068,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095543274987507876",
+      "rank": 55,
+      "title": "GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET ARENA",
+      "benchmarkPostId": "2095543274987507876",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095543274987507876",
+      "score": 41965,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095499492183151063",
+      "rank": 56,
+      "title": "Name another platform where you can get triggered by both Michael Burry and Elon Musk at the…",
+      "benchmarkPostId": "2095499492183151063",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095499492183151063",
+      "score": 41910,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095560327723106558",
+      "rank": 57,
+      "title": "The 3 founders of Hugging Face are now each worth $1.8 Billion after today's Nvidia deal Cle…",
+      "benchmarkPostId": "2095560327723106558",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095560327723106558",
+      "score": 41105,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095113199389495519",
+      "rank": 59,
+      "title": "NEW: XYO and Gate AI team up to launch XYO crypto cards. https://t.co/kJwdxDQtt5 https://t.c…",
+      "benchmarkPostId": "2095113199389495519",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095113199389495519",
+      "score": 40723,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095136541538386124",
+      "rank": 61,
+      "title": "SEPTEMBER RATE HIKE ODDS There is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed rai…",
+      "benchmarkPostId": "2095136541538386124",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095136541538386124",
+      "score": 40378,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095509213367718105",
+      "rank": 62,
+      "title": "$META’s stock is back to starting with a 6 https://t.co/ASFZWnICQm",
+      "benchmarkPostId": "2095509213367718105",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095509213367718105",
+      "score": 40324,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095224412077244758",
+      "rank": 64,
+      "title": "Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today 🟢 https://t.co/tidwspycLc",
+      "benchmarkPostId": "2095224412077244758",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095224412077244758",
+      "score": 39239,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095196970465755248",
+      "rank": 65,
+      "title": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading htt…",
+      "benchmarkPostId": "2095196970465755248",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095196970465755248",
+      "score": 39148,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095178347865096511",
+      "rank": 67,
+      "title": "🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID: - ANTHROPIC IS \"BACK ON THE RIGHT SIDE\" WITH TRUMP …",
+      "benchmarkPostId": "2095178347865096511",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095178347865096511",
+      "score": 38221,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095685369031278901",
+      "rank": 71,
+      "title": "Jim Cramer was just asked about $IREN stock: “If you’re going to do neoclouds, the only one …",
+      "benchmarkPostId": "2095685369031278901",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095685369031278901",
+      "score": 37855,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095170753813434495",
+      "rank": 72,
+      "title": "SMN analyst number 5 is in the region to monitor the situation",
+      "benchmarkPostId": "2095170753813434495",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095170753813434495",
+      "score": 37770,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095179359199846611",
+      "rank": 76,
+      "title": "Southwest Airlines $LUV plans to roll out its first-ever lounge network next year - Bloomber…",
+      "benchmarkPostId": "2095179359199846611",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095179359199846611",
+      "score": 36937,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095221095443951871",
+      "rank": 79,
+      "title": "Here is some of the stuff that our partners at BTQ Technologies have done so far in 2026 👀 h…",
+      "benchmarkPostId": "2095221095443951871",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095221095443951871",
+      "score": 35777,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095531894926451028",
+      "rank": 84,
+      "title": "POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launched Perps on the platfo…",
+      "benchmarkPostId": "2095531894926451028",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095531894926451028",
+      "score": 34521,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095524837208834303",
+      "rank": 85,
+      "title": "Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢 https://t.co/Wwq2UAfk3g",
+      "benchmarkPostId": "2095524837208834303",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095524837208834303",
+      "score": 34156,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095506487988645951",
+      "rank": 87,
+      "title": "Snowflake $SNOW is starting trading today up by more than 20% following its earnings last ni…",
+      "benchmarkPostId": "2095506487988645951",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095506487988645951",
+      "score": 33485,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095521469094662334",
+      "rank": 89,
+      "title": "JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club…",
+      "benchmarkPostId": "2095521469094662334",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095521469094662334",
+      "score": 32788,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095570560407183583",
+      "rank": 90,
+      "title": "Hugging Face x Nvidia $NVDA https://t.co/uPGEFGDVq7",
+      "benchmarkPostId": "2095570560407183583",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095570560407183583",
+      "score": 32742,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2095523910951256433",
+      "rank": 92,
+      "title": "Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of …",
+      "benchmarkPostId": "2095523910951256433",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095523910951256433",
+      "score": 32106,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095516280321102293",
+      "rank": 94,
+      "title": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading htt…",
+      "benchmarkPostId": "2095516280321102293",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095516280321102293",
+      "score": 31096,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095570340181098993",
+      "rank": 95,
+      "title": "Google $GOOGL CEO Sundar Pichai just posted this: “New Gemini voice capabilities are rolling…",
+      "benchmarkPostId": "2095570340181098993",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095570340181098993",
+      "score": 30720,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095571452686635457",
+      "rank": 96,
+      "title": "Google $GOOGL just launched what it calls his the most advanced and accurate weather predict…",
+      "benchmarkPostId": "2095571452686635457",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095571452686635457",
+      "score": 30715,
+      "whyNow": "Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable.",
+      "status": "queued",
+      "createdAt": "2026-09-04T04:45:29Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -5650,7 +7623,7 @@
       "benchmarkPostId": "2095262314014409103",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095262314014409103",
       "title": "Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately.",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: Zoom $ZM just announced that Jeff Epstein has joined its Board of Dire\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -5661,7 +7634,9 @@
       ],
       "imagePath": "deliverables/pkg-20260903-zoom-zm-just-announced-that-jeff-epstein-has-joi-09103/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:04.503897+00:00"
+      "createdAt": "2026-09-03T11:55:04.503897+00:00",
+      "postizPostId": "cmtmh50ji0cdwlm0y9rpfv0mi",
+      "publishedAt": "2026-09-04T04:49:00.000Z"
     },
     {
       "id": "pkg-20260903-broadcom-avgo-just-said-that-it-expects-to-bring-39182",
@@ -6448,7 +8423,7 @@
       "benchmarkPostId": "2095509354686378405",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095509354686378405",
       "title": "JUST IN: $XRP price rallies 4.8% in the past 24 hours.",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $XRP price rallies 4.8% in the past 24 hours.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -6459,7 +8434,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-xrp-price-rallies-4-8-in-the-past-24-hou-78405/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:42:01.957611+00:00"
+      "createdAt": "2026-09-04T00:42:01.957611+00:00",
+      "postizPostId": "cmtmh98cv035dqk0y7g7h7pcd",
+      "publishedAt": "2026-09-04T04:52:00.000Z"
     },
     {
       "id": "pkg-20260904-just-in-daily-trading-volume-on-uniswap-s-robinh-10970",
@@ -6480,6 +8457,938 @@
       "createdAt": "2026-09-04T00:42:02.105540+00:00",
       "postizPostId": "cmtmgkfgo02ztqk0y13bvvsf9",
       "publishedAt": "2026-09-04T04:33:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-broadcom-avgo-stock-is-down-by-5-in-after-hours--87553",
+      "benchmarkPostId": "2095246378519687553",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095246378519687553",
+      "title": "Broadcom $AVGO stock is down by 5% in after hours following its earnings 🔴🔴🔴🔴🔴",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Broadcom $AVGO stock is down by 5% in after hours following its earnin\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Broadcom $AVGO stock is down by 5% in after hours following its earnings 🔴🔴🔴🔴🔴"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095246378519687553"
+      ],
+      "imagePath": "deliverables/pkg-20260904-broadcom-avgo-stock-is-down-by-5-in-after-hours--87553/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:23.845788+00:00"
+    },
+    {
+      "id": "pkg-20260904-costco-cost-just-reported-revenue-of-23-7-billio-16732",
+      "benchmarkPostId": "2095245756265316732",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095245756265316732",
+      "title": "Costco $COST just reported revenue of $23.7 Billion of revenue in August up 9.9% YoY",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Costco $COST just reported revenue of $23.7 Billion of revenue in Augu\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Costco $COST just reported revenue of $23.7 Billion of revenue in August up 9.9% YoY"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095245756265316732"
+      ],
+      "imagePath": "deliverables/pkg-20260904-costco-cost-just-reported-revenue-of-23-7-billio-16732/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:23.936902+00:00"
+    },
+    {
+      "id": "pkg-20260904-snowflake-snow-stock-is-up-by-20-in-after-hours--69397",
+      "benchmarkPostId": "2095243894900269397",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095243894900269397",
+      "title": "Snowflake $SNOW stock is up by 20% in after hours following its earnings 🟢",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Snowflake $SNOW stock is up by 20% in after hours following its earnin\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Snowflake $SNOW stock is up by 20% in after hours following its earnings 🟢"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095243894900269397"
+      ],
+      "imagePath": "deliverables/pkg-20260904-snowflake-snow-stock-is-up-by-20-in-after-hours--69397/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:24.035178+00:00"
+    },
+    {
+      "id": "pkg-20260904-deere-de-stock-hit-new-all-time-highs-again-toda-52702",
+      "benchmarkPostId": "2095239112630452702",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095239112630452702",
+      "title": "Deere $DE stock hit new ALL TIME HIGHS again today 🟢🟢🟢🟢🟢",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Deere $DE stock hit new ALL TIME HIGHS again today 🟢🟢🟢🟢🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Deere $DE stock hit new ALL TIME HIGHS again today 🟢🟢🟢🟢🟢"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095239112630452702"
+      ],
+      "imagePath": "deliverables/pkg-20260904-deere-de-stock-hit-new-all-time-highs-again-toda-52702/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:24.204358+00:00"
+    },
+    {
+      "id": "pkg-20260904-google-s-googl-self-driving-car-company-waymo-is-18848",
+      "benchmarkPostId": "2095236089535418848",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095236089535418848",
+      "title": "Google's $GOOGL self driving car company Waymo is in the final stages of talks to raise $3B of debt ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Google's $GOOGL self driving car company Waymo is in the final stages \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Google's $GOOGL self driving car company Waymo is in the final stages of talks to raise $3B of debt which would be the first time they raise money through debt - Bloomberg"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095236089535418848"
+      ],
+      "imagePath": "deliverables/pkg-20260904-google-s-googl-self-driving-car-company-waymo-is-18848/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:24.354700+00:00"
+    },
+    {
+      "id": "pkg-20260904-meta-platforms-meta-ceo-mark-zuckerberg-just-pos-14214",
+      "benchmarkPostId": "2095232751951614214",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095232751951614214",
+      "title": "META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: \"Muse Spark 1.3 is rolling out today with",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: \"Muse Spark\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: \"Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter. This is the biggest jump we've made so far on coding and agentic work.\""
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095232751951614214"
+      ],
+      "imagePath": "deliverables/pkg-20260904-meta-platforms-meta-ceo-mark-zuckerberg-just-pos-14214/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:24.510272+00:00"
+    },
+    {
+      "id": "pkg-20260904-johnson-amp-johnson-jnj-stock-hit-new-52-week-hi-44758",
+      "benchmarkPostId": "2095224412077244758",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095224412077244758",
+      "title": "Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today 🟢",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today 🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today 🟢"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095224412077244758"
+      ],
+      "imagePath": "deliverables/pkg-20260904-johnson-amp-johnson-jnj-stock-hit-new-52-week-hi-44758/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:24.589066+00:00"
+    },
+    {
+      "id": "pkg-20260904-here-is-some-of-the-stuff-that-our-partners-at-b-51871",
+      "benchmarkPostId": "2095221095443951871",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095221095443951871",
+      "title": "Here is some of the stuff that our partners at BTQ Technologies have done so far in 2026 👀",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Here is some of the stuff that our partners at BTQ Technologies have d\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Here is some of the stuff that our partners at BTQ Technologies have done so far in 2026 👀"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095221095443951871"
+      ],
+      "imagePath": "deliverables/pkg-20260904-here-is-some-of-the-stuff-that-our-partners-at-b-51871/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:24.726146+00:00"
+    },
+    {
+      "id": "pkg-20260904-president-trump-just-said-the-stock-market-will--70355",
+      "benchmarkPostId": "2095217207504470355",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095217207504470355",
+      "title": "🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095217207504470355"
+      ],
+      "imagePath": "deliverables/pkg-20260904-president-trump-just-said-the-stock-market-will--70355/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:24.894866+00:00",
+      "postizPostId": "cmtmh2e6e034kqk0yicf3jw8q",
+      "publishedAt": "2026-09-04T04:46:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-55248",
+      "benchmarkPostId": "2095196970465755248",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095196970465755248",
+      "title": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is how every stock in the S&amp;P 500 has performed so far in tod\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is how every stock in the S&amp;P 500 has performed so far in today's early trading"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095196970465755248"
+      ],
+      "imagePath": "deliverables/pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-55248/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:24.980748+00:00"
+    },
+    {
+      "id": "pkg-20260904-uber-technologies-uber-is-shutting-down-its-serv-61384",
+      "benchmarkPostId": "2095183032831361384",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095183032831361384",
+      "title": "Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 effective September 2nd, followi",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 ef\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 effective September 2nd, following a review of its operations in the West African nation - Bloomberg"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095183032831361384"
+      ],
+      "imagePath": "deliverables/pkg-20260904-uber-technologies-uber-is-shutting-down-its-serv-61384/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.058255+00:00"
+    },
+    {
+      "id": "pkg-20260904-this-is-what-5-35-million-gets-you-in-cleveland--03269",
+      "benchmarkPostId": "2095180650324103269",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095180650324103269",
+      "title": "This is what $5.35 Million gets you in Cleveland Ohio",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is what $5.35 Million gets you in Cleveland Ohio\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is what $5.35 Million gets you in Cleveland Ohio"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095180650324103269"
+      ],
+      "imagePath": "deliverables/pkg-20260904-this-is-what-5-35-million-gets-you-in-cleveland--03269/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.164611+00:00"
+    },
+    {
+      "id": "pkg-20260904-southwest-airlines-luv-plans-to-roll-out-its-fir-46611",
+      "benchmarkPostId": "2095179359199846611",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095179359199846611",
+      "title": "Southwest Airlines $LUV plans to roll out its first-ever lounge network next year - Bloomberg",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Southwest Airlines $LUV plans to roll out its first-ever lounge networ\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Southwest Airlines $LUV plans to roll out its first-ever lounge network next year - Bloomberg"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095179359199846611"
+      ],
+      "imagePath": "deliverables/pkg-20260904-southwest-airlines-luv-plans-to-roll-out-its-fir-46611/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.330612+00:00"
+    },
+    {
+      "id": "pkg-20260904-commerce-secretary-lutnick-just-said-anthropic-i-96511",
+      "benchmarkPostId": "2095178347865096511",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095178347865096511",
+      "title": "🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID: - ANTHROPIC IS \"BACK ON THE RIGHT SIDE\" WITH TRUMP ADMINIST",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID: - ANTHROPIC IS \"BACK ON THE R\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID: - ANTHROPIC IS \"BACK ON THE RIGHT SIDE\" WITH TRUMP ADMINISTRATION"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095178347865096511"
+      ],
+      "imagePath": "deliverables/pkg-20260904-commerce-secretary-lutnick-just-said-anthropic-i-96511/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.428591+00:00"
+    },
+    {
+      "id": "pkg-20260904-ge-vernova-gev-has-committed-to-repairing-large--76698",
+      "benchmarkPostId": "2095174970171076698",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095174970171076698",
+      "title": "GE Vernova $GEV has committed to repairing large portions of Venezuela’s 🇻🇪 power grid - Bloomberg",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: GE Vernova $GEV has committed to repairing large portions of Venezuela\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "GE Vernova $GEV has committed to repairing large portions of Venezuela’s 🇻🇪 power grid - Bloomberg"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095174970171076698"
+      ],
+      "imagePath": "deliverables/pkg-20260904-ge-vernova-gev-has-committed-to-repairing-large--76698/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.545117+00:00"
+    },
+    {
+      "id": "pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669",
+      "benchmarkPostId": "2095173158466654669",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095173158466654669",
+      "title": "Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095173158466654669"
+      ],
+      "imagePath": "deliverables/pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.630691+00:00"
+    },
+    {
+      "id": "pkg-20260904-president-trump-just-posted-this-now-that-we-hav-80873",
+      "benchmarkPostId": "2095171499707580873",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095171499707580873",
+      "title": "🇺🇸 President Trump just posted this: \"Now that we have it under U.S.A. control, should we change the",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just posted this: \"Now that we have it under U.S.A.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 President Trump just posted this: \"Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT???\""
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095171499707580873"
+      ],
+      "imagePath": "deliverables/pkg-20260904-president-trump-just-posted-this-now-that-we-hav-80873/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.767259+00:00",
+      "postizPostId": "cmtmh5rsf0ce0lm0y75prykm3",
+      "publishedAt": "2026-09-04T04:49:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-smn-analyst-number-5-is-in-the-region-to-monitor-34495",
+      "benchmarkPostId": "2095170753813434495",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095170753813434495",
+      "title": "SMN analyst number 5 is in the region to monitor the situation",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: SMN analyst number 5 is in the region to monitor the situation\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "SMN analyst number 5 is in the region to monitor the situation"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095170753813434495"
+      ],
+      "imagePath": "deliverables/pkg-20260904-smn-analyst-number-5-is-in-the-region-to-monitor-34495/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.884628+00:00"
+    },
+    {
+      "id": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-said-this-today-to--89441",
+      "benchmarkPostId": "2095152899093389441",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095152899093389441",
+      "title": "Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the la\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: “Every single country needs to build infrastructure so that you could support your own local economy.”"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095152899093389441"
+      ],
+      "imagePath": "deliverables/pkg-20260904-nvidia-nvda-ceo-jensen-huang-said-this-today-to--89441/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:25.978349+00:00"
+    },
+    {
+      "id": "pkg-20260904-salesforce-crm-and-anthropic-just-released-this--08333",
+      "benchmarkPostId": "2095150944275108333",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095150944275108333",
+      "title": "Salesforce $CRM and Anthropic just released this new commercial together",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: Salesforce $CRM and Anthropic just released this new commercial togeth\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Salesforce $CRM and Anthropic just released this new commercial together"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095150944275108333"
+      ],
+      "imagePath": "deliverables/pkg-20260904-salesforce-crm-and-anthropic-just-released-this--08333/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:26.057476+00:00",
+      "postizPostId": "cmtmh8k730358qk0yqyb158zh",
+      "publishedAt": "2026-09-04T04:51:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-i-bought-tempus-ai-tem-at-60-87-per-share-on-aug-41905",
+      "benchmarkPostId": "2095149851797241905",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095149851797241905",
+      "title": "I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought it at the end of the day when t",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought i\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought it at the end of the day when the cancer vaccine news came out I plan to hold for a while Tell me how you think I end up doing in this name using JUST 1 word"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095149851797241905"
+      ],
+      "imagePath": "deliverables/pkg-20260904-i-bought-tempus-ai-tem-at-60-87-per-share-on-aug-41905/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:26.151989+00:00"
+    },
+    {
+      "id": "pkg-20260904-dell-is-starting-out-trading-today-up-by-12-8-an-54455",
+      "benchmarkPostId": "2095146897019154455",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095146897019154455",
+      "title": "$DELL is starting out trading today up by 12.8% 🟢 and is now up by 282% 🟢 so far in 2026",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: $DELL is starting out trading today up by 12.8% 🟢 and is now up by 282\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "$DELL is starting out trading today up by 12.8% 🟢 and is now up by 282% 🟢 so far in 2026"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095146897019154455"
+      ],
+      "imagePath": "deliverables/pkg-20260904-dell-is-starting-out-trading-today-up-by-12-8-an-54455/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:26.296941+00:00"
+    },
+    {
+      "id": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-called-on-group-of--31505",
+      "benchmarkPostId": "2095140381386031505",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095140381386031505",
+      "title": "Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of AI as a ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to acceler\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of AI as a way to enhance growth “Every single country needs to build infrastructure so you can support your own local economy” In his remarks, Huang said that the “single worst outcome” for a country is “being left behind.” The Nvidia chief warned that could happen if the public and policymakers let fears about AI drive the conversation about the technology. “We have to make sure that we are balanced in talking about it” (Source Bloomberg)"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095140381386031505"
+      ],
+      "imagePath": "deliverables/pkg-20260904-nvidia-nvda-ceo-jensen-huang-called-on-group-of--31505/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:26.436754+00:00"
+    },
+    {
+      "id": "pkg-20260904-september-rate-hike-odds-there-is-currently-a-56-86124",
+      "benchmarkPostId": "2095136541538386124",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095136541538386124",
+      "title": "SEPTEMBER RATE HIKE ODDS There is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed raise rates",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: SEPTEMBER RATE HIKE ODDS There is currently a 56% chance that Kevin Wa\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "SEPTEMBER RATE HIKE ODDS There is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed raise rates by 0.25% this month There is currently a 44% chance that Kevin Warsh and the 🇺🇸 Fed make no changes to rates this month"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095136541538386124"
+      ],
+      "imagePath": "deliverables/pkg-20260904-september-rate-hike-odds-there-is-currently-a-56-86124/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:26.520898+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-oppenheimer-raises-spacex-spcx-price-tar-90757",
+      "benchmarkPostId": "2095120971413790757",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095120971413790757",
+      "title": "JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform r",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $25\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform rating."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095120971413790757"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-oppenheimer-raises-spacex-spcx-price-tar-90757/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T04:45:26.650457+00:00",
+      "postizPostId": "cmtmh759v0355qk0yec3k3fkc",
+      "publishedAt": "2026-09-04T04:50:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-new-xyo-and-gate-ai-team-up-to-launch-xyo-crypto-95519",
+      "benchmarkPostId": "2095113199389495519",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095113199389495519",
+      "title": "NEW: XYO and Gate AI team up to launch XYO crypto cards.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: NEW: XYO and Gate AI team up to launch XYO crypto cards.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "NEW: XYO and Gate AI team up to launch XYO crypto cards."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095113199389495519"
+      ],
+      "imagePath": "deliverables/pkg-20260904-new-xyo-and-gate-ai-team-up-to-launch-xyo-crypto-95519/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T04:45:26.808004+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-btc-currently-forecasted-to-go-as-high-a-35044",
+      "benchmarkPostId": "2095103588028535044",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095103588028535044",
+      "title": "JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC currently forecasted to go as high as $82,000 this month\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095103588028535044"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-btc-currently-forecasted-to-go-as-high-a-35044/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T04:45:26.892409+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-franklin-canary-and-grayscale-etf-client-40065",
+      "benchmarkPostId": "2095031163773440065",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095031163773440065",
+      "title": "JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095031163773440065"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-franklin-canary-and-grayscale-etf-client-40065/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.011204+00:00",
+      "postizPostId": "cmtmh6gv10ce6lm0y4acxv5xh",
+      "publishedAt": "2026-09-04T04:50:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-just-in-fidelity-clients-sell-43-67-million-wort-57038",
+      "benchmarkPostId": "2095018683512857038",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095018683512857038",
+      "title": "JUST IN: Fidelity clients sell $43.67 million worth of $BTC.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Fidelity clients sell $43.67 million worth of $BTC.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Fidelity clients sell $43.67 million worth of $BTC."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095018683512857038"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-fidelity-clients-sell-43-67-million-wort-57038/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.101635+00:00"
+    },
+    {
+      "id": "pkg-20260904-just-in-blackrock-clients-sell-2-605-btc-worth-2-78779",
+      "benchmarkPostId": "2095010013710278779",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095010013710278779",
+      "title": "JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095010013710278779"
+      ],
+      "imagePath": "deliverables/pkg-20260904-just-in-blackrock-clients-sell-2-605-btc-worth-2-78779/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.182640+00:00",
+      "postizPostId": "cmtmh33ng034mqk0yi2h98f6c",
+      "publishedAt": "2026-09-04T04:47:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-openai-says-it-has-overtaken-anthropic-with-its--00552",
+      "benchmarkPostId": "2095573569849700552",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095573569849700552",
+      "title": "OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Fina\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095573569849700552"
+      ],
+      "imagePath": "deliverables/pkg-20260904-openai-says-it-has-overtaken-anthropic-with-its--00552/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.253199+00:00"
+    },
+    {
+      "id": "pkg-20260904-what-a-turn-around-we-re-don-t-a-stock-picking-c-72910",
+      "benchmarkPostId": "2095572272689872910",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095572272689872910",
+      "title": "WHAT A TURN AROUND We’re don’t a stock picking competition with Gamestock … the people who come in t",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: WHAT A TURN AROUND We’re don’t a stock picking competition with Gamest\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "WHAT A TURN AROUND We’re don’t a stock picking competition with Gamestock … the people who come in the top 10 get $100 each I am now in 8th place with Robinhood and Circle running today IS INVERSE EVAN OVER?"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095572272689872910"
+      ],
+      "imagePath": "deliverables/pkg-20260904-what-a-turn-around-we-re-don-t-a-stock-picking-c-72910/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.338731+00:00"
+    },
+    {
+      "id": "pkg-20260904-google-googl-just-launched-what-it-calls-his-the-35457",
+      "benchmarkPostId": "2095571452686635457",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095571452686635457",
+      "title": "Google $GOOGL just launched what it calls his the most advanced and accurate weather prediction mode",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Google $GOOGL just launched what it calls his the most advanced and ac\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Google $GOOGL just launched what it calls his the most advanced and accurate weather prediction model “WeatherNext 3 is a major breakthrough in how we forecast global weather.”"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095571452686635457"
+      ],
+      "imagePath": "deliverables/pkg-20260904-google-googl-just-launched-what-it-calls-his-the-35457/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.450115+00:00"
+    },
+    {
+      "id": "pkg-20260904-hugging-face-x-nvidia-nvda-83583",
+      "benchmarkPostId": "2095570560407183583",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095570560407183583",
+      "title": "Hugging Face x Nvidia $NVDA",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Hugging Face x Nvidia $NVDA\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Hugging Face x Nvidia $NVDA"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095570560407183583"
+      ],
+      "imagePath": "deliverables/pkg-20260904-hugging-face-x-nvidia-nvda-83583/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.524287+00:00"
+    },
+    {
+      "id": "pkg-20260904-google-googl-ceo-sundar-pichai-just-posted-this--98993",
+      "benchmarkPostId": "2095570340181098993",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095570340181098993",
+      "title": "Google $GOOGL CEO Sundar Pichai just posted this: “New Gemini voice capabilities are rolling out so ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Google $GOOGL CEO Sundar Pichai just posted this: “New Gemini voice ca\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Google $GOOGL CEO Sundar Pichai just posted this: “New Gemini voice capabilities are rolling out so you can search your Gmail inbox, organize thoughts and tasks in Keep, and create new Docs, all conversationally”"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095570340181098993"
+      ],
+      "imagePath": "deliverables/pkg-20260904-google-googl-ceo-sundar-pichai-just-posted-this--98993/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.649850+00:00"
+    },
+    {
+      "id": "pkg-20260904-the-3-founders-of-hugging-face-are-now-each-wort-06558",
+      "benchmarkPostId": "2095560327723106558",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095560327723106558",
+      "title": "The 3 founders of Hugging Face are now each worth $1.8 Billion after today's Nvidia deal Clement \"Cl",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: The 3 founders of Hugging Face are now each worth $1.8 Billion after t\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "The 3 founders of Hugging Face are now each worth $1.8 Billion after today's Nvidia deal Clement \"Clem\" Delangue, Julien Chaumond, and Thomas Wolf are now all billionaires - Bloomberg"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095560327723106558"
+      ],
+      "imagePath": "deliverables/pkg-20260904-the-3-founders-of-hugging-face-are-now-each-wort-06558/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.736549+00:00"
+    },
+    {
+      "id": "pkg-20260904-grok-is-back-to-being-in-first-place-in-the-rall-07876",
+      "benchmarkPostId": "2095543274987507876",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095543274987507876",
+      "title": "GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET ARENA",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET AR\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET ARENA"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095543274987507876"
+      ],
+      "imagePath": "deliverables/pkg-20260904-grok-is-back-to-being-in-first-place-in-the-rall-07876/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.807866+00:00"
+    },
+    {
+      "id": "pkg-20260904-polymarket-just-launched-perpetual-futures-polym-51028",
+      "benchmarkPostId": "2095531894926451028",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095531894926451028",
+      "title": "POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launched Perps on the platform which",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launch\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launched Perps on the platform which lets people trade stuff like crypto, stocks, indices and commodities with leverage alongside prediction markets on the same platform"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095531894926451028"
+      ],
+      "imagePath": "deliverables/pkg-20260904-polymarket-just-launched-perpetual-futures-polym-51028/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.883298+00:00"
+    },
+    {
+      "id": "pkg-20260904-outage-report-claude-openai-and-grok-are-all-cur-85289",
+      "benchmarkPostId": "2095527173582885289",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095527173582885289",
+      "title": "OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095527173582885289"
+      ],
+      "imagePath": "deliverables/pkg-20260904-outage-report-claude-openai-and-grok-are-all-cur-85289/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:27.957245+00:00",
+      "postizPostId": "cmtmh1pjo034hqk0y0p5sh7bs",
+      "publishedAt": "2026-09-04T04:46:00.000Z"
+    },
+    {
+      "id": "pkg-20260904-bitcoin-btc-is-back-over-80-000-34303",
+      "benchmarkPostId": "2095524837208834303",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095524837208834303",
+      "title": "Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095524837208834303"
+      ],
+      "imagePath": "deliverables/pkg-20260904-bitcoin-btc-is-back-over-80-000-34303/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.032967+00:00"
+    },
+    {
+      "id": "pkg-20260904-campbell-s-soup-cpb-just-announced-that-is-has-c-56433",
+      "benchmarkPostId": "2095523910951256433",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095523910951256433",
+      "title": "Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of its work",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Campbell’s Soup $CPB just announced that is has cut more than 1,750 jo\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of its workforce - WSJ"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095523910951256433"
+      ],
+      "imagePath": "deliverables/pkg-20260904-campbell-s-soup-cpb-just-announced-that-is-has-c-56433/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.113405+00:00"
+    },
+    {
+      "id": "pkg-20260904-jpmorgan-jpm-is-now-less-than-50-billion-away-fr-62334",
+      "benchmarkPostId": "2095521469094662334",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095521469094662334",
+      "title": "JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: JPMorgan $JPM is now less than $50 Billion away from joining the $1 Tr\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095521469094662334"
+      ],
+      "imagePath": "deliverables/pkg-20260904-jpmorgan-jpm-is-now-less-than-50-billion-away-fr-62334/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.210629+00:00"
+    },
+    {
+      "id": "pkg-20260904-the-stock-market-fear-and-greed-index-is-now-dow-75299",
+      "benchmarkPostId": "2095517235057975299",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095517235057975299",
+      "title": "The stock market Fear and Greed index is now down into Fear currently at 35/100",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: The stock market Fear and Greed index is now down into Fear currently \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "The stock market Fear and Greed index is now down into Fear currently at 35/100"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095517235057975299"
+      ],
+      "imagePath": "deliverables/pkg-20260904-the-stock-market-fear-and-greed-index-is-now-dow-75299/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.298921+00:00"
+    },
+    {
+      "id": "pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-02293",
+      "benchmarkPostId": "2095516280321102293",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095516280321102293",
+      "title": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is how every stock in the S&amp;P 500 has performed so far in tod\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is how every stock in the S&amp;P 500 has performed so far in today's early trading"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095516280321102293"
+      ],
+      "imagePath": "deliverables/pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-02293/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.424975+00:00"
+    },
+    {
+      "id": "pkg-20260904-meta-s-stock-is-back-to-starting-with-a-6-18105",
+      "benchmarkPostId": "2095509213367718105",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095509213367718105",
+      "title": "$META’s stock is back to starting with a 6",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: $META’s stock is back to starting with a 6\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "$META’s stock is back to starting with a 6"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095509213367718105"
+      ],
+      "imagePath": "deliverables/pkg-20260904-meta-s-stock-is-back-to-starting-with-a-6-18105/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.499554+00:00"
+    },
+    {
+      "id": "pkg-20260904-snowflake-snow-is-starting-trading-today-up-by-m-45951",
+      "benchmarkPostId": "2095506487988645951",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095506487988645951",
+      "title": "Snowflake $SNOW is starting trading today up by more than 20% following its earnings last night 🟢",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Snowflake $SNOW is starting trading today up by more than 20% followin\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Snowflake $SNOW is starting trading today up by more than 20% following its earnings last night 🟢"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095506487988645951"
+      ],
+      "imagePath": "deliverables/pkg-20260904-snowflake-snow-is-starting-trading-today-up-by-m-45951/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.581975+00:00"
+    },
+    {
+      "id": "pkg-20260904-tim-apple-cooked-the-market-during-his-time-as-t-06552",
+      "benchmarkPostId": "2095503578802606552",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095503578802606552",
+      "title": "Tim Apple cooked the market during his time as the CEO of Apple $AAPL",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Tim Apple cooked the market during his time as the CEO of Apple $AAPL\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Tim Apple cooked the market during his time as the CEO of Apple $AAPL"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095503578802606552"
+      ],
+      "imagePath": "deliverables/pkg-20260904-tim-apple-cooked-the-market-during-his-time-as-t-06552/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.661939+00:00"
+    },
+    {
+      "id": "pkg-20260904-name-another-platform-where-you-can-get-triggere-51063",
+      "benchmarkPostId": "2095499492183151063",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095499492183151063",
+      "title": "Name another platform where you can get triggered by both Michael Burry and Elon Musk at the same ti",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Name another platform where you can get triggered by both Michael Burr\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Name another platform where you can get triggered by both Michael Burry and Elon Musk at the same time"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095499492183151063"
+      ],
+      "imagePath": "deliverables/pkg-20260904-name-another-platform-where-you-can-get-triggere-51063/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.832699+00:00"
+    },
+    {
+      "id": "pkg-20260904-fed-s-waller-just-said-we-should-start-to-see-so-99973",
+      "benchmarkPostId": "2095495103158599973",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095495103158599973",
+      "title": "🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT A REASON",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT A REASONABLE CPI. - IF THAT REVERSES IN AUGUST WILLING TO PULL TRIGGER ON RATE HIKE"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095495103158599973"
+      ],
+      "imagePath": "deliverables/pkg-20260904-fed-s-waller-just-said-we-should-start-to-see-so-99973/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.905859+00:00"
+    },
+    {
+      "id": "pkg-20260904-jim-cramer-was-just-asked-about-iren-stock-if-yo-78901",
+      "benchmarkPostId": "2095685369031278901",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095685369031278901",
+      "title": "Jim Cramer was just asked about $IREN stock: “If you’re going to do neoclouds, the only one I like i",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Jim Cramer was just asked about $IREN stock: “If you’re going to do ne\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Jim Cramer was just asked about $IREN stock: “If you’re going to do neoclouds, the only one I like is CoreWeave.”"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095685369031278901"
+      ],
+      "imagePath": "deliverables/pkg-20260904-jim-cramer-was-just-asked-about-iren-stock-if-yo-78901/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:28.992133+00:00"
+    },
+    {
+      "id": "pkg-20260904-tesla-tsla-has-now-officially-started-offering-r-51266",
+      "benchmarkPostId": "2095681253504651266",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095681253504651266",
+      "title": "Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offering rides in its fully sel\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no steering wheel to the public according to @SawyerMerritt"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095681253504651266"
+      ],
+      "imagePath": "deliverables/pkg-20260904-tesla-tsla-has-now-officially-started-offering-r-51266/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-04T04:45:29.086746+00:00"
     }
   ],
   "posts": [
@@ -6525,10 +9434,12 @@
       "metricsTracking": {
         "windowStart": "2026-09-01T04:47:00Z",
         "windowEnd": "2026-09-04T04:47:00Z",
-        "status": "active",
+        "status": "complete",
         "lastAttemptAt": "2026-09-04T04:28:39.005219Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-04T04:53:49.394876Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -6901,6 +9812,159 @@
         "windowStart": "2026-09-04T04:33:00Z",
         "windowEnd": "2026-09-07T04:33:00Z",
         "lastAttemptAt": "2026-09-04T04:33:36.776575Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095735316141560171",
+      "packageId": "pkg-20260904-outage-report-claude-openai-and-grok-are-all-cur-85289",
+      "title": "OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:46:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095735316141560171",
+      "postizPostId": "cmtmh1pjo034hqk0y0p5sh7bs",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:46:00Z",
+        "windowEnd": "2026-09-07T04:46:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095735450812158361",
+      "packageId": "pkg-20260904-president-trump-just-said-the-stock-market-will--70355",
+      "title": "🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:46:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095735450812158361",
+      "postizPostId": "cmtmh2e6e034kqk0yicf3jw8q",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:46:00Z",
+        "windowEnd": "2026-09-07T04:46:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095735589316469042",
+      "packageId": "pkg-20260904-just-in-blackrock-clients-sell-2-605-btc-worth-2-78779",
+      "title": "JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million.",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:47:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095735589316469042",
+      "postizPostId": "cmtmh33ng034mqk0yi2h98f6c",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:47:00Z",
+        "windowEnd": "2026-09-07T04:47:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095735963796599251",
+      "packageId": "pkg-20260903-zoom-zm-just-announced-that-jeff-epstein-has-joi-09103",
+      "title": "Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately.",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:49:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095735963796599251",
+      "postizPostId": "cmtmh50ji0cdwlm0y9rpfv0mi",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:49:00Z",
+        "windowEnd": "2026-09-07T04:49:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095736109175341104",
+      "packageId": "pkg-20260904-president-trump-just-posted-this-now-that-we-hav-80873",
+      "title": "🇺🇸 President Trump just posted this: \"Now that we have it under U.S.A. control, should we change the",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:49:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095736109175341104",
+      "postizPostId": "cmtmh5rsf0ce0lm0y75prykm3",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:49:00Z",
+        "windowEnd": "2026-09-07T04:49:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095736249491603788",
+      "packageId": "pkg-20260904-just-in-franklin-canary-and-grayscale-etf-client-40065",
+      "title": "JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP.",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:50:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095736249491603788",
+      "postizPostId": "cmtmh6gv10ce6lm0y4acxv5xh",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:50:00Z",
+        "windowEnd": "2026-09-07T04:50:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095736378042744870",
+      "packageId": "pkg-20260904-just-in-oppenheimer-raises-spacex-spcx-price-tar-90757",
+      "title": "JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform r",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:50:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095736378042744870",
+      "postizPostId": "cmtmh759v0355qk0yec3k3fkc",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:50:00Z",
+        "windowEnd": "2026-09-07T04:50:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095736656079008137",
+      "packageId": "pkg-20260904-salesforce-crm-and-anthropic-just-released-this--08333",
+      "title": "Salesforce $CRM and Anthropic just released this new commercial together",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:51:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095736656079008137",
+      "postizPostId": "cmtmh8k730358qk0yqyb158zh",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:51:00Z",
+        "windowEnd": "2026-09-07T04:51:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2095736785712341242",
+      "packageId": "pkg-20260904-just-in-xrp-price-rallies-4-8-in-the-past-24-hou-78405",
+      "title": "JUST IN: $XRP price rallies 4.8% in the past 24 hours.",
+      "status": "published",
+      "publishedAt": "2026-09-04T04:52:00.000Z",
+      "url": "https://x.com/_When2buy/status/2095736785712341242",
+      "postizPostId": "cmtmh98cv035dqk0y7g7h7pcd",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-04T04:52:00Z",
+        "windowEnd": "2026-09-07T04:52:00Z",
+        "lastAttemptAt": "2026-09-04T04:53:49.394876Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -8759,6 +11823,384 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-04T04:33:36.776575Z"
       }
+    },
+    {
+      "id": "metric-2095735316141560171-20260904T045349Z",
+      "postId": "2095735316141560171",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh1pjo034hqk0y0p5sh7bs",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh1pjo034hqk0y0p5sh7bs",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
+    },
+    {
+      "id": "metric-2095735450812158361-20260904T045349Z",
+      "postId": "2095735450812158361",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh2e6e034kqk0yicf3jw8q",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh2e6e034kqk0yicf3jw8q",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
+    },
+    {
+      "id": "metric-2095735589316469042-20260904T045349Z",
+      "postId": "2095735589316469042",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 7,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh33ng034mqk0yi2h98f6c",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh33ng034mqk0yi2h98f6c",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
+    },
+    {
+      "id": "metric-2095735963796599251-20260904T045349Z",
+      "postId": "2095735963796599251",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh50ji0cdwlm0y9rpfv0mi",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh50ji0cdwlm0y9rpfv0mi",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
+    },
+    {
+      "id": "metric-2095736109175341104-20260904T045349Z",
+      "postId": "2095736109175341104",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 7,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh5rsf0ce0lm0y75prykm3",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh5rsf0ce0lm0y75prykm3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
+    },
+    {
+      "id": "metric-2095736249491603788-20260904T045349Z",
+      "postId": "2095736249491603788",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh6gv10ce6lm0y4acxv5xh",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh6gv10ce6lm0y4acxv5xh",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
+    },
+    {
+      "id": "metric-2095736378042744870-20260904T045349Z",
+      "postId": "2095736378042744870",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh759v0355qk0yec3k3fkc",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh759v0355qk0yec3k3fkc",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
+    },
+    {
+      "id": "metric-2095736656079008137-20260904T045349Z",
+      "postId": "2095736656079008137",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh8k730358qk0yqyb158zh",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh8k730358qk0yqyb158zh",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
+    },
+    {
+      "id": "metric-2095736785712341242-20260904T045349Z",
+      "postId": "2095736785712341242",
+      "observedAt": "2026-09-04T04:53:49.394876Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmh98cv035dqk0y7g7h7pcd",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtmh98cv035dqk0y7g7h7pcd",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-04"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-04"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-04"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-04"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-04"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-04T04:53:49.394876Z"
+      }
     }
   ],
   "experiments": [],
@@ -9886,6 +13328,136 @@
       "completedAt": "2026-09-04T04:33:26.973007+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260904T044234Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:42:34Z",
+      "completedAt": "2026-09-04T04:42:34Z",
+      "summary": "Prepared 23 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T044329Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:43:29Z",
+      "completedAt": "2026-09-04T04:43:29Z",
+      "summary": "Apify scanned both benchmark accounts; captured 119 eligible originals and added 51 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260904T044529Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:45:29.086806+00:00",
+      "completedAt": "2026-09-04T04:45:29.086813+00:00",
+      "summary": "Created 51 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T044529Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:45:29Z",
+      "completedAt": "2026-09-04T04:45:29Z",
+      "summary": "Prepared 107 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T044653Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:46:53.191678+00:00",
+      "completedAt": "2026-09-04T04:46:53.191683+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T044725Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:47:25.091716+00:00",
+      "completedAt": "2026-09-04T04:47:25.091726+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T044758Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:47:58.104909+00:00",
+      "completedAt": "2026-09-04T04:47:58.104916+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T044927Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:49:27.668421+00:00",
+      "completedAt": "2026-09-04T04:49:27.668428+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T045002Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:50:02.723852+00:00",
+      "completedAt": "2026-09-04T04:50:02.723861+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T045035Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:50:35.267527+00:00",
+      "completedAt": "2026-09-04T04:50:35.267543+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T045106Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:51:06.799385+00:00",
+      "completedAt": "2026-09-04T04:51:06.799392+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T045212Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:52:12.801891+00:00",
+      "completedAt": "2026-09-04T04:52:12.801899+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T045244Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-04T04:52:44.121647+00:00",
+      "completedAt": "2026-09-04T04:52:44.121656+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260904T045100Z-publish-terminal-cmtmh87nv0ceilm0yx5sxyxxe",
+      "mode": "publish",
+      "status": "failed",
+      "startedAt": "2026-09-04T04:51:00+00:00",
+      "completedAt": "2026-09-04T04:51:07+00:00",
+      "summary": "Terminal Postiz delivery failure after one safe retry; no PUBLISHED state or public X URL.",
+      "reason": "Package pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669: Postiz returned ERROR for delivery IDs cmtmh7thr0ceglm0ybqu8j3mg and cmtmh87nv0ceilm0yx5sxyxxe; releaseURL and releaseId were null."
     }
   ]
 }
