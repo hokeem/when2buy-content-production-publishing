@@ -1,46 +1,46 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-04T16:33:29.990228+00:00`
+- 状态更新：`2026-09-05T00:44:52.885176+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**201**
-- 待选选题：**161**
-- 待发布制作包：**76**
-- 已验证发布：**45**
+- 对标帖子快照：**225**
+- 待选选题：**185**
+- 待发布制作包：**95**
+- 已验证发布：**50**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 04 13:15:52 +0000 2026 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-concept for verifying official statistics on-chain.  The BIS cites XRPL's low fees, 3-5 second settlement and proven track record, though no adoption decision has been made. https://t.co/hqQDvhW3T2 | [X](https://x.com/WhaleInsider/status/2095863414916587810) |
+| @WhaleInsider | Fri Sep 04 13:57:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch through September 2, 2026. https://t.co/kurr7U5vt9 | [X](https://x.com/WhaleInsider/status/2095873913293066683) |
+| @WhaleInsider | Fri Sep 04 15:00:22 +0000 2026 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to make big moves. https://t.co/pGZqvBks7G | [X](https://x.com/WhaleInsider/status/2095889714171588861) |
+| @WhaleInsider | Fri Sep 04 15:09:12 +0000 2026 | JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours. https://t.co/9qCCb3rz3r | [X](https://x.com/WhaleInsider/status/2095891937081372923) |
+| @StockMKTNewz | Fri Sep 04 15:46:36 +0000 2026 | REMINDER  The 🇺🇸 stock market will be closed on Monday for Labor Day | [X](https://x.com/StockMKTNewz/status/2095901350622040118) |
+| @WhaleInsider | Fri Sep 04 16:29:07 +0000 2026 | JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement.  $1M will go out to their players this month.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/yY0cvbaz2q | [X](https://x.com/WhaleInsider/status/2095912050492891419) |
+| @StockMKTNewz | Fri Sep 04 16:29:48 +0000 2026 | Micron $MU stock is back over $1,000 per share   🟢🟢🟢🟢🟢 https://t.co/OwRRBfY0J4 | [X](https://x.com/StockMKTNewz/status/2095912220077006996) |
+| @WhaleInsider | Fri Sep 04 16:35:21 +0000 2026 | JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflation.’ https://t.co/jZfoxaRlX3 | [X](https://x.com/WhaleInsider/status/2095913618835435660) |
+| @StockMKTNewz | Fri Sep 04 16:54:56 +0000 2026 | HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OWNERSHIP OF CANTOR FITZGERALD - Bloomberg | [X](https://x.com/StockMKTNewz/status/2095918547742380358) |
+| @StockMKTNewz | Fri Sep 04 17:10:45 +0000 2026 | Here are some of the events to watch out for this my from our partners below  We still have CPI, a FOMC meeting, Micron $MU earnings, and more coming this month https://t.co/krF48vkaUf | [X](https://x.com/StockMKTNewz/status/2095922527579115717) |
+| @StockMKTNewz | Fri Sep 04 17:18:24 +0000 2026 | Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM ET https://t.co/IStmWb1kCD | [X](https://x.com/StockMKTNewz/status/2095924450411553152) |
+| @StockMKTNewz | Fri Sep 04 17:53:04 +0000 2026 | Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerMerritt  https://t.co/ymUQ75lITL | [X](https://x.com/StockMKTNewz/status/2095933175557992763) |
+| @StockMKTNewz | Fri Sep 04 17:59:03 +0000 2026 | What's the #1 best performing stock in your portfolio so far today | [X](https://x.com/StockMKTNewz/status/2095934683288678906) |
+| @StockMKTNewz | Fri Sep 04 18:06:16 +0000 2026 | What's the #1 worst performing stock in your portfolio so far today | [X](https://x.com/StockMKTNewz/status/2095936496867934708) |
+| @StockMKTNewz | Fri Sep 04 18:17:29 +0000 2026 | McDonald's $MCD stock hit new 52 WEEK LOWS today https://t.co/clDChKH4DS | [X](https://x.com/StockMKTNewz/status/2095939322927079635) |
+| @StockMKTNewz | Fri Sep 04 18:38:59 +0000 2026 | 🇺🇸 PRESIDENT TRUMP JUST SAID: "GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION" | [X](https://x.com/StockMKTNewz/status/2095944730768978307) |
+| @StockMKTNewz | Fri Sep 04 18:40:33 +0000 2026 | 🇺🇸 President Trump just said that the stock market should have gone up today  https://t.co/al3DzwGKdH | [X](https://x.com/StockMKTNewz/status/2095945126375784602) |
+| @StockMKTNewz | Fri Sep 04 18:45:22 +0000 2026 | *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH | [X](https://x.com/StockMKTNewz/status/2095946340010168608) |
+| @StockMKTNewz | Fri Sep 04 18:50:06 +0000 2026 | 🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5% | [X](https://x.com/StockMKTNewz/status/2095947527795220987) |
+| @StockMKTNewz | Fri Sep 04 19:06:05 +0000 2026 | 🇺🇸 President Trump just said:  “If you want to get rich as a state, you will want data centers.  If you want to go through poverty and crime, I would say don't approve data centers.” https://t.co/KC4d7pvpIt | [X](https://x.com/StockMKTNewz/status/2095951550073946330) |
+| @WhaleInsider | Fri Sep 04 19:33:15 +0000 2026 | JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders. https://t.co/4g1JPLVpCZ | [X](https://x.com/WhaleInsider/status/2095958389150916903) |
+| @StockMKTNewz | Fri Sep 04 20:20:32 +0000 2026 | Evan StockMKTNewz Top 10 Trader https://t.co/xvity9icMr | [X](https://x.com/StockMKTNewz/status/2095970287435047085) |
+| @StockMKTNewz | Fri Sep 04 20:39:03 +0000 2026 | This is how the 🇺🇸 stock market performed today  https://t.co/zIUT1o7TJD | [X](https://x.com/StockMKTNewz/status/2095974949391376761) |
+| @StockMKTNewz | Fri Sep 04 21:23:10 +0000 2026 | JUST IN: THE S&amp;P 500 IS CHANGING   These stocks are being added to the index:  - Bloomb Energy $BE  - Everpure $P  - Illumina $ILMN   These stocks are being removed from the index:  - Molson Coors $TAP  - Trade Desk $TTD  - Builders $BLDR https://t.co/zfxoAin4BW | [X](https://x.com/StockMKTNewz/status/2095986051130990845) |
 | @WhaleInsider | Fri Sep 04 09:47:46 +0000 2026 | JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market launchpad $nSTOCKS amid ongoing drama involving Vlad Tenev and Adam Aron. https://t.co/QO2Y7H3c5D | [X](https://x.com/WhaleInsider/status/2095811048884310350) |
 | @WhaleInsider | Fri Sep 04 09:53:16 +0000 2026 | JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China. https://t.co/Y3GHz8dNqm | [X](https://x.com/WhaleInsider/status/2095812430299312173) |
 | @WhaleInsider | Fri Sep 04 10:19:39 +0000 2026 | JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity pool, is positioning itself to compete with $AI on Robinhood Chain. https://t.co/IyX8QmpDsO | [X](https://x.com/WhaleInsider/status/2095819068913680666) |
 | @WhaleInsider | Fri Sep 04 10:26:00 +0000 2026 | JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, despite Chair Kevin Warsh’s hawkish Jackson Hole speech. https://t.co/Or1AIUAOmq | [X](https://x.com/WhaleInsider/status/2095820668109484277) |
 | @StockMKTNewz | Fri Sep 04 11:15:04 +0000 2026 | This is what $3.2 Million gets you in Los Angeles   The former house of Fred Durst, Adam Brody, and Amanda Seyfried https://t.co/FywwpIKy7E | [X](https://x.com/StockMKTNewz/status/2095833017654661484) |
 | @StockMKTNewz | Fri Sep 04 11:28:16 +0000 2026 | CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIGGEST COMPANIES IN CHINA 🇨🇳 ON HIS VISIT TO MEET 🇺🇸 PRESIDENT TRUMP IN THE US | [X](https://x.com/StockMKTNewz/status/2095836337303699834) |
-| @StockMKTNewz | Fri Sep 04 11:36:47 +0000 2026 | THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL WORKFORCE | [X](https://x.com/StockMKTNewz/status/2095838483235348731) |
-| @StockMKTNewz | Fri Sep 04 12:04:05 +0000 2026 | Volkswagen just announced plans for a further 50,000 job cuts - CNBC https://t.co/h12w3Y8zaB | [X](https://x.com/StockMKTNewz/status/2095845351089414299) |
-| @WhaleInsider | Fri Sep 04 12:04:56 +0000 2026 | JUST IN: $BTC currently forecasted to hit a high of $90,000 this year, per Kalshi traders. https://t.co/BVyYS5iXLC | [X](https://x.com/WhaleInsider/status/2095845567893024937) |
-| @StockMKTNewz | Fri Sep 04 12:12:44 +0000 2026 | Nvidia $NVDA has committed to invest more than $40 billion into AI companies so far in 2026 | [X](https://x.com/StockMKTNewz/status/2095847527920685319) |
-| @StockMKTNewz | Fri Sep 04 12:31:34 +0000 2026 | The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of +53K jobs added (NFP Non-farm Payrolls) | [X](https://x.com/StockMKTNewz/status/2095852270202048699) |
-| @WhaleInsider | Fri Sep 04 06:49:17 +0000 2026 | JUST IN: BlackRock clients buy $72.07 million worth of $ETH. https://t.co/sp4lEpxAR6 | [X](https://x.com/WhaleInsider/status/2095766131956990320) |
-| @WhaleInsider | Fri Sep 04 07:18:15 +0000 2026 | JUST IN: Bitwise and Franklin ETF clients buy a combined $6.14 million worth of $XRP. https://t.co/RQf0nzkwJn | [X](https://x.com/WhaleInsider/status/2095773421531463758) |
-| @WhaleInsider | Fri Sep 04 08:18:39 +0000 2026 | JUST IN: YCombinator dev launches $RCOMBINATOR on Robinhood Chain. https://t.co/DdatgyG4SG | [X](https://x.com/WhaleInsider/status/2095788618207961240) |
-| @WhaleInsider | Fri Sep 04 08:20:49 +0000 2026 | JUST IN: Monero $XMR privacy coin rallies 17% in the past 7 days. https://t.co/eXtIFj6tMd | [X](https://x.com/WhaleInsider/status/2095789163169673283) |
-| @WhaleInsider | Fri Sep 04 08:49:02 +0000 2026 | JUST IN: 🇰🇷 South Korea looking to bring stocks, bonds, and funds to the blockchain for 24/7 trading. https://t.co/OsvvCoeNwN | [X](https://x.com/WhaleInsider/status/2095796264314998871) |
-| @WhaleInsider | Fri Sep 04 09:13:34 +0000 2026 | JUST IN: 🇺🇸 Major U.S. enforcement group, the NSA, now supports the CLARITY Act. https://t.co/H4htHZzZEg | [X](https://x.com/WhaleInsider/status/2095802439580393655) |
-| @WhaleInsider | Fri Sep 04 05:37:52 +0000 2026 | JUST IN: BlackRock clients buy $453.96 million worth of $BTC. https://t.co/kpudUam0g6 | [X](https://x.com/WhaleInsider/status/2095748158001131691) |
-| @StockMKTNewz | Fri Sep 04 01:12:01 +0000 2026 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no steering wheel to the public according to @SawyerMerritt   https://t.co/6Hz8dn9YHM | [X](https://x.com/StockMKTNewz/status/2095681253504651266) |
-| @StockMKTNewz | Fri Sep 04 01:28:22 +0000 2026 | Jim Cramer was just asked about $IREN stock:  “If you’re going to do neoclouds, the only one I like is CoreWeave.” | [X](https://x.com/StockMKTNewz/status/2095685369031278901) |
-| @StockMKTNewz | Thu Sep 03 12:52:19 +0000 2026 | 🇺🇸 FED'S WALLER JUST SAID:   - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT A REASONABLE CPI.  - IF THAT REVERSES IN AUGUST WILLING TO PULL TRIGGER ON RATE HIKE | [X](https://x.com/StockMKTNewz/status/2095495103158599973) |
-| @StockMKTNewz | Thu Sep 03 13:09:46 +0000 2026 | Name another platform where you can get triggered by both Michael Burry and Elon Musk at the same time https://t.co/LDICl5Mfvs | [X](https://x.com/StockMKTNewz/status/2095499492183151063) |
-| @StockMKTNewz | Thu Sep 03 13:26:00 +0000 2026 | Tim Apple cooked the market during his time as the CEO of Apple $AAPL https://t.co/l6mb6LWf9T | [X](https://x.com/StockMKTNewz/status/2095503578802606552) |
-| @StockMKTNewz | Thu Sep 03 13:37:34 +0000 2026 | Snowflake $SNOW is starting trading today up by more than 20% following its earnings last night   🟢 https://t.co/ZexTWQ5hHD | [X](https://x.com/StockMKTNewz/status/2095506487988645951) |
-| @StockMKTNewz | Thu Sep 03 13:48:23 +0000 2026 | $META’s stock is back to starting with a 6 https://t.co/ASFZWnICQm | [X](https://x.com/StockMKTNewz/status/2095509213367718105) |
-| @StockMKTNewz | Thu Sep 03 14:16:28 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/50lxbSGZlH | [X](https://x.com/StockMKTNewz/status/2095516280321102293) |
-| @StockMKTNewz | Thu Sep 03 14:20:16 +0000 2026 | The stock market Fear and Greed index is now down into Fear currently at 35/100 https://t.co/IreKwU5FXX | [X](https://x.com/StockMKTNewz/status/2095517235057975299) |
-| @StockMKTNewz | Thu Sep 03 14:37:05 +0000 2026 | JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club https://t.co/X5AbrcZ3f1 | [X](https://x.com/StockMKTNewz/status/2095521469094662334) |
-| @StockMKTNewz | Thu Sep 03 14:46:47 +0000 2026 | Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of its workforce - WSJ https://t.co/XN9VvX6UAq | [X](https://x.com/StockMKTNewz/status/2095523910951256433) |
-| @StockMKTNewz | Thu Sep 03 14:50:28 +0000 2026 | Bitcoin $BTC is back over $80,000  🟢🟢🟢🟢🟢🟢🟢🟢 https://t.co/Wwq2UAfk3g | [X](https://x.com/StockMKTNewz/status/2095524837208834303) |
 
 ## 选题推荐
 
@@ -53,6 +53,7 @@
 | 1 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell … | StockMKTNewz | 21 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 1 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | StockMKTNewz | 929840 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 1 | The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of +53K jobs added (NFP N… | StockMKTNewz | 14568 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Ene… | StockMKTNewz | 55687 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -60,6 +61,7 @@
 | 2 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far… | StockMKTNewz | 21 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 2 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | StockMKTNewz | 150616 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 2 | Nvidia $NVDA has committed to invest more than $40 billion into AI companies so far in 2026 | StockMKTNewz | 19563 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | This is how the 🇺🇸 stock market performed today https://t.co/zIUT1o7TJD | StockMKTNewz | 27424 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -67,12 +69,14 @@
 | 3 | Tesla $TSLA just posted this new video of the Cybercab https://t.co/2vXr4mN90X | StockMKTNewz | 20 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 3 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. https://t.co/pZDW4KmWgF | WhaleInsider | 117715 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 3 | JUST IN: $BTC currently forecasted to hit a high of $90,000 this year, per Kalshi traders. h… | WhaleInsider | 24859 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | Evan StockMKTNewz Top 10 Trader https://t.co/xvity9icMr | StockMKTNewz | 32865 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $2.67 billion, marking a new all-time hig… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | Microsoft sold $43 Million worth of $MSFT stock this week https://t.co/quAX1glQpU | StockMKTNewz | 20 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 4 | Volkswagen just announced plans for a further 50,000 job cuts - CNBC https://t.co/h12w3Y8zaB | StockMKTNewz | 17077 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders. https:/… | WhaleInsider | 40849 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -82,52 +86,72 @@
 | 5 | Lululemon $LULU stock is down by 15% in after hours following its earnings 🔴🔴🔴🔴🔴 https://t.c… | StockMKTNewz | 20 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 5 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we ch… | StockMKTNewz | 95186 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 5 | THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL WORKFORCE | StockMKTNewz | 22891 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 5 | 🇺🇸 President Trump just said: “If you want to get rich as a state, you will want data center… | StockMKTNewz | 45364 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 6 | This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years h… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 6 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood br… | StockMKTNewz | 20 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 6 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $… | WhaleInsider | 89351 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 6 | CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIGGEST COMPANIES IN CHIN… | StockMKTNewz | 33895 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 6 | 🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5% | StockMKTNewz | 46815 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 7 | JUST IN: 🇦🇪 $447 billion Standard Chartered is now offering spot crypto trading to instituti… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 7 | Tesla $TSLA just said its new self driving cars will have a theater mode and be equipped wit… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 7 | JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outp… | WhaleInsider | 84283 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 7 | This is what $3.2 Million gets you in Los Angeles The former house of Fred Durst, Adam Brody… | StockMKTNewz | 31317 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 7 | *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH | StockMKTNewz | 43072 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 8 | JUST IN: $BTC forecasted to hit a high of $83,000 this month, per Kalshi traders. https://t.… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 8 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 8 | Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena | StockMKTNewz | 75095 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 8 | JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, despite Chair Kevin Wars… | WhaleInsider | 42130 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 8 | 🇺🇸 President Trump just said that the stock market should have gone up today https://t.co/al… | StockMKTNewz | 57987 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 9 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via part… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 9 | Salesforce $CRM and Anthropic just released this new commercial together https://t.co/fnlLdN… | StockMKTNewz | 72214 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 9 | JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity … | WhaleInsider | 33476 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 9 | 🇺🇸 PRESIDENT TRUMP JUST SAID: "GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION" | StockMKTNewz | 43564 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 10 | Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging… | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 10 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid grow… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 10 | JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China. https://t.… | WhaleInsider | 34285 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 10 | McDonald's $MCD stock hit new 52 WEEK LOWS today https://t.co/clDChKH4DS | StockMKTNewz | 58960 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 11 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 bi… | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 11 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, … | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 11 | JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market l… | WhaleInsider | 40791 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 11 | What's the #1 worst performing stock in your portfolio so far today | StockMKTNewz | 46684 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 12 | WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its Cybercab event tonigh… | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 12 | This is what $5.35 Million gets you in Cleveland Ohio https://t.co/eKMzT15I7R | StockMKTNewz | 67842 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 12 | What's the #1 best performing stock in your portfolio so far today | StockMKTNewz | 46597 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 13 | Scotiabank started coverage on $SOFI stock with a $25 price target and an Outperform rating | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 13 | Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by … | StockMKTNewz | 35314 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 14 | JUST IN: 🇯🇵 Bank of Japan leans toward raising rates from 1% to 1.25% this month - Bloomberg… | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 14 | JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for busin… | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 14 | Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM … | StockMKTNewz | 42487 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 15 | JUST IN: BlackRock ETF clients buy $115.45 million worth of $BTC. https://t.co/gQHSIvjsHt | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 15 | Zscaler $ZS stock is up initially in after hours following its earnings https://t.co/aNyl92n… | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 15 | Here are some of the events to watch out for this my from our partners below We still have C… | StockMKTNewz | 40489 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 16 | Here is a early look at some of the largest stocks that report earnings tomorrow Lululemon $… | StockMKTNewz | 17 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 16 | JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the be… | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 16 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. … | WhaleInsider | 63410 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 16 | HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OW… | StockMKTNewz | 39996 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 17 | JUST IN: @MetaWin announces another $1M will be given away to players this month. Deposit on… | WhaleInsider | 17 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 17 | JUST IN: $XRP price rallies 4.8% in the past 24 hours. https://t.co/wqfeeECGte | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 17 | Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the… | StockMKTNewz | 61730 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 17 | JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflatio… | WhaleInsider | 41765 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 18 | Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢 https://t.co/OwRRBfY0J4 | StockMKTNewz | 45963 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 19 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. https://t.co/gmqHNFvz3U | WhaleInsider | 61229 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 19 | JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $… | WhaleInsider | 36371 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 20 | Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITABILITY IN Q4 FY28 | StockMKTNewz | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 20 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | StockMKTNewz | 61074 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 20 | REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day | StockMKTNewz | 36613 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 21 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsof… | StockMKTNewz | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 21 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out to… | StockMKTNewz | 60203 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 21 | JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past … | WhaleInsider | 52347 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 22 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. https:… | WhaleInsider | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 22 | Is the Tesla $TSLA event happening? | StockMKTNewz | 17 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 22 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the … | WhaleInsider | 55348 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 23 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ https://t.… | WhaleInsider | 16 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 23 | Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq unde… | StockMKTNewz | 17 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 23 | The stock market Fear and Greed index is now down into Fear currently at 35/100 https://t.co… | StockMKTNewz | 57702 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 23 | JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch t… | WhaleInsider | 45272 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 24 | 206K people filed for unemployment this past week in the United States 🇺🇸, basically in line… | StockMKTNewz | 15 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 24 | JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user follow… | WhaleInsider | 17 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
+| 24 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a pro… | WhaleInsider | 90303 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 25 | Tesla $TSLA just posted this video ahead of their Cybercab event later tonight “The future h… | StockMKTNewz | 17 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 27 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immed… | StockMKTNewz | 15 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 28 | JUST IN: Spot silver falls nearly 3% to $64.55/oz. https://t.co/KWjVzlGeFJ | WhaleInsider | 15 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -646,7 +670,7 @@ Market radar: @StockMKTNewz reports: Google's $GOOGL self driving car company Wa
 
 ### META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-meta-platforms-meta-ceo-mark-zuckerberg-just-pos-14214/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -821,7 +845,7 @@ Market radar: @WhaleInsider reports: JUST IN: BlackRock clients sell 2,605 $BTC 
 
 ### OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-openai-says-it-has-overtaken-anthropic-with-its--00552/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Fina  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1057,6 +1081,174 @@ Market radar: @WhaleInsider reports: JUST IN: 🇨🇳 DeepSeek plans to install
 
 Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some users may be moving toward a  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
+### JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-just-in-the-s-amp-p-500-is-changing-these-stocks-90845/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to t  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### This is how the 🇺🇸 stock market performed today
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-this-is-how-the-stock-market-performed-today-76761/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: This is how the 🇺🇸 stock market performed today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### Evan StockMKTNewz Top 10 Trader
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-evan-stockmktnewz-top-10-trader-47085/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: Evan StockMKTNewz Top 10 Trader  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders.
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-just-in-77-chance-of-btc-crossing-85k-again-befo-16903/when2buy-market-radar.png`
+
+Market radar: @WhaleInsider reports: JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per K  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### 🇺🇸 President Trump just said: “If you want to get rich as a state, you will want data centers. If yo
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-president-trump-just-said-if-you-want-to-get-ric-46330/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said: “If you want to get rich as a state, you  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### 🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-president-trump-just-said-interest-rates-should--20987/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN W  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### 🇺🇸 President Trump just said that the stock market should have gone up today
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-president-trump-just-said-that-the-stock-market--84602/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said that the stock market should have gone up  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### 🇺🇸 PRESIDENT TRUMP JUST SAID: "GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION"
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-president-trump-just-said-growth-does-not-cause--78307/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: "GROWTH DOES NOT CAUSE INFLATION, STUPID  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### McDonald's $MCD stock hit new 52 WEEK LOWS today
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-mcdonald-s-mcd-stock-hit-new-52-week-lows-today-79635/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: McDonald's $MCD stock hit new 52 WEEK LOWS today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### What's the #1 worst performing stock in your portfolio so far today
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: What's the #1 worst performing stock in your portfolio so far today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### What's the #1 best performing stock in your portfolio so far today
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: What's the #1 best performing stock in your portfolio so far today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerM
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: Here is a day 1 look at the inside of Tesla’s $TSLA self driving car t  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM ET
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: Tesla $TSLA just said that paid rides to the public in its Cybercab wi  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### Here are some of the events to watch out for this my from our partners below We still have CPI, a FO
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: Here are some of the events to watch out for this my from our partners  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OWNERSHIP
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MO  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflation.’
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-market-radar.png`
+
+Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise   Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-micron-mu-stock-is-back-over-1-000-per-share-06996/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $1M will
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-just-in-metawin-player-turns-45-into-over-87-000-91419/when2buy-market-radar.png`
+
+Market radar: @WhaleInsider reports: JUST IN: @MetaWin player turns $45 into over $87,000 following their a  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-reminder-the-stock-market-will-be-closed-on-mond-40118/when2buy-market-radar.png`
+
+Market radar: @StockMKTNewz reports: REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+
+### JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-just-in-304-000-000-worth-of-long-positions-liqu-72923/when2buy-market-radar.png`
+
+Market radar: @WhaleInsider reports: JUST IN: $304,000,000 worth of long positions liquidated from the cryp  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-just-in-following-meme-surging-to-over-100m-spec-88861/when2buy-market-radar.png`
+
+Market radar: @WhaleInsider reports: JUST IN: Following $MEME surging to over $100M , speculation is growin  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch through S
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260905-just-in-robinhood-chain-hood-has-accumulated-18--66683/when2buy-market-radar.png`
+
+Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transact  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-new-the-bank-for-international-settlements-publi-87810/when2buy-market-radar.png`
+
+Market radar: @WhaleInsider reports: NEW: The Bank for International Settlements publishes a paper using th  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -1107,9 +1299,23 @@ Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some u
 | Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: | 2026-09-04T12:45:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095855783753953496) |
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095855909612498984) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2095856045784805886) |
+| NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096036275862266165) |
+| OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096036402891010178) |
+| META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096036533728108897) |
+| McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096036664003154368) |
+| 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096036799080776086) |
 
 ## 最近运行
 
+- `2026-09-05T00:44:52.883711+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T00:44:21.809675+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T00:43:49.350684+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T00:43:18.628572+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T00:42:47.874380+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T00:42:12Z` **queue / succeeded** — Prepared 120 one-to-one production candidate(s).
+- `2026-09-05T00:42:12.712366+00:00` **produce / succeeded** — Created 24 original attributed market-radar package(s).
+- `2026-09-05T00:41:46Z` **queue / succeeded** — Prepared 120 one-to-one production candidate(s).
+- `2026-09-05T00:41:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 24 new post(s).
 - `2026-09-04T16:33:29Z` **queue / succeeded** — Prepared 96 one-to-one production candidate(s).
 - `2026-09-04T16:33:29Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-04T12:46:36.889384+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1121,12 +1327,3 @@ Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some u
 - `2026-09-04T12:43:51.043067+00:00` **produce / succeeded** — Created 11 original attributed market-radar package(s).
 - `2026-09-04T12:43:13Z` **queue / succeeded** — Prepared 101 one-to-one production candidate(s).
 - `2026-09-04T12:42:28Z` **queue / succeeded** — Prepared 101 one-to-one production candidate(s).
-- `2026-09-04T12:42:09Z` **queue / succeeded** — Prepared 101 one-to-one production candidate(s).
-- `2026-09-04T12:41:25Z` **queue / succeeded** — Prepared 101 one-to-one production candidate(s).
-- `2026-09-04T12:41:12Z` **queue / succeeded** — Prepared 101 one-to-one production candidate(s).
-- `2026-09-04T12:40:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 11 new post(s).
-- `2026-09-04T11:38:48Z` **queue / succeeded** — Prepared 90 one-to-one production candidate(s).
-- `2026-09-04T11:38:48Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-04T10:23:00Z` **queue / succeeded** — Prepared 92 one-to-one production candidate(s).
-- `2026-09-04T10:23:00Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-04T10:22:12Z` **queue / succeeded** — Prepared 92 one-to-one production candidate(s).

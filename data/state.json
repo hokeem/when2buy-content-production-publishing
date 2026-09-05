@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T16:33:29.990228+00:00",
+  "updatedAt": "2026-09-05T00:44:52.885176+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -5423,6 +5423,652 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095986051130990845",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095986051130990845",
+      "postedAt": "Fri Sep 04 21:23:10 +0000 2026",
+      "text": "JUST IN: THE S&amp;P 500 IS CHANGING \n\nThese stocks are being added to the index:\n\n- Bloomb Energy $BE \n- Everpure $P \n- Illumina $ILMN \n\nThese stocks are being removed from the index:\n\n- Molson Coors $TAP \n- Trade Desk $TTD \n- Builders $BLDR https://t.co/zfxoAin4BW",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRZwLaOWEAAYf9I.jpg"
+      ],
+      "engagement": {
+        "likes": 255,
+        "replies": 18,
+        "reposts": 38,
+        "quotes": 14,
+        "views": 47127
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRZwLaOWEAAYf9I.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095986051130990845-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095974949391376761",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095974949391376761",
+      "postedAt": "Fri Sep 04 20:39:03 +0000 2026",
+      "text": "This is how the 🇺🇸 stock market performed today  https://t.co/zIUT1o7TJD",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/ext_tw_video_thumb/2095967477230678016/pu/img/HuQ9_mT5yiA-O6Q-.jpg"
+      ],
+      "engagement": {
+        "likes": 68,
+        "replies": 8,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 25534
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2095967477230678016/pu/img/HuQ9_mT5yiA-O6Q-.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095974949391376761-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095970287435047085",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095970287435047085",
+      "postedAt": "Fri Sep 04 20:20:32 +0000 2026",
+      "text": "Evan StockMKTNewz Top 10 Trader https://t.co/xvity9icMr",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRZh3f9bAAAegBf.jpg"
+      ],
+      "engagement": {
+        "likes": 22,
+        "replies": 8,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 31995
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRZh3f9bAAAegBf.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095970287435047085-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095958389150916903",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095958389150916903",
+      "postedAt": "Fri Sep 04 19:33:15 +0000 2026",
+      "text": "JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders. https://t.co/4g1JPLVpCZ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRZXC20acAACwaP.jpg",
+        "https://pbs.twimg.com/media/HRZXC2OXAAU8UNh.jpg"
+      ],
+      "engagement": {
+        "likes": 387,
+        "replies": 26,
+        "reposts": 25,
+        "quotes": 2,
+        "views": 30699
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRZXC20acAACwaP.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095958389150916903-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRZXC2OXAAU8UNh.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095958389150916903-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095951550073946330",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095951550073946330",
+      "postedAt": "Fri Sep 04 19:06:05 +0000 2026",
+      "text": "🇺🇸 President Trump just said:\n\n“If you want to get rich as a state, you will want data centers.\n\nIf you want to go through poverty and crime, I would say don't approve data centers.” https://t.co/KC4d7pvpIt",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095950770323775489/img/emS60zVc3pPMHzFF.jpg"
+      ],
+      "engagement": {
+        "likes": 284,
+        "replies": 29,
+        "reposts": 25,
+        "quotes": 4,
+        "views": 37034
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095950770323775489/img/emS60zVc3pPMHzFF.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095951550073946330-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095947527795220987",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095947527795220987",
+      "postedAt": "Fri Sep 04 18:50:06 +0000 2026",
+      "text": "🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 121,
+        "replies": 14,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 43425
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095946340010168608",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095946340010168608",
+      "postedAt": "Fri Sep 04 18:45:22 +0000 2026",
+      "text": "*🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 269,
+        "replies": 10,
+        "reposts": 19,
+        "quotes": 4,
+        "views": 36102
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095945126375784602",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095945126375784602",
+      "postedAt": "Fri Sep 04 18:40:33 +0000 2026",
+      "text": "🇺🇸 President Trump just said that the stock market should have gone up today  https://t.co/al3DzwGKdH",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095944511210070016/img/7WtnXlYlcrfLyh0H.jpg"
+      ],
+      "engagement": {
+        "likes": 359,
+        "replies": 45,
+        "reposts": 27,
+        "quotes": 12,
+        "views": 46937
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095944511210070016/img/7WtnXlYlcrfLyh0H.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095945126375784602-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095944730768978307",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095944730768978307",
+      "postedAt": "Fri Sep 04 18:38:59 +0000 2026",
+      "text": "🇺🇸 PRESIDENT TRUMP JUST SAID: \"GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION\"",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 275,
+        "replies": 52,
+        "reposts": 16,
+        "quotes": 8,
+        "views": 34704
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095939322927079635",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095939322927079635",
+      "postedAt": "Fri Sep 04 18:17:29 +0000 2026",
+      "text": "McDonald's $MCD stock hit new 52 WEEK LOWS today https://t.co/clDChKH4DS",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRZFtDTbgAA2ewr.jpg"
+      ],
+      "engagement": {
+        "likes": 429,
+        "replies": 65,
+        "reposts": 33,
+        "quotes": 7,
+        "views": 45710
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRZFtDTbgAA2ewr.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095939322927079635-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095936496867934708",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095936496867934708",
+      "postedAt": "Fri Sep 04 18:06:16 +0000 2026",
+      "text": "What's the #1 worst performing stock in your portfolio so far today",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 40,
+        "replies": 85,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 42224
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095934683288678906",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095934683288678906",
+      "postedAt": "Fri Sep 04 17:59:03 +0000 2026",
+      "text": "What's the #1 best performing stock in your portfolio so far today",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 64,
+        "replies": 106,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 40717
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095933175557992763",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095933175557992763",
+      "postedAt": "Fri Sep 04 17:53:04 +0000 2026",
+      "text": "Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerMerritt  https://t.co/ymUQ75lITL",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095930752957358081/img/-USpgH1zAhdiytUR.jpg"
+      ],
+      "engagement": {
+        "likes": 113,
+        "replies": 15,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 32244
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095930752957358081/img/-USpgH1zAhdiytUR.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095933175557992763-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095924450411553152",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095924450411553152",
+      "postedAt": "Fri Sep 04 17:18:24 +0000 2026",
+      "text": "Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM ET https://t.co/IStmWb1kCD",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRY4IyAbkAA5-_s.jpg"
+      ],
+      "engagement": {
+        "likes": 206,
+        "replies": 17,
+        "reposts": 13,
+        "quotes": 2,
+        "views": 36917
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRY4IyAbkAA5-_s.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095924450411553152-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095922527579115717",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095922527579115717",
+      "postedAt": "Fri Sep 04 17:10:45 +0000 2026",
+      "text": "Here are some of the events to watch out for this my from our partners below\n\nWe still have CPI, a FOMC meeting, Micron $MU earnings, and more coming this month https://t.co/krF48vkaUf",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRY2T2RaQAEVIQR.jpg"
+      ],
+      "engagement": {
+        "likes": 68,
+        "replies": 7,
+        "reposts": 10,
+        "quotes": 0,
+        "views": 38349
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRY2T2RaQAEVIQR.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095922527579115717-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095918547742380358",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095918547742380358",
+      "postedAt": "Fri Sep 04 16:54:56 +0000 2026",
+      "text": "HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OWNERSHIP OF CANTOR FITZGERALD - Bloomberg",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 163,
+        "replies": 11,
+        "reposts": 7,
+        "quotes": 0,
+        "views": 35946
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095913618835435660",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095913618835435660",
+      "postedAt": "Fri Sep 04 16:35:21 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflation.’ https://t.co/jZfoxaRlX3",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYuUo9WgAAJ-7i.jpg",
+        "https://pbs.twimg.com/media/HRYuUpaagAA9Lth.jpg"
+      ],
+      "engagement": {
+        "likes": 286,
+        "replies": 26,
+        "reposts": 19,
+        "quotes": 2,
+        "views": 33935
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYuUo9WgAAJ-7i.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095913618835435660-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYuUpaagAA9Lth.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095913618835435660-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095912220077006996",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095912220077006996",
+      "postedAt": "Fri Sep 04 16:29:48 +0000 2026",
+      "text": "Micron $MU stock is back over $1,000 per share \n\n🟢🟢🟢🟢🟢 https://t.co/OwRRBfY0J4",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYtDkAaAAAtuai.jpg"
+      ],
+      "engagement": {
+        "likes": 380,
+        "replies": 21,
+        "reposts": 24,
+        "quotes": 5,
+        "views": 36023
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYtDkAaAAAtuai.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095912220077006996-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095912050492891419",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095912050492891419",
+      "postedAt": "Fri Sep 04 16:29:07 +0000 2026",
+      "text": "JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement.\n\n$1M will go out to their players this month.\n\nEveryone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/yY0cvbaz2q",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYsoe_XUAMp6ki.jpg",
+        "https://pbs.twimg.com/amplify_video_thumb/2095911750755602436/img/eiUJ3-ObzBrd1mOd.jpg"
+      ],
+      "engagement": {
+        "likes": 225,
+        "replies": 17,
+        "reposts": 9,
+        "quotes": 1,
+        "views": 30681
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYsoe_XUAMp6ki.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095912050492891419-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095911750755602436/img/eiUJ3-ObzBrd1mOd.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095912050492891419-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095901350622040118",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095901350622040118",
+      "postedAt": "Fri Sep 04 15:46:36 +0000 2026",
+      "text": "REMINDER\n\nThe 🇺🇸 stock market will be closed on Monday for Labor Day",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 172,
+        "replies": 14,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 32243
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095891937081372923",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095891937081372923",
+      "postedAt": "Fri Sep 04 15:09:12 +0000 2026",
+      "text": "JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours. https://t.co/9qCCb3rz3r",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYamzGXQAEUnUo.jpg"
+      ],
+      "engagement": {
+        "likes": 572,
+        "replies": 51,
+        "reposts": 23,
+        "quotes": 5,
+        "views": 37417
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYamzGXQAEUnUo.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095891937081372923-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095889714171588861",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095889714171588861",
+      "postedAt": "Fri Sep 04 15:00:22 +0000 2026",
+      "text": "JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to make big moves. https://t.co/pGZqvBks7G",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYYlN3WQAEbgWc.jpg",
+        "https://pbs.twimg.com/media/HRYYlPIaQAAFYyA.jpg"
+      ],
+      "engagement": {
+        "likes": 267,
+        "replies": 40,
+        "reposts": 18,
+        "quotes": 7,
+        "views": 47088
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYYlN3WQAEbgWc.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095889714171588861-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYYlPIaQAAFYyA.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095889714171588861-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095873913293066683",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095873913293066683",
+      "postedAt": "Fri Sep 04 13:57:35 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch through September 2, 2026. https://t.co/kurr7U5vt9",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYKNqDbAAA4WyH.jpg"
+      ],
+      "engagement": {
+        "likes": 315,
+        "replies": 29,
+        "reposts": 23,
+        "quotes": 6,
+        "views": 36302
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYKNqDbAAA4WyH.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095873913293066683-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095863414916587810",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2095863414916587810",
+      "postedAt": "Fri Sep 04 13:15:52 +0000 2026",
+      "text": "NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-concept for verifying official statistics on-chain.\n\nThe BIS cites XRPL's low fees, 3-5 second settlement and proven track record, though no adoption decision has been made. https://t.co/hqQDvhW3T2",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYAqpfaQAAOjVF.jpg",
+        "https://pbs.twimg.com/media/HRYAqpdaoAEa94N.jpg"
+      ],
+      "engagement": {
+        "likes": 1184,
+        "replies": 47,
+        "reposts": 197,
+        "quotes": 12,
+        "views": 54173
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T00:41:38Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYAqpfaQAAOjVF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095863414916587810-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYAqpdaoAEa94N.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2095863414916587810-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -8484,6 +9130,462 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095986051130990845",
+      "rank": 1,
+      "title": "JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Ene…",
+      "benchmarkPostId": "2095986051130990845",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095986051130990845",
+      "score": 55687,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095974949391376761",
+      "rank": 2,
+      "title": "This is how the 🇺🇸 stock market performed today https://t.co/zIUT1o7TJD",
+      "benchmarkPostId": "2095974949391376761",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095974949391376761",
+      "score": 27424,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095970287435047085",
+      "rank": 3,
+      "title": "Evan StockMKTNewz Top 10 Trader https://t.co/xvity9icMr",
+      "benchmarkPostId": "2095970287435047085",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095970287435047085",
+      "score": 32865,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2095958389150916903",
+      "rank": 4,
+      "title": "JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders. https:/…",
+      "benchmarkPostId": "2095958389150916903",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095958389150916903",
+      "score": 40849,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095951550073946330",
+      "rank": 5,
+      "title": "🇺🇸 President Trump just said: “If you want to get rich as a state, you will want data center…",
+      "benchmarkPostId": "2095951550073946330",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095951550073946330",
+      "score": 45364,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095947527795220987",
+      "rank": 6,
+      "title": "🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%",
+      "benchmarkPostId": "2095947527795220987",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095947527795220987",
+      "score": 46815,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095946340010168608",
+      "rank": 7,
+      "title": "*🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH",
+      "benchmarkPostId": "2095946340010168608",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095946340010168608",
+      "score": 43072,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095945126375784602",
+      "rank": 8,
+      "title": "🇺🇸 President Trump just said that the stock market should have gone up today https://t.co/al…",
+      "benchmarkPostId": "2095945126375784602",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095945126375784602",
+      "score": 57987,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095944730768978307",
+      "rank": 9,
+      "title": "🇺🇸 PRESIDENT TRUMP JUST SAID: \"GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION\"",
+      "benchmarkPostId": "2095944730768978307",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095944730768978307",
+      "score": 43564,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095939322927079635",
+      "rank": 10,
+      "title": "McDonald's $MCD stock hit new 52 WEEK LOWS today https://t.co/clDChKH4DS",
+      "benchmarkPostId": "2095939322927079635",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095939322927079635",
+      "score": 58960,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095936496867934708",
+      "rank": 11,
+      "title": "What's the #1 worst performing stock in your portfolio so far today",
+      "benchmarkPostId": "2095936496867934708",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095936496867934708",
+      "score": 46684,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095934683288678906",
+      "rank": 12,
+      "title": "What's the #1 best performing stock in your portfolio so far today",
+      "benchmarkPostId": "2095934683288678906",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095934683288678906",
+      "score": 46597,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095933175557992763",
+      "rank": 13,
+      "title": "Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by …",
+      "benchmarkPostId": "2095933175557992763",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095933175557992763",
+      "score": 35314,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095924450411553152",
+      "rank": 14,
+      "title": "Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM …",
+      "benchmarkPostId": "2095924450411553152",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095924450411553152",
+      "score": 42487,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095922527579115717",
+      "rank": 15,
+      "title": "Here are some of the events to watch out for this my from our partners below We still have C…",
+      "benchmarkPostId": "2095922527579115717",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095922527579115717",
+      "score": 40489,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095918547742380358",
+      "rank": 16,
+      "title": "HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OW…",
+      "benchmarkPostId": "2095918547742380358",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095918547742380358",
+      "score": 39996,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095913618835435660",
+      "rank": 17,
+      "title": "JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflatio…",
+      "benchmarkPostId": "2095913618835435660",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095913618835435660",
+      "score": 41765,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095912220077006996",
+      "rank": 18,
+      "title": "Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢 https://t.co/OwRRBfY0J4",
+      "benchmarkPostId": "2095912220077006996",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095912220077006996",
+      "score": 45963,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095912050492891419",
+      "rank": 19,
+      "title": "JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $…",
+      "benchmarkPostId": "2095912050492891419",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095912050492891419",
+      "score": 36371,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095901350622040118",
+      "rank": 20,
+      "title": "REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day",
+      "benchmarkPostId": "2095901350622040118",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095901350622040118",
+      "score": 36613,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095891937081372923",
+      "rank": 21,
+      "title": "JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past …",
+      "benchmarkPostId": "2095891937081372923",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095891937081372923",
+      "score": 52347,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095889714171588861",
+      "rank": 22,
+      "title": "JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the …",
+      "benchmarkPostId": "2095889714171588861",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095889714171588861",
+      "score": 55348,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095873913293066683",
+      "rank": 23,
+      "title": "JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch t…",
+      "benchmarkPostId": "2095873913293066683",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095873913293066683",
+      "score": 45272,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095863414916587810",
+      "rank": 24,
+      "title": "NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a pro…",
+      "benchmarkPostId": "2095863414916587810",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2095863414916587810",
+      "score": 90303,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T00:41:46Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -9763,7 +10865,7 @@
       "benchmarkPostId": "2095232751951614214",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095232751951614214",
       "title": "META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: \"Muse Spark 1.3 is rolling out today with",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: \"Muse Spark\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -9774,7 +10876,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-meta-platforms-meta-ceo-mark-zuckerberg-just-pos-14214/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:24.510272+00:00"
+      "createdAt": "2026-09-04T04:45:24.510272+00:00",
+      "postizPostId": "cmtnnsz7h0t68lm0y6q724pr4",
+      "publishedAt": "2026-09-05T00:43:00.000Z"
     },
     {
       "id": "pkg-20260904-johnson-amp-johnson-jnj-stock-hit-new-52-week-hi-44758",
@@ -10235,7 +11339,7 @@
       "benchmarkPostId": "2095573569849700552",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095573569849700552",
       "title": "OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Fina\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -10246,7 +11350,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-openai-says-it-has-overtaken-anthropic-with-its--00552/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.253199+00:00"
+      "createdAt": "2026-09-04T04:45:27.253199+00:00",
+      "postizPostId": "cmtnnsbiw0t66lm0yporztv76",
+      "publishedAt": "2026-09-05T00:42:00.000Z"
     },
     {
       "id": "pkg-20260904-what-a-turn-around-we-re-don-t-a-stock-picking-c-72910",
@@ -10847,6 +11953,444 @@
       "imagePath": "deliverables/pkg-20260904-just-in-reports-and-rumours-suggest-some-users-m-10350/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
       "createdAt": "2026-09-04T12:43:51.043029+00:00"
+    },
+    {
+      "id": "pkg-20260905-just-in-the-s-amp-p-500-is-changing-these-stocks-90845",
+      "benchmarkPostId": "2095986051130990845",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095986051130990845",
+      "title": "JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to t\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE - Everpure $P - Illumina $ILMN These stocks are being removed from the index: - Molson Coors $TAP - Trade Desk $TTD - Builders $BLDR"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095986051130990845"
+      ],
+      "imagePath": "deliverables/pkg-20260905-just-in-the-s-amp-p-500-is-changing-these-stocks-90845/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:09.652820+00:00"
+    },
+    {
+      "id": "pkg-20260905-this-is-how-the-stock-market-performed-today-76761",
+      "benchmarkPostId": "2095974949391376761",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095974949391376761",
+      "title": "This is how the 🇺🇸 stock market performed today",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is how the 🇺🇸 stock market performed today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is how the 🇺🇸 stock market performed today"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095974949391376761"
+      ],
+      "imagePath": "deliverables/pkg-20260905-this-is-how-the-stock-market-performed-today-76761/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:09.766545+00:00"
+    },
+    {
+      "id": "pkg-20260905-evan-stockmktnewz-top-10-trader-47085",
+      "benchmarkPostId": "2095970287435047085",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095970287435047085",
+      "title": "Evan StockMKTNewz Top 10 Trader",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Evan StockMKTNewz Top 10 Trader\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Evan StockMKTNewz Top 10 Trader"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095970287435047085"
+      ],
+      "imagePath": "deliverables/pkg-20260905-evan-stockmktnewz-top-10-trader-47085/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:09.887644+00:00"
+    },
+    {
+      "id": "pkg-20260905-just-in-77-chance-of-btc-crossing-85k-again-befo-16903",
+      "benchmarkPostId": "2095958389150916903",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095958389150916903",
+      "title": "JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per K\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095958389150916903"
+      ],
+      "imagePath": "deliverables/pkg-20260905-just-in-77-chance-of-btc-crossing-85k-again-befo-16903/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-05T00:42:10.007540+00:00"
+    },
+    {
+      "id": "pkg-20260905-president-trump-just-said-if-you-want-to-get-ric-46330",
+      "benchmarkPostId": "2095951550073946330",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095951550073946330",
+      "title": "🇺🇸 President Trump just said: “If you want to get rich as a state, you will want data centers. If yo",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said: “If you want to get rich as a state, you\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 President Trump just said: “If you want to get rich as a state, you will want data centers. If you want to go through poverty and crime, I would say don't approve data centers.”"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095951550073946330"
+      ],
+      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-if-you-want-to-get-ric-46330/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:10.141564+00:00"
+    },
+    {
+      "id": "pkg-20260905-president-trump-just-said-interest-rates-should--20987",
+      "benchmarkPostId": "2095947527795220987",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095947527795220987",
+      "title": "🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095947527795220987"
+      ],
+      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-interest-rates-should--20987/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:10.256941+00:00"
+    },
+    {
+      "id": "pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608",
+      "benchmarkPostId": "2095946340010168608",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095946340010168608",
+      "title": "*🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN W\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "*🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095946340010168608"
+      ],
+      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:10.357037+00:00"
+    },
+    {
+      "id": "pkg-20260905-president-trump-just-said-that-the-stock-market--84602",
+      "benchmarkPostId": "2095945126375784602",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095945126375784602",
+      "title": "🇺🇸 President Trump just said that the stock market should have gone up today",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said that the stock market should have gone up\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 President Trump just said that the stock market should have gone up today"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095945126375784602"
+      ],
+      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-that-the-stock-market--84602/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:10.459116+00:00",
+      "postizPostId": "cmtnnubwp0kblqk0y93zf58k3",
+      "publishedAt": "2026-09-05T00:44:00.000Z"
+    },
+    {
+      "id": "pkg-20260905-president-trump-just-said-growth-does-not-cause--78307",
+      "benchmarkPostId": "2095944730768978307",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095944730768978307",
+      "title": "🇺🇸 PRESIDENT TRUMP JUST SAID: \"GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION\"",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: \"GROWTH DOES NOT CAUSE INFLATION, STUPID\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 PRESIDENT TRUMP JUST SAID: \"GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION\""
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095944730768978307"
+      ],
+      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-growth-does-not-cause--78307/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:10.601988+00:00"
+    },
+    {
+      "id": "pkg-20260905-mcdonald-s-mcd-stock-hit-new-52-week-lows-today-79635",
+      "benchmarkPostId": "2095939322927079635",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095939322927079635",
+      "title": "McDonald's $MCD stock hit new 52 WEEK LOWS today",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: McDonald's $MCD stock hit new 52 WEEK LOWS today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "McDonald's $MCD stock hit new 52 WEEK LOWS today"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095939322927079635"
+      ],
+      "imagePath": "deliverables/pkg-20260905-mcdonald-s-mcd-stock-hit-new-52-week-lows-today-79635/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:10.762780+00:00",
+      "postizPostId": "cmtnntnd20kb3qk0y474ffq2b",
+      "publishedAt": "2026-09-05T00:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708",
+      "benchmarkPostId": "2095936496867934708",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095936496867934708",
+      "title": "What's the #1 worst performing stock in your portfolio so far today",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: What's the #1 worst performing stock in your portfolio so far today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "What's the #1 worst performing stock in your portfolio so far today"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095936496867934708"
+      ],
+      "imagePath": "deliverables/pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:10.916918+00:00"
+    },
+    {
+      "id": "pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906",
+      "benchmarkPostId": "2095934683288678906",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095934683288678906",
+      "title": "What's the #1 best performing stock in your portfolio so far today",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: What's the #1 best performing stock in your portfolio so far today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "What's the #1 best performing stock in your portfolio so far today"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095934683288678906"
+      ],
+      "imagePath": "deliverables/pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:11.067694+00:00"
+    },
+    {
+      "id": "pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763",
+      "benchmarkPostId": "2095933175557992763",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095933175557992763",
+      "title": "Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerM",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Here is a day 1 look at the inside of Tesla’s $TSLA self driving car t\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerMerritt"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095933175557992763"
+      ],
+      "imagePath": "deliverables/pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:11.206655+00:00"
+    },
+    {
+      "id": "pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152",
+      "benchmarkPostId": "2095924450411553152",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095924450411553152",
+      "title": "Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM ET",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Tesla $TSLA just said that paid rides to the public in its Cybercab wi\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM ET"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095924450411553152"
+      ],
+      "imagePath": "deliverables/pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:11.376013+00:00"
+    },
+    {
+      "id": "pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717",
+      "benchmarkPostId": "2095922527579115717",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095922527579115717",
+      "title": "Here are some of the events to watch out for this my from our partners below We still have CPI, a FO",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Here are some of the events to watch out for this my from our partners\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Here are some of the events to watch out for this my from our partners below We still have CPI, a FOMC meeting, Micron $MU earnings, and more coming this month"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095922527579115717"
+      ],
+      "imagePath": "deliverables/pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:11.490622+00:00"
+    },
+    {
+      "id": "pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358",
+      "benchmarkPostId": "2095918547742380358",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095918547742380358",
+      "title": "HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OWNERSHIP ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MO\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OWNERSHIP OF CANTOR FITZGERALD - Bloomberg"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095918547742380358"
+      ],
+      "imagePath": "deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:11.658743+00:00"
+    },
+    {
+      "id": "pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660",
+      "benchmarkPostId": "2095913618835435660",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095913618835435660",
+      "title": "JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflation.’",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflation.’"
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095913618835435660"
+      ],
+      "imagePath": "deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-05T00:42:11.830087+00:00"
+    },
+    {
+      "id": "pkg-20260905-micron-mu-stock-is-back-over-1-000-per-share-06996",
+      "benchmarkPostId": "2095912220077006996",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095912220077006996",
+      "title": "Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095912220077006996"
+      ],
+      "imagePath": "deliverables/pkg-20260905-micron-mu-stock-is-back-over-1-000-per-share-06996/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:11.971968+00:00"
+    },
+    {
+      "id": "pkg-20260905-just-in-metawin-player-turns-45-into-over-87-000-91419",
+      "benchmarkPostId": "2095912050492891419",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095912050492891419",
+      "title": "JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $1M will ",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: @MetaWin player turns $45 into over $87,000 following their a\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $1M will go out to their players this month. Everyone who deposits on qualifies."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095912050492891419"
+      ],
+      "imagePath": "deliverables/pkg-20260905-just-in-metawin-player-turns-45-into-over-87-000-91419/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-05T00:42:12.081023+00:00"
+    },
+    {
+      "id": "pkg-20260905-reminder-the-stock-market-will-be-closed-on-mond-40118",
+      "benchmarkPostId": "2095901350622040118",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095901350622040118",
+      "title": "REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095901350622040118"
+      ],
+      "imagePath": "deliverables/pkg-20260905-reminder-the-stock-market-will-be-closed-on-mond-40118/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T00:42:12.220486+00:00"
+    },
+    {
+      "id": "pkg-20260905-just-in-304-000-000-worth-of-long-positions-liqu-72923",
+      "benchmarkPostId": "2095891937081372923",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095891937081372923",
+      "title": "JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $304,000,000 worth of long positions liquidated from the cryp\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095891937081372923"
+      ],
+      "imagePath": "deliverables/pkg-20260905-just-in-304-000-000-worth-of-long-positions-liqu-72923/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-05T00:42:12.336559+00:00"
+    },
+    {
+      "id": "pkg-20260905-just-in-following-meme-surging-to-over-100m-spec-88861",
+      "benchmarkPostId": "2095889714171588861",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095889714171588861",
+      "title": "JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to ",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Following $MEME surging to over $100M , speculation is growin\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to make big moves."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095889714171588861"
+      ],
+      "imagePath": "deliverables/pkg-20260905-just-in-following-meme-surging-to-over-100m-spec-88861/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-05T00:42:12.464866+00:00"
+    },
+    {
+      "id": "pkg-20260905-just-in-robinhood-chain-hood-has-accumulated-18--66683",
+      "benchmarkPostId": "2095873913293066683",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095873913293066683",
+      "title": "JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch through S",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transact\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch through September 2, 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095873913293066683"
+      ],
+      "imagePath": "deliverables/pkg-20260905-just-in-robinhood-chain-hood-has-accumulated-18--66683/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-05T00:42:12.604597+00:00"
+    },
+    {
+      "id": "pkg-20260905-new-the-bank-for-international-settlements-publi-87810",
+      "benchmarkPostId": "2095863414916587810",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095863414916587810",
+      "title": "NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: NEW: The Bank for International Settlements publishes a paper using th\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-concept for verifying official statistics on-chain. The BIS cites XRPL's low fees, 3-5 second settlement and proven track record, though no adoption decision has been made."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2095863414916587810"
+      ],
+      "imagePath": "deliverables/pkg-20260905-new-the-bank-for-international-settlements-publi-87810/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-05T00:42:12.712317+00:00",
+      "postizPostId": "cmtnnrntg0t64lm0ygbfvyuis",
+      "publishedAt": "2026-09-05T00:42:00.000Z"
     }
   ],
   "posts": [
@@ -11609,6 +13153,91 @@
         "status": "active",
         "windowStart": "2026-09-04T12:46:00.000Z",
         "windowEnd": "2026-09-07T12:46:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096036275862266165",
+      "packageId": "pkg-20260905-new-the-bank-for-international-settlements-publi-87810",
+      "title": "NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co",
+      "status": "published",
+      "publishedAt": "2026-09-05T00:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096036275862266165",
+      "postizPostId": "cmtnnrntg0t64lm0ygbfvyuis",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T00:42:00.000Z",
+        "windowEnd": "2026-09-08T00:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096036402891010178",
+      "packageId": "pkg-20260904-openai-says-it-has-overtaken-anthropic-with-its--00552",
+      "title": "OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times",
+      "status": "published",
+      "publishedAt": "2026-09-05T00:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096036402891010178",
+      "postizPostId": "cmtnnsbiw0t66lm0yporztv76",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T00:42:00.000Z",
+        "windowEnd": "2026-09-08T00:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096036533728108897",
+      "packageId": "pkg-20260904-meta-platforms-meta-ceo-mark-zuckerberg-just-pos-14214",
+      "title": "META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: \"Muse Spark 1.3 is rolling out today with",
+      "status": "published",
+      "publishedAt": "2026-09-05T00:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096036533728108897",
+      "postizPostId": "cmtnnsz7h0t68lm0y6q724pr4",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T00:43:00.000Z",
+        "windowEnd": "2026-09-08T00:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096036664003154368",
+      "packageId": "pkg-20260905-mcdonald-s-mcd-stock-hit-new-52-week-lows-today-79635",
+      "title": "McDonald's $MCD stock hit new 52 WEEK LOWS today",
+      "status": "published",
+      "publishedAt": "2026-09-05T00:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096036664003154368",
+      "postizPostId": "cmtnntnd20kb3qk0y474ffq2b",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T00:43:00.000Z",
+        "windowEnd": "2026-09-08T00:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096036799080776086",
+      "packageId": "pkg-20260905-president-trump-just-said-that-the-stock-market--84602",
+      "title": "🇺🇸 President Trump just said that the stock market should have gone up today",
+      "status": "published",
+      "publishedAt": "2026-09-05T00:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096036799080776086",
+      "postizPostId": "cmtnnubwp0kblqk0y93zf58k3",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T00:44:00.000Z",
+        "windowEnd": "2026-09-08T00:44:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -15436,6 +17065,91 @@
       "startedAt": "2026-09-04T16:33:29Z",
       "completedAt": "2026-09-04T16:33:29Z",
       "summary": "Prepared 96 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T004138Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:41:38Z",
+      "completedAt": "2026-09-05T00:41:38Z",
+      "summary": "Apify scanned both benchmark accounts; captured 37 eligible originals and added 24 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260905T004146Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:41:46Z",
+      "completedAt": "2026-09-05T00:41:46Z",
+      "summary": "Prepared 120 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T004212Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:42:12.712366+00:00",
+      "completedAt": "2026-09-05T00:42:12.712371+00:00",
+      "summary": "Created 24 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T004212Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:42:12Z",
+      "completedAt": "2026-09-05T00:42:12Z",
+      "summary": "Prepared 120 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T004247Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:42:47.874380+00:00",
+      "completedAt": "2026-09-05T00:42:47.874386+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T004318Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:43:18.628572+00:00",
+      "completedAt": "2026-09-05T00:43:18.628579+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T004349Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:43:49.350684+00:00",
+      "completedAt": "2026-09-05T00:43:49.350690+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T004421Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:44:21.809675+00:00",
+      "completedAt": "2026-09-05T00:44:21.809685+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T004452Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T00:44:52.883711+00:00",
+      "completedAt": "2026-09-05T00:44:52.883725+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]
