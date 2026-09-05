@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-05T01:08:09.383744+00:00`
+- 状态更新：`2026-09-05T04:52:07.995629+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**225**
 - 待选选题：**185**
@@ -1307,6 +1307,8 @@ Market radar: @WhaleInsider reports: NEW: The Bank for International Settlements
 
 ## 最近运行
 
+- `2026-09-05T04:52:07Z` **queue / succeeded** — Prepared 115 one-to-one production candidate(s).
+- `2026-09-05T04:52:07Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-05T00:44:52.883711+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-05T00:44:21.809675+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-05T00:43:49.350684+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1325,5 +1327,3 @@ Market radar: @WhaleInsider reports: NEW: The Bank for International Settlements
 - `2026-09-04T12:44:29.096796+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-04T12:43:51Z` **queue / succeeded** — Prepared 101 one-to-one production candidate(s).
 - `2026-09-04T12:43:51.043067+00:00` **produce / succeeded** — Created 11 original attributed market-radar package(s).
-- `2026-09-04T12:43:13Z` **queue / succeeded** — Prepared 101 one-to-one production candidate(s).
-- `2026-09-04T12:42:28Z` **queue / succeeded** — Prepared 101 one-to-one production candidate(s).
