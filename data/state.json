@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T04:52:07.995629+00:00",
+  "updatedAt": "2026-09-05T06:45:16.279251+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -6069,6 +6069,330 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2095896468615790905",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095896468615790905",
+      "postedAt": "Fri Sep 04 15:27:12 +0000 2026",
+      "text": "I kind of want to short Lululemon stock just to show Michael Burry how it feels",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 166,
+        "replies": 16,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 41892
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095894932716229002",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095894932716229002",
+      "postedAt": "Fri Sep 04 15:21:06 +0000 2026",
+      "text": "Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will take place on \n\nSEPTEMBER 23RD AND 24TH https://t.co/bzOSFrp73Q",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYZSQKaIAI7S5J.png"
+      ],
+      "engagement": {
+        "likes": 263,
+        "replies": 8,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 33738
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYZSQKaIAI7S5J.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095894932716229002-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095893198962893182",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095893198962893182",
+      "postedAt": "Fri Sep 04 15:14:13 +0000 2026",
+      "text": "The Anthropic IPO is coming quick\n\nWill we get the public S-1 filing next week?",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 108,
+        "replies": 14,
+        "reposts": 12,
+        "quotes": 2,
+        "views": 38882
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095890514369208525",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095890514369208525",
+      "postedAt": "Fri Sep 04 15:03:33 +0000 2026",
+      "text": "After today there will be just 81 trading days left in 2026 https://t.co/A8LPDBW4na",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYXsw4WsAQvkF9.png"
+      ],
+      "engagement": {
+        "likes": 49,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 2,
+        "views": 35877
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYXsw4WsAQvkF9.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095890514369208525-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095888167911973082",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095888167911973082",
+      "postedAt": "Fri Sep 04 14:54:13 +0000 2026",
+      "text": "Nvidia $NVDA is now back to being worth ~$1 Trillion more than any other company in the world https://t.co/1TcKlP7ild",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYXLWFW8AQyrIk.jpg"
+      ],
+      "engagement": {
+        "likes": 484,
+        "replies": 20,
+        "reposts": 36,
+        "quotes": 4,
+        "views": 35686
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYXLWFW8AQyrIk.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095888167911973082-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095883734801121519",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095883734801121519",
+      "postedAt": "Fri Sep 04 14:36:36 +0000 2026",
+      "text": "This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena:\n\n$80,895 of Micron $MU\n$36,327 of Salesforce $CRM\n$27,414 of ServiceNow $NOW\n$27,245 of Available Cash",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 66,
+        "replies": 10,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 54389
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095870956182839671",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095870956182839671",
+      "postedAt": "Fri Sep 04 13:45:50 +0000 2026",
+      "text": "🇺🇸 President Trump just said\n\n\"Lower the interest rates because the U.S.A. is a much stronger credit than it was just a short time ago!\"\n\n\"LOWER THE RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT\" https://t.co/xSxtKdOVTL",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYHZYzWoAEvA8P.jpg"
+      ],
+      "engagement": {
+        "likes": 533,
+        "replies": 76,
+        "reposts": 45,
+        "quotes": 14,
+        "views": 71210
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYHZYzWoAEvA8P.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095870956182839671-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095868736611746231",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095868736611746231",
+      "postedAt": "Fri Sep 04 13:37:00 +0000 2026",
+      "text": "Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New York City 🍎 https://t.co/4ItGqNe2xS",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRYFgGibMAApTKV.jpg"
+      ],
+      "engagement": {
+        "likes": 1895,
+        "replies": 60,
+        "reposts": 94,
+        "quotes": 18,
+        "views": 82895
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRYFgGibMAApTKV.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095868736611746231-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095866375336054800",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095866375336054800",
+      "postedAt": "Fri Sep 04 13:27:37 +0000 2026",
+      "text": "When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buying\n\n$755 of NVIDIA $NVDA\n$704 of Apple $AAPL \n$536 of Microsoft $MSFT \n$413 of Amazon $AMZN\n$324 of Google $GOOGL\n$286 of Broadcom $AVGO\n$262 of Google $GOOG\n$190 of Meta Platforms $META\n$146 of JPMorgan Chase $JPM\n$146 of Berkshire Hathaway $BRK.B",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 107,
+        "replies": 18,
+        "reposts": 13,
+        "quotes": 2,
+        "views": 47534
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2095862891639439615",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095862891639439615",
+      "postedAt": "Fri Sep 04 13:13:47 +0000 2026",
+      "text": "There is now a 52% chance that Kevin Warsh and the US Fed raise rates by 0.25% this month\n\nThere is a 48% chance they make no changes https://t.co/OsNZuXPjH8",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRX_lGuWgAQWB6O.jpg"
+      ],
+      "engagement": {
+        "likes": 51,
+        "replies": 12,
+        "reposts": 5,
+        "quotes": 1,
+        "views": 37890
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRX_lGuWgAQWB6O.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095862891639439615-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095860660840149502",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095860660840149502",
+      "postedAt": "Fri Sep 04 13:04:55 +0000 2026",
+      "text": "CNBC'S RICK SANTELLI TO RETIRE https://t.co/5JQw9HOkZI",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRX-KBiaUAAA8rF.jpg"
+      ],
+      "engagement": {
+        "likes": 3645,
+        "replies": 835,
+        "reposts": 167,
+        "quotes": 110,
+        "views": 329255
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRX-KBiaUAAA8rF.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2095860660840149502-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095859233967231039",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095859233967231039",
+      "postedAt": "Fri Sep 04 12:59:15 +0000 2026",
+      "text": "Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be \"aggressively buying\" under $100 per share https://t.co/yYuglTornT",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRX81nYWMAMxvg_.png"
+      ],
+      "engagement": {
+        "likes": 462,
+        "replies": 80,
+        "reposts": 33,
+        "quotes": 17,
+        "views": 117317
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRX81nYWMAMxvg_.png",
+          "path": "output/benchmark-media/StockMKTNewz/2095859233967231039-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2095855707539021926",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2095855707539021926",
+      "postedAt": "Fri Sep 04 12:45:14 +0000 2026",
+      "text": "ALRIGHT\n\nI'm dumb but I just entered into the largest prediction market trade I have taken yet\n\nI am in on NO CHANGE TO RATES in September at $0.45 per share\n\nThat means if in theory I put $45 (+ whatever fees) into this and was right I would get $100\n\nSeptember 16th is the meeting date, that is when Kevin Warsh can become my best friend\n\nHow do you think I do on this?",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 291,
+        "replies": 62,
+        "reposts": 4,
+        "quotes": 3,
+        "views": 122838
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-05T06:41:23Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -9586,6 +9910,253 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2095896468615790905",
+      "rank": 19,
+      "title": "I kind of want to short Lululemon stock just to show Michael Burry how it feels",
+      "benchmarkPostId": "2095896468615790905",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095896468615790905",
+      "score": 46262,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095894932716229002",
+      "rank": 20,
+      "title": "Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will…",
+      "benchmarkPostId": "2095894932716229002",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095894932716229002",
+      "score": 39938,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095893198962893182",
+      "rank": 21,
+      "title": "The Anthropic IPO is coming quick Will we get the public S-1 filing next week?",
+      "benchmarkPostId": "2095893198962893182",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095893198962893182",
+      "score": 42322,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095890514369208525",
+      "rank": 23,
+      "title": "After today there will be just 81 trading days left in 2026 https://t.co/A8LPDBW4na",
+      "benchmarkPostId": "2095890514369208525",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095890514369208525",
+      "score": 37107,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095888167911973082",
+      "rank": 25,
+      "title": "Nvidia $NVDA is now back to being worth ~$1 Trillion more than any other company in the worl…",
+      "benchmarkPostId": "2095888167911973082",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095888167911973082",
+      "score": 48206,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095883734801121519",
+      "rank": 26,
+      "title": "This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80…",
+      "benchmarkPostId": "2095883734801121519",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095883734801121519",
+      "score": 56359,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095870956182839671",
+      "rank": 28,
+      "title": "🇺🇸 President Trump just said \"Lower the interest rates because the U.S.A. is a much stronger…",
+      "benchmarkPostId": "2095870956182839671",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095870956182839671",
+      "score": 88000,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095868736611746231",
+      "rank": 29,
+      "title": "Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in…",
+      "benchmarkPostId": "2095868736611746231",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095868736611746231",
+      "score": 128975,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095866375336054800",
+      "rank": 30,
+      "title": "When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you'…",
+      "benchmarkPostId": "2095866375336054800",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095866375336054800",
+      "score": 51164,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095862891639439615",
+      "rank": 31,
+      "title": "There is now a 52% chance that Kevin Warsh and the US Fed raise rates by 0.25% this month Th…",
+      "benchmarkPostId": "2095862891639439615",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095862891639439615",
+      "score": 39700,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095860660840149502",
+      "rank": 32,
+      "title": "CNBC'S RICK SANTELLI TO RETIRE https://t.co/5JQw9HOkZI",
+      "benchmarkPostId": "2095860660840149502",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095860660840149502",
+      "score": 450505,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2095859233967231039",
+      "rank": 33,
+      "title": "Michael Burry said that Lululemon $LULU is now his largest stock position and that he will b…",
+      "benchmarkPostId": "2095859233967231039",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095859233967231039",
+      "score": 132427,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2095855707539021926",
+      "rank": 34,
+      "title": "ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken ye…",
+      "benchmarkPostId": "2095855707539021926",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2095855707539021926",
+      "score": 131518,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-05T06:42:08Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -12391,6 +12962,250 @@
       "createdAt": "2026-09-05T00:42:12.712317+00:00",
       "postizPostId": "cmtnnrntg0t64lm0ygbfvyuis",
       "publishedAt": "2026-09-05T00:42:00.000Z"
+    },
+    {
+      "id": "pkg-20260905-i-kind-of-want-to-short-lululemon-stock-just-to--90905",
+      "benchmarkPostId": "2095896468615790905",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095896468615790905",
+      "title": "I kind of want to short Lululemon stock just to show Michael Burry how it feels",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: I kind of want to short Lululemon stock just to show Michael Burry how\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "I kind of want to short Lululemon stock just to show Michael Burry how it feels"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095896468615790905"
+      ],
+      "imagePath": "deliverables/pkg-20260905-i-kind-of-want-to-short-lululemon-stock-just-to--90905/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:25.830575+00:00"
+    },
+    {
+      "id": "pkg-20260905-mark-zuckerberg-and-meta-platforms-meta-confirme-29002",
+      "benchmarkPostId": "2095894932716229002",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095894932716229002",
+      "title": "Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will take pl",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Mark Zuckerberg and Meta Platforms $META confirmed that their annual M\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will take place on SEPTEMBER 23RD AND 24TH"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095894932716229002"
+      ],
+      "imagePath": "deliverables/pkg-20260905-mark-zuckerberg-and-meta-platforms-meta-confirme-29002/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:25.941195+00:00"
+    },
+    {
+      "id": "pkg-20260905-the-anthropic-ipo-is-coming-quick-will-we-get-th-93182",
+      "benchmarkPostId": "2095893198962893182",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095893198962893182",
+      "title": "The Anthropic IPO is coming quick Will we get the public S-1 filing next week?",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: The Anthropic IPO is coming quick Will we get the public S-1 filing ne\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "The Anthropic IPO is coming quick Will we get the public S-1 filing next week?"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095893198962893182"
+      ],
+      "imagePath": "deliverables/pkg-20260905-the-anthropic-ipo-is-coming-quick-will-we-get-th-93182/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:26.061470+00:00"
+    },
+    {
+      "id": "pkg-20260905-after-today-there-will-be-just-81-trading-days-l-08525",
+      "benchmarkPostId": "2095890514369208525",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095890514369208525",
+      "title": "After today there will be just 81 trading days left in 2026",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: After today there will be just 81 trading days left in 2026\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "After today there will be just 81 trading days left in 2026"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095890514369208525"
+      ],
+      "imagePath": "deliverables/pkg-20260905-after-today-there-will-be-just-81-trading-days-l-08525/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:26.173492+00:00"
+    },
+    {
+      "id": "pkg-20260905-nvidia-nvda-is-now-back-to-being-worth-1-trillio-73082",
+      "benchmarkPostId": "2095888167911973082",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095888167911973082",
+      "title": "Nvidia $NVDA is now back to being worth ~$1 Trillion more than any other company in the world",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA is now back to being worth ~$1 Trillion more than any oth\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nvidia $NVDA is now back to being worth ~$1 Trillion more than any other company in the world"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095888167911973082"
+      ],
+      "imagePath": "deliverables/pkg-20260905-nvidia-nvda-is-now-back-to-being-worth-1-trillio-73082/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:26.291474+00:00"
+    },
+    {
+      "id": "pkg-20260905-this-is-what-grok-s-portfolio-looks-like-right-n-21519",
+      "benchmarkPostId": "2095883734801121519",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095883734801121519",
+      "title": "This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: This is what Grok's portfolio looks like right now in the Rallies AI S\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of Micron $MU $36,327 of Salesforce $CRM $27,414 of ServiceNow $NOW $27,245 of Available Cash"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095883734801121519"
+      ],
+      "imagePath": "deliverables/pkg-20260905-this-is-what-grok-s-portfolio-looks-like-right-n-21519/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:26.412502+00:00"
+    },
+    {
+      "id": "pkg-20260905-president-trump-just-said-lower-the-interest-rat-39671",
+      "benchmarkPostId": "2095870956182839671",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095870956182839671",
+      "title": "🇺🇸 President Trump just said \"Lower the interest rates because the U.S.A. is a much stronger credit ",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said \"Lower the interest rates because the U.S\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "🇺🇸 President Trump just said \"Lower the interest rates because the U.S.A. is a much stronger credit than it was just a short time ago!\" \"LOWER THE RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT\""
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095870956182839671"
+      ],
+      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-lower-the-interest-rat-39671/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:26.532863+00:00",
+      "postizPostId": "cmto0pqw40mlhqk0ycy4egore",
+      "publishedAt": "2026-09-05T06:44:00.000Z"
+    },
+    {
+      "id": "pkg-20260905-tesla-s-tsla-self-driving-cybercabs-are-now-repo-46231",
+      "benchmarkPostId": "2095868736611746231",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095868736611746231",
+      "title": "Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: Tesla’s $TSLA self driving Cybercabs are now reportedly being tested w\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New York City 🍎"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095868736611746231"
+      ],
+      "imagePath": "deliverables/pkg-20260905-tesla-s-tsla-self-driving-cybercabs-are-now-repo-46231/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:26.651563+00:00",
+      "postizPostId": "cmto0p2yd0vhglm0ybse4dt84",
+      "publishedAt": "2026-09-05T06:44:00.000Z"
+    },
+    {
+      "id": "pkg-20260905-when-you-invest-10-000-into-the-s-p-500-here-s-h-54800",
+      "benchmarkPostId": "2095866375336054800",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095866375336054800",
+      "title": "When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: When you invest $10,000 into the S&P 500 here's how much of each of th\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buying $755 of NVIDIA $NVDA $704 of Apple $AAPL $536 of Microsoft $MSFT $413 of Amazon $AMZN $324 of Google $GOOGL $286 of Broadcom $AVGO $262 of Google $GOOG $190 of Meta Platforms $META $146 of JPMorgan Chase $JPM $146 of Berkshire Hathaway $BRK.B"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095866375336054800"
+      ],
+      "imagePath": "deliverables/pkg-20260905-when-you-invest-10-000-into-the-s-p-500-here-s-h-54800/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:26.762892+00:00"
+    },
+    {
+      "id": "pkg-20260905-there-is-now-a-52-chance-that-kevin-warsh-and-th-39615",
+      "benchmarkPostId": "2095862891639439615",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095862891639439615",
+      "title": "There is now a 52% chance that Kevin Warsh and the US Fed raise rates by 0.25% this month There is a",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: There is now a 52% chance that Kevin Warsh and the US Fed raise rates \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "There is now a 52% chance that Kevin Warsh and the US Fed raise rates by 0.25% this month There is a 48% chance they make no changes"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095862891639439615"
+      ],
+      "imagePath": "deliverables/pkg-20260905-there-is-now-a-52-chance-that-kevin-warsh-and-th-39615/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:26.891373+00:00"
+    },
+    {
+      "id": "pkg-20260905-cnbc-s-rick-santelli-to-retire-49502",
+      "benchmarkPostId": "2095860660840149502",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095860660840149502",
+      "title": "CNBC'S RICK SANTELLI TO RETIRE",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: CNBC'S RICK SANTELLI TO RETIRE\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "CNBC'S RICK SANTELLI TO RETIRE"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095860660840149502"
+      ],
+      "imagePath": "deliverables/pkg-20260905-cnbc-s-rick-santelli-to-retire-49502/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:27.013711+00:00",
+      "postizPostId": "cmto0n2tq0vh9lm0yvs7t4kq9",
+      "publishedAt": "2026-09-05T06:42:00.000Z"
+    },
+    {
+      "id": "pkg-20260905-michael-burry-said-that-lululemon-lulu-is-now-hi-31039",
+      "benchmarkPostId": "2095859233967231039",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095859233967231039",
+      "title": "Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be \"aggre",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: Michael Burry said that Lululemon $LULU is now his largest stock posit\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be \"aggressively buying\" under $100 per share"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095859233967231039"
+      ],
+      "imagePath": "deliverables/pkg-20260905-michael-burry-said-that-lululemon-lulu-is-now-hi-31039/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:27.141461+00:00",
+      "postizPostId": "cmto0nqrv0ml0qk0yjvrtw5zr",
+      "publishedAt": "2026-09-05T06:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260905-alright-i-m-dumb-but-i-just-entered-into-the-lar-21926",
+      "benchmarkPostId": "2095855707539021926",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095855707539021926",
+      "title": "ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: ALRIGHT I'm dumb but I just entered into the largest prediction market\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am in on NO CHANGE TO RATES in September at $0.45 per share That means if in theory I put $45 (+ whatever fees) into this and was right I would get $100 September 16th is the meeting date, that is when Kevin Warsh can become my best friend How do you think I do on this?"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2095855707539021926"
+      ],
+      "imagePath": "deliverables/pkg-20260905-alright-i-m-dumb-but-i-just-entered-into-the-lar-21926/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-05T06:42:27.264094+00:00",
+      "postizPostId": "cmto0oegg0vhflm0y0fyotd9s",
+      "publishedAt": "2026-09-05T06:43:00.000Z"
     }
   ],
   "posts": [
@@ -13249,6 +14064,91 @@
         "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096126961492082889",
+      "packageId": "pkg-20260905-cnbc-s-rick-santelli-to-retire-49502",
+      "title": "CNBC'S RICK SANTELLI TO RETIRE",
+      "status": "published",
+      "publishedAt": "2026-09-05T06:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096126961492082889",
+      "postizPostId": "cmto0n2tq0vh9lm0yvs7t4kq9",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T06:42:00.000Z",
+        "windowEnd": "2026-09-08T06:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096127091901354265",
+      "packageId": "pkg-20260905-michael-burry-said-that-lululemon-lulu-is-now-hi-31039",
+      "title": "Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be \"aggre",
+      "status": "published",
+      "publishedAt": "2026-09-05T06:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096127091901354265",
+      "postizPostId": "cmto0nqrv0ml0qk0yjvrtw5zr",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T06:43:00.000Z",
+        "windowEnd": "2026-09-08T06:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096127220427481484",
+      "packageId": "pkg-20260905-alright-i-m-dumb-but-i-just-entered-into-the-lar-21926",
+      "title": "ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i",
+      "status": "published",
+      "publishedAt": "2026-09-05T06:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096127220427481484",
+      "postizPostId": "cmto0oegg0vhflm0y0fyotd9s",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T06:43:00.000Z",
+        "windowEnd": "2026-09-08T06:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096127353290363156",
+      "packageId": "pkg-20260905-tesla-s-tsla-self-driving-cybercabs-are-now-repo-46231",
+      "title": "Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor",
+      "status": "published",
+      "publishedAt": "2026-09-05T06:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096127353290363156",
+      "postizPostId": "cmto0p2yd0vhglm0ybse4dt84",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T06:44:00.000Z",
+        "windowEnd": "2026-09-08T06:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096127492960735481",
+      "packageId": "pkg-20260905-president-trump-just-said-lower-the-interest-rat-39671",
+      "title": "🇺🇸 President Trump just said \"Lower the interest rates because the U.S.A. is a much stronger credit ",
+      "status": "published",
+      "publishedAt": "2026-09-05T06:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096127492960735481",
+      "postizPostId": "cmto0pqw40mlhqk0ycy4egore",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T06:44:00.000Z",
+        "windowEnd": "2026-09-08T06:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -17980,6 +18880,91 @@
       "startedAt": "2026-09-05T04:52:07Z",
       "completedAt": "2026-09-05T04:52:07Z",
       "summary": "Prepared 115 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T064123Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:41:23Z",
+      "completedAt": "2026-09-05T06:41:23Z",
+      "summary": "Apify scanned both benchmark accounts; captured 119 eligible originals and added 13 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260905T064208Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:42:08Z",
+      "completedAt": "2026-09-05T06:42:08Z",
+      "summary": "Prepared 128 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T064227Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:42:27.264135+00:00",
+      "completedAt": "2026-09-05T06:42:27.264140+00:00",
+      "summary": "Created 13 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T064227Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:42:27Z",
+      "completedAt": "2026-09-05T06:42:27Z",
+      "summary": "Prepared 128 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T064309Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:43:09.022490+00:00",
+      "completedAt": "2026-09-05T06:43:09.022495+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T064340Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:43:40.025202+00:00",
+      "completedAt": "2026-09-05T06:43:40.025212+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T064410Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:44:10.757557+00:00",
+      "completedAt": "2026-09-05T06:44:10.757566+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T064442Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:44:42.442650+00:00",
+      "completedAt": "2026-09-05T06:44:42.442658+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T064516Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T06:45:16.278151+00:00",
+      "completedAt": "2026-09-05T06:45:16.278156+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]
