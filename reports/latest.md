@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-05T06:45:16.279251+00:00`
+- 状态更新：`2026-09-05T10:52:37.508442+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**238**
 - 待选选题：**198**
@@ -1416,6 +1416,8 @@ Market radar: @StockMKTNewz reports: ALRIGHT I'm dumb but I just entered into th
 
 ## 最近运行
 
+- `2026-09-05T10:52:37Z` **queue / succeeded** — Prepared 123 one-to-one production candidate(s).
+- `2026-09-05T10:52:37Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-05T06:45:16.278151+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-05T06:44:42.442650+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-05T06:44:10.757557+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1434,5 +1436,3 @@ Market radar: @StockMKTNewz reports: ALRIGHT I'm dumb but I just entered into th
 - `2026-09-05T00:42:47.874380+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-05T00:42:12Z` **queue / succeeded** — Prepared 120 one-to-one production candidate(s).
 - `2026-09-05T00:42:12.712366+00:00` **produce / succeeded** — Created 24 original attributed market-radar package(s).
-- `2026-09-05T00:41:46Z` **queue / succeeded** — Prepared 120 one-to-one production candidate(s).
-- `2026-09-05T00:41:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 24 new post(s).
