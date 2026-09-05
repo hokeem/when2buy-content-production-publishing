@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-05T10:52:37.508442+00:00`
+- 状态更新：`2026-09-05T12:45:25.733249+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**238**
 - 待选选题：**198**
-- 待发布制作包：**103**
-- 已验证发布：**55**
+- 待发布制作包：**98**
+- 已验证发布：**60**
 
 ## 对标账号扫描
 
@@ -942,7 +942,7 @@ Market radar: @StockMKTNewz reports: JPMorgan $JPM is now less than $50 Billion 
 
 ### The stock market Fear and Greed index is now down into Fear currently at 35/100
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260904-the-stock-market-fear-and-greed-index-is-now-dow-75299/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: The stock market Fear and Greed index is now down into Fear currently   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1096,7 +1096,7 @@ Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some u
 
 ### JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260905-just-in-the-s-amp-p-500-is-changing-these-stocks-90845/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to t  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1236,14 +1236,14 @@ Market radar: @StockMKTNewz reports: REMINDER The 🇺🇸 stock market will be 
 
 ### JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260905-just-in-304-000-000-worth-of-long-positions-liqu-72923/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: $304,000,000 worth of long positions liquidated from the cryp  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260905-just-in-following-meme-surging-to-over-100m-spec-88861/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Following $MEME surging to over $100M , speculation is growin  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -1299,7 +1299,7 @@ Market radar: @StockMKTNewz reports: Nvidia $NVDA is now back to being worth ~$1
 
 ### This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260905-this-is-what-grok-s-portfolio-looks-like-right-n-21519/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: This is what Grok's portfolio looks like right now in the Rallies AI S  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1413,9 +1413,22 @@ Market radar: @StockMKTNewz reports: ALRIGHT I'm dumb but I just entered into th
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096127220427481484) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096127492960735481) |
+| The stock market Fear and Greed index is now down into Fear currently at 35/100 | 2026-09-05T12:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096217478926115235) |
+| This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of | 2026-09-05T12:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096217642730475682) |
+| JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096217796002881854) |
+| JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096217926424772667) |
+| JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours | 2026-09-05T12:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096218060470542508) |
 
 ## 最近运行
 
+- `2026-09-05T12:45:25.731692+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T12:44:36.036417+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T12:44:05.367325+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T12:43:30.836241+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T12:42:50.669837+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-05T12:41:47Z` **queue / succeeded** — Prepared 122 one-to-one production candidate(s).
+- `2026-09-05T12:41:46.770713+00:00` **produce / succeeded** — Created 0 original attributed market-radar package(s).
+- `2026-09-05T12:40:41.043494+00:00` **produce / succeeded** — Created 0 original attributed market-radar package(s).
 - `2026-09-05T10:52:37Z` **queue / succeeded** — Prepared 123 one-to-one production candidate(s).
 - `2026-09-05T10:52:37Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-05T06:45:16.278151+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1428,11 +1441,3 @@ Market radar: @StockMKTNewz reports: ALRIGHT I'm dumb but I just entered into th
 - `2026-09-05T06:42:08Z` **queue / succeeded** — Prepared 128 one-to-one production candidate(s).
 - `2026-09-05T06:41:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 119 eligible originals and added 13 new post(s).
 - `2026-09-05T04:52:07Z` **queue / succeeded** — Prepared 115 one-to-one production candidate(s).
-- `2026-09-05T04:52:07Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-05T00:44:52.883711+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-05T00:44:21.809675+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-05T00:43:49.350684+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-05T00:43:18.628572+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-05T00:42:47.874380+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-05T00:42:12Z` **queue / succeeded** — Prepared 120 one-to-one production candidate(s).
-- `2026-09-05T00:42:12.712366+00:00` **produce / succeeded** — Created 24 original attributed market-radar package(s).

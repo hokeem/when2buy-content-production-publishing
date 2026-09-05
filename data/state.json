@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T10:52:37.508442+00:00",
+  "updatedAt": "2026-09-05T12:45:25.733249+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -12130,7 +12130,7 @@
       "benchmarkPostId": "2095517235057975299",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095517235057975299",
       "title": "The stock market Fear and Greed index is now down into Fear currently at 35/100",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: The stock market Fear and Greed index is now down into Fear currently \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -12141,7 +12141,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-the-stock-market-fear-and-greed-index-is-now-dow-75299/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.298921+00:00"
+      "createdAt": "2026-09-04T04:45:28.298921+00:00",
+      "postizPostId": "cmtodhjeh0pjqqk0y0p3zf279",
+      "publishedAt": "2026-09-05T12:42:00.000Z"
     },
     {
       "id": "pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-02293",
@@ -12530,7 +12532,7 @@
       "benchmarkPostId": "2095986051130990845",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095986051130990845",
       "title": "JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE ",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to t\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -12541,7 +12543,9 @@
       ],
       "imagePath": "deliverables/pkg-20260905-just-in-the-s-amp-p-500-is-changing-these-stocks-90845/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:09.652820+00:00"
+      "createdAt": "2026-09-05T00:42:09.652820+00:00",
+      "postizPostId": "cmtodj8yj0yhtlm0ymewjdvt2",
+      "publishedAt": "2026-09-05T12:43:00.000Z"
     },
     {
       "id": "pkg-20260905-this-is-how-the-stock-market-performed-today-76761",
@@ -12894,7 +12898,7 @@
       "benchmarkPostId": "2095891937081372923",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095891937081372923",
       "title": "JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $304,000,000 worth of long positions liquidated from the cryp\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -12905,14 +12909,16 @@
       ],
       "imagePath": "deliverables/pkg-20260905-just-in-304-000-000-worth-of-long-positions-liqu-72923/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-05T00:42:12.336559+00:00"
+      "createdAt": "2026-09-05T00:42:12.336559+00:00",
+      "postizPostId": "cmtodkk5e0yiblm0y8nh0tmu3",
+      "publishedAt": "2026-09-05T12:44:00.000Z"
     },
     {
       "id": "pkg-20260905-just-in-following-meme-surging-to-over-100m-spec-88861",
       "benchmarkPostId": "2095889714171588861",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095889714171588861",
       "title": "JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to ",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Following $MEME surging to over $100M , speculation is growin\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -12923,7 +12929,9 @@
       ],
       "imagePath": "deliverables/pkg-20260905-just-in-following-meme-surging-to-over-100m-spec-88861/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-05T00:42:12.464866+00:00"
+      "createdAt": "2026-09-05T00:42:12.464866+00:00",
+      "postizPostId": "cmtodjwf90yi0lm0y427kode9",
+      "publishedAt": "2026-09-05T12:44:00.000Z"
     },
     {
       "id": "pkg-20260905-just-in-robinhood-chain-hood-has-accumulated-18--66683",
@@ -13058,7 +13066,7 @@
       "benchmarkPostId": "2095883734801121519",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095883734801121519",
       "title": "This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of ",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: This is what Grok's portfolio looks like right now in the Rallies AI S\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -13069,7 +13077,9 @@
       ],
       "imagePath": "deliverables/pkg-20260905-this-is-what-grok-s-portfolio-looks-like-right-n-21519/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T06:42:26.412502+00:00"
+      "createdAt": "2026-09-05T06:42:26.412502+00:00",
+      "postizPostId": "cmtodiebu0yholm0yxgjyseds",
+      "publishedAt": "2026-09-05T12:42:00.000Z"
     },
     {
       "id": "pkg-20260905-president-trump-just-said-lower-the-interest-rat-39671",
@@ -14146,6 +14156,91 @@
         "status": "active",
         "windowStart": "2026-09-05T06:44:00.000Z",
         "windowEnd": "2026-09-08T06:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096217478926115235",
+      "packageId": "pkg-20260904-the-stock-market-fear-and-greed-index-is-now-dow-75299",
+      "title": "The stock market Fear and Greed index is now down into Fear currently at 35/100",
+      "status": "published",
+      "publishedAt": "2026-09-05T12:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096217478926115235",
+      "postizPostId": "cmtodhjeh0pjqqk0y0p3zf279",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T12:42:00.000Z",
+        "windowEnd": "2026-09-08T12:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096217642730475682",
+      "packageId": "pkg-20260905-this-is-what-grok-s-portfolio-looks-like-right-n-21519",
+      "title": "This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of ",
+      "status": "published",
+      "publishedAt": "2026-09-05T12:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096217642730475682",
+      "postizPostId": "cmtodiebu0yholm0yxgjyseds",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T12:42:00.000Z",
+        "windowEnd": "2026-09-08T12:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096217796002881854",
+      "packageId": "pkg-20260905-just-in-the-s-amp-p-500-is-changing-these-stocks-90845",
+      "title": "JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE ",
+      "status": "published",
+      "publishedAt": "2026-09-05T12:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096217796002881854",
+      "postizPostId": "cmtodj8yj0yhtlm0ymewjdvt2",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T12:43:00.000Z",
+        "windowEnd": "2026-09-08T12:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096217926424772667",
+      "packageId": "pkg-20260905-just-in-following-meme-surging-to-over-100m-spec-88861",
+      "title": "JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to ",
+      "status": "published",
+      "publishedAt": "2026-09-05T12:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096217926424772667",
+      "postizPostId": "cmtodjwf90yi0lm0y427kode9",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T12:44:00.000Z",
+        "windowEnd": "2026-09-08T12:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096218060470542508",
+      "packageId": "pkg-20260905-just-in-304-000-000-worth-of-long-positions-liqu-72923",
+      "title": "JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours",
+      "status": "published",
+      "publishedAt": "2026-09-05T12:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096218060470542508",
+      "postizPostId": "cmtodkk5e0yiblm0y8nh0tmu3",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-05T12:44:00.000Z",
+        "windowEnd": "2026-09-08T12:44:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -18987,6 +19082,78 @@
       "startedAt": "2026-09-05T10:52:37Z",
       "completedAt": "2026-09-05T10:52:37Z",
       "summary": "Prepared 123 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T124041Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T12:40:41.043494+00:00",
+      "completedAt": "2026-09-05T12:40:41.043505+00:00",
+      "summary": "Created 0 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T124146Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T12:41:46.770713+00:00",
+      "completedAt": "2026-09-05T12:41:46.770723+00:00",
+      "summary": "Created 0 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T124147Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T12:41:47Z",
+      "completedAt": "2026-09-05T12:41:47Z",
+      "summary": "Prepared 122 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T124250Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T12:42:50.669837+00:00",
+      "completedAt": "2026-09-05T12:42:50.669847+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T124330Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T12:43:30.836241+00:00",
+      "completedAt": "2026-09-05T12:43:30.836250+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T124405Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T12:44:05.367325+00:00",
+      "completedAt": "2026-09-05T12:44:05.367330+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T124436Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T12:44:36.036417+00:00",
+      "completedAt": "2026-09-05T12:44:36.036420+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260905T124525Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-05T12:45:25.731692+00:00",
+      "completedAt": "2026-09-05T12:45:25.731702+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]
