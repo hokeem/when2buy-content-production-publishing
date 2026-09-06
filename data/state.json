@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T15:29:04.284080+00:00",
+  "updatedAt": "2026-09-06T00:46:10.327912+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -6393,6 +6393,240 @@
       "isPinned": false,
       "capturedAt": "2026-09-05T06:41:23Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2096339556136001721",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096339556136001721",
+      "postedAt": "Sat Sep 05 20:47:52 +0000 2026",
+      "text": "Meta Platforms $META now generates $2.9 Million of annual revenue per employee, a new high for the company https://t.co/BtkiiZzTfI",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRexTzUa4AAevQ4.jpg"
+      ],
+      "engagement": {
+        "likes": 308,
+        "replies": 21,
+        "reposts": 14,
+        "quotes": 5,
+        "views": 28241
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T00:41:25Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRexTzUa4AAevQ4.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096339556136001721-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096334847723675820",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096334847723675820",
+      "postedAt": "Sat Sep 05 20:29:10 +0000 2026",
+      "text": "More people are paying for Hinge and fewer are paying for Tinder over the last few years https://t.co/hoCK55oH3x",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HReqUXzXcAAJWPq.jpg"
+      ],
+      "engagement": {
+        "likes": 84,
+        "replies": 12,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 26786
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T00:41:25Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HReqUXzXcAAJWPq.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096334847723675820-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096330640228499925",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096330640228499925",
+      "postedAt": "Sat Sep 05 20:12:27 +0000 2026",
+      "text": "It now costs more than $100,000 per year to go to college at Duke University",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 101,
+        "replies": 17,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 38848
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T00:41:25Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096320375764258871",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096320375764258871",
+      "postedAt": "Sat Sep 05 19:31:39 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week. https://t.co/DamQf2D2LU",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRegROvbYAAJeBF.jpg"
+      ],
+      "engagement": {
+        "likes": 312,
+        "replies": 39,
+        "reposts": 13,
+        "quotes": 5,
+        "views": 34535
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T00:41:25Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRegROvbYAAJeBF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096320375764258871-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096319174435803251",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096319174435803251",
+      "postedAt": "Sat Sep 05 19:26:53 +0000 2026",
+      "text": "JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s very own PEPE. https://t.co/J0I5th7Q5n",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRefLWsXIAAfkrT.jpg",
+        "https://pbs.twimg.com/media/HRefLWtX0AEai1T.jpg"
+      ],
+      "engagement": {
+        "likes": 908,
+        "replies": 95,
+        "reposts": 66,
+        "quotes": 21,
+        "views": 126049
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T00:41:25Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRefLWsXIAAfkrT.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096319174435803251-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRefLWtX0AEai1T.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096319174435803251-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096281136234193040",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096281136234193040",
+      "postedAt": "Sat Sep 05 16:55:44 +0000 2026",
+      "text": "JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. https://t.co/B4gdAQmGyu",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRd8lQ1boAANmhK.jpg",
+        "https://pbs.twimg.com/media/HRd8lQcXcAM02ow.jpg"
+      ],
+      "engagement": {
+        "likes": 392,
+        "replies": 51,
+        "reposts": 42,
+        "quotes": 1,
+        "views": 39378
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T00:41:25Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRd8lQ1boAANmhK.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096281136234193040-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRd8lQcXcAM02ow.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096281136234193040-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096273144906502203",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096273144906502203",
+      "postedAt": "Sat Sep 05 16:23:59 +0000 2026",
+      "text": "JUST IN: $NVDA expected to triple its profit to nearly $595 billion by FY29. https://t.co/slPCJHgV89",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRd1T5cXYAASs1C.jpg"
+      ],
+      "engagement": {
+        "likes": 257,
+        "replies": 32,
+        "reposts": 12,
+        "quotes": 2,
+        "views": 35030
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T00:41:25Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRd1T5cXYAASs1C.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096273144906502203-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096263943194812613",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096263943194812613",
+      "postedAt": "Sat Sep 05 15:47:25 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. https://t.co/Cw419QzMhZ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRds8XeXQAEsk6f.jpg",
+        "https://pbs.twimg.com/media/HRds8X_bQAAH4sN.jpg"
+      ],
+      "engagement": {
+        "likes": 819,
+        "replies": 62,
+        "reposts": 53,
+        "quotes": 5,
+        "views": 51501
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T00:41:25Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRds8XeXQAEsk6f.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096263943194812613-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRds8X_bQAAH4sN.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096263943194812613-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -10157,6 +10391,158 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096339556136001721",
+      "rank": 1,
+      "title": "Meta Platforms $META now generates $2.9 Million of annual revenue per employee, a new high f…",
+      "benchmarkPostId": "2096339556136001721",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096339556136001721",
+      "score": 36241,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T00:41:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096334847723675820",
+      "rank": 2,
+      "title": "More people are paying for Hinge and fewer are paying for Tinder over the last few years htt…",
+      "benchmarkPostId": "2096334847723675820",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096334847723675820",
+      "score": 29246,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T00:41:27Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096330640228499925",
+      "rank": 3,
+      "title": "It now costs more than $100,000 per year to go to college at Duke University",
+      "benchmarkPostId": "2096330640228499925",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096330640228499925",
+      "score": 41648,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T00:41:27Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096320375764258871",
+      "rank": 4,
+      "title": "JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week. https://t.co/DamQf2D2LU",
+      "benchmarkPostId": "2096320375764258871",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096320375764258871",
+      "score": 43285,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T00:41:27Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096319174435803251",
+      "rank": 5,
+      "title": "JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the c…",
+      "benchmarkPostId": "2096319174435803251",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096319174435803251",
+      "score": 152569,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T00:41:27Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096281136234193040",
+      "rank": 6,
+      "title": "JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. https://t.…",
+      "benchmarkPostId": "2096281136234193040",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096281136234193040",
+      "score": 51418,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T00:41:27Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096273144906502203",
+      "rank": 7,
+      "title": "JUST IN: $NVDA expected to triple its profit to nearly $595 billion by FY29. https://t.co/sl…",
+      "benchmarkPostId": "2096273144906502203",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096273144906502203",
+      "score": 42170,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T00:41:27Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096263943194812613",
+      "rank": 8,
+      "title": "JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. https://t.co/Cw4…",
+      "benchmarkPostId": "2096263943194812613",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096263943194812613",
+      "score": 73311,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T00:41:27Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -12276,7 +12662,7 @@
       "benchmarkPostId": "2095681253504651266",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095681253504651266",
       "title": "Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offering rides in its fully sel\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -12287,7 +12673,9 @@
       ],
       "imagePath": "deliverables/pkg-20260904-tesla-tsla-has-now-officially-started-offering-r-51266/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:29.086746+00:00"
+      "createdAt": "2026-09-04T04:45:29.086746+00:00",
+      "postizPostId": "cmtp38ubd15u9lm0y66iv1v80",
+      "publishedAt": "2026-09-06T00:43:00.000Z"
     },
     {
       "id": "pkg-20260904-just-in-blackrock-clients-buy-453-96-million-wor-31691",
@@ -13126,7 +13514,7 @@
       "benchmarkPostId": "2095866375336054800",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095866375336054800",
       "title": "When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: When you invest $10,000 into the S&P 500 here's how much of each of th\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -13137,7 +13525,9 @@
       ],
       "imagePath": "deliverables/pkg-20260905-when-you-invest-10-000-into-the-s-p-500-here-s-h-54800/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T06:42:26.762892+00:00"
+      "createdAt": "2026-09-05T06:42:26.762892+00:00",
+      "postizPostId": "cmtp3a6ao02abqk0yqrkbkca1",
+      "publishedAt": "2026-09-06T00:44:00.000Z"
     },
     {
       "id": "pkg-20260905-there-is-now-a-52-chance-that-kevin-warsh-and-th-39615",
@@ -13216,6 +13606,156 @@
       "createdAt": "2026-09-05T06:42:27.264094+00:00",
       "postizPostId": "cmto0oegg0vhflm0y0fyotd9s",
       "publishedAt": "2026-09-05T06:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-meta-platforms-meta-now-generates-2-9-million-of-01721",
+      "benchmarkPostId": "2096339556136001721",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096339556136001721",
+      "title": "Meta Platforms $META now generates $2.9 Million of annual revenue per employee, a new high for the c",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Meta Platforms $META now generates $2.9 Million of annual revenue per \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Meta Platforms $META now generates $2.9 Million of annual revenue per employee, a new high for the company"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096339556136001721"
+      ],
+      "imagePath": "deliverables/pkg-20260906-meta-platforms-meta-now-generates-2-9-million-of-01721/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T00:41:56.457327+00:00"
+    },
+    {
+      "id": "pkg-20260906-more-people-are-paying-for-hinge-and-fewer-are-p-75820",
+      "benchmarkPostId": "2096334847723675820",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096334847723675820",
+      "title": "More people are paying for Hinge and fewer are paying for Tinder over the last few years",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: More people are paying for Hinge and fewer are paying for Tinder over \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "More people are paying for Hinge and fewer are paying for Tinder over the last few years"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096334847723675820"
+      ],
+      "imagePath": "deliverables/pkg-20260906-more-people-are-paying-for-hinge-and-fewer-are-p-75820/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T00:41:56.570561+00:00"
+    },
+    {
+      "id": "pkg-20260906-it-now-costs-more-than-100-000-per-year-to-go-to-99925",
+      "benchmarkPostId": "2096330640228499925",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096330640228499925",
+      "title": "It now costs more than $100,000 per year to go to college at Duke University",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: It now costs more than $100,000 per year to go to college at Duke Univ\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "It now costs more than $100,000 per year to go to college at Duke University"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096330640228499925"
+      ],
+      "imagePath": "deliverables/pkg-20260906-it-now-costs-more-than-100-000-per-year-to-go-to-99925/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T00:41:56.692723+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-u-s-btc-etfs-saw-986-8-million-in-inflow-58871",
+      "benchmarkPostId": "2096320375764258871",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096320375764258871",
+      "title": "JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096320375764258871"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-u-s-btc-etfs-saw-986-8-million-in-inflow-58871/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T00:41:56.806882+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-robin-launches-on-robinhood-chain-sparki-03251",
+      "benchmarkPostId": "2096319174435803251",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096319174435803251",
+      "title": "JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s very own PEPE."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096319174435803251"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-robin-launches-on-robinhood-chain-sparki-03251/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T00:41:56.965832+00:00",
+      "postizPostId": "cmtp37cwt15tqlm0yoql59pkp",
+      "publishedAt": "2026-09-06T00:42:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-just-in-50-chance-of-fed-hiking-rates-by-25-bps--93040",
+      "benchmarkPostId": "2096281136234193040",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096281136234193040",
+      "title": "JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kals\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096281136234193040"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-50-chance-of-fed-hiking-rates-by-25-bps--93040/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T00:41:57.121564+00:00",
+      "postizPostId": "cmtp39iq915uolm0yznzxgjex",
+      "publishedAt": "2026-09-06T00:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-just-in-nvda-expected-to-triple-its-profit-to-ne-02203",
+      "benchmarkPostId": "2096273144906502203",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096273144906502203",
+      "title": "JUST IN: $NVDA expected to triple its profit to nearly $595 billion by FY29.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $NVDA expected to triple its profit to nearly $595 billion by\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $NVDA expected to triple its profit to nearly $595 billion by FY29."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096273144906502203"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-nvda-expected-to-triple-its-profit-to-ne-02203/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T00:41:57.264206+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-robinhood-chain-hood-generated-8-2-milli-12613",
+      "benchmarkPostId": "2096263943194812613",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096263943194812613",
+      "title": "JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yeste\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096263943194812613"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-generated-8-2-milli-12613/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T00:41:57.400588+00:00",
+      "postizPostId": "cmtp386d215tylm0ymzxatyli",
+      "publishedAt": "2026-09-06T00:42:00.000Z"
     }
   ],
   "posts": [
@@ -14241,6 +14781,91 @@
         "status": "active",
         "windowStart": "2026-09-05T12:44:00.000Z",
         "windowEnd": "2026-09-08T12:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096398633344417984",
+      "packageId": "pkg-20260906-just-in-robin-launches-on-robinhood-chain-sparki-03251",
+      "title": "JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v",
+      "status": "published",
+      "publishedAt": "2026-09-06T00:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096398633344417984",
+      "postizPostId": "cmtp37cwt15tqlm0yoql59pkp",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T00:42:00.000Z",
+        "windowEnd": "2026-09-09T00:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096398792233017423",
+      "packageId": "pkg-20260906-just-in-robinhood-chain-hood-generated-8-2-milli-12613",
+      "title": "JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday.",
+      "status": "published",
+      "publishedAt": "2026-09-06T00:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096398792233017423",
+      "postizPostId": "cmtp386d215tylm0ymzxatyli",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T00:42:00.000Z",
+        "windowEnd": "2026-09-09T00:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096398921539199051",
+      "packageId": "pkg-20260904-tesla-tsla-has-now-officially-started-offering-r-51266",
+      "title": "Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste",
+      "status": "published",
+      "publishedAt": "2026-09-06T00:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096398921539199051",
+      "postizPostId": "cmtp38ubd15u9lm0y66iv1v80",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T00:43:00.000Z",
+        "windowEnd": "2026-09-09T00:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096399055203238203",
+      "packageId": "pkg-20260906-just-in-50-chance-of-fed-hiking-rates-by-25-bps--93040",
+      "title": "JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders.",
+      "status": "published",
+      "publishedAt": "2026-09-06T00:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096399055203238203",
+      "postizPostId": "cmtp39iq915uolm0yznzxgjex",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T00:43:00.000Z",
+        "windowEnd": "2026-09-09T00:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096399182450090088",
+      "packageId": "pkg-20260905-when-you-invest-10-000-into-the-s-p-500-here-s-h-54800",
+      "title": "When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin",
+      "status": "published",
+      "publishedAt": "2026-09-06T00:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096399182450090088",
+      "postizPostId": "cmtp3a6ao02abqk0yqrkbkca1",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T00:44:00.000Z",
+        "windowEnd": "2026-09-09T00:44:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -19177,6 +19802,100 @@
       "completedAt": "2026-09-05T15:29:04Z",
       "summary": "Prepared 111 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260906T004125Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:41:25Z",
+      "completedAt": "2026-09-06T00:41:25Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 8 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260906T004127Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:41:27Z",
+      "completedAt": "2026-09-06T00:41:27Z",
+      "summary": "Prepared 100 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T004157Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:41:57.400631+00:00",
+      "completedAt": "2026-09-06T00:41:57.400635+00:00",
+      "summary": "Created 8 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T004157Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:41:57Z",
+      "completedAt": "2026-09-06T00:41:57Z",
+      "summary": "Prepared 100 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T004240Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:42:40.645342+00:00",
+      "completedAt": "2026-09-06T00:42:40.645346+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T004318Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:43:18.841609+00:00",
+      "completedAt": "2026-09-06T00:43:18.841615+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T004350Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:43:50.077266+00:00",
+      "completedAt": "2026-09-06T00:43:50.077276+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T004421Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:44:21.425056+00:00",
+      "completedAt": "2026-09-06T00:44:21.425066+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T004452Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T00:44:52.004674+00:00",
+      "completedAt": "2026-09-06T00:44:52.004680+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T004600Z-report",
+      "mode": "report",
+      "status": "blocked",
+      "startedAt": "2026-09-06T00:46:00Z",
+      "completedAt": "2026-09-06T00:46:00Z",
+      "summary": "Rendered local report artifacts but could not update the existing stable run-panel URL.",
+      "reason": "Terminal panel blocker: report-hub authentication passed, but registry listing returned HTTP 401 and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed."
     }
   ]
 }
