@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-06T06:44:25.199911+00:00`
+- 状态更新：`2026-09-06T11:17:26.962059+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**266**
 - 待选选题：**225**
@@ -1654,6 +1654,8 @@ Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $117.38 mill
 
 ## 最近运行
 
+- `2026-09-06T11:17:26Z` **queue / succeeded** — Prepared 99 one-to-one production candidate(s).
+- `2026-09-06T11:17:26Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-06T06:44:25.198669+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-06T06:43:54.151066+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-06T06:43:21.899540+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1672,5 +1674,3 @@ Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $117.38 mill
 - `2026-09-06T00:43:50.077266+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-06T00:43:18.841609+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-06T00:42:40.645342+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-06T00:41:57Z` **queue / succeeded** — Prepared 100 one-to-one production candidate(s).
-- `2026-09-06T00:41:57.400631+00:00` **produce / succeeded** — Created 8 original attributed market-radar package(s).
