@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-06T00:46:10.327912+00:00`
+- 状态更新：`2026-09-06T01:07:43.771133+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**246**
 - 待选选题：**206**
@@ -1422,74 +1422,75 @@ Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD generated $8
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
-| Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 0 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2084535905050829005) |
-| Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
-| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
-| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
-| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
-| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 0 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
-| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
-| HOPE token launch reported | 2026-09-03T08:24:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427868683829570) |
-| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
-| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z | 0 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428469635395700) |
-| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
-| Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
-| JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
-| NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 0 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
-| Tesla product-feature market radar | 2026-09-04T00:43:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095674191865692472) |
-| All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
-| Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
-| Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
-| Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
-| Lululemon $LULU stock is down by 15% in after hours following its earnings 🔴🔴🔴🔴🔴 | 2026-09-04T04:30:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731360514404660) |
-| Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
-| This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
-| JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
-| JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
-| JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
-| OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
-| 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
-| JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
-| Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
-| 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
-| JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
-| JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform r | 2026-09-04T04:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736378042744870) |
-| Salesforce $CRM and Anthropic just released this new commercial together | 2026-09-04T04:51:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736656079008137) |
-| JUST IN: $XRP price rallies 4.8% in the past 24 hours. | 2026-09-04T04:52:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736785712341242) |
-| Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena | 2026-09-04T06:43:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764647991488660) |
-| JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
-| This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
-| Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
-| JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
-| BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
-| BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
-| JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
-| Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: | 2026-09-04T12:45:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855783753953496) |
-| JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
-| JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
-| NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
-| OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 0 | 1 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
-| META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
-| McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 0 | 1 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
-| 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
-| CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096126961492082889) |
-| Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096127091901354265) |
-| ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096127220427481484) |
-| Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096127353290363156) |
-| 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096127492960735481) |
-| The stock market Fear and Greed index is now down into Fear currently at 35/100 | 2026-09-05T12:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096217478926115235) |
-| This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of | 2026-09-05T12:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096217642730475682) |
-| JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096217796002881854) |
-| JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096217926424772667) |
-| JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours | 2026-09-05T12:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096218060470542508) |
-| JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096398633344417984) |
-| JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096398792233017423) |
-| Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste | 2026-09-06T00:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096398921539199051) |
-| JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096399055203238203) |
-| When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096399182450090088) |
+| Tesla product-feature market radar | 2026-09-04T00:43:00.000Z | 129 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095674191865692472) |
+| Roblox-themed token pairing reported | 2026-09-03T08:27:00.000Z | 124 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428469635395700) |
+| McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 1 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
+| JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 89 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
+| Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena | 2026-09-04T06:43:00.000Z | 83 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764647991488660) |
+| OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 1 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
+| JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
+| HOPE token launch reported | 2026-09-03T08:24:00.000Z | 67 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427868683829570) |
+| JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 58 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
+| Lululemon $LULU stock is down by 15% in after hours following its earnings 🔴🔴🔴🔴🔴 | 2026-09-04T04:30:00.000Z | 52 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731360514404660) |
+| JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outperform r | 2026-09-04T04:50:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736378042744870) |
+| Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
+| META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
+| Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
+| Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
+| Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
+| JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
+| BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
+| Intel proposed stock offering | 2026-08-10T00:00:00+08:00 | 38 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2084535905050829005) |
+| Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
+| JUST IN: $XRP price rallies 4.8% in the past 24 hours. | 2026-09-04T04:52:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736785712341242) |
+| Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 32 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
+| Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: | 2026-09-04T12:45:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855783753953496) |
+| Salesforce $CRM and Anthropic just released this new commercial together | 2026-09-04T04:51:00.000Z | 28 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736656079008137) |
+| JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
+| Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
+| Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
+| JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
+| JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
+| Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
+| 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
+| Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
+| Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
+| Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
+| NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
+| OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
+| JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
+| BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
+| 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
+| Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste | 2026-09-06T00:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398921539199051) |
+| 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
+| Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
+| Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
+| CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
+| SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
+| This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
+| This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
+| Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
+| JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
+| When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 8 | 1 | 1 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
+| JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
+| JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
+| JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
+| JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
+| JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
+| 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
+| The stock market Fear and Greed index is now down into Fear currently at 35/100 | 2026-09-05T12:42:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217478926115235) |
+| All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
+| NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
+| ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
+| This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of | 2026-09-05T12:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217642730475682) |
+| JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours | 2026-09-05T12:44:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096218060470542508) |
+| JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
+| JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 
 ## 最近运行
 
+- `2026-09-06T01:07:38.457379Z` **metrics / succeeded** — Public X metrics tracker appended 65 timestamped snapshots for all due published posts.
 - `2026-09-06T00:46:00Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Terminal panel blocker: report-hub authentication passed, but registry listing returned HTTP 401 and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed.
 - `2026-09-06T00:44:52.004674+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-06T00:44:21.425056+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1509,4 +1510,3 @@ Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD generated $8
 - `2026-09-05T12:42:50.669837+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-05T12:41:47Z` **queue / succeeded** — Prepared 122 one-to-one production candidate(s).
 - `2026-09-05T12:41:46.770713+00:00` **produce / succeeded** — Created 0 original attributed market-radar package(s).
-- `2026-09-05T12:40:41.043494+00:00` **produce / succeeded** — Created 0 original attributed market-radar package(s).

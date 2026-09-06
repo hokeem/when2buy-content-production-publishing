@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T00:46:10.327912+00:00",
+  "updatedAt": "2026-09-06T01:07:43.771133+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13774,9 +13774,10 @@
         "Imported from a previously verified public status URL; refresh facts and metrics before analysis."
       ],
       "metricsTracking": {
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
-        "lastAttemptResult": "visible numeric counters parsed"
+        "lastAttemptResult": "visible numeric counters parsed",
+        "status": "active"
       }
     },
     {
@@ -13790,10 +13791,10 @@
       "metricsTracking": {
         "windowStart": "2026-08-31T07:58:00+00:00",
         "windowEnd": "2026-09-03T07:58:00+00:00",
-        "status": "complete",
+        "status": "active",
         "completedAt": "2026-09-03T10:48:00.353812+00:00",
         "reason": "72-hour public-metrics window elapsed; no further fetches permitted.",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13809,8 +13810,8 @@
       "metricsTracking": {
         "windowStart": "2026-09-01T04:47:00Z",
         "windowEnd": "2026-09-04T04:47:00Z",
-        "status": "complete",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "status": "active",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed",
         "completedAt": "2026-09-04T04:53:49.394876Z",
@@ -13829,7 +13830,7 @@
         "windowStart": "2026-09-03T08:12:00Z",
         "windowEnd": "2026-09-06T08:12:00Z",
         "status": "active",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13846,7 +13847,7 @@
         "windowStart": "2026-09-03T08:22:00Z",
         "windowEnd": "2026-09-06T08:22:00Z",
         "status": "active",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13863,7 +13864,7 @@
         "windowStart": "2026-09-03T08:23:00Z",
         "windowEnd": "2026-09-06T08:23:00Z",
         "status": "active",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13880,7 +13881,7 @@
         "windowStart": "2026-09-03T08:24:00Z",
         "windowEnd": "2026-09-06T08:24:00Z",
         "status": "active",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13897,7 +13898,7 @@
         "windowStart": "2026-09-03T08:24:00Z",
         "windowEnd": "2026-09-06T08:24:00Z",
         "status": "active",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13914,7 +13915,7 @@
         "windowStart": "2026-09-03T08:26:00Z",
         "windowEnd": "2026-09-06T08:26:00Z",
         "status": "active",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13931,7 +13932,7 @@
         "windowStart": "2026-09-03T08:27:00Z",
         "windowEnd": "2026-09-06T08:27:00Z",
         "status": "active",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13948,7 +13949,7 @@
         "windowStart": "2026-09-03T08:27:00Z",
         "windowEnd": "2026-09-06T08:27:00Z",
         "status": "active",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13965,7 +13966,7 @@
         "status": "active",
         "windowStart": "2026-09-03T11:38:00Z",
         "windowEnd": "2026-09-06T11:38:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13982,7 +13983,7 @@
         "status": "active",
         "windowStart": "2026-09-03T11:55:00Z",
         "windowEnd": "2026-09-06T11:55:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -13999,7 +14000,7 @@
         "status": "active",
         "windowStart": "2026-09-03T12:44:00Z",
         "windowEnd": "2026-09-06T12:44:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14016,7 +14017,7 @@
         "status": "active",
         "windowStart": "2026-09-04T00:43:00Z",
         "windowEnd": "2026-09-07T00:43:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14033,7 +14034,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:28:00Z",
         "windowEnd": "2026-09-07T04:28:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14050,7 +14051,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:29:00Z",
         "windowEnd": "2026-09-07T04:29:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14067,7 +14068,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:29:00Z",
         "windowEnd": "2026-09-07T04:29:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14084,7 +14085,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:30:00Z",
         "windowEnd": "2026-09-07T04:30:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14101,7 +14102,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:30:00Z",
         "windowEnd": "2026-09-07T04:30:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14118,7 +14119,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:31:00Z",
         "windowEnd": "2026-09-07T04:31:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14135,7 +14136,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:31:00Z",
         "windowEnd": "2026-09-07T04:31:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14152,7 +14153,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:32:00Z",
         "windowEnd": "2026-09-07T04:32:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14169,7 +14170,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:32:00Z",
         "windowEnd": "2026-09-07T04:32:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14186,7 +14187,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:33:00Z",
         "windowEnd": "2026-09-07T04:33:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14203,7 +14204,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:46:00Z",
         "windowEnd": "2026-09-07T04:46:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14220,7 +14221,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:46:00Z",
         "windowEnd": "2026-09-07T04:46:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14237,7 +14238,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:47:00Z",
         "windowEnd": "2026-09-07T04:47:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14254,7 +14255,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:49:00Z",
         "windowEnd": "2026-09-07T04:49:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14271,7 +14272,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:49:00Z",
         "windowEnd": "2026-09-07T04:49:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14288,7 +14289,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:50:00Z",
         "windowEnd": "2026-09-07T04:50:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14305,7 +14306,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:50:00Z",
         "windowEnd": "2026-09-07T04:50:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14322,7 +14323,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:51:00Z",
         "windowEnd": "2026-09-07T04:51:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14339,7 +14340,7 @@
         "status": "active",
         "windowStart": "2026-09-04T04:52:00Z",
         "windowEnd": "2026-09-07T04:52:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14356,7 +14357,7 @@
         "status": "active",
         "windowStart": "2026-09-04T06:43:00.000Z",
         "windowEnd": "2026-09-07T06:43:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14373,7 +14374,7 @@
         "status": "active",
         "windowStart": "2026-09-04T06:43:00.000Z",
         "windowEnd": "2026-09-07T06:43:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14390,7 +14391,7 @@
         "status": "active",
         "windowStart": "2026-09-04T06:44:00.000Z",
         "windowEnd": "2026-09-07T06:44:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14407,7 +14408,7 @@
         "status": "active",
         "windowStart": "2026-09-04T06:44:00.000Z",
         "windowEnd": "2026-09-07T06:44:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14424,7 +14425,7 @@
         "status": "active",
         "windowStart": "2026-09-04T06:45:00.000Z",
         "windowEnd": "2026-09-07T06:45:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14441,7 +14442,7 @@
         "status": "active",
         "windowStart": "2026-09-04T09:25:00.000Z",
         "windowEnd": "2026-09-07T09:25:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14458,7 +14459,7 @@
         "status": "active",
         "windowStart": "2026-09-04T12:44:00.000Z",
         "windowEnd": "2026-09-07T12:44:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14475,7 +14476,7 @@
         "status": "active",
         "windowStart": "2026-09-04T12:44:00.000Z",
         "windowEnd": "2026-09-07T12:44:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14492,7 +14493,7 @@
         "status": "active",
         "windowStart": "2026-09-04T12:45:00.000Z",
         "windowEnd": "2026-09-07T12:45:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14509,7 +14510,7 @@
         "status": "active",
         "windowStart": "2026-09-04T12:45:00.000Z",
         "windowEnd": "2026-09-07T12:45:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14526,7 +14527,7 @@
         "status": "active",
         "windowStart": "2026-09-04T12:46:00.000Z",
         "windowEnd": "2026-09-07T12:46:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14543,7 +14544,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:42:00.000Z",
         "windowEnd": "2026-09-08T00:42:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14560,7 +14561,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:42:00.000Z",
         "windowEnd": "2026-09-08T00:42:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14577,7 +14578,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:43:00.000Z",
         "windowEnd": "2026-09-08T00:43:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14594,7 +14595,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:43:00.000Z",
         "windowEnd": "2026-09-08T00:43:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14611,7 +14612,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:44:00.000Z",
         "windowEnd": "2026-09-08T00:44:00Z",
-        "lastAttemptAt": "2026-09-05T01:07:21.184191Z",
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
       }
@@ -14628,9 +14629,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:42:00.000Z",
         "windowEnd": "2026-09-08T06:42:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14645,9 +14646,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:43:00.000Z",
         "windowEnd": "2026-09-08T06:43:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14662,9 +14663,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:43:00.000Z",
         "windowEnd": "2026-09-08T06:43:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14679,9 +14680,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:44:00.000Z",
         "windowEnd": "2026-09-08T06:44:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14696,9 +14697,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:44:00.000Z",
         "windowEnd": "2026-09-08T06:44:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14713,9 +14714,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:42:00.000Z",
         "windowEnd": "2026-09-08T12:42:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14730,9 +14731,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:42:00.000Z",
         "windowEnd": "2026-09-08T12:42:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14747,9 +14748,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:43:00.000Z",
         "windowEnd": "2026-09-08T12:43:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14764,9 +14765,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:44:00.000Z",
         "windowEnd": "2026-09-08T12:44:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14781,9 +14782,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:44:00.000Z",
         "windowEnd": "2026-09-08T12:44:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14798,9 +14799,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:42:00.000Z",
         "windowEnd": "2026-09-09T00:42:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14815,9 +14816,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:42:00.000Z",
         "windowEnd": "2026-09-09T00:42:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14832,9 +14833,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:43:00.000Z",
         "windowEnd": "2026-09-09T00:43:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14849,9 +14850,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:43:00.000Z",
         "windowEnd": "2026-09-09T00:43:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     },
     {
@@ -14866,9 +14867,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:44:00.000Z",
         "windowEnd": "2026-09-09T00:44:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "visible numeric counters parsed"
       }
     }
   ],
@@ -17903,6 +17904,1046 @@
         "fieldReasons": {},
         "checkedAt": "2026-09-05T01:07:21.184191Z"
       }
+    },
+    {
+      "id": "metric-2084535905050829005-20260906T010738Z",
+      "postId": "2084535905050829005",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 38,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2084535905050829005",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2094334035149607267-20260906T010738Z",
+      "postId": "2094334035149607267",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 16,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2094334035149607267",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2094648465645265080-20260906T010738Z",
+      "postId": "2094648465645265080",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 19,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2094648465645265080",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095424711853584893-20260906T010738Z",
+      "postId": "2095424711853584893",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 48,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095424711853584893",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095427314796704032-20260906T010738Z",
+      "postId": "2095427314796704032",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 26,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095427314796704032",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095427576059834822-20260906T010738Z",
+      "postId": "2095427576059834822",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 32,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095427576059834822",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095427724378767851-20260906T010738Z",
+      "postId": "2095427724378767851",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 10,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095427724378767851",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095427868683829570-20260906T010738Z",
+      "postId": "2095427868683829570",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 67,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095427868683829570",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095428221366091837-20260906T010738Z",
+      "postId": "2095428221366091837",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 17,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095428221366091837",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095428469635395700-20260906T010738Z",
+      "postId": "2095428469635395700",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 124,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095428469635395700",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095428640263766427-20260906T010738Z",
+      "postId": "2095428640263766427",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 46,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095428640263766427",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095476518642397201-20260906T010738Z",
+      "postId": "2095476518642397201",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 17,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095476518642397201",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095480844748231138-20260906T010738Z",
+      "postId": "2095480844748231138",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 7,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095480844748231138",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095493296038748333-20260906T010738Z",
+      "postId": "2095493296038748333",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 16,
+      "replies": 1,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095493296038748333",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095674191865692472-20260906T010738Z",
+      "postId": "2095674191865692472",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 129,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095674191865692472",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095730900017537282-20260906T010738Z",
+      "postId": "2095730900017537282",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 4,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095730900017537282",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731013137956986-20260906T010738Z",
+      "postId": "2095731013137956986",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 12,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731013137956986",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731131891240987-20260906T010738Z",
+      "postId": "2095731131891240987",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 44,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731131891240987",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731247733731444-20260906T010738Z",
+      "postId": "2095731247733731444",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 22,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731247733731444",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731360514404660-20260906T010738Z",
+      "postId": "2095731360514404660",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 52,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731360514404660",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731474226163957-20260906T010738Z",
+      "postId": "2095731474226163957",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 8,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731474226163957",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731588999131275-20260906T010738Z",
+      "postId": "2095731588999131275",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 9,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731588999131275",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731705965605202-20260906T010738Z",
+      "postId": "2095731705965605202",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 5,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731705965605202",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731821082448155-20260906T010738Z",
+      "postId": "2095731821082448155",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 41,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731821082448155",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095731932638466218-20260906T010738Z",
+      "postId": "2095731932638466218",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 2,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095731932638466218",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095735316141560171-20260906T010738Z",
+      "postId": "2095735316141560171",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 15,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095735316141560171",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095735450812158361-20260906T010738Z",
+      "postId": "2095735450812158361",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 19,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095735450812158361",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095735589316469042-20260906T010738Z",
+      "postId": "2095735589316469042",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 22,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095735589316469042",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095735963796599251-20260906T010738Z",
+      "postId": "2095735963796599251",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 43,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095735963796599251",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095736109175341104-20260906T010738Z",
+      "postId": "2095736109175341104",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 13,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095736109175341104",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095736249491603788-20260906T010738Z",
+      "postId": "2095736249491603788",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 5,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095736249491603788",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095736378042744870-20260906T010738Z",
+      "postId": "2095736378042744870",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 50,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095736378042744870",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095736656079008137-20260906T010738Z",
+      "postId": "2095736656079008137",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 28,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095736656079008137",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095736785712341242-20260906T010738Z",
+      "postId": "2095736785712341242",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 33,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095736785712341242",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095764647991488660-20260906T010738Z",
+      "postId": "2095764647991488660",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 83,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095764647991488660",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095764780548346157-20260906T010738Z",
+      "postId": "2095764780548346157",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 14,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095764780548346157",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095764914346598739-20260906T010738Z",
+      "postId": "2095764914346598739",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 10,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095764914346598739",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095765047444377609-20260906T010738Z",
+      "postId": "2095765047444377609",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 25,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095765047444377609",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095765184359088366-20260906T010738Z",
+      "postId": "2095765184359088366",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 6,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095765184359088366",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095805634109382831-20260906T010738Z",
+      "postId": "2095805634109382831",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 14,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095805634109382831",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095855505831010807-20260906T010738Z",
+      "postId": "2095855505831010807",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 41,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095855505831010807",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095855640375922725-20260906T010738Z",
+      "postId": "2095855640375922725",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 69,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095855640375922725",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095855783753953496-20260906T010738Z",
+      "postId": "2095855783753953496",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 30,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095855783753953496",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095855909612498984-20260906T010738Z",
+      "postId": "2095855909612498984",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 27,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095855909612498984",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2095856045784805886-20260906T010738Z",
+      "postId": "2095856045784805886",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 89,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2095856045784805886",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096036275862266165-20260906T010738Z",
+      "postId": "2096036275862266165",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 4,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096036275862266165",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096036402891010178-20260906T010738Z",
+      "postId": "2096036402891010178",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 81,
+      "replies": 1,
+      "reposts": 0,
+      "likes": 1,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096036402891010178",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096036533728108897-20260906T010738Z",
+      "postId": "2096036533728108897",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 47,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096036533728108897",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096036664003154368-20260906T010738Z",
+      "postId": "2096036664003154368",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 111,
+      "replies": 1,
+      "reposts": 0,
+      "likes": 1,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096036664003154368",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096036799080776086-20260906T010738Z",
+      "postId": "2096036799080776086",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 14,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096036799080776086",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096126961492082889-20260906T010738Z",
+      "postId": "2096126961492082889",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 12,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096126961492082889",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096127091901354265-20260906T010738Z",
+      "postId": "2096127091901354265",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 34,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096127091901354265",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096127220427481484-20260906T010738Z",
+      "postId": "2096127220427481484",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 4,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096127220427481484",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096127353290363156-20260906T010738Z",
+      "postId": "2096127353290363156",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 13,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096127353290363156",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096127492960735481-20260906T010738Z",
+      "postId": "2096127492960735481",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 5,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096127492960735481",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096217478926115235-20260906T010738Z",
+      "postId": "2096217478926115235",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 5,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096217478926115235",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096217642730475682-20260906T010738Z",
+      "postId": "2096217642730475682",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 4,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096217642730475682",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096217796002881854-20260906T010738Z",
+      "postId": "2096217796002881854",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 6,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096217796002881854",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096217926424772667-20260906T010738Z",
+      "postId": "2096217926424772667",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 22,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096217926424772667",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096218060470542508-20260906T010738Z",
+      "postId": "2096218060470542508",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 4,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096218060470542508",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096398633344417984-20260906T010738Z",
+      "postId": "2096398633344417984",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 58,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096398633344417984",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096398792233017423-20260906T010738Z",
+      "postId": "2096398792233017423",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 8,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096398792233017423",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096398921539199051-20260906T010738Z",
+      "postId": "2096398921539199051",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 14,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096398921539199051",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096399055203238203-20260906T010738Z",
+      "postId": "2096399055203238203",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 3,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096399055203238203",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
+    },
+    {
+      "id": "metric-2096399182450090088-20260906T010738Z",
+      "postId": "2096399182450090088",
+      "observedAt": "2026-09-06T01:07:38.457379Z",
+      "views": 8,
+      "replies": 1,
+      "reposts": 0,
+      "likes": 1,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096399182450090088",
+        "result": "visible numeric counters parsed",
+        "fieldReasons": {},
+        "checkedAt": "2026-09-06T01:07:38.457379Z"
+      }
     }
   ],
   "experiments": [],
@@ -19896,6 +20937,15 @@
       "completedAt": "2026-09-06T00:46:00Z",
       "summary": "Rendered local report artifacts but could not update the existing stable run-panel URL.",
       "reason": "Terminal panel blocker: report-hub authentication passed, but registry listing returned HTTP 401 and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed."
+    },
+    {
+      "id": "run-20260906T010738Z-metrics",
+      "mode": "metrics",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T01:07:38.457379Z",
+      "completedAt": "2026-09-06T01:07:38.457379Z",
+      "summary": "Public X metrics tracker appended 65 timestamped snapshots for all due published posts.",
+      "reason": ""
     }
   ]
 }
