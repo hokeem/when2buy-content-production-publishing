@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T04:59:47.619530+00:00",
+  "updatedAt": "2026-09-06T06:44:25.199911+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -6627,6 +6627,642 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096486923229434216",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096486923229434216",
+      "postedAt": "Sun Sep 06 06:33:27 +0000 2026",
+      "text": "JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a home” hit record high, surpassing 2008 GFC levels​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/tBoXxtbWYw",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRg3vdcXMAEezbB.jpg",
+        "https://pbs.twimg.com/media/HRg3vd_bgAAsaqr.jpg"
+      ],
+      "engagement": {
+        "likes": 23,
+        "replies": 9,
+        "reposts": 4,
+        "quotes": 2,
+        "views": 12095
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRg3vdcXMAEezbB.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096486923229434216-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRg3vd_bgAAsaqr.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096486923229434216-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096327091683721523",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096327091683721523",
+      "postedAt": "Sat Sep 05 19:58:21 +0000 2026",
+      "text": "Wake me up when September ends https://t.co/esFuseUBgA",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRelbNBWoAU03nN.png"
+      ],
+      "engagement": {
+        "likes": 294,
+        "replies": 37,
+        "reposts": 23,
+        "quotes": 3,
+        "views": 35233
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRelbNBWoAU03nN.png",
+          "path": "output/benchmark-media/StockMKTNewz/2096327091683721523-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096320997355880638",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096320997355880638",
+      "postedAt": "Sat Sep 05 19:34:08 +0000 2026",
+      "text": "Someone bought this home in Miami for $1.4 Million off of Facebook Marketplace https://t.co/W3nrur2teH",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRegkqXWAAIXM4l.jpg"
+      ],
+      "engagement": {
+        "likes": 249,
+        "replies": 20,
+        "reposts": 8,
+        "quotes": 1,
+        "views": 97419
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRegkqXWAAIXM4l.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096320997355880638-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096311155614498976",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096311155614498976",
+      "postedAt": "Sat Sep 05 18:55:01 +0000 2026",
+      "text": "Here is every stock that has been added and removed from the S&amp;P 500 over the last decade https://t.co/kgUUHVlnbO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HReX4W4WQAMvjd3.jpg",
+        "https://pbs.twimg.com/media/HReX4W6WQAESSh3.jpg",
+        "https://pbs.twimg.com/media/HReX4W9W0AEoYQD.jpg"
+      ],
+      "engagement": {
+        "likes": 93,
+        "replies": 7,
+        "reposts": 10,
+        "quotes": 0,
+        "views": 48722
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HReX4W4WQAMvjd3.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096311155614498976-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HReX4W6WQAESSh3.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096311155614498976-2.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HReX4W9W0AEoYQD.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096311155614498976-3.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096275001389281625",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096275001389281625",
+      "postedAt": "Sat Sep 05 16:31:21 +0000 2026",
+      "text": "Here is the full history of Nvidia's $NVDA market cap every September since going public\n\n1999: $1.5B\n2000: $9B\n2001: $7.5B\n2002: $1.5B\n2003: $3B\n2004: $2.3B\n2005: $5.5B\n2006: $10B\n2007: $18.5B\n2008: $6B\n2009: $8.5B\n2010: $6B\n2011: $9B\n2012: $8.5B\n2013: $9B\n2014: $10.5B\n2015: $12B\n2016: $33B\n2017: $105B\n2018: $160B\n2019: $105B\n2020: $310B\n2021: $540B\n2022: $340B\n2023: $1.03T\n2024: $2.9T\n2025: $4.3T\n2026: $5.6T",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdy9kkboAES5p-.jpg"
+      ],
+      "engagement": {
+        "likes": 260,
+        "replies": 17,
+        "reposts": 34,
+        "quotes": 6,
+        "views": 45095
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdy9kkboAES5p-.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096275001389281625-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096270144343294083",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096270144343294083",
+      "postedAt": "Sat Sep 05 16:12:03 +0000 2026",
+      "text": "Here is the full history of Apple's $AAPL market cap every September since 1984\n\n1984: $1.6B\n1985: $1B\n1986: $2.2B\n1987: $6.5B\n1988: $5.4B\n1989: $5.5B\n1990: $4B\n1991: $5.9B\n1992: $5.6B\n1993: $2.9B\n1994: $4.2B\n1995: $5B\n1996: $2.8B\n1997: $2.8B (Steve Jobs takes over as CEO)\n1998: $5B\n1999: $12B\n2000: $18B\n2001: $6B\n2002: $5B\n2003: $8B\n2004: $14B\n2005: $40B\n2006: $60B\n2007: $120B\n2008: $125B\n2009: $155B\n2010: $250B\n2011: $360B (Tim Cook takes over as CEO)\n2012: $650B\n2013: $420B\n2014: $600B\n2015: $650B\n2016: $600B\n2017: $800B\n2018: $1.05 TRILLION\n2019: $1T\n2020: $1.9T\n2021: $2.5T\n2022: $2.5T\n2023: $2.75T\n2024: $3.5T\n2025: $3.5T\n2026: $4.7T (John Ternus takes over as CEO)",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdylWYbkAAtz1B.jpg"
+      ],
+      "engagement": {
+        "likes": 180,
+        "replies": 17,
+        "reposts": 17,
+        "quotes": 4,
+        "views": 43699
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdylWYbkAAtz1B.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096270144343294083-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096257062468563261",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096257062468563261",
+      "postedAt": "Sat Sep 05 15:20:04 +0000 2026",
+      "text": "JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt for stock fragments from companies like Apple, NVIDIA, Tesla, and more. https://t.co/AHtFg90HP6",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdmsAlaMAAJ7Q5.jpg",
+        "https://pbs.twimg.com/media/HRdmsAxaAAEn64b.jpg"
+      ],
+      "engagement": {
+        "likes": 215,
+        "replies": 46,
+        "reposts": 14,
+        "quotes": 5,
+        "views": 47947
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdmsAlaMAAJ7Q5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096257062468563261-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdmsAxaAAEn64b.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096257062468563261-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096253020463857717",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096253020463857717",
+      "postedAt": "Sat Sep 05 15:04:01 +0000 2026",
+      "text": "Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July\n\nIt was announced yesterday that Bloom Energy was being added to the S&amp;P 500\n\nShe still has it https://t.co/1jkxfvROjl",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdi_h6XEAI5xA3.jpg"
+      ],
+      "engagement": {
+        "likes": 485,
+        "replies": 51,
+        "reposts": 26,
+        "quotes": 10,
+        "views": 51509
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdi_h6XEAI5xA3.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096253020463857717-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096251643687817609",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096251643687817609",
+      "postedAt": "Sat Sep 05 14:58:32 +0000 2026",
+      "text": "Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY https://t.co/CTbp0oatnK",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdgvUQagAAC0Ev.jpg"
+      ],
+      "engagement": {
+        "likes": 117,
+        "replies": 18,
+        "reposts": 9,
+        "quotes": 0,
+        "views": 29763
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdgvUQagAAC0Ev.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096251643687817609-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096247541897539714",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096247541897539714",
+      "postedAt": "Sat Sep 05 14:42:15 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline prices - CNBC. https://t.co/6t0lfqZFTS",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdeBsEbgAAHNHv.jpg",
+        "https://pbs.twimg.com/media/HRdeBraWcAAWuwp.jpg"
+      ],
+      "engagement": {
+        "likes": 645,
+        "replies": 46,
+        "reposts": 59,
+        "quotes": 3,
+        "views": 47780
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdeBsEbgAAHNHv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096247541897539714-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdeBraWcAAWuwp.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096247541897539714-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096245555160559654",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096245555160559654",
+      "postedAt": "Sat Sep 05 14:34:21 +0000 2026",
+      "text": "The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last week https://t.co/Hps16P3t23",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdbylpXcAQra_1.jpg"
+      ],
+      "engagement": {
+        "likes": 297,
+        "replies": 27,
+        "reposts": 36,
+        "quotes": 3,
+        "views": 38990
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdbylpXcAQra_1.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096245555160559654-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096239880753778943",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096239880753778943",
+      "postedAt": "Sat Sep 05 14:11:48 +0000 2026",
+      "text": "Waiting for the stock market to open again",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 72,
+        "replies": 8,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 41789
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096225910659682421",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096225910659682421",
+      "postedAt": "Sat Sep 05 13:16:17 +0000 2026",
+      "text": "CoreWeave $CRWV recently posted this:\n\n“We are excited to receive our first production NVIDIA Vera Rubin NVL72 racks!” https://t.co/4cs8Z7xHdu",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdKWdfXgAEsfKA.jpg"
+      ],
+      "engagement": {
+        "likes": 342,
+        "replies": 22,
+        "reposts": 26,
+        "quotes": 4,
+        "views": 39102
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdKWdfXgAEsfKA.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096225910659682421-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096225319967457579",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096225319967457579",
+      "postedAt": "Sat Sep 05 13:13:56 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/aMFTqEGY2L",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdJ0TuXoAAbelX.jpg",
+        "https://pbs.twimg.com/media/HRdJ0UNbsAARdbf.jpg"
+      ],
+      "engagement": {
+        "likes": 589,
+        "replies": 71,
+        "reposts": 54,
+        "quotes": 9,
+        "views": 47083
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdJ0TuXoAAbelX.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096225319967457579-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdJ0UNbsAARdbf.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096225319967457579-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096209297877147668",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096209297877147668",
+      "postedAt": "Sat Sep 05 12:10:16 +0000 2026",
+      "text": "JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. https://t.co/XWWwNNqtPj",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRc7Pt2aQAA0QGe.jpg",
+        "https://pbs.twimg.com/media/HRc7PtxbcAAHbRh.jpg"
+      ],
+      "engagement": {
+        "likes": 609,
+        "replies": 51,
+        "reposts": 49,
+        "quotes": 4,
+        "views": 48523
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRc7Pt2aQAA0QGe.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096209297877147668-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRc7PtxbcAAHbRh.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096209297877147668-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096189719310725292",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096189719310725292",
+      "postedAt": "Sat Sep 05 10:52:29 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marking a new all-time high. https://t.co/GqHzBk3N8Z",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRcpcGaXUAIlwIC.jpg",
+        "https://pbs.twimg.com/media/HRcpcGZXgAI92Ma.jpg"
+      ],
+      "engagement": {
+        "likes": 1520,
+        "replies": 117,
+        "reposts": 115,
+        "quotes": 23,
+        "views": 108513
+      },
+      "source": "apify",
+      "isPinned": true,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcpcGaXUAIlwIC.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096189719310725292-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcpcGZXgAI92Ma.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096189719310725292-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096174592431648911",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096174592431648911",
+      "postedAt": "Sat Sep 05 09:52:22 +0000 2026",
+      "text": "JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. https://t.co/4iq13E7A2N",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRcbrgAbQAAdrhl.jpg",
+        "https://pbs.twimg.com/media/HRcbrf1aoAARTSf.jpg"
+      ],
+      "engagement": {
+        "likes": 494,
+        "replies": 63,
+        "reposts": 45,
+        "quotes": 1,
+        "views": 42022
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcbrgAbQAAdrhl.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096174592431648911-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcbrf1aoAARTSf.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096174592431648911-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096171765932126604",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096171765932126604",
+      "postedAt": "Sat Sep 05 09:41:08 +0000 2026",
+      "text": "JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. https://t.co/XoogbG6Y4C",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2096171750795153408/img/aFodBGqqY59gj49p.jpg",
+        "https://pbs.twimg.com/media/HRcZGdSWcAQCnty.jpg",
+        "https://pbs.twimg.com/media/HRcZGdVWcAQbeXm.jpg",
+        "https://pbs.twimg.com/media/HRcZGeAbUAAcb9J.jpg"
+      ],
+      "engagement": {
+        "likes": 278,
+        "replies": 27,
+        "reposts": 43,
+        "quotes": 7,
+        "views": 46837
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096171750795153408/img/aFodBGqqY59gj49p.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096171765932126604-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcZGdSWcAQCnty.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096171765932126604-2.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcZGdVWcAQbeXm.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096171765932126604-3.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcZGeAbUAAcb9J.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096171765932126604-4.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096136240324030904",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096136240324030904",
+      "postedAt": "Sat Sep 05 07:19:58 +0000 2026",
+      "text": "JUST IN: BlackRock clients buy $57.79 million worth of $ETH. https://t.co/e4Ecf3pd07",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRb4zKbbAAAO2Pi.jpg",
+        "https://pbs.twimg.com/media/HRb4zJ3WwAA3CsO.jpg"
+      ],
+      "engagement": {
+        "likes": 1107,
+        "replies": 70,
+        "reposts": 124,
+        "quotes": 6,
+        "views": 50325
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRb4zKbbAAAO2Pi.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096136240324030904-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRb4zJ3WwAA3CsO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096136240324030904-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096127719159308464",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096127719159308464",
+      "postedAt": "Sat Sep 05 06:46:07 +0000 2026",
+      "text": "JUST IN: BlackRock clients buy $117.38 million worth of $BTC. https://t.co/a7Q0R1KADn",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRbxDGdacAAYbaD.jpg",
+        "https://pbs.twimg.com/media/HRbxDGPbkAAR6rF.jpg"
+      ],
+      "engagement": {
+        "likes": 1342,
+        "replies": 75,
+        "reposts": 109,
+        "quotes": 10,
+        "views": 63323
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T06:41:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRbxDGdacAAYbaD.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096127719159308464-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRbxDGPbkAAR6rF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096127719159308464-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -10543,6 +11179,367 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096486923229434216",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a hom…",
+      "benchmarkPostId": "2096486923229434216",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096486923229434216",
+      "score": 13235,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096327091683721523",
+      "rank": 5,
+      "title": "Wake me up when September ends https://t.co/esFuseUBgA",
+      "benchmarkPostId": "2096327091683721523",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096327091683721523",
+      "score": 43923,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2096320997355880638",
+      "rank": 6,
+      "title": "Someone bought this home in Miami for $1.4 Million off of Facebook Marketplace https://t.co/…",
+      "benchmarkPostId": "2096320997355880638",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096320997355880638",
+      "score": 103659,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096311155614498976",
+      "rank": 8,
+      "title": "Here is every stock that has been added and removed from the S&amp;P 500 over the last decad…",
+      "benchmarkPostId": "2096311155614498976",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096311155614498976",
+      "score": 51362,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096275001389281625",
+      "rank": 9,
+      "title": "Here is the full history of Nvidia's $NVDA market cap every September since going public 199…",
+      "benchmarkPostId": "2096275001389281625",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096275001389281625",
+      "score": 53035,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096270144343294083",
+      "rank": 11,
+      "title": "Here is the full history of Apple's $AAPL market cap every September since 1984 1984: $1.6B …",
+      "benchmarkPostId": "2096270144343294083",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096270144343294083",
+      "score": 49069,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096257062468563261",
+      "rank": 12,
+      "title": "JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into …",
+      "benchmarkPostId": "2096257062468563261",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096257062468563261",
+      "score": 55087,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 4,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096253020463857717",
+      "rank": 13,
+      "title": "Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It …",
+      "benchmarkPostId": "2096253020463857717",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096253020463857717",
+      "score": 65149,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096251643687817609",
+      "rank": 14,
+      "title": "Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY h…",
+      "benchmarkPostId": "2096251643687817609",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096251643687817609",
+      "score": 33273,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096247541897539714",
+      "rank": 15,
+      "title": "JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline prices - CNBC. https:/…",
+      "benchmarkPostId": "2096247541897539714",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096247541897539714",
+      "score": 65650,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096245555160559654",
+      "rank": 16,
+      "title": "The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.…",
+      "benchmarkPostId": "2096245555160559654",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096245555160559654",
+      "score": 47990,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096239880753778943",
+      "rank": 17,
+      "title": "Waiting for the stock market to open again",
+      "benchmarkPostId": "2096239880753778943",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096239880753778943",
+      "score": 43909,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2096225910659682421",
+      "rank": 18,
+      "title": "CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA…",
+      "benchmarkPostId": "2096225910659682421",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096225910659682421",
+      "score": 48362,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096225319967457579",
+      "rank": 19,
+      "title": "JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, E…",
+      "benchmarkPostId": "2096225319967457579",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096225319967457579",
+      "score": 64943,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096209297877147668",
+      "rank": 20,
+      "title": "JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. https://t.co/XWW…",
+      "benchmarkPostId": "2096209297877147668",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096209297877147668",
+      "score": 65433,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096174592431648911",
+      "rank": 21,
+      "title": "JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. https://t.co/4iq13E7A2…",
+      "benchmarkPostId": "2096174592431648911",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096174592431648911",
+      "score": 56732,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096171765932126604",
+      "rank": 22,
+      "title": "JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino…",
+      "benchmarkPostId": "2096171765932126604",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096171765932126604",
+      "score": 56047,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096136240324030904",
+      "rank": 23,
+      "title": "JUST IN: BlackRock clients buy $57.79 million worth of $ETH. https://t.co/e4Ecf3pd07",
+      "benchmarkPostId": "2096136240324030904",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096136240324030904",
+      "score": 81825,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096127719159308464",
+      "rank": 24,
+      "title": "JUST IN: BlackRock clients buy $117.38 million worth of $BTC. https://t.co/a7Q0R1KADn",
+      "benchmarkPostId": "2096127719159308464",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096127719159308464",
+      "score": 99213,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T06:41:35Z",
+      "scoreBreakdown": {
+        "freshness": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -13756,6 +14753,376 @@
       "createdAt": "2026-09-06T00:41:57.400588+00:00",
       "postizPostId": "cmtp386d215tylm0ymzxatyli",
       "publishedAt": "2026-09-06T00:42:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-just-in-us-housing-affordability-crisis-deepens--34216",
+      "benchmarkPostId": "2096486923229434216",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096486923229434216",
+      "title": "JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a home” hit r",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches f\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a home” hit record high, surpassing 2008 GFC levels​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096486923229434216"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-us-housing-affordability-crisis-deepens--34216/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:35.723221+00:00"
+    },
+    {
+      "id": "pkg-20260906-wake-me-up-when-september-ends-21523",
+      "benchmarkPostId": "2096327091683721523",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096327091683721523",
+      "title": "Wake me up when September ends",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Wake me up when September ends\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Wake me up when September ends"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096327091683721523"
+      ],
+      "imagePath": "deliverables/pkg-20260906-wake-me-up-when-september-ends-21523/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:35.861781+00:00"
+    },
+    {
+      "id": "pkg-20260906-someone-bought-this-home-in-miami-for-1-4-millio-80638",
+      "benchmarkPostId": "2096320997355880638",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096320997355880638",
+      "title": "Someone bought this home in Miami for $1.4 Million off of Facebook Marketplace",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: Someone bought this home in Miami for $1.4 Million off of Facebook Mar\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Someone bought this home in Miami for $1.4 Million off of Facebook Marketplace"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096320997355880638"
+      ],
+      "imagePath": "deliverables/pkg-20260906-someone-bought-this-home-in-miami-for-1-4-millio-80638/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:36.007297+00:00",
+      "postizPostId": "cmtpg1v6n018wqk0ywlcs1q16",
+      "publishedAt": "2026-09-06T06:41:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-here-is-every-stock-that-has-been-added-and-remo-98976",
+      "benchmarkPostId": "2096311155614498976",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096311155614498976",
+      "title": "Here is every stock that has been added and removed from the S&amp;P 500 over the last decade",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Here is every stock that has been added and removed from the S&amp;P 5\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Here is every stock that has been added and removed from the S&amp;P 500 over the last decade"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096311155614498976"
+      ],
+      "imagePath": "deliverables/pkg-20260906-here-is-every-stock-that-has-been-added-and-remo-98976/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:36.132028+00:00"
+    },
+    {
+      "id": "pkg-20260906-here-is-the-full-history-of-nvidia-s-nvda-market-81625",
+      "benchmarkPostId": "2096275001389281625",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096275001389281625",
+      "title": "Here is the full history of Nvidia's $NVDA market cap every September since going public 1999: $1.5B",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Here is the full history of Nvidia's $NVDA market cap every September \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Here is the full history of Nvidia's $NVDA market cap every September since going public 1999: $1.5B 2000: $9B 2001: $7.5B 2002: $1.5B 2003: $3B 2004: $2.3B 2005: $5.5B 2006: $10B 2007: $18.5B 2008: $6B 2009: $8.5B 2010: $6B 2011: $9B 2012: $8.5B 2013: $9B 2014: $10.5B 2015: $12B 2016: $33B 2017: $105B 2018: $160B 2019: $105B 2020: $310B 2021: $540B 2022: $340B 2023: $1.03T 2024: $2.9T 2025: $4.3T 2026: $5.6T"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096275001389281625"
+      ],
+      "imagePath": "deliverables/pkg-20260906-here-is-the-full-history-of-nvidia-s-nvda-market-81625/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:36.239901+00:00"
+    },
+    {
+      "id": "pkg-20260906-here-is-the-full-history-of-apple-s-aapl-market--94083",
+      "benchmarkPostId": "2096270144343294083",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096270144343294083",
+      "title": "Here is the full history of Apple's $AAPL market cap every September since 1984 1984: $1.6B 1985: $1",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Here is the full history of Apple's $AAPL market cap every September s\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Here is the full history of Apple's $AAPL market cap every September since 1984 1984: $1.6B 1985: $1B 1986: $2.2B 1987: $6.5B 1988: $5.4B 1989: $5.5B 1990: $4B 1991: $5.9B 1992: $5.6B 1993: $2.9B 1994: $4.2B 1995: $5B 1996: $2.8B 1997: $2.8B (Steve Jobs takes over as CEO) 1998: $5B 1999: $12B 2000: $18B 2001: $6B 2002: $5B 2003: $8B 2004: $14B 2005: $40B 2006: $60B 2007: $120B 2008: $125B 2009: $155B 2010: $250B 2011: $360B (Tim Cook takes over as CEO) 2012: $650B 2013: $420B 2014: $600B 2015: $650B 2016: $600B 2017: $800B 2018: $1.05 TRILLION 2019: $1T 2020: $1.9T 2021: $2.5T 2022: $2.5T 2023: $2.75T 2024: $3.5T 2025: $3.5T 2026: $4.7T (John Ternus takes over as CEO)"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096270144343294083"
+      ],
+      "imagePath": "deliverables/pkg-20260906-here-is-the-full-history-of-apple-s-aapl-market--94083/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:36.357654+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-stepn-dev-launches-stroll-on-robinhood-c-63261",
+      "benchmarkPostId": "2096257062468563261",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096257062468563261",
+      "title": "JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-w\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt for stock fragments from companies like Apple, NVIDIA, Tesla, and more."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096257062468563261"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-stepn-dev-launches-stroll-on-robinhood-c-63261/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:36.515289+00:00"
+    },
+    {
+      "id": "pkg-20260906-nancy-pelosi-bought-15-000-shares-and-200-call-o-57717",
+      "benchmarkPostId": "2096253020463857717",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096253020463857717",
+      "title": "Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was announced yesterday that Bloom Energy was being added to the S&amp;P 500 She still has it"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096253020463857717"
+      ],
+      "imagePath": "deliverables/pkg-20260906-nancy-pelosi-bought-15-000-shares-and-200-call-o-57717/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:36.669551+00:00"
+    },
+    {
+      "id": "pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609",
+      "benchmarkPostId": "2096251643687817609",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096251643687817609",
+      "title": "Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096251643687817609"
+      ],
+      "imagePath": "deliverables/pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:36.790324+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-americans-hit-with-record-high-labor-day-39714",
+      "benchmarkPostId": "2096247541897539714",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096247541897539714",
+      "title": "JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline prices - CNBC.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline prices - CNBC."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096247541897539714"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-americans-hit-with-record-high-labor-day-39714/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:36.921719+00:00",
+      "postizPostId": "cmtpg3wco18eklm0ysnzu6rmq",
+      "publishedAt": "2026-09-06T06:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-the-top-10-largest-stocks-in-the-world-are-now-w-59654",
+      "benchmarkPostId": "2096245555160559654",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096245555160559654",
+      "title": "The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: The top 10 largest stocks in the world are now worth a combined $29.95\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last week"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096245555160559654"
+      ],
+      "imagePath": "deliverables/pkg-20260906-the-top-10-largest-stocks-in-the-world-are-now-w-59654/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:37.048304+00:00"
+    },
+    {
+      "id": "pkg-20260906-waiting-for-the-stock-market-to-open-again-78943",
+      "benchmarkPostId": "2096239880753778943",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096239880753778943",
+      "title": "Waiting for the stock market to open again",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Waiting for the stock market to open again\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Waiting for the stock market to open again"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096239880753778943"
+      ],
+      "imagePath": "deliverables/pkg-20260906-waiting-for-the-stock-market-to-open-again-78943/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:37.162702+00:00"
+    },
+    {
+      "id": "pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421",
+      "benchmarkPostId": "2096225910659682421",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096225910659682421",
+      "title": "CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: CoreWeave $CRWV recently posted this: “We are excited to receive our f\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Rubin NVL72 racks!”"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096225910659682421"
+      ],
+      "imagePath": "deliverables/pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T06:41:37.269671+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-robinhood-chain-hood-tokenized-assets-hi-57579",
+      "benchmarkPostId": "2096225319967457579",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096225319967457579",
+      "title": "JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total val\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096225319967457579"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-tokenized-assets-hi-57579/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:37.443852+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-50-chance-of-fed-maintaining-rate-this-m-47668",
+      "benchmarkPostId": "2096209297877147668",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096209297877147668",
+      "title": "JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi tra\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096209297877147668"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-50-chance-of-fed-maintaining-rate-this-m-47668/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:37.612178+00:00",
+      "postizPostId": "cmtpg4k9818emlm0yxhosag98",
+      "publishedAt": "2026-09-06T06:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-just-in-robinhood-chain-hood-24h-dex-volume-hits-25292",
+      "benchmarkPostId": "2096189719310725292",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096189719310725292",
+      "title": "JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marking a new all-time high.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marki\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marking a new all-time high."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096189719310725292"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-24h-dex-volume-hits-25292/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:37.774681+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-btc-etfs-have-recorded-net-inflows-for-3-48911",
+      "benchmarkPostId": "2096174592431648911",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096174592431648911",
+      "title": "JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096174592431648911"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-btc-etfs-have-recorded-net-inflows-for-3-48911/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:37.954903+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-flork-is-live-on-the-las-vegas-strip-for-26604",
+      "benchmarkPostId": "2096171765932126604",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096171765932126604",
+      "title": "JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096171765932126604"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-flork-is-live-on-the-las-vegas-strip-for-26604/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:38.121088+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-blackrock-clients-buy-57-79-million-wort-30904",
+      "benchmarkPostId": "2096136240324030904",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096136240324030904",
+      "title": "JUST IN: BlackRock clients buy $57.79 million worth of $ETH.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $57.79 million worth of $ETH.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: BlackRock clients buy $57.79 million worth of $ETH."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096136240324030904"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-blackrock-clients-buy-57-79-million-wort-30904/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:38.285417+00:00",
+      "postizPostId": "cmtpg37f1018zqk0yc35x1seg",
+      "publishedAt": "2026-09-06T06:42:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-just-in-blackrock-clients-buy-117-38-million-wor-08464",
+      "benchmarkPostId": "2096127719159308464",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096127719159308464",
+      "title": "JUST IN: BlackRock clients buy $117.38 million worth of $BTC.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $117.38 million worth of $BTC.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: BlackRock clients buy $117.38 million worth of $BTC."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096127719159308464"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-blackrock-clients-buy-117-38-million-wor-08464/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T06:41:38.423972+00:00",
+      "postizPostId": "cmtpg2jeu018xqk0ync496e9z",
+      "publishedAt": "2026-09-06T06:42:00.000Z"
     }
   ],
   "posts": [
@@ -14870,6 +16237,91 @@
         "lastAttemptAt": "2026-09-06T01:07:38.457379Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096489141521564026",
+      "packageId": "pkg-20260906-someone-bought-this-home-in-miami-for-1-4-millio-80638",
+      "title": "Someone bought this home in Miami for $1.4 Million off of Facebook Marketplace",
+      "status": "published",
+      "publishedAt": "2026-09-06T06:41:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096489141521564026",
+      "postizPostId": "cmtpg1v6n018wqk0ywlcs1q16",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T06:41:00.000Z",
+        "windowEnd": "2026-09-09T06:41:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096489273486966979",
+      "packageId": "pkg-20260906-just-in-blackrock-clients-buy-117-38-million-wor-08464",
+      "title": "JUST IN: BlackRock clients buy $117.38 million worth of $BTC.",
+      "status": "published",
+      "publishedAt": "2026-09-06T06:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096489273486966979",
+      "postizPostId": "cmtpg2jeu018xqk0ync496e9z",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T06:42:00.000Z",
+        "windowEnd": "2026-09-09T06:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096489403720102140",
+      "packageId": "pkg-20260906-just-in-blackrock-clients-buy-57-79-million-wort-30904",
+      "title": "JUST IN: BlackRock clients buy $57.79 million worth of $ETH.",
+      "status": "published",
+      "publishedAt": "2026-09-06T06:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096489403720102140",
+      "postizPostId": "cmtpg37f1018zqk0yc35x1seg",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T06:42:00.000Z",
+        "windowEnd": "2026-09-09T06:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096489538550137245",
+      "packageId": "pkg-20260906-just-in-americans-hit-with-record-high-labor-day-39714",
+      "title": "JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline prices - CNBC.",
+      "status": "published",
+      "publishedAt": "2026-09-06T06:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096489538550137245",
+      "postizPostId": "cmtpg3wco18eklm0ysnzu6rmq",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T06:43:00.000Z",
+        "windowEnd": "2026-09-09T06:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096489671731945544",
+      "packageId": "pkg-20260906-just-in-50-chance-of-fed-maintaining-rate-this-m-47668",
+      "title": "JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders.",
+      "status": "published",
+      "publishedAt": "2026-09-06T06:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096489671731945544",
+      "postizPostId": "cmtpg4k9818emlm0yxhosag98",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T06:43:00.000Z",
+        "windowEnd": "2026-09-09T06:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -20967,6 +22419,91 @@
       "startedAt": "2026-09-06T04:59:47Z",
       "completedAt": "2026-09-06T04:59:47Z",
       "summary": "Prepared 95 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T064116Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:41:16Z",
+      "completedAt": "2026-09-06T06:41:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 33 eligible originals and added 20 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260906T064135Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:41:35Z",
+      "completedAt": "2026-09-06T06:41:35Z",
+      "summary": "Prepared 112 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T064138Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:41:38.424014+00:00",
+      "completedAt": "2026-09-06T06:41:38.424019+00:00",
+      "summary": "Created 20 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T064138Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:41:38Z",
+      "completedAt": "2026-09-06T06:41:38Z",
+      "summary": "Prepared 112 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T064219Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:42:19.385125+00:00",
+      "completedAt": "2026-09-06T06:42:19.385132+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T064250Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:42:50.817369+00:00",
+      "completedAt": "2026-09-06T06:42:50.817377+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T064321Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:43:21.899540+00:00",
+      "completedAt": "2026-09-06T06:43:21.899542+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T064354Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:43:54.151066+00:00",
+      "completedAt": "2026-09-06T06:43:54.151076+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T064425Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T06:44:25.198669+00:00",
+      "completedAt": "2026-09-06T06:44:25.198675+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]
