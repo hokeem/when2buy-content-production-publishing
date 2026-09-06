@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-06T01:07:43.771133+00:00`
+- 状态更新：`2026-09-06T04:59:47.619530+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**246**
 - 待选选题：**206**
@@ -1490,6 +1490,8 @@ Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD generated $8
 
 ## 最近运行
 
+- `2026-09-06T04:59:47Z` **queue / succeeded** — Prepared 95 one-to-one production candidate(s).
+- `2026-09-06T04:59:47Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-06T01:07:38.457379Z` **metrics / succeeded** — Public X metrics tracker appended 65 timestamped snapshots for all due published posts.
 - `2026-09-06T00:46:00Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Terminal panel blocker: report-hub authentication passed, but registry listing returned HTTP 401 and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed.
 - `2026-09-06T00:44:52.004674+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1508,5 +1510,3 @@ Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD generated $8
 - `2026-09-05T12:44:05.367325+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-05T12:43:30.836241+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-05T12:42:50.669837+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-05T12:41:47Z` **queue / succeeded** — Prepared 122 one-to-one production candidate(s).
-- `2026-09-05T12:41:46.770713+00:00` **produce / succeeded** — Created 0 original attributed market-radar package(s).

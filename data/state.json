@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T01:07:43.771133+00:00",
+  "updatedAt": "2026-09-06T04:59:47.619530+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -20945,6 +20945,28 @@
       "startedAt": "2026-09-06T01:07:38.457379Z",
       "completedAt": "2026-09-06T01:07:38.457379Z",
       "summary": "Public X metrics tracker appended 65 timestamped snapshots for all due published posts.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T045947Z-radar",
+      "mode": "radar",
+      "status": "blocked",
+      "startedAt": "2026-09-06T04:59:47Z",
+      "completedAt": "2026-09-06T04:59:47Z",
+      "summary": "Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s).",
+      "reason": "Apify returned no eligible original posts from either benchmark account.",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260906T045947Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T04:59:47Z",
+      "completedAt": "2026-09-06T04:59:47Z",
+      "summary": "Prepared 95 one-to-one production candidate(s).",
       "reason": ""
     }
   ]
