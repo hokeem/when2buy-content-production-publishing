@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T12:45:45.512835+00:00",
+  "updatedAt": "2026-09-06T15:42:46.289092+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -23291,6 +23291,28 @@
       "completedAt": "2026-09-06T12:45:22Z",
       "summary": "Rendered local report artifacts but could not update the existing stable run-panel URL.",
       "reason": "Terminal panel blocker: report-hub registry access returned HTTP 401 after the required re-source retry, and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed."
+    },
+    {
+      "id": "run-20260906T154246Z-radar",
+      "mode": "radar",
+      "status": "blocked",
+      "startedAt": "2026-09-06T15:42:46Z",
+      "completedAt": "2026-09-06T15:42:46Z",
+      "summary": "Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s).",
+      "reason": "Apify returned no eligible original posts from either benchmark account.",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260906T154246Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T15:42:46Z",
+      "completedAt": "2026-09-06T15:42:46Z",
+      "summary": "Prepared 85 one-to-one production candidate(s).",
+      "reason": ""
     }
   ]
 }
