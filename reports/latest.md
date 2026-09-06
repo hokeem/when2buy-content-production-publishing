@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-06T12:44:06.695305+00:00`
+- 状态更新：`2026-09-06T12:45:45.512835+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**275**
 - 待选选题：**234**
@@ -1731,6 +1731,7 @@ Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD assets are c
 
 ## 最近运行
 
+- `2026-09-06T12:45:22Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Terminal panel blocker: report-hub registry access returned HTTP 401 after the required re-source retry, and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed.
 - `2026-09-06T12:44:06.693990+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-06T12:43:34.229320+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-06T12:43:00.697336+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1750,4 +1751,3 @@ Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD assets are c
 - `2026-09-06T06:41:38Z` **queue / succeeded** — Prepared 112 one-to-one production candidate(s).
 - `2026-09-06T06:41:38.424014+00:00` **produce / succeeded** — Created 20 original attributed market-radar package(s).
 - `2026-09-06T06:41:35Z` **queue / succeeded** — Prepared 112 one-to-one production candidate(s).
-- `2026-09-06T06:41:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 20 new post(s).

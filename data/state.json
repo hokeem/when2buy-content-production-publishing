@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T12:44:06.695305+00:00",
+  "updatedAt": "2026-09-06T12:45:45.512835+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -23282,6 +23282,15 @@
       "completedAt": "2026-09-06T12:44:06.693997+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260906T124522Z-report",
+      "mode": "report",
+      "status": "blocked",
+      "startedAt": "2026-09-06T12:45:22Z",
+      "completedAt": "2026-09-06T12:45:22Z",
+      "summary": "Rendered local report artifacts but could not update the existing stable run-panel URL.",
+      "reason": "Terminal panel blocker: report-hub registry access returned HTTP 401 after the required re-source retry, and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed."
     }
   ]
 }
