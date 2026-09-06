@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T11:17:26.962059+00:00",
+  "updatedAt": "2026-09-06T12:44:06.695305+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -7263,6 +7263,248 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096578036560724312",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096578036560724312",
+      "postedAt": "Sun Sep 06 12:35:31 +0000 2026",
+      "text": "For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre tax interest you would need to lend the 🇺🇸 Government \n\n$458K",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 6710
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096577192561905868",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096577192561905868",
+      "postedAt": "Sun Sep 06 12:32:09 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD leads in weekly fees.\n\nOver the past 7 days, the chain generated $16.8 million in fees, ranking first among major networks. - CryptoRank. https://t.co/tfZUAcswB5",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRiJ14yXYAg3CLF.jpg"
+      ],
+      "engagement": {
+        "likes": 44,
+        "replies": 25,
+        "reposts": 9,
+        "quotes": 4,
+        "views": 14214
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRiJ14yXYAg3CLF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096577192561905868-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096568916969455685",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096568916969455685",
+      "postedAt": "Sun Sep 06 11:59:16 +0000 2026",
+      "text": "REMINDER\n\nThe 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 70,
+        "replies": 14,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 13537
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096561335450448219",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096561335450448219",
+      "postedAt": "Sun Sep 06 11:29:09 +0000 2026",
+      "text": "Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloomberg https://t.co/N6mQ1S3QH7",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRh7ZMka4AA4Udt.jpg"
+      ],
+      "engagement": {
+        "likes": 64,
+        "replies": 10,
+        "reposts": 5,
+        "quotes": 3,
+        "views": 16295
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRh7ZMka4AA4Udt.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096561335450448219-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096554949349875958",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096554949349875958",
+      "postedAt": "Sun Sep 06 11:03:46 +0000 2026",
+      "text": "Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does from people trading stocks https://t.co/MxxglThpcJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRh1As1W4AMM7lo.jpg"
+      ],
+      "engagement": {
+        "likes": 89,
+        "replies": 12,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 17383
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRh1As1W4AMM7lo.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096554949349875958-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096541618522161474",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096541618522161474",
+      "postedAt": "Sun Sep 06 10:10:48 +0000 2026",
+      "text": "JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of approximately $17 billion in planned reinvestment purchases between August 14 and September 14. https://t.co/EnJlBgwTuL",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRhpYSYWsAA4J-1.jpg"
+      ],
+      "engagement": {
+        "likes": 457,
+        "replies": 38,
+        "reposts": 32,
+        "quotes": 7,
+        "views": 35232
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRhpYSYWsAA4J-1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096541618522161474-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096521032416768125",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096521032416768125",
+      "postedAt": "Sun Sep 06 08:49:00 +0000 2026",
+      "text": "JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000. https://t.co/fwa9ay6BvS",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRhWxDoXcAIwtGf.jpg"
+      ],
+      "engagement": {
+        "likes": 280,
+        "replies": 28,
+        "reposts": 22,
+        "quotes": 8,
+        "views": 39050
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRhWxDoXcAIwtGf.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096521032416768125-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096506955866976379",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096506955866976379",
+      "postedAt": "Sun Sep 06 07:53:04 +0000 2026",
+      "text": "JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock accounts powered by ERC-6551. https://t.co/nMQu3Kl3Kq",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRhJ9kdWAAElTW1.jpg"
+      ],
+      "engagement": {
+        "likes": 178,
+        "replies": 24,
+        "reposts": 22,
+        "quotes": 2,
+        "views": 32340
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRhJ9kdWAAElTW1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096506955866976379-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096492002141516162",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096492002141516162",
+      "postedAt": "Sun Sep 06 06:53:38 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Arbdata. https://t.co/94dHImOGy8",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRg8XPkbQAAIqq6.jpg",
+        "https://pbs.twimg.com/media/HRg8XPKXcAgU_31.jpg"
+      ],
+      "engagement": {
+        "likes": 486,
+        "replies": 38,
+        "reposts": 27,
+        "quotes": 3,
+        "views": 33695
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-06T12:41:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRg8XPkbQAAIqq6.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096492002141516162-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRg8XPKXcAgU_31.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096492002141516162-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -11540,6 +11782,177 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096578036560724312",
+      "rank": 1,
+      "title": "For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre ta…",
+      "benchmarkPostId": "2096578036560724312",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096578036560724312",
+      "score": 6970,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096577192561905868",
+      "rank": 2,
+      "title": "JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 days, the chain generat…",
+      "benchmarkPostId": "2096577192561905868",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096577192561905868",
+      "score": 16784,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096568916969455685",
+      "rank": 3,
+      "title": "REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day",
+      "benchmarkPostId": "2096568916969455685",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096568916969455685",
+      "score": 15907,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096561335450448219",
+      "rank": 4,
+      "title": "Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloombe…",
+      "benchmarkPostId": "2096561335450448219",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096561335450448219",
+      "score": 18405,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096554949349875958",
+      "rank": 5,
+      "title": "Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it…",
+      "benchmarkPostId": "2096554949349875958",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096554949349875958",
+      "score": 20053,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096541618522161474",
+      "rank": 6,
+      "title": "JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part…",
+      "benchmarkPostId": "2096541618522161474",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096541618522161474",
+      "score": 47912,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096521032416768125",
+      "rank": 7,
+      "title": "JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000. …",
+      "benchmarkPostId": "2096521032416768125",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096521032416768125",
+      "score": 47350,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096506955866976379",
+      "rank": 8,
+      "title": "JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless…",
+      "benchmarkPostId": "2096506955866976379",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096506955866976379",
+      "score": 38080,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096492002141516162",
+      "rank": 9,
+      "title": "JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,…",
+      "benchmarkPostId": "2096492002141516162",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096492002141516162",
+      "score": 46465,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-06T12:41:08Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -14869,7 +15282,7 @@
       "benchmarkPostId": "2096257062468563261",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096257062468563261",
       "title": "JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-w\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -14880,14 +15293,16 @@
       ],
       "imagePath": "deliverables/pkg-20260906-just-in-stepn-dev-launches-stroll-on-robinhood-c-63261/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T06:41:36.515289+00:00"
+      "createdAt": "2026-09-06T06:41:36.515289+00:00",
+      "postizPostId": "cmtpsz4nn041zqk0y5av3x4sg",
+      "publishedAt": "2026-09-06T12:43:00.000Z"
     },
     {
       "id": "pkg-20260906-nancy-pelosi-bought-15-000-shares-and-200-call-o-57717",
       "benchmarkPostId": "2096253020463857717",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096253020463857717",
       "title": "Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @StockMKTNewz reports: Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -14898,7 +15313,9 @@
       ],
       "imagePath": "deliverables/pkg-20260906-nancy-pelosi-bought-15-000-shares-and-200-call-o-57717/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:36.669551+00:00"
+      "createdAt": "2026-09-06T06:41:36.669551+00:00",
+      "postizPostId": "cmtpswbfw1azjlm0y0akiitu9",
+      "publishedAt": "2026-09-06T12:41:00.000Z"
     },
     {
       "id": "pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609",
@@ -14997,7 +15414,7 @@
       "benchmarkPostId": "2096225319967457579",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096225319967457579",
       "title": "JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total val\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -15008,7 +15425,9 @@
       ],
       "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-tokenized-assets-hi-57579/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T06:41:37.443852+00:00"
+      "createdAt": "2026-09-06T06:41:37.443852+00:00",
+      "postizPostId": "cmtpsx0qs1aznlm0ysvqkc18p",
+      "publishedAt": "2026-09-06T12:42:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-50-chance-of-fed-maintaining-rate-this-m-47668",
@@ -15053,7 +15472,7 @@
       "benchmarkPostId": "2096174592431648911",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096174592431648911",
       "title": "JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks.",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -15064,14 +15483,16 @@
       ],
       "imagePath": "deliverables/pkg-20260906-just-in-btc-etfs-have-recorded-net-inflows-for-3-48911/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T06:41:37.954903+00:00"
+      "createdAt": "2026-09-06T06:41:37.954903+00:00",
+      "postizPostId": "cmtpsxppe1azulm0yi1zn6fxz",
+      "publishedAt": "2026-09-06T12:42:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-flork-is-live-on-the-las-vegas-strip-for-26604",
       "benchmarkPostId": "2096171765932126604",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096171765932126604",
       "title": "JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino.",
-      "status": "ready",
+      "status": "published",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -15082,7 +15503,9 @@
       ],
       "imagePath": "deliverables/pkg-20260906-just-in-flork-is-live-on-the-las-vegas-strip-for-26604/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T06:41:38.121088+00:00"
+      "createdAt": "2026-09-06T06:41:38.121088+00:00",
+      "postizPostId": "cmtpsyfkh1azvlm0ycw7wnfh2",
+      "publishedAt": "2026-09-06T12:43:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-blackrock-clients-buy-57-79-million-wort-30904",
@@ -15123,6 +15546,168 @@
       "createdAt": "2026-09-06T06:41:38.423972+00:00",
       "postizPostId": "cmtpg2jeu018xqk0ync496e9z",
       "publishedAt": "2026-09-06T06:42:00.000Z"
+    },
+    {
+      "id": "pkg-20260906-for-anyone-curious-with-the-30-year-yield-at-5-2-24312",
+      "benchmarkPostId": "2096578036560724312",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096578036560724312",
+      "title": "For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre tax intere",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: For anyone curious with the 30 year yield at 5.244% in order to get $2\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre tax interest you would need to lend the 🇺🇸 Government $458K"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096578036560724312"
+      ],
+      "imagePath": "deliverables/pkg-20260906-for-anyone-curious-with-the-30-year-yield-at-5-2-24312/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T12:41:08.935854+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-robinhood-chain-hood-leads-in-weekly-fee-05868",
+      "benchmarkPostId": "2096577192561905868",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096577192561905868",
+      "title": "JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 days, the chain generated $16.8",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 d\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 days, the chain generated $16.8 million in fees, ranking first among major networks. - CryptoRank."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096577192561905868"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-leads-in-weekly-fee-05868/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T12:41:09.068718+00:00"
+    },
+    {
+      "id": "pkg-20260906-reminder-the-stock-market-will-be-closed-tomorro-55685",
+      "benchmarkPostId": "2096568916969455685",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096568916969455685",
+      "title": "REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labo\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096568916969455685"
+      ],
+      "imagePath": "deliverables/pkg-20260906-reminder-the-stock-market-will-be-closed-tomorro-55685/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T12:41:09.213551+00:00"
+    },
+    {
+      "id": "pkg-20260906-jaguar-land-rover-said-the-company-is-set-to-cut-48219",
+      "benchmarkPostId": "2096561335450448219",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096561335450448219",
+      "title": "Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloomberg",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Jaguar Land Rover said the company is set to cut ~4,000 jobs over the \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloomberg"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096561335450448219"
+      ],
+      "imagePath": "deliverables/pkg-20260906-jaguar-land-rover-said-the-company-is-set-to-cut-48219/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T12:41:09.343994+00:00"
+    },
+    {
+      "id": "pkg-20260906-robinhood-hood-now-makes-more-money-from-trading-75958",
+      "benchmarkPostId": "2096554949349875958",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096554949349875958",
+      "title": "Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does fr",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Robinhood $HOOD now makes more money from trading Prediction Markets o\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does from people trading stocks"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096554949349875958"
+      ],
+      "imagePath": "deliverables/pkg-20260906-robinhood-hood-now-makes-more-money-from-trading-75958/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-06T12:41:09.460103+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-the-fed-plans-to-purchase-up-to-2-122-bi-61474",
+      "benchmarkPostId": "2096541618522161474",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096541618522161474",
+      "title": "JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of appr",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of approximately $17 billion in planned reinvestment purchases between August 14 and September 14."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096541618522161474"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-the-fed-plans-to-purchase-up-to-2-122-bi-61474/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T12:41:09.590573+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-the-number-of-401-k-millionaires-has-sur-68125",
+      "benchmarkPostId": "2096521032416768125",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096521032416768125",
+      "title": "JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096521032416768125"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-the-number-of-401-k-millionaires-has-sur-68125/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T12:41:09.722785+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-hooddomains-hd-is-building-the-ens-of-ro-76379",
+      "benchmarkPostId": "2096506955866976379",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096506955866976379",
+      "title": "JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock a",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .ho\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock accounts powered by ERC-6551."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096506955866976379"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-hooddomains-hd-is-building-the-ens-of-ro-76379/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T12:41:09.846993+00:00"
+    },
+    {
+      "id": "pkg-20260906-just-in-robinhood-chain-hood-assets-are-closing--16162",
+      "benchmarkPostId": "2096492002141516162",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096492002141516162",
+      "title": "JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Ar",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD assets are closing in on a combined mar\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Arbdata."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096492002141516162"
+      ],
+      "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-assets-are-closing--16162/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-06T12:41:09.963033+00:00"
     }
   ],
   "posts": [
@@ -16319,6 +16904,91 @@
         "status": "active",
         "windowStart": "2026-09-06T06:43:00.000Z",
         "windowEnd": "2026-09-09T06:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096579642832597213",
+      "packageId": "pkg-20260906-nancy-pelosi-bought-15-000-shares-and-200-call-o-57717",
+      "title": "Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno",
+      "status": "published",
+      "publishedAt": "2026-09-06T12:41:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096579642832597213",
+      "postizPostId": "cmtpswbfw1azjlm0y0akiitu9",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T12:41:00.000Z",
+        "windowEnd": "2026-09-09T12:41:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096579773963391239",
+      "packageId": "pkg-20260906-just-in-robinhood-chain-hood-tokenized-assets-hi-57579",
+      "title": "JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com",
+      "status": "published",
+      "publishedAt": "2026-09-06T12:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096579773963391239",
+      "postizPostId": "cmtpsx0qs1aznlm0ysvqkc18p",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T12:42:00.000Z",
+        "windowEnd": "2026-09-09T12:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096579911805010395",
+      "packageId": "pkg-20260906-just-in-btc-etfs-have-recorded-net-inflows-for-3-48911",
+      "title": "JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks.",
+      "status": "published",
+      "publishedAt": "2026-09-06T12:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096579911805010395",
+      "postizPostId": "cmtpsxppe1azulm0yi1zn6fxz",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T12:42:00.000Z",
+        "windowEnd": "2026-09-09T12:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096580050598682787",
+      "packageId": "pkg-20260906-just-in-flork-is-live-on-the-las-vegas-strip-for-26604",
+      "title": "JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino.",
+      "status": "published",
+      "publishedAt": "2026-09-06T12:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096580050598682787",
+      "postizPostId": "cmtpsyfkh1azvlm0ycw7wnfh2",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T12:43:00.000Z",
+        "windowEnd": "2026-09-09T12:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096580186124976177",
+      "packageId": "pkg-20260906-just-in-stepn-dev-launches-stroll-on-robinhood-c-63261",
+      "title": "JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f",
+      "status": "published",
+      "publishedAt": "2026-09-06T12:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096580186124976177",
+      "postizPostId": "cmtpsz4nn041zqk0y5av3x4sg",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-06T12:43:00.000Z",
+        "windowEnd": "2026-09-09T12:43:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -22526,6 +23196,91 @@
       "startedAt": "2026-09-06T11:17:26Z",
       "completedAt": "2026-09-06T11:17:26Z",
       "summary": "Prepared 99 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T124100Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:41:00Z",
+      "completedAt": "2026-09-06T12:41:00Z",
+      "summary": "Apify scanned both benchmark accounts; captured 33 eligible originals and added 9 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260906T124108Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:41:08Z",
+      "completedAt": "2026-09-06T12:41:08Z",
+      "summary": "Prepared 102 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T124109Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:41:09.963084+00:00",
+      "completedAt": "2026-09-06T12:41:09.963089+00:00",
+      "summary": "Created 9 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T124110Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:41:10Z",
+      "completedAt": "2026-09-06T12:41:10Z",
+      "summary": "Prepared 102 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T124155Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:41:55.423219+00:00",
+      "completedAt": "2026-09-06T12:41:55.423226+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T124228Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:42:28.248072+00:00",
+      "completedAt": "2026-09-06T12:42:28.248077+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T124300Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:43:00.697336+00:00",
+      "completedAt": "2026-09-06T12:43:00.697340+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T124334Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:43:34.229320+00:00",
+      "completedAt": "2026-09-06T12:43:34.229325+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260906T124406Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-06T12:44:06.693990+00:00",
+      "completedAt": "2026-09-06T12:44:06.693997+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]
