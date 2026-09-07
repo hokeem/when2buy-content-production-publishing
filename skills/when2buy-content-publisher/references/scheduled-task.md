@@ -11,7 +11,7 @@ Every run performs one uninterrupted chain:
 5. Produce up to five newest unproduced packages. Keep the core event and information density; end with exactly `When2Buy — your U.S. stock partner.` Public text and artwork contain no source attribution or disclaimers.
 6. Generate a complete entity-led square image with the image-generation model. Add the exact logo afterward and run visual QA. Static typography templates are forbidden.
 7. Run `scripts/validate_content_standard.py`, publish through Postiz, and require `PUBLISHED` plus a public X URL.
-8. Initialize 72-hour metrics tracking, render the panel, update the stable report, and push state to `main`.
+8. Initialize 72-hour metrics tracking, render the panel, run `python3 scripts/publish_run_panel.py` to update the stable report directly, and push state to `main`. Never run `report list`; registry listing uses separate access control and is not required for a known stable slug.
 
 Process items independently and continue after an item-level failure. A run is successful only when every selected item is either publicly published or has a precise terminal delivery error. Content-review or verification uncertainty is not a terminal blocker.
 
