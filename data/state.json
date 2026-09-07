@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T14:12:49.011184+00:00",
+  "updatedAt": "2026-09-07T14:25:32.550037+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8652,6 +8652,27 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096965037080334439",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096965037080334439",
+      "postedAt": "Mon Sep 07 14:13:19 +0000 2026",
+      "text": "IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026\n\n🥈 $IBM: -21%🔴 https://t.co/PqywBvlPMj",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnqlgsbYAAHfYn.jpg"
+      ],
+      "engagement": {
+        "likes": 24,
+        "replies": 16,
+        "reposts": 5,
+        "quotes": 1,
+        "views": 8721
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T14:23:28Z"
     }
   ],
   "radar": [
@@ -13879,6 +13900,25 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096965037080334439",
+      "rank": 1,
+      "title": "IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026 🥈 $IBM…",
+      "benchmarkPostId": "2096965037080334439",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096965037080334439",
+      "score": 10151,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T14:23:59Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -18999,6 +19039,42 @@
         }
       },
       "deliveryError": "Postiz returned state=ERROR for cmtrbj8hp0kgkqk0yqdfkbojr and cmtrbkj5k0crclm0yv4jrzvxd after two safe attempts; neither issued a releaseURL or public x.com URL."
+    },
+    {
+      "id": "pkg-20260907-ibm-dow-minus-21",
+      "benchmarkPostId": "2096965037080334439",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096965037080334439",
+      "title": "IBM $IBM ranks second-worst in the Dow in 2026",
+      "status": "ready",
+      "postText": "$IBM is the Dow's second-worst performer so far in 2026, down 21%.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "IBM is the second-worst-performing Dow Jones stock so far in 2026.",
+        "IBM is down 21% in 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096965037080334439",
+        "https://www.ibm.com/investor/"
+      ],
+      "imagePath": "deliverables/pkg-20260907-ibm-dow-minus-21/when2buy-image-model.png",
+      "createdAt": "2026-09-07T14:25:13Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: premium square X financial-news visual for When2Buy. Primary request: an original entity-led editorial image about IBM stock trailing the Dow in 2026. Scene/backdrop: a cinematic near-black institutional technology and market environment, with an unbranded enterprise mainframe/server corridor fading into darkness and a subtle red descending data-light trail. Subject: one physically realistic, sophisticated enterprise computing cabinet and a minimal abstract market line reflection; the infrastructure is concrete, dominant and intact, not a generic radar background. Style/medium: high-end photorealistic financial-news editorial photography. Composition/framing: exact 1:1 square, central-left subject, reserve the lower-right 20 percent as clean empty near-black negative space for a separately composited circular logo. Lighting/mood: dramatic crisp white rim light, restrained urgent red accent, premium sober market-news atmosphere. Color palette: near-black base, white highlights, restrained red only. Text: none. Constraints: no readable text, numbers, letters, tickers, brand logos, trademarks, watermarks, source handles, URLs, attribution, disclaimers, CTAs, people, pure typography cards, generic radar imagery, damaged equipment, distorted hardware, or clutter.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T14:25:13Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led enterprise-computing subject",
+            "no readable generated text or attribution",
+            "no generic radar image",
+            "exact repository logo composited once",
+            "logo clear space preserved",
+            "no damaged or inconsistent subject"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -43033,6 +43109,61 @@
       "completedAt": "2026-09-07T14:12:49.009945+00:00",
       "summary": "Postiz delivery reached a terminal error after safe retries.",
       "reason": "Postiz returned state=ERROR for cmtrbj8hp0kgkqk0yqdfkbojr and cmtrbkj5k0crclm0yv4jrzvxd after two safe attempts; neither issued a releaseURL or public x.com URL."
+    },
+    {
+      "id": "run-20260907T142328Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:23:28Z",
+      "completedAt": "2026-09-07T14:23:28Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T142359Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:23:59Z",
+      "completedAt": "2026-09-07T14:23:59Z",
+      "summary": "Prepared 28 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T142513Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:25:13Z",
+      "completedAt": "2026-09-07T14:25:13Z",
+      "summary": "Produced the newest timestamp-first IBM benchmark package with an inspected image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T142513Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:25:13Z",
+      "completedAt": "2026-09-07T14:25:13Z",
+      "summary": "Prepared 28 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T142532Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T14:25:32Z",
+      "completedAt": "2026-09-07T14:25:32Z",
+      "summary": "No Postiz submission: 60-minute X delivery circuit breaker is active; newest package remains ready.",
+      "reason": "Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed at 2026-09-07T14:11:00Z); do not submit another post before 2026-09-07T15:23:28Z.",
+      "circuitBreaker": {
+        "active": true,
+        "observedAt": "2026-09-07T14:23:28Z",
+        "expiresAt": "2026-09-07T15:23:28Z",
+        "deliveryReason": "ERROR delivery without a public release URL"
+      }
     }
   ]
 }
