@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T19:26:21.686017+00:00`
+- 状态更新：`2026-09-07T19:47:38.308529+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**336**
 - 待选选题：**294**
@@ -2145,9 +2145,9 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
+| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | U.S. Bitcoin ETFs see $986.8M weekly inflow | 2026-09-07T07:12:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859345426468895) |
-| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
@@ -2240,6 +2240,10 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 
 ## 最近运行
 
+- `2026-09-07T19:47:38.307305Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker. Postiz delivery error without a public x.com release URL.
+- `2026-09-07T19:46:58Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
+- `2026-09-07T19:46:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 0 new post(s).
+- `2026-09-07T19:45:43Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
 - `2026-09-07T19:27:00Z` **full / partial** — Apify collection, benchmark-media archival, and timestamp-first queue rebuild completed; no new eligible originals were found. Publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
 - `2026-09-07T19:25:57Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
 - `2026-09-07T19:25:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
@@ -2256,7 +2260,3 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 - `2026-09-07T18:26:39Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and reporting completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-07T18:26:05Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
 - `2026-09-07T18:26:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 0 new post(s).
-- `2026-09-07T18:08:26Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
-- `2026-09-07T18:07:55Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
-- `2026-09-07T18:07:55Z` **produce / succeeded** — Produced the newest timestamp-first benchmark package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-07T18:05:57Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
