@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T13:09:04.363728+00:00",
+  "updatedAt": "2026-09-07T13:31:30.087954+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8500,6 +8500,62 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096951390434209850",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096951390434209850",
+      "postedAt": "Mon Sep 07 13:19:05 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD spot volume tripled since the start of August.\n\nWeekly spot trading volume on Robinhood Chain DEXs reached $10.5 billion, up 3.5x from early August - CryptoRank. https://t.co/3qmZamRHiX",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRneK_nbYAA41uH.jpg"
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 20,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 13095
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T13:26:07Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRneK_nbYAA41uH.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096951390434209850-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096951154840117320",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096951154840117320",
+      "postedAt": "Mon Sep 07 13:18:09 +0000 2026",
+      "text": "Nvidia $NVDA now generates $7.8 Million of annual revenue per employee, a new high for the company https://t.co/xTVVsvIIGz",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRndGVBaYAAi3fq.jpg"
+      ],
+      "engagement": {
+        "likes": 25,
+        "replies": 10,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 7388
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T13:26:07Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRndGVBaYAAi3fq.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096951154840117320-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -13632,6 +13688,44 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096951390434209850",
+      "rank": 1,
+      "title": "JUST IN: Robinhood Chain $HOOD spot volume tripled since the start of August. Weekly spot tr…",
+      "benchmarkPostId": "2096951390434209850",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096951390434209850",
+      "score": 15135,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T13:26:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096951154840117320",
+      "rank": 2,
+      "title": "Nvidia $NVDA now generates $7.8 Million of annual revenue per employee, a new high for the c…",
+      "benchmarkPostId": "2096951154840117320",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096951154840117320",
+      "score": 8538,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T13:26:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -18569,6 +18663,80 @@
         }
       },
       "deliveryError": "Postiz queued cmtr9atqr0bzclm0yvljy2e79 without PUBLISHED or a public x.com release URL after two safe delivery attempts; no delivery was verified."
+    },
+    {
+      "id": "pkg-20260907-robinhood-chain-spot-volume-10-5b",
+      "benchmarkPostId": "2096951390434209850",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096951390434209850",
+      "title": "Robinhood Chain weekly spot volume reaches $10.5B",
+      "status": "failed",
+      "postText": "$HOOD's Robinhood Chain weekly DEX spot volume reached $10.5B, up 3.5x from early August.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Robinhood Chain weekly DEX spot trading volume reached $10.5 billion.",
+        "The volume was 3.5 times early-August levels."
+      ],
+      "verificationSources": [
+        "https://investors.robinhood.com/static-files/f44ea493-9c52-4744-9671-7720e1ac7b2f",
+        "https://x.com/WhaleInsider/status/2096951390434209850"
+      ],
+      "imagePath": "deliverables/pkg-20260907-robinhood-chain-spot-volume-10-5b/when2buy-image-model.png",
+      "createdAt": "2026-09-07T13:28:59Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: 1:1 X financial-news visual for When2Buy. Primary request: original premium editorial image about Robinhood Chain's DEX spot-volume surge. Scene/backdrop: a realistic, modern blockchain exchange infrastructure room with black server racks and subtly glowing transaction paths. Subject: a single sophisticated mobile-trading terminal and an abstract on-chain liquidity flow rendered as non-readable light trails; concrete crypto-market technology dominates, no generic radar. Style/medium: high-end photorealistic financial-news editorial photography. Composition/framing: exact square 1:1, strong central subject; leave lower-right 20% as a clean empty near-black logo-safe area. Lighting/mood: dramatic studio rim light, urgent premium market-news tone. Color palette: near-black, white highlights, restrained red accent. Text: none. Constraints: no readable text, numbers, tickers, company logos, trademarks, watermarks, source handles, URLs, attribution, disclaimers, CTA, people, pure typography cards, damaged hardware, or distorted screens.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T13:28:59Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led visual",
+            "no readable generated text or attribution",
+            "no generic radar image",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no damaged or inconsistent subject"
+          ]
+        }
+      },
+      "deliveryError": "Postiz accepted delivery cmtra2z6m0jvxqk0y78xkxdge but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission."
+    },
+    {
+      "id": "pkg-20260907-nvidia-revenue-per-employee-7-8m",
+      "benchmarkPostId": "2096951154840117320",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096951154840117320",
+      "title": "Nvidia annual revenue per employee reaches $7.8M",
+      "status": "failed",
+      "postText": "$NVDA now generates $7.8M of annual revenue per employee, a company high.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Nvidia annual revenue per employee reached $7.8 million.",
+        "The figure is a new high for Nvidia."
+      ],
+      "verificationSources": [
+        "https://investor.nvidia.com/financial-info/default.aspx",
+        "https://x.com/StockMKTNewz/status/2096951154840117320"
+      ],
+      "imagePath": "deliverables/pkg-20260907-nvidia-revenue-per-employee-7-8m/when2buy-image-model.png",
+      "createdAt": "2026-09-07T13:28:59Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: 1:1 X financial-news visual for When2Buy. Primary request: original premium editorial image about Nvidia's record annual revenue per employee. Scene/backdrop: a cinematic near-black semiconductor engineering lab integrated with a refined institutional financial environment. Subject: one large unbranded advanced AI accelerator chip on a precision workbench, surrounded by blurred server hardware and non-readable rising data-light patterns; chip is clearly concrete and dominant. Style/medium: high-end photorealistic financial-news editorial photography. Composition/framing: exact square 1:1; chip fills left and center; lower-right 20% is clean, empty near-black logo-safe area. Lighting/mood: crisp dramatic rim light, premium high-performance mood. Color palette: near-black, white highlights, restrained red accents only. Text: none. Constraints: no readable text, numbers, ticker, company logos, trademarks, watermarks, source handles, URLs, attribution, disclaimers, CTA, people, pure typography cards, generic radar imagery, damaged chip, or inconsistent proportions.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T13:28:59Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led visual",
+            "no readable generated text or attribution",
+            "no generic radar image",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no damaged or inconsistent subject"
+          ]
+        }
+      },
+      "deliveryError": "Postiz accepted delivery cmtra3sp90caolm0yyn74mi51 but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission."
     }
   ],
   "posts": [
@@ -38818,6 +38986,55 @@
       "completedAt": "2026-09-07T13:09:04Z",
       "summary": "Prepared 24 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260907T132607Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T13:26:07Z",
+      "completedAt": "2026-09-07T13:26:07Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T132608Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T13:26:08Z",
+      "completedAt": "2026-09-07T13:26:08Z",
+      "summary": "Prepared 25 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T132859Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T13:28:59Z",
+      "completedAt": "2026-09-07T13:28:59Z",
+      "summary": "Produced two new timestamp-first benchmark packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T133129Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T13:31:29.952288+00:00",
+      "completedAt": "2026-09-07T13:31:29.952288+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz accepted delivery cmtra2z6m0jvxqk0y78xkxdge but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission."
+    },
+    {
+      "id": "run-20260907T133130Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T13:31:30.087213+00:00",
+      "completedAt": "2026-09-07T13:31:30.087213+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz accepted delivery cmtra3sp90caolm0yyn74mi51 but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission."
     }
   ]
 }
