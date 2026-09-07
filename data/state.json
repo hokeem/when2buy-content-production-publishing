@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T17:32:05.949256+00:00",
+  "updatedAt": "2026-09-07T17:49:31.584068+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9094,6 +9094,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097014587426062500",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097014587426062500",
+      "postedAt": "Mon Sep 07 17:30:12 +0000 2026",
+      "text": "The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of August - WSJ",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 24,
+        "replies": 6,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 9871
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T17:46:09Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -14587,6 +14607,25 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2097014587426062500",
+      "rank": 1,
+      "title": "The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of Aug…",
+      "benchmarkPostId": "2097014587426062500",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097014587426062500",
+      "score": 10641,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T17:46:09Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -20072,6 +20111,41 @@
         "attempts": 1,
         "completedAt": "2026-09-07T17:31:31Z",
         "outcome": "error_no_public_x_url_no_retry"
+      }
+    },
+    {
+      "id": "pkg-20260907-us-stock-funds-126-ytd",
+      "benchmarkPostId": "2097014587426062500",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097014587426062500",
+      "title": "Average U.S. stock fund up 12.6% in 2026 through August",
+      "status": "ready",
+      "postText": "The average U.S. stock ETF and mutual fund is up 12.6% in 2026 through the end of August.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The average U.S. stock ETF and mutual fund was up 12.6% in 2026.",
+        "The measurement runs through the end of August."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097014587426062500"
+      ],
+      "imagePath": "deliverables/pkg-20260907-us-stock-funds-126-ytd/when2buy-image-model.png",
+      "createdAt": "2026-09-07T17:48:58.583723Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Premium 1:1 near-black financial-news scene: diversified U.S. equity fund certificates and a restrained rising capital-flow path; exact visible copy U.S. STOCK FUNDS and +12.6% YTD; empty lower-right logo-safe area; no source attribution, social UI, URLs, generic radar imagery, watermark, or invented logos.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T17:48:58.583811Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led diversified U.S. stock-fund visual",
+            "visible text proofread: U.S. STOCK FUNDS, +12.6%, YTD",
+            "near-black, white, restrained-red visual grammar",
+            "not pure text or generic radar",
+            "exact repository logo composited once with clear space",
+            "no damaged logo or source attribution"
+          ]
+        }
       }
     }
   ],
@@ -59349,12 +59423,57 @@
       "completedAt": "2026-09-07T17:32:05Z",
       "summary": "Prepared 32 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260907T174609Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T17:46:09Z",
+      "completedAt": "2026-09-07T17:46:09Z",
+      "summary": "Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T174609Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T17:46:09Z",
+      "completedAt": "2026-09-07T17:46:09Z",
+      "summary": "Prepared 33 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T174858Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T17:48:58.583958Z",
+      "completedAt": "2026-09-07T17:48:58.583966Z",
+      "summary": "Produced the newest timestamp-first U.S. stock-fund package with an inspected image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T174931Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T17:49:31.558802Z",
+      "completedAt": "2026-09-07T17:49:31.558802Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, hourly metrics pass, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public x.com release URL; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T18:49:31.558802Z",
+        "deliveryReason": "Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public x.com release URL; accepted task was not retried."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "startedAt": "2026-09-07T16:26:21Z",
-    "expiresAt": "2026-09-07T17:26:21Z",
-    "reason": "Postiz query found X delivery cmtreano20dp3lm0y93qswru7 in ERROR state with no public x.com release URL; no accepted task was retried."
+    "startedAt": "2026-09-07T17:49:31.558802Z",
+    "expiresAt": "2026-09-07T18:49:31.558802Z",
+    "reason": "Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public x.com release URL; accepted task was not retried."
   }
 }

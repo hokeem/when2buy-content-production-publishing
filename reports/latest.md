@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T17:32:05.949256+00:00`
+- 状态更新：`2026-09-07T17:49:31.584068+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**331**
-- 待选选题：**289**
-- 待发布制作包：**91**
+- 对标帖子快照：**332**
+- 待选选题：**290**
+- 待发布制作包：**92**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 17:30:12 +0000 2026 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of August - WSJ | [X](https://x.com/StockMKTNewz/status/2097014587426062500) |
 | @StockMKTNewz | Mon Sep 07 17:10:51 +0000 2026 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803  For anyone curious $15M in 2026 is enough to buy  - 19.8 shares of Berkshire Hathaway $BRK.A stock - 8,620 shares of Sandisk $SNDK  - 14,763 shares of Micron $MU  - 19,480 shares of the S&P 500 ETF $SPY  - 20,862 shares of the Nasdaq 100 ETF $QQQ  - 24,320 shares of Meta Platforms $META  - 30,000 shares of Microsoft $MSFT  - 42,372 shares of Tesla $TSLA - 44,776 shares of Google $GOOGL  - 46,875 shares of Apple $AAPL  - 58,027 shares of Amazon $AMZN  - 65,217 shares of Nvidia $NVDA  - 101,351 shares of SpaceX $SPCX  - 191,693 shares of Netflix $NFLX | [X](https://x.com/StockMKTNewz/status/2097009717994242070) |
 | @WhaleInsider | Mon Sep 07 16:46:28 +0000 2026 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchain terminals. https://t.co/hvMoTq7YNp | [X](https://x.com/WhaleInsider/status/2097003578648940977) |
 | @StockMKTNewz | Mon Sep 07 16:34:12 +0000 2026 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 years https://t.co/ywRfw6fRhZ | [X](https://x.com/StockMKTNewz/status/2097000494098972748) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 11:51:33 +0000 2026 | Sandisk $SNDK is currently the best performing stock in the NASDAQ 100 so far in 2026  👑 Sandisk: +633%🟢 https://t.co/1pbrN0zBVy | [X](https://x.com/StockMKTNewz/status/2096929359596556570) |
 | @StockMKTNewz | Mon Sep 07 11:59:01 +0000 2026 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | [X](https://x.com/StockMKTNewz/status/2096931241597567248) |
 | @StockMKTNewz | Mon Sep 07 11:29:21 +0000 2026 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 2026  (Trade Desk stock is being removed from the S&amp;P 500 later this month) https://t.co/k4QNpi5z3u | [X](https://x.com/StockMKTNewz/status/2096923774364844127) |
-| @StockMKTNewz | Mon Sep 07 11:40:28 +0000 2026 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026  💩 Applovin: -52%🔴 https://t.co/aFQEEt4V64 | [X](https://x.com/StockMKTNewz/status/2096926573056151788) |
 
 ## 选题推荐
 
@@ -80,6 +80,7 @@
 | 1 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 y… | StockMKTNewz | 10594 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchai… | WhaleInsider | 21325 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803 For anyone curious … | StockMKTNewz | 11718 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of Aug… | StockMKTNewz | 10641 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2060,6 +2061,13 @@ Onchain terminals processed $6.35B in trading volume this week.  It was the bigg
 
 The U.S. bought the Louisiana territory from France for $15M in 1803.  At current prices, $15M buys 19.8 Berkshire Hathaway Class A shares.  When2Buy — your U.S. stock partner.
 
+### Average U.S. stock fund up 12.6% in 2026 through August
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-us-stock-funds-126-ytd/when2buy-image-model.png`
+
+The average U.S. stock ETF and mutual fund is up 12.6% in 2026 through the end of August.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2200,6 +2208,10 @@ The U.S. bought the Louisiana territory from France for $15M in 1803.  At curren
 
 ## 最近运行
 
+- `2026-09-07T17:49:31.558802Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics pass, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public x.com release URL; accepted task was not retried.
+- `2026-09-07T17:48:58.583958Z` **produce / succeeded** — Produced the newest timestamp-first U.S. stock-fund package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-07T17:46:09Z` **queue / succeeded** — Prepared 33 one-to-one production candidate(s).
+- `2026-09-07T17:46:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
 - `2026-09-07T17:32:05Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
 - `2026-09-07T17:31:31Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, metrics collection, and one newest-package Postiz probe completed; no public X release was verified. Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public release URL; accepted task was not retried.
 - `2026-09-07T17:29:59Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
@@ -2216,7 +2228,3 @@ The U.S. bought the Louisiana territory from France for $15M in 1803.  At curren
 - `2026-09-07T16:48:11Z` **full / partial** — Shanghai :45 metrics pass, Apify benchmark collection, media archive, and timestamp-first queue rebuild completed; no X submission was made. Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.
 - `2026-09-07T16:47:34Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T16:47:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 69 eligible originals and added 0 new post(s).
-- `2026-09-07T16:46:37Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T16:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 69 eligible originals and added 1 new post(s).
-- `2026-09-07T16:26:21Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest gasoline package remains ready. Postiz query at 2026-09-07T16:26:21Z found X delivery cmtreano20dp3lm0y93qswru7 in ERROR state with releaseURL null; no accepted task was retried. Circuit breaker active until 2026-09-07T17:26:21Z.
-- `2026-09-07T16:26:08Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
