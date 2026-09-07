@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:26:04Z",
+  "generatedAt": "2026-09-07T09:50:51Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -765,50 +765,6 @@
         "factualClarity": 4
       },
       "editorialScore": 13,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 22,
-      "benchmarkPostId": "2095811048884310350",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260904-just-in-reports-and-rumours-suggest-some-users-m-10350",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095811048884310350",
-      "originalText": "JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market launchpad $nSTOCKS amid ongoing drama involving Vlad Tenev and Adam Aron. https://t.co/QO2Y7H3c5D",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRXRCkCWQAUsxwV.jpg",
-        "https://pbs.twimg.com/media/HRXRCkBWsAABJpq.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRXRCkCWQAUsxwV.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095811048884310350-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRXRCkBWsAABJpq.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095811048884310350-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 281,
-        "replies": 58,
-        "reposts": 48,
-        "quotes": 4,
-        "views": 30211
-      },
-      "postedAt": "Fri Sep 04 09:47:46 +0000 2026",
-      "score": 40791,
-      "heatScore": 40791,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     }
   ]

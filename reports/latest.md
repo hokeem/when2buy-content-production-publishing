@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T09:26:04.341461+00:00`
+- 状态更新：`2026-09-07T09:50:51.899806+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**294**
 - 待选选题：**253**
@@ -1935,6 +1935,8 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 
 ## 最近运行
 
+- `2026-09-07T09:50:51Z` **queue / succeeded** — Prepared 21 one-to-one production candidate(s).
+- `2026-09-07T09:50:51Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-07T09:26:04Z` **queue / succeeded** — Prepared 22 one-to-one production candidate(s).
 - `2026-09-07T09:26:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T09:21:51.454948+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued.
@@ -1953,5 +1955,3 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 - `2026-09-07T08:53:08.715271+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T08:51:29.411560+00:00` **produce / succeeded** — Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.
 - `2026-09-07T08:46:37Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
-- `2026-09-07T08:45:56Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
-- `2026-09-07T08:45:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
