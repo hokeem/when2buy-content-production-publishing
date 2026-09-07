@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T05:35:49.569967+00:00`
+- 状态更新：`2026-09-07T05:59:18.499145+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**292**
 - 待选选题：**251**
-- 待发布制作包：**127**
-- 已验证发布：**85**
+- 待发布制作包：**123**
+- 已验证发布：**89**
 
 ## 对标账号扫描
 
@@ -1707,19 +1707,19 @@ Market radar: @StockMKTNewz reports: This is my 2nd largest ETF holding ... What
 
 $AAPL stock is up more than 10x over the last decade.  When2Buy — your U.S. stock partner.
 
-### Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯
+### Nvidia gains more than 15,000% in a decade
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-nvidia-nvda-stock-is-up-by-more-than-15-000-over-96816/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-nvidia-decade-gain/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+$NVDA has gained more than 15,000% over the last decade.  When2Buy — your U.S. stock partner.
 
-### HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026 - Monday, Sep
+### U.S. market closures for the rest of 2026
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-here-are-all-the-weekdays-that-the-stock-market--47100/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-us-market-holidays/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+U.S. stock markets have three full-day closures left in 2026: Sep. 7, Nov. 26 and Dec. 25.  Early closes: Nov. 27 and Dec. 24.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i
 
@@ -1742,19 +1742,19 @@ Market radar: @StockMKTNewz reports: We are doing a free to enter NFL Pick em le
 
 Market radar: @StockMKTNewz reports: *THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### JUST IN: $BTC is 1% of global money - River.
+### Bitcoin reaches 1% of global money
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-just-in-btc-is-1-of-global-money-river-91967/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-btc-global-money/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: $BTC is 1% of global money - River.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+$BTC now represents 1% of global money.  When2Buy — your U.S. stock partner.
 
-### JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders.
+### Bitcoin odds put $50,000 first below 16%
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-just-in-less-than-16-chance-of-btc-hitting-50-00-68580/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-btc-kalshi-odds/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000,  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+Prediction markets put the chance of $BTC reaching $50,000 before $100,000 below 16%.  When2Buy — your U.S. stock partner.
 
 ### NEW: VC-backed Pokémon gacha site just launched. They’re offering 200% deposit bonuses to pull users
 
@@ -1874,9 +1874,22 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834296762011792) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834524735013203) |
+| Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096839822057115976) |
+| U.S. market closures for the rest of 2026 | 2026-09-07T05:56:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840008116420742) |
+| Bitcoin reaches 1% of global money | 2026-09-07T05:56:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840177251680334) |
+| Bitcoin odds put $50,000 first below 16% | 2026-09-07T05:57:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840363533312068) |
 
 ## 最近运行
 
+- `2026-09-07T05:59:18.498525+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
+- `2026-09-07T05:57:58.914906+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:57:13.952400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:56:35.337254+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:55:51.049161+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:55:10.480151+00:00` **produce / succeeded** — Rebuilt four selected financial packages from image-model visuals under the current standard. The intervening NFL-only source post was excluded from financial publication as off-topic; the promotional NFL Pick'em post was excluded.
+- `2026-09-07T05:46:34Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
+- `2026-09-07T05:45:50Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
+- `2026-09-07T05:45:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T05:35:49.569309+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
 - `2026-09-07T05:34:44.707463+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T05:34:17.295253+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1888,12 +1901,3 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 - `2026-09-07T05:26:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-07T05:22:55Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
 - `2026-09-07T05:22:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-07T05:07:19Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
-- `2026-09-07T05:07:19Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-07T01:13:23Z` **metrics / partial** — Appended daily public-X metric snapshots for all 80 verified published posts and regenerated both report artifacts. Direct public-X HTTP requests were blocked, so every new snapshot records null counters with attributable request-failure reasons. A visible browser check confirmed that public-X may omit zero-valued engagement counters; no values were inferred.
-- `2026-09-07T00:46:00+00:00` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Terminal panel blocker: report-hub registry access returned HTTP 401 after sourcing the required environment, and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed.
-- `2026-09-07T00:45:34.016496+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T00:44:58.656457+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T00:44:27.228834+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T00:43:55.233635+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T00:43:23.823375+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

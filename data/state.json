@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T05:35:49.569967+00:00",
+  "updatedAt": "2026-09-07T05:59:18.499145+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16622,40 +16622,53 @@
       "publishedAt": "2026-09-07T05:34:00.000Z"
     },
     {
-      "id": "pkg-20260907-nvidia-nvda-stock-is-up-by-more-than-15-000-over-96816",
+      "id": "pkg-20260907-nvidia-decade-gain",
       "benchmarkPostId": "2096679710545596816",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096679710545596816",
-      "title": "Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Nvidia gains more than 15,000% in a decade",
+      "status": "published",
+      "postText": "$NVDA has gained more than 15,000% over the last decade.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯"
+        "Nvidia $NVDA stock is up more than 15,000% over the last decade."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096679710545596816"
       ],
-      "imagePath": "deliverables/pkg-20260907-nvidia-nvda-stock-is-up-by-more-than-15-000-over-96816/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-07T00:42:45.481457+00:00"
+      "imagePath": "deliverables/pkg-20260907-nvidia-decade-gain/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:55:10.480000+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square entity-led NVIDIA AI chip and GPU-server visual with an accurate 15,000%+ decade-gain headline, near-black premium financial-news style, white type, controlled red accents, and a bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqttud00em9qk0yxv93eirw",
+      "publishedAt": "2026-09-07T05:55:00.000Z"
     },
     {
-      "id": "pkg-20260907-here-are-all-the-weekdays-that-the-stock-market--47100",
+      "id": "pkg-20260907-us-market-holidays",
       "benchmarkPostId": "2096673953204847100",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096673953204847100",
-      "title": "HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026 - Monday, Sep",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "U.S. market closures for the rest of 2026",
+      "status": "published",
+      "postText": "U.S. stock markets have three full-day closures left in 2026: Sep. 7, Nov. 26 and Dec. 25.\n\nEarly closes: Nov. 27 and Dec. 24.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026 - Monday, September 7th: Labor Day - Thursday, November 26th: Thanksgiving - Friday, December 25th: Christmas There are 2 more days this year where the stock market will close early at 1PM ET - Friday, November 27th - Thursday, December 24th"
+        "The U.S. stock market closure dates listed are September 7, November 26, and December 25, 2026.",
+        "Early closes listed are November 27 and December 24, 2026."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096673953204847100"
       ],
-      "imagePath": "deliverables/pkg-20260907-here-are-all-the-weekdays-that-the-stock-market--47100/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-07T00:42:45.701228+00:00"
+      "imagePath": "deliverables/pkg-20260907-us-market-holidays/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:55:10.480063+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: infographic-diagram. Square NYSE exterior and accurate 2026 market-closure schedule, near-black premium financial-news style, white type, controlled red accents, and a bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqtuskz0emaqk0ye1bhh06a",
+      "publishedAt": "2026-09-07T05:56:00.000Z"
     },
     {
       "id": "pkg-20260907-just-in-u-s-dollar-has-lost-97-of-its-purchasing-64944",
@@ -16714,40 +16727,52 @@
       "createdAt": "2026-09-07T00:42:46.327476+00:00"
     },
     {
-      "id": "pkg-20260907-just-in-btc-is-1-of-global-money-river-91967",
+      "id": "pkg-20260907-btc-global-money",
       "benchmarkPostId": "2096629612713291967",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096629612713291967",
-      "title": "JUST IN: $BTC is 1% of global money - River.",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC is 1% of global money - River.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "Bitcoin reaches 1% of global money",
+      "status": "published",
+      "postText": "$BTC now represents 1% of global money.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: $BTC is 1% of global money - River."
+        "Bitcoin is stated as 1% of global money."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096629612713291967"
       ],
-      "imagePath": "deliverables/pkg-20260907-just-in-btc-is-1-of-global-money-river-91967/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-07T00:42:46.514860+00:00"
+      "imagePath": "deliverables/pkg-20260907-btc-global-money/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:55:10.480087+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square entity-led Bitcoin and global financial-network visual with exact 1% of global money headline, near-black premium financial-news style, white type, controlled red accents, and a bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqtvolo0emdqk0y1km09u77",
+      "publishedAt": "2026-09-07T05:56:00.000Z"
     },
     {
-      "id": "pkg-20260907-just-in-less-than-16-chance-of-btc-hitting-50-00-68580",
+      "id": "pkg-20260907-btc-kalshi-odds",
       "benchmarkPostId": "2096619731239268580",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096619731239268580",
-      "title": "JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders.",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000,\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "Bitcoin odds put $50,000 first below 16%",
+      "status": "published",
+      "postText": "Prediction markets put the chance of $BTC reaching $50,000 before $100,000 below 16%.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders."
+        "The stated Kalshi probability of Bitcoin hitting $50,000 before $100,000 is less than 16%."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096619731239268580"
       ],
-      "imagePath": "deliverables/pkg-20260907-just-in-less-than-16-chance-of-btc-hitting-50-00-68580/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-07T00:42:46.681462+00:00"
+      "imagePath": "deliverables/pkg-20260907-btc-kalshi-odds/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:55:10.480110+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square entity-led Bitcoin prediction-market visual with exact less-than-16-percent chance of $50K first, near-black premium financial-news style, white type, controlled red accents, and a bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqtwgtb07d3lm0yo0212izd",
+      "publishedAt": "2026-09-07T05:57:00.000Z"
     },
     {
       "id": "pkg-20260907-new-vc-backed-pok-mon-gacha-site-just-launched-t-61427",
@@ -18282,6 +18307,74 @@
         "status": "active",
         "windowStart": "2026-09-07T05:34:00.000Z",
         "windowEnd": "2026-09-10T05:34:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096839822057115976",
+      "packageId": "pkg-20260907-nvidia-decade-gain",
+      "title": "Nvidia gains more than 15,000% in a decade",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:55:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096839822057115976",
+      "postizPostId": "cmtqttud00em9qk0yxv93eirw",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:55:00.000Z",
+        "windowEnd": "2026-09-10T05:55:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096840008116420742",
+      "packageId": "pkg-20260907-us-market-holidays",
+      "title": "U.S. market closures for the rest of 2026",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:56:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096840008116420742",
+      "postizPostId": "cmtqtuskz0emaqk0ye1bhh06a",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:56:00.000Z",
+        "windowEnd": "2026-09-10T05:56:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096840177251680334",
+      "packageId": "pkg-20260907-btc-global-money",
+      "title": "Bitcoin reaches 1% of global money",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:56:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096840177251680334",
+      "postizPostId": "cmtqtvolo0emdqk0y1km09u77",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:56:00.000Z",
+        "windowEnd": "2026-09-10T05:56:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096840363533312068",
+      "packageId": "pkg-20260907-btc-kalshi-odds",
+      "title": "Bitcoin odds put $50,000 first below 16%",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:57:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096840363533312068",
+      "postizPostId": "cmtqtwgtb07d3lm0yo0212izd",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:57:00.000Z",
+        "windowEnd": "2026-09-10T05:57:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -26542,6 +26635,91 @@
       "status": "blocked",
       "startedAt": "2026-09-07T05:35:49.569309+00:00",
       "completedAt": "2026-09-07T05:35:49.569309+00:00",
+      "summary": "Rendered local report artifacts; stable report update did not run.",
+      "reason": "Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed."
+    },
+    {
+      "id": "run-20260907T054550Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:45:50Z",
+      "completedAt": "2026-09-07T05:45:50Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T054550Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:45:50Z",
+      "completedAt": "2026-09-07T05:45:50Z",
+      "summary": "Prepared 70 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T054634Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:46:34Z",
+      "completedAt": "2026-09-07T05:46:34Z",
+      "summary": "Prepared 70 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T055510Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:55:10.480151+00:00",
+      "completedAt": "2026-09-07T05:55:10.480153+00:00",
+      "summary": "Rebuilt four selected financial packages from image-model visuals under the current standard.",
+      "reason": "The intervening NFL-only source post was excluded from financial publication as off-topic; the promotional NFL Pick'em post was excluded."
+    },
+    {
+      "id": "run-20260907T055551Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:55:51.049161+00:00",
+      "completedAt": "2026-09-07T05:55:51.049168+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T055635Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:56:35.337254+00:00",
+      "completedAt": "2026-09-07T05:56:35.337259+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T055713Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:57:13.952400+00:00",
+      "completedAt": "2026-09-07T05:57:13.952406+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T055758Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:57:58.914906+00:00",
+      "completedAt": "2026-09-07T05:57:58.914919+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T055918Z-report",
+      "mode": "report",
+      "status": "blocked",
+      "startedAt": "2026-09-07T05:59:18.498525+00:00",
+      "completedAt": "2026-09-07T05:59:18.498525+00:00",
       "summary": "Rendered local report artifacts; stable report update did not run.",
       "reason": "Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed."
     }
