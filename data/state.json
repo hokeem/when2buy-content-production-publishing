@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T11:58:47.454116+00:00",
+  "updatedAt": "2026-09-07T12:13:18.923034+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8284,6 +8284,54 @@
       "source": "apify",
       "isPinned": false,
       "capturedAt": "2026-09-07T11:52:46Z"
+    },
+    {
+      "id": "2096931241597567248",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096931241597567248",
+      "postedAt": "Mon Sep 07 11:59:01 +0000 2026",
+      "text": "Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 6798
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T12:06:05Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096929359596556570",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096929359596556570",
+      "postedAt": "Mon Sep 07 11:51:33 +0000 2026",
+      "text": "Sandisk $SNDK is currently the best performing stock in the NASDAQ 100 so far in 2026\n\n👑 Sandisk: +633%🟢 https://t.co/1pbrN0zBVy",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnJ-prbsAAMovN.jpg"
+      ],
+      "engagement": {
+        "likes": 56,
+        "replies": 14,
+        "reposts": 4,
+        "quotes": 3,
+        "views": 11267
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T12:06:05Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnJ-prbsAAMovN.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096929359596556570-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -13226,6 +13274,82 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096931241597567248",
+      "rank": 1,
+      "title": "Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026",
+      "benchmarkPostId": "2096931241597567248",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096931241597567248",
+      "score": 7158,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T12:06:06Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096929359596556570",
+      "rank": 2,
+      "title": "Sandisk $SNDK is currently the best performing stock in the NASDAQ 100 so far in 2026 👑 Sand…",
+      "benchmarkPostId": "2096929359596556570",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096929359596556570",
+      "score": 13327,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T12:06:06Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096926573056151788",
+      "rank": 3,
+      "title": "Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026 💩 App…",
+      "benchmarkPostId": "2096926573056151788",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096926573056151788",
+      "score": 6771,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T12:06:06Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096923774364844127",
+      "rank": 4,
+      "title": "The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 202…",
+      "benchmarkPostId": "2096923774364844127",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096923774364844127",
+      "score": 9637,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T12:06:06Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -17918,6 +18042,77 @@
         "completedAt": "2026-09-07T11:58:47Z",
         "outcome": "terminal_error_no_public_x_url"
       }
+    },
+    {
+      "id": "pkg-20260907-sandisk-sp500-leader",
+      "benchmarkPostId": "2096931241597567248",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096931241597567248",
+      "title": "Sandisk $SNDK leads the S&P 500 in 2026",
+      "status": "failed",
+      "postText": "Sandisk $SNDK is the S&P 500's best-performing stock so far in 2026.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Sandisk $SNDK is the best-performing S&P 500 stock so far in 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096931241597567248"
+      ],
+      "imagePath": "deliverables/pkg-20260907-sandisk-sp500-leader/when2buy-image-model.png",
+      "createdAt": "2026-09-07T12:08:42.367787Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual for When2Buy. Primary request: an original premium editorial visual about SanDisk $SNDK leading the S&P 500 in 2026. Scene/backdrop: cinematic near-black institutional trading environment, subtle market architecture, deep charcoal panels. Subject: one elegant photorealistic SanDisk-style flash-memory / data-storage chip module standing upright on a dark reflective desk, with a restrained luminous upward trajectory in the background. Make the storage technology clearly dominant and concrete, not an abstract radar or generic trading background. Style/medium: high-end financial-news editorial photography, sophisticated, crisp, realistic. Composition/framing: exact 1:1 square; main chip module fills the left and center; reserve a completely clean dark lower-right corner for a circular logo to be composited later. Lighting/mood: dramatic studio rim light, confident and premium. Color palette: near-black, white highlights, restrained deep red accent only. Text: no readable text, numbers, tickers, logos, brands, watermarks, sources, URLs, disclaimer, or CTA anywhere. Constraints: one complete entity-led scene; no pure typography card; no people; no damaged objects; clean unoccupied lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T12:08:42.367813Z",
+          "checks": [
+            "square",
+            "entity-led",
+            "no readable generated text",
+            "no source attribution",
+            "exact logo composited once",
+            "logo clear space",
+            "no damage"
+          ]
+        }
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on the safe retry; no public x.com URL was issued."
+    },
+    {
+      "id": "pkg-20260907-sandisk-nasdaq100-leader",
+      "benchmarkPostId": "2096929359596556570",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096929359596556570",
+      "title": "Sandisk $SNDK leads the Nasdaq-100 in 2026",
+      "status": "failed",
+      "postText": "Sandisk $SNDK leads the Nasdaq-100 so far in 2026, up 633%.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Sandisk $SNDK is the best-performing Nasdaq-100 stock so far in 2026.",
+        "Sandisk is up 633% in 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096929359596556570"
+      ],
+      "imagePath": "deliverables/pkg-20260907-sandisk-nasdaq100-leader/when2buy-image-model.png",
+      "createdAt": "2026-09-07T12:08:43.180287Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual for When2Buy. Primary request: an original premium editorial visual about SanDisk $SNDK leading the Nasdaq-100 in 2026 with a 633% gain. Scene/backdrop: cinematic near-black data-storage laboratory and institutional market environment, deep charcoal hardware racks. Subject: a single high-end photorealistic flash-memory chip module and a translucent ascending market trajectory that feels decisive and steep, with 633 luminous small data points represented only as non-readable marks. Make the storage technology clearly dominant and concrete, not an abstract radar or generic trading background. Style/medium: high-end financial-news editorial photography, sophisticated, crisp, realistic. Composition/framing: exact 1:1 square; chip module occupies the center-right; reserve a completely clean dark lower-right corner for a circular logo to be composited later. Lighting/mood: dramatic studio rim light, premium and energetic. Color palette: near-black, white highlights, restrained deep red accent only. Text: no readable text, numbers, tickers, logos, brands, watermarks, sources, URLs, disclaimer, or CTA anywhere. Constraints: one complete entity-led scene; no pure typography card; no people; no damaged objects; clean unoccupied lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T12:08:43.180310Z",
+          "checks": [
+            "square",
+            "entity-led",
+            "no readable generated text",
+            "no source attribution",
+            "exact logo composited once",
+            "logo clear space",
+            "no damage"
+          ]
+        }
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     }
   ],
   "posts": [
@@ -34329,6 +34524,73 @@
       "completedAt": "2026-09-07T11:58:47Z",
       "summary": "Five timestamp-first packages attempted independently; none reached PUBLISHED with a public X URL.",
       "reason": "Postiz returned ERROR or remained queued without a public x.com release URL after safe retries."
+    },
+    {
+      "id": "run-20260907T120605Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:06:05Z",
+      "completedAt": "2026-09-07T12:06:05Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T120606Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:06:06Z",
+      "completedAt": "2026-09-07T12:06:06Z",
+      "summary": "Prepared 25 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T120843Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:08:43.180319Z",
+      "completedAt": "2026-09-07T12:08:43.180319Z",
+      "summary": "Produced the two newly collected timestamp-first Sandisk packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T120843Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:08:43Z",
+      "completedAt": "2026-09-07T12:08:43Z",
+      "summary": "Prepared 25 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T121126Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T12:11:26.882816+00:00",
+      "completedAt": "2026-09-07T12:11:26.882816+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on the safe retry; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T121256Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T12:12:56.517475+00:00",
+      "completedAt": "2026-09-07T12:12:56.517475+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T121318Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:13:18Z",
+      "completedAt": "2026-09-07T12:13:18Z",
+      "summary": "Prepared 24 one-to-one production candidate(s).",
+      "reason": ""
     }
   ]
 }

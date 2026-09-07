@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T11:58:47.454116+00:00`
+- 状态更新：`2026-09-07T12:13:18.923034+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**303**
-- 待选选题：**260**
+- 对标帖子快照：**305**
+- 待选选题：**264**
 - 待发布制作包：**82**
 - 已验证发布：**127**
 
@@ -11,6 +11,8 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 11:51:33 +0000 2026 | Sandisk $SNDK is currently the best performing stock in the NASDAQ 100 so far in 2026  👑 Sandisk: +633%🟢 https://t.co/1pbrN0zBVy | [X](https://x.com/StockMKTNewz/status/2096929359596556570) |
+| @StockMKTNewz | Mon Sep 07 11:59:01 +0000 2026 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | [X](https://x.com/StockMKTNewz/status/2096931241597567248) |
 | @StockMKTNewz | Mon Sep 07 11:29:21 +0000 2026 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 2026  (Trade Desk stock is being removed from the S&amp;P 500 later this month) https://t.co/k4QNpi5z3u | [X](https://x.com/StockMKTNewz/status/2096923774364844127) |
 | @StockMKTNewz | Mon Sep 07 11:40:28 +0000 2026 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026  💩 Applovin: -52%🔴 https://t.co/aFQEEt4V64 | [X](https://x.com/StockMKTNewz/status/2096926573056151788) |
 | @WhaleInsider | Mon Sep 07 11:17:41 +0000 2026 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is followed by Vlad himself. https://t.co/PjRkmjSW0E | [X](https://x.com/WhaleInsider/status/2096920838301782244) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Sun Sep 06 20:17:09 +0000 2026 | An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed into nearby vehicles  https://t.co/MKcQFvErof | [X](https://x.com/StockMKTNewz/status/2096694211605147791) |
 | @StockMKTNewz | Sun Sep 06 20:43:30 +0000 2026 | Nvidia $NVDA CEO Jensen Huang just said:  “AGI has arrived.” https://t.co/VQ3V6CM1CJ | [X](https://x.com/StockMKTNewz/status/2096700842380341575) |
 | @StockMKTNewz | Sun Sep 06 21:54:28 +0000 2026 | Robinhood Chain $HOOD generated more than $8 Million in fees on Friday | [X](https://x.com/StockMKTNewz/status/2096718702703935494) |
-| @WhaleInsider | Sun Sep 06 06:53:38 +0000 2026 | JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Arbdata. https://t.co/94dHImOGy8 | [X](https://x.com/WhaleInsider/status/2096492002141516162) |
-| @WhaleInsider | Sun Sep 06 07:53:04 +0000 2026 | JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock accounts powered by ERC-6551. https://t.co/nMQu3Kl3Kq | [X](https://x.com/WhaleInsider/status/2096506955866976379) |
 
 ## 选题推荐
 
@@ -63,6 +63,7 @@
 | 1 | JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in… | WhaleInsider | 17784 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. … | WhaleInsider | 13501 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​… | WhaleInsider | 11350 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | StockMKTNewz | 7158 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -76,6 +77,7 @@
 | 2 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” https://t.co/VQ3V6CM1CJ | StockMKTNewz | 88661 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Nike $NKE was added to the S&amp;P 100 in December 2008 Nike is being removed from the S&amp… | StockMKTNewz | 260042 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is f… | WhaleInsider | 16648 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Sandisk $SNDK is currently the best performing stock in the NASDAQ 100 so far in 2026 👑 Sand… | StockMKTNewz | 13327 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -88,6 +90,7 @@
 | 3 | REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day | StockMKTNewz | 15907 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed i… | StockMKTNewz | 47654 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Trade Desk $TTD stock was trading around $80 when it was added to the S&amp;P 500 in July 20… | StockMKTNewz | 74396 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026 💩 App… | StockMKTNewz | 6771 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -99,6 +102,7 @@
 | 4 | Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloombe… | StockMKTNewz | 18405 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | Nvidia chips are being used to settle wars "When fragile peace talks between Armenia and Aze… | StockMKTNewz | 30936 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | The 🇺🇸 National Debt currently sits at $40,117,045,127,072.57 https://t.co/pbHZQhQaqd | StockMKTNewz | 51589 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 202… | StockMKTNewz | 9637 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1870,6 +1874,20 @@ $APP is the Nasdaq-100's worst-performing stock so far in 2026, down 52%.  When2
 
 $TTD is the S&P 500's worst-performing stock so far in 2026.  The Trade Desk is set to leave the index later this month.  When2Buy — your U.S. stock partner.
 
+### Sandisk $SNDK leads the S&P 500 in 2026
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-sandisk-sp500-leader/when2buy-image-model.png`
+
+Sandisk $SNDK is the S&P 500's best-performing stock so far in 2026.  When2Buy — your U.S. stock partner.
+
+### Sandisk $SNDK leads the Nasdaq-100 in 2026
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-sandisk-nasdaq100-leader/when2buy-image-model.png`
+
+Sandisk $SNDK leads the Nasdaq-100 so far in 2026, up 633%.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2005,6 +2023,13 @@ $TTD is the S&P 500's worst-performing stock so far in 2026.  The Trade Desk is 
 
 ## 最近运行
 
+- `2026-09-07T12:13:18Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
+- `2026-09-07T12:12:56.517475+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T12:11:26.882816+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on the safe retry; no public x.com URL was issued.
+- `2026-09-07T12:08:43Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
+- `2026-09-07T12:08:43.180319Z` **produce / succeeded** — Produced the two newly collected timestamp-first Sandisk packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-07T12:06:06Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
+- `2026-09-07T12:06:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
 - `2026-09-07T11:58:47Z` **publish / partial** — Five timestamp-first packages attempted independently; none reached PUBLISHED with a public X URL. Postiz returned ERROR or remained queued without a public x.com release URL after safe retries.
 - `2026-09-07T11:52:46Z` **produce / succeeded** — Produced the first five timestamp-first packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-07T11:33:18.489743+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
@@ -2018,10 +2043,3 @@ $TTD is the S&P 500's worst-performing stock so far in 2026.  The Trade Desk is 
 - `2026-09-07T11:06:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 0 new post(s).
 - `2026-09-07T10:52:40Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T10:52:14.672084+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL after two safe delivery attempts; no public x.com URL was issued.
-- `2026-09-07T10:52:14.540640+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL after two safe delivery attempts; no public x.com URL was issued.
-- `2026-09-07T10:52:14.386707+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL after two safe delivery attempts; no public x.com URL was issued.
-- `2026-09-07T10:52:14.211596+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL after two safe delivery attempts; no public x.com URL was issued.
-- `2026-09-07T10:47:01Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T10:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T10:45:57.577354+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
-- `2026-09-07T10:45:45Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
