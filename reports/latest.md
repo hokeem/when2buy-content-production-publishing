@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T14:25:32.550037+00:00`
+- 状态更新：`2026-09-07T14:29:54.731020+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**317**
-- 待选选题：**276**
-- 待发布制作包：**83**
+- 对标帖子快照：**318**
+- 待选选题：**277**
+- 待发布制作包：**84**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 14:23:57 +0000 2026 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026  👑 Merck $MRK: +43%🟢 https://t.co/APN8kkaku9 | [X](https://x.com/StockMKTNewz/status/2096967712274628776) |
 | @StockMKTNewz | Mon Sep 07 14:13:19 +0000 2026 | IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026  🥈 $IBM: -21%🔴 https://t.co/PqywBvlPMj | [X](https://x.com/StockMKTNewz/status/2096965037080334439) |
 | @WhaleInsider | Mon Sep 07 13:47:22 +0000 2026 | JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the meme to onboard a wider audience. Set to launch tomorrow at 5PM UTC on PumpFun. https://t.co/fP2YpOUsnw | [X](https://x.com/WhaleInsider/status/2096958507513680239) |
 | @WhaleInsider | Mon Sep 07 13:51:03 +0000 2026 | JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin.  “Wall-breaking season at Strive.” https://t.co/CS9xH0zF4e | [X](https://x.com/WhaleInsider/status/2096959433909608475) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Sun Sep 06 13:35:42 +0000 2026 | JUST IN: Altcoins flip $BTC in open interest. https://t.co/Pwsg0gJnlH | [X](https://x.com/WhaleInsider/status/2096593182309982396) |
 | @StockMKTNewz | Sun Sep 06 14:57:48 +0000 2026 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relative to its peers https://t.co/OrXVmggo3o | [X](https://x.com/StockMKTNewz/status/2096613844223246653) |
 | @WhaleInsider | Sun Sep 06 15:11:21 +0000 2026 | NEW: VC-backed Pokémon gacha site https://t.co/LGPj99uimp just launched.  They’re offering 200% deposit bonuses to pull users from rivals as the market heats up, burning investor cash for market share. Collectors win. https://t.co/VE5zzNAWe8 | [X](https://x.com/WhaleInsider/status/2096617256641761427) |
-| @WhaleInsider | Sun Sep 06 15:21:11 +0000 2026 | JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders. https://t.co/eu7ZKHRdbb | [X](https://x.com/WhaleInsider/status/2096619731239268580) |
 
 ## 选题推荐
 
@@ -71,6 +71,7 @@
 | 1 | The European Union 🇪🇺 is investing $232 million in Greenland 🇬🇱, part of the bloc’s campaign… | StockMKTNewz | 5407 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin. “Wall-breaking season at… | WhaleInsider | 18389 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026 🥈 $IBM… | StockMKTNewz | 10151 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026 👑 Merck $… | StockMKTNewz | 5693 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1984,6 +1985,13 @@ $BIPOLAR is gaining attention on TikTok ahead of its PumpFun launch tomorrow at 
 
 $IBM is the Dow's second-worst performer so far in 2026, down 21%.  When2Buy — your U.S. stock partner.
 
+### Merck leads the Dow in 2026
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-merck-dow-43-performance/when2buy-image-model.png`
+
+$MRK is the Dow's best-performing stock in 2026, up 43% so far.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2124,6 +2132,11 @@ $IBM is the Dow's second-worst performer so far in 2026, down 21%.  When2Buy —
 
 ## 最近运行
 
+- `2026-09-07T14:29:54Z` **full / partial** — Apify benchmark collection, media archival, timestamp-first queue rebuild, and Merck package production completed; publishing was withheld by the X delivery circuit breaker. Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed delivery at 2026-09-07T14:11:00Z); no submission attempted and newest package remains ready.
+- `2026-09-07T14:29:33Z` **queue / succeeded** — Prepared 29 one-to-one production candidate(s).
+- `2026-09-07T14:29:17Z` **produce / succeeded** — Produced the newest timestamp-first Merck benchmark package with verified financial context, original image-model visual, exact-logo compositing, and QA metadata.
+- `2026-09-07T14:27:30Z` **queue / succeeded** — Prepared 29 one-to-one production candidate(s).
+- `2026-09-07T14:27:30Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
 - `2026-09-07T14:25:32Z` **publish / partial** — No Postiz submission: 60-minute X delivery circuit breaker is active; newest package remains ready. Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed at 2026-09-07T14:11:00Z); do not submit another post before 2026-09-07T15:23:28Z.
 - `2026-09-07T14:25:13Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T14:25:13Z` **produce / succeeded** — Produced the newest timestamp-first IBM benchmark package with an inspected image-model visual and exact-logo compositing.
@@ -2139,8 +2152,3 @@ $IBM is the Dow's second-worst performer so far in 2026, down 21%.  When2Buy —
 - `2026-09-07T13:46:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-07T13:31:30.087213+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtra3sp90caolm0yyn74mi51 but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.
 - `2026-09-07T13:31:29.952288+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtra2z6m0jvxqk0y78xkxdge but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.
-- `2026-09-07T13:28:59Z` **produce / succeeded** — Produced two new timestamp-first benchmark packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-07T13:26:08Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
-- `2026-09-07T13:26:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
-- `2026-09-07T13:09:04Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
-- `2026-09-07T13:09:04.280526+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz queued cmtr9atqr0bzclm0yvljy2e79 without PUBLISHED or a public x.com release URL after two safe delivery attempts; no delivery was verified.

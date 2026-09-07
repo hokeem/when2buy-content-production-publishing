@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T14:25:32.550037+00:00",
+  "updatedAt": "2026-09-07T14:29:54.731020+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8672,7 +8672,42 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-07T14:23:28Z"
+      "capturedAt": "2026-09-07T14:23:28Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnqlgsbYAAHfYn.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096965037080334439-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096967712274628776",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096967712274628776",
+      "postedAt": "Mon Sep 07 14:23:57 +0000 2026",
+      "text": "Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026\n\n👑 Merck $MRK: +43%🟢 https://t.co/APN8kkaku9",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnqw_NWgAAwHGl.jpg"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 4,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 5293
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T14:27:30Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnqw_NWgAAwHGl.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096967712274628776-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -13919,6 +13954,25 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096967712274628776",
+      "rank": 1,
+      "title": "Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026 👑 Merck $…",
+      "benchmarkPostId": "2096967712274628776",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096967712274628776",
+      "score": 5693,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T14:27:30Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -19072,6 +19126,43 @@
             "exact repository logo composited once",
             "logo clear space preserved",
             "no damaged or inconsistent subject"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260907-merck-dow-43-performance",
+      "benchmarkPostId": "2096967712274628776",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096967712274628776",
+      "title": "Merck leads the Dow in 2026",
+      "status": "ready",
+      "postText": "$MRK is the Dow's best-performing stock in 2026, up 43% so far.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Merck is the best-performing Dow Jones stock so far in 2026.",
+        "$MRK is up 43% so far in 2026."
+      ],
+      "verificationSources": [
+        "https://markets.financialcontent.com/wss/quote/detailedquote?Symbol=NY%3AMRK",
+        "https://www.merck.com/investor-relations/stock-info/"
+      ],
+      "imagePath": "deliverables/pkg-20260907-merck-dow-43-performance/when2buy-image-model.png",
+      "createdAt": "2026-09-07T14:29:17Z",
+      "visualProduction": {
+        "method": "image_model",
+        "generationPrompt": "Use case: stylized-concept; square X visual for Merck ($MRK) leading the Dow in 2026: near-black institutional pharmaceutical research campus at night, molecule-inspired structures and a rising market trajectory, white highlights, restrained deep red with a minimal green uptrend; no text, logos, letters, numbers, watermark, social UI, radar, or typography card; uncluttered lower-right logo-safe area.",
+        "prompt": "Use case: stylized-concept; square X visual for Merck ($MRK) leading the Dow in 2026: near-black institutional pharmaceutical research campus at night, molecule-inspired structures and a rising market trajectory, white highlights, restrained deep red with a minimal green uptrend; no text, logos, letters, numbers, watermark, social UI, radar, or typography card; uncluttered lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T14:29:17Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led pharmaceutical research scene",
+            "no generated readable text, ticker, numbers, or source attribution",
+            "premium near-black palette with restrained red and semantically positive green accent",
+            "exact repository logo composited once at lower-right with clear space",
+            "no generic radar or pure-text treatment",
+            "no visible image damage"
           ]
         }
       }
@@ -43162,6 +43253,61 @@
         "active": true,
         "observedAt": "2026-09-07T14:23:28Z",
         "expiresAt": "2026-09-07T15:23:28Z",
+        "deliveryReason": "ERROR delivery without a public release URL"
+      }
+    },
+    {
+      "id": "run-20260907T142730Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:27:30Z",
+      "completedAt": "2026-09-07T14:27:30Z",
+      "summary": "Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T142730Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:27:30Z",
+      "completedAt": "2026-09-07T14:27:30Z",
+      "summary": "Prepared 29 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T142917Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:29:17Z",
+      "completedAt": "2026-09-07T14:29:17Z",
+      "summary": "Produced the newest timestamp-first Merck benchmark package with verified financial context, original image-model visual, exact-logo compositing, and QA metadata.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T142933Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:29:33Z",
+      "completedAt": "2026-09-07T14:29:33Z",
+      "summary": "Prepared 29 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T142954Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T14:29:54Z",
+      "completedAt": "2026-09-07T14:29:54Z",
+      "summary": "Apify benchmark collection, media archival, timestamp-first queue rebuild, and Merck package production completed; publishing was withheld by the X delivery circuit breaker.",
+      "reason": "Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed delivery at 2026-09-07T14:11:00Z); no submission attempted and newest package remains ready.",
+      "circuitBreaker": {
+        "active": true,
+        "observedAt": "2026-09-07T14:29:54Z",
+        "expiresAt": "2026-09-07T15:29:54Z",
         "deliveryReason": "ERROR delivery without a public release URL"
       }
     }
