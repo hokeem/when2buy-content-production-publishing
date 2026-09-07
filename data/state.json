@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T13:53:39.883583+00:00",
+  "updatedAt": "2026-09-07T14:12:49.011184+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8584,6 +8584,74 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096959433909608475",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096959433909608475",
+      "postedAt": "Mon Sep 07 13:51:03 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin.\n\n“Wall-breaking season at Strive.” https://t.co/CS9xH0zF4e",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnlfTSXUAAs6nW.jpg",
+        "https://pbs.twimg.com/media/HRnlfT5bsAA_s47.jpg"
+      ],
+      "engagement": {
+        "likes": 51,
+        "replies": 29,
+        "reposts": 9,
+        "quotes": 4,
+        "views": 15519
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T14:05:56Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnlfTSXUAAs6nW.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096959433909608475-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnlfT5bsAA_s47.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096959433909608475-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096958507513680239",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096958507513680239",
+      "postedAt": "Mon Sep 07 13:47:22 +0000 2026",
+      "text": "JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the meme to onboard a wider audience. Set to launch tomorrow at 5PM UTC on PumpFun. https://t.co/fP2YpOUsnw",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnkesGbEAAUr6x.jpg",
+        "https://pbs.twimg.com/amplify_video_thumb/2096958317297901568/img/On4mzymi11Yk3_y0.jpg"
+      ],
+      "engagement": {
+        "likes": 77,
+        "replies": 34,
+        "reposts": 15,
+        "quotes": 3,
+        "views": 18018
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T14:05:56Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnkesGbEAAUr6x.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096958507513680239-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096958317297901568/img/On4mzymi11Yk3_y0.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096958507513680239-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -13773,6 +13841,44 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096959433909608475",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin. “Wall-breaking season at…",
+      "benchmarkPostId": "2096959433909608475",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096959433909608475",
+      "score": 18389,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T14:05:56Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096958507513680239",
+      "rank": 2,
+      "title": "JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the m…",
+      "benchmarkPostId": "2096958507513680239",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096958507513680239",
+      "score": 21848,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T14:05:56Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -18820,6 +18926,79 @@
         }
       },
       "deliveryError": "Postiz returned state=ERROR for post cmtravv0q0cj4lm0yt8nsz21t at 2026-09-07T13:52:00Z with no releaseURL or releaseId; no public x.com URL was issued, so delivery was not published and is terminal."
+    },
+    {
+      "id": "pkg-20260907-strive-bitcoin-buying",
+      "benchmarkPostId": "2096959433909608475",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096959433909608475",
+      "title": "Strive CEO hints at more Bitcoin buying",
+      "status": "failed",
+      "postText": "Strive's CEO hinted that the public company may buy more Bitcoin.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Strive is a public company.",
+        "Its CEO hinted at buying more Bitcoin."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096959433909608475"
+      ],
+      "imagePath": "deliverables/pkg-20260907-strive-bitcoin-buying/when2buy-image-model.png",
+      "createdAt": "2026-09-07T14:08:53.229075+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Premium 1:1 near-black institutional finance scene: physical Bitcoin in the foreground, dark glass corporate environment, restrained red rim light, empty lower-right logo-safe area; no text, logos, source attribution, social UI, or generic radar imagery.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T14:08:53.229105+00:00",
+          "checks": [
+            "square 1254x1254",
+            "entity-led visual",
+            "no readable generated text",
+            "no generic radar image",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no damaged or inconsistent subject"
+          ]
+        }
+      },
+      "deliveryError": "Postiz returned state=ERROR for cmtrbgr5k0kfoqk0yqxkn5jw4 and cmtrbhsjv0cqolm0ygt1oefr3 after two safe attempts; neither issued a releaseURL or public x.com URL."
+    },
+    {
+      "id": "pkg-20260907-bipolar-pumpfun-launch",
+      "benchmarkPostId": "2096958507513680239",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096958507513680239",
+      "title": "BIPOLAR PumpFun launch",
+      "status": "failed",
+      "postText": "$BIPOLAR is gaining attention on TikTok ahead of its PumpFun launch tomorrow at 5 PM UTC.\n\nCreators are promoting the meme to reach a wider audience.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "$BIPOLAR is gaining attention on TikTok.",
+        "Creators are promoting it to a wider audience.",
+        "The token is set to launch tomorrow at 5 PM UTC on PumpFun."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096958507513680239"
+      ],
+      "imagePath": "deliverables/pkg-20260907-bipolar-pumpfun-launch/when2buy-image-model.png",
+      "createdAt": "2026-09-07T14:08:53.229137+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Premium 1:1 near-black digital-market scene: a red-and-white split-orbit token lifting from a sleek launch platform, subtle blurred vertical phone-light pattern, empty lower-right logo-safe area; no text, logos, source attribution, social UI, or generic radar imagery.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T14:08:53.229140+00:00",
+          "checks": [
+            "square 1254x1254",
+            "entity-led visual",
+            "no readable generated text",
+            "no generic radar image",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no damaged or inconsistent subject"
+          ]
+        }
+      },
+      "deliveryError": "Postiz returned state=ERROR for cmtrbj8hp0kgkqk0yqdfkbojr and cmtrbkj5k0crclm0yv4jrzvxd after two safe attempts; neither issued a releaseURL or public x.com URL."
     }
   ],
   "posts": [
@@ -42805,6 +42984,55 @@
       "completedAt": "2026-09-07T13:53:39.882838+00:00",
       "summary": "Postiz delivery reached a terminal error after safe retries.",
       "reason": "Postiz returned state=ERROR for post cmtravv0q0cj4lm0yt8nsz21t at 2026-09-07T13:52:00Z with no releaseURL or releaseId; no public x.com URL was issued, so delivery was not published and is terminal."
+    },
+    {
+      "id": "run-20260907T140556Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:05:56Z",
+      "completedAt": "2026-09-07T14:05:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T140556Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:05:56Z",
+      "completedAt": "2026-09-07T14:05:56Z",
+      "summary": "Prepared 27 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T140853Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:08:53.229176+00:00",
+      "completedAt": "2026-09-07T14:08:53.229178+00:00",
+      "summary": "Produced the two newest timestamp-first benchmark items with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T141056Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T14:10:56.569394+00:00",
+      "completedAt": "2026-09-07T14:10:56.569394+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR for cmtrbgr5k0kfoqk0yqxkn5jw4 and cmtrbhsjv0cqolm0ygt1oefr3 after two safe attempts; neither issued a releaseURL or public x.com URL."
+    },
+    {
+      "id": "run-20260907T141249Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T14:12:49.009945+00:00",
+      "completedAt": "2026-09-07T14:12:49.009945+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR for cmtrbj8hp0kgkqk0yqdfkbojr and cmtrbkj5k0crclm0yv4jrzvxd after two safe attempts; neither issued a releaseURL or public x.com URL."
     }
   ]
 }
