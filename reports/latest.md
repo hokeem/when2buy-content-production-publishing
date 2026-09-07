@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T23:28:14.103634+00:00`
+- 状态更新：`2026-09-07T23:49:51.690828+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**343**
 - 待选选题：**301**
@@ -2168,7 +2168,7 @@ ChatGPT Work can now pick up on the details that make a user's writing sound lik
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 89 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
-| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 76 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
+| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 79 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
 | September market calendar | 2026-09-07T08:33:00.000Z | 55 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
 | Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 51 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
@@ -2296,6 +2296,11 @@ ChatGPT Work can now pick up on the details that make a user's writing sound lik
 
 ## 最近运行
 
+- `2026-09-07T23:45:31Z` **full / partial** — Apify collection, hourly 72-hour metrics, timestamp-first queue rebuild, and one newest-package Postiz probe completed; the accepted delivery remains QUEUE without a public X URL. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted at 2026-09-07T23:48:00Z and remained QUEUE with releaseURL null at the final check; it was not retried.
+- `2026-09-07T23:46:38Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
+- `2026-09-07T23:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
+- `2026-09-07T23:46:31Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
+- `2026-09-07T23:46:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T23:28:14Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T23:27:47Z` **produce / succeeded** — Produced two newest eligible packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-07T23:25:54Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
@@ -2311,8 +2316,3 @@ ChatGPT Work can now pick up on the details that make a user's writing sound lik
 - `2026-09-07T22:26:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
 - `2026-09-07T22:07:49Z` **full / partial** — Apify benchmark collection, media archival, newest-first queue rebuild, 72-hour metrics collection, and report preparation completed; no Postiz submission was made while the delivery circuit breaker was active. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried. The 60-minute delivery check also found ERROR delivery cmtrr3ez70i9qlm0yxzylqhrl without a public release URL. Circuit breaker remains active until 2026-09-07T22:47:29Z.
 - `2026-09-07T22:06:36.156190+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
-- `2026-09-07T22:06:31Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-07T22:06:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T22:06:20.246222+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
-- `2026-09-07T22:06:15Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
-- `2026-09-07T21:47:29Z` **full / partial** — Apify collection, media archival, queue rebuild, 72-hour metrics collection, and the sole newest-package Postiz probe completed; publication did not produce a verified public X URL. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:25:54Z",
+  "generatedAt": "2026-09-07T23:46:38Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -7,8 +7,8 @@
       "rank": 1,
       "benchmarkPostId": "2097101124708794712",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260908-tesla-buffalo-supercharger-manufacturing",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097101124708794712",
       "originalText": "Tesla $TSLA posted this today:\n\n“Superchargers are made in Buffalo, New York.” https://t.co/nZfyJAXR55",
       "originalMediaUrls": [
@@ -45,8 +45,8 @@
       "rank": 2,
       "benchmarkPostId": "2097100701637763331",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260908-chatgpt-work-writing-style-awareness",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097100701637763331",
       "originalText": "OpenAI owned ChatGPT posted this today:\n\n“ChatGPT Work can now pick up on what makes your writing sound like… you. Your favorite phrases. Your very specific sign-off. your capitalizations quirks.” https://t.co/Bd4gtZfF1h",
       "originalMediaUrls": [
@@ -1348,13 +1348,13 @@
       "score": 6771,
       "heatScore": 6771,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 20,
+      "editorialScore": 19,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1386,13 +1386,13 @@
       "score": 9637,
       "heatScore": 9637,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
