@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T21:27:33.352480+00:00`
+- 状态更新：`2026-09-07T21:47:29.380464+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**341**
 - 待选选题：**299**
@@ -2154,7 +2154,7 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
 | $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 76 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
-| September market calendar | 2026-09-07T08:33:00.000Z | 54 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
+| September market calendar | 2026-09-07T08:33:00.000Z | 55 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
 | Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 51 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834296762011792) |
@@ -2173,7 +2173,7 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
-| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
+| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
@@ -2197,6 +2197,7 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
+| Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849491324551540) |
 | Robinhood Chain assets near $2B | 2026-09-07T06:35:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849998738788846) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
@@ -2206,7 +2207,6 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
 | Bitcoin odds put $50,000 first below 16% | 2026-09-07T05:57:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096840363533312068) |
 | Regular NFL season starts | 2026-09-07T06:15:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845001351393501) |
-| Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849491324551540) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
@@ -2228,12 +2228,12 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 | September ends | 2026-09-07T06:54:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854732249952423) |
 | Japan foreign securities sell-off | 2026-09-07T07:35:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865134606156168) |
 | Waiting for the stock market to open again | 2026-09-07T07:37:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865520805142643) |
+| Data centers and state approvals | 2026-09-07T07:54:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874871292936488) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last | 2026-09-07T07:36:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865395340976138) |
 | U.S. stock market performance today | 2026-09-07T07:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869428151611677) |
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
-| Data centers and state approvals | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -2280,6 +2280,9 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 
 ## 最近运行
 
+- `2026-09-07T21:47:29Z` **full / partial** — Apify collection, media archival, queue rebuild, 72-hour metrics collection, and the sole newest-package Postiz probe completed; publication did not produce a verified public X URL. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-07T21:46:15Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
+- `2026-09-07T21:46:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-07T21:26:12Z` **full / partial** — Apify collection and timestamp-first queue rebuild completed; the sole newest ready-package Postiz probe did not yield a verified public X URL. Postiz X delivery cmtrr3ez70i9qlm0yxzylqhrl was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T21:26:13Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
 - `2026-09-07T21:26:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2297,6 +2300,3 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 - `2026-09-07T20:13:10Z` **queue / succeeded** — Prepared 39 one-to-one production candidate(s).
 - `2026-09-07T20:13:09Z` **produce / succeeded** — Produced the U.S. market-reopening package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-07T20:11:33Z` **full / partial** — Apify collection, queue production, hourly metrics, and the sole newest-package Postiz probe completed; publication did not yield a verified public X URL. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-07T20:09:00Z` **produce / succeeded** — Produced the newest Nvidia U.K. AI-meeting package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-07T20:06:09Z` **queue / succeeded** — Prepared 39 one-to-one production candidate(s).
-- `2026-09-07T20:06:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
