@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T18:49:30.616208+00:00`
+- 状态更新：`2026-09-07T19:09:59.885720+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**335**
-- 待选选题：**293**
-- 待发布制作包：**95**
+- 对标帖子快照：**336**
+- 待选选题：**294**
+- 待发布制作包：**96**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 18:59:02 +0000 2026 | JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana integration for its privacy technology. https://t.co/oygVZqd2Fs | [X](https://x.com/WhaleInsider/status/2097036939798978783) |
 | @StockMKTNewz | Mon Sep 07 18:36:36 +0000 2026 | Iron ore broke back $100 a ton for the first time in seven weeks today - Bloomberg https://t.co/pENwkTLz0o | [X](https://x.com/StockMKTNewz/status/2097031294546784410) |
 | @WhaleInsider | Mon Sep 07 18:38:07 +0000 2026 | JUST IN: OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. https://t.co/cakvyoFMQO | [X](https://x.com/WhaleInsider/status/2097031676031336867) |
 | @StockMKTNewz | Mon Sep 07 17:52:20 +0000 2026 | 🇺🇸 President Trump posted this:  "I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself" https://t.co/jOpbjsCxzM | [X](https://x.com/StockMKTNewz/status/2097020156203397246) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Mon Sep 07 12:37:43 +0000 2026 | JUST IN: $INDEXR launches on Robinhood Chain as https://t.co/Y2sUgKxg2e memecoin index-fund token, bundling coins into one 1:1-backed, redeemable token. https://t.co/piTq8YX75P | [X](https://x.com/WhaleInsider/status/2096940978732953909) |
 | @WhaleInsider | Mon Sep 07 12:42:02 +0000 2026 | JUST IN: Robinhood Chain $HOOD generated $30,000,000 in revenue last week. https://t.co/1Wt4dbr1wB | [X](https://x.com/WhaleInsider/status/2096942065867202925) |
 | @StockMKTNewz | Mon Sep 07 12:42:42 +0000 2026 | Dell Technologies is currently the 3rd best performing stock in the S&amp;P 500 so far in 2026  🥉 $DELL: +316%🟢 https://t.co/wp7qNq9AS0 | [X](https://x.com/StockMKTNewz/status/2096942235312918559) |
-| @StockMKTNewz | Mon Sep 07 12:14:27 +0000 2026 | Tim Cook will reportedly not appear in Apple’s $AAPL new iPhone releases event on Wednesday - Mac Rumors   John Ternus will be in full control of the event https://t.co/j7a4PQHSOB | [X](https://x.com/StockMKTNewz/status/2096935123937640546) |
 
 ## 选题推荐
 
@@ -83,6 +83,7 @@
 | 1 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of Aug… | StockMKTNewz | 10641 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 🇺🇸 President Trump posted this: "I do this for our Country, not myself. I’ve made Hundreds o… | StockMKTNewz | 12246 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabi… | WhaleInsider | 15547 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana inte… | WhaleInsider | 14506 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2092,6 +2093,13 @@ OpenAI chief scientist Jakub Pachocki is calling for extreme caution as AI capab
 
 Iron ore moved back above $100 a ton today for the first time in seven weeks.  When2Buy — your U.S. stock partner.
 
+### $GHOST rises 86% amid Solana integration speculation
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-ghost-solana-privacy-speculation/when2buy-image-model.png`
+
+$GHOST surged 86% in 24 hours amid speculation its privacy technology could integrate with Solana.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2232,6 +2240,10 @@ Iron ore moved back above $100 a ton today for the first time in seven weeks.  W
 
 ## 最近运行
 
+- `2026-09-07T19:09:59Z` **full / partial** — Apify collection, benchmark-media archive, timestamp-first queue rebuild, and one new image-model package completed; the sole permitted Postiz probe did not produce a public X URL. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
+- `2026-09-07T19:07:21Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
+- `2026-09-07T19:05:58Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
+- `2026-09-07T19:05:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 1 new post(s).
 - `2026-09-07T18:49:30.615321Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-07T18:49:09Z` **queue / succeeded** — Prepared 36 one-to-one production candidate(s).
 - `2026-09-07T18:49:09.657078Z` **produce / succeeded** — Produced the two newly captured timestamp-first packages with inspected image-model visuals and exact-logo compositing.
@@ -2248,7 +2260,3 @@ Iron ore moved back above $100 a ton today for the first time in seven weeks.  W
 - `2026-09-07T18:05:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
 - `2026-09-07T17:49:31.558802Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics pass, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public x.com release URL; accepted task was not retried.
 - `2026-09-07T17:48:58.583958Z` **produce / succeeded** — Produced the newest timestamp-first U.S. stock-fund package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-07T17:46:09Z` **queue / succeeded** — Prepared 33 one-to-one production candidate(s).
-- `2026-09-07T17:46:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
-- `2026-09-07T17:32:05Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
-- `2026-09-07T17:31:31Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, metrics collection, and one newest-package Postiz probe completed; no public X release was verified. Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public release URL; accepted task was not retried.

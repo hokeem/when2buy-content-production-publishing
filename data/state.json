@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T18:49:30.616208+00:00",
+  "updatedAt": "2026-09-07T19:09:59.885720+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9204,6 +9204,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097036939798978783",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097036939798978783",
+      "postedAt": "Mon Sep 07 18:59:02 +0000 2026",
+      "text": "JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana integration for its privacy technology. https://t.co/oygVZqd2Fs",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRor-gSacAA6Csj.jpg",
+        "https://pbs.twimg.com/media/HRor-geaEAAJvJe.jpg"
+      ],
+      "engagement": {
+        "likes": 32,
+        "replies": 18,
+        "reposts": 7,
+        "quotes": 2,
+        "views": 12676
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T19:05:57Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRor-gSacAA6Csj.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097036939798978783-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRor-geaEAAJvJe.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097036939798978783-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -14771,6 +14805,25 @@
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097036939798978783",
+      "rank": 1,
+      "title": "JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana inte…",
+      "benchmarkPostId": "2097036939798978783",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097036939798978783",
+      "score": 14506,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T19:05:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -20399,6 +20452,30 @@
             "no damaged or malformed rocks"
           ]
         }
+      }
+    },
+    {
+      "id": "pkg-20260907-ghost-solana-privacy-speculation",
+      "benchmarkPostId": "2097036939798978783",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097036939798978783",
+      "title": "$GHOST rises 86% amid Solana integration speculation",
+      "status": "ready",
+      "postText": "$GHOST surged 86% in 24 hours amid speculation its privacy technology could integrate with Solana.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "$GHOST rose 86% over the preceding 24 hours.",
+        "The reported catalyst was market speculation around a potential Solana integration for GHOST privacy technology."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097036939798978783"
+      ],
+      "imagePath": "deliverables/pkg-20260907-ghost-solana-privacy-speculation/when2buy-image-model.png",
+      "createdAt": "2026-09-07T19:07:30Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Premium square entity-led editorial scene for GHOST privacy technology and potential Solana integration: a translucent security shield on a dark blockchain network, near-black environment, white highlights and restrained deep-red accents; no text, numbers, logos, watermark, chart or generic radar; clean lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaNotes": "Manual visual inspection passed: 1254x1254 square PNG; entity-led shield/network scene; no generated text, no damaged or duplicated logo, and exact repository logo composited once in the lower-right safe area."
       }
     }
   ],
@@ -63532,12 +63609,58 @@
         "expiresAt": "2026-09-07T19:08:26Z",
         "deliveryReason": "Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried."
       }
+    },
+    {
+      "id": "run-20260907T190557Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T19:05:57Z",
+      "completedAt": "2026-09-07T19:05:57Z",
+      "summary": "Apify scanned both benchmark accounts; captured 15 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T190558Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T19:05:58Z",
+      "completedAt": "2026-09-07T19:05:58Z",
+      "summary": "Prepared 37 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T190721Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T19:07:21Z",
+      "completedAt": "2026-09-07T19:07:21Z",
+      "summary": "Prepared 37 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T190959Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T19:09:59Z",
+      "completedAt": "2026-09-07T19:09:59Z",
+      "summary": "Apify collection, benchmark-media archive, timestamp-first queue rebuild, and one new image-model package completed; the sole permitted Postiz probe did not produce a public X URL.",
+      "reason": "Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T20:09:59Z",
+        "deliveryReason": "Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "startedAt": "2026-09-07T18:08:26Z",
-    "expiresAt": "2026-09-07T19:08:26Z",
-    "reason": "Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried."
+    "startedAt": "2026-09-07T19:09:59Z",
+    "expiresAt": "2026-09-07T20:09:59Z",
+    "postizPostId": "cmtrm66xk0gsmlm0y99ryf104",
+    "deliveryReason": "Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried."
   }
 }
