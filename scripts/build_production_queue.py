@@ -11,6 +11,10 @@ sys.path.insert(0, str(ROOT / "skills" / "when2buy-content-publisher" / "scripts
 import state  # noqa: E402
 QUEUE_PATH = ROOT / "data" / "production-queue.json"
 KEYWORDS = ("earnings", "guidance", "revenue", "nvidia", "chip", "semiconductor", "ai", "robot", "ipo", "funding", "valuation", "fed", "cpi", "ppi", "jobs", "tariff", "stock", "shares", "nasdaq", "s&p", "tesla", "xpeng", "rocket lab")
+PROMOTION_MARKERS = (
+    "free to enter", "deposit bonus", "deposit bonuses", "cash prize",
+    "send me a dm", "join my", "sign up", "use code", "giveaway",
+)
 
 def now(): return datetime.now(timezone.utc)
 def iso(): return now().replace(microsecond=0).isoformat().replace("+00:00", "Z")
@@ -64,7 +68,9 @@ def main():
     for post in current.get("benchmarkPosts", []):
         posted = parse(post.get("postedAt"))
         package = packages.get(str(post.get("id")))
-        if post.get("isPinned") or (package and package.get("status") == "published") or (posted and now() - posted > timedelta(hours=72)):
+        text = str(post.get("text") or "").lower()
+        is_promotion = any(marker in text for marker in PROMOTION_MARKERS)
+        if post.get("isPinned") or is_promotion or (package and package.get("status") == "published") or (posted and now() - posted > timedelta(hours=72)):
             continue
         editorial_total, breakdown = score(post)
         total = heat_score(post)

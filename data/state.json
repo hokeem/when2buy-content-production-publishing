@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T05:59:18.499145+00:00",
+  "updatedAt": "2026-09-07T06:18:16.534253+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16319,76 +16319,103 @@
       "publishedAt": "2026-09-06T06:42:00.000Z"
     },
     {
-      "id": "pkg-20260906-for-anyone-curious-with-the-30-year-yield-at-5-2-24312",
+      "id": "pkg-20260907-30-year-yield-income",
       "benchmarkPostId": "2096578036560724312",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096578036560724312",
-      "title": "For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre tax intere",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: For anyone curious with the 30 year yield at 5.244% in order to get $2\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "5.244% 30-year yield calculation",
+      "status": "published",
+      "postText": "At a 5.244% 30-year yield, $458K in U.S. government bonds would generate about $2,000 a month before tax.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre tax interest you would need to lend the 🇺🇸 Government $458K"
+        "The 30-year yield is 5.244%.",
+        "$458,000 is stated as the amount needed to earn $2,000 per month in pre-tax interest."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096578036560724312"
       ],
-      "imagePath": "deliverables/pkg-20260906-for-anyone-curious-with-the-30-year-yield-at-5-2-24312/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T12:41:08.935854+00:00"
+      "imagePath": "deliverables/pkg-20260907-30-year-yield-income/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:14:18.622288+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual\nAsset type: square X financial-news visual\nPrimary request: a close-up U.S. Treasury bond certificate and elegant fixed-income calculation visual, showing a 30-year Treasury yield and monthly income concept.\nStyle/medium: premium editorial financial photography, black and near-black base, bold white type, controlled red accent, cinematic realism.\nComposition/framing: 1:1 square; Treasury certificate and subtle yield curve dominate; empty lower-right logo-safe area for a supplied logo later.\nText (verbatim): \"30-YEAR YIELD 5.244%\" and \"$458K FOR $2,000/MO\"\nConstraints: render both exact phrases accurately; no other words; no seal or government logo; no watermark, source, disclaimer, or CTA; no generic abstract background and no pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqul0k807jwlm0yn1rjrx0z",
+      "publishedAt": "2026-09-07T06:16:00.000Z"
     },
     {
-      "id": "pkg-20260906-just-in-robinhood-chain-hood-leads-in-weekly-fee-05868",
+      "id": "pkg-20260907-robinhood-chain-weekly-fees",
       "benchmarkPostId": "2096577192561905868",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096577192561905868",
-      "title": "JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 days, the chain generated $16.8",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 d\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "Robinhood Chain leads weekly fees",
+      "status": "published",
+      "postText": "Robinhood Chain $HOOD generated $16.8M in fees over the past seven days, leading major networks.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 days, the chain generated $16.8 million in fees, ranking first among major networks. - CryptoRank."
+        "Robinhood Chain $HOOD generated $16.8 million in fees over the past seven days.",
+        "It ranked first among major networks in weekly fees."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096577192561905868"
       ],
-      "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-leads-in-weekly-fee-05868/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T12:41:09.068718+00:00"
+      "imagePath": "deliverables/pkg-20260907-robinhood-chain-weekly-fees/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:14:19.657662+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual\nPrimary request: a premium realistic black server rack with glowing blockchain transaction paths, representing Robinhood Chain leading major networks in weekly fees. Use a sparse editorial composition, not a detailed data dashboard.\nStyle/medium: premium financial-news photography, near-black base, white bold type, controlled red accent.\nComposition/framing: 1:1 square; server rack and blockchain network are dominant; logo-safe empty lower-right area for supplied logo later.\nText (verbatim): \"ROBINHOOD CHAIN\" and \"$16.8M WEEKLY FEES\"\nConstraints: exact phrases only and no other text or numbers anywhere; no corporate logos, watermark, source names, disclaimers, or CTA; no pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqullvi07jylm0ygpwkho5h",
+      "publishedAt": "2026-09-07T06:16:00.000Z"
     },
     {
-      "id": "pkg-20260906-reminder-the-stock-market-will-be-closed-tomorro-55685",
+      "id": "pkg-20260907-labor-day-market-closure",
       "benchmarkPostId": "2096568916969455685",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096568916969455685",
-      "title": "REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labo\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "U.S. market closed for Labor Day",
+      "status": "published",
+      "postText": "The U.S. stock market is closed Monday for Labor Day.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day"
+        "The U.S. stock market will be closed Monday for Labor Day."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096568916969455685"
       ],
-      "imagePath": "deliverables/pkg-20260906-reminder-the-stock-market-will-be-closed-tomorro-55685/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T12:41:09.213551+00:00"
+      "imagePath": "deliverables/pkg-20260907-labor-day-market-closure/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:14:20.439062+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual\nPrimary request: a striking New York Stock Exchange exterior at dawn with closed gates and a calendar page for Labor Day, communicating the U.S. stock market closure on Monday.\nStyle/medium: premium editorial financial photography, black and near-black base, bold white typography, controlled red accent.\nComposition/framing: 1:1 square; exchange facade and calendar are dominant; clear lower-right empty logo-safe area for supplied logo later.\nText (verbatim): \"U.S. MARKET CLOSED MONDAY\" and \"LABOR DAY\"\nConstraints: exact phrases only; no other text or numbers; no trademark logo, watermark, sources, disclaimers, or CTA; no pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqum7ai0etvqk0ynl0olikv",
+      "publishedAt": "2026-09-07T06:17:00.000Z"
     },
     {
-      "id": "pkg-20260906-jaguar-land-rover-said-the-company-is-set-to-cut-48219",
+      "id": "pkg-20260907-jaguar-land-rover-job-cuts",
       "benchmarkPostId": "2096561335450448219",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096561335450448219",
-      "title": "Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloomberg",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Jaguar Land Rover said the company is set to cut ~4,000 jobs over the \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Jaguar Land Rover plans job cuts",
+      "status": "published",
+      "postText": "Jaguar Land Rover plans to cut about 4,000 jobs over the next two years.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloomberg"
+        "Jaguar Land Rover is set to cut about 4,000 jobs.",
+        "The stated time frame is the next two years."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096561335450448219"
       ],
-      "imagePath": "deliverables/pkg-20260906-jaguar-land-rover-said-the-company-is-set-to-cut-48219/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T12:41:09.343994+00:00"
+      "imagePath": "deliverables/pkg-20260907-jaguar-land-rover-job-cuts/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:14:21.669936+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual\nPrimary request: a Jaguar Land Rover manufacturing plant exterior with a symbolic line of parked luxury vehicles and a discreet workforce-reduction visual motif, portraying planned job cuts over two years.\nStyle/medium: premium editorial business photography, near-black base, white typography, controlled red accent, serious and factual tone.\nComposition/framing: 1:1 square; factory and vehicles dominate; clear lower-right empty logo-safe area for supplied logo later.\nText (verbatim): \"JAGUAR LAND ROVER\" and \"~4,000 JOB CUTS\" and \"OVER 2 YEARS\"\nConstraints: render these exact phrases only; no other words or numbers, no brand marks, watermark, source names, disclaimers, or CTA; no pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqumsjc0etzqk0yfuohxsa6",
+      "publishedAt": "2026-09-07T06:17:00.000Z"
     },
     {
       "id": "pkg-20260906-robinhood-hood-now-makes-more-money-from-trading-75958",
@@ -16709,22 +16736,28 @@
       "createdAt": "2026-09-07T00:42:46.116296+00:00"
     },
     {
-      "id": "pkg-20260907-this-is-the-last-sunday-without-regular-season-n-72616",
+      "id": "pkg-20260907-nfl-regular-season-starts",
       "benchmarkPostId": "2096631323947372616",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096631323947372616",
-      "title": "*THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: *THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Regular NFL season starts",
+      "status": "published",
+      "postText": "Regular-season NFL football starts next Sunday.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "*THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL"
+        "This is the last Sunday without regular-season NFL football."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096631323947372616"
       ],
-      "imagePath": "deliverables/pkg-20260907-this-is-the-last-sunday-without-regular-season-n-72616/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-07T00:42:46.327476+00:00"
+      "imagePath": "deliverables/pkg-20260907-nfl-regular-season-starts/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:14:17.367109+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual\nPrimary request: An original professional American football player in a matte black unbranded uniform, holding a football in a dramatic dark stadium tunnel as the regular season begins.\nStyle/medium: premium editorial sports-business photography, near-black base, white bold typography, controlled deep-red accent, cinematic realism.\nComposition/framing: 1:1 square; player and stadium dominate; clear empty lower-right logo-safe area for a supplied logo later.\nText (verbatim): \"REGULAR SEASON STARTS\"\nConstraints: exact text only; no NFL, team, apparel, broadcast, or sponsor logos; no watermark; no source, disclaimers, or CTA; no pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqukbdj07julm0y19ad2srw",
+      "publishedAt": "2026-09-07T06:15:00.000Z"
     },
     {
       "id": "pkg-20260907-btc-global-money",
@@ -18375,6 +18408,91 @@
         "status": "active",
         "windowStart": "2026-09-07T05:57:00.000Z",
         "windowEnd": "2026-09-10T05:57:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096845001351393501",
+      "packageId": "pkg-20260907-nfl-regular-season-starts",
+      "title": "Regular NFL season starts",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:15:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096845001351393501",
+      "postizPostId": "cmtqukbdj07julm0y19ad2srw",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:15:00.000Z",
+        "windowEnd": "2026-09-10T06:15:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096845136185663992",
+      "packageId": "pkg-20260907-30-year-yield-income",
+      "title": "5.244% 30-year yield calculation",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:16:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096845136185663992",
+      "postizPostId": "cmtqul0k807jwlm0yn1rjrx0z",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:16:00.000Z",
+        "windowEnd": "2026-09-10T06:16:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096845250576977938",
+      "packageId": "pkg-20260907-robinhood-chain-weekly-fees",
+      "title": "Robinhood Chain leads weekly fees",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:16:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096845250576977938",
+      "postizPostId": "cmtqullvi07jylm0ygpwkho5h",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:16:00.000Z",
+        "windowEnd": "2026-09-10T06:16:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096845367338041635",
+      "packageId": "pkg-20260907-labor-day-market-closure",
+      "title": "U.S. market closed for Labor Day",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:17:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096845367338041635",
+      "postizPostId": "cmtqum7ai0etvqk0ynl0olikv",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:17:00.000Z",
+        "windowEnd": "2026-09-10T06:17:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096845481288851512",
+      "packageId": "pkg-20260907-jaguar-land-rover-job-cuts",
+      "title": "Jaguar Land Rover plans job cuts",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:17:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096845481288851512",
+      "postizPostId": "cmtqumsjc0etzqk0yfuohxsa6",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:17:00.000Z",
+        "windowEnd": "2026-09-10T06:17:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -26722,6 +26840,91 @@
       "completedAt": "2026-09-07T05:59:18.498525+00:00",
       "summary": "Rendered local report artifacts; stable report update did not run.",
       "reason": "Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed."
+    },
+    {
+      "id": "run-20260907T060555Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:05:55Z",
+      "completedAt": "2026-09-07T06:05:55Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T060555Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:05:55Z",
+      "completedAt": "2026-09-07T06:05:55Z",
+      "summary": "Prepared 66 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T060649Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:06:49Z",
+      "completedAt": "2026-09-07T06:06:49Z",
+      "summary": "Prepared 64 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T061421Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:14:21.670042+00:00",
+      "completedAt": "2026-09-07T06:14:21.670047+00:00",
+      "summary": "Remade five timestamp-first selected packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T061626Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:16:26.165764+00:00",
+      "completedAt": "2026-09-07T06:16:26.165771+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T061653Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:16:53.524398+00:00",
+      "completedAt": "2026-09-07T06:16:53.524407+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T061721Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:17:21.202007+00:00",
+      "completedAt": "2026-09-07T06:17:21.202009+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T061749Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:17:49.121549+00:00",
+      "completedAt": "2026-09-07T06:17:49.121560+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T061816Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:18:16.532905+00:00",
+      "completedAt": "2026-09-07T06:18:16.532912+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ]
 }

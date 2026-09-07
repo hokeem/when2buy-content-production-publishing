@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T05:59:18.499145+00:00`
+- 状态更新：`2026-09-07T06:18:16.534253+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**292**
 - 待选选题：**251**
-- 待发布制作包：**123**
-- 已验证发布：**89**
+- 待发布制作包：**118**
+- 已验证发布：**94**
 
 ## 对标账号扫描
 
@@ -1602,33 +1602,33 @@ Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $57.79 milli
 
 Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $117.38 million worth of $BTC.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
-### For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre tax intere
+### 5.244% 30-year yield calculation
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-for-anyone-curious-with-the-30-year-yield-at-5-2-24312/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-30-year-yield-income/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: For anyone curious with the 30 year yield at 5.244% in order to get $2  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+At a 5.244% 30-year yield, $458K in U.S. government bonds would generate about $2,000 a month before tax.  When2Buy — your U.S. stock partner.
 
-### JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 days, the chain generated $16.8
+### Robinhood Chain leads weekly fees
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-just-in-robinhood-chain-hood-leads-in-weekly-fee-05868/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-robinhood-chain-weekly-fees/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 d  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+Robinhood Chain $HOOD generated $16.8M in fees over the past seven days, leading major networks.  When2Buy — your U.S. stock partner.
 
-### REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day
+### U.S. market closed for Labor Day
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-reminder-the-stock-market-will-be-closed-tomorro-55685/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-labor-day-market-closure/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labo  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+The U.S. stock market is closed Monday for Labor Day.  When2Buy — your U.S. stock partner.
 
-### Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloomberg
+### Jaguar Land Rover plans job cuts
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-jaguar-land-rover-said-the-company-is-set-to-cut-48219/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-jaguar-land-rover-job-cuts/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Jaguar Land Rover said the company is set to cut ~4,000 jobs over the   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Jaguar Land Rover plans to cut about 4,000 jobs over the next two years.  When2Buy — your U.S. stock partner.
 
 ### Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does fr
 
@@ -1735,12 +1735,12 @@ Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 U.S. dollar has lost 97% 
 
 Market radar: @StockMKTNewz reports: We are doing a free to enter NFL Pick em league, you pick every game t  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### *THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL
+### Regular NFL season starts
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-this-is-the-last-sunday-without-regular-season-n-72616/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-nfl-regular-season-starts/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: *THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Regular-season NFL football starts next Sunday.  When2Buy — your U.S. stock partner.
 
 ### Bitcoin reaches 1% of global money
 
@@ -1878,9 +1878,23 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 | U.S. market closures for the rest of 2026 | 2026-09-07T05:56:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840008116420742) |
 | Bitcoin reaches 1% of global money | 2026-09-07T05:56:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840177251680334) |
 | Bitcoin odds put $50,000 first below 16% | 2026-09-07T05:57:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840363533312068) |
+| Regular NFL season starts | 2026-09-07T06:15:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845001351393501) |
+| 5.244% 30-year yield calculation | 2026-09-07T06:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845136185663992) |
+| Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845250576977938) |
+| U.S. market closed for Labor Day | 2026-09-07T06:17:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845367338041635) |
+| Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845481288851512) |
 
 ## 最近运行
 
+- `2026-09-07T06:18:16.532905+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:17:49.121549+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:17:21.202007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:16:53.524398+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:16:26.165764+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:14:21.670042+00:00` **produce / succeeded** — Remade five timestamp-first selected packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-07T06:06:49Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
+- `2026-09-07T06:05:55Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
+- `2026-09-07T06:05:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T05:59:18.498525+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
 - `2026-09-07T05:57:58.914906+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T05:57:13.952400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1892,12 +1906,3 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 - `2026-09-07T05:45:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T05:35:49.569309+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
 - `2026-09-07T05:34:44.707463+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:34:17.295253+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:33:49.876151+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:33:00.757472+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:32:33.003007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:31:45.305825+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
-- `2026-09-07T05:26:04Z` **queue / succeeded** — Prepared 76 one-to-one production candidate(s).
-- `2026-09-07T05:26:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-07T05:22:55Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
-- `2026-09-07T05:22:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
