@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T18:08:26.778743+00:00`
+- 状态更新：`2026-09-07T18:26:39.361130+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**333**
 - 待选选题：**291**
@@ -2216,6 +2216,9 @@ President Trump says he has made hundreds of billions of dollars on stocks and o
 
 ## 最近运行
 
+- `2026-09-07T18:26:39Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and reporting completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
+- `2026-09-07T18:26:05Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
+- `2026-09-07T18:26:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 0 new post(s).
 - `2026-09-07T18:08:26Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-07T18:07:55Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
 - `2026-09-07T18:07:55Z` **produce / succeeded** — Produced the newest timestamp-first benchmark package with an inspected image-model visual and exact-logo compositing.
@@ -2233,6 +2236,3 @@ President Trump says he has made hundreds of billions of dollars on stocks and o
 - `2026-09-07T17:27:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 0 new post(s).
 - `2026-09-07T17:26:44Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
 - `2026-09-07T17:26:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 1 new post(s).
-- `2026-09-07T17:25:35Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T17:10:00Z` **full / partial** — Apify benchmark collection, media archive, timestamp-first queue rebuild, and one newest image-model package completed; no X submission was made. Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.
-- `2026-09-07T17:08:42Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
