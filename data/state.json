@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T09:50:51.899806+00:00",
+  "updatedAt": "2026-09-07T10:39:32.665647+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8022,6 +8022,144 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096218556690022471",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096218556690022471",
+      "postedAt": "Sat Sep 05 12:47:04 +0000 2026",
+      "text": "Nike $NKE was added to the S&amp;P 100 in December 2008\n\nNike is being removed from the S&amp;P 100 after a nearly 18 year run",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 1350,
+        "replies": 59,
+        "reposts": 97,
+        "quotes": 25,
+        "views": 224332
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T09:47:00Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096214755518071240",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096214755518071240",
+      "postedAt": "Sat Sep 05 12:31:58 +0000 2026",
+      "text": "Trade Desk $TTD stock was trading around $80 when it was added to the S&amp;P 500 in July 2025\n\nToday Trade Desk stock is trading at $14 https://t.co/JCXEA2mXQ7",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRdANajXwAUGG4c.jpg"
+      ],
+      "engagement": {
+        "likes": 286,
+        "replies": 34,
+        "reposts": 5,
+        "quotes": 7,
+        "views": 66646
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T09:47:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRdANajXwAUGG4c.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096214755518071240-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096198775584804970",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096198775584804970",
+      "postedAt": "Sat Sep 05 11:28:28 +0000 2026",
+      "text": "The 🇺🇸 National Debt currently sits at\n\n$40,117,045,127,072.57 https://t.co/pbHZQhQaqd",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRcxrUZbIAAqsxa.jpg"
+      ],
+      "engagement": {
+        "likes": 94,
+        "replies": 11,
+        "reposts": 8,
+        "quotes": 4,
+        "views": 48629
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T09:47:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcxrUZbIAAqsxa.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096198775584804970-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096197691311059281",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096197691311059281",
+      "postedAt": "Sat Sep 05 11:24:09 +0000 2026",
+      "text": "This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRcwsLoW4AELgCh.jpg"
+      ],
+      "engagement": {
+        "likes": 275,
+        "replies": 7,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 123167
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T09:47:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRcwsLoW4AELgCh.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096197691311059281-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096896385584935155",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096896385584935155",
+      "postedAt": "Mon Sep 07 09:40:31 +0000 2026",
+      "text": "JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. https://t.co/Gx5xy4c7cY",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRmsJVVa8AA6pWV.jpg",
+        "https://pbs.twimg.com/media/HRmsJU1XYAAcvKn.jpg"
+      ],
+      "engagement": {
+        "likes": 24,
+        "replies": 13,
+        "reposts": 8,
+        "quotes": 2,
+        "views": 11981
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T09:47:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRmsJVVa8AA6pWV.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096896385584935155-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRmsJU1XYAAcvKn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096896385584935155-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -12831,6 +12969,101 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096896385584935155",
+      "rank": 1,
+      "title": "JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. …",
+      "benchmarkPostId": "2096896385584935155",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096896385584935155",
+      "score": 13501,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T09:47:05Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096218556690022471",
+      "rank": 2,
+      "title": "Nike $NKE was added to the S&amp;P 100 in December 2008 Nike is being removed from the S&amp…",
+      "benchmarkPostId": "2096218556690022471",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096218556690022471",
+      "score": 260042,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T09:47:05Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096214755518071240",
+      "rank": 3,
+      "title": "Trade Desk $TTD stock was trading around $80 when it was added to the S&amp;P 500 in July 20…",
+      "benchmarkPostId": "2096214755518071240",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096214755518071240",
+      "score": 74396,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T09:47:05Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096198775584804970",
+      "rank": 4,
+      "title": "The 🇺🇸 National Debt currently sits at $40,117,045,127,072.57 https://t.co/pbHZQhQaqd",
+      "benchmarkPostId": "2096198775584804970",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096198775584804970",
+      "score": 51589,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T09:47:05Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096197691311059281",
+      "rank": 5,
+      "title": "This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo",
+      "benchmarkPostId": "2096197691311059281",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096197691311059281",
+      "score": 128997,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T09:47:05Z",
+      "scoreBreakdown": {
+        "freshness": 2,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -16858,7 +17091,7 @@
       "benchmarkPostId": "2096718702703935494",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096718702703935494",
       "title": "Robinhood Chain tops $8M in Friday fees",
-      "status": "published",
+      "status": "failed",
       "postText": "$HOOD's Robinhood Chain generated more than $8M in fees Friday.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Robinhood Chain $HOOD generated more than $8 million in fees on Friday."
@@ -16868,15 +17101,14 @@
         "https://x.com/StockMKTNewz/status/2096718702703935494"
       ],
       "imagePath": "deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png",
-      "createdAt": "2026-09-07T05:31:41.865436+00:00",
+      "createdAt": "2026-09-07T10:26:27.743742+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: dark Robinhood Chain transaction data center and fee dashboard, exact headline Robinhood Chain and $8M+ Friday Fees; premium black financial-news palette, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "postizPostId": "cmtqt0l0d0eivqk0ybvko5wm4",
-      "publishedAt": "2026-09-07T05:32:00.000Z"
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
     },
     {
       "id": "pkg-20260907-nvidia-nvda-ceo-jensen-huang-just-said-agi-has-a-41575",
@@ -16903,7 +17135,7 @@
       "benchmarkPostId": "2096694211605147791",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096694211605147791",
       "title": "Amazon cargo jet overruns Miami runway",
-      "status": "published",
+      "status": "failed",
       "postText": "An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "An Amazon cargo plane overshot a runway at Miami International Airport.",
@@ -16914,22 +17146,21 @@
         "https://x.com/StockMKTNewz/status/2096694211605147791"
       ],
       "imagePath": "deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png",
-      "createdAt": "2026-09-07T05:31:43.312694+00:00",
+      "createdAt": "2026-09-07T10:26:28.740534+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: serious Miami airport runway overrun involving an unbranded Amazon-style cargo jet and emergency vehicles, exact headline Amazon Cargo Jet / Miami Runway Overrun; black premium financial-news styling, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "postizPostId": "cmtqt1mv70791lm0yyqne9pcu",
-      "publishedAt": "2026-09-07T05:33:00.000Z"
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
     },
     {
       "id": "pkg-20260907-nvidia-chips-peace-talks",
       "benchmarkPostId": "2096691430164938804",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096691430164938804",
       "title": "Nvidia chips in Armenia-Azerbaijan talks",
-      "status": "published",
+      "status": "failed",
       "postText": "Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "American negotiators used the prospect of access to Nvidia AI chips in talks around a preliminary Armenia-Azerbaijan peace deal."
@@ -16939,15 +17170,14 @@
         "https://x.com/StockMKTNewz/status/2096691430164938804"
       ],
       "imagePath": "deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png",
-      "createdAt": "2026-09-07T05:31:44.441055+00:00",
+      "createdAt": "2026-09-07T10:26:29.578893+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: advanced AI chip on a diplomacy table with restrained Armenia and Azerbaijan flags; exact headline Nvidia Chips / Peace Talks; black premium financial-news styling, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "postizPostId": "cmtqt285c0794lm0y9fhpw58e",
-      "publishedAt": "2026-09-07T05:33:00.000Z"
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
     },
     {
       "id": "pkg-20260907-this-is-my-2nd-largest-etf-holding-what-do-you-t-52021",
@@ -16974,7 +17204,7 @@
       "benchmarkPostId": "2096679920785125677",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096679920785125677",
       "title": "Apple gains more than 10x in a decade",
-      "status": "published",
+      "status": "ready",
       "postText": "$AAPL stock is up more than 10x over the last decade.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Apple $AAPL stock is up by more than 10x over the last decade."
@@ -16984,15 +17214,13 @@
         "https://x.com/StockMKTNewz/status/2096679920785125677"
       ],
       "imagePath": "deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png",
-      "createdAt": "2026-09-07T05:31:45.305714+00:00",
+      "createdAt": "2026-09-07T10:26:30.400965+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: sleek smartphone and upward decade-long chart, exact headline Apple $AAPL / 10X+ in a Decade; premium black financial-news styling, white type, controlled green performance accent, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      },
-      "postizPostId": "cmtqt2t8t0796lm0ynvrbkxsq",
-      "publishedAt": "2026-09-07T05:34:00.000Z"
+      }
     },
     {
       "id": "pkg-20260907-nvidia-decade-gain",
@@ -17216,7 +17444,7 @@
       "benchmarkPostId": "2096762652995248280",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096762652995248280",
       "title": "U.S. stock market closed Monday",
-      "status": "published",
+      "status": "failed",
       "postText": "The U.S. stock market is closed Monday.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The source post says the stock market is not open Monday."
@@ -17226,15 +17454,14 @@
         "https://x.com/StockMKTNewz/status/2096762652995248280"
       ],
       "imagePath": "deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png",
-      "createdAt": "2026-09-07T05:31:40.930593+00:00",
+      "createdAt": "2026-09-07T10:26:26.877620+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: New York Stock Exchange exterior with a Monday market-closure headline; black premium financial-news palette, white type, controlled red accents, and a bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "postizPostId": "cmtqszzfy078ilm0y1mvqeg5g",
-      "publishedAt": "2026-09-07T05:32:00.000Z"
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
     },
     {
       "id": "pkg-20260907-japan-foreign-securities-754540",
@@ -17285,6 +17512,124 @@
       },
       "postizPostId": "cmtqypkrj08tmlm0yvjljs0jk",
       "publishedAt": "2026-09-07T08:11:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-btc-kalshi-85000",
+      "benchmarkPostId": "2096896385584935155",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096896385584935155",
+      "title": "Bitcoin $85,000 forecast",
+      "status": "failed",
+      "postText": "Bitcoin $BTC is forecast to reach $85,000 this month in Kalshi trading.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Bitcoin is forecast to reach $85,000 this month.",
+        "The forecast is based on Kalshi trading."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096896385584935155"
+      ],
+      "imagePath": "deliverables/pkg-20260907-btc-kalshi-85000/when2buy-image-model.png",
+      "createdAt": "2026-09-07T09:53:54.942063Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Bitcoin prediction market, Bitcoin coin and $85,000 probability chart, premium black financial-news visual.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "pkg-20260907-nike-sp100-removal",
+      "benchmarkPostId": "2096218556690022471",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096218556690022471",
+      "title": "Nike removed from S&P 100",
+      "status": "failed",
+      "postText": "Nike $NKE is being removed from the S&P 100 after nearly 18 years.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Nike was added to the S&P 100 in December 2008.",
+        "Nike is being removed after nearly 18 years."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096218556690022471"
+      ],
+      "imagePath": "deliverables/pkg-20260907-nike-sp100-removal/when2buy-image-model.png",
+      "createdAt": "2026-09-07T09:53:54.942113Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Nike headquarters and institutional index-rebalance board, premium black financial-news visual.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "pkg-20260907-ttd-80-to-14",
+      "benchmarkPostId": "2096214755518071240",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096214755518071240",
+      "title": "Trade Desk $80 to $14",
+      "status": "failed",
+      "postText": "Trade Desk $TTD traded around $80 when it joined the S&P 500 in July 2025.\n\nToday, $TTD is trading at $14.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Trade Desk traded around $80 at its July 2025 S&P 500 addition.",
+        "Trade Desk trades at $14 today."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096214755518071240"
+      ],
+      "imagePath": "deliverables/pkg-20260907-ttd-80-to-14/when2buy-image-model.png",
+      "createdAt": "2026-09-07T09:53:54.942122Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Trade Desk price plunge trading screen and digital advertising infrastructure, premium black financial-news visual.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "pkg-20260907-national-debt-40117t",
+      "benchmarkPostId": "2096198775584804970",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096198775584804970",
+      "title": "U.S. national debt $40.117T",
+      "status": "failed",
+      "postText": "U.S. national debt currently stands at $40,117,045,127,072.57.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "U.S. national debt is $40,117,045,127,072.57."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096198775584804970"
+      ],
+      "imagePath": "deliverables/pkg-20260907-national-debt-40117t/when2buy-image-model.png",
+      "createdAt": "2026-09-07T09:53:54.942128Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "U.S. Treasury ledger and debt counter, premium black financial-news visual.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "pkg-20260907-massachusetts-record-home-sale",
+      "benchmarkPostId": "2096197691311059281",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096197691311059281",
+      "title": "Massachusetts record home sale",
+      "status": "failed",
+      "postText": "Massachusetts just saw its most expensive home sale on record.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The post shows the most expensive house sold in Massachusetts."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096197691311059281"
+      ],
+      "imagePath": "deliverables/pkg-20260907-massachusetts-record-home-sale/when2buy-image-model.png",
+      "createdAt": "2026-09-07T09:53:54.942134Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Massachusetts luxury estate and property-sale document, premium black financial-news visual.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
     }
   ],
   "posts": [
@@ -29488,24 +29833,6 @@
       "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     },
     {
-      "id": "run-20260907T085626Z-publish",
-      "mode": "publish",
-      "status": "partial",
-      "startedAt": "2026-09-07T08:56:26.319159+00:00",
-      "completedAt": "2026-09-07T08:56:26.319159+00:00",
-      "summary": "Postiz delivery reached a terminal error after safe retries.",
-      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
-    },
-    {
-      "id": "run-20260907T085626Z-publish",
-      "mode": "publish",
-      "status": "partial",
-      "startedAt": "2026-09-07T08:56:26.414214+00:00",
-      "completedAt": "2026-09-07T08:56:26.414214+00:00",
-      "summary": "Postiz delivery reached a terminal error after safe retries.",
-      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
-    },
-    {
       "id": "run-20260907T090559Z-radar",
       "mode": "radar",
       "status": "succeeded",
@@ -29614,6 +29941,184 @@
       "startedAt": "2026-09-07T09:50:51Z",
       "completedAt": "2026-09-07T09:50:51Z",
       "summary": "Prepared 21 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T094700Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T09:47:00Z",
+      "completedAt": "2026-09-07T09:47:00Z",
+      "summary": "Apify scanned both benchmark accounts; captured 58 eligible originals and added 5 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T094705Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T09:47:05Z",
+      "completedAt": "2026-09-07T09:47:05Z",
+      "summary": "Prepared 27 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T102625Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T10:26:25Z",
+      "completedAt": "2026-09-07T10:26:25Z",
+      "summary": "Prepared 23 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T102630Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T10:26:30.401054+00:00",
+      "completedAt": "2026-09-07T10:26:30.401056+00:00",
+      "summary": "Produced five timestamp-first image-model packages with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T102734Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T10:27:34Z",
+      "completedAt": "2026-09-07T10:27:34Z",
+      "summary": "Apify scanned both benchmark accounts; captured 57 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T102812Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T10:28:12Z",
+      "completedAt": "2026-09-07T10:28:12Z",
+      "summary": "Apify scanned both benchmark accounts; captured 57 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T102851Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T10:28:51Z",
+      "completedAt": "2026-09-07T10:28:51Z",
+      "summary": "Apify scanned both benchmark accounts; captured 57 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T103428Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:34:28.883557+00:00",
+      "completedAt": "2026-09-07T10:34:28.883557+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103429Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:34:29.015417+00:00",
+      "completedAt": "2026-09-07T10:34:29.015417+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103429Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:34:29.195138+00:00",
+      "completedAt": "2026-09-07T10:34:29.195138+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103429Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:34:29.369939+00:00",
+      "completedAt": "2026-09-07T10:34:29.369939+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103429Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:34:29.522891+00:00",
+      "completedAt": "2026-09-07T10:34:29.522891+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103519Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T10:35:19Z",
+      "completedAt": "2026-09-07T10:35:19Z",
+      "summary": "Prepared 28 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T103932Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:39:32.088123+00:00",
+      "completedAt": "2026-09-07T10:39:32.088123+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103932Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:39:32.211903+00:00",
+      "completedAt": "2026-09-07T10:39:32.211903+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103932Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:39:32.356512+00:00",
+      "completedAt": "2026-09-07T10:39:32.356512+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103932Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T10:39:32.493497+00:00",
+      "completedAt": "2026-09-07T10:39:32.493497+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "run-20260907T103932Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T10:39:32Z",
+      "completedAt": "2026-09-07T10:39:32Z",
+      "summary": "Prepared 28 one-to-one production candidate(s).",
       "reason": ""
     }
   ]

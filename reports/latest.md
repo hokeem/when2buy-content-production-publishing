@@ -1,16 +1,21 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T09:50:51.899806+00:00`
+- 状态更新：`2026-09-07T10:39:32.665647+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**294**
-- 待选选题：**253**
-- 待发布制作包：**82**
+- 对标帖子快照：**299**
+- 待选选题：**258**
+- 待发布制作包：**83**
 - 已验证发布：**127**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 09:40:31 +0000 2026 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. https://t.co/Gx5xy4c7cY | [X](https://x.com/WhaleInsider/status/2096896385584935155) |
+| @StockMKTNewz | Sat Sep 05 11:24:09 +0000 2026 | This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo | [X](https://x.com/StockMKTNewz/status/2096197691311059281) |
+| @StockMKTNewz | Sat Sep 05 11:28:28 +0000 2026 | The 🇺🇸 National Debt currently sits at  $40,117,045,127,072.57 https://t.co/pbHZQhQaqd | [X](https://x.com/StockMKTNewz/status/2096198775584804970) |
+| @StockMKTNewz | Sat Sep 05 12:31:58 +0000 2026 | Trade Desk $TTD stock was trading around $80 when it was added to the S&amp;P 500 in July 2025  Today Trade Desk stock is trading at $14 https://t.co/JCXEA2mXQ7 | [X](https://x.com/StockMKTNewz/status/2096214755518071240) |
+| @StockMKTNewz | Sat Sep 05 12:47:04 +0000 2026 | Nike $NKE was added to the S&amp;P 100 in December 2008  Nike is being removed from the S&amp;P 100 after a nearly 18 year run | [X](https://x.com/StockMKTNewz/status/2096218556690022471) |
 | @WhaleInsider | Mon Sep 07 07:46:12 +0000 2026 | JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in September and December 2026, vs prior forecast of no policy change. https://t.co/FagOYzoTtX | [X](https://x.com/WhaleInsider/status/2096867616916689269) |
 | @WhaleInsider | Mon Sep 07 07:06:45 +0000 2026 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest such sell-off in its history. https://t.co/5HroWeCzgI | [X](https://x.com/WhaleInsider/status/2096857687501754540) |
 | @StockMKTNewz | Mon Sep 07 00:49:07 +0000 2026 | When it’s a Monday and the stock market isn’t open  https://t.co/RS530IqXon | [X](https://x.com/StockMKTNewz/status/2096762652995248280) |
@@ -36,11 +41,6 @@
 | @WhaleInsider | Sun Sep 06 10:10:48 +0000 2026 | JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of approximately $17 billion in planned reinvestment purchases between August 14 and September 14. https://t.co/EnJlBgwTuL | [X](https://x.com/WhaleInsider/status/2096541618522161474) |
 | @StockMKTNewz | Sun Sep 06 11:03:46 +0000 2026 | Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does from people trading stocks https://t.co/MxxglThpcJ | [X](https://x.com/StockMKTNewz/status/2096554949349875958) |
 | @StockMKTNewz | Sun Sep 06 11:29:09 +0000 2026 | Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloomberg https://t.co/N6mQ1S3QH7 | [X](https://x.com/StockMKTNewz/status/2096561335450448219) |
-| @StockMKTNewz | Sun Sep 06 11:59:16 +0000 2026 | REMINDER  The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day | [X](https://x.com/StockMKTNewz/status/2096568916969455685) |
-| @WhaleInsider | Sun Sep 06 12:32:09 +0000 2026 | JUST IN: Robinhood Chain $HOOD leads in weekly fees.  Over the past 7 days, the chain generated $16.8 million in fees, ranking first among major networks. - CryptoRank. https://t.co/tfZUAcswB5 | [X](https://x.com/WhaleInsider/status/2096577192561905868) |
-| @StockMKTNewz | Sun Sep 06 12:35:31 +0000 2026 | For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre tax interest you would need to lend the 🇺🇸 Government   $458K | [X](https://x.com/StockMKTNewz/status/2096578036560724312) |
-| @WhaleInsider | Sat Sep 05 06:46:07 +0000 2026 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. https://t.co/a7Q0R1KADn | [X](https://x.com/WhaleInsider/status/2096127719159308464) |
-| @WhaleInsider | Sat Sep 05 07:19:58 +0000 2026 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. https://t.co/e4Ecf3pd07 | [X](https://x.com/WhaleInsider/status/2096136240324030904) |
 
 ## 选题推荐
 
@@ -61,6 +61,7 @@
 | 1 | When it’s a Monday and the stock market isn’t open https://t.co/RS530IqXon | StockMKTNewz | 49061 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest… | WhaleInsider | 17104 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in… | WhaleInsider | 17784 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. … | WhaleInsider | 13501 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -72,6 +73,7 @@
 | 2 | More people are paying for Hinge and fewer are paying for Tinder over the last few years htt… | StockMKTNewz | 29246 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 days, the chain generat… | WhaleInsider | 16784 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” https://t.co/VQ3V6CM1CJ | StockMKTNewz | 88661 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Nike $NKE was added to the S&amp;P 100 in December 2008 Nike is being removed from the S&amp… | StockMKTNewz | 260042 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -83,6 +85,7 @@
 | 3 | It now costs more than $100,000 per year to go to college at Duke University | StockMKTNewz | 41648 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | REMINDER The 🇺🇸 stock market will be closed tomorrow (Monday) for Labor Day | StockMKTNewz | 15907 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed i… | StockMKTNewz | 47654 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | Trade Desk $TTD stock was trading around $80 when it was added to the S&amp;P 500 in July 20… | StockMKTNewz | 74396 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -93,6 +96,7 @@
 | 4 | JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week. https://t.co/DamQf2D2LU | WhaleInsider | 43285 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloombe… | StockMKTNewz | 18405 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | Nvidia chips are being used to settle wars "When fragile peace talks between Armenia and Aze… | StockMKTNewz | 30936 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | The 🇺🇸 National Debt currently sits at $40,117,045,127,072.57 https://t.co/pbHZQhQaqd | StockMKTNewz | 51589 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -107,6 +111,7 @@
 | 5 | Wake me up when September ends https://t.co/esFuseUBgA | StockMKTNewz | 43923 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it… | StockMKTNewz | 20053 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | This is my 2nd largest ETF holding ... What do you think? | StockMKTNewz | 63973 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 5 | This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo | StockMKTNewz | 128997 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 6 | This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years h… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 6 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood br… | StockMKTNewz | 20 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 6 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $… | WhaleInsider | 89351 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -1669,7 +1674,7 @@ Robinhood Chain $HOOD assets are closing in on a combined market cap of $2B.  Wh
 
 ### Robinhood Chain tops $8M in Friday fees
 
-- 状态：`published`
+- 状态：`failed`
 - 配图：`deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png`
 
 $HOOD's Robinhood Chain generated more than $8M in fees Friday.  When2Buy — your U.S. stock partner.
@@ -1683,14 +1688,14 @@ Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang just said: �
 
 ### Amazon cargo jet overruns Miami runway
 
-- 状态：`published`
+- 状态：`failed`
 - 配图：`deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png`
 
 An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.  When2Buy — your U.S. stock partner.
 
 ### Nvidia chips in Armenia-Azerbaijan talks
 
-- 状态：`published`
+- 状态：`failed`
 - 配图：`deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png`
 
 Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.  When2Buy — your U.S. stock partner.
@@ -1704,7 +1709,7 @@ Market radar: @StockMKTNewz reports: This is my 2nd largest ETF holding ... What
 
 ### Apple gains more than 10x in a decade
 
-- 状态：`published`
+- 状态：`ready`
 - 配图：`deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png`
 
 $AAPL stock is up more than 10x over the last decade.  When2Buy — your U.S. stock partner.
@@ -1781,7 +1786,7 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 
 ### U.S. stock market closed Monday
 
-- 状态：`published`
+- 状态：`failed`
 - 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png`
 
 The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
@@ -1799,6 +1804,41 @@ Japan sold $88B in foreign securities last month—the country's largest sell-of
 - 配图：`deliverables/pkg-20260907-fed-rate-path/when2buy-final.png`
 
 UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December 2026, replacing its prior no-change call.  When2Buy — your U.S. stock partner.
+
+### Bitcoin $85,000 forecast
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-btc-kalshi-85000/when2buy-image-model.png`
+
+Bitcoin $BTC is forecast to reach $85,000 this month in Kalshi trading.  When2Buy — your U.S. stock partner.
+
+### Nike removed from S&P 100
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-nike-sp100-removal/when2buy-image-model.png`
+
+Nike $NKE is being removed from the S&P 100 after nearly 18 years.  When2Buy — your U.S. stock partner.
+
+### Trade Desk $80 to $14
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-ttd-80-to-14/when2buy-image-model.png`
+
+Trade Desk $TTD traded around $80 when it joined the S&P 500 in July 2025.  Today, $TTD is trading at $14.  When2Buy — your U.S. stock partner.
+
+### U.S. national debt $40.117T
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-national-debt-40117t/when2buy-image-model.png`
+
+U.S. national debt currently stands at $40,117,045,127,072.57.  When2Buy — your U.S. stock partner.
+
+### Massachusetts record home sale
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-massachusetts-record-home-sale/when2buy-image-model.png`
+
+Massachusetts just saw its most expensive home sale on record.  When2Buy — your U.S. stock partner.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -1935,23 +1975,23 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 
 ## 最近运行
 
+- `2026-09-07T10:39:32Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
+- `2026-09-07T10:39:32.493497+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:39:32.356512+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:39:32.211903+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:39:32.088123+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:35:19Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
+- `2026-09-07T10:34:29.522891+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:34:29.369939+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:34:29.195138+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:34:29.015417+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:34:28.883557+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
+- `2026-09-07T10:28:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 57 eligible originals and added 0 new post(s).
+- `2026-09-07T10:28:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 57 eligible originals and added 0 new post(s).
+- `2026-09-07T10:27:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 57 eligible originals and added 0 new post(s).
+- `2026-09-07T10:26:30.401054+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
+- `2026-09-07T10:26:25Z` **queue / succeeded** — Prepared 23 one-to-one production candidate(s).
+- `2026-09-07T09:47:05Z` **queue / succeeded** — Prepared 27 one-to-one production candidate(s).
+- `2026-09-07T09:47:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 58 eligible originals and added 5 new post(s).
 - `2026-09-07T09:50:51Z` **queue / succeeded** — Prepared 21 one-to-one production candidate(s).
 - `2026-09-07T09:50:51Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-07T09:26:04Z` **queue / succeeded** — Prepared 22 one-to-one production candidate(s).
-- `2026-09-07T09:26:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T09:21:51.454948+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued.
-- `2026-09-07T09:20:30.493130+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued.
-- `2026-09-07T09:19:15.980418+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery did not return PUBLISHED plus a public x.com URL across two safe attempts; the observed terminal response was ERROR with no releaseURL.
-- `2026-09-07T09:17:58.855784+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery returned ERROR with no releaseURL; a safe retry did not produce PUBLISHED plus a public x.com URL.
-- `2026-09-07T09:16:42.415368+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery returned ERROR with no releaseURL; a safe retry did not produce PUBLISHED plus a public x.com URL.
-- `2026-09-07T09:06:00Z` **queue / succeeded** — Prepared 23 one-to-one production candidate(s).
-- `2026-09-07T09:05:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T08:56:26.414214+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
-- `2026-09-07T08:56:26.319159+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
-- `2026-09-07T08:56:26.211038+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
-- `2026-09-07T08:56:26.102097+00:00` **produce / succeeded** — Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.
-- `2026-09-07T08:55:58.756614+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
-- `2026-09-07T08:54:23.563327+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
-- `2026-09-07T08:53:08.715271+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
-- `2026-09-07T08:51:29.411560+00:00` **produce / succeeded** — Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.
-- `2026-09-07T08:46:37Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
