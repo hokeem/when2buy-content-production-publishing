@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T12:54:26.195868+00:00",
+  "updatedAt": "2026-09-07T13:09:04.363728+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8472,6 +8472,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096945662529093944",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096945662529093944",
+      "postedAt": "Mon Sep 07 12:56:19 +0000 2026",
+      "text": "Nike stock is currently the worst performing stock in the Dow Jones so far in 2026\n\n💩 Nike $NKE: -40%🔴 https://t.co/gv8I7ohsRL",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnX1KHW0AAwkET.jpg"
+      ],
+      "engagement": {
+        "likes": 19,
+        "replies": 10,
+        "reposts": 3,
+        "quotes": 2,
+        "views": 8015
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T13:06:07Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnX1KHW0AAwkET.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096945662529093944-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -13585,6 +13613,25 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096945662529093944",
+      "rank": 1,
+      "title": "Nike stock is currently the worst performing stock in the Dow Jones so far in 2026 💩 Nike $N…",
+      "benchmarkPostId": "2096945662529093944",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096945662529093944",
+      "score": 9065,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T13:06:07Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -18486,6 +18533,42 @@
       },
       "postizPostId": "cmtr8rbs80bpclm0yed055zmy",
       "publishedAt": "2026-09-07T12:53:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-nike-nke-dow-minus-40",
+      "benchmarkPostId": "2096945662529093944",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096945662529093944",
+      "title": "Nike $NKE trails the Dow in 2026",
+      "status": "failed",
+      "postText": "Nike $NKE is the Dow Jones' worst-performing stock so far in 2026, down 40%.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Nike $NKE is the worst-performing Dow Jones stock so far in 2026.",
+        "Nike stock is down 40% in 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096945662529093944"
+      ],
+      "imagePath": "deliverables/pkg-20260907-nike-nke-dow-minus-40/when2buy-image-model.png",
+      "createdAt": "2026-09-07T13:07:30Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: 1:1 X financial-news visual for When2Buy. Primary request: original premium editorial image for Nike $NKE being the Dow Jones' worst-performing stock so far in 2026, down 40%. Scene/backdrop: a sleek, believable athletic-footwear innovation studio and institutional market environment, near-black walls and deep charcoal surfaces. Subject: one unbranded performance running shoe displayed on a matte-black plinth, with a restrained red descending luminous market trajectory in the background; concrete footwear business scene, not a generic stock chart. Style/medium: high-end photorealistic financial-news editorial photography. Composition/framing: exact square 1:1; subject large in left and center; leave the lower-right 20% clean, empty and near-black for later placement of the supplied circular logo. Lighting/mood: dramatic studio rim light, serious premium market-news tone. Color palette: near-black, white highlights, restrained red only. Text: none. Constraints: no readable text, numbers, ticker, brand logos, trademarks, source handles, URLs, watermarks, disclaimers, CTA, people, pure typography card, generic radar imagery, or damaged/distorted footwear.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T13:07:30Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led footwear scene",
+            "no generated text or source attribution",
+            "no generic radar background",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no visible damage or spelling defects"
+          ]
+        }
+      },
+      "deliveryError": "Postiz queued cmtr9atqr0bzclm0yvljy2e79 without PUBLISHED or a public x.com release URL after two safe delivery attempts; no delivery was verified."
     }
   ],
   "posts": [
@@ -38694,6 +38777,46 @@
       "startedAt": "2026-09-07T12:54:26.194249+00:00",
       "completedAt": "2026-09-07T12:54:26.194255+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T130607Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T13:06:07Z",
+      "completedAt": "2026-09-07T13:06:07Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T130607Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T13:06:07Z",
+      "completedAt": "2026-09-07T13:06:07Z",
+      "summary": "Prepared 24 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T130904Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T13:09:04.280526+00:00",
+      "completedAt": "2026-09-07T13:09:04.280526+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz queued cmtr9atqr0bzclm0yvljy2e79 without PUBLISHED or a public x.com release URL after two safe delivery attempts; no delivery was verified."
+    },
+    {
+      "id": "run-20260907T130904Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T13:09:04Z",
+      "completedAt": "2026-09-07T13:09:04Z",
+      "summary": "Prepared 24 one-to-one production candidate(s).",
       "reason": ""
     }
   ]

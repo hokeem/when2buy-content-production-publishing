@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T12:54:26.195868+00:00`
+- 状态更新：`2026-09-07T13:09:04.363728+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**310**
-- 待选选题：**269**
+- 对标帖子快照：**311**
+- 待选选题：**270**
 - 待发布制作包：**82**
 - 已验证发布：**132**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 12:56:19 +0000 2026 | Nike stock is currently the worst performing stock in the Dow Jones so far in 2026  💩 Nike $NKE: -40%🔴 https://t.co/gv8I7ohsRL | [X](https://x.com/StockMKTNewz/status/2096945662529093944) |
 | @StockMKTNewz | Mon Sep 07 12:30:04 +0000 2026 | Moderna is currently the 2nd best performing stock in the S&amp;P 500 so far in 2026  🥈 Moderna $MRNA: +394%🟢 https://t.co/CgsW3nYPph | [X](https://x.com/StockMKTNewz/status/2096939055036436906) |
 | @WhaleInsider | Mon Sep 07 12:37:43 +0000 2026 | JUST IN: $INDEXR launches on Robinhood Chain as https://t.co/Y2sUgKxg2e memecoin index-fund token, bundling coins into one 1:1-backed, redeemable token. https://t.co/piTq8YX75P | [X](https://x.com/WhaleInsider/status/2096940978732953909) |
 | @WhaleInsider | Mon Sep 07 12:42:02 +0000 2026 | JUST IN: Robinhood Chain $HOOD generated $30,000,000 in revenue last week. https://t.co/1Wt4dbr1wB | [X](https://x.com/WhaleInsider/status/2096942065867202925) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Sun Sep 06 17:18:05 +0000 2026 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded in 1913. https://t.co/KCehsFkEdH | [X](https://x.com/WhaleInsider/status/2096649147134664944) |
 | @StockMKTNewz | Sun Sep 06 18:56:39 +0000 2026 | HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026  - Monday, September 7th: Labor Day - Thursday, November 26th: Thanksgiving - Friday, December 25th: Christmas  There are 2 more days this year where the stock market will close early at 1PM ET  - Friday, November 27th - Thursday, December 24th | [X](https://x.com/StockMKTNewz/status/2096673953204847100) |
 | @StockMKTNewz | Sun Sep 06 19:19:32 +0000 2026 | Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯 https://t.co/70yOI9LAqr | [X](https://x.com/StockMKTNewz/status/2096679710545596816) |
-| @StockMKTNewz | Sun Sep 06 19:20:22 +0000 2026 | Apple $AAPL stock is up by more than 10x over the last decade 🟢 https://t.co/EFgaFLKtIL | [X](https://x.com/StockMKTNewz/status/2096679920785125677) |
 
 ## 选题推荐
 
@@ -66,6 +66,7 @@
 | 1 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | StockMKTNewz | 7158 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Tim Cook will reportedly not appear in Apple’s $AAPL new iPhone releases event on Wednesday … | StockMKTNewz | 8459 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Dell Technologies is currently the 3rd best performing stock in the S&amp;P 500 so far in 20… | StockMKTNewz | 6262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Nike stock is currently the worst performing stock in the Dow Jones so far in 2026 💩 Nike $N… | StockMKTNewz | 9065 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1928,6 +1929,13 @@ $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin ind
 
 Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394%.  When2Buy — your U.S. stock partner.
 
+### Nike $NKE trails the Dow in 2026
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-nike-nke-dow-minus-40/when2buy-image-model.png`
+
+Nike $NKE is the Dow Jones' worst-performing stock so far in 2026, down 40%.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2068,6 +2076,10 @@ Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394%.  W
 
 ## 最近运行
 
+- `2026-09-07T13:09:04Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
+- `2026-09-07T13:09:04.280526+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz queued cmtr9atqr0bzclm0yvljy2e79 without PUBLISHED or a public x.com release URL after two safe delivery attempts; no delivery was verified.
+- `2026-09-07T13:06:07Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
+- `2026-09-07T13:06:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-07T12:54:26.194249+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T12:53:48.343421+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T12:53:07.476088+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2084,7 +2096,3 @@ Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394%.  W
 - `2026-09-07T12:31:01.156751Z` **produce / succeeded** — Produced the first five timestamp-first packages with inspected image-model scenes and exact-logo compositing.
 - `2026-09-07T12:26:21Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
 - `2026-09-07T12:26:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-07T12:13:18Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
-- `2026-09-07T12:12:56.517475+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
-- `2026-09-07T12:11:26.882816+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on the safe retry; no public x.com URL was issued.
-- `2026-09-07T12:08:43Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
