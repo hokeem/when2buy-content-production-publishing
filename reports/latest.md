@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T18:26:39.361130+00:00`
+- 状态更新：`2026-09-07T18:49:30.616208+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**333**
-- 待选选题：**291**
-- 待发布制作包：**93**
+- 对标帖子快照：**335**
+- 待选选题：**293**
+- 待发布制作包：**95**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 18:36:36 +0000 2026 | Iron ore broke back $100 a ton for the first time in seven weeks today - Bloomberg https://t.co/pENwkTLz0o | [X](https://x.com/StockMKTNewz/status/2097031294546784410) |
+| @WhaleInsider | Mon Sep 07 18:38:07 +0000 2026 | JUST IN: OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. https://t.co/cakvyoFMQO | [X](https://x.com/WhaleInsider/status/2097031676031336867) |
 | @StockMKTNewz | Mon Sep 07 17:52:20 +0000 2026 | 🇺🇸 President Trump posted this:  "I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself" https://t.co/jOpbjsCxzM | [X](https://x.com/StockMKTNewz/status/2097020156203397246) |
 | @StockMKTNewz | Mon Sep 07 17:30:12 +0000 2026 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of August - WSJ | [X](https://x.com/StockMKTNewz/status/2097014587426062500) |
 | @StockMKTNewz | Mon Sep 07 17:10:51 +0000 2026 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803  For anyone curious $15M in 2026 is enough to buy  - 19.8 shares of Berkshire Hathaway $BRK.A stock - 8,620 shares of Sandisk $SNDK  - 14,763 shares of Micron $MU  - 19,480 shares of the S&P 500 ETF $SPY  - 20,862 shares of the Nasdaq 100 ETF $QQQ  - 24,320 shares of Meta Platforms $META  - 30,000 shares of Microsoft $MSFT  - 42,372 shares of Tesla $TSLA - 44,776 shares of Google $GOOGL  - 46,875 shares of Apple $AAPL  - 58,027 shares of Amazon $AMZN  - 65,217 shares of Nvidia $NVDA  - 101,351 shares of SpaceX $SPCX  - 191,693 shares of Netflix $NFLX | [X](https://x.com/StockMKTNewz/status/2097009717994242070) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Mon Sep 07 12:42:02 +0000 2026 | JUST IN: Robinhood Chain $HOOD generated $30,000,000 in revenue last week. https://t.co/1Wt4dbr1wB | [X](https://x.com/WhaleInsider/status/2096942065867202925) |
 | @StockMKTNewz | Mon Sep 07 12:42:42 +0000 2026 | Dell Technologies is currently the 3rd best performing stock in the S&amp;P 500 so far in 2026  🥉 $DELL: +316%🟢 https://t.co/wp7qNq9AS0 | [X](https://x.com/StockMKTNewz/status/2096942235312918559) |
 | @StockMKTNewz | Mon Sep 07 12:14:27 +0000 2026 | Tim Cook will reportedly not appear in Apple’s $AAPL new iPhone releases event on Wednesday - Mac Rumors   John Ternus will be in full control of the event https://t.co/j7a4PQHSOB | [X](https://x.com/StockMKTNewz/status/2096935123937640546) |
-| @StockMKTNewz | Mon Sep 07 11:51:33 +0000 2026 | Sandisk $SNDK is currently the best performing stock in the NASDAQ 100 so far in 2026  👑 Sandisk: +633%🟢 https://t.co/1pbrN0zBVy | [X](https://x.com/StockMKTNewz/status/2096929359596556570) |
-| @StockMKTNewz | Mon Sep 07 11:59:01 +0000 2026 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | [X](https://x.com/StockMKTNewz/status/2096931241597567248) |
 
 ## 选题推荐
 
@@ -82,6 +82,7 @@
 | 1 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803 For anyone curious … | StockMKTNewz | 11718 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of Aug… | StockMKTNewz | 10641 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 🇺🇸 President Trump posted this: "I do this for our Country, not myself. I’ve made Hundreds o… | StockMKTNewz | 12246 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabi… | WhaleInsider | 15547 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -102,6 +103,7 @@
 | 2 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since Febru… | WhaleInsider | 20451 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglome… | WhaleInsider | 17841 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V | StockMKTNewz | 12514 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Iron ore broke back $100 a ton for the first time in seven weeks today - Bloomberg https://t… | StockMKTNewz | 8680 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2076,6 +2078,20 @@ The average U.S. stock ETF and mutual fund is up 12.6% in 2026 through the end o
 
 President Trump says he has made hundreds of billions of dollars on stocks and other holdings.  When2Buy — your U.S. stock partner.
 
+### OpenAI chief scientist urges extreme caution
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-openai-pachocki-extreme-caution/when2buy-image-model.png`
+
+OpenAI chief scientist Jakub Pachocki is calling for extreme caution as AI capabilities advance rapidly.  When2Buy — your U.S. stock partner.
+
+### Iron ore returns above $100 a ton
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-iron-ore-back-above-100/when2buy-image-model.png`
+
+Iron ore moved back above $100 a ton today for the first time in seven weeks.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2091,11 +2107,11 @@ President Trump says he has made hundreds of billions of dollars on stocks and o
 | $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 76 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
 | September market calendar | 2026-09-07T08:33:00.000Z | 54 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
-| Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
+| Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 51 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834296762011792) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
-| Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
+| Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 38 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
@@ -2107,8 +2123,8 @@ President Trump says he has made hundreds of billions of dollars on stocks and o
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
+| Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
-| Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
@@ -2216,6 +2232,12 @@ President Trump says he has made hundreds of billions of dollars on stocks and o
 
 ## 最近运行
 
+- `2026-09-07T18:49:30.615321Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
+- `2026-09-07T18:49:09Z` **queue / succeeded** — Prepared 36 one-to-one production candidate(s).
+- `2026-09-07T18:49:09.657078Z` **produce / succeeded** — Produced the two newly captured timestamp-first packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-07T18:46:49Z` **queue / succeeded** — Prepared 36 one-to-one production candidate(s).
+- `2026-09-07T18:46:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).
+- `2026-09-07T18:46:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 2 new post(s).
 - `2026-09-07T18:26:39Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and reporting completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-07T18:26:05Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
 - `2026-09-07T18:26:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 0 new post(s).
@@ -2230,9 +2252,3 @@ President Trump says he has made hundreds of billions of dollars on stocks and o
 - `2026-09-07T17:46:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
 - `2026-09-07T17:32:05Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
 - `2026-09-07T17:31:31Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, metrics collection, and one newest-package Postiz probe completed; no public X release was verified. Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public release URL; accepted task was not retried.
-- `2026-09-07T17:29:59Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
-- `2026-09-07T17:29:59.112889+00:00` **produce / succeeded** — Produced the newest timestamp-first benchmark item with an inspected image-model visual and exact-logo compositing.
-- `2026-09-07T17:27:17Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
-- `2026-09-07T17:27:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 0 new post(s).
-- `2026-09-07T17:26:44Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
-- `2026-09-07T17:26:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 1 new post(s).
