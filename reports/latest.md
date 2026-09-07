@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T15:49:32.482405+00:00`
+- 状态更新：`2026-09-07T16:09:53.543336+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**327**
-- 待选选题：**285**
-- 待发布制作包：**89**
+- 对标帖子快照：**328**
+- 待选选题：**286**
+- 待发布制作包：**90**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 15:56:39 +0000 2026 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, according to AAA  On Monday, the national average price at the pump was $4.15, a record high for the holiday - CNBC https://t.co/EMkLKcLUqX | [X](https://x.com/StockMKTNewz/status/2096991041987531044) |
 | @WhaleInsider | Mon Sep 07 15:32:15 +0000 2026 | JUST IN: @MetaWin player turns $6 into $16,733.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies for their $1M airdrop this month. https://t.co/C5RYIOaoLg | [X](https://x.com/WhaleInsider/status/2096984904089125105) |
 | @WhaleInsider | Mon Sep 07 15:38:51 +0000 2026 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of potential U.S. tariffs on refined copper imports. https://t.co/5itwt8BTfp | [X](https://x.com/WhaleInsider/status/2096986563792027845) |
 | @WhaleInsider | Mon Sep 07 15:06:50 +0000 2026 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | [X](https://x.com/WhaleInsider/status/2096978507339354540) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Mon Sep 07 11:17:41 +0000 2026 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is followed by Vlad himself. https://t.co/PjRkmjSW0E | [X](https://x.com/WhaleInsider/status/2096920838301782244) |
 | @WhaleInsider | Mon Sep 07 11:22:23 +0000 2026 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/5EhpMGI2Or | [X](https://x.com/WhaleInsider/status/2096922021468766260) |
 | @WhaleInsider | Mon Sep 07 09:40:31 +0000 2026 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. https://t.co/Gx5xy4c7cY | [X](https://x.com/WhaleInsider/status/2096896385584935155) |
-| @StockMKTNewz | Sat Sep 05 11:24:09 +0000 2026 | This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo | [X](https://x.com/StockMKTNewz/status/2096197691311059281) |
 
 ## 选题推荐
 
@@ -76,6 +76,7 @@
 | 1 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026… | StockMKTNewz | 7038 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Pa… | WhaleInsider | 16496 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of p… | WhaleInsider | 14920 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, acc… | StockMKTNewz | 8752 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2035,20 +2036,27 @@ DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  W
 
 Copper hit a record $14,533 a ton on the London Metal Exchange.  Potential U.S. tariffs on refined copper imports are stoking the move.  When2Buy — your U.S. stock partner.
 
+### U.S. gasoline sets a $4.15 Labor Day record
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-us-gasoline-labor-day-record-415/when2buy-image-model.png`
+
+U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  The prior Labor Day high had never reached $4 a gallon.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
-| JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 197 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
+| JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 198 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
 | When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 127 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
 | McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
 | JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 101 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 89 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
+| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 71 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
-| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 69 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | September market calendar | 2026-09-07T08:33:00.000Z | 53 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
 | Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
@@ -2084,9 +2092,9 @@ Copper hit a record $14,533 a ton on the London Metal Exchange.  Potential U.S. 
 | U.S. Bitcoin ETFs see $986.8M weekly inflow | 2026-09-07T07:12:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859345426468895) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
+| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
-| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Robinhood Chain generated $30 million in revenue last week | 2026-09-07T12:51:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944666377867632) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
@@ -2175,6 +2183,11 @@ Copper hit a record $14,533 a ton on the London Metal Exchange.  Potential U.S. 
 
 ## 最近运行
 
+- `2026-09-07T16:09:53Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
+- `2026-09-07T16:09:26.790487Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker remains active; the newest gasoline package remains ready. Postiz query at 2026-09-07T16:09:01Z returned no X deliveries in its supplied window, but the accepted X delivery cmtreano20dp3lm0y93qswru7 was previously observed ERROR at 2026-09-07T15:28:00Z with releaseURL null. The recorded 60-minute breaker remains active until 2026-09-07T16:28:00Z; do not submit or retry an accepted task.
+- `2026-09-07T16:08:45.620732Z` **produce / succeeded** — Produced the newest eligible U.S. gasoline Labor Day-record package with a regenerated image-model visual and exact-logo compositing.
+- `2026-09-07T16:06:05Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
+- `2026-09-07T16:06:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-07T15:49:32.481616Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest copper package remains ready. Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z with releaseURL null (also cmtrdmc820l71qk0yd6ofp0pl ERROR at 2026-09-07T15:09:00Z); do not submit or retry an accepted task before 2026-09-07T16:28:00Z.
 - `2026-09-07T15:48:52.129261Z` **produce / succeeded** — Produced the newest eligible copper-record package with a new image-model visual and exact-logo compositing.
 - `2026-09-07T15:47:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 71 eligible originals and added 0 new post(s).
@@ -2190,8 +2203,3 @@ Copper hit a record $14,533 a ton on the London Metal Exchange.  Potential U.S. 
 - `2026-09-07T15:08:58.879839+00:00` **produce / succeeded** — Produced the two newest eligible benchmark packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-07T15:06:28Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T15:06:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
-- `2026-09-07T14:45:45Z` **full / partial** — Hourly Postiz-first metrics collection, Apify benchmark collection, media archive, timestamp-first queue rebuild, and the newest Miami penthouse image-model package completed; no X submission was attempted. Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed at 2026-09-07T14:11:00Z); do not submit another post before 2026-09-07T15:50:26Z.
-- `2026-09-07T14:48:42Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T14:46:47Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T14:46:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T14:46:27Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
