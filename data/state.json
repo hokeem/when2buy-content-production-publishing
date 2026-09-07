@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T07:55:16.121484+00:00",
+  "updatedAt": "2026-09-07T08:15:03.293069+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -7988,6 +7988,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096867616916689269",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096867616916689269",
+      "postedAt": "Mon Sep 07 07:46:12 +0000 2026",
+      "text": "JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in September and December 2026, vs prior forecast of no policy change. https://t.co/FagOYzoTtX",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRmR-xqaQAAexOn.jpg",
+        "https://pbs.twimg.com/media/HRmR-xJWUAUOnLJ.jpg"
+      ],
+      "engagement": {
+        "likes": 44,
+        "replies": 23,
+        "reposts": 10,
+        "quotes": 3,
+        "views": 15304
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T08:06:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRmR-xqaQAAexOn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096867616916689269-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRmR-xJWUAUOnLJ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096867616916689269-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -12778,6 +12812,25 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096867616916689269",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in…",
+      "benchmarkPostId": "2096867616916689269",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096867616916689269",
+      "score": 17784,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T08:06:00Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -15295,19 +15348,25 @@
       "id": "pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608",
       "benchmarkPostId": "2095946340010168608",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095946340010168608",
-      "title": "*🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN W\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Trump says he speaks with Fed Chair Kevin Warsh",
+      "status": "published",
+      "postText": "President Trump says he speaks with Fed Chair Kevin Warsh.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "*🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH"
+        "President Trump said that he speaks with Federal Reserve Chair Kevin Warsh."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095946340010168608"
       ],
-      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:10.357037+00:00"
+      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608/when2buy-final.png",
+      "createdAt": "2026-09-07T08:11:50.052367Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 premium entity-led political-economic visual: editorial presidential silhouette and Federal Reserve building linked by a restrained communications line, near-black base, white type 'TRUMP + WARSH' and 'FED TALKS', controlled red accent, lower-right logo-safe area. No source references, disclaimer, CTA, watermark, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqyq9ba0g9kqk0yh671sor6",
+      "publishedAt": "2026-09-07T08:12:00.000Z"
     },
     {
       "id": "pkg-20260905-president-trump-just-said-that-the-stock-market--84602",
@@ -15333,19 +15392,26 @@
       "id": "pkg-20260905-president-trump-just-said-growth-does-not-cause--78307",
       "benchmarkPostId": "2095944730768978307",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095944730768978307",
-      "title": "🇺🇸 PRESIDENT TRUMP JUST SAID: \"GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION\"",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: \"GROWTH DOES NOT CAUSE INFLATION, STUPID\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Trump links inflation to policy failures, not growth",
+      "status": "published",
+      "postText": "President Trump says he views growth as separate from inflation, blaming policy failures for price pressure.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "🇺🇸 PRESIDENT TRUMP JUST SAID: \"GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION\""
+        "President Trump said growth does not cause inflation.",
+        "He blamed stupidity for inflation."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095944730768978307"
       ],
-      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-growth-does-not-cause--78307/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:10.601988+00:00"
+      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-growth-does-not-cause--78307/when2buy-final.png",
+      "createdAt": "2026-09-07T08:11:50.052389Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 premium entity-led macroeconomic visual: editorial presidential podium silhouette with inflation chart and policy documents, black and near-black base, white type 'GROWTH ≠ INFLATION' and 'PRICE PRESSURE', controlled red accent, lower-right logo-safe area. No source references, disclaimer, CTA, watermark, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqyrj4c08u5lm0yzxtuwk9l",
+      "publishedAt": "2026-09-07T08:13:00.000Z"
     },
     {
       "id": "pkg-20260905-mcdonald-s-mcd-stock-hit-new-52-week-lows-today-79635",
@@ -15371,37 +15437,49 @@
       "id": "pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708",
       "benchmarkPostId": "2095936496867934708",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095936496867934708",
-      "title": "What's the #1 worst performing stock in your portfolio so far today",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: What's the #1 worst performing stock in your portfolio so far today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Portfolio's biggest loser today",
+      "status": "published",
+      "postText": "Which holding is your portfolio's biggest loser today?\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "What's the #1 worst performing stock in your portfolio so far today"
+        "The source asks which stock is the worst performer in the reader's portfolio so far today."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095936496867934708"
       ],
-      "imagePath": "deliverables/pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:10.916918+00:00"
+      "imagePath": "deliverables/pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708/when2buy-final.png",
+      "createdAt": "2026-09-07T08:11:50.052406Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 premium entity-led market-performance visual: tactile smartphone portfolio and a single sharply falling red chart on a dark trading desk, white type 'BIGGEST LOSER?' and 'TODAY', lower-right logo-safe area. No ticker, source references, disclaimer, CTA, watermark, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqys8on0g9rqk0ysa343yjy",
+      "publishedAt": "2026-09-07T08:14:00.000Z"
     },
     {
       "id": "pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906",
       "benchmarkPostId": "2095934683288678906",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095934683288678906",
-      "title": "What's the #1 best performing stock in your portfolio so far today",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: What's the #1 best performing stock in your portfolio so far today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Portfolio's biggest winner today",
+      "status": "published",
+      "postText": "Which holding is your portfolio's biggest winner today?\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "What's the #1 best performing stock in your portfolio so far today"
+        "The source asks which stock is the best performer in the reader's portfolio so far today."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095934683288678906"
       ],
-      "imagePath": "deliverables/pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:11.067694+00:00"
+      "imagePath": "deliverables/pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906/when2buy-final.png",
+      "createdAt": "2026-09-07T08:11:50.052424Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 premium entity-led market-performance visual: tactile smartphone portfolio and a single sharply rising green chart on a dark trading desk, white type 'BIGGEST WINNER?' and 'TODAY', lower-right logo-safe area. No ticker, source references, disclaimer, CTA, watermark, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqysywd0ga1qk0yizx05558",
+      "publishedAt": "2026-09-07T08:14:00.000Z"
     },
     {
       "id": "pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763",
@@ -17127,6 +17205,31 @@
       },
       "postizPostId": "cmtqxf6th0fusqk0yny59l0n9",
       "publishedAt": "2026-09-07T07:35:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-fed-rate-path",
+      "benchmarkPostId": "2096867616916689269",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096867616916689269",
+      "title": "UBS sees two 25 bp Fed hikes in 2026",
+      "status": "published",
+      "postText": "UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December 2026, replacing its prior no-change call.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "UBS Global Wealth Management expects 25-basis-point U.S. Fed rate hikes in September and December 2026.",
+        "The prior UBS forecast was for no policy change."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096867616916689269"
+      ],
+      "imagePath": "deliverables/pkg-20260907-fed-rate-path/when2buy-final.png",
+      "createdAt": "2026-09-07T08:11:50.052303Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 premium entity-led U.S. financial-news visual: Federal Reserve building at night with a restrained red two-step rate path, near-black base, white editorial type reading '25 BP HIKES' and 'SEPT + DEC 2026', and a clean lower-right logo-safe area. No source references, disclaimers, CTA, watermark, or generic typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqypkrj08tmlm0yvjljs0jk",
+      "publishedAt": "2026-09-07T08:11:00.000Z"
     }
   ],
   "posts": [
@@ -19156,6 +19259,91 @@
         "status": "active",
         "windowStart": "2026-09-07T07:54:00.000Z",
         "windowEnd": "2026-09-10T07:54:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096874208454398209",
+      "packageId": "pkg-20260907-fed-rate-path",
+      "title": "UBS sees two 25 bp Fed hikes in 2026",
+      "status": "published",
+      "publishedAt": "2026-09-07T08:11:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096874208454398209",
+      "postizPostId": "cmtqypkrj08tmlm0yvjljs0jk",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T08:11:00.000Z",
+        "windowEnd": "2026-09-10T08:11:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096874367053640141",
+      "packageId": "pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608",
+      "title": "Trump says he speaks with Fed Chair Kevin Warsh",
+      "status": "published",
+      "publishedAt": "2026-09-07T08:12:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096874367053640141",
+      "postizPostId": "cmtqyq9ba0g9kqk0yh671sor6",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T08:12:00.000Z",
+        "windowEnd": "2026-09-10T08:12:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096874586663186450",
+      "packageId": "pkg-20260905-president-trump-just-said-growth-does-not-cause--78307",
+      "title": "Trump links inflation to policy failures, not growth",
+      "status": "published",
+      "publishedAt": "2026-09-07T08:13:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096874586663186450",
+      "postizPostId": "cmtqyrj4c08u5lm0yzxtuwk9l",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T08:13:00.000Z",
+        "windowEnd": "2026-09-10T08:13:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096874726715162931",
+      "packageId": "pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708",
+      "title": "Portfolio's biggest loser today",
+      "status": "published",
+      "publishedAt": "2026-09-07T08:14:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096874726715162931",
+      "postizPostId": "cmtqys8on0g9rqk0ysa343yjy",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T08:14:00.000Z",
+        "windowEnd": "2026-09-10T08:14:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096874871292936488",
+      "packageId": "pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906",
+      "title": "Portfolio's biggest winner today",
+      "status": "published",
+      "publishedAt": "2026-09-07T08:14:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096874871292936488",
+      "postizPostId": "cmtqysywd0ga1qk0yizx05558",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T08:14:00.000Z",
+        "windowEnd": "2026-09-10T08:14:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -28584,6 +28772,82 @@
       "status": "succeeded",
       "startedAt": "2026-09-07T07:55:16.119905+00:00",
       "completedAt": "2026-09-07T07:55:16.119912+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T080600Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:06:00Z",
+      "completedAt": "2026-09-07T08:06:00Z",
+      "summary": "Apify scanned both benchmark accounts; captured 26 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T080600Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:06:00Z",
+      "completedAt": "2026-09-07T08:06:00Z",
+      "summary": "Prepared 35 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T081150Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:11:50.052461Z",
+      "completedAt": "2026-09-07T08:11:50.052463Z",
+      "summary": "Produced the first five timestamp-first packages with image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T081225Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:12:25.128785+00:00",
+      "completedAt": "2026-09-07T08:12:25.128788+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T081307Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:13:07.137959+00:00",
+      "completedAt": "2026-09-07T08:13:07.137963+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T081356Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:13:56.539666+00:00",
+      "completedAt": "2026-09-07T08:13:56.539671+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T081429Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:14:29.228482+00:00",
+      "completedAt": "2026-09-07T08:14:29.228487+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T081503Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:15:03.290970+00:00",
+      "completedAt": "2026-09-07T08:15:03.290981+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

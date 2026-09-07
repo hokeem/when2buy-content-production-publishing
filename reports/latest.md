@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T07:55:16.121484+00:00`
+- 状态更新：`2026-09-07T08:15:03.293069+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**293**
-- 待选选题：**252**
-- 待发布制作包：**94**
-- 已验证发布：**119**
+- 对标帖子快照：**294**
+- 待选选题：**253**
+- 待发布制作包：**90**
+- 已验证发布：**124**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 07:46:12 +0000 2026 | JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in September and December 2026, vs prior forecast of no policy change. https://t.co/FagOYzoTtX | [X](https://x.com/WhaleInsider/status/2096867616916689269) |
 | @WhaleInsider | Mon Sep 07 07:06:45 +0000 2026 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest such sell-off in its history. https://t.co/5HroWeCzgI | [X](https://x.com/WhaleInsider/status/2096857687501754540) |
 | @StockMKTNewz | Mon Sep 07 00:49:07 +0000 2026 | When it’s a Monday and the stock market isn’t open  https://t.co/RS530IqXon | [X](https://x.com/StockMKTNewz/status/2096762652995248280) |
 | @WhaleInsider | Sun Sep 06 13:35:42 +0000 2026 | JUST IN: Altcoins flip $BTC in open interest. https://t.co/Pwsg0gJnlH | [X](https://x.com/WhaleInsider/status/2096593182309982396) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Sun Sep 06 12:35:31 +0000 2026 | For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre tax interest you would need to lend the 🇺🇸 Government   $458K | [X](https://x.com/StockMKTNewz/status/2096578036560724312) |
 | @WhaleInsider | Sat Sep 05 06:46:07 +0000 2026 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. https://t.co/a7Q0R1KADn | [X](https://x.com/WhaleInsider/status/2096127719159308464) |
 | @WhaleInsider | Sat Sep 05 07:19:58 +0000 2026 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. https://t.co/e4Ecf3pd07 | [X](https://x.com/WhaleInsider/status/2096136240324030904) |
-| @WhaleInsider | Sat Sep 05 09:41:08 +0000 2026 | JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. https://t.co/XoogbG6Y4C | [X](https://x.com/WhaleInsider/status/2096171765932126604) |
 
 ## 选题推荐
 
@@ -60,6 +60,7 @@
 | 1 | Robinhood Chain $HOOD generated more than $8 Million in fees on Friday | StockMKTNewz | 43870 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | When it’s a Monday and the stock market isn’t open https://t.co/RS530IqXon | StockMKTNewz | 49061 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest… | WhaleInsider | 17104 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in… | WhaleInsider | 17784 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1190,12 +1191,12 @@ Data-center approvals can shape a state's growth path.  When2Buy — your U.S. s
 
 Interest rates should be at 1% or 0.5%.  When2Buy — your U.S. stock partner.
 
-### *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH
+### Trump says he speaks with Fed Chair Kevin Warsh
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608/when2buy-final.png`
 
-Market radar: @StockMKTNewz reports: *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN W  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+President Trump says he speaks with Fed Chair Kevin Warsh.  When2Buy — your U.S. stock partner.
 
 ### 🇺🇸 President Trump just said that the stock market should have gone up today
 
@@ -1204,12 +1205,12 @@ Market radar: @StockMKTNewz reports: *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE
 
 Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said that the stock market should have gone up  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### 🇺🇸 PRESIDENT TRUMP JUST SAID: "GROWTH DOES NOT CAUSE INFLATION, STUPIDITY CAUSES INFLATION"
+### Trump links inflation to policy failures, not growth
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-president-trump-just-said-growth-does-not-cause--78307/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-president-trump-just-said-growth-does-not-cause--78307/when2buy-final.png`
 
-Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: "GROWTH DOES NOT CAUSE INFLATION, STUPID  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+President Trump says he views growth as separate from inflation, blaming policy failures for price pressure.  When2Buy — your U.S. stock partner.
 
 ### McDonald's $MCD stock hit new 52 WEEK LOWS today
 
@@ -1218,19 +1219,19 @@ Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: "GROWTH
 
 Market radar: @StockMKTNewz reports: McDonald's $MCD stock hit new 52 WEEK LOWS today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### What's the #1 worst performing stock in your portfolio so far today
+### Portfolio's biggest loser today
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708/when2buy-final.png`
 
-Market radar: @StockMKTNewz reports: What's the #1 worst performing stock in your portfolio so far today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Which holding is your portfolio's biggest loser today?  When2Buy — your U.S. stock partner.
 
-### What's the #1 best performing stock in your portfolio so far today
+### Portfolio's biggest winner today
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906/when2buy-final.png`
 
-Market radar: @StockMKTNewz reports: What's the #1 best performing stock in your portfolio so far today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Which holding is your portfolio's biggest winner today?  When2Buy — your U.S. stock partner.
 
 ### Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerM
 
@@ -1792,6 +1793,13 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 
 Japan sold $88B in foreign securities last month—the country's largest sell-off on record.  When2Buy — your U.S. stock partner.
 
+### UBS sees two 25 bp Fed hikes in 2026
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-fed-rate-path/when2buy-final.png`
+
+UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December 2026, replacing its prior no-change call.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -1916,9 +1924,22 @@ Japan sold $88B in foreign securities last month—the country's largest sell-of
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Data centers and state approvals | 2026-09-07T07:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869885339132326) |
+| UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874208454398209) |
+| Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874367053640141) |
+| Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874586663186450) |
+| Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874726715162931) |
+| Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874871292936488) |
 
 ## 最近运行
 
+- `2026-09-07T08:15:03.290970+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T08:14:29.228482+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T08:13:56.539666+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T08:13:07.137959+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T08:12:25.128785+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T08:11:50.052461Z` **produce / succeeded** — Produced the first five timestamp-first packages with image-model visuals and exact-logo compositing.
+- `2026-09-07T08:06:00Z` **queue / succeeded** — Prepared 35 one-to-one production candidate(s).
+- `2026-09-07T08:06:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 26 eligible originals and added 1 new post(s).
 - `2026-09-07T07:55:16.119905+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:54:47.599663+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:54:19.205415+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1931,11 +1952,3 @@ Japan sold $88B in foreign securities last month—the country's largest sell-of
 - `2026-09-07T07:37:57.851677+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:37:25.110150+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:36:52.028736+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:36:24.529825+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:25:51Z` **queue / succeeded** — Prepared 44 one-to-one production candidate(s).
-- `2026-09-07T07:25:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-07T07:16:05.350672+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:15:21.917979+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:14:45.695574+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:14:13.113416+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:13:21.905099+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
