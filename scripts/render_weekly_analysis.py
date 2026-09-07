@@ -60,7 +60,8 @@ def main():
     OUT_DIR.mkdir(parents=True,exist_ok=True); archive=OUT_DIR/f'{week_slug}.html'; archive.write_text(out+'\n',encoding='utf-8'); shutil.copyfile(archive,OUT_DIR/'latest.html')
     files=sorted((path for path in OUT_DIR.glob('*.html') if path.name not in ('index.html','latest.html')),reverse=True)
     links=''.join(f'<li><a href="{e(path.name)}">{e(path.stem)}</a></li>' for path in files)
-    index=f'''<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>WHEN2BUY WEEKLY ARCHIVE</title><style>body{{margin:0;background:#09090a;color:#f6f3f4;font:16px/1.6 system-ui;padding:40px}}main{{max-width:760px;margin:auto}}a{{color:#ff6374}}.card{{padding:24px;border:1px solid #392c30;border-radius:18px;background:#161315}}</style></head><body><main><div class="card"><h1>WHEN2BUY WEEKLY ARCHIVE</h1><p><a href="latest.html">Open latest analysis</a></p><ul>{links}</ul></div></main></body></html>'''
+    archive_panel=f'<section class="panel"><h2>Weekly archive</h2><ul>{links}</ul></section>'
+    index=out.replace('<footer>',archive_panel+'<footer>',1)
     (OUT_DIR/'index.html').write_text(index+'\n',encoding='utf-8'); print(f'Wrote {archive} and weekly archive index')
 
 if __name__=='__main__': main()
