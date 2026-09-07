@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T06:55:11.089673+00:00",
+  "updatedAt": "2026-09-07T07:16:29.374257+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15863,22 +15863,28 @@
       "publishedAt": "2026-09-07T06:54:00.000Z"
     },
     {
-      "id": "pkg-20260906-just-in-u-s-btc-etfs-saw-986-8-million-in-inflow-58871",
+      "id": "pkg-20260907-btc-etf-weekly-inflow",
       "benchmarkPostId": "2096320375764258871",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096320375764258871",
-      "title": "JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week.",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "U.S. Bitcoin ETFs see $986.8M weekly inflow",
+      "status": "published",
+      "postText": "U.S. $BTC ETFs saw $986.8M in inflows this week.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week."
+        "U.S. Bitcoin ETFs saw $986.8 million in inflows this week."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096320375764258871"
       ],
-      "imagePath": "deliverables/pkg-20260906-just-in-u-s-btc-etfs-saw-986-8-million-in-inflow-58871/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T00:41:56.806882+00:00"
+      "imagePath": "deliverables/pkg-20260907-btc-etf-weekly-inflow/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:12:30.229665Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual\nAsset type: square X financial-news visual\nPrimary request: U.S. spot Bitcoin ETF inflows, represented by an elegant Bitcoin coin in front of a U.S. market-trading screen, with a clear rising capital-flow ribbon and stacks of institutional financial documents; entity-led, credible editorial scene.\nStyle/medium: premium financial-news photography and subtle data visualization, black and near-black base, white typography, controlled deep-red accent, cinematic realistic lighting.\nComposition/framing: exact 1:1 square, Bitcoin coin and institutional capital-flow scene dominate; reserve a clean empty lower-right corner for a logo to be composited later.\nText (verbatim): \"U.S. BITCOIN ETFs\" and \"$986.8M WEEKLY INFLOW\"\nConstraints: accurately render only these exact phrases; no other readable text or numbers, no company or exchange logos, no watermark, no source names, no disclaimers, no CTA, no generic abstract background, and not a pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqwlmye0fl6qk0yc3673ebw",
+      "publishedAt": "2026-09-07T07:12:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-robin-launches-on-robinhood-chain-sparki-03251",
@@ -15921,22 +15927,28 @@
       "publishedAt": "2026-09-06T00:43:00.000Z"
     },
     {
-      "id": "pkg-20260906-just-in-nvda-expected-to-triple-its-profit-to-ne-02203",
+      "id": "pkg-20260907-nvidia-fy29-profit",
       "benchmarkPostId": "2096273144906502203",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096273144906502203",
-      "title": "JUST IN: $NVDA expected to triple its profit to nearly $595 billion by FY29.",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: $NVDA expected to triple its profit to nearly $595 billion by\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "NVIDIA FY29 profit forecast",
+      "status": "published",
+      "postText": "NVIDIA $NVDA is expected to triple profit to nearly $595B by FY29.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: $NVDA expected to triple its profit to nearly $595 billion by FY29."
+        "NVIDIA is expected to triple profit to nearly $595 billion by fiscal 2029."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096273144906502203"
       ],
-      "imagePath": "deliverables/pkg-20260906-just-in-nvda-expected-to-triple-its-profit-to-ne-02203/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T00:41:57.264206+00:00"
+      "imagePath": "deliverables/pkg-20260907-nvidia-fy29-profit/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:12:32.813295Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual\nAsset type: square X financial-news visual\nPrimary request: NVIDIA profit forecast to fiscal 2029, represented by a photorealistic advanced AI data-center GPU wafer on a dark earnings projection chart climbing sharply toward a large profit target. Entity-led semiconductor and financial forecast scene.\nStyle/medium: premium financial-news editorial photography, black and near-black base, bold white type, controlled deep-red accent, cinematic realism.\nComposition/framing: exact 1:1 square; chip and rising earnings projection dominate; reserve clean lower-right logo-safe area.\nText (verbatim): \"NVIDIA $NVDA\" and \"~$595B FY29 PROFIT\"\nConstraints: exact phrases only; no other readable text or numbers, no logo or trademark mark, no watermark, source name, disclaimer, CTA, generic abstract background, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqwo0v40flnqk0yeyh37ak3",
+      "publishedAt": "2026-09-07T07:14:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-robinhood-chain-hood-generated-8-2-milli-12613",
@@ -16028,58 +16040,78 @@
       "publishedAt": "2026-09-06T06:41:00.000Z"
     },
     {
-      "id": "pkg-20260906-here-is-every-stock-that-has-been-added-and-remo-98976",
+      "id": "pkg-20260907-sp500-decade-changes",
       "benchmarkPostId": "2096311155614498976",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096311155614498976",
-      "title": "Here is every stock that has been added and removed from the S&amp;P 500 over the last decade",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Here is every stock that has been added and removed from the S&amp;P 5\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "S&P 500 membership changes over a decade",
+      "status": "published",
+      "postText": "S&P 500 membership has shifted across the past decade, with stocks added and removed from the index.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Here is every stock that has been added and removed from the S&amp;P 500 over the last decade"
+        "The source lists stocks added to and removed from the S&P 500 over the past decade."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096311155614498976"
       ],
-      "imagePath": "deliverables/pkg-20260906-here-is-every-stock-that-has-been-added-and-remo-98976/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:36.132028+00:00"
+      "imagePath": "deliverables/pkg-20260907-sp500-decade-changes/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:12:31.156183Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual\nAsset type: square X financial-news visual\nPrimary request: an entity-led historical S&P 500 composition scene: an elegant heavyweight U.S. stock index binder and a large wall of company nameplates moving between inclusion and removal columns over a decade, conveying stocks added and removed from the S&P 500.\nStyle/medium: premium editorial financial newsroom photography, near-black background, white type, controlled deep-red accent, cinematic realism.\nComposition/framing: exact 1:1 square; index binder and company nameplate board dominate; leave an empty lower-right logo-safe area.\nText (verbatim): \"S&P 500\" and \"10-YEAR CHANGES\"\nConstraints: exact text only; no other readable words or numbers, no corporate logos, no watermark, no source names, no disclaimer, no CTA; do not make a pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqwmqfa089blm0y7ga45lbt",
+      "publishedAt": "2026-09-07T07:13:00.000Z"
     },
     {
-      "id": "pkg-20260906-here-is-the-full-history-of-nvidia-s-nvda-market-81625",
+      "id": "pkg-20260907-nvidia-september-market-cap",
       "benchmarkPostId": "2096275001389281625",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096275001389281625",
-      "title": "Here is the full history of Nvidia's $NVDA market cap every September since going public 1999: $1.5B",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Here is the full history of Nvidia's $NVDA market cap every September \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "NVIDIA's September market-cap history",
+      "status": "published",
+      "postText": "NVIDIA $NVDA's September market cap reached $5.6T in 2026, up from $1.5B in 1999.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Here is the full history of Nvidia's $NVDA market cap every September since going public 1999: $1.5B 2000: $9B 2001: $7.5B 2002: $1.5B 2003: $3B 2004: $2.3B 2005: $5.5B 2006: $10B 2007: $18.5B 2008: $6B 2009: $8.5B 2010: $6B 2011: $9B 2012: $8.5B 2013: $9B 2014: $10.5B 2015: $12B 2016: $33B 2017: $105B 2018: $160B 2019: $105B 2020: $310B 2021: $540B 2022: $340B 2023: $1.03T 2024: $2.9T 2025: $4.3T 2026: $5.6T"
+        "NVIDIA's September 1999 market cap was $1.5 billion.",
+        "NVIDIA's September 2026 market cap was $5.6 trillion."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096275001389281625"
       ],
-      "imagePath": "deliverables/pkg-20260906-here-is-the-full-history-of-nvidia-s-nvda-market-81625/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:36.239901+00:00"
+      "imagePath": "deliverables/pkg-20260907-nvidia-september-market-cap/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:12:32.038579Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual\nAsset type: square X financial-news visual\nPrimary request: NVIDIA's market-cap history across September since its IPO, represented by a photorealistic advanced AI data-center GPU chip on a black institutional market chart rising from a small 1999 marker to a towering 2026 peak. Entity-led chip and growth chart, not generic abstraction.\nStyle/medium: premium financial-news editorial photography with a clean graphic chart, near-black base, bold white type, controlled deep-red accent, cinematic light.\nComposition/framing: exact 1:1 square; GPU chip and upward history chart dominate; empty lower-right logo-safe area.\nText (verbatim): \"NVIDIA $NVDA\" and \"$5.6T MARKET CAP\"\nConstraints: render exact phrases only; no other readable text or numbers, no company logos, watermark, source names, disclaimer, CTA, generic background, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqwnbnf0flhqk0yv6n8l70p",
+      "publishedAt": "2026-09-07T07:14:00.000Z"
     },
     {
-      "id": "pkg-20260906-here-is-the-full-history-of-apple-s-aapl-market--94083",
+      "id": "pkg-20260907-apple-september-market-cap",
       "benchmarkPostId": "2096270144343294083",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096270144343294083",
-      "title": "Here is the full history of Apple's $AAPL market cap every September since 1984 1984: $1.6B 1985: $1",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Here is the full history of Apple's $AAPL market cap every September s\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Apple's September market-cap history",
+      "status": "published",
+      "postText": "Apple $AAPL's September market cap reached $4.7T in 2026, up from $1.6B in 1984.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Here is the full history of Apple's $AAPL market cap every September since 1984 1984: $1.6B 1985: $1B 1986: $2.2B 1987: $6.5B 1988: $5.4B 1989: $5.5B 1990: $4B 1991: $5.9B 1992: $5.6B 1993: $2.9B 1994: $4.2B 1995: $5B 1996: $2.8B 1997: $2.8B (Steve Jobs takes over as CEO) 1998: $5B 1999: $12B 2000: $18B 2001: $6B 2002: $5B 2003: $8B 2004: $14B 2005: $40B 2006: $60B 2007: $120B 2008: $125B 2009: $155B 2010: $250B 2011: $360B (Tim Cook takes over as CEO) 2012: $650B 2013: $420B 2014: $600B 2015: $650B 2016: $600B 2017: $800B 2018: $1.05 TRILLION 2019: $1T 2020: $1.9T 2021: $2.5T 2022: $2.5T 2023: $2.75T 2024: $3.5T 2025: $3.5T 2026: $4.7T (John Ternus takes over as CEO)"
+        "Apple's September 1984 market cap was $1.6 billion.",
+        "Apple's September 2026 market cap was $4.7 trillion, with John Ternus taking over as CEO."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096270144343294083"
       ],
-      "imagePath": "deliverables/pkg-20260906-here-is-the-full-history-of-apple-s-aapl-market--94083/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:36.357654+00:00"
+      "imagePath": "deliverables/pkg-20260907-apple-september-market-cap/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:12:33.443306Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual\nAsset type: square X financial-news visual\nPrimary request: Apple market-cap history since 1984 and its 2026 leadership transition, shown with an elegant unbranded premium smartphone silhouette beside a long ascending market-cap timeline that reaches a 2026 peak, entity-led and factual.\nStyle/medium: premium financial-news editorial photography with minimalist chart detail, black and near-black base, bold white type, controlled deep-red accent, cinematic realism.\nComposition/framing: exact 1:1 square; smartphone and history timeline dominate; clean empty lower-right logo-safe area.\nText (verbatim): \"APPLE $AAPL\" and \"$4.7T MARKET CAP\"\nConstraints: render exact phrases only; no other readable text or numbers, no Apple logo, no watermark, source names, disclaimer, CTA, generic abstract background, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqwosq70flxqk0ye09cxemg",
+      "publishedAt": "2026-09-07T07:15:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-stepn-dev-launches-stroll-on-robinhood-c-63261",
@@ -18334,12 +18366,12 @@
       "url": "https://x.com/_When2buy/status/2096833975658680669",
       "postizPostId": "cmtqszzfy078ilm0y1mvqeg5g",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:32:00.000Z",
         "windowEnd": "2026-09-10T05:32:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18351,12 +18383,12 @@
       "url": "https://x.com/_When2buy/status/2096834091673063588",
       "postizPostId": "cmtqt0l0d0eivqk0ybvko5wm4",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:32:00.000Z",
         "windowEnd": "2026-09-10T05:32:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18368,12 +18400,12 @@
       "url": "https://x.com/_When2buy/status/2096834296762011792",
       "postizPostId": "cmtqt1mv70791lm0yyqne9pcu",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:33:00.000Z",
         "windowEnd": "2026-09-10T05:33:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18385,12 +18417,12 @@
       "url": "https://x.com/_When2buy/status/2096834411216159009",
       "postizPostId": "cmtqt285c0794lm0y9fhpw58e",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:33:00.000Z",
         "windowEnd": "2026-09-10T05:33:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18402,12 +18434,12 @@
       "url": "https://x.com/_When2buy/status/2096834524735013203",
       "postizPostId": "cmtqt2t8t0796lm0ynvrbkxsq",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:34:00.000Z",
         "windowEnd": "2026-09-10T05:34:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18419,12 +18451,12 @@
       "url": "https://x.com/_When2buy/status/2096839822057115976",
       "postizPostId": "cmtqttud00em9qk0yxv93eirw",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:55:00.000Z",
         "windowEnd": "2026-09-10T05:55:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18436,12 +18468,12 @@
       "url": "https://x.com/_When2buy/status/2096840008116420742",
       "postizPostId": "cmtqtuskz0emaqk0ye1bhh06a",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:56:00.000Z",
         "windowEnd": "2026-09-10T05:56:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18453,12 +18485,12 @@
       "url": "https://x.com/_When2buy/status/2096840177251680334",
       "postizPostId": "cmtqtvolo0emdqk0y1km09u77",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:56:00.000Z",
         "windowEnd": "2026-09-10T05:56:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18470,12 +18502,12 @@
       "url": "https://x.com/_When2buy/status/2096840363533312068",
       "postizPostId": "cmtqtwgtb07d3lm0yo0212izd",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T05:57:00.000Z",
         "windowEnd": "2026-09-10T05:57:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18487,12 +18519,12 @@
       "url": "https://x.com/_When2buy/status/2096845001351393501",
       "postizPostId": "cmtqukbdj07julm0y19ad2srw",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:15:00.000Z",
         "windowEnd": "2026-09-10T06:15:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18504,12 +18536,12 @@
       "url": "https://x.com/_When2buy/status/2096845136185663992",
       "postizPostId": "cmtqul0k807jwlm0yn1rjrx0z",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:16:00.000Z",
         "windowEnd": "2026-09-10T06:16:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18521,12 +18553,12 @@
       "url": "https://x.com/_When2buy/status/2096845250576977938",
       "postizPostId": "cmtqullvi07jylm0ygpwkho5h",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:16:00.000Z",
         "windowEnd": "2026-09-10T06:16:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18538,12 +18570,12 @@
       "url": "https://x.com/_When2buy/status/2096845367338041635",
       "postizPostId": "cmtqum7ai0etvqk0ynl0olikv",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:17:00.000Z",
         "windowEnd": "2026-09-10T06:17:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18555,12 +18587,12 @@
       "url": "https://x.com/_When2buy/status/2096845481288851512",
       "postizPostId": "cmtqumsjc0etzqk0yfuohxsa6",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:17:00.000Z",
         "windowEnd": "2026-09-10T06:17:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18572,12 +18604,12 @@
       "url": "https://x.com/_When2buy/status/2096849491324551540",
       "postizPostId": "cmtqv79p50ezgqk0ydypz57nx",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:33:00.000Z",
         "windowEnd": "2026-09-10T06:33:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18589,12 +18621,12 @@
       "url": "https://x.com/_When2buy/status/2096849615861793099",
       "postizPostId": "cmtqv7xhv07pelm0ywsobwkik",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:34:00.000Z",
         "windowEnd": "2026-09-10T06:34:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18606,12 +18638,12 @@
       "url": "https://x.com/_When2buy/status/2096849736842232137",
       "postizPostId": "cmtqv8jee07pglm0y03uao9aa",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:34:00.000Z",
         "windowEnd": "2026-09-10T06:34:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18623,12 +18655,12 @@
       "url": "https://x.com/_When2buy/status/2096849878433624359",
       "postizPostId": "cmtqv98ly07pllm0y9a38wo9g",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:35:00.000Z",
         "windowEnd": "2026-09-10T06:35:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18640,12 +18672,12 @@
       "url": "https://x.com/_When2buy/status/2096849998738788846",
       "postizPostId": "cmtqv9um40f0nqk0ydmq6ggas",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:35:00.000Z",
         "windowEnd": "2026-09-10T06:35:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18657,12 +18689,12 @@
       "url": "https://x.com/_When2buy/status/2096854162210509026",
       "postizPostId": "cmtqvv5hp07x4lm0y29cp7r2f",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:52:00.000Z",
         "windowEnd": "2026-09-10T06:52:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18674,12 +18706,12 @@
       "url": "https://x.com/_When2buy/status/2096854301000003651",
       "postizPostId": "cmtqvvvar07xdlm0y3vztolhm",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:52:00.000Z",
         "windowEnd": "2026-09-10T06:52:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18691,12 +18723,12 @@
       "url": "https://x.com/_When2buy/status/2096854447158964727",
       "postizPostId": "cmtqvwm1d07xklm0yphmzwh9r",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:53:00.000Z",
         "windowEnd": "2026-09-10T06:53:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18708,12 +18740,12 @@
       "url": "https://x.com/_When2buy/status/2096854587550679371",
       "postizPostId": "cmtqvxc3a0f8yqk0y2cbnv703",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:54:00.000Z",
         "windowEnd": "2026-09-10T06:54:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -18725,12 +18757,97 @@
       "url": "https://x.com/_When2buy/status/2096854732249952423",
       "postizPostId": "cmtqvy2a80f95qk0ypae5tziv",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T06:54:00.000Z",
         "windowEnd": "2026-09-10T06:54:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096859345426468895",
+      "packageId": "pkg-20260907-btc-etf-weekly-inflow",
+      "title": "U.S. Bitcoin ETFs see $986.8M weekly inflow",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:12:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096859345426468895",
+      "postizPostId": "cmtqwlmye0fl6qk0yc3673ebw",
+      "metricsTracking": {
+        "status": "daily-active",
+        "windowStart": "2026-09-07T07:12:00.000Z",
+        "windowEnd": "2026-09-10T07:12:00Z",
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096859560149647529",
+      "packageId": "pkg-20260907-sp500-decade-changes",
+      "title": "S&P 500 membership changes over a decade",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:13:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096859560149647529",
+      "postizPostId": "cmtqwmqfa089blm0y7ga45lbt",
+      "metricsTracking": {
+        "status": "daily-active",
+        "windowStart": "2026-09-07T07:13:00.000Z",
+        "windowEnd": "2026-09-10T07:13:00Z",
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096859679486095536",
+      "packageId": "pkg-20260907-nvidia-september-market-cap",
+      "title": "NVIDIA's September market-cap history",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:14:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096859679486095536",
+      "postizPostId": "cmtqwnbnf0flhqk0yv6n8l70p",
+      "metricsTracking": {
+        "status": "daily-active",
+        "windowStart": "2026-09-07T07:14:00.000Z",
+        "windowEnd": "2026-09-10T07:14:00Z",
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096859829679837591",
+      "packageId": "pkg-20260907-nvidia-fy29-profit",
+      "title": "NVIDIA FY29 profit forecast",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:14:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096859829679837591",
+      "postizPostId": "cmtqwo0v40flnqk0yeyh37ak3",
+      "metricsTracking": {
+        "status": "daily-active",
+        "windowStart": "2026-09-07T07:14:00.000Z",
+        "windowEnd": "2026-09-10T07:14:00Z",
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096860021741265261",
+      "packageId": "pkg-20260907-apple-september-market-cap",
+      "title": "Apple's September market-cap history",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:15:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096860021741265261",
+      "postizPostId": "cmtqwosq70flxqk0ye09cxemg",
+      "metricsTracking": {
+        "status": "daily-active",
+        "windowStart": "2026-09-07T07:15:00.000Z",
+        "windowEnd": "2026-09-10T07:15:00Z",
+        "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     }
   ],
@@ -24485,6 +24602,615 @@
         },
         "checkedAt": "2026-09-07T01:10:21.428924Z"
       }
+    },
+    {
+      "id": "metric-2096833975658680669-20260907T071625Z",
+      "postId": "2096833975658680669",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096833975658680669",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096834091673063588-20260907T071625Z",
+      "postId": "2096834091673063588",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096834091673063588",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096834296762011792-20260907T071625Z",
+      "postId": "2096834296762011792",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096834296762011792",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096834411216159009-20260907T071625Z",
+      "postId": "2096834411216159009",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096834411216159009",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096834524735013203-20260907T071625Z",
+      "postId": "2096834524735013203",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096834524735013203",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096839822057115976-20260907T071625Z",
+      "postId": "2096839822057115976",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096839822057115976",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096840008116420742-20260907T071625Z",
+      "postId": "2096840008116420742",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096840008116420742",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096840177251680334-20260907T071625Z",
+      "postId": "2096840177251680334",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096840177251680334",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096840363533312068-20260907T071625Z",
+      "postId": "2096840363533312068",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096840363533312068",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096845001351393501-20260907T071625Z",
+      "postId": "2096845001351393501",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096845001351393501",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096845136185663992-20260907T071625Z",
+      "postId": "2096845136185663992",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096845136185663992",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096845250576977938-20260907T071625Z",
+      "postId": "2096845250576977938",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096845250576977938",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096845367338041635-20260907T071625Z",
+      "postId": "2096845367338041635",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096845367338041635",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096845481288851512-20260907T071625Z",
+      "postId": "2096845481288851512",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096845481288851512",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096849491324551540-20260907T071625Z",
+      "postId": "2096849491324551540",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096849491324551540",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096849615861793099-20260907T071625Z",
+      "postId": "2096849615861793099",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096849615861793099",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096849736842232137-20260907T071625Z",
+      "postId": "2096849736842232137",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096849736842232137",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096849878433624359-20260907T071625Z",
+      "postId": "2096849878433624359",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096849878433624359",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096849998738788846-20260907T071625Z",
+      "postId": "2096849998738788846",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096849998738788846",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096854162210509026-20260907T071625Z",
+      "postId": "2096854162210509026",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096854162210509026",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096854301000003651-20260907T071625Z",
+      "postId": "2096854301000003651",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096854301000003651",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096854447158964727-20260907T071625Z",
+      "postId": "2096854447158964727",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096854447158964727",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096854587550679371-20260907T071625Z",
+      "postId": "2096854587550679371",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096854587550679371",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096854732249952423-20260907T071625Z",
+      "postId": "2096854732249952423",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096854732249952423",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096859345426468895-20260907T071625Z",
+      "postId": "2096859345426468895",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096859345426468895",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096859560149647529-20260907T071625Z",
+      "postId": "2096859560149647529",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096859560149647529",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096859679486095536-20260907T071625Z",
+      "postId": "2096859679486095536",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096859679486095536",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096859829679837591-20260907T071625Z",
+      "postId": "2096859829679837591",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096859829679837591",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
+    },
+    {
+      "id": "metric-2096860021741265261-20260907T071625Z",
+      "postId": "2096860021741265261",
+      "observedAt": "2026-09-07T07:16:25.591771Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096860021741265261",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T07:16:25.591771Z"
+      }
     }
   ],
   "experiments": [],
@@ -27329,6 +28055,82 @@
       "startedAt": "2026-09-07T06:55:11Z",
       "completedAt": "2026-09-07T06:55:11Z",
       "summary": "Prepared 49 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T070639Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:06:39Z",
+      "completedAt": "2026-09-07T07:06:39Z",
+      "summary": "Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T070639Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:06:39Z",
+      "completedAt": "2026-09-07T07:06:39Z",
+      "summary": "Prepared 49 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T071233Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:12:33.443405Z",
+      "completedAt": "2026-09-07T07:12:33.443411Z",
+      "summary": "Remade the first five queue items with image-model visuals, exact-logo compositing, and visual QA.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T071321Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:13:21.905099+00:00",
+      "completedAt": "2026-09-07T07:13:21.905107+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T071413Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:14:13.113416+00:00",
+      "completedAt": "2026-09-07T07:14:13.113422+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T071445Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:14:45.695574+00:00",
+      "completedAt": "2026-09-07T07:14:45.695583+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T071521Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:15:21.917979+00:00",
+      "completedAt": "2026-09-07T07:15:21.917984+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T071605Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:16:05.350672+00:00",
+      "completedAt": "2026-09-07T07:16:05.350685+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ]

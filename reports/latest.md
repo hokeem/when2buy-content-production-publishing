@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T06:55:11.089673+00:00`
+- 状态更新：`2026-09-07T07:16:29.374257+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**292**
 - 待选选题：**251**
-- 待发布制作包：**108**
-- 已验证发布：**104**
+- 待发布制作包：**103**
+- 已验证发布：**109**
 
 ## 对标账号扫描
 
@@ -1427,12 +1427,12 @@ More people are paying for Hinge while fewer are paying for Tinder.  When2Buy �
 
 Duke University now costs more than $100,000 per year.  When2Buy — your U.S. stock partner.
 
-### JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week.
+### U.S. Bitcoin ETFs see $986.8M weekly inflow
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-just-in-u-s-btc-etfs-saw-986-8-million-in-inflow-58871/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-btc-etf-weekly-inflow/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+U.S. $BTC ETFs saw $986.8M in inflows this week.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v
 
@@ -1448,12 +1448,12 @@ Market radar: @WhaleInsider reports: JUST IN: $ROBIN launches on Robinhood Chain
 
 Market radar: @WhaleInsider reports: JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kals  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
-### JUST IN: $NVDA expected to triple its profit to nearly $595 billion by FY29.
+### NVIDIA FY29 profit forecast
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-just-in-nvda-expected-to-triple-its-profit-to-ne-02203/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-nvidia-fy29-profit/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: $NVDA expected to triple its profit to nearly $595 billion by  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+NVIDIA $NVDA is expected to triple profit to nearly $595B by FY29.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday.
 
@@ -1483,26 +1483,26 @@ September ends.  When2Buy — your U.S. stock partner.
 
 Market radar: @StockMKTNewz reports: Someone bought this home in Miami for $1.4 Million off of Facebook Mar  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### Here is every stock that has been added and removed from the S&amp;P 500 over the last decade
+### S&P 500 membership changes over a decade
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-here-is-every-stock-that-has-been-added-and-remo-98976/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-sp500-decade-changes/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Here is every stock that has been added and removed from the S&amp;P 5  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+S&P 500 membership has shifted across the past decade, with stocks added and removed from the index.  When2Buy — your U.S. stock partner.
 
-### Here is the full history of Nvidia's $NVDA market cap every September since going public 1999: $1.5B
+### NVIDIA's September market-cap history
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-here-is-the-full-history-of-nvidia-s-nvda-market-81625/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-nvidia-september-market-cap/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Here is the full history of Nvidia's $NVDA market cap every September   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+NVIDIA $NVDA's September market cap reached $5.6T in 2026, up from $1.5B in 1999.  When2Buy — your U.S. stock partner.
 
-### Here is the full history of Apple's $AAPL market cap every September since 1984 1984: $1.6B 1985: $1
+### Apple's September market-cap history
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-here-is-the-full-history-of-apple-s-aapl-market--94083/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-apple-september-market-cap/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Here is the full history of Apple's $AAPL market cap every September s  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Apple $AAPL's September market cap reached $4.7T in 2026, up from $1.6B in 1984.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f
 
@@ -1869,33 +1869,46 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096761601777086823) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096761735374164145) |
-| U.S. stock market closed Monday | 2026-09-07T05:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096833975658680669) |
-| Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834091673063588) |
-| Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834296762011792) |
-| Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834411216159009) |
-| Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834524735013203) |
-| Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096839822057115976) |
-| U.S. market closures for the rest of 2026 | 2026-09-07T05:56:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840008116420742) |
-| Bitcoin reaches 1% of global money | 2026-09-07T05:56:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840177251680334) |
-| Bitcoin odds put $50,000 first below 16% | 2026-09-07T05:57:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096840363533312068) |
-| Regular NFL season starts | 2026-09-07T06:15:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845001351393501) |
-| 5.244% 30-year yield calculation | 2026-09-07T06:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845136185663992) |
-| Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845250576977938) |
-| U.S. market closed for Labor Day | 2026-09-07T06:17:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845367338041635) |
-| Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845481288851512) |
-| Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849491324551540) |
-| Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849615861793099) |
-| 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849736842232137) |
-| .hood names bring ERC-6551 stock accounts | 2026-09-07T06:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849878433624359) |
-| Robinhood Chain assets near $2B | 2026-09-07T06:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849998738788846) |
-| Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854162210509026) |
-| Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854301000003651) |
-| Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854447158964727) |
-| Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854587550679371) |
-| September ends | 2026-09-07T06:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854732249952423) |
+| U.S. stock market closed Monday | 2026-09-07T05:32:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096833975658680669) |
+| Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096834091673063588) |
+| Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096834296762011792) |
+| Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096834411216159009) |
+| Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096834524735013203) |
+| Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096839822057115976) |
+| U.S. market closures for the rest of 2026 | 2026-09-07T05:56:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096840008116420742) |
+| Bitcoin reaches 1% of global money | 2026-09-07T05:56:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096840177251680334) |
+| Bitcoin odds put $50,000 first below 16% | 2026-09-07T05:57:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096840363533312068) |
+| Regular NFL season starts | 2026-09-07T06:15:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096845001351393501) |
+| 5.244% 30-year yield calculation | 2026-09-07T06:16:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096845136185663992) |
+| Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096845250576977938) |
+| U.S. market closed for Labor Day | 2026-09-07T06:17:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096845367338041635) |
+| Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096845481288851512) |
+| Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096849491324551540) |
+| Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096849615861793099) |
+| 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096849736842232137) |
+| .hood names bring ERC-6551 stock accounts | 2026-09-07T06:35:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096849878433624359) |
+| Robinhood Chain assets near $2B | 2026-09-07T06:35:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096849998738788846) |
+| Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096854162210509026) |
+| Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096854301000003651) |
+| Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096854447158964727) |
+| Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096854587550679371) |
+| September ends | 2026-09-07T06:54:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096854732249952423) |
+| U.S. Bitcoin ETFs see $986.8M weekly inflow | 2026-09-07T07:12:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096859345426468895) |
+| S&P 500 membership changes over a decade | 2026-09-07T07:13:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096859560149647529) |
+| NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096859679486095536) |
+| NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096859829679837591) |
+| Apple's September market-cap history | 2026-09-07T07:15:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096860021741265261) |
 
 ## 最近运行
 
+- `2026-09-07T07:16:05.350672+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:15:21.917979+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:14:45.695574+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:14:13.113416+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:13:21.905099+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:12:33.443405Z` **produce / succeeded** — Remade the first five queue items with image-model visuals, exact-logo compositing, and visual QA.
+- `2026-09-07T07:06:39Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-07T07:06:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
 - `2026-09-07T06:55:11Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-07T06:55:02.045916+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:54:29.240263+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1908,11 +1921,3 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 - `2026-09-07T06:46:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T06:36:13.975492+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:35:44.348313+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:35:11.645228+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:34:43.157141+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:34:14.792456+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:33:18.381677+00:00` **produce / succeeded** — Remade five current timestamp-first packages with entity-led image-model visuals and exact-logo compositing.
-- `2026-09-07T06:26:09Z` **queue / succeeded** — Prepared 59 one-to-one production candidate(s).
-- `2026-09-07T06:26:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-07T06:18:16.532905+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:17:49.121549+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
