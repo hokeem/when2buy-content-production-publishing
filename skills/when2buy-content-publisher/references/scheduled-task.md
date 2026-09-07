@@ -17,6 +17,12 @@ Process items independently and continue after an item-level failure. A run is s
 
 ## Daily Postiz publication metrics (09:05)
 
+Run `python3 scripts/collect_public_metrics.py` once daily, then regenerate `reports/metrics-dashboard.html` and run `python3 scripts/publish_run_panel.py`. The performance page reports daily production counts, latest attributable metrics, trends, and metric coverage separately from the content factory.
+
 Run `python3 scripts/collect_public_metrics.py` once daily. The task operates only on `posts` that were published through Postiz and whose `publishedAt` is no more than 72 hours ago. It first calls `GET /analytics/post/{postizPostId}?date=<1..3>` on the Postiz Public API and maps `Impressions`, `Replies`, `Retweets`, and `Likes` to views/replies/reposts/likes with endpoint and field evidence in each snapshot. The post's public X URL is a secondary fallback only when Postiz is unavailable or returns no usable mapped values; a page that exposes no parseable number creates no observation. Once the 72-hour window ends, it records `posts[].metricsTracking.status = complete`; completed posts are never fetched again. This task does not publish, edit, or delete social content.
 
 Every run stores exact source text, X URL, visible engagement fields, original-media URLs, and artifact paths internally. Existing standing authorization permits Postiz delivery; no interactive confirmation is required.
+
+## Weekly content analysis (Monday 10:00)
+
+Every Monday in Asia/Shanghai, run `python3 scripts/render_weekly_analysis.py`, then `python3 scripts/publish_run_panel.py --weekly`. The report covers the latest seven calendar days, compares them with the preceding seven, ranks the top 10 by latest attributable views, describes observable strengths, analyzes topic and publishing-window medians, and records next-week actions. Keep `reports/weekly/YYYY-Www.html` files as the historical archive. Missing metrics must remain visible through coverage and sample-size labels.

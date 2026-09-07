@@ -15,7 +15,9 @@ jobs:
       - run: python3 scripts/collect_apify_benchmarks.py --help
       - run: python3 scripts/postiz_publish.py --help
       - run: python3 scripts/validate_content_standard.py --help
-      - run: python3 scripts/publish_run_panel.py --check-only
       - run: python3 scripts/render_run_panel.py
+      - run: python3 scripts/render_metrics_dashboard.py
+      - run: python3 scripts/render_weekly_analysis.py
+      - run: python3 scripts/publish_run_panel.py --check-only
       - run: python3 scripts/security_scan.py
       - run: python3 scripts/render_report.py --check
