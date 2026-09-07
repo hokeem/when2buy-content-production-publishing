@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T22:08:14.067840+00:00",
+  "updatedAt": "2026-09-07T22:26:38.682613+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -78934,7 +78934,7 @@
       "status": "partial",
       "startedAt": "2026-09-07T21:07:54Z",
       "completedAt": "2026-09-07T21:07:54Z",
-      "summary": "Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "summary": "Apify collection and timestamp-first queue rebuild completed; ready packages were retained while publication was withheld by the active Postiz delivery circuit breaker.",
       "reason": "Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.",
       "circuitBreaker": {
         "active": true,
@@ -79071,6 +79071,42 @@
       "completedAt": "2026-09-07T22:07:49Z",
       "summary": "Apify benchmark collection, media archival, newest-first queue rebuild, 72-hour metrics collection, and report preparation completed; no Postiz submission was made while the delivery circuit breaker was active.",
       "reason": "Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried. The 60-minute delivery check also found ERROR delivery cmtrr3ez70i9qlm0yxzylqhrl without a public release URL. Circuit breaker remains active until 2026-09-07T22:47:29Z.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T22:47:29Z",
+        "deliveryReason": "Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried."
+      }
+    },
+    {
+      "id": "run-20260907T222605Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T22:26:05Z",
+      "completedAt": "2026-09-07T22:26:05Z",
+      "summary": "Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T222611Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T22:26:11Z",
+      "completedAt": "2026-09-07T22:26:11Z",
+      "summary": "Prepared 46 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T222638Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T22:26:38Z",
+      "completedAt": "2026-09-07T22:26:38Z",
+      "summary": "Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried.",
       "circuitBreaker": {
         "active": true,
         "expiresAt": "2026-09-07T22:47:29Z",

@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T22:08:14.067840+00:00`
+- 状态更新：`2026-09-07T22:26:38.682613+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**341**
 - 待选选题：**299**
@@ -2280,6 +2280,9 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 
 ## 最近运行
 
+- `2026-09-07T22:26:38Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-07T22:26:11Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-07T22:26:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
 - `2026-09-07T22:07:49Z` **full / partial** — Apify benchmark collection, media archival, newest-first queue rebuild, 72-hour metrics collection, and report preparation completed; no Postiz submission was made while the delivery circuit breaker was active. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried. The 60-minute delivery check also found ERROR delivery cmtrr3ez70i9qlm0yxzylqhrl without a public release URL. Circuit breaker remains active until 2026-09-07T22:47:29Z.
 - `2026-09-07T22:06:36.156190+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
 - `2026-09-07T22:06:31Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
@@ -2292,11 +2295,8 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 - `2026-09-07T21:26:12Z` **full / partial** — Apify collection and timestamp-first queue rebuild completed; the sole newest ready-package Postiz probe did not yield a verified public X URL. Postiz X delivery cmtrr3ez70i9qlm0yxzylqhrl was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T21:26:13Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
 - `2026-09-07T21:26:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T21:07:54Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-07T21:07:54Z` **full / partial** — Apify collection and timestamp-first queue rebuild completed; ready packages were retained while publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T21:07:27Z` **produce / succeeded** — Produced the newest eligible prediction-market package from an inspected image-model visual with exact-logo compositing.
 - `2026-09-07T21:05:53Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
 - `2026-09-07T21:05:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-07T20:46:24Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-07T20:45:56Z` **queue / succeeded** — Prepared 41 one-to-one production candidate(s).
-- `2026-09-07T20:45:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T20:29:00Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
