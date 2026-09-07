@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T20:13:10.137576+00:00",
+  "updatedAt": "2026-09-07T20:29:00.966056+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9276,6 +9276,71 @@
       "source": "apify",
       "isPinned": false,
       "capturedAt": "2026-09-07T20:06:09Z"
+    },
+    {
+      "id": "2097058112251322868",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097058112251322868",
+      "postedAt": "Mon Sep 07 20:23:10 +0000 2026",
+      "text": "ROBINHOOD IS UNDERWRITING ITS FIRST IPO\n\nOura has named Robinhood $HOOD as an underwriter for its upcoming IPO, marking Robinhood’s first official underwriting mandate https://t.co/feXtRSooKq",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRo_OvvbQAE5k--.jpg"
+      ],
+      "engagement": {
+        "likes": 21,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 6,
+        "views": 6874
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T20:26:06Z",
+      "mediaArchive": [
+        {
+          "url": "https://pbs.twimg.com/media/HRo_OvvbQAE5k--.jpg",
+          "path": "deliverables/pkg-20260908-robinhood-first-oura-ipo-underwriter/benchmark-media-1.jpg",
+          "status": "archived",
+          "archivedAt": "2026-09-07T20:28:30Z"
+        }
+      ]
+    },
+    {
+      "id": "2097057155824206271",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097057155824206271",
+      "postedAt": "Mon Sep 07 20:19:22 +0000 2026",
+      "text": "JUST IN: $XRP futures activity surges to six-month high amid price volatility​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/swwoEN4Ox2",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRo-XXHXQAABY42.jpg",
+        "https://pbs.twimg.com/media/HRo-XXRWkAExCv5.jpg"
+      ],
+      "engagement": {
+        "likes": 41,
+        "replies": 13,
+        "reposts": 15,
+        "quotes": 4,
+        "views": 11821
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T20:26:06Z",
+      "mediaArchive": [
+        {
+          "url": "https://pbs.twimg.com/media/HRo-XXHXQAABY42.jpg",
+          "path": "deliverables/pkg-20260908-xrp-futures-six-month-high/benchmark-media-1.jpg",
+          "status": "archived",
+          "archivedAt": "2026-09-07T20:28:31Z"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HRo-XXRWkAExCv5.jpg",
+          "path": "deliverables/pkg-20260908-xrp-futures-six-month-high/benchmark-media-2.jpg",
+          "status": "archived",
+          "archivedAt": "2026-09-07T20:28:31Z"
+        }
+      ]
     }
   ],
   "radar": [
@@ -14901,6 +14966,44 @@
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2097058112251322868",
+      "rank": 1,
+      "title": "ROBINHOOD IS UNDERWRITING ITS FIRST IPO Oura has named Robinhood $HOOD as an underwriter for…",
+      "benchmarkPostId": "2097058112251322868",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097058112251322868",
+      "score": 7814,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T20:26:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097057155824206271",
+      "rank": 2,
+      "title": "JUST IN: $XRP futures activity surges to six-month high amid price volatility​​​​​​​​​​​​​​​…",
+      "benchmarkPostId": "2097057155824206271",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097057155824206271",
+      "score": 14151,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T20:26:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
       }
     }
   ],
@@ -20614,6 +20717,76 @@
           "checks": [
             "square 1254x1254",
             "entity-led market-opening bell visual",
+            "no generated readable text, attribution, source handle, or URL",
+            "near-black premium palette with white and restrained-red accents",
+            "not a pure-text or generic-radar image",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged or malformed subject"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-robinhood-first-oura-ipo-underwriter",
+      "benchmarkPostId": "2097058112251322868",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097058112251322868",
+      "title": "Robinhood wins first IPO underwriting mandate",
+      "status": "ready",
+      "postText": "Robinhood $HOOD just landed its first official IPO underwriting mandate as Oura prepares to go public.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Oura named Robinhood $HOOD as an underwriter for its upcoming IPO.",
+        "This is Robinhood's first official underwriting mandate."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097058112251322868"
+      ],
+      "imagePath": "deliverables/pkg-20260908-robinhood-first-oura-ipo-underwriter/when2buy-image-model.png",
+      "createdAt": "2026-09-07T20:28:30Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Asset type: premium 1:1 X financial-news editorial visual for When2Buy. Primary request: original entity-led visual for Robinhood's first official IPO underwriting mandate, involving the Oura IPO. Scene/backdrop: high-end near-black investment-bank boardroom and underwriting workspace with real paper, glass and metal. Subject: a dark IPO prospectus folder and underwriting desk, with an abstract circular wellness-ring product cue; no Robinhood, Oura or exchange logos. Style/medium: cinematic premium financial-news photography, sharp white highlights and one restrained deep-red accent. Composition/framing: exact square 1:1, main subject center-left, lower-right 20 percent clean and near-black for one supplied logo. Text: none. Constraints: no readable or pseudo-text, letters, numbers, watermarks, social UI, source names, source handles, URLs, attribution, disclaimers, CTA, people, generic radar graphics, pure typography-card layout, malformed rings, damaged objects or duplicate objects.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T20:28:30Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led IPO prospectus and underwriting-desk visual",
+            "no generated readable text, attribution, source handle, or URL",
+            "near-black premium palette with white and restrained-red accents",
+            "not a pure-text or generic-radar image",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged or malformed subject"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-xrp-futures-six-month-high",
+      "benchmarkPostId": "2097057155824206271",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097057155824206271",
+      "title": "XRP futures activity hits six-month high",
+      "status": "ready",
+      "postText": "$XRP futures activity just reached a six-month high as price volatility accelerates.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "XRP futures activity surged to a six-month high.",
+        "The surge occurred amid price volatility."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097057155824206271"
+      ],
+      "imagePath": "deliverables/pkg-20260908-xrp-futures-six-month-high/when2buy-image-model.png",
+      "createdAt": "2026-09-07T20:28:32Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Asset type: premium 1:1 X financial-news editorial visual for a crypto derivatives activity surge. Primary request: original entity-led visual for XRP futures activity reaching a six-month high during price volatility. Scene/backdrop: cinematic near-black institutional derivatives desk with no brand or exchange identity. Subject: a sculptural unbranded silver-and-ice-blue digital-asset coin with an abstract ripple motif and a physical futures-contract setup, not a generic abstract concept. Style/medium: high-end editorial financial photography, sharp white rim light, icy-blue material highlight and restrained red volatility accent. Composition/framing: exact square 1:1, main subject center-left, lower-right 20 percent clean and near-black for one supplied logo. Text: none. Constraints: no readable or pseudo-text, letters, numbers, watermarks, logos, social UI, source names, source handles, URLs, attribution, disclaimers, CTA, people, generic radar graphics, pure typography-card layout, malformed coin or damaged objects.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T20:28:32Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led digital-asset coin and futures-desk visual",
             "no generated readable text, attribution, source handle, or URL",
             "near-black premium palette with white and restrained-red accents",
             "not a pure-text or generic-radar image",
@@ -71251,6 +71424,51 @@
       "completedAt": "2026-09-07T20:13:10Z",
       "summary": "Prepared 39 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260907T202606Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T20:26:06Z",
+      "completedAt": "2026-09-07T20:26:06Z",
+      "summary": "Apify scanned both benchmark accounts; captured 42 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T202612Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T20:26:12Z",
+      "completedAt": "2026-09-07T20:26:12Z",
+      "summary": "Prepared 41 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T202832Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T20:28:32Z",
+      "completedAt": "2026-09-07T20:28:32Z",
+      "summary": "Archived the two newest Apify media sets and produced both timestamp-first packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T202900Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T20:29:00Z",
+      "completedAt": "2026-09-07T20:29:00Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T21:11:33Z",
+        "deliveryReason": "Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
