@@ -1,394 +1,10 @@
 {
-  "generatedAt": "2026-09-07T06:26:09Z",
+  "generatedAt": "2026-09-07T06:55:11Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2096554949349875958",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260906-robinhood-hood-now-makes-more-money-from-trading-75958",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2096554949349875958",
-      "originalText": "Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does from people trading stocks https://t.co/MxxglThpcJ",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRh1As1W4AMM7lo.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRh1As1W4AMM7lo.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2096554949349875958-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 89,
-        "replies": 12,
-        "reposts": 7,
-        "quotes": 1,
-        "views": 17383
-      },
-      "postedAt": "Sun Sep 06 11:03:46 +0000 2026",
-      "score": 20053,
-      "heatScore": 20053,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
-      "benchmarkPostId": "2096541618522161474",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260906-just-in-the-fed-plans-to-purchase-up-to-2-122-bi-61474",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2096541618522161474",
-      "originalText": "JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of approximately $17 billion in planned reinvestment purchases between August 14 and September 14. https://t.co/EnJlBgwTuL",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRhpYSYWsAA4J-1.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRhpYSYWsAA4J-1.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2096541618522161474-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 457,
-        "replies": 38,
-        "reposts": 32,
-        "quotes": 7,
-        "views": 35232
-      },
-      "postedAt": "Sun Sep 06 10:10:48 +0000 2026",
-      "score": 47912,
-      "heatScore": 47912,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
-      "benchmarkPostId": "2096521032416768125",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260906-just-in-the-number-of-401-k-millionaires-has-sur-68125",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2096521032416768125",
-      "originalText": "JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000. https://t.co/fwa9ay6BvS",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRhWxDoXcAIwtGf.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRhWxDoXcAIwtGf.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2096521032416768125-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 280,
-        "replies": 28,
-        "reposts": 22,
-        "quotes": 8,
-        "views": 39050
-      },
-      "postedAt": "Sun Sep 06 08:49:00 +0000 2026",
-      "score": 47350,
-      "heatScore": 47350,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2096506955866976379",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260906-just-in-hooddomains-hd-is-building-the-ens-of-ro-76379",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2096506955866976379",
-      "originalText": "JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock accounts powered by ERC-6551. https://t.co/nMQu3Kl3Kq",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRhJ9kdWAAElTW1.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRhJ9kdWAAElTW1.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2096506955866976379-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 178,
-        "replies": 24,
-        "reposts": 22,
-        "quotes": 2,
-        "views": 32340
-      },
-      "postedAt": "Sun Sep 06 07:53:04 +0000 2026",
-      "score": 38080,
-      "heatScore": 38080,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2096492002141516162",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260906-just-in-robinhood-chain-hood-assets-are-closing--16162",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2096492002141516162",
-      "originalText": "JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Arbdata. https://t.co/94dHImOGy8",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRg8XPkbQAAIqq6.jpg",
-        "https://pbs.twimg.com/media/HRg8XPKXcAgU_31.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRg8XPkbQAAIqq6.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2096492002141516162-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRg8XPKXcAgU_31.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2096492002141516162-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 486,
-        "replies": 38,
-        "reposts": 27,
-        "quotes": 3,
-        "views": 33695
-      },
-      "postedAt": "Sun Sep 06 06:53:38 +0000 2026",
-      "score": 46465,
-      "heatScore": 46465,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2096486923229434216",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260906-just-in-us-housing-affordability-crisis-deepens--34216",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2096486923229434216",
-      "originalText": "JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a home” hit record high, surpassing 2008 GFC levels​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/tBoXxtbWYw",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRg3vdcXMAEezbB.jpg",
-        "https://pbs.twimg.com/media/HRg3vd_bgAAsaqr.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRg3vdcXMAEezbB.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2096486923229434216-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRg3vd_bgAAsaqr.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2096486923229434216-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 23,
-        "replies": 9,
-        "reposts": 4,
-        "quotes": 2,
-        "views": 12095
-      },
-      "postedAt": "Sun Sep 06 06:33:27 +0000 2026",
-      "score": 13235,
-      "heatScore": 13235,
-      "scoreBreakdown": {
-        "freshness": 3,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 13,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2096339556136001721",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260906-meta-platforms-meta-now-generates-2-9-million-of-01721",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2096339556136001721",
-      "originalText": "Meta Platforms $META now generates $2.9 Million of annual revenue per employee, a new high for the company https://t.co/BtkiiZzTfI",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRexTzUa4AAevQ4.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRexTzUa4AAevQ4.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2096339556136001721-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 308,
-        "replies": 21,
-        "reposts": 14,
-        "quotes": 5,
-        "views": 28241
-      },
-      "postedAt": "Sat Sep 05 20:47:52 +0000 2026",
-      "score": 36241,
-      "heatScore": 36241,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2096334847723675820",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260906-more-people-are-paying-for-hinge-and-fewer-are-p-75820",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2096334847723675820",
-      "originalText": "More people are paying for Hinge and fewer are paying for Tinder over the last few years https://t.co/hoCK55oH3x",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HReqUXzXcAAJWPq.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HReqUXzXcAAJWPq.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2096334847723675820-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 84,
-        "replies": 12,
-        "reposts": 6,
-        "quotes": 0,
-        "views": 26786
-      },
-      "postedAt": "Sat Sep 05 20:29:10 +0000 2026",
-      "score": 29246,
-      "heatScore": 29246,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 12,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 9,
-      "benchmarkPostId": "2096330640228499925",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260906-it-now-costs-more-than-100-000-per-year-to-go-to-99925",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2096330640228499925",
-      "originalText": "It now costs more than $100,000 per year to go to college at Duke University",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 101,
-        "replies": 17,
-        "reposts": 2,
-        "quotes": 0,
-        "views": 38848
-      },
-      "postedAt": "Sat Sep 05 20:12:27 +0000 2026",
-      "score": 41648,
-      "heatScore": 41648,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 14,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 10,
-      "benchmarkPostId": "2096327091683721523",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260906-wake-me-up-when-september-ends-21523",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2096327091683721523",
-      "originalText": "Wake me up when September ends https://t.co/esFuseUBgA",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRelbNBWoAU03nN.png"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRelbNBWoAU03nN.png",
-          "path": "output/benchmark-media/StockMKTNewz/2096327091683721523-1.png",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 294,
-        "replies": 37,
-        "reposts": 23,
-        "quotes": 3,
-        "views": 35233
-      },
-      "postedAt": "Sat Sep 05 19:58:21 +0000 2026",
-      "score": 43923,
-      "heatScore": 43923,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 3
-      },
-      "editorialScore": 11,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 11,
       "benchmarkPostId": "2096320375764258871",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260906-just-in-u-s-btc-etfs-saw-986-8-million-in-inflow-58871",
@@ -426,7 +42,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 12,
+      "rank": 2,
       "benchmarkPostId": "2096311155614498976",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260906-here-is-every-stock-that-has-been-added-and-remo-98976",
@@ -476,7 +92,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 13,
+      "rank": 3,
       "benchmarkPostId": "2096275001389281625",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260906-here-is-the-full-history-of-nvidia-s-nvda-market-81625",
@@ -514,7 +130,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 14,
+      "rank": 4,
       "benchmarkPostId": "2096273144906502203",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260906-just-in-nvda-expected-to-triple-its-profit-to-ne-02203",
@@ -552,7 +168,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 15,
+      "rank": 5,
       "benchmarkPostId": "2096270144343294083",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260906-here-is-the-full-history-of-apple-s-aapl-market--94083",
@@ -590,7 +206,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 16,
+      "rank": 6,
       "benchmarkPostId": "2096251643687817609",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609",
@@ -628,7 +244,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 17,
+      "rank": 7,
       "benchmarkPostId": "2096245555160559654",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260906-the-top-10-largest-stocks-in-the-world-are-now-w-59654",
@@ -666,7 +282,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 18,
+      "rank": 8,
       "benchmarkPostId": "2096239880753778943",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260906-waiting-for-the-stock-market-to-open-again-78943",
@@ -696,7 +312,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 19,
+      "rank": 9,
       "benchmarkPostId": "2096225910659682421",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421",
@@ -734,7 +350,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 20,
+      "rank": 10,
       "benchmarkPostId": "2095974949391376761",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-this-is-how-the-stock-market-performed-today-76761",
@@ -772,7 +388,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 21,
+      "rank": 11,
       "benchmarkPostId": "2095970287435047085",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-evan-stockmktnewz-top-10-trader-47085",
@@ -810,7 +426,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 22,
+      "rank": 12,
       "benchmarkPostId": "2095958389150916903",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260905-just-in-77-chance-of-btc-crossing-85k-again-befo-16903",
@@ -854,7 +470,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 23,
+      "rank": 13,
       "benchmarkPostId": "2095951550073946330",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-president-trump-just-said-if-you-want-to-get-ric-46330",
@@ -892,7 +508,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 24,
+      "rank": 14,
       "benchmarkPostId": "2095947527795220987",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-president-trump-just-said-interest-rates-should--20987",
@@ -922,7 +538,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 25,
+      "rank": 15,
       "benchmarkPostId": "2095946340010168608",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608",
@@ -952,7 +568,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 26,
+      "rank": 16,
       "benchmarkPostId": "2095944730768978307",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-president-trump-just-said-growth-does-not-cause--78307",
@@ -982,7 +598,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 27,
+      "rank": 17,
       "benchmarkPostId": "2095936496867934708",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-what-s-the-1-worst-performing-stock-in-your-port-34708",
@@ -1012,7 +628,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 28,
+      "rank": 18,
       "benchmarkPostId": "2095934683288678906",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-what-s-the-1-best-performing-stock-in-your-portf-78906",
@@ -1042,7 +658,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 29,
+      "rank": 19,
       "benchmarkPostId": "2095933175557992763",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763",
@@ -1080,7 +696,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 30,
+      "rank": 20,
       "benchmarkPostId": "2095924450411553152",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152",
@@ -1118,7 +734,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 31,
+      "rank": 21,
       "benchmarkPostId": "2095922527579115717",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717",
@@ -1156,7 +772,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 32,
+      "rank": 22,
       "benchmarkPostId": "2095918547742380358",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358",
@@ -1186,7 +802,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 33,
+      "rank": 23,
       "benchmarkPostId": "2095913618835435660",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660",
@@ -1230,7 +846,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 34,
+      "rank": 24,
       "benchmarkPostId": "2095912220077006996",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-micron-mu-stock-is-back-over-1-000-per-share-06996",
@@ -1268,7 +884,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 35,
+      "rank": 25,
       "benchmarkPostId": "2095912050492891419",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260905-just-in-metawin-player-turns-45-into-over-87-000-91419",
@@ -1312,7 +928,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 36,
+      "rank": 26,
       "benchmarkPostId": "2095901350622040118",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-reminder-the-stock-market-will-be-closed-on-mond-40118",
@@ -1342,7 +958,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 37,
+      "rank": 27,
       "benchmarkPostId": "2095896468615790905",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-i-kind-of-want-to-short-lululemon-stock-just-to--90905",
@@ -1372,7 +988,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 38,
+      "rank": 28,
       "benchmarkPostId": "2095894932716229002",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-mark-zuckerberg-and-meta-platforms-meta-confirme-29002",
@@ -1410,7 +1026,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 39,
+      "rank": 29,
       "benchmarkPostId": "2095893198962893182",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-the-anthropic-ipo-is-coming-quick-will-we-get-th-93182",
@@ -1440,7 +1056,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 40,
+      "rank": 30,
       "benchmarkPostId": "2095890514369208525",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-after-today-there-will-be-just-81-trading-days-l-08525",
@@ -1478,7 +1094,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 41,
+      "rank": 31,
       "benchmarkPostId": "2095888167911973082",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-nvidia-nvda-is-now-back-to-being-worth-1-trillio-73082",
@@ -1516,7 +1132,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 42,
+      "rank": 32,
       "benchmarkPostId": "2095873913293066683",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260905-just-in-robinhood-chain-hood-has-accumulated-18--66683",
@@ -1554,7 +1170,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 43,
+      "rank": 33,
       "benchmarkPostId": "2095862891639439615",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260905-there-is-now-a-52-chance-that-kevin-warsh-and-th-39615",
@@ -1592,7 +1208,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 44,
+      "rank": 34,
       "benchmarkPostId": "2095852270202048699",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-the-economy-saw-162-000-jobs-added-in-august-abo-48699",
@@ -1622,7 +1238,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 45,
+      "rank": 35,
       "benchmarkPostId": "2095847527920685319",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-nvidia-nvda-has-committed-to-invest-more-than-40-85319",
@@ -1652,7 +1268,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 46,
+      "rank": 36,
       "benchmarkPostId": "2095845567893024937",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-btc-currently-forecasted-to-hit-a-high-o-24937",
@@ -1696,7 +1312,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 47,
+      "rank": 37,
       "benchmarkPostId": "2095845351089414299",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-volkswagen-just-announced-plans-for-a-further-50-14299",
@@ -1734,7 +1350,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 48,
+      "rank": 38,
       "benchmarkPostId": "2095838483235348731",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-the-trade-deredacted-credential-like-string",
@@ -1764,7 +1380,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 49,
+      "rank": 39,
       "benchmarkPostId": "2095836337303699834",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-chinese-leader-xi-jinping-to-bring-a-delegation--99834",
@@ -1794,7 +1410,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 50,
+      "rank": 40,
       "benchmarkPostId": "2095833017654661484",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260904-this-is-what-3-2-million-gets-you-in-los-angeles-61484",
@@ -1832,7 +1448,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 51,
+      "rank": 41,
       "benchmarkPostId": "2095820668109484277",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-morgan-stanley-expects-the-fed-to-keep-r-84277",
@@ -1876,7 +1492,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 52,
+      "rank": 42,
       "benchmarkPostId": "2095819068913680666",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-ap-with-over-20-000-in-nvidia-holdings-a-80666",
@@ -1920,7 +1536,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 53,
+      "rank": 43,
       "benchmarkPostId": "2095812430299312173",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-deepseek-plans-to-install-more-than-160--12173",
@@ -1964,7 +1580,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 54,
+      "rank": 44,
       "benchmarkPostId": "2095811048884310350",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260904-just-in-reports-and-rumours-suggest-some-users-m-10350",
@@ -2008,7 +1624,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 55,
+      "rank": 45,
       "benchmarkPostId": "2095802439580393655",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2052,7 +1668,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 56,
+      "rank": 46,
       "benchmarkPostId": "2095796264314998871",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2096,7 +1712,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 57,
+      "rank": 47,
       "benchmarkPostId": "2095789163169673283",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2140,7 +1756,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 58,
+      "rank": 48,
       "benchmarkPostId": "2095788618207961240",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -2184,7 +1800,7 @@
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 59,
+      "rank": 49,
       "benchmarkPostId": "2095773421531463758",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,

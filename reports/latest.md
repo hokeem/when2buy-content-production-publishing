@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T06:36:13.979172+00:00`
+- 状态更新：`2026-09-07T06:55:11.089673+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**292**
 - 待选选题：**251**
-- 待发布制作包：**113**
-- 已验证发布：**99**
+- 待发布制作包：**108**
+- 已验证发布：**104**
 
 ## 对标账号扫描
 
@@ -1406,26 +1406,26 @@ Market radar: @StockMKTNewz reports: Michael Burry said that Lululemon $LULU is 
 
 Market radar: @StockMKTNewz reports: ALRIGHT I'm dumb but I just entered into the largest prediction market  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### Meta Platforms $META now generates $2.9 Million of annual revenue per employee, a new high for the c
+### Meta revenue per employee reaches $2.9M
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-meta-platforms-meta-now-generates-2-9-million-of-01721/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-meta-revenue-per-employee-high/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Meta Platforms $META now generates $2.9 Million of annual revenue per   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Meta Platforms $META now generates $2.9M in annual revenue per employee, a company high.  When2Buy — your U.S. stock partner.
 
-### More people are paying for Hinge and fewer are paying for Tinder over the last few years
+### Hinge paid users rise as Tinder declines
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-more-people-are-paying-for-hinge-and-fewer-are-p-75820/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-hinge-paid-users-tinder-decline/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: More people are paying for Hinge and fewer are paying for Tinder over   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+More people are paying for Hinge while fewer are paying for Tinder.  When2Buy — your U.S. stock partner.
 
-### It now costs more than $100,000 per year to go to college at Duke University
+### Duke annual cost tops $100,000
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-it-now-costs-more-than-100-000-per-year-to-go-to-99925/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-duke-annual-cost-100k/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: It now costs more than $100,000 per year to go to college at Duke Univ  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Duke University now costs more than $100,000 per year.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: 🇺🇸 U.S. $BTC ETFs saw $986.8 million in inflow this week.
 
@@ -1462,19 +1462,19 @@ Market radar: @WhaleInsider reports: JUST IN: $NVDA expected to triple its profi
 
 Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yeste  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
-### JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a home” hit r
+### Housing-affordability searches hit a record high
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-just-in-us-housing-affordability-crisis-deepens--34216/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-housing-affordability-record-searches/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches f  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+U.S. searches for "can't afford a home" hit a record high, above 2008 crisis-era levels.  When2Buy — your U.S. stock partner.
 
-### Wake me up when September ends
+### September ends
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-wake-me-up-when-september-ends-21523/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-september-ends/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Wake me up when September ends  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+September ends.  When2Buy — your U.S. stock partner.
 
 ### Someone bought this home in Miami for $1.4 Million off of Facebook Marketplace
 
@@ -1888,9 +1888,24 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | .hood names bring ERC-6551 stock accounts | 2026-09-07T06:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849878433624359) |
 | Robinhood Chain assets near $2B | 2026-09-07T06:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849998738788846) |
+| Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854162210509026) |
+| Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854301000003651) |
+| Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854447158964727) |
+| Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854587550679371) |
+| September ends | 2026-09-07T06:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096854732249952423) |
 
 ## 最近运行
 
+- `2026-09-07T06:55:11Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-07T06:55:02.045916+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:54:29.240263+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:53:54.721313+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:53:19.816383+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:52:46.321706+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:52:10Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
+- `2026-09-07T06:52:10.584612+00:00` **produce / succeeded** — Remade the five newest timestamp-first packages with entity-led image-model visuals and exact-logo compositing.
+- `2026-09-07T06:46:03Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
+- `2026-09-07T06:46:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T06:36:13.975492+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:35:44.348313+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:35:11.645228+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1901,13 +1916,3 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 - `2026-09-07T06:26:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-07T06:18:16.532905+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:17:49.121549+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:17:21.202007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:16:53.524398+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:16:26.165764+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:14:21.670042+00:00` **produce / succeeded** — Remade five timestamp-first selected packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-07T06:06:49Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
-- `2026-09-07T06:05:55Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
-- `2026-09-07T06:05:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T05:59:18.498525+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
-- `2026-09-07T05:57:58.914906+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:57:13.952400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

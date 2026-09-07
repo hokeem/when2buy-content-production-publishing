@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T06:36:13.979172+00:00",
+  "updatedAt": "2026-09-07T06:55:11.089673+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15789,58 +15789,78 @@
       "publishedAt": "2026-09-05T06:43:00.000Z"
     },
     {
-      "id": "pkg-20260906-meta-platforms-meta-now-generates-2-9-million-of-01721",
+      "id": "pkg-20260907-meta-revenue-per-employee-high",
       "benchmarkPostId": "2096339556136001721",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096339556136001721",
-      "title": "Meta Platforms $META now generates $2.9 Million of annual revenue per employee, a new high for the c",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Meta Platforms $META now generates $2.9 Million of annual revenue per \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Meta revenue per employee reaches $2.9M",
+      "status": "published",
+      "postText": "Meta Platforms $META now generates $2.9M in annual revenue per employee, a company high.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Meta Platforms $META now generates $2.9 Million of annual revenue per employee, a new high for the company"
+        "Meta Platforms $META generates $2.9 million of annual revenue per employee.",
+        "The source calls this a new company high."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096339556136001721"
       ],
-      "imagePath": "deliverables/pkg-20260906-meta-platforms-meta-now-generates-2-9-million-of-01721/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T00:41:56.457327+00:00"
+      "imagePath": "deliverables/pkg-20260907-meta-revenue-per-employee-high/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:52:10.584426+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Square X financial-news visual with a modern Meta-style campus silhouette and upward efficiency chart; near-black premium editorial style, white type, controlled red accent, headline 'META $META', dominant '$2.9M', supporting line 'REVENUE PER EMPLOYEE', and a clear lower-right logo-safe area. No source names, URLs, disclaimers, extra CTA, or generic typography-only treatment.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqvvvar07xdlm0y3vztolhm",
+      "publishedAt": "2026-09-07T06:52:00.000Z"
     },
     {
-      "id": "pkg-20260906-more-people-are-paying-for-hinge-and-fewer-are-p-75820",
+      "id": "pkg-20260907-hinge-paid-users-tinder-decline",
       "benchmarkPostId": "2096334847723675820",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096334847723675820",
-      "title": "More people are paying for Hinge and fewer are paying for Tinder over the last few years",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: More people are paying for Hinge and fewer are paying for Tinder over \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Hinge paid users rise as Tinder declines",
+      "status": "published",
+      "postText": "More people are paying for Hinge while fewer are paying for Tinder.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "More people are paying for Hinge and fewer are paying for Tinder over the last few years"
+        "The source says Hinge has gained paying users over recent years.",
+        "The source says Tinder has lost paying users over the same period."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096334847723675820"
       ],
-      "imagePath": "deliverables/pkg-20260906-more-people-are-paying-for-hinge-and-fewer-are-p-75820/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T00:41:56.570561+00:00"
+      "imagePath": "deliverables/pkg-20260907-hinge-paid-users-tinder-decline/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:52:10.584475+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Square X financial-news visual with two refined dating-app smartphone silhouettes and opposing paid-user trend lines, Hinge rising and Tinder falling; near-black premium editorial style, white type, controlled red and muted green accents, headline 'HINGE UP', second line 'TINDER DOWN', label 'PAID USERS', and a clear lower-right logo-safe area. No source names, URLs, disclaimers, extra CTA, or generic typography-only treatment.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqvwm1d07xklm0yphmzwh9r",
+      "publishedAt": "2026-09-07T06:53:00.000Z"
     },
     {
-      "id": "pkg-20260906-it-now-costs-more-than-100-000-per-year-to-go-to-99925",
+      "id": "pkg-20260907-duke-annual-cost-100k",
       "benchmarkPostId": "2096330640228499925",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096330640228499925",
-      "title": "It now costs more than $100,000 per year to go to college at Duke University",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: It now costs more than $100,000 per year to go to college at Duke Univ\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Duke annual cost tops $100,000",
+      "status": "published",
+      "postText": "Duke University now costs more than $100,000 per year.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "It now costs more than $100,000 per year to go to college at Duke University"
+        "The source says Duke University costs more than $100,000 per year."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096330640228499925"
       ],
-      "imagePath": "deliverables/pkg-20260906-it-now-costs-more-than-100-000-per-year-to-go-to-99925/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T00:41:56.692723+00:00"
+      "imagePath": "deliverables/pkg-20260907-duke-annual-cost-100k/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:52:10.584512+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Square X financial-news visual with an elegant Gothic university building, tuition invoice motif, and red cost bar; near-black premium editorial style, white type, controlled red accent, headline 'DUKE UNIVERSITY', dominant '$100,000+', supporting line 'PER YEAR', and a clear lower-right logo-safe area. No source names, URLs, disclaimers, extra CTA, or generic typography-only treatment.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqvxc3a0f8yqk0y2cbnv703",
+      "publishedAt": "2026-09-07T06:54:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-u-s-btc-etfs-saw-986-8-million-in-inflow-58871",
@@ -15939,40 +15959,53 @@
       "publishedAt": "2026-09-06T00:42:00.000Z"
     },
     {
-      "id": "pkg-20260906-just-in-us-housing-affordability-crisis-deepens--34216",
+      "id": "pkg-20260907-housing-affordability-record-searches",
       "benchmarkPostId": "2096486923229434216",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096486923229434216",
-      "title": "JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a home” hit r",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches f\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "Housing-affordability searches hit a record high",
+      "status": "published",
+      "postText": "U.S. searches for \"can't afford a home\" hit a record high, above 2008 crisis-era levels.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a home” hit record high, surpassing 2008 GFC levels​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​."
+        "U.S. Google searches for 'can't afford a home' hit a record high.",
+        "The source compares the level with the 2008 financial-crisis period."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096486923229434216"
       ],
-      "imagePath": "deliverables/pkg-20260906-just-in-us-housing-affordability-crisis-deepens--34216/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T06:41:35.723221+00:00"
+      "imagePath": "deliverables/pkg-20260907-housing-affordability-record-searches/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:52:10.584308+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Square X financial-news visual showing a realistic modest American house under a rising red home-price chart and a search-interface motif; near-black premium editorial style, white headline 'CAN'T AFFORD A HOME', supporting line 'SEARCHES HIT RECORD HIGH', and a clear lower-right logo-safe area. No source names, URLs, disclaimers, extra CTA, or generic typography-only treatment.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqvv5hp07x4lm0y29cp7r2f",
+      "publishedAt": "2026-09-07T06:52:00.000Z"
     },
     {
-      "id": "pkg-20260906-wake-me-up-when-september-ends-21523",
+      "id": "pkg-20260907-september-ends",
       "benchmarkPostId": "2096327091683721523",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096327091683721523",
-      "title": "Wake me up when September ends",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Wake me up when September ends\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "September ends",
+      "status": "published",
+      "postText": "September ends.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Wake me up when September ends"
+        "The source post states: 'Wake me up when September ends.'"
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096327091683721523"
       ],
-      "imagePath": "deliverables/pkg-20260906-wake-me-up-when-september-ends-21523/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:35.861781+00:00"
+      "imagePath": "deliverables/pkg-20260907-september-ends/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:52:10.584546+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Square X financial-news visual with a September calendar, Wall Street closing-market motif, and restrained downward red market line; near-black premium editorial style, white type, controlled red accent, headline 'SEPTEMBER ENDS', supporting line 'MARKET MOOD', and a clear lower-right logo-safe area. No source names, URLs, disclaimers, extra CTA, or generic typography-only treatment.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqvy2a80f95qk0ypae5tziv",
+      "publishedAt": "2026-09-07T06:54:00.000Z"
     },
     {
       "id": "pkg-20260906-someone-bought-this-home-in-miami-for-1-4-millio-80638",
@@ -18610,6 +18643,91 @@
         "status": "active",
         "windowStart": "2026-09-07T06:35:00.000Z",
         "windowEnd": "2026-09-10T06:35:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096854162210509026",
+      "packageId": "pkg-20260907-housing-affordability-record-searches",
+      "title": "Housing-affordability searches hit a record high",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:52:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096854162210509026",
+      "postizPostId": "cmtqvv5hp07x4lm0y29cp7r2f",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:52:00.000Z",
+        "windowEnd": "2026-09-10T06:52:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096854301000003651",
+      "packageId": "pkg-20260907-meta-revenue-per-employee-high",
+      "title": "Meta revenue per employee reaches $2.9M",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:52:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096854301000003651",
+      "postizPostId": "cmtqvvvar07xdlm0y3vztolhm",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:52:00.000Z",
+        "windowEnd": "2026-09-10T06:52:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096854447158964727",
+      "packageId": "pkg-20260907-hinge-paid-users-tinder-decline",
+      "title": "Hinge paid users rise as Tinder declines",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:53:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096854447158964727",
+      "postizPostId": "cmtqvwm1d07xklm0yphmzwh9r",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:53:00.000Z",
+        "windowEnd": "2026-09-10T06:53:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096854587550679371",
+      "packageId": "pkg-20260907-duke-annual-cost-100k",
+      "title": "Duke annual cost tops $100,000",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:54:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096854587550679371",
+      "postizPostId": "cmtqvxc3a0f8yqk0y2cbnv703",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:54:00.000Z",
+        "windowEnd": "2026-09-10T06:54:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096854732249952423",
+      "packageId": "pkg-20260907-september-ends",
+      "title": "September ends",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:54:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096854732249952423",
+      "postizPostId": "cmtqvy2a80f95qk0ypae5tziv",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:54:00.000Z",
+        "windowEnd": "2026-09-10T06:54:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -27117,6 +27235,100 @@
       "startedAt": "2026-09-07T06:36:13.975492+00:00",
       "completedAt": "2026-09-07T06:36:13.975498+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T064603Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:46:03Z",
+      "completedAt": "2026-09-07T06:46:03Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T064603Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:46:03Z",
+      "completedAt": "2026-09-07T06:46:03Z",
+      "summary": "Prepared 54 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T065210Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:52:10.584612+00:00",
+      "completedAt": "2026-09-07T06:52:10.584618+00:00",
+      "summary": "Remade the five newest timestamp-first packages with entity-led image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T065210Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:52:10Z",
+      "completedAt": "2026-09-07T06:52:10Z",
+      "summary": "Prepared 54 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T065246Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:52:46.321706+00:00",
+      "completedAt": "2026-09-07T06:52:46.321710+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T065319Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:53:19.816383+00:00",
+      "completedAt": "2026-09-07T06:53:19.816389+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T065354Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:53:54.721313+00:00",
+      "completedAt": "2026-09-07T06:53:54.721316+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T065429Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:54:29.240263+00:00",
+      "completedAt": "2026-09-07T06:54:29.240270+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T065502Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:55:02.045916+00:00",
+      "completedAt": "2026-09-07T06:55:02.045921+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T065511Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:55:11Z",
+      "completedAt": "2026-09-07T06:55:11Z",
+      "summary": "Prepared 49 one-to-one production candidate(s).",
       "reason": ""
     }
   ]
