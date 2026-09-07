@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T20:29:00.966056+00:00",
+  "updatedAt": "2026-09-07T20:46:24.464633+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9256,7 +9256,8 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-07T20:06:09Z"
+      "capturedAt": "2026-09-07T20:06:09Z",
+      "mediaArchive": []
     },
     {
       "id": "2097048992051769654",
@@ -9275,7 +9276,8 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-07T20:06:09Z"
+      "capturedAt": "2026-09-07T20:06:09Z",
+      "mediaArchive": []
     },
     {
       "id": "2097058112251322868",
@@ -9303,6 +9305,11 @@
           "path": "deliverables/pkg-20260908-robinhood-first-oura-ipo-underwriter/benchmark-media-1.jpg",
           "status": "archived",
           "archivedAt": "2026-09-07T20:28:30Z"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRo_OvvbQAE5k--.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097058112251322868-1.jpg",
+          "status": "archived"
         }
       ]
     },
@@ -9339,6 +9346,16 @@
           "path": "deliverables/pkg-20260908-xrp-futures-six-month-high/benchmark-media-2.jpg",
           "status": "archived",
           "archivedAt": "2026-09-07T20:28:31Z"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRo-XXHXQAABY42.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097057155824206271-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRo-XXRWkAExCv5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097057155824206271-2.jpg",
+          "status": "archived"
         }
       ]
     }
@@ -71462,6 +71479,42 @@
       "status": "partial",
       "startedAt": "2026-09-07T20:29:00Z",
       "completedAt": "2026-09-07T20:29:00Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T21:11:33Z",
+        "deliveryReason": "Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried."
+      }
+    },
+    {
+      "id": "run-20260907T204555Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T20:45:55Z",
+      "completedAt": "2026-09-07T20:45:55Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T204556Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T20:45:56Z",
+      "completedAt": "2026-09-07T20:45:56Z",
+      "summary": "Prepared 41 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T204624Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T20:46:24Z",
+      "completedAt": "2026-09-07T20:46:24Z",
       "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker.",
       "reason": "Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.",
       "circuitBreaker": {

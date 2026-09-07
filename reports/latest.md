@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T20:29:00.966056+00:00`
+- 状态更新：`2026-09-07T20:46:24.464633+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**340**
 - 待选选题：**298**
@@ -2272,6 +2272,9 @@ $XRP futures activity just reached a six-month high as price volatility accelera
 
 ## 最近运行
 
+- `2026-09-07T20:46:24Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-07T20:45:56Z` **queue / succeeded** — Prepared 41 one-to-one production candidate(s).
+- `2026-09-07T20:45:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T20:29:00Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T20:28:32Z` **produce / succeeded** — Archived the two newest Apify media sets and produced both timestamp-first packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-07T20:26:12Z` **queue / succeeded** — Prepared 41 one-to-one production candidate(s).
@@ -2289,6 +2292,3 @@ $XRP futures activity just reached a six-month high as price volatility accelera
 - `2026-09-07T19:27:00Z` **full / partial** — Apify collection, benchmark-media archival, and timestamp-first queue rebuild completed; no new eligible originals were found. Publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
 - `2026-09-07T19:25:57Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
 - `2026-09-07T19:25:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
-- `2026-09-07T19:09:59Z` **full / partial** — Apify collection, benchmark-media archive, timestamp-first queue rebuild, and one new image-model package completed; the sole permitted Postiz probe did not produce a public X URL. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
-- `2026-09-07T19:07:21Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
-- `2026-09-07T19:05:58Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
