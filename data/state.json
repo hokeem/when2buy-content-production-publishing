@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T08:15:03.293069+00:00",
+  "updatedAt": "2026-09-07T08:36:52.670872+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15485,91 +15485,126 @@
       "id": "pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763",
       "benchmarkPostId": "2095933175557992763",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095933175557992763",
-      "title": "Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerM",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Here is a day 1 look at the inside of Tesla’s $TSLA self driving car t\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Tesla Cybercab interior: day one",
+      "status": "published",
+      "postText": "Tesla $TSLA's Cybercab interior gets its first day-one look.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerMerritt"
+        "Tesla $TSLA Cybercab interior is shown in a day-one look."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095933175557992763"
       ],
-      "imagePath": "deliverables/pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:11.206655+00:00"
+      "imagePath": "deliverables/pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763/when2buy-image-model-v2.png",
+      "createdAt": "2026-09-07T08:32:02.921954+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square entity-led Tesla Cybercab interior visual, premium near-black financial-news style, white type, controlled red accents, headline TESLA $TSLA and CYBERCAB: DAY 1, clean lower-right space; original image-model generation and exact supplied logo composited afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqzfm8w0ghkqk0ymd91v5na",
+      "publishedAt": "2026-09-07T08:32:00.000Z"
     },
     {
       "id": "pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152",
       "benchmarkPostId": "2095924450411553152",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095924450411553152",
-      "title": "Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM ET",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Tesla $TSLA just said that paid rides to the public in its Cybercab wi\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Tesla starts paid Cybercab rides",
+      "status": "published",
+      "postText": "Tesla $TSLA says paid public Cybercab rides start at 3 PM ET.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM ET"
+        "Tesla $TSLA said paid Cybercab rides to the public start at 3 PM ET."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095924450411553152"
       ],
-      "imagePath": "deliverables/pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:11.376013+00:00"
+      "imagePath": "deliverables/pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152/when2buy-image-model-v2.png",
+      "createdAt": "2026-09-07T08:32:02.922233+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square entity-led Tesla Cybercab pickup visual, premium near-black financial-news style, white type, controlled red accents, headline TESLA $TSLA and PAID RIDES START 3 PM ET, clean lower-right space; original image-model generation and exact supplied logo composited afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqzgo4n0gi1qk0ycs4fh4rk",
+      "publishedAt": "2026-09-07T08:33:00.000Z"
     },
     {
       "id": "pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717",
       "benchmarkPostId": "2095922527579115717",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095922527579115717",
-      "title": "Here are some of the events to watch out for this my from our partners below We still have CPI, a FO",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Here are some of the events to watch out for this my from our partners\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "September market calendar",
+      "status": "published",
+      "postText": "September still has CPI, an FOMC meeting and Micron $MU earnings ahead.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Here are some of the events to watch out for this my from our partners below We still have CPI, a FOMC meeting, Micron $MU earnings, and more coming this month"
+        "The month includes CPI.",
+        "The month includes an FOMC meeting.",
+        "Micron $MU earnings are also listed for the month."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095922527579115717"
       ],
-      "imagePath": "deliverables/pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:11.490622+00:00"
+      "imagePath": "deliverables/pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717/when2buy-image-model-v2.png",
+      "createdAt": "2026-09-07T08:32:02.922277+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Square entity-led macro calendar with CPI, FOMC and Micron earnings objects, premium near-black financial-news style, white type, controlled red accents, headline SEPTEMBER MARKET CALENDAR and CPI • FOMC • MICRON, clean lower-right space; original image-model generation and exact supplied logo composited afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqzherd0gi5qk0yw7y62084",
+      "publishedAt": "2026-09-07T08:33:00.000Z"
     },
     {
       "id": "pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358",
       "benchmarkPostId": "2095918547742380358",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095918547742380358",
-      "title": "HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OWNERSHIP ",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MO\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Howard Lutnick disclosed $250M+ income",
+      "status": "failed",
+      "postText": "Howard Lutnick disclosed at least $250M in income last year, mostly tied to prior Cantor Fitzgerald ownership.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OWNERSHIP OF CANTOR FITZGERALD - Bloomberg"
+        "Howard Lutnick disclosed at least $250 million in income last year.",
+        "The income was described as mostly tied to prior Cantor Fitzgerald ownership."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095918547742380358"
       ],
-      "imagePath": "deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:11.658743+00:00"
+      "imagePath": "deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-image-model-v2.png",
+      "createdAt": "2026-09-07T08:32:02.922315+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square person-led Howard Lutnick executive-disclosure image with filing document, premium near-black financial-news style, white type, controlled red accents, headline HOWARD LUTNICK and $250M+ INCOME, clean lower-right space; original image-model generation and exact supplied logo composited afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
+      "deliveryAttempts": 2,
+      "deliveryFailedAt": "2026-09-07T08:36:52.669420+00:00"
     },
     {
       "id": "pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660",
       "benchmarkPostId": "2095913618835435660",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095913618835435660",
-      "title": "JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflation.’",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "Fed's Hammack calls for higher rates",
+      "status": "failed",
+      "postText": "Fed's Hammack says local contacts point to raising rates to curb inflation.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflation.’"
+        "Fed's Hammack said local contacts indicate it is time to raise rates to curb inflation."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2095913618835435660"
       ],
-      "imagePath": "deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-05T00:42:11.830087+00:00"
+      "imagePath": "deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-image-model-v2.png",
+      "createdAt": "2026-09-07T08:32:02.922347+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Square person-led Federal Reserve policy visual with Beth Hammack, inflation chart and meeting documents, premium near-black financial-news style, white type, controlled red accents, headline FED: RAISE RATES and CURB INFLATION, clean lower-right space; original image-model generation and exact supplied logo composited afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
+      "deliveryAttempts": 2,
+      "deliveryFailedAt": "2026-09-07T08:36:52.669477+00:00"
     },
     {
       "id": "pkg-20260905-micron-mu-stock-is-back-over-1-000-per-share-06996",
@@ -19344,6 +19379,57 @@
         "status": "active",
         "windowStart": "2026-09-07T08:14:00.000Z",
         "windowEnd": "2026-09-10T08:14:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096879304479293464",
+      "packageId": "pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763",
+      "title": "Tesla Cybercab interior: day one",
+      "status": "published",
+      "publishedAt": "2026-09-07T08:32:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096879304479293464",
+      "postizPostId": "cmtqzfm8w0ghkqk0ymd91v5na",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T08:32:00.000Z",
+        "windowEnd": "2026-09-10T08:32:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096879509362610198",
+      "packageId": "pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152",
+      "title": "Tesla starts paid Cybercab rides",
+      "status": "published",
+      "publishedAt": "2026-09-07T08:33:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096879509362610198",
+      "postizPostId": "cmtqzgo4n0gi1qk0ycs4fh4rk",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T08:33:00.000Z",
+        "windowEnd": "2026-09-10T08:33:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096879654707835204",
+      "packageId": "pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717",
+      "title": "September market calendar",
+      "status": "published",
+      "publishedAt": "2026-09-07T08:33:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096879654707835204",
+      "postizPostId": "cmtqzherd0gi5qk0yw7y62084",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T08:33:00.000Z",
+        "windowEnd": "2026-09-10T08:33:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -28850,6 +28936,73 @@
       "completedAt": "2026-09-07T08:15:03.290981+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260907T082554Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:25:54Z",
+      "completedAt": "2026-09-07T08:25:54Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T082554Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:25:54Z",
+      "completedAt": "2026-09-07T08:25:54Z",
+      "summary": "Prepared 28 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T083202Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:32:02.922389+00:00",
+      "completedAt": "2026-09-07T08:32:02.922394+00:00",
+      "summary": "Remade first five timestamp-first packages with original image-model visuals, exact-logo compositing, and visual QA.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T083239Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:32:39.894206+00:00",
+      "completedAt": "2026-09-07T08:32:39.894210+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T083329Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:33:29.426910+00:00",
+      "completedAt": "2026-09-07T08:33:29.426915+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T083409Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:34:09.968922+00:00",
+      "completedAt": "2026-09-07T08:34:09.968928+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T083652Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T08:36:52.669538+00:00",
+      "completedAt": "2026-09-07T08:36:52.669544+00:00",
+      "summary": "Three packages published and verified; two packages reached terminal Postiz delivery errors.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     }
   ]
 }

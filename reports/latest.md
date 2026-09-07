@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T08:15:03.293069+00:00`
+- 状态更新：`2026-09-07T08:36:52.670872+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**294**
 - 待选选题：**253**
-- 待发布制作包：**90**
-- 已验证发布：**124**
+- 待发布制作包：**85**
+- 已验证发布：**127**
 
 ## 对标账号扫描
 
@@ -1233,40 +1233,40 @@ Which holding is your portfolio's biggest loser today?  When2Buy — your U.S. s
 
 Which holding is your portfolio's biggest winner today?  When2Buy — your U.S. stock partner.
 
-### Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by @SawyerM
+### Tesla Cybercab interior: day one
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-here-is-a-day-1-look-at-the-inside-of-tesla-s-ts-92763/when2buy-image-model-v2.png`
 
-Market radar: @StockMKTNewz reports: Here is a day 1 look at the inside of Tesla’s $TSLA self driving car t  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Tesla $TSLA's Cybercab interior gets its first day-one look.  When2Buy — your U.S. stock partner.
 
-### Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM ET
+### Tesla starts paid Cybercab rides
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-tesla-tsla-just-said-that-paid-rides-to-the-publ-53152/when2buy-image-model-v2.png`
 
-Market radar: @StockMKTNewz reports: Tesla $TSLA just said that paid rides to the public in its Cybercab wi  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Tesla $TSLA says paid public Cybercab rides start at 3 PM ET.  When2Buy — your U.S. stock partner.
 
-### Here are some of the events to watch out for this my from our partners below We still have CPI, a FO
+### September market calendar
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260905-here-are-some-of-the-events-to-watch-out-for-thi-15717/when2buy-image-model-v2.png`
 
-Market radar: @StockMKTNewz reports: Here are some of the events to watch out for this my from our partners  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+September still has CPI, an FOMC meeting and Micron $MU earnings ahead.  When2Buy — your U.S. stock partner.
 
-### HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MOSTLY FROM HIS PRIOR OWNERSHIP
+### Howard Lutnick disclosed $250M+ income
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-market-radar.png`
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-image-model-v2.png`
 
-Market radar: @StockMKTNewz reports: HOWARD LUTNICK DISCLOSED MAKING AT LEAST $250M IN INCOME LAST YEAR, MO  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Howard Lutnick disclosed at least $250M in income last year, mostly tied to prior Cantor Fitzgerald ownership.  When2Buy — your U.S. stock partner.
 
-### JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise rates to curb inflation.’
+### Fed's Hammack calls for higher rates
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-market-radar.png`
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-image-model-v2.png`
 
-Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Fed's Hammack says ‘local contacts indicate time to raise   Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+Fed's Hammack says local contacts point to raising rates to curb inflation.  When2Buy — your U.S. stock partner.
 
 ### Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢
 
@@ -1929,9 +1929,19 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874726715162931) |
 | Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874871292936488) |
+| Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096879304479293464) |
+| Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096879509362610198) |
+| September market calendar | 2026-09-07T08:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096879654707835204) |
 
 ## 最近运行
 
+- `2026-09-07T08:36:52.669538+00:00` **publish / partial** — Three packages published and verified; two packages reached terminal Postiz delivery errors. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T08:34:09.968922+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T08:33:29.426910+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T08:32:39.894206+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T08:32:02.922389+00:00` **produce / succeeded** — Remade first five timestamp-first packages with original image-model visuals, exact-logo compositing, and visual QA.
+- `2026-09-07T08:25:54Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
+- `2026-09-07T08:25:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-07T08:15:03.290970+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T08:14:29.228482+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T08:13:56.539666+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1945,10 +1955,3 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 - `2026-09-07T07:54:19.205415+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:53:53.028602+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:53:25.465504+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:52:32.142462Z` **produce / succeeded** — Remade the first five timestamp-first queue items with inspected image-model visuals and exact-logo compositing.
-- `2026-09-07T07:45:58Z` **queue / succeeded** — Prepared 39 one-to-one production candidate(s).
-- `2026-09-07T07:45:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T07:38:30.978977+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:37:57.851677+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:37:25.110150+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:36:52.028736+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
