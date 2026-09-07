@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T14:29:54.731020+00:00`
+- 状态更新：`2026-09-07T14:49:14.934814+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**318**
-- 待选选题：**277**
-- 待发布制作包：**84**
+- 对标帖子快照：**320**
+- 待选选题：**279**
+- 待发布制作包：**85**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 14:27:58 +0000 2026 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since February 28th due to the Iran war. https://t.co/4fstiFR0rT | [X](https://x.com/WhaleInsider/status/2096968726939652174) |
+| @StockMKTNewz | Mon Sep 07 14:45:10 +0000 2026 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | [X](https://x.com/StockMKTNewz/status/2096973053095706742) |
 | @StockMKTNewz | Mon Sep 07 14:23:57 +0000 2026 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026  👑 Merck $MRK: +43%🟢 https://t.co/APN8kkaku9 | [X](https://x.com/StockMKTNewz/status/2096967712274628776) |
 | @StockMKTNewz | Mon Sep 07 14:13:19 +0000 2026 | IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026  🥈 $IBM: -21%🔴 https://t.co/PqywBvlPMj | [X](https://x.com/StockMKTNewz/status/2096965037080334439) |
 | @WhaleInsider | Mon Sep 07 13:47:22 +0000 2026 | JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the meme to onboard a wider audience. Set to launch tomorrow at 5PM UTC on PumpFun. https://t.co/fP2YpOUsnw | [X](https://x.com/WhaleInsider/status/2096958507513680239) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Mon Sep 07 07:06:45 +0000 2026 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest such sell-off in its history. https://t.co/5HroWeCzgI | [X](https://x.com/WhaleInsider/status/2096857687501754540) |
 | @StockMKTNewz | Mon Sep 07 00:49:07 +0000 2026 | When it’s a Monday and the stock market isn’t open  https://t.co/RS530IqXon | [X](https://x.com/StockMKTNewz/status/2096762652995248280) |
 | @WhaleInsider | Sun Sep 06 13:35:42 +0000 2026 | JUST IN: Altcoins flip $BTC in open interest. https://t.co/Pwsg0gJnlH | [X](https://x.com/WhaleInsider/status/2096593182309982396) |
-| @StockMKTNewz | Sun Sep 06 14:57:48 +0000 2026 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relative to its peers https://t.co/OrXVmggo3o | [X](https://x.com/StockMKTNewz/status/2096613844223246653) |
-| @WhaleInsider | Sun Sep 06 15:11:21 +0000 2026 | NEW: VC-backed Pokémon gacha site https://t.co/LGPj99uimp just launched.  They’re offering 200% deposit bonuses to pull users from rivals as the market heats up, burning investor cash for market share. Collectors win. https://t.co/VE5zzNAWe8 | [X](https://x.com/WhaleInsider/status/2096617256641761427) |
 
 ## 选题推荐
 
@@ -72,6 +72,7 @@
 | 1 | JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin. “Wall-breaking season at… | WhaleInsider | 18389 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026 🥈 $IBM… | StockMKTNewz | 10151 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026 👑 Merck $… | StockMKTNewz | 5693 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | StockMKTNewz | 4097 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -89,6 +90,7 @@
 | 2 | JUST IN: Robinhood Chain $HOOD generated $30,000,000 in revenue last week. https://t.co/1Wt4… | WhaleInsider | 13690 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Nvidia $NVDA now generates $7.8 Million of annual revenue per employee, a new high for the c… | StockMKTNewz | 8538 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the m… | WhaleInsider | 21848 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since Febru… | WhaleInsider | 20451 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1992,28 +1994,35 @@ $IBM is the Dow's second-worst performer so far in 2026, down 21%.  When2Buy —
 
 $MRK is the Dow's best-performing stock in 2026, up 43% so far.  When2Buy — your U.S. stock partner.
 
+### Miami $75M penthouse
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-miami-penthouse-75m/when2buy-image-model.png`
+
+A $75M penthouse is turning heads in Miami.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
 | JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 197 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
-| When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 126 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
+| When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 127 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
 | McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
+| JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 99 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
-| JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 96 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 89 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
+| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 59 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
+| September market calendar | 2026-09-07T08:33:00.000Z | 53 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
 | Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
-| September market calendar | 2026-09-07T08:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834296762011792) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 38 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
-| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 36 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | JUST IN: Altcoins flip $BTC in open interest. | 2026-09-07T00:43:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761333488513480) |
 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste | 2026-09-06T00:43:00.000Z | 31 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398921539199051) |
@@ -2024,28 +2033,28 @@ $MRK is the Dow's best-performing stock in 2026, up 43% so far.  When2Buy — yo
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
-| Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
+| Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
+| NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
-| NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
+| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
+| NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
-| NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | U.S. Bitcoin ETFs see $986.8M weekly inflow | 2026-09-07T07:12:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859345426468895) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
+| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Robinhood Chain generated $30 million in revenue last week | 2026-09-07T12:51:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944666377867632) |
-| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
-| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -2132,6 +2141,12 @@ $MRK is the Dow's best-performing stock in 2026, up 43% so far.  When2Buy — yo
 
 ## 最近运行
 
+- `2026-09-07T14:45:45Z` **full / partial** — Hourly Postiz-first metrics collection, Apify benchmark collection, media archive, timestamp-first queue rebuild, and the newest Miami penthouse image-model package completed; no X submission was attempted. Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed at 2026-09-07T14:11:00Z); do not submit another post before 2026-09-07T15:50:26Z.
+- `2026-09-07T14:48:42Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T14:46:47Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T14:46:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
+- `2026-09-07T14:46:27Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T14:46:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).
 - `2026-09-07T14:29:54Z` **full / partial** — Apify benchmark collection, media archival, timestamp-first queue rebuild, and Merck package production completed; publishing was withheld by the X delivery circuit breaker. Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed delivery at 2026-09-07T14:11:00Z); no submission attempted and newest package remains ready.
 - `2026-09-07T14:29:33Z` **queue / succeeded** — Prepared 29 one-to-one production candidate(s).
 - `2026-09-07T14:29:17Z` **produce / succeeded** — Produced the newest timestamp-first Merck benchmark package with verified financial context, original image-model visual, exact-logo compositing, and QA metadata.
@@ -2146,9 +2161,3 @@ $MRK is the Dow's best-performing stock in 2026, up 43% so far.  When2Buy — yo
 - `2026-09-07T14:10:56.569394+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR for cmtrbgr5k0kfoqk0yqxkn5jw4 and cmtrbhsjv0cqolm0ygt1oefr3 after two safe attempts; neither issued a releaseURL or public x.com URL.
 - `2026-09-07T14:08:53.229176+00:00` **produce / succeeded** — Produced the two newest timestamp-first benchmark items with inspected image-model visuals and exact-logo compositing.
 - `2026-09-07T14:05:56Z` **queue / succeeded** — Prepared 27 one-to-one production candidate(s).
-- `2026-09-07T14:05:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-07T13:53:39.882838+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR for post cmtravv0q0cj4lm0yt8nsz21t at 2026-09-07T13:52:00Z with no releaseURL or releaseId; no public x.com URL was issued, so delivery was not published and is terminal.
-- `2026-09-07T13:46:54Z` **queue / succeeded** — Prepared 26 one-to-one production candidate(s).
-- `2026-09-07T13:46:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-07T13:31:30.087213+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtra3sp90caolm0yyn74mi51 but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.
-- `2026-09-07T13:31:29.952288+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtra2z6m0jvxqk0y78xkxdge but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.

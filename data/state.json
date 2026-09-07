@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T14:29:54.731020+00:00",
+  "updatedAt": "2026-09-07T14:49:14.934814+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8708,6 +8708,68 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096973053095706742",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096973053095706742",
+      "postedAt": "Mon Sep 07 14:45:10 +0000 2026",
+      "text": "This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnvfWzW8AANRpt.jpg"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 3997
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T14:46:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnvfWzW8AANRpt.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096973053095706742-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096968726939652174",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096968726939652174",
+      "postedAt": "Mon Sep 07 14:27:58 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since February 28th due to the Iran war. https://t.co/4fstiFR0rT",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnt7m7XYAA8RKt.jpg",
+        "https://pbs.twimg.com/media/HRnt7m8WAAAqw3h.jpg"
+      ],
+      "engagement": {
+        "likes": 51,
+        "replies": 33,
+        "reposts": 14,
+        "quotes": 4,
+        "views": 17171
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T14:46:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnt7m7XYAA8RKt.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096968726939652174-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnt7m8WAAAqw3h.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096968726939652174-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -13973,6 +14035,44 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096973053095706742",
+      "rank": 1,
+      "title": "This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4",
+      "benchmarkPostId": "2096973053095706742",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096973053095706742",
+      "score": 4097,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T14:46:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096968726939652174",
+      "rank": 2,
+      "title": "JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since Febru…",
+      "benchmarkPostId": "2096968726939652174",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096968726939652174",
+      "score": 20451,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T14:46:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -19166,6 +19266,33 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260907-miami-penthouse-75m",
+      "benchmarkPostId": "2096973053095706742",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096973053095706742",
+      "title": "Miami $75M penthouse",
+      "status": "ready",
+      "postText": "A $75M penthouse is turning heads in Miami.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "A Miami penthouse is presented at $75 million."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096973053095706742"
+      ],
+      "imagePath": "deliverables/pkg-20260907-miami-penthouse-75m/when2buy-image-model.png",
+      "createdAt": "2026-09-07T14:49:45Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Premium 1:1 X financial-news visual about a $75 million Miami penthouse: a cinematic twilight waterfront skyline, one exceptional glass penthouse tower in focus, warm interiors and rooftop terrace, a near-black premium palette with restrained deep-red architectural reflection, clean lower-right logo-safe area, no text, no watermark, no abstract radar graphics.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "canvas": "1254x1254 square PNG",
+          "inspection": "Approved: entity-led Miami penthouse scene, no generated text, no generic radar treatment, exact repository logo composited once at lower-right with clear space.",
+          "logoSha256": "197cfdd9d2b623083e8018db4b8f4ca068f0476d79b8038b400d447c1abb8130"
+        }
+      }
     }
   ],
   "posts": [
@@ -20039,7 +20166,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:42:00Z",
         "windowEnd": "2026-09-08T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20056,7 +20183,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:42:00Z",
         "windowEnd": "2026-09-08T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20073,7 +20200,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:43:00Z",
         "windowEnd": "2026-09-08T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20090,7 +20217,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:43:00Z",
         "windowEnd": "2026-09-08T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20107,7 +20234,7 @@
         "status": "active",
         "windowStart": "2026-09-05T00:44:00Z",
         "windowEnd": "2026-09-08T00:44:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20124,7 +20251,7 @@
         "status": "active",
         "windowStart": "2026-09-05T06:42:00Z",
         "windowEnd": "2026-09-08T06:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20141,7 +20268,7 @@
         "status": "active",
         "windowStart": "2026-09-05T06:43:00Z",
         "windowEnd": "2026-09-08T06:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20158,7 +20285,7 @@
         "status": "active",
         "windowStart": "2026-09-05T06:43:00Z",
         "windowEnd": "2026-09-08T06:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20175,7 +20302,7 @@
         "status": "active",
         "windowStart": "2026-09-05T06:44:00Z",
         "windowEnd": "2026-09-08T06:44:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20192,7 +20319,7 @@
         "status": "active",
         "windowStart": "2026-09-05T06:44:00Z",
         "windowEnd": "2026-09-08T06:44:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20209,7 +20336,7 @@
         "status": "active",
         "windowStart": "2026-09-05T12:42:00Z",
         "windowEnd": "2026-09-08T12:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20226,7 +20353,7 @@
         "status": "active",
         "windowStart": "2026-09-05T12:42:00Z",
         "windowEnd": "2026-09-08T12:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20243,7 +20370,7 @@
         "status": "active",
         "windowStart": "2026-09-05T12:43:00Z",
         "windowEnd": "2026-09-08T12:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20260,7 +20387,7 @@
         "status": "active",
         "windowStart": "2026-09-05T12:44:00Z",
         "windowEnd": "2026-09-08T12:44:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20277,7 +20404,7 @@
         "status": "active",
         "windowStart": "2026-09-05T12:44:00Z",
         "windowEnd": "2026-09-08T12:44:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20294,7 +20421,7 @@
         "status": "active",
         "windowStart": "2026-09-06T00:42:00Z",
         "windowEnd": "2026-09-09T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20311,7 +20438,7 @@
         "status": "active",
         "windowStart": "2026-09-06T00:42:00Z",
         "windowEnd": "2026-09-09T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20328,7 +20455,7 @@
         "status": "active",
         "windowStart": "2026-09-06T00:43:00Z",
         "windowEnd": "2026-09-09T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20345,7 +20472,7 @@
         "status": "active",
         "windowStart": "2026-09-06T00:43:00Z",
         "windowEnd": "2026-09-09T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20362,7 +20489,7 @@
         "status": "active",
         "windowStart": "2026-09-06T00:44:00Z",
         "windowEnd": "2026-09-09T00:44:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20379,7 +20506,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:41:00Z",
         "windowEnd": "2026-09-09T06:41:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20396,7 +20523,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:42:00Z",
         "windowEnd": "2026-09-09T06:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20413,7 +20540,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:42:00Z",
         "windowEnd": "2026-09-09T06:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20430,7 +20557,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:43:00Z",
         "windowEnd": "2026-09-09T06:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20447,7 +20574,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:43:00Z",
         "windowEnd": "2026-09-09T06:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20464,7 +20591,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:41:00Z",
         "windowEnd": "2026-09-09T12:41:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20481,7 +20608,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:42:00Z",
         "windowEnd": "2026-09-09T12:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20498,7 +20625,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:42:00Z",
         "windowEnd": "2026-09-09T12:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20515,7 +20642,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:43:00Z",
         "windowEnd": "2026-09-09T12:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20532,7 +20659,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:43:00Z",
         "windowEnd": "2026-09-09T12:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20549,7 +20676,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:42:00Z",
         "windowEnd": "2026-09-10T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20566,7 +20693,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:43:00Z",
         "windowEnd": "2026-09-10T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20583,7 +20710,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:44:00Z",
         "windowEnd": "2026-09-10T00:44:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20600,7 +20727,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:44:00Z",
         "windowEnd": "2026-09-10T00:44:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20617,7 +20744,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:45:00Z",
         "windowEnd": "2026-09-10T00:45:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20634,7 +20761,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:32:00Z",
         "windowEnd": "2026-09-10T05:32:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20651,7 +20778,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:32:00Z",
         "windowEnd": "2026-09-10T05:32:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20668,7 +20795,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:33:00Z",
         "windowEnd": "2026-09-10T05:33:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20685,7 +20812,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:33:00Z",
         "windowEnd": "2026-09-10T05:33:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20702,7 +20829,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:34:00Z",
         "windowEnd": "2026-09-10T05:34:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20719,7 +20846,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:55:00Z",
         "windowEnd": "2026-09-10T05:55:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20736,7 +20863,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:56:00Z",
         "windowEnd": "2026-09-10T05:56:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20753,7 +20880,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:56:00Z",
         "windowEnd": "2026-09-10T05:56:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20770,7 +20897,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:57:00Z",
         "windowEnd": "2026-09-10T05:57:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20787,7 +20914,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:15:00Z",
         "windowEnd": "2026-09-10T06:15:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20804,7 +20931,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:16:00Z",
         "windowEnd": "2026-09-10T06:16:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20821,7 +20948,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:16:00Z",
         "windowEnd": "2026-09-10T06:16:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20838,7 +20965,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:17:00Z",
         "windowEnd": "2026-09-10T06:17:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20855,7 +20982,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:17:00Z",
         "windowEnd": "2026-09-10T06:17:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20872,7 +20999,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:33:00Z",
         "windowEnd": "2026-09-10T06:33:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20889,7 +21016,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:34:00Z",
         "windowEnd": "2026-09-10T06:34:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20906,7 +21033,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:34:00Z",
         "windowEnd": "2026-09-10T06:34:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20923,7 +21050,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:35:00Z",
         "windowEnd": "2026-09-10T06:35:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20940,7 +21067,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:35:00Z",
         "windowEnd": "2026-09-10T06:35:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20957,7 +21084,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:52:00Z",
         "windowEnd": "2026-09-10T06:52:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20974,7 +21101,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:52:00Z",
         "windowEnd": "2026-09-10T06:52:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -20991,7 +21118,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:53:00Z",
         "windowEnd": "2026-09-10T06:53:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21008,7 +21135,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:54:00Z",
         "windowEnd": "2026-09-10T06:54:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21025,7 +21152,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:54:00Z",
         "windowEnd": "2026-09-10T06:54:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21042,7 +21169,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:12:00Z",
         "windowEnd": "2026-09-10T07:12:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21059,7 +21186,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:13:00Z",
         "windowEnd": "2026-09-10T07:13:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21076,7 +21203,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:14:00Z",
         "windowEnd": "2026-09-10T07:14:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21093,7 +21220,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:14:00Z",
         "windowEnd": "2026-09-10T07:14:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21110,7 +21237,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:15:00Z",
         "windowEnd": "2026-09-10T07:15:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21127,7 +21254,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:35:00Z",
         "windowEnd": "2026-09-10T07:35:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21144,7 +21271,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:36:00Z",
         "windowEnd": "2026-09-10T07:36:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21161,7 +21288,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:36:00Z",
         "windowEnd": "2026-09-10T07:36:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21178,7 +21305,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:37:00Z",
         "windowEnd": "2026-09-10T07:37:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21195,7 +21322,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:37:00Z",
         "windowEnd": "2026-09-10T07:37:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21212,7 +21339,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:52:00Z",
         "windowEnd": "2026-09-10T07:52:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21229,7 +21356,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:53:00Z",
         "windowEnd": "2026-09-10T07:53:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21246,7 +21373,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:53:00Z",
         "windowEnd": "2026-09-10T07:53:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21263,7 +21390,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:54:00Z",
         "windowEnd": "2026-09-10T07:54:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21280,7 +21407,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:54:00Z",
         "windowEnd": "2026-09-10T07:54:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21297,7 +21424,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:11:00Z",
         "windowEnd": "2026-09-10T08:11:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21314,7 +21441,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:12:00Z",
         "windowEnd": "2026-09-10T08:12:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21331,7 +21458,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:13:00Z",
         "windowEnd": "2026-09-10T08:13:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21348,7 +21475,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:14:00Z",
         "windowEnd": "2026-09-10T08:14:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21365,7 +21492,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:14:00Z",
         "windowEnd": "2026-09-10T08:14:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21382,7 +21509,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:32:00Z",
         "windowEnd": "2026-09-10T08:32:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21399,7 +21526,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:33:00Z",
         "windowEnd": "2026-09-10T08:33:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21416,7 +21543,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:33:00Z",
         "windowEnd": "2026-09-10T08:33:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21433,7 +21560,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:51:00Z",
         "windowEnd": "2026-09-10T12:51:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21450,7 +21577,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:51:00Z",
         "windowEnd": "2026-09-10T12:51:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21467,7 +21594,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:52:00Z",
         "windowEnd": "2026-09-10T12:52:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21484,7 +21611,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:53:00Z",
         "windowEnd": "2026-09-10T12:53:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -21501,7 +21628,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:53:00Z",
         "windowEnd": "2026-09-10T12:53:00Z",
-        "lastAttemptAt": "2026-09-07T13:45:58.589993Z",
+        "lastAttemptAt": "2026-09-07T14:45:54.521425Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -39039,6 +39166,3660 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-07T13:45:58.589993Z"
       }
+    },
+    {
+      "id": "metric-2096036275862266165-20260907T144554Z",
+      "postId": "2096036275862266165",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnnrntg0t64lm0ygbfvyuis",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnnrntg0t64lm0ygbfvyuis",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096036402891010178-20260907T144554Z",
+      "postId": "2096036402891010178",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 81,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnnsbiw0t66lm0yporztv76",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnnsbiw0t66lm0yporztv76",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096036533728108897-20260907T144554Z",
+      "postId": "2096036533728108897",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 48,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnnsz7h0t68lm0y6q724pr4",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnnsz7h0t68lm0y6q724pr4",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096036664003154368-20260907T144554Z",
+      "postId": "2096036664003154368",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 111,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnntnd20kb3qk0y474ffq2b",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnntnd20kb3qk0y474ffq2b",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096036799080776086-20260907T144554Z",
+      "postId": "2096036799080776086",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 14,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnnubwp0kblqk0y93zf58k3",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnnubwp0kblqk0y93zf58k3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096126961492082889-20260907T144554Z",
+      "postId": "2096126961492082889",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 14,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0n2tq0vh9lm0yvs7t4kq9",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0n2tq0vh9lm0yvs7t4kq9",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096127091901354265-20260907T144554Z",
+      "postId": "2096127091901354265",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 36,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0nqrv0ml0qk0yjvrtw5zr",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0nqrv0ml0qk0yjvrtw5zr",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096127220427481484-20260907T144554Z",
+      "postId": "2096127220427481484",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0oegg0vhflm0y0fyotd9s",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0oegg0vhflm0y0fyotd9s",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096127353290363156-20260907T144554Z",
+      "postId": "2096127353290363156",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 13,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0p2yd0vhglm0ybse4dt84",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0p2yd0vhglm0ybse4dt84",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096127492960735481-20260907T144554Z",
+      "postId": "2096127492960735481",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0pqw40mlhqk0ycy4egore",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0pqw40mlhqk0ycy4egore",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096217478926115235-20260907T144554Z",
+      "postId": "2096217478926115235",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodhjeh0pjqqk0y0p3zf279",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodhjeh0pjqqk0y0p3zf279",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096217642730475682-20260907T144554Z",
+      "postId": "2096217642730475682",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodiebu0yholm0yxgjyseds",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodiebu0yholm0yxgjyseds",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096217796002881854-20260907T144554Z",
+      "postId": "2096217796002881854",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodj8yj0yhtlm0ymewjdvt2",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodj8yj0yhtlm0ymewjdvt2",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096217926424772667-20260907T144554Z",
+      "postId": "2096217926424772667",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 23,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodjwf90yi0lm0y427kode9",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodjwf90yi0lm0y427kode9",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096218060470542508-20260907T144554Z",
+      "postId": "2096218060470542508",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodkk5e0yiblm0y8nh0tmu3",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodkk5e0yiblm0y8nh0tmu3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096398633344417984-20260907T144554Z",
+      "postId": "2096398633344417984",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 97,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp37cwt15tqlm0yoql59pkp",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp37cwt15tqlm0yoql59pkp",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096398792233017423-20260907T144554Z",
+      "postId": "2096398792233017423",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 11,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp386d215tylm0ymzxatyli",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp386d215tylm0ymzxatyli",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096398921539199051-20260907T144554Z",
+      "postId": "2096398921539199051",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 31,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp38ubd15u9lm0y66iv1v80",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp38ubd15u9lm0y66iv1v80",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096399055203238203-20260907T144554Z",
+      "postId": "2096399055203238203",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 12,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp39iq915uolm0yznzxgjex",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp39iq915uolm0yznzxgjex",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096399182450090088-20260907T144554Z",
+      "postId": "2096399182450090088",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 127,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp3a6ao02abqk0yqrkbkca1",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp3a6ao02abqk0yqrkbkca1",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096489141521564026-20260907T144554Z",
+      "postId": "2096489141521564026",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg1v6n018wqk0ywlcs1q16",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg1v6n018wqk0ywlcs1q16",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096489273486966979-20260907T144554Z",
+      "postId": "2096489273486966979",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 15,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg2jeu018xqk0ync496e9z",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg2jeu018xqk0ync496e9z",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096489403720102140-20260907T144554Z",
+      "postId": "2096489403720102140",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 11,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg37f1018zqk0yc35x1seg",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg37f1018zqk0yc35x1seg",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096489538550137245-20260907T144554Z",
+      "postId": "2096489538550137245",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg3wco18eklm0ysnzu6rmq",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg3wco18eklm0ysnzu6rmq",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096489671731945544-20260907T144554Z",
+      "postId": "2096489671731945544",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 33,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg4k9818emlm0yxhosag98",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg4k9818emlm0yxhosag98",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096579642832597213-20260907T144554Z",
+      "postId": "2096579642832597213",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 22,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpswbfw1azjlm0y0akiitu9",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpswbfw1azjlm0y0akiitu9",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096579773963391239-20260907T144554Z",
+      "postId": "2096579773963391239",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 10,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpsx0qs1aznlm0ysvqkc18p",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpsx0qs1aznlm0ysvqkc18p",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096579911805010395-20260907T144554Z",
+      "postId": "2096579911805010395",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 11,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpsxppe1azulm0yi1zn6fxz",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpsxppe1azulm0yi1zn6fxz",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096580050598682787-20260907T144554Z",
+      "postId": "2096580050598682787",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 197,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpsyfkh1azvlm0ycw7wnfh2",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpsyfkh1azvlm0ycw7wnfh2",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096580186124976177-20260907T144554Z",
+      "postId": "2096580186124976177",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 99,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpsz4nn041zqk0y5av3x4sg",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpsz4nn041zqk0y5av3x4sg",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096761201938375037-20260907T144554Z",
+      "postId": "2096761201938375037",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 26,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqio4u304q5lm0yzqutj0hj",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqio4u304q5lm0yzqutj0hj",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096761333488513480-20260907T144554Z",
+      "postId": "2096761333488513480",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 32,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqiot3r0bvyqk0y2ntg1urh",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqiot3r0bvyqk0y2ntg1urh",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096761466556932161-20260907T144554Z",
+      "postId": "2096761466556932161",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 9,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqiphod04qalm0yvylmsli2",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqiphod04qalm0yvylmsli2",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096761601777086823-20260907T144554Z",
+      "postId": "2096761601777086823",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 26,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqiq61k0bw4qk0y6o4gdff3",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqiq61k0bw4qk0y6o4gdff3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096761735374164145-20260907T144554Z",
+      "postId": "2096761735374164145",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqiqty60bwsqk0yj3ncozhg",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqiqty60bwsqk0yj3ncozhg",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096833975658680669-20260907T144554Z",
+      "postId": "2096833975658680669",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqszzfy078ilm0y1mvqeg5g",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqszzfy078ilm0y1mvqeg5g",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096834091673063588-20260907T144554Z",
+      "postId": "2096834091673063588",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqt0l0d0eivqk0ybvko5wm4",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqt0l0d0eivqk0ybvko5wm4",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096834296762011792-20260907T144554Z",
+      "postId": "2096834296762011792",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 48,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqt1mv70791lm0yyqne9pcu",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqt1mv70791lm0yyqne9pcu",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096834411216159009-20260907T144554Z",
+      "postId": "2096834411216159009",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 38,
+      "likes": 1,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqt285c0794lm0y9fhpw58e",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqt285c0794lm0y9fhpw58e",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096834524735013203-20260907T144554Z",
+      "postId": "2096834524735013203",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 8,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqt2t8t0796lm0ynvrbkxsq",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqt2t8t0796lm0ynvrbkxsq",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096839822057115976-20260907T144554Z",
+      "postId": "2096839822057115976",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 7,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqttud00em9qk0yxv93eirw",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqttud00em9qk0yxv93eirw",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096840008116420742-20260907T144554Z",
+      "postId": "2096840008116420742",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqtuskz0emaqk0ye1bhh06a",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqtuskz0emaqk0ye1bhh06a",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096840177251680334-20260907T144554Z",
+      "postId": "2096840177251680334",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqtvolo0emdqk0y1km09u77",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqtvolo0emdqk0y1km09u77",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096840363533312068-20260907T144554Z",
+      "postId": "2096840363533312068",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqtwgtb07d3lm0yo0212izd",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqtwgtb07d3lm0yo0212izd",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096845001351393501-20260907T144554Z",
+      "postId": "2096845001351393501",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqukbdj07julm0y19ad2srw",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqukbdj07julm0y19ad2srw",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096845136185663992-20260907T144554Z",
+      "postId": "2096845136185663992",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqul0k807jwlm0yn1rjrx0z",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqul0k807jwlm0yn1rjrx0z",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096845250576977938-20260907T144554Z",
+      "postId": "2096845250576977938",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 8,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqullvi07jylm0ygpwkho5h",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqullvi07jylm0ygpwkho5h",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096845367338041635-20260907T144554Z",
+      "postId": "2096845367338041635",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqum7ai0etvqk0ynl0olikv",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqum7ai0etvqk0ynl0olikv",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096845481288851512-20260907T144554Z",
+      "postId": "2096845481288851512",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqumsjc0etzqk0yfuohxsa6",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqumsjc0etzqk0yfuohxsa6",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096849491324551540-20260907T144554Z",
+      "postId": "2096849491324551540",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv79p50ezgqk0ydypz57nx",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv79p50ezgqk0ydypz57nx",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096849615861793099-20260907T144554Z",
+      "postId": "2096849615861793099",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv7xhv07pelm0ywsobwkik",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv7xhv07pelm0ywsobwkik",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096849736842232137-20260907T144554Z",
+      "postId": "2096849736842232137",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv8jee07pglm0y03uao9aa",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv8jee07pglm0y03uao9aa",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096849878433624359-20260907T144554Z",
+      "postId": "2096849878433624359",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv98ly07pllm0y9a38wo9g",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv98ly07pllm0y9a38wo9g",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096849998738788846-20260907T144554Z",
+      "postId": "2096849998738788846",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv9um40f0nqk0ydmq6ggas",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv9um40f0nqk0ydmq6ggas",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096854162210509026-20260907T144554Z",
+      "postId": "2096854162210509026",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvv5hp07x4lm0y29cp7r2f",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvv5hp07x4lm0y29cp7r2f",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096854301000003651-20260907T144554Z",
+      "postId": "2096854301000003651",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 18,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvvvar07xdlm0y3vztolhm",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvvvar07xdlm0y3vztolhm",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096854447158964727-20260907T144554Z",
+      "postId": "2096854447158964727",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 22,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvwm1d07xklm0yphmzwh9r",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvwm1d07xklm0yphmzwh9r",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096854587550679371-20260907T144554Z",
+      "postId": "2096854587550679371",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvxc3a0f8yqk0y2cbnv703",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvxc3a0f8yqk0y2cbnv703",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096854732249952423-20260907T144554Z",
+      "postId": "2096854732249952423",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvy2a80f95qk0ypae5tziv",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvy2a80f95qk0ypae5tziv",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096859345426468895-20260907T144554Z",
+      "postId": "2096859345426468895",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 10,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwlmye0fl6qk0yc3673ebw",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwlmye0fl6qk0yc3673ebw",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096859560149647529-20260907T144554Z",
+      "postId": "2096859560149647529",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwmqfa089blm0y7ga45lbt",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwmqfa089blm0y7ga45lbt",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096859679486095536-20260907T144554Z",
+      "postId": "2096859679486095536",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 12,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwnbnf0flhqk0yv6n8l70p",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwnbnf0flhqk0yv6n8l70p",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096859829679837591-20260907T144554Z",
+      "postId": "2096859829679837591",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 15,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwo0v40flnqk0yeyh37ak3",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwo0v40flnqk0yeyh37ak3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096860021741265261-20260907T144554Z",
+      "postId": "2096860021741265261",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwosq70flxqk0ye09cxemg",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwosq70flxqk0ye09cxemg",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096865134606156168-20260907T144554Z",
+      "postId": "2096865134606156168",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxf6th0fusqk0yny59l0n9",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxf6th0fusqk0yny59l0n9",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096865262234677561-20260907T144554Z",
+      "postId": "2096865262234677561",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxfv0j0fuuqk0yleu74nkl",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxfv0j0fuuqk0yleu74nkl",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096865395340976138-20260907T144554Z",
+      "postId": "2096865395340976138",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxggjl08gflm0ytl76n03n",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxggjl08gflm0ytl76n03n",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096865520805142643-20260907T144554Z",
+      "postId": "2096865520805142643",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxh5t50fvnqk0yec9z84qp",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxh5t50fvnqk0yec9z84qp",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096865657732337897-20260907T144554Z",
+      "postId": "2096865657732337897",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 25,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxhv520fvoqk0y9dfpl0cx",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxhv520fvoqk0y9dfpl0cx",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096869428151611677-20260907T144554Z",
+      "postId": "2096869428151611677",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy15ki08kolm0y9gwx43al",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy15ki08kolm0y9gwx43al",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096869544749125986-20260907T144554Z",
+      "postId": "2096869544749125986",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy1qtu08krlm0ypeuqth6i",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy1qtu08krlm0ypeuqth6i",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096869655126421647-20260907T144554Z",
+      "postId": "2096869655126421647",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy2c1k08kylm0yu29tzkep",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy2c1k08kylm0yu29tzkep",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096869765671428557-20260907T144554Z",
+      "postId": "2096869765671428557",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy2wae0g0lqk0yuxzb514r",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy2wae0g0lqk0yuxzb514r",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096869885339132326-20260907T144554Z",
+      "postId": "2096869885339132326",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy3i4s08l7lm0ycpjm2j33",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy3i4s08l7lm0ycpjm2j33",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096874208454398209-20260907T144554Z",
+      "postId": "2096874208454398209",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqypkrj08tmlm0yvjljs0jk",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqypkrj08tmlm0yvjljs0jk",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096874367053640141-20260907T144554Z",
+      "postId": "2096874367053640141",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 9,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqyq9ba0g9kqk0yh671sor6",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqyq9ba0g9kqk0yh671sor6",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096874586663186450-20260907T144554Z",
+      "postId": "2096874586663186450",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqyrj4c08u5lm0yzxtuwk9l",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqyrj4c08u5lm0yzxtuwk9l",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096874726715162931-20260907T144554Z",
+      "postId": "2096874726715162931",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqys8on0g9rqk0ysa343yjy",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqys8on0g9rqk0ysa343yjy",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096874871292936488-20260907T144554Z",
+      "postId": "2096874871292936488",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqysywd0ga1qk0yizx05558",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqysywd0ga1qk0yizx05558",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096879304479293464-20260907T144554Z",
+      "postId": "2096879304479293464",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 40,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqzfm8w0ghkqk0ymd91v5na",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqzfm8w0ghkqk0ymd91v5na",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096879509362610198-20260907T144554Z",
+      "postId": "2096879509362610198",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 50,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqzgo4n0gi1qk0ycs4fh4rk",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqzgo4n0gi1qk0ycs4fh4rk",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096879654707835204-20260907T144554Z",
+      "postId": "2096879654707835204",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 53,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqzherd0gi5qk0yw7y62084",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqzherd0gi5qk0yw7y62084",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096944502418387234-20260907T144554Z",
+      "postId": "2096944502418387234",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtr8os360boxlm0ys536q91j",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtr8os360boxlm0ys536q91j",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096944666377867632-20260907T144554Z",
+      "postId": "2096944666377867632",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 7,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtr8pm7g0bp3lm0yohn5bkvu",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtr8pm7g0bp3lm0yohn5bkvu",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096944831633473960-20260907T144554Z",
+      "postId": "2096944831633473960",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 59,
+      "likes": 1,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtr8qgjr0j9hqk0yqvmugyrh",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtr8qgjr0j9hqk0yqvmugyrh",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096945002169675872-20260907T144554Z",
+      "postId": "2096945002169675872",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 13,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtr8rbs80bpclm0yed055zmy",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtr8rbs80bpclm0yed055zmy",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
+    },
+    {
+      "id": "metric-2096945164745048157-20260907T144554Z",
+      "postId": "2096945164745048157",
+      "observedAt": "2026-09-07T14:45:54.521425Z",
+      "views": 8,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtr8s5xp0ja8qk0ybp17iswm",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtr8s5xp0ja8qk0ybp17iswm",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T14:45:54.521425Z"
+      }
     }
   ],
   "experiments": [],
@@ -43308,6 +47089,74 @@
         "active": true,
         "observedAt": "2026-09-07T14:29:54Z",
         "expiresAt": "2026-09-07T15:29:54Z",
+        "deliveryReason": "ERROR delivery without a public release URL"
+      }
+    },
+    {
+      "id": "run-20260907T144626Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:46:26Z",
+      "completedAt": "2026-09-07T14:46:26Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T144627Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:46:27Z",
+      "completedAt": "2026-09-07T14:46:27Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T144642Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:46:42Z",
+      "completedAt": "2026-09-07T14:46:42Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T144647Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:46:47Z",
+      "completedAt": "2026-09-07T14:46:47Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T144842Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T14:48:42Z",
+      "completedAt": "2026-09-07T14:48:42Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T145100Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T14:45:45Z",
+      "completedAt": "2026-09-07T14:51:00Z",
+      "summary": "Hourly Postiz-first metrics collection, Apify benchmark collection, media archive, timestamp-first queue rebuild, and the newest Miami penthouse image-model package completed; no X submission was attempted.",
+      "reason": "Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed at 2026-09-07T14:11:00Z); do not submit another post before 2026-09-07T15:50:26Z.",
+      "circuitBreaker": {
+        "active": true,
+        "observedAt": "2026-09-07T14:50:26Z",
+        "expiresAt": "2026-09-07T15:50:26Z",
         "deliveryReason": "ERROR delivery without a public release URL"
       }
     }
