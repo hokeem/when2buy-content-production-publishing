@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T05:07:19.327676+00:00`
+- 状态更新：`2026-09-07T05:22:55.688858+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**291**
 - 待选选题：**250**
@@ -1864,6 +1864,8 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 
 ## 最近运行
 
+- `2026-09-07T05:22:55Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
+- `2026-09-07T05:22:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-07T05:07:19Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
 - `2026-09-07T05:07:19Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-07T01:13:23Z` **metrics / partial** — Appended daily public-X metric snapshots for all 80 verified published posts and regenerated both report artifacts. Direct public-X HTTP requests were blocked, so every new snapshot records null counters with attributable request-failure reasons. A visible browser check confirmed that public-X may omit zero-valued engagement counters; no values were inferred.
@@ -1882,5 +1884,3 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 - `2026-09-06T15:42:46Z` **queue / succeeded** — Prepared 85 one-to-one production candidate(s).
 - `2026-09-06T15:42:46Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-06T12:45:22Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Terminal panel blocker: report-hub registry access returned HTTP 401 after the required re-source retry, and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed.
-- `2026-09-06T12:44:06.693990+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-06T12:43:34.229320+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
