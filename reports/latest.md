@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T12:13:18.923034+00:00`
+- 状态更新：`2026-09-07T12:34:21.283592+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**305**
-- 待选选题：**264**
+- 对标帖子快照：**306**
+- 待选选题：**265**
 - 待发布制作包：**82**
 - 已验证发布：**127**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 12:14:27 +0000 2026 | Tim Cook will reportedly not appear in Apple’s $AAPL new iPhone releases event on Wednesday - Mac Rumors   John Ternus will be in full control of the event https://t.co/j7a4PQHSOB | [X](https://x.com/StockMKTNewz/status/2096935123937640546) |
 | @StockMKTNewz | Mon Sep 07 11:51:33 +0000 2026 | Sandisk $SNDK is currently the best performing stock in the NASDAQ 100 so far in 2026  👑 Sandisk: +633%🟢 https://t.co/1pbrN0zBVy | [X](https://x.com/StockMKTNewz/status/2096929359596556570) |
 | @StockMKTNewz | Mon Sep 07 11:59:01 +0000 2026 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | [X](https://x.com/StockMKTNewz/status/2096931241597567248) |
 | @StockMKTNewz | Mon Sep 07 11:29:21 +0000 2026 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 2026  (Trade Desk stock is being removed from the S&amp;P 500 later this month) https://t.co/k4QNpi5z3u | [X](https://x.com/StockMKTNewz/status/2096923774364844127) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Sun Sep 06 20:06:06 +0000 2026 | Nvidia chips are being used to settle wars  "When fragile peace talks between Armenia and Azerbaijan looked in danger of collapsing last year, American negotiators used the promise of access to Nvidia’s AI chips to help secure a preliminary peace deal" - WSJ https://t.co/buYEvmDrWI | [X](https://x.com/StockMKTNewz/status/2096691430164938804) |
 | @StockMKTNewz | Sun Sep 06 20:17:09 +0000 2026 | An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed into nearby vehicles  https://t.co/MKcQFvErof | [X](https://x.com/StockMKTNewz/status/2096694211605147791) |
 | @StockMKTNewz | Sun Sep 06 20:43:30 +0000 2026 | Nvidia $NVDA CEO Jensen Huang just said:  “AGI has arrived.” https://t.co/VQ3V6CM1CJ | [X](https://x.com/StockMKTNewz/status/2096700842380341575) |
-| @StockMKTNewz | Sun Sep 06 21:54:28 +0000 2026 | Robinhood Chain $HOOD generated more than $8 Million in fees on Friday | [X](https://x.com/StockMKTNewz/status/2096718702703935494) |
 
 ## 选题推荐
 
@@ -64,6 +64,7 @@
 | 1 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. … | WhaleInsider | 13501 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​… | WhaleInsider | 11350 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | StockMKTNewz | 7158 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Tim Cook will reportedly not appear in Apple’s $AAPL new iPhone releases event on Wednesday … | StockMKTNewz | 8459 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1863,30 +1864,37 @@ Robinhood CEO Vlad Tenev named the cat beside Cashcat "Capital."  The developer 
 ### AppLovin $APP down 52% in 2026
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-applovin-app-minus-52/when2buy-image-model-v2.png`
+- 配图：`deliverables/pkg-20260907-applovin-app-minus-52/when2buy-image-model-v3.png`
 
 $APP is the Nasdaq-100's worst-performing stock so far in 2026, down 52%.  When2Buy — your U.S. stock partner.
 
 ### The Trade Desk $TTD trails the S&P 500
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-trade-desk-ttd-sp500-worst/when2buy-image-model-v2.png`
+- 配图：`deliverables/pkg-20260907-trade-desk-ttd-sp500-worst/when2buy-image-model-v3.png`
 
 $TTD is the S&P 500's worst-performing stock so far in 2026.  The Trade Desk is set to leave the index later this month.  When2Buy — your U.S. stock partner.
 
 ### Sandisk $SNDK leads the S&P 500 in 2026
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-sandisk-sp500-leader/when2buy-image-model.png`
+- 配图：`deliverables/pkg-20260907-sandisk-sp500-leader/when2buy-image-model-v3.png`
 
 Sandisk $SNDK is the S&P 500's best-performing stock so far in 2026.  When2Buy — your U.S. stock partner.
 
 ### Sandisk $SNDK leads the Nasdaq-100 in 2026
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-sandisk-nasdaq100-leader/when2buy-image-model.png`
+- 配图：`deliverables/pkg-20260907-sandisk-nasdaq100-leader/when2buy-image-model-v3.png`
 
 Sandisk $SNDK leads the Nasdaq-100 so far in 2026, up 633%.  When2Buy — your U.S. stock partner.
+
+### Apple iPhone event leadership
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-apple-iphone-event-leadership/when2buy-image-model-v3.png`
+
+Tim Cook is expected to skip Apple $AAPL's iPhone event Wednesday.  John Ternus will lead the presentation.  When2Buy — your U.S. stock partner.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -2023,6 +2031,14 @@ Sandisk $SNDK leads the Nasdaq-100 so far in 2026, up 633%.  When2Buy — your U
 
 ## 最近运行
 
+- `2026-09-07T12:34:21.282567+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries.
+- `2026-09-07T12:34:21.190616+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries.
+- `2026-09-07T12:34:21.094099+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries.
+- `2026-09-07T12:34:20.992918+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries.
+- `2026-09-07T12:33:20.288342+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries.
+- `2026-09-07T12:31:01.156751Z` **produce / succeeded** — Produced the first five timestamp-first packages with inspected image-model scenes and exact-logo compositing.
+- `2026-09-07T12:26:21Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
+- `2026-09-07T12:26:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-07T12:13:18Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
 - `2026-09-07T12:12:56.517475+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T12:11:26.882816+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on the safe retry; no public x.com URL was issued.
@@ -2035,11 +2051,3 @@ Sandisk $SNDK leads the Nasdaq-100 so far in 2026, up 633%.  When2Buy — your U
 - `2026-09-07T11:33:18.489743+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T11:33:18.394006+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T11:30:52.817830+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL; a safe retry did not produce PUBLISHED or a public x.com URL.
-- `2026-09-07T11:28:42Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
-- `2026-09-07T11:25:52Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
-- `2026-09-07T11:25:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).
-- `2026-09-07T11:13:26.239077+00:00` **publish / partial** — Terminal Postiz delivery error for pkg-20260907-btc-kalshi-85000; no public X URL. Postiz safe retry exhausted: the intended @_When2buy integration returned no PUBLISHED state with a public x.com release URL.
-- `2026-09-07T11:06:09Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T11:06:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 0 new post(s).
-- `2026-09-07T10:52:40Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T10:52:14.672084+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL after two safe delivery attempts; no public x.com URL was issued.
