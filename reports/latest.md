@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T17:49:31.584068+00:00`
+- 状态更新：`2026-09-07T18:08:26.778743+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**332**
-- 待选选题：**290**
-- 待发布制作包：**92**
+- 对标帖子快照：**333**
+- 待选选题：**291**
+- 待发布制作包：**93**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 17:52:20 +0000 2026 | 🇺🇸 President Trump posted this:  "I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself" https://t.co/jOpbjsCxzM | [X](https://x.com/StockMKTNewz/status/2097020156203397246) |
 | @StockMKTNewz | Mon Sep 07 17:30:12 +0000 2026 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of August - WSJ | [X](https://x.com/StockMKTNewz/status/2097014587426062500) |
 | @StockMKTNewz | Mon Sep 07 17:10:51 +0000 2026 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803  For anyone curious $15M in 2026 is enough to buy  - 19.8 shares of Berkshire Hathaway $BRK.A stock - 8,620 shares of Sandisk $SNDK  - 14,763 shares of Micron $MU  - 19,480 shares of the S&P 500 ETF $SPY  - 20,862 shares of the Nasdaq 100 ETF $QQQ  - 24,320 shares of Meta Platforms $META  - 30,000 shares of Microsoft $MSFT  - 42,372 shares of Tesla $TSLA - 44,776 shares of Google $GOOGL  - 46,875 shares of Apple $AAPL  - 58,027 shares of Amazon $AMZN  - 65,217 shares of Nvidia $NVDA  - 101,351 shares of SpaceX $SPCX  - 191,693 shares of Netflix $NFLX | [X](https://x.com/StockMKTNewz/status/2097009717994242070) |
 | @WhaleInsider | Mon Sep 07 16:46:28 +0000 2026 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchain terminals. https://t.co/hvMoTq7YNp | [X](https://x.com/WhaleInsider/status/2097003578648940977) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 12:14:27 +0000 2026 | Tim Cook will reportedly not appear in Apple’s $AAPL new iPhone releases event on Wednesday - Mac Rumors   John Ternus will be in full control of the event https://t.co/j7a4PQHSOB | [X](https://x.com/StockMKTNewz/status/2096935123937640546) |
 | @StockMKTNewz | Mon Sep 07 11:51:33 +0000 2026 | Sandisk $SNDK is currently the best performing stock in the NASDAQ 100 so far in 2026  👑 Sandisk: +633%🟢 https://t.co/1pbrN0zBVy | [X](https://x.com/StockMKTNewz/status/2096929359596556570) |
 | @StockMKTNewz | Mon Sep 07 11:59:01 +0000 2026 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | [X](https://x.com/StockMKTNewz/status/2096931241597567248) |
-| @StockMKTNewz | Mon Sep 07 11:29:21 +0000 2026 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 2026  (Trade Desk stock is being removed from the S&amp;P 500 later this month) https://t.co/k4QNpi5z3u | [X](https://x.com/StockMKTNewz/status/2096923774364844127) |
 
 ## 选题推荐
 
@@ -81,6 +81,7 @@
 | 1 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchai… | WhaleInsider | 21325 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803 For anyone curious … | StockMKTNewz | 11718 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of Aug… | StockMKTNewz | 10641 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | 🇺🇸 President Trump posted this: "I do this for our Country, not myself. I’ve made Hundreds o… | StockMKTNewz | 12246 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2068,6 +2069,13 @@ The U.S. bought the Louisiana territory from France for $15M in 1803.  At curren
 
 The average U.S. stock ETF and mutual fund is up 12.6% in 2026 through the end of August.  When2Buy — your U.S. stock partner.
 
+### President Trump says he made hundreds of billions on stocks and holdings
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-trump-stock-holdings-statement/when2buy-image-model.png`
+
+President Trump says he has made hundreds of billions of dollars on stocks and other holdings.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2208,6 +2216,11 @@ The average U.S. stock ETF and mutual fund is up 12.6% in 2026 through the end o
 
 ## 最近运行
 
+- `2026-09-07T18:08:26Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
+- `2026-09-07T18:07:55Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
+- `2026-09-07T18:07:55Z` **produce / succeeded** — Produced the newest timestamp-first benchmark package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-07T18:05:57Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
+- `2026-09-07T18:05:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
 - `2026-09-07T17:49:31.558802Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics pass, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public x.com release URL; accepted task was not retried.
 - `2026-09-07T17:48:58.583958Z` **produce / succeeded** — Produced the newest timestamp-first U.S. stock-fund package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-07T17:46:09Z` **queue / succeeded** — Prepared 33 one-to-one production candidate(s).
@@ -2223,8 +2236,3 @@ The average U.S. stock ETF and mutual fund is up 12.6% in 2026 through the end o
 - `2026-09-07T17:25:35Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T17:10:00Z` **full / partial** — Apify benchmark collection, media archive, timestamp-first queue rebuild, and one newest image-model package completed; no X submission was made. Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.
 - `2026-09-07T17:08:42Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T17:06:21Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T17:06:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
-- `2026-09-07T16:48:11Z` **full / partial** — Shanghai :45 metrics pass, Apify benchmark collection, media archive, and timestamp-first queue rebuild completed; no X submission was made. Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.
-- `2026-09-07T16:47:34Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T16:47:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 69 eligible originals and added 0 new post(s).

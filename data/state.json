@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T17:49:31.584068+00:00",
+  "updatedAt": "2026-09-07T18:08:26.778743+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9114,6 +9114,34 @@
       "isPinned": false,
       "capturedAt": "2026-09-07T17:46:09Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097020156203397246",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097020156203397246",
+      "postedAt": "Mon Sep 07 17:52:20 +0000 2026",
+      "text": "🇺🇸 President Trump posted this:\n\n\"I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself\" https://t.co/jOpbjsCxzM",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRocpb-bIAAYZe2.jpg"
+      ],
+      "engagement": {
+        "likes": 40,
+        "replies": 15,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 10596
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T18:05:56Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRocpb-bIAAYZe2.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097020156203397246-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -14624,6 +14652,25 @@
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097020156203397246",
+      "rank": 1,
+      "title": "🇺🇸 President Trump posted this: \"I do this for our Country, not myself. I’ve made Hundreds o…",
+      "benchmarkPostId": "2097020156203397246",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097020156203397246",
+      "score": 12246,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T18:05:57Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -20144,6 +20191,42 @@
             "not pure text or generic radar",
             "exact repository logo composited once with clear space",
             "no damaged logo or source attribution"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260907-trump-stock-holdings-statement",
+      "benchmarkPostId": "2097020156203397246",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097020156203397246",
+      "title": "President Trump says he made hundreds of billions on stocks and holdings",
+      "status": "ready",
+      "postText": "President Trump says he has made hundreds of billions of dollars on stocks and other holdings.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "President Trump said he has made hundreds of billions of dollars.",
+        "He specifically cited stocks and other holdings.",
+        "He said the gains were for the United States, not himself."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097020156203397246"
+      ],
+      "imagePath": "deliverables/pkg-20260907-trump-stock-holdings-statement/when2buy-image-model.png",
+      "createdAt": "2026-09-07T18:07:55Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: premium square visual for an X market-news post. Primary request: entity-led institutional finance visual about a U.S. presidential statement on personal stock and asset holdings: elegant dark executive desk, abstract U.S. government setting, sealed document folio and subtle stock-market reflections, no real-person depiction. Scene/backdrop: near-black modern office and architectural Washington-inspired columns in shadow with restrained red rim light. Subject: premium leather document folio and market reflections on polished dark glass. Style: cinematic editorial finance photography. Composition: exact square 1:1, central folio, clean lower-right logo-safe area. Text: none. Constraints: no written words, numbers, logos, flags, faces, source attribution, social UI, watermark, generic radar graphics, or damaged objects.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T18:07:55Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led executive-document visual",
+            "no readable generated text or attribution",
+            "no generic radar image",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no damaged-logo output"
           ]
         }
       }
@@ -59467,6 +59550,60 @@
         "active": true,
         "expiresAt": "2026-09-07T18:49:31.558802Z",
         "deliveryReason": "Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public x.com release URL; accepted task was not retried."
+      }
+    },
+    {
+      "id": "run-20260907T180556Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T18:05:56Z",
+      "completedAt": "2026-09-07T18:05:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T180557Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T18:05:57Z",
+      "completedAt": "2026-09-07T18:05:57Z",
+      "summary": "Prepared 34 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T180755Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T18:07:55Z",
+      "completedAt": "2026-09-07T18:07:55Z",
+      "summary": "Produced the newest timestamp-first benchmark package with an inspected image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T180755Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T18:07:55Z",
+      "completedAt": "2026-09-07T18:07:55Z",
+      "summary": "Prepared 34 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T180826Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T18:08:26Z",
+      "completedAt": "2026-09-07T18:08:26Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T19:08:26Z",
+        "deliveryReason": "Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried."
       }
     }
   ],
