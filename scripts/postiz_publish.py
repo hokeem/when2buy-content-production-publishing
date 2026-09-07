@@ -6,6 +6,7 @@ from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request,urlopen
 ROOT=Path(__file__).resolve().parents[1]; sys.path.insert(0,str(ROOT/'skills/when2buy-content-publisher/scripts')); import state
+sys.path.insert(0,str(ROOT/'scripts')); from validate_content_standard import validate_package
 BASE=os.getenv('POSTIZ_BASE_URL','https://api.postiz.com/public/v1').rstrip('/'); EXPECTED=os.getenv('WHEN2BUY_POSTIZ_HANDLE','_When2buy')
 def request(path, method='GET', data=None, content_type='application/json'):
  key=os.getenv('POSTIZ_API_KEY');
@@ -24,6 +25,8 @@ def main():
  if not a.confirm: raise SystemExit('Refusing to publish without --confirm.')
  s=state.load_state(); pkg=next((x for x in s['packages'] if x.get('id')==a.package_id),None)
  if not pkg or pkg.get('status')!='ready': raise SystemExit('Package must exist and be status=ready.')
+ standard_errors=validate_package(pkg)
+ if standard_errors: raise SystemExit('Content standard failed before Postiz call: ' + '; '.join(standard_errors))
  image=ROOT/pkg.get('imagePath','')
  if not image.is_file() or not pkg.get('postText') or not pkg.get('benchmarkPostUrl') or not pkg.get('mirroredFacts') or not pkg.get('verificationSources'): raise SystemExit('Ready package is missing required source, copy, verification, or image fields.')
  integrations=request('/integrations'); integ=next((x for x in integrations if x.get('identifier')=='x' and x.get('profile','').lstrip('@')==EXPECTED.lstrip('@') and not x.get('disabled')),None)

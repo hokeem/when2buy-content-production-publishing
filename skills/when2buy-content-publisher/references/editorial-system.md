@@ -20,33 +20,22 @@ For each captured benchmark post, store:
 - whether when2buy has already covered the same event;
 - upstream sources used for verification.
 
-## Candidate score
+## Publication order
 
-Score each dimension from 0 to 5:
-
-- Freshness: minutes matter for breaking news; hours for earnings; days for analysis.
-- Market impact: index weight, dollar scale, policy scope, or cross-asset relevance.
-- Factual clarity: named primary source and independently checkable numbers.
-- Visual potential: one dominant number, comparison, timeline, or contradiction.
-- when2buy fit: U.S. equities, macro, earnings, chips, AI infrastructure, or major capital flows.
-- Duplication risk: subtract 0 to 5 when the account recently covered the same angle.
-
-Rank by total score. If two candidates tie, choose the fresher primary-source event.
+Sort eligible non-pinned benchmark posts strictly by `postedAt`, newest first. Engagement breaks a tie only when two source timestamps are identical. Market impact, factual clarity, visual potential, and when2buy fit may guide presentation, but they never promote an older post over a newer eligible post.
 
 Each recommendation must map one-to-one to one captured benchmark post. Never combine two unrelated benchmark posts into a synthetic topic.
 
 ## Copy system
 
-Write in English unless the task says otherwise. Default to 45-90 words and four short blocks:
+Write in English unless the task says otherwise. Preserve the benchmark post's factual payload and approximate information density:
 
-1. Lead with the company/ticker and the verified event.
-2. State the decisive number or contrast.
-3. Explain the investor implication in plain language.
-4. End with one sharp observation or question only when it adds value.
+1. Lead with the named subject and core event.
+2. Preserve the decisive number or second fact when the source includes one.
+3. Reorder wording lightly without adding analysis or commentary.
+4. End with exactly `When2Buy — your U.S. stock partner.`
 
-Use cashtags when natural. Avoid generic openings, long throat-clearing, hashtags stuffed at the end, guaranteed-return language, and the fixed slogan `This is when2buy, your AI stock friend` unless explicitly requested.
-
-Benchmarking may preserve public facts, tickers, numbers, and short official labels. Rewrite all narration independently. Never lightly paraphrase a top reply or reproduce another creator's punchline.
+Use cashtags when natural. Do not print the benchmark handle, source URL, sourcing language, a verification disclaimer, investment-advice boilerplate, hashtags, or another CTA. Benchmarking may preserve public facts, tickers, numbers, and short official labels, but must not copy distinctive narration, jokes, or punchlines.
 
 ## Visual system
 

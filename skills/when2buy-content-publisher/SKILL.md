@@ -1,6 +1,6 @@
 ---
 name: when2buy-content-publisher
-description: "Run the benchmark-first when2buy U.S.-market X workflow end to end. At three fixed daily windows, inspect every new original post from @WhaleInsider and @StockMKTNewz, select the strongest same-topic opportunities, verify the underlying facts, create independently worded when2buy English posts and branded images, publish through Postiz, collect metrics, and produce an agent-readable report. Use for daily when2buy competitor monitoring, mirrored-topic production, X publishing, scheduled runs, performance reviews, or migration to another Codex agent."
+description: "Run the freshness-first when2buy U.S.-market X workflow end to end. Every 20 minutes, inspect new original posts from @WhaleInsider and @StockMKTNewz, process the newest eligible non-pinned posts first, create concise when2buy English posts and entity-led generated images, publish through Postiz, collect metrics, and update the report."
 ---
 
 # when2buy Content Publisher
@@ -14,24 +14,17 @@ Run a **benchmark-first mirror desk**, not a general finance idea generator.
 1. Begin every `radar`, `produce`, or `full` run by opening both exact feeds:
    - `https://x.com/WhaleInsider`
    - `https://x.com/StockMKTNewz`
-2. Capture every new original post since the previous successful scan. Exclude replies, repost-only entries, promotions, and unrelated crypto content.
+2. Capture every new original post since the previous successful scan. Exclude pinned posts, replies, repost-only entries, and promotions.
 3. If neither account has a new eligible post, scan backward up to 48 hours. Do not invent an unrelated topic merely to fill a slot.
-4. Make when2buy cover the **same news event, company/ticker, key disclosed facts, decisive numbers, and urgency window** as the selected benchmark post. Every newly captured eligible original must receive an original when2buy package; lack of independent verification changes the framing, never silently discards the topic.
+4. Make when2buy cover the **same news event, company/ticker, key disclosed facts, decisive numbers, and urgency window** as the selected benchmark post. Keep the topic even when the claim cannot be independently confirmed; use the narrowest accurate wording without adding public attribution or a disclaimer.
 5. Do not copy the benchmark's distinctive sentences, jokes, commentary, or artwork. `Same content` means the same verified topic and factual payload expressed in original when2buy wording and visuals.
 6. Store the benchmark status URL and mapping before producing. A package without a `benchmarkPostId`, benchmark URL, and mirrored-facts list is invalid.
 
-## QUICK MARKET RADAR mode
+## Scheduled fast-follow mode
 
-When the owner directs QUICK MARKET RADAR, prioritize timely publication from the two fixed benchmark accounts after basic source capture. Independent verification is not a publication gate in this mode, but every post must:
+The canonical Paseo schedule runs at minute **05, 25, and 45 of every hour** in Asia/Shanghai. It retains the benchmark account, status URL, captured text, and media provenance internally, but never prints the source account, source URL, `according to`, `reported by`, `Market radar`, an unverified disclaimer, or investment-advice boilerplate in public copy or artwork.
 
-- include the exact disclosure: `Market radar — reported by @account; not independently verified.`
-- retain the benchmark account, status URL, captured text, and media provenance in the package/state;
-- attribute third-party claims, forecasts, rankings, deal terms, prices, and probabilities to the benchmark account rather than presenting them as established facts;
-- avoid trading recommendations, buy/sell instructions, return promises, and certainty language.
-
-The post and visual remain original. The only delivery gate is successful Postiz publication with `PUBLISHED` and a public X URL.
-
-Scheduled scans use Asia/Shanghai time at **08:30, 14:30, and 20:30**. Read [scheduled-task.md](references/scheduled-task.md) for the exact behavior at each window.
+Publication order is the order in `data/production-queue.json`: newest eligible non-pinned source first, with engagement used only to break an identical timestamp. Process and publish up to five items per run. Never replace a newer topic with an older hotter one.
 
 ## Select the run mode
 
@@ -54,13 +47,13 @@ Read only the references needed for the selected mode:
 1. Run `python3 skills/when2buy-content-publisher/scripts/preflight.py` and `python3 skills/when2buy-content-publisher/scripts/state.py validate`.
 2. Inspect `data/state.json`; determine the last successful benchmark scan time and avoid duplicate topics.
 3. Scan both benchmark feeds first. Append the discovered source posts to `benchmarkPosts` with exact status URL, timestamp, visible text, and account.
-4. In standard mode, trace every material claim to a primary source or authoritative financial reporting. In QUICK MARKET RADAR mode, capture the benchmark account and status URL, preserve attribution and the required disclosure, and do not present the claim as independently established.
-5. Rank benchmark posts by freshness, market impact, factual clarity, visual potential, and duplication risk. The publishing pass selects the top 10 ready packages strictly by this production-queue score; never create an unrelated filler topic.
-6. Produce from every newly eligible benchmark post. Preserve source provenance and write independently; for an unverified or overly specific claim, make an attributed market-radar or broader trend/context post rather than stating the claim as established fact.
-7. Create one 1:1 branded image using the exact `assets/when2buy-logo-reference.png` logo and the visual rules in [brand-and-style.md](references/brand-and-style.md). Compare the draft against all three supplied style examples before accepting it.
-8. Complete research, copy, and image production autonomously. When standing or current publishing authorization exists, run `python3 scripts/postiz_publish.py --package-id <id> --confirm`. The script verifies the Postiz integration is `@_When2buy`, uploads the package image, and waits for `PUBLISHED` plus a public X URL. In QUICK MARKET RADAR mode, attribution and disclosure replace independent-verification gating; without authorization, stop at `ready`.
+4. Retain the source mapping internally. Verification may improve wording, but it is not a gate and never causes the workflow to skip a newer captured topic.
+5. Process `data/production-queue.json` in listed order. The first item is the newest eligible non-pinned source; engagement cannot promote an older source over it.
+6. Preserve the source core event, company/ticker, decisive number, factual order, and information density. Reorder wording lightly. Put the event first and end with exactly `When2Buy — your U.S. stock partner.` Do not add attribution, sourcing, disclaimers, commentary paragraphs, or a second CTA.
+7. Use the image-generation model to create a complete 1:1 entity-led scene in one generation. A pure typography card, generic radar background, or programmatically drawn template is invalid. Leave a clean logo-safe area, then composite the exact `assets/when2buy-logo-reference.png` logo once. Record `visualProduction.method=image_model`, the generation prompt, `logoApplied=true`, and `qaStatus=passed` in the package.
+8. Complete research, copy, and image production autonomously. When standing or current publishing authorization exists, run `python3 scripts/postiz_publish.py --package-id <id> --confirm`. The script verifies the Postiz integration is `@_When2buy`, uploads the package image, and waits for `PUBLISHED` plus a public X URL. With standing authorization, publish without interactive confirmation.
 9. Only record `published` after Postiz returns `PUBLISHED` and a public X release URL. Then refresh the run panel.
-10. Record the run and metric snapshot with `state.py`; run validation and `python3 scripts/render_report.py` again.
+10. Before any external publish call run `python3 scripts/validate_content_standard.py --package-id <id>`. Record the run and metric snapshot with `state.py`; run validation and `python3 scripts/render_report.py` again.
 
 ## Publishing invariants
 
@@ -71,7 +64,7 @@ Read only the references needed for the selected mode:
 - Do not label generated media as AI unless the user or platform requires it. Never remove a platform-required provenance label.
 - Do not make investment guarantees, fabricate quotes, or imply inside information.
 - Do not replace the two benchmark accounts with a generic news search. Upstream sources verify facts; they do not replace benchmark-first topic selection.
-- Unverified or specific third-party claims are reframed with source attribution and the required disclosure; they are not discarded solely for lacking independent verification. Operational or delivery uncertainty still blocks publication.
+- Source provenance remains internal. Public copy and artwork contain no source handle, source URL, `according to`, `reported by`, verification disclaimer, or investment-advice boilerplate.
 
 ## Completion
 

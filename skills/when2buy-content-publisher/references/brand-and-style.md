@@ -25,22 +25,22 @@ Use the exact supplied logo as an image reference. Do not redraw, retype, recolo
 
 Write native English for X. Sound like a fast, opinionated market observer, not a press release and not an AI explainer.
 
-Default structure:
+Required fast-follow structure:
 
 ```text
-[Company/ticker] just [event] [dominant number].
+[Company/ticker or named subject] [core event and dominant number].
 
-[Second decisive fact or contrast].
+[Only the second fact needed to preserve the source information density.]
 
-[One sharp investor implication.]
+When2Buy — your U.S. stock partner.
 ```
 
 Preferred traits:
 
-- 35-80 words, usually three short blocks.
+- Keep approximately the same information density as the benchmark; usually one or two factual blocks plus the brand line.
 - Lead with the event and number; do not open with background.
 - Use plain verbs: `just filed`, `just priced`, `is buying`, `is cutting`, `is betting`.
-- Use one opinionated implication, not a paragraph of balanced analysis.
+- Reorder the source facts lightly, but do not add analysis that pushes the core event down.
 - Use `$TICKER` when natural.
 - Use emoji rarely and only when it improves tone; do not force slang.
 
@@ -50,6 +50,9 @@ Avoid:
 - `In a significant development`, `It is worth noting`, and other corporate filler.
 - long explanations, fake certainty, return promises, hashtag piles, or multiple conclusions.
 - lightly paraphrasing a benchmark's distinctive hook or top reply.
+- `according to`, `reported by`, `Market radar`, source handles or URLs, `not independently verified`, `not investment advice`, and any public sourcing/disclaimer boilerplate.
+
+Every post ends with exactly: `When2Buy — your U.S. stock partner.`
 
 ## Historical text examples
 

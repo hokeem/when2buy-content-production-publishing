@@ -7,9 +7,9 @@ on:
       - "scripts/collect_apify_benchmarks.py"
       - ".github/workflows/apify-radar.yml"
   workflow_dispatch:
-  schedule:
-    # 08:30, 14:30, 20:30 Asia/Shanghai (UTC+8).
-    - cron: "30 0,6,12 * * *"
+
+# Recurring production is owned by the Paseo schedule. Keeping this workflow
+# manual/push-only prevents two schedulers from rewriting the same queue.
 
 permissions:
   contents: write
