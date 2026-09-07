@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Append attributable metrics for published when2buy posts for their first 72h.
+"""Append hourly attributable metrics for published when2buy posts for their first 72h.
 
 Postiz analytics is the primary source.  Public X status pages are only a
 secondary fallback and never create an observation unless a visible numeric
@@ -137,12 +137,14 @@ def public_x_metrics(url):
     return None, evidence, 'public X did not expose any parseable numeric counters'
 
 
-def has_successful_snapshot(snapshots, post_id, checked_day):
+def has_successful_snapshot_in_hour(snapshots, post_id, checked_at):
+    checked_hour = checked_at.astimezone(timezone.utc).replace(minute=0, second=0, microsecond=0)
     for item in snapshots:
         if str(item.get('postId')) != str(post_id):
             continue
         observed = as_datetime(item.get('observedAt'))
-        if observed and observed.date().isoformat() == checked_day and any(item.get(field) is not None for field in CORE_FIELDS):
+        observed_hour = observed.astimezone(timezone.utc).replace(minute=0, second=0, microsecond=0) if observed else None
+        if observed_hour == checked_hour and any(item.get(field) is not None for field in CORE_FIELDS):
             return True
     return False
 
@@ -162,7 +164,7 @@ def main():
     document = state.load_state()
     current = now_utc()
     changed = False
-    summary = {'queriedPostiz': 0, 'postizSnapshots': 0, 'xFallbackSnapshots': 0, 'noObservation': 0, 'complete': 0, 'skippedToday': 0}
+    summary = {'queriedPostiz': 0, 'postizSnapshots': 0, 'xFallbackSnapshots': 0, 'noObservation': 0, 'complete': 0, 'skippedThisHour': 0}
 
     for post in document.get('posts', []):
         if post.get('status') != 'published' or not post.get('postizPostId'):
@@ -184,8 +186,8 @@ def main():
         if tracking.get('status') != 'active' or tracking.get('windowStart') != iso(published) or tracking.get('windowEnd') != iso(deadline):
             tracking.update({'status': 'active', 'windowStart': iso(published), 'windowEnd': iso(deadline)})
             changed = True
-        if has_successful_snapshot(document.get('metricSnapshots', []), post.get('id'), current.date().isoformat()):
-            summary['skippedToday'] += 1
+        if has_successful_snapshot_in_hour(document.get('metricSnapshots', []), post.get('id'), current):
+            summary['skippedThisHour'] += 1
             continue
 
         age_days = max(1, min(3, math.ceil((current - published).total_seconds() / 86400)))

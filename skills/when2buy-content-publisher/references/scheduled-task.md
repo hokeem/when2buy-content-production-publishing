@@ -26,7 +26,7 @@ The only state-writing recurring task runs at `5,25,45 * * * *` in `Asia/Shangha
 Every run:
 
 1. Fetch/rebase `main`, load protected credentials without printing them, and validate state/preflight.
-2. During the 09:00 Asia/Shanghai hour, run `python3 scripts/collect_public_metrics.py`. The collector is idempotent for successful daily observations and only tracks a post during its first 72 hours.
+2. On the third benchmark scan of each hour (the `:45` run), run `python3 scripts/collect_public_metrics.py`. The collector is idempotent within each UTC hour and only queries posts published during their first 72 hours; it never performs a full-history metrics crawl.
 3. Collect only `@WhaleInsider` and `@StockMKTNewz` through Apify.
 4. Exclude pinned posts, replies, repost-only entries, promotions, and duplicates; archive original media.
 5. Preserve newest-first queue order and process up to five unpublished items.
