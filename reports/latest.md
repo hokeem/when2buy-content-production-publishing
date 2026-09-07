@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T19:47:38.308529+00:00`
+- 状态更新：`2026-09-07T20:13:10.137576+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**336**
-- 待选选题：**294**
-- 待发布制作包：**96**
+- 对标帖子快照：**338**
+- 待选选题：**296**
+- 待发布制作包：**98**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 19:46:55 +0000 2026 | *THE STOCK MARKET IS BACK OPEN AGAIN TOMORROW | [X](https://x.com/StockMKTNewz/status/2097048992051769654) |
+| @StockMKTNewz | Mon Sep 07 20:00:36 +0000 2026 | NVIDIA $NVDA CEO JENSEN HUANG IS ON 🇬🇧 KING CHARLES' AI MEETING GUEST LIST - Politico | [X](https://x.com/StockMKTNewz/status/2097052436301054403) |
 | @WhaleInsider | Mon Sep 07 18:59:02 +0000 2026 | JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana integration for its privacy technology. https://t.co/oygVZqd2Fs | [X](https://x.com/WhaleInsider/status/2097036939798978783) |
 | @StockMKTNewz | Mon Sep 07 18:36:36 +0000 2026 | Iron ore broke back $100 a ton for the first time in seven weeks today - Bloomberg https://t.co/pENwkTLz0o | [X](https://x.com/StockMKTNewz/status/2097031294546784410) |
 | @WhaleInsider | Mon Sep 07 18:38:07 +0000 2026 | JUST IN: OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. https://t.co/cakvyoFMQO | [X](https://x.com/WhaleInsider/status/2097031676031336867) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 12:56:19 +0000 2026 | Nike stock is currently the worst performing stock in the Dow Jones so far in 2026  💩 Nike $NKE: -40%🔴 https://t.co/gv8I7ohsRL | [X](https://x.com/StockMKTNewz/status/2096945662529093944) |
 | @StockMKTNewz | Mon Sep 07 12:30:04 +0000 2026 | Moderna is currently the 2nd best performing stock in the S&amp;P 500 so far in 2026  🥈 Moderna $MRNA: +394%🟢 https://t.co/CgsW3nYPph | [X](https://x.com/StockMKTNewz/status/2096939055036436906) |
 | @WhaleInsider | Mon Sep 07 12:37:43 +0000 2026 | JUST IN: $INDEXR launches on Robinhood Chain as https://t.co/Y2sUgKxg2e memecoin index-fund token, bundling coins into one 1:1-backed, redeemable token. https://t.co/piTq8YX75P | [X](https://x.com/WhaleInsider/status/2096940978732953909) |
-| @WhaleInsider | Mon Sep 07 12:42:02 +0000 2026 | JUST IN: Robinhood Chain $HOOD generated $30,000,000 in revenue last week. https://t.co/1Wt4dbr1wB | [X](https://x.com/WhaleInsider/status/2096942065867202925) |
-| @StockMKTNewz | Mon Sep 07 12:42:42 +0000 2026 | Dell Technologies is currently the 3rd best performing stock in the S&amp;P 500 so far in 2026  🥉 $DELL: +316%🟢 https://t.co/wp7qNq9AS0 | [X](https://x.com/StockMKTNewz/status/2096942235312918559) |
 
 ## 选题推荐
 
@@ -84,6 +84,7 @@
 | 1 | 🇺🇸 President Trump posted this: "I do this for our Country, not myself. I’ve made Hundreds o… | StockMKTNewz | 12246 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabi… | WhaleInsider | 15547 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana inte… | WhaleInsider | 14506 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | NVIDIA $NVDA CEO JENSEN HUANG IS ON 🇬🇧 KING CHARLES' AI MEETING GUEST LIST - Politico | StockMKTNewz | 6779 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -105,6 +106,7 @@
 | 2 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglome… | WhaleInsider | 17841 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V | StockMKTNewz | 12514 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Iron ore broke back $100 a ton for the first time in seven weeks today - Bloomberg https://t… | StockMKTNewz | 8680 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | *THE STOCK MARKET IS BACK OPEN AGAIN TOMORROW | StockMKTNewz | 13991 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2100,6 +2102,20 @@ Iron ore moved back above $100 a ton today for the first time in seven weeks.  W
 
 $GHOST surged 86% in 24 hours amid speculation its privacy technology could integrate with Solana.  When2Buy — your U.S. stock partner.
 
+### Nvidia CEO joins U.K. AI meeting guest list
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-nvidia-uk-ai-meeting/when2buy-image-model.png`
+
+$NVDA CEO Jensen Huang is on King Charles' AI meeting guest list in the U.K.  When2Buy — your U.S. stock partner.
+
+### U.S. stock market reopens tomorrow
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-us-market-reopens-tomorrow/when2buy-image-model.png`
+
+The U.S. stock market reopens tomorrow.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2120,7 +2136,7 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834296762011792) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
-| Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 38 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
+| Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 39 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | JUST IN: Altcoins flip $BTC in open interest. | 2026-09-07T00:43:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761333488513480) |
@@ -2133,7 +2149,7 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
-| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
+| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
@@ -2240,6 +2256,12 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 
 ## 最近运行
 
+- `2026-09-07T20:13:10Z` **queue / succeeded** — Prepared 39 one-to-one production candidate(s).
+- `2026-09-07T20:13:09Z` **produce / succeeded** — Produced the U.S. market-reopening package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-07T20:11:33Z` **full / partial** — Apify collection, queue production, hourly metrics, and the sole newest-package Postiz probe completed; publication did not yield a verified public X URL. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-07T20:09:00Z` **produce / succeeded** — Produced the newest Nvidia U.K. AI-meeting package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-07T20:06:09Z` **queue / succeeded** — Prepared 39 one-to-one production candidate(s).
+- `2026-09-07T20:06:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
 - `2026-09-07T19:47:38.307305Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
 - `2026-09-07T19:46:58Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
 - `2026-09-07T19:46:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 0 new post(s).
@@ -2254,9 +2276,3 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 - `2026-09-07T18:49:30.615321Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-07T18:49:09Z` **queue / succeeded** — Prepared 36 one-to-one production candidate(s).
 - `2026-09-07T18:49:09.657078Z` **produce / succeeded** — Produced the two newly captured timestamp-first packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-07T18:46:49Z` **queue / succeeded** — Prepared 36 one-to-one production candidate(s).
-- `2026-09-07T18:46:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).
-- `2026-09-07T18:46:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 2 new post(s).
-- `2026-09-07T18:26:39Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and reporting completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br was ERROR with no public release URL in the preceding 60 minutes; accepted task was not retried.
-- `2026-09-07T18:26:05Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
-- `2026-09-07T18:26:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 0 new post(s).
