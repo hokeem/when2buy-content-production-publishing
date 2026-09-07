@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T23:06:35.086763+00:00",
+  "updatedAt": "2026-09-07T23:28:14.103634+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9378,6 +9378,62 @@
       "isPinned": false,
       "capturedAt": "2026-09-07T21:05:53Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097101124708794712",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097101124708794712",
+      "postedAt": "Mon Sep 07 23:14:05 +0000 2026",
+      "text": "Tesla $TSLA posted this today:\n\n“Superchargers are made in Buffalo, New York.” https://t.co/nZfyJAXR55",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2097025126701334528/img/vOoaUNS-X3lez_K5.jpg"
+      ],
+      "engagement": {
+        "likes": 40,
+        "replies": 3,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 8761
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T23:25:54Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097025126701334528/img/vOoaUNS-X3lez_K5.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097101124708794712-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097100701637763331",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097100701637763331",
+      "postedAt": "Mon Sep 07 23:12:24 +0000 2026",
+      "text": "OpenAI owned ChatGPT posted this today:\n\n“ChatGPT Work can now pick up on what makes your writing sound like… you. Your favorite phrases. Your very specific sign-off. your capitalizations quirks.” https://t.co/Bd4gtZfF1h",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRpl-MTWQAAx_4b.jpg"
+      ],
+      "engagement": {
+        "likes": 23,
+        "replies": 7,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 8843
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T23:25:54Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRpl-MTWQAAx_4b.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097100701637763331-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -15059,6 +15115,44 @@
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097101124708794712",
+      "rank": 1,
+      "title": "Tesla $TSLA posted this today: “Superchargers are made in Buffalo, New York.” https://t.co/n…",
+      "benchmarkPostId": "2097101124708794712",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097101124708794712",
+      "score": 9881,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T23:25:54Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097100701637763331",
+      "rank": 2,
+      "title": "OpenAI owned ChatGPT posted this today: “ChatGPT Work can now pick up on what makes your wri…",
+      "benchmarkPostId": "2097100701637763331",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097100701637763331",
+      "score": 9683,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T23:25:54Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -20875,6 +20969,76 @@
             "not a pure-text or generic-radar image",
             "exact repository logo composited once in lower-right clear space",
             "no damaged or malformed subject"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-tesla-buffalo-supercharger-manufacturing",
+      "benchmarkPostId": "2097101124708794712",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097101124708794712",
+      "title": "Tesla says Superchargers are made in Buffalo",
+      "status": "ready",
+      "postText": "$TSLA says Superchargers are made in Buffalo, New York.\n\nThe charging buildout is coming from a U.S. factory floor.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Tesla said Superchargers are made in Buffalo, New York.",
+        "The source event identifies a U.S. manufacturing location for Tesla Superchargers."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097101124708794712"
+      ],
+      "imagePath": "deliverables/pkg-20260908-tesla-buffalo-supercharger-manufacturing/when2buy-image-model.png",
+      "createdAt": "2026-09-07T23:27:46Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium square 1:1 X financial-news editorial visual for When2Buy.\nPrimary request: original entity-led image for Tesla Superchargers being made in Buffalo, New York.\nScene/backdrop: a sophisticated near-black advanced manufacturing floor at night, precise rows of sleek unbranded EV charging equipment being assembled, subtle Buffalo industrial skyline through high windows.\nSubject: one finished glossy white-and-black electric-vehicle charging pedestal in sharp foreground, abstract manufacturing components behind it.\nStyle/medium: cinematic premium financial editorial photography, crisp material realism, controlled white rim light and one restrained deep-red accent.\nComposition/framing: exact 1:1 square, foreground charger left of center, preserve a clean near-black empty area in the lower-right 20 percent for a separate supplied logo.\nText: none.\nConstraints: absolutely no readable or pseudo-text, letters, numbers, brand logos, Tesla logo, watermarks, social UI, source names, source handles, URLs, attribution, disclaimers, CTA, generic radar graphics, pure typography-card layout, people, malformed equipment, or damage.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T23:27:46Z",
+          "checks": [
+            "square image",
+            "entity-led EV charging-manufacturing scene",
+            "no generated readable text or branding",
+            "premium near-black visual with white and restrained-red accents",
+            "not pure text or generic radar",
+            "exact repository logo composited once in the lower-right clear space",
+            "no damaged or malformed equipment"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-chatgpt-work-writing-style-awareness",
+      "benchmarkPostId": "2097100701637763331",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097100701637763331",
+      "title": "ChatGPT Work adds writing-style awareness",
+      "status": "ready",
+      "postText": "ChatGPT Work can now pick up on the details that make a user's writing sound like them.\n\nThat includes favorite phrases, sign-offs and capitalization quirks.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "ChatGPT Work can pick up details that make a user's writing sound like them.",
+        "The feature description includes favorite phrases, sign-offs, and capitalization quirks."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097100701637763331"
+      ],
+      "imagePath": "deliverables/pkg-20260908-chatgpt-work-writing-style-awareness/when2buy-image-model.png",
+      "createdAt": "2026-09-07T23:27:47Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium square 1:1 X financial-news editorial visual for When2Buy.\nPrimary request: original entity-led image for ChatGPT Work gaining personalized writing-style awareness.\nScene/backdrop: a near-black executive workspace after dark, soft modern monitor glow, tactile charcoal desk surface.\nSubject: an abstract premium AI workspace: a dark glass document panel with only flowing non-readable luminous white strokes that suggest a personal writing cadence, accompanied by a minimal silver keyboard; no actual interface or words.\nStyle/medium: cinematic premium financial editorial photography, refined and understated, white highlights with one restrained deep-red accent.\nComposition/framing: exact 1:1 square; subject left/center; preserve a clean near-black empty lower-right 20 percent for a separate supplied logo.\nText: none.\nConstraints: absolutely no readable or pseudo-text, letters, numbers, OpenAI or ChatGPT logos, watermarks, social UI, source names, source handles, URLs, attribution, disclaimers, CTA, generic radar graphics, pure typography-card layout, people, damaged objects, or surreal malformed keyboard.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T23:27:47Z",
+          "checks": [
+            "square image",
+            "entity-led AI writing-workspace scene",
+            "no generated readable text or branding",
+            "premium near-black visual with white and restrained-red accents",
+            "not pure text or generic radar",
+            "exact repository logo composited once in the lower-right clear space",
+            "no damaged or malformed objects"
           ]
         }
       }
@@ -79177,6 +79341,51 @@
       "status": "partial",
       "startedAt": "2026-09-07T23:06:35Z",
       "completedAt": "2026-09-07T23:06:35Z",
+      "summary": "Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T23:47:19Z",
+        "deliveryReason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried."
+      }
+    },
+    {
+      "id": "run-20260907T232554Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T23:25:54Z",
+      "completedAt": "2026-09-07T23:25:54Z",
+      "summary": "Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T232554Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T23:25:54Z",
+      "completedAt": "2026-09-07T23:25:54Z",
+      "summary": "Prepared 48 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T232747Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T23:27:47Z",
+      "completedAt": "2026-09-07T23:27:47Z",
+      "summary": "Produced two newest eligible packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T232814Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T23:28:14Z",
+      "completedAt": "2026-09-07T23:28:14Z",
       "summary": "Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker.",
       "reason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.",
       "circuitBreaker": {
