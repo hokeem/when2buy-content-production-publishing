@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T15:42:46.289092+00:00",
+  "updatedAt": "2026-09-07T00:46:29.636310+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -7505,6 +7505,426 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096718702703935494",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096718702703935494",
+      "postedAt": "Sun Sep 06 21:54:28 +0000 2026",
+      "text": "Robinhood Chain $HOOD generated more than $8 Million in fees on Friday",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 344,
+        "replies": 20,
+        "reposts": 15,
+        "quotes": 2,
+        "views": 35320
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096700842380341575",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096700842380341575",
+      "postedAt": "Sun Sep 06 20:43:30 +0000 2026",
+      "text": "Nvidia $NVDA CEO Jensen Huang just said:\n\n“AGI has arrived.” https://t.co/VQ3V6CM1CJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRj6Tc0W0AAY4eL.jpg"
+      ],
+      "engagement": {
+        "likes": 512,
+        "replies": 24,
+        "reposts": 32,
+        "quotes": 5,
+        "views": 75561
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRj6Tc0W0AAY4eL.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096700842380341575-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096694211605147791",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096694211605147791",
+      "postedAt": "Sun Sep 06 20:17:09 +0000 2026",
+      "text": "An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed into nearby vehicles  https://t.co/MKcQFvErof",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2096668606956265476/img/VsHhIU_5KcEf27Uf.jpg"
+      ],
+      "engagement": {
+        "likes": 154,
+        "replies": 22,
+        "reposts": 15,
+        "quotes": 3,
+        "views": 42764
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096668606956265476/img/VsHhIU_5KcEf27Uf.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096694211605147791-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096691430164938804",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096691430164938804",
+      "postedAt": "Sun Sep 06 20:06:06 +0000 2026",
+      "text": "Nvidia chips are being used to settle wars\n\n\"When fragile peace talks between Armenia and Azerbaijan looked in danger of collapsing last year, American negotiators used the promise of access to Nvidia’s AI chips to help secure a preliminary peace deal\" - WSJ https://t.co/buYEvmDrWI",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRjqu3FaIAA8wbu.jpg"
+      ],
+      "engagement": {
+        "likes": 87,
+        "replies": 18,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 27746
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRjqu3FaIAA8wbu.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096691430164938804-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096683992028152021",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096683992028152021",
+      "postedAt": "Sun Sep 06 19:36:32 +0000 2026",
+      "text": "This is my 2nd largest ETF holding ... What do you think?",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 129,
+        "replies": 15,
+        "reposts": 9,
+        "quotes": 0,
+        "views": 60343
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096679920785125677",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096679920785125677",
+      "postedAt": "Sun Sep 06 19:20:22 +0000 2026",
+      "text": "Apple $AAPL stock is up by more than 10x over the last decade 🟢 https://t.co/EFgaFLKtIL",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRjnKRTWwAId5_k.jpg"
+      ],
+      "engagement": {
+        "likes": 259,
+        "replies": 13,
+        "reposts": 19,
+        "quotes": 0,
+        "views": 29625
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRjnKRTWwAId5_k.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096679920785125677-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096679710545596816",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096679710545596816",
+      "postedAt": "Sun Sep 06 19:19:32 +0000 2026",
+      "text": "Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯 https://t.co/70yOI9LAqr",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRjnB5oaQAABQzy.jpg"
+      ],
+      "engagement": {
+        "likes": 458,
+        "replies": 29,
+        "reposts": 25,
+        "quotes": 5,
+        "views": 38859
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRjnB5oaQAABQzy.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096679710545596816-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096673953204847100",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096673953204847100",
+      "postedAt": "Sun Sep 06 18:56:39 +0000 2026",
+      "text": "HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026\n\n- Monday, September 7th: Labor Day\n- Thursday, November 26th: Thanksgiving\n- Friday, December 25th: Christmas\n\nThere are 2 more days this year where the stock market will close early at 1PM ET\n\n- Friday, November 27th\n- Thursday, December 24th",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 97,
+        "replies": 11,
+        "reposts": 9,
+        "quotes": 0,
+        "views": 31738
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096649147134664944",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096649147134664944",
+      "postedAt": "Sun Sep 06 17:18:05 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded in 1913. https://t.co/KCehsFkEdH",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRjLR5DXIAIJiiC.jpg",
+        "https://pbs.twimg.com/media/HRjLR5ZaEAAfxIq.jpg"
+      ],
+      "engagement": {
+        "likes": 517,
+        "replies": 68,
+        "reposts": 75,
+        "quotes": 11,
+        "views": 41682
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRjLR5DXIAIJiiC.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096649147134664944-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRjLR5ZaEAAfxIq.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096649147134664944-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096648113649799675",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096648113649799675",
+      "postedAt": "Sun Sep 06 17:13:58 +0000 2026",
+      "text": "We are doing a free to enter NFL Pick em league, you pick every game throughout the season \n\nWe’re going to have a $1K cash prize for the winner thanks to @UsePeakBot \n\nMy only rule is want to know everyone in the league, so send me a DM and I will ad you to the league",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 23,
+        "replies": 15,
+        "reposts": 6,
+        "quotes": 2,
+        "views": 40775
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096631323947372616",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096631323947372616",
+      "postedAt": "Sun Sep 06 16:07:15 +0000 2026",
+      "text": "*THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 102,
+        "replies": 5,
+        "reposts": 8,
+        "quotes": 1,
+        "views": 54824
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2096629612713291967",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096629612713291967",
+      "postedAt": "Sun Sep 06 16:00:27 +0000 2026",
+      "text": "JUST IN: $BTC is 1% of global money - River. https://t.co/aCyp1v3Mr2",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRi5hLFaYAAWEVS.jpg"
+      ],
+      "engagement": {
+        "likes": 324,
+        "replies": 28,
+        "reposts": 16,
+        "quotes": 5,
+        "views": 34293
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRi5hLFaYAAWEVS.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096629612713291967-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096619731239268580",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096619731239268580",
+      "postedAt": "Sun Sep 06 15:21:11 +0000 2026",
+      "text": "JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders. https://t.co/eu7ZKHRdbb",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRiwht1aoAAvop1.jpg",
+        "https://pbs.twimg.com/media/HRiwhtsa4AAQ4OK.jpg"
+      ],
+      "engagement": {
+        "likes": 464,
+        "replies": 46,
+        "reposts": 35,
+        "quotes": 3,
+        "views": 40289
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRiwht1aoAAvop1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096619731239268580-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRiwhtsa4AAQ4OK.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096619731239268580-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096617256641761427",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096617256641761427",
+      "postedAt": "Sun Sep 06 15:11:21 +0000 2026",
+      "text": "NEW: VC-backed Pokémon gacha site https://t.co/LGPj99uimp just launched.\n\nThey’re offering 200% deposit bonuses to pull users from rivals as the market heats up, burning investor cash for market share. Collectors win. https://t.co/VE5zzNAWe8",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2096617129428819968/img/E4831pedU4PzYjFi.jpg"
+      ],
+      "engagement": {
+        "likes": 131,
+        "replies": 18,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 36360
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096617129428819968/img/E4831pedU4PzYjFi.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096617256641761427-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096613844223246653",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096613844223246653",
+      "postedAt": "Sun Sep 06 14:57:48 +0000 2026",
+      "text": "75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relative to its peers https://t.co/OrXVmggo3o",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRirKs_aoAAs5nx.jpg"
+      ],
+      "engagement": {
+        "likes": 390,
+        "replies": 27,
+        "reposts": 10,
+        "quotes": 3,
+        "views": 52435
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRirKs_aoAAs5nx.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096613844223246653-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096593182309982396",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096593182309982396",
+      "postedAt": "Sun Sep 06 13:35:42 +0000 2026",
+      "text": "JUST IN: Altcoins flip $BTC in open interest. https://t.co/Pwsg0gJnlH",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRiYYvKbsAEGmFT.jpg"
+      ],
+      "engagement": {
+        "likes": 643,
+        "replies": 55,
+        "reposts": 60,
+        "quotes": 8,
+        "views": 55225
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T00:41:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRiYYvKbsAEGmFT.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096593182309982396-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -11953,6 +12373,310 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096718702703935494",
+      "rank": 1,
+      "title": "Robinhood Chain $HOOD generated more than $8 Million in fees on Friday",
+      "benchmarkPostId": "2096718702703935494",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096718702703935494",
+      "score": 43870,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096700842380341575",
+      "rank": 2,
+      "title": "Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” https://t.co/VQ3V6CM1CJ",
+      "benchmarkPostId": "2096700842380341575",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096700842380341575",
+      "score": 88661,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096694211605147791",
+      "rank": 3,
+      "title": "An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed i…",
+      "benchmarkPostId": "2096694211605147791",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096694211605147791",
+      "score": 47654,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096691430164938804",
+      "rank": 4,
+      "title": "Nvidia chips are being used to settle wars \"When fragile peace talks between Armenia and Aze…",
+      "benchmarkPostId": "2096691430164938804",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096691430164938804",
+      "score": 30936,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 3,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096683992028152021",
+      "rank": 5,
+      "title": "This is my 2nd largest ETF holding ... What do you think?",
+      "benchmarkPostId": "2096683992028152021",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096683992028152021",
+      "score": 63973,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2096679920785125677",
+      "rank": 6,
+      "title": "Apple $AAPL stock is up by more than 10x over the last decade 🟢 https://t.co/EFgaFLKtIL",
+      "benchmarkPostId": "2096679920785125677",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096679920785125677",
+      "score": 36275,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096679710545596816",
+      "rank": 7,
+      "title": "Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯 https://t.co/70yOI9LAqr",
+      "benchmarkPostId": "2096679710545596816",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096679710545596816",
+      "score": 50729,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096673953204847100",
+      "rank": 8,
+      "title": "HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026 - Mon…",
+      "benchmarkPostId": "2096673953204847100",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096673953204847100",
+      "score": 34568,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096649147134664944",
+      "rank": 9,
+      "title": "JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was f…",
+      "benchmarkPostId": "2096649147134664944",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096649147134664944",
+      "score": 59152,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096648113649799675",
+      "rank": 10,
+      "title": "We are doing a free to enter NFL Pick em league, you pick every game throughout the season W…",
+      "benchmarkPostId": "2096648113649799675",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096648113649799675",
+      "score": 42255,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096631323947372616",
+      "rank": 11,
+      "title": "*THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL",
+      "benchmarkPostId": "2096631323947372616",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096631323947372616",
+      "score": 57524,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096629612713291967",
+      "rank": 12,
+      "title": "JUST IN: $BTC is 1% of global money - River. https://t.co/aCyp1v3Mr2",
+      "benchmarkPostId": "2096629612713291967",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096629612713291967",
+      "score": 42993,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096619731239268580",
+      "rank": 13,
+      "title": "JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders. h…",
+      "benchmarkPostId": "2096619731239268580",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096619731239268580",
+      "score": 53339,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096617256641761427",
+      "rank": 14,
+      "title": "NEW: VC-backed Pokémon gacha site https://t.co/LGPj99uimp just launched. They’re offering 20…",
+      "benchmarkPostId": "2096617256641761427",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096617256641761427",
+      "score": 39960,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096613844223246653",
+      "rank": 15,
+      "title": "75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple perform…",
+      "benchmarkPostId": "2096613844223246653",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096613844223246653",
+      "score": 61995,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096593182309982396",
+      "rank": 16,
+      "title": "JUST IN: Altcoins flip $BTC in open interest. https://t.co/Pwsg0gJnlH",
+      "benchmarkPostId": "2096593182309982396",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096593182309982396",
+      "score": 73765,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T00:42:34Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -15708,6 +16432,304 @@
       "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-assets-are-closing--16162/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
       "createdAt": "2026-09-06T12:41:09.963033+00:00"
+    },
+    {
+      "id": "pkg-20260907-robinhood-chain-hood-generated-more-than-8-milli-35494",
+      "benchmarkPostId": "2096718702703935494",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096718702703935494",
+      "title": "Robinhood Chain $HOOD generated more than $8 Million in fees on Friday",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Robinhood Chain $HOOD generated more than $8 Million in fees on Friday\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Robinhood Chain $HOOD generated more than $8 Million in fees on Friday"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096718702703935494"
+      ],
+      "imagePath": "deliverables/pkg-20260907-robinhood-chain-hood-generated-more-than-8-milli-35494/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:44.370886+00:00"
+    },
+    {
+      "id": "pkg-20260907-nvidia-nvda-ceo-jensen-huang-just-said-agi-has-a-41575",
+      "benchmarkPostId": "2096700842380341575",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096700842380341575",
+      "title": "Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.”",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.”\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.”"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096700842380341575"
+      ],
+      "imagePath": "deliverables/pkg-20260907-nvidia-nvda-ceo-jensen-huang-just-said-agi-has-a-41575/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:44.554718+00:00",
+      "postizPostId": "cmtqio4u304q5lm0yzqutj0hj",
+      "publishedAt": "2026-09-07T00:42:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-an-amazon-amzn-cargo-plane-overshot-the-runway-a-47791",
+      "benchmarkPostId": "2096694211605147791",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096694211605147791",
+      "title": "An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed into near",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: An Amazon $AMZN cargo plane overshot the runway at Miami international\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed into nearby vehicles"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096694211605147791"
+      ],
+      "imagePath": "deliverables/pkg-20260907-an-amazon-amzn-cargo-plane-overshot-the-runway-a-47791/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:44.739707+00:00"
+    },
+    {
+      "id": "pkg-20260907-nvidia-chips-are-being-used-to-settle-wars-when--38804",
+      "benchmarkPostId": "2096691430164938804",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096691430164938804",
+      "title": "Nvidia chips are being used to settle wars \"When fragile peace talks between Armenia and Azerbaijan ",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Nvidia chips are being used to settle wars \"When fragile peace talks b\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nvidia chips are being used to settle wars \"When fragile peace talks between Armenia and Azerbaijan looked in danger of collapsing last year, American negotiators used the promise of access to Nvidia’s AI chips to help secure a preliminary peace deal\" - WSJ"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096691430164938804"
+      ],
+      "imagePath": "deliverables/pkg-20260907-nvidia-chips-are-being-used-to-settle-wars-when--38804/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:44.921300+00:00"
+    },
+    {
+      "id": "pkg-20260907-this-is-my-2nd-largest-etf-holding-what-do-you-t-52021",
+      "benchmarkPostId": "2096683992028152021",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096683992028152021",
+      "title": "This is my 2nd largest ETF holding ... What do you think?",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: This is my 2nd largest ETF holding ... What do you think?\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "This is my 2nd largest ETF holding ... What do you think?"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096683992028152021"
+      ],
+      "imagePath": "deliverables/pkg-20260907-this-is-my-2nd-largest-etf-holding-what-do-you-t-52021/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:45.097479+00:00",
+      "postizPostId": "cmtqiphod04qalm0yvylmsli2",
+      "publishedAt": "2026-09-07T00:44:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-apple-aapl-stock-is-up-by-more-than-10x-over-the-25677",
+      "benchmarkPostId": "2096679920785125677",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096679920785125677",
+      "title": "Apple $AAPL stock is up by more than 10x over the last decade 🟢",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Apple $AAPL stock is up by more than 10x over the last decade 🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Apple $AAPL stock is up by more than 10x over the last decade 🟢"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096679920785125677"
+      ],
+      "imagePath": "deliverables/pkg-20260907-apple-aapl-stock-is-up-by-more-than-10x-over-the-25677/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:45.271586+00:00"
+    },
+    {
+      "id": "pkg-20260907-nvidia-nvda-stock-is-up-by-more-than-15-000-over-96816",
+      "benchmarkPostId": "2096679710545596816",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096679710545596816",
+      "title": "Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096679710545596816"
+      ],
+      "imagePath": "deliverables/pkg-20260907-nvidia-nvda-stock-is-up-by-more-than-15-000-over-96816/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:45.481457+00:00"
+    },
+    {
+      "id": "pkg-20260907-here-are-all-the-weekdays-that-the-stock-market--47100",
+      "benchmarkPostId": "2096673953204847100",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096673953204847100",
+      "title": "HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026 - Monday, Sep",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026 - Monday, September 7th: Labor Day - Thursday, November 26th: Thanksgiving - Friday, December 25th: Christmas There are 2 more days this year where the stock market will close early at 1PM ET - Friday, November 27th - Thursday, December 24th"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096673953204847100"
+      ],
+      "imagePath": "deliverables/pkg-20260907-here-are-all-the-weekdays-that-the-stock-market--47100/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:45.701228+00:00"
+    },
+    {
+      "id": "pkg-20260907-just-in-u-s-dollar-has-lost-97-of-its-purchasing-64944",
+      "benchmarkPostId": "2096649147134664944",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096649147134664944",
+      "title": "JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded in 1913."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096649147134664944"
+      ],
+      "imagePath": "deliverables/pkg-20260907-just-in-u-s-dollar-has-lost-97-of-its-purchasing-64944/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-07T00:42:45.887082+00:00",
+      "postizPostId": "cmtqiqty60bwsqk0yj3ncozhg",
+      "publishedAt": "2026-09-07T00:45:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-we-are-doing-a-free-to-enter-nfl-pick-em-league--99675",
+      "benchmarkPostId": "2096648113649799675",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096648113649799675",
+      "title": "We are doing a free to enter NFL Pick em league, you pick every game throughout the season We’re goi",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: We are doing a free to enter NFL Pick em league, you pick every game t\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "We are doing a free to enter NFL Pick em league, you pick every game throughout the season We’re going to have a $1K cash prize for the winner thanks to @UsePeakBot My only rule is want to know everyone in the league, so send me a DM and I will ad you to the league"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096648113649799675"
+      ],
+      "imagePath": "deliverables/pkg-20260907-we-are-doing-a-free-to-enter-nfl-pick-em-league--99675/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:46.116296+00:00"
+    },
+    {
+      "id": "pkg-20260907-this-is-the-last-sunday-without-regular-season-n-72616",
+      "benchmarkPostId": "2096631323947372616",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096631323947372616",
+      "title": "*THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL",
+      "status": "ready",
+      "postText": "Market radar: @StockMKTNewz reports: *THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "*THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096631323947372616"
+      ],
+      "imagePath": "deliverables/pkg-20260907-this-is-the-last-sunday-without-regular-season-n-72616/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:46.327476+00:00"
+    },
+    {
+      "id": "pkg-20260907-just-in-btc-is-1-of-global-money-river-91967",
+      "benchmarkPostId": "2096629612713291967",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096629612713291967",
+      "title": "JUST IN: $BTC is 1% of global money - River.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC is 1% of global money - River.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: $BTC is 1% of global money - River."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096629612713291967"
+      ],
+      "imagePath": "deliverables/pkg-20260907-just-in-btc-is-1-of-global-money-river-91967/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-07T00:42:46.514860+00:00"
+    },
+    {
+      "id": "pkg-20260907-just-in-less-than-16-chance-of-btc-hitting-50-00-68580",
+      "benchmarkPostId": "2096619731239268580",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096619731239268580",
+      "title": "JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders.",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000,\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096619731239268580"
+      ],
+      "imagePath": "deliverables/pkg-20260907-just-in-less-than-16-chance-of-btc-hitting-50-00-68580/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-07T00:42:46.681462+00:00"
+    },
+    {
+      "id": "pkg-20260907-new-vc-backed-pok-mon-gacha-site-just-launched-t-61427",
+      "benchmarkPostId": "2096617256641761427",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096617256641761427",
+      "title": "NEW: VC-backed Pokémon gacha site just launched. They’re offering 200% deposit bonuses to pull users",
+      "status": "ready",
+      "postText": "Market radar: @WhaleInsider reports: NEW: VC-backed Pokémon gacha site just launched. They’re offering 200%\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "NEW: VC-backed Pokémon gacha site just launched. They’re offering 200% deposit bonuses to pull users from rivals as the market heats up, burning investor cash for market share. Collectors win."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096617256641761427"
+      ],
+      "imagePath": "deliverables/pkg-20260907-new-vc-backed-pok-mon-gacha-site-just-launched-t-61427/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-07T00:42:46.875961+00:00"
+    },
+    {
+      "id": "pkg-20260907-75-of-new-apple-aapl-ceo-john-ternus-stock-based-46653",
+      "benchmarkPostId": "2096613844223246653",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096613844223246653",
+      "title": "75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati",
+      "status": "published",
+      "postText": "Market radar: @StockMKTNewz reports: 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tie\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @StockMKTNewz",
+        "75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relative to its peers"
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096613844223246653"
+      ],
+      "imagePath": "deliverables/pkg-20260907-75-of-new-apple-aapl-ceo-john-ternus-stock-based-46653/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
+      "createdAt": "2026-09-07T00:42:47.064369+00:00",
+      "postizPostId": "cmtqiq61k0bw4qk0y6o4gdff3",
+      "publishedAt": "2026-09-07T00:44:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-just-in-altcoins-flip-btc-in-open-interest-82396",
+      "benchmarkPostId": "2096593182309982396",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096593182309982396",
+      "title": "JUST IN: Altcoins flip $BTC in open interest.",
+      "status": "published",
+      "postText": "Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interest.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "mirroredFacts": [
+        "Source-attributed report from @WhaleInsider",
+        "JUST IN: Altcoins flip $BTC in open interest."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096593182309982396"
+      ],
+      "imagePath": "deliverables/pkg-20260907-just-in-altcoins-flip-btc-in-open-interest-82396/when2buy-market-radar.png",
+      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
+      "createdAt": "2026-09-07T00:42:47.252061+00:00",
+      "postizPostId": "cmtqiot3r0bvyqk0y2ntg1urh",
+      "publishedAt": "2026-09-07T00:43:00.000Z"
     }
   ],
   "posts": [
@@ -16989,6 +18011,91 @@
         "status": "active",
         "windowStart": "2026-09-06T12:43:00.000Z",
         "windowEnd": "2026-09-09T12:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096761201938375037",
+      "packageId": "pkg-20260907-nvidia-nvda-ceo-jensen-huang-just-said-agi-has-a-41575",
+      "title": "Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.”",
+      "status": "published",
+      "publishedAt": "2026-09-07T00:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096761201938375037",
+      "postizPostId": "cmtqio4u304q5lm0yzqutj0hj",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T00:42:00.000Z",
+        "windowEnd": "2026-09-10T00:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096761333488513480",
+      "packageId": "pkg-20260907-just-in-altcoins-flip-btc-in-open-interest-82396",
+      "title": "JUST IN: Altcoins flip $BTC in open interest.",
+      "status": "published",
+      "publishedAt": "2026-09-07T00:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096761333488513480",
+      "postizPostId": "cmtqiot3r0bvyqk0y2ntg1urh",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T00:43:00.000Z",
+        "windowEnd": "2026-09-10T00:43:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096761466556932161",
+      "packageId": "pkg-20260907-this-is-my-2nd-largest-etf-holding-what-do-you-t-52021",
+      "title": "This is my 2nd largest ETF holding ... What do you think?",
+      "status": "published",
+      "publishedAt": "2026-09-07T00:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096761466556932161",
+      "postizPostId": "cmtqiphod04qalm0yvylmsli2",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T00:44:00.000Z",
+        "windowEnd": "2026-09-10T00:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096761601777086823",
+      "packageId": "pkg-20260907-75-of-new-apple-aapl-ceo-john-ternus-stock-based-46653",
+      "title": "75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati",
+      "status": "published",
+      "publishedAt": "2026-09-07T00:44:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096761601777086823",
+      "postizPostId": "cmtqiq61k0bw4qk0y6o4gdff3",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T00:44:00.000Z",
+        "windowEnd": "2026-09-10T00:44:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096761735374164145",
+      "packageId": "pkg-20260907-just-in-u-s-dollar-has-lost-97-of-its-purchasing-64944",
+      "title": "JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i",
+      "status": "published",
+      "publishedAt": "2026-09-07T00:45:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096761735374164145",
+      "postizPostId": "cmtqiqty60bwsqk0yj3ncozhg",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T00:45:00.000Z",
+        "windowEnd": "2026-09-10T00:45:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -23313,6 +24420,126 @@
       "completedAt": "2026-09-06T15:42:46Z",
       "summary": "Prepared 85 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260907T004114Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:41:14Z",
+      "completedAt": "2026-09-07T00:41:14Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 16 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T004156Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:41:56Z",
+      "completedAt": "2026-09-07T00:41:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T004234Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:42:34Z",
+      "completedAt": "2026-09-07T00:42:34Z",
+      "summary": "Prepared 81 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T004247Z-produce-attributed",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:42:47.252111+00:00",
+      "completedAt": "2026-09-07T00:42:47.252118+00:00",
+      "summary": "Created 16 original attributed market-radar package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T004247Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:42:47Z",
+      "completedAt": "2026-09-07T00:42:47Z",
+      "summary": "Prepared 81 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T004248Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:42:48Z",
+      "completedAt": "2026-09-07T00:42:48Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T004323Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:43:23.823375+00:00",
+      "completedAt": "2026-09-07T00:43:23.823381+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T004355Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:43:55.233635+00:00",
+      "completedAt": "2026-09-07T00:43:55.233641+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T004427Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:44:27.228834+00:00",
+      "completedAt": "2026-09-07T00:44:27.228844+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T004458Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:44:58.656457+00:00",
+      "completedAt": "2026-09-07T00:44:58.656463+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T004534Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T00:45:34.016496+00:00",
+      "completedAt": "2026-09-07T00:45:34.016501+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T004600Z-report",
+      "mode": "report",
+      "status": "blocked",
+      "startedAt": "2026-09-07T00:46:00+00:00",
+      "completedAt": "2026-09-07T00:46:00+00:00",
+      "summary": "Rendered local report artifacts but could not update the existing stable run-panel URL.",
+      "reason": "Terminal panel blocker: report-hub registry access returned HTTP 401 after sourcing the required environment, and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed."
     }
   ]
 }
