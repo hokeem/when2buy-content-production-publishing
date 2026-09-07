@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T16:48:11.183146+00:00`
+- 状态更新：`2026-09-07T17:09:01.263033+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**329**
-- 待选选题：**287**
-- 待发布制作包：**90**
+- 对标帖子快照：**330**
+- 待选选题：**288**
+- 待发布制作包：**91**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 16:46:28 +0000 2026 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchain terminals. https://t.co/hvMoTq7YNp | [X](https://x.com/WhaleInsider/status/2097003578648940977) |
 | @StockMKTNewz | Mon Sep 07 16:34:12 +0000 2026 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 years https://t.co/ywRfw6fRhZ | [X](https://x.com/StockMKTNewz/status/2097000494098972748) |
 | @StockMKTNewz | Mon Sep 07 15:56:39 +0000 2026 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, according to AAA  On Monday, the national average price at the pump was $4.15, a record high for the holiday - CNBC https://t.co/EMkLKcLUqX | [X](https://x.com/StockMKTNewz/status/2096991041987531044) |
 | @WhaleInsider | Mon Sep 07 15:32:15 +0000 2026 | JUST IN: @MetaWin player turns $6 into $16,733.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies for their $1M airdrop this month. https://t.co/C5RYIOaoLg | [X](https://x.com/WhaleInsider/status/2096984904089125105) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 11:29:21 +0000 2026 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 2026  (Trade Desk stock is being removed from the S&amp;P 500 later this month) https://t.co/k4QNpi5z3u | [X](https://x.com/StockMKTNewz/status/2096923774364844127) |
 | @StockMKTNewz | Mon Sep 07 11:40:28 +0000 2026 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026  💩 Applovin: -52%🔴 https://t.co/aFQEEt4V64 | [X](https://x.com/StockMKTNewz/status/2096926573056151788) |
 | @WhaleInsider | Mon Sep 07 11:17:41 +0000 2026 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is followed by Vlad himself. https://t.co/PjRkmjSW0E | [X](https://x.com/WhaleInsider/status/2096920838301782244) |
-| @WhaleInsider | Mon Sep 07 11:22:23 +0000 2026 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/5EhpMGI2Or | [X](https://x.com/WhaleInsider/status/2096922021468766260) |
 
 ## 选题推荐
 
@@ -78,6 +78,7 @@
 | 1 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of p… | WhaleInsider | 14920 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, acc… | StockMKTNewz | 8752 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 y… | StockMKTNewz | 10594 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchai… | WhaleInsider | 21325 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2044,6 +2045,13 @@ Copper hit a record $14,533 a ton on the London Metal Exchange.  Potential U.S. 
 
 U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  The prior Labor Day high had never reached $4 a gallon.  When2Buy — your U.S. stock partner.
 
+### Onchain terminals clear $6.35B in weekly trading
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-onchain-terminals-635b-week/when2buy-image-model.png`
+
+Onchain terminals processed $6.35B in trading volume this week.  It was the biggest week since the $TRUMP trading surge.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2184,6 +2192,10 @@ U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  T
 
 ## 最近运行
 
+- `2026-09-07T17:10:00Z` **full / partial** — Apify benchmark collection, media archive, timestamp-first queue rebuild, and one newest image-model package completed; no X submission was made. Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.
+- `2026-09-07T17:08:42Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T17:06:21Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T17:06:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
 - `2026-09-07T16:48:11Z` **full / partial** — Shanghai :45 metrics pass, Apify benchmark collection, media archive, and timestamp-first queue rebuild completed; no X submission was made. Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.
 - `2026-09-07T16:47:34Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T16:47:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 69 eligible originals and added 0 new post(s).
@@ -2200,7 +2212,3 @@ U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  T
 - `2026-09-07T15:49:32.481616Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest copper package remains ready. Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z with releaseURL null (also cmtrdmc820l71qk0yd6ofp0pl ERROR at 2026-09-07T15:09:00Z); do not submit or retry an accepted task before 2026-09-07T16:28:00Z.
 - `2026-09-07T15:48:52.129261Z` **produce / succeeded** — Produced the newest eligible copper-record package with a new image-model visual and exact-logo compositing.
 - `2026-09-07T15:47:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 71 eligible originals and added 0 new post(s).
-- `2026-09-07T15:46:51Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T15:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 71 eligible originals and added 2 new post(s).
-- `2026-09-07T15:45:35Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T15:29:08.996847+00:00` **publish / partial** — One throttled Postiz submission for pkg-20260907-datahedge-intel-partner returned ERROR without a verified public X URL; circuit breaker activated and no further post was submitted. Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z; releaseURL was null. Circuit breaker active for 60 minutes; accepted task will not be retried.

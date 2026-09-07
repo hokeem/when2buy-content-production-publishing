@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T16:48:11.183146+00:00",
+  "updatedAt": "2026-09-07T17:09:01.263033+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9038,6 +9038,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097003578648940977",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097003578648940977",
+      "postedAt": "Mon Sep 07 16:46:28 +0000 2026",
+      "text": "JUST IN: Biggest week in the trenches since $TRUMP week.\n$6.35 billion traded through onchain terminals. https://t.co/hvMoTq7YNp",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRoNoquaMAI1O6G.jpg"
+      ],
+      "engagement": {
+        "likes": 68,
+        "replies": 31,
+        "reposts": 9,
+        "quotes": 2,
+        "views": 18155
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T17:06:20Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRoNoquaMAI1O6G.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097003578648940977-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -14493,6 +14521,25 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2097003578648940977",
+      "rank": 1,
+      "title": "JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchai…",
+      "benchmarkPostId": "2097003578648940977",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097003578648940977",
+      "score": 21325,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T17:06:21Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -19900,6 +19947,40 @@
             "no generic radar imagery or pure typography",
             "exact repository logo composited once in clear space",
             "no visible damage or malformed subject"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260907-onchain-terminals-635b-week",
+      "benchmarkPostId": "2097003578648940977",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097003578648940977",
+      "title": "Onchain terminals clear $6.35B in weekly trading",
+      "status": "ready",
+      "postText": "Onchain terminals processed $6.35B in trading volume this week.\n\nIt was the biggest week since the $TRUMP trading surge.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Onchain terminals processed $6.35 billion in trading volume during the week.",
+        "The source characterized it as the biggest week since the $TRUMP week."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097003578648940977"
+      ],
+      "imagePath": "deliverables/pkg-20260907-onchain-terminals-635b-week/when2buy-image-model.png",
+      "createdAt": "2026-09-07T17:08:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Premium square X financial-news visual showing one sophisticated onchain trading terminal, layered abstract order-book light trails, a luminous transaction network, a subtle gold digital asset, near-black institutional-finance palette, white highlights and restrained red accents, with an uncluttered lower-right logo-safe area. No text, numbers, logos, watermarks, source attribution, social UI, generic radar imagery, or distorted equipment.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T17:08:00Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "entity-led onchain-terminal subject",
+            "no generated editorial text or misspelled headline",
+            "near-black premium financial-news palette",
+            "exact repository logo composited once in clear lower-right space",
+            "no generic radar background or damaged logo"
           ]
         }
       }
@@ -55380,6 +55461,51 @@
       "startedAt": "2026-09-07T16:48:11Z",
       "completedAt": "2026-09-07T16:48:11Z",
       "summary": "Shanghai :45 metrics pass, Apify benchmark collection, media archive, and timestamp-first queue rebuild completed; no X submission was made.",
+      "reason": "Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T17:26:21Z",
+        "deliveryReason": "ERROR delivery without a public release URL"
+      }
+    },
+    {
+      "id": "run-20260907T170620Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T17:06:20Z",
+      "completedAt": "2026-09-07T17:06:20Z",
+      "summary": "Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T170621Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T17:06:21Z",
+      "completedAt": "2026-09-07T17:06:21Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T170842Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T17:08:42Z",
+      "completedAt": "2026-09-07T17:08:42Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T171000Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T17:10:00Z",
+      "completedAt": "2026-09-07T17:10:00Z",
+      "summary": "Apify benchmark collection, media archive, timestamp-first queue rebuild, and one newest image-model package completed; no X submission was made.",
       "reason": "Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.",
       "circuitBreaker": {
         "active": true,
