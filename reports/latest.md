@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T13:31:30.087954+00:00`
+- 状态更新：`2026-09-07T13:53:39.883583+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**313**
-- 待选选题：**272**
+- 对标帖子快照：**314**
+- 待选选题：**273**
 - 待发布制作包：**82**
 - 已验证发布：**132**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 13:44:04 +0000 2026 | The European Union 🇪🇺 is investing $232 million in Greenland 🇬🇱, part of the bloc’s campaign to tighten links to the island - Bloomberg https://t.co/zJDIZ1A2gw | [X](https://x.com/StockMKTNewz/status/2096957675204411460) |
 | @StockMKTNewz | Mon Sep 07 13:18:09 +0000 2026 | Nvidia $NVDA now generates $7.8 Million of annual revenue per employee, a new high for the company https://t.co/xTVVsvIIGz | [X](https://x.com/StockMKTNewz/status/2096951154840117320) |
 | @WhaleInsider | Mon Sep 07 13:19:05 +0000 2026 | JUST IN: Robinhood Chain $HOOD spot volume tripled since the start of August.  Weekly spot trading volume on Robinhood Chain DEXs reached $10.5 billion, up 3.5x from early August - CryptoRank. https://t.co/3qmZamRHiX | [X](https://x.com/WhaleInsider/status/2096951390434209850) |
 | @StockMKTNewz | Mon Sep 07 12:56:19 +0000 2026 | Nike stock is currently the worst performing stock in the Dow Jones so far in 2026  💩 Nike $NKE: -40%🔴 https://t.co/gv8I7ohsRL | [X](https://x.com/StockMKTNewz/status/2096945662529093944) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Sun Sep 06 16:00:27 +0000 2026 | JUST IN: $BTC is 1% of global money - River. https://t.co/aCyp1v3Mr2 | [X](https://x.com/WhaleInsider/status/2096629612713291967) |
 | @StockMKTNewz | Sun Sep 06 16:07:15 +0000 2026 | *THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL | [X](https://x.com/StockMKTNewz/status/2096631323947372616) |
 | @StockMKTNewz | Sun Sep 06 17:13:58 +0000 2026 | We are doing a free to enter NFL Pick em league, you pick every game throughout the season   We’re going to have a $1K cash prize for the winner thanks to @UsePeakBot   My only rule is want to know everyone in the league, so send me a DM and I will ad you to the league | [X](https://x.com/StockMKTNewz/status/2096648113649799675) |
-| @WhaleInsider | Sun Sep 06 17:18:05 +0000 2026 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded in 1913. https://t.co/KCehsFkEdH | [X](https://x.com/WhaleInsider/status/2096649147134664944) |
 
 ## 选题推荐
 
@@ -68,6 +68,7 @@
 | 1 | Dell Technologies is currently the 3rd best performing stock in the S&amp;P 500 so far in 20… | StockMKTNewz | 6262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Nike stock is currently the worst performing stock in the Dow Jones so far in 2026 💩 Nike $N… | StockMKTNewz | 9065 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD spot volume tripled since the start of August. Weekly spot tr… | WhaleInsider | 15135 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The European Union 🇪🇺 is investing $232 million in Greenland 🇬🇱, part of the bloc’s campaign… | StockMKTNewz | 5407 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1952,12 +1953,19 @@ $HOOD's Robinhood Chain weekly DEX spot volume reached $10.5B, up 3.5x from earl
 
 $NVDA now generates $7.8M of annual revenue per employee, a company high.  When2Buy — your U.S. stock partner.
 
+### EU commits $232M to Greenland
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-eu-greenland-investment/when2buy-image-model.png`
+
+The EU is investing $232M in Greenland as it works to deepen ties with the island.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
-| JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 196 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
+| JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 197 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
 | When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 126 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
 | McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
@@ -1966,13 +1974,14 @@ $NVDA now generates $7.8M of annual revenue per employee, a company high.  When2
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
 | Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
-| September market calendar | 2026-09-07T08:33:00.000Z | 49 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
+| September market calendar | 2026-09-07T08:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834296762011792) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 38 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
+| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 36 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | JUST IN: Altcoins flip $BTC in open interest. | 2026-09-07T00:43:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761333488513480) |
 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste | 2026-09-06T00:43:00.000Z | 31 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398921539199051) |
@@ -1984,7 +1993,7 @@ $NVDA now generates $7.8M of annual revenue per employee, a company high.  When2
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
-| Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
+| Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
@@ -2002,11 +2011,15 @@ $NVDA now generates $7.8M of annual revenue per employee, a company high.  When2
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
+| Robinhood Chain generated $30 million in revenue last week | 2026-09-07T12:51:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944666377867632) |
+| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
+| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
 | Robinhood Chain assets near $2B | 2026-09-07T06:35:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849998738788846) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
+| UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
 | The stock market Fear and Greed index is now down into Fear currently at 35/100 | 2026-09-05T12:42:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217478926115235) |
 | JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours | 2026-09-05T12:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096218060470542508) |
@@ -2015,7 +2028,6 @@ $NVDA now generates $7.8M of annual revenue per employee, a company high.  When2
 | Regular NFL season starts | 2026-09-07T06:15:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845001351393501) |
 | Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849491324551540) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
-| UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
@@ -2044,6 +2056,7 @@ $NVDA now generates $7.8M of annual revenue per employee, a company high.  When2
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
+| Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2094648465645265080) |
@@ -2084,14 +2097,12 @@ $NVDA now generates $7.8M of annual revenue per employee, a company high.  When2
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095805634109382831) |
-| Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096944502418387234) |
-| Robinhood Chain generated $30 million in revenue last week | 2026-09-07T12:51:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096944666377867632) |
-| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096944831633473960) |
-| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096945002169675872) |
-| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096945164745048157) |
 
 ## 最近运行
 
+- `2026-09-07T13:53:39.882838+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR for post cmtravv0q0cj4lm0yt8nsz21t at 2026-09-07T13:52:00Z with no releaseURL or releaseId; no public x.com URL was issued, so delivery was not published and is terminal.
+- `2026-09-07T13:46:54Z` **queue / succeeded** — Prepared 26 one-to-one production candidate(s).
+- `2026-09-07T13:46:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-07T13:31:30.087213+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtra3sp90caolm0yyn74mi51 but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.
 - `2026-09-07T13:31:29.952288+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtra2z6m0jvxqk0y78xkxdge but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.
 - `2026-09-07T13:28:59Z` **produce / succeeded** — Produced two new timestamp-first benchmark packages with inspected image-model visuals and exact-logo compositing.
@@ -2109,6 +2120,3 @@ $NVDA now generates $7.8M of annual revenue per employee, a company high.  When2
 - `2026-09-07T12:51:05.954370Z` **produce / succeeded** — Produced the five timestamp-first benchmark items with original image-model visuals and exact-logo compositing.
 - `2026-09-07T12:46:27Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T12:46:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 4 new post(s).
-- `2026-09-07T12:34:21.282567+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries.
-- `2026-09-07T12:34:21.190616+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries.
-- `2026-09-07T12:34:21.094099+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries.
