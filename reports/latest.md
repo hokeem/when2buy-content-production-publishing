@@ -1,8 +1,8 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T11:33:18.490581+00:00`
+- 状态更新：`2026-09-07T11:58:47.454116+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**301**
+- 对标帖子快照：**303**
 - 待选选题：**260**
 - 待发布制作包：**82**
 - 已验证发布：**127**
@@ -11,6 +11,8 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 11:29:21 +0000 2026 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 2026  (Trade Desk stock is being removed from the S&amp;P 500 later this month) https://t.co/k4QNpi5z3u | [X](https://x.com/StockMKTNewz/status/2096923774364844127) |
+| @StockMKTNewz | Mon Sep 07 11:40:28 +0000 2026 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026  💩 Applovin: -52%🔴 https://t.co/aFQEEt4V64 | [X](https://x.com/StockMKTNewz/status/2096926573056151788) |
 | @WhaleInsider | Mon Sep 07 11:17:41 +0000 2026 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is followed by Vlad himself. https://t.co/PjRkmjSW0E | [X](https://x.com/WhaleInsider/status/2096920838301782244) |
 | @WhaleInsider | Mon Sep 07 11:22:23 +0000 2026 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/5EhpMGI2Or | [X](https://x.com/WhaleInsider/status/2096922021468766260) |
 | @WhaleInsider | Mon Sep 07 09:40:31 +0000 2026 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. https://t.co/Gx5xy4c7cY | [X](https://x.com/WhaleInsider/status/2096896385584935155) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Sun Sep 06 21:54:28 +0000 2026 | Robinhood Chain $HOOD generated more than $8 Million in fees on Friday | [X](https://x.com/StockMKTNewz/status/2096718702703935494) |
 | @WhaleInsider | Sun Sep 06 06:53:38 +0000 2026 | JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Arbdata. https://t.co/94dHImOGy8 | [X](https://x.com/WhaleInsider/status/2096492002141516162) |
 | @WhaleInsider | Sun Sep 06 07:53:04 +0000 2026 | JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock accounts powered by ERC-6551. https://t.co/nMQu3Kl3Kq | [X](https://x.com/WhaleInsider/status/2096506955866976379) |
-| @WhaleInsider | Sun Sep 06 08:49:00 +0000 2026 | JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000. https://t.co/fwa9ay6BvS | [X](https://x.com/WhaleInsider/status/2096521032416768125) |
-| @WhaleInsider | Sun Sep 06 10:10:48 +0000 2026 | JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of approximately $17 billion in planned reinvestment purchases between August 14 and September 14. https://t.co/EnJlBgwTuL | [X](https://x.com/WhaleInsider/status/2096541618522161474) |
 
 ## 选题推荐
 
@@ -1810,7 +1810,7 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 ### Bitcoin $85,000 forecast
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-btc-kalshi-85000/when2buy-image-model.png`
+- 配图：`deliverables/pkg-20260907-btc-kalshi-85000/when2buy-image-model-v3.png`
 
 Bitcoin $BTC is forecast to reach $85,000 this month in Kalshi trading.  When2Buy — your U.S. stock partner.
 
@@ -1845,16 +1845,30 @@ Massachusetts just saw its most expensive home sale on record.  When2Buy — you
 ### China and Qatar deepen energy, investment and AI cooperation
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-china-qatar-cooperation/when2buy-image-model.png`
+- 配图：`deliverables/pkg-20260907-china-qatar-cooperation/when2buy-image-model-v2.png`
 
 China and Qatar are deepening cooperation across energy, investment and AI.  When2Buy — your U.S. stock partner.
 
 ### Robinhood CEO names Capital beside Cashcat
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-robinhood-capital-cat/when2buy-image-model.png`
+- 配图：`deliverables/pkg-20260907-robinhood-capital-cat/when2buy-image-model-v2.png`
 
 Robinhood CEO Vlad Tenev named the cat beside Cashcat "Capital."  The developer is followed by Vlad himself.  When2Buy — your U.S. stock partner.
+
+### AppLovin $APP down 52% in 2026
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-applovin-app-minus-52/when2buy-image-model-v2.png`
+
+$APP is the Nasdaq-100's worst-performing stock so far in 2026, down 52%.  When2Buy — your U.S. stock partner.
+
+### The Trade Desk $TTD trails the S&P 500
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-trade-desk-ttd-sp500-worst/when2buy-image-model-v2.png`
+
+$TTD is the S&P 500's worst-performing stock so far in 2026.  The Trade Desk is set to leave the index later this month.  When2Buy — your U.S. stock partner.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -1991,6 +2005,8 @@ Robinhood CEO Vlad Tenev named the cat beside Cashcat "Capital."  The developer 
 
 ## 最近运行
 
+- `2026-09-07T11:58:47Z` **publish / partial** — Five timestamp-first packages attempted independently; none reached PUBLISHED with a public X URL. Postiz returned ERROR or remained queued without a public x.com release URL after safe retries.
+- `2026-09-07T11:52:46Z` **produce / succeeded** — Produced the first five timestamp-first packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-07T11:33:18.489743+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T11:33:18.394006+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T11:30:52.817830+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL; a safe retry did not produce PUBLISHED or a public x.com URL.
@@ -2009,5 +2025,3 @@ Robinhood CEO Vlad Tenev named the cat beside Cashcat "Capital."  The developer 
 - `2026-09-07T10:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T10:45:57.577354+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
 - `2026-09-07T10:45:45Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T10:39:32Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T10:39:32.493497+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
