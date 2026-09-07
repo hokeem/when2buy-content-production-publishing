@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T21:47:29.380464+00:00`
+- 状态更新：`2026-09-07T22:08:14.067840+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**341**
 - 待选选题：**299**
-- 待发布制作包：**101**
+- 待发布制作包：**106**
 - 已验证发布：**132**
 
 ## 对标账号扫描
@@ -1715,7 +1715,7 @@ Robinhood Chain $HOOD assets are closing in on a combined market cap of $2B.  Wh
 
 ### Robinhood Chain tops $8M in Friday fees
 
-- 状态：`published`
+- 状态：`ready`
 - 配图：`deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png`
 
 $HOOD's Robinhood Chain generated more than $8M in fees Friday.  When2Buy — your U.S. stock partner.
@@ -1729,14 +1729,14 @@ Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang just said: �
 
 ### Amazon cargo jet overruns Miami runway
 
-- 状态：`published`
+- 状态：`ready`
 - 配图：`deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png`
 
 An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.  When2Buy — your U.S. stock partner.
 
 ### Nvidia chips in Armenia-Azerbaijan talks
 
-- 状态：`published`
+- 状态：`ready`
 - 配图：`deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png`
 
 Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.  When2Buy — your U.S. stock partner.
@@ -1750,7 +1750,7 @@ Market radar: @StockMKTNewz reports: This is my 2nd largest ETF holding ... What
 
 ### Apple gains more than 10x in a decade
 
-- 状态：`failed`
+- 状态：`ready`
 - 配图：`deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png`
 
 $AAPL stock is up more than 10x over the last decade.  When2Buy — your U.S. stock partner.
@@ -1827,7 +1827,7 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 
 ### U.S. stock market closed Monday
 
-- 状态：`published`
+- 状态：`ready`
 - 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png`
 
 The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
@@ -2145,7 +2145,7 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
-| JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 198 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
+| JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 199 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
 | When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 127 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
 | McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
 | JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 102 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
@@ -2161,7 +2161,7 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 39 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
-| Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
+| Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | JUST IN: Altcoins flip $BTC in open interest. | 2026-09-07T00:43:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761333488513480) |
 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste | 2026-09-06T00:43:00.000Z | 31 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398921539199051) |
@@ -2280,6 +2280,12 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 
 ## 最近运行
 
+- `2026-09-07T22:07:49Z` **full / partial** — Apify benchmark collection, media archival, newest-first queue rebuild, 72-hour metrics collection, and report preparation completed; no Postiz submission was made while the delivery circuit breaker was active. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried. The 60-minute delivery check also found ERROR delivery cmtrr3ez70i9qlm0yxzylqhrl without a public release URL. Circuit breaker remains active until 2026-09-07T22:47:29Z.
+- `2026-09-07T22:06:36.156190+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
+- `2026-09-07T22:06:31Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-07T22:06:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
+- `2026-09-07T22:06:20.246222+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
+- `2026-09-07T22:06:15Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
 - `2026-09-07T21:47:29Z` **full / partial** — Apify collection, media archival, queue rebuild, 72-hour metrics collection, and the sole newest-package Postiz probe completed; publication did not produce a verified public X URL. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T21:46:15Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
 - `2026-09-07T21:46:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -2294,9 +2300,3 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 - `2026-09-07T20:45:56Z` **queue / succeeded** — Prepared 41 one-to-one production candidate(s).
 - `2026-09-07T20:45:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T20:29:00Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-07T20:28:32Z` **produce / succeeded** — Archived the two newest Apify media sets and produced both timestamp-first packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-07T20:26:12Z` **queue / succeeded** — Prepared 41 one-to-one production candidate(s).
-- `2026-09-07T20:26:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 2 new post(s).
-- `2026-09-07T20:13:10Z` **queue / succeeded** — Prepared 39 one-to-one production candidate(s).
-- `2026-09-07T20:13:09Z` **produce / succeeded** — Produced the U.S. market-reopening package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-07T20:11:33Z` **full / partial** — Apify collection, queue production, hourly metrics, and the sole newest-package Postiz probe completed; publication did not yield a verified public X URL. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
