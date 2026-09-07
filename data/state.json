@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T05:22:55.688858+00:00",
+  "updatedAt": "2026-09-07T05:35:49.569967+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -7925,6 +7925,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096762652995248280",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096762652995248280",
+      "postedAt": "Mon Sep 07 00:49:07 +0000 2026",
+      "text": "When it’s a Monday and the stock market isn’t open  https://t.co/RS530IqXon",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2095212519056908289/img/ctZnyLDOJTGGkaJE.jpg"
+      ],
+      "engagement": {
+        "likes": 359,
+        "replies": 8,
+        "reposts": 17,
+        "quotes": 3,
+        "views": 40531
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T05:26:04Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2095212519056908289/img/ctZnyLDOJTGGkaJE.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096762652995248280-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -12677,6 +12705,25 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096762652995248280",
+      "rank": 1,
+      "title": "When it’s a Monday and the stock market isn’t open https://t.co/RS530IqXon",
+      "benchmarkPostId": "2096762652995248280",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096762652995248280",
+      "score": 49061,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T05:26:04Z",
+      "scoreBreakdown": {
+        "freshness": 4,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -16434,22 +16481,29 @@
       "createdAt": "2026-09-06T12:41:09.963033+00:00"
     },
     {
-      "id": "pkg-20260907-robinhood-chain-hood-generated-more-than-8-milli-35494",
+      "id": "pkg-20260907-robinhood-chain-friday-fees",
       "benchmarkPostId": "2096718702703935494",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096718702703935494",
-      "title": "Robinhood Chain $HOOD generated more than $8 Million in fees on Friday",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Robinhood Chain $HOOD generated more than $8 Million in fees on Friday\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Robinhood Chain tops $8M in Friday fees",
+      "status": "published",
+      "postText": "$HOOD's Robinhood Chain generated more than $8M in fees Friday.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Robinhood Chain $HOOD generated more than $8 Million in fees on Friday"
+        "Robinhood Chain $HOOD generated more than $8 million in fees on Friday."
       ],
       "verificationSources": [
+        "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
         "https://x.com/StockMKTNewz/status/2096718702703935494"
       ],
-      "imagePath": "deliverables/pkg-20260907-robinhood-chain-hood-generated-more-than-8-milli-35494/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-07T00:42:44.370886+00:00"
+      "imagePath": "deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:31:41.865436+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square image-model visual: dark Robinhood Chain transaction data center and fee dashboard, exact headline Robinhood Chain and $8M+ Friday Fees; premium black financial-news palette, white type, red accents, bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqt0l0d0eivqk0ybvko5wm4",
+      "publishedAt": "2026-09-07T05:32:00.000Z"
     },
     {
       "id": "pkg-20260907-nvidia-nvda-ceo-jensen-huang-just-said-agi-has-a-41575",
@@ -16472,40 +16526,55 @@
       "publishedAt": "2026-09-07T00:42:00.000Z"
     },
     {
-      "id": "pkg-20260907-an-amazon-amzn-cargo-plane-overshot-the-runway-a-47791",
+      "id": "pkg-20260907-amazon-cargo-miami-runway-overrun",
       "benchmarkPostId": "2096694211605147791",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096694211605147791",
-      "title": "An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed into near",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: An Amazon $AMZN cargo plane overshot the runway at Miami international\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Amazon cargo jet overruns Miami runway",
+      "status": "published",
+      "postText": "An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed into nearby vehicles"
+        "An Amazon cargo plane overshot a runway at Miami International Airport.",
+        "The plane crashed into nearby vehicles."
       ],
       "verificationSources": [
+        "https://apnews.com/article/47411c751782887757922efa5f634aa5",
         "https://x.com/StockMKTNewz/status/2096694211605147791"
       ],
-      "imagePath": "deliverables/pkg-20260907-an-amazon-amzn-cargo-plane-overshot-the-runway-a-47791/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-07T00:42:44.739707+00:00"
+      "imagePath": "deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:31:43.312694+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square image-model visual: serious Miami airport runway overrun involving an unbranded Amazon-style cargo jet and emergency vehicles, exact headline Amazon Cargo Jet / Miami Runway Overrun; black premium financial-news styling, white type, red accents, bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqt1mv70791lm0yyqne9pcu",
+      "publishedAt": "2026-09-07T05:33:00.000Z"
     },
     {
-      "id": "pkg-20260907-nvidia-chips-are-being-used-to-settle-wars-when--38804",
+      "id": "pkg-20260907-nvidia-chips-peace-talks",
       "benchmarkPostId": "2096691430164938804",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096691430164938804",
-      "title": "Nvidia chips are being used to settle wars \"When fragile peace talks between Armenia and Azerbaijan ",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Nvidia chips are being used to settle wars \"When fragile peace talks b\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Nvidia chips in Armenia-Azerbaijan talks",
+      "status": "published",
+      "postText": "Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Nvidia chips are being used to settle wars \"When fragile peace talks between Armenia and Azerbaijan looked in danger of collapsing last year, American negotiators used the promise of access to Nvidia’s AI chips to help secure a preliminary peace deal\" - WSJ"
+        "American negotiators used the prospect of access to Nvidia AI chips in talks around a preliminary Armenia-Azerbaijan peace deal."
       ],
       "verificationSources": [
+        "https://www.panorama.am/en/news/2026/09/05/US-Armenia-Azerbaijan/3168156",
         "https://x.com/StockMKTNewz/status/2096691430164938804"
       ],
-      "imagePath": "deliverables/pkg-20260907-nvidia-chips-are-being-used-to-settle-wars-when--38804/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-07T00:42:44.921300+00:00"
+      "imagePath": "deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:31:44.441055+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square image-model visual: advanced AI chip on a diplomacy table with restrained Armenia and Azerbaijan flags; exact headline Nvidia Chips / Peace Talks; black premium financial-news styling, white type, red accents, bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqt285c0794lm0y9fhpw58e",
+      "publishedAt": "2026-09-07T05:33:00.000Z"
     },
     {
       "id": "pkg-20260907-this-is-my-2nd-largest-etf-holding-what-do-you-t-52021",
@@ -16528,22 +16597,29 @@
       "publishedAt": "2026-09-07T00:44:00.000Z"
     },
     {
-      "id": "pkg-20260907-apple-aapl-stock-is-up-by-more-than-10x-over-the-25677",
+      "id": "pkg-20260907-apple-tenfold-decade-return",
       "benchmarkPostId": "2096679920785125677",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096679920785125677",
-      "title": "Apple $AAPL stock is up by more than 10x over the last decade 🟢",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Apple $AAPL stock is up by more than 10x over the last decade 🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Apple gains more than 10x in a decade",
+      "status": "published",
+      "postText": "$AAPL stock is up more than 10x over the last decade.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Apple $AAPL stock is up by more than 10x over the last decade 🟢"
+        "Apple $AAPL stock is up by more than 10x over the last decade."
       ],
       "verificationSources": [
+        "https://www.axios.com/2026/09/01/apple-ceo-cook-stock",
         "https://x.com/StockMKTNewz/status/2096679920785125677"
       ],
-      "imagePath": "deliverables/pkg-20260907-apple-aapl-stock-is-up-by-more-than-10x-over-the-25677/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-07T00:42:45.271586+00:00"
+      "imagePath": "deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:31:45.305714+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square image-model visual: sleek smartphone and upward decade-long chart, exact headline Apple $AAPL / 10X+ in a Decade; premium black financial-news styling, white type, controlled green performance accent, bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqt2t8t0796lm0ynvrbkxsq",
+      "publishedAt": "2026-09-07T05:34:00.000Z"
     },
     {
       "id": "pkg-20260907-nvidia-nvda-stock-is-up-by-more-than-15-000-over-96816",
@@ -16730,6 +16806,31 @@
       "createdAt": "2026-09-07T00:42:47.252061+00:00",
       "postizPostId": "cmtqiot3r0bvyqk0y2ntg1urh",
       "publishedAt": "2026-09-07T00:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-us-stock-market-closed-monday",
+      "benchmarkPostId": "2096762652995248280",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096762652995248280",
+      "title": "U.S. stock market closed Monday",
+      "status": "published",
+      "postText": "The U.S. stock market is closed Monday.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The source post says the stock market is not open Monday."
+      ],
+      "verificationSources": [
+        "https://www.nyse.com/markets/hours-calendars",
+        "https://x.com/StockMKTNewz/status/2096762652995248280"
+      ],
+      "imagePath": "deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png",
+      "createdAt": "2026-09-07T05:31:40.930593+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square image-model visual: New York Stock Exchange exterior with a Monday market-closure headline; black premium financial-news palette, white type, controlled red accents, and a bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqszzfy078ilm0y1mvqeg5g",
+      "publishedAt": "2026-09-07T05:32:00.000Z"
     }
   ],
   "posts": [
@@ -18099,6 +18200,91 @@
         "lastAttemptAt": "2026-09-07T01:10:21.428924Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "no visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096833975658680669",
+      "packageId": "pkg-20260907-us-stock-market-closed-monday",
+      "title": "U.S. stock market closed Monday",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:32:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096833975658680669",
+      "postizPostId": "cmtqszzfy078ilm0y1mvqeg5g",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:32:00.000Z",
+        "windowEnd": "2026-09-10T05:32:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096834091673063588",
+      "packageId": "pkg-20260907-robinhood-chain-friday-fees",
+      "title": "Robinhood Chain tops $8M in Friday fees",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:32:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096834091673063588",
+      "postizPostId": "cmtqt0l0d0eivqk0ybvko5wm4",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:32:00.000Z",
+        "windowEnd": "2026-09-10T05:32:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096834296762011792",
+      "packageId": "pkg-20260907-amazon-cargo-miami-runway-overrun",
+      "title": "Amazon cargo jet overruns Miami runway",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:33:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096834296762011792",
+      "postizPostId": "cmtqt1mv70791lm0yyqne9pcu",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:33:00.000Z",
+        "windowEnd": "2026-09-10T05:33:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096834411216159009",
+      "packageId": "pkg-20260907-nvidia-chips-peace-talks",
+      "title": "Nvidia chips in Armenia-Azerbaijan talks",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:33:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096834411216159009",
+      "postizPostId": "cmtqt285c0794lm0y9fhpw58e",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:33:00.000Z",
+        "windowEnd": "2026-09-10T05:33:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096834524735013203",
+      "packageId": "pkg-20260907-apple-tenfold-decade-return",
+      "title": "Apple gains more than 10x in a decade",
+      "status": "published",
+      "publishedAt": "2026-09-07T05:34:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096834524735013203",
+      "postizPostId": "cmtqt2t8t0796lm0ynvrbkxsq",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T05:34:00.000Z",
+        "windowEnd": "2026-09-10T05:34:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -26273,6 +26459,91 @@
       "completedAt": "2026-09-07T05:22:55Z",
       "summary": "Prepared 75 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260907T052604Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:26:04Z",
+      "completedAt": "2026-09-07T05:26:04Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T052604Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:26:04Z",
+      "completedAt": "2026-09-07T05:26:04Z",
+      "summary": "Prepared 76 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T053145Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:31:45.305825+00:00",
+      "completedAt": "2026-09-07T05:31:45.305831+00:00",
+      "summary": "Produced five timestamp-first image-model packages with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T053233Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:32:33.003007+00:00",
+      "completedAt": "2026-09-07T05:32:33.003015+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T053300Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:33:00.757472+00:00",
+      "completedAt": "2026-09-07T05:33:00.757482+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T053349Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:33:49.876151+00:00",
+      "completedAt": "2026-09-07T05:33:49.876154+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T053417Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:34:17.295253+00:00",
+      "completedAt": "2026-09-07T05:34:17.295259+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T053444Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T05:34:44.707463+00:00",
+      "completedAt": "2026-09-07T05:34:44.707469+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T053549Z-report",
+      "mode": "report",
+      "status": "blocked",
+      "startedAt": "2026-09-07T05:35:49.569309+00:00",
+      "completedAt": "2026-09-07T05:35:49.569309+00:00",
+      "summary": "Rendered local report artifacts; stable report update did not run.",
+      "reason": "Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed."
     }
   ]
 }

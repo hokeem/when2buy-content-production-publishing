@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T05:22:55.688858+00:00`
+- 状态更新：`2026-09-07T05:35:49.569967+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**291**
-- 待选选题：**250**
-- 待发布制作包：**131**
-- 已验证发布：**80**
+- 对标帖子快照：**292**
+- 待选选题：**251**
+- 待发布制作包：**127**
+- 已验证发布：**85**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 00:49:07 +0000 2026 | When it’s a Monday and the stock market isn’t open  https://t.co/RS530IqXon | [X](https://x.com/StockMKTNewz/status/2096762652995248280) |
 | @WhaleInsider | Sun Sep 06 13:35:42 +0000 2026 | JUST IN: Altcoins flip $BTC in open interest. https://t.co/Pwsg0gJnlH | [X](https://x.com/WhaleInsider/status/2096593182309982396) |
 | @StockMKTNewz | Sun Sep 06 14:57:48 +0000 2026 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relative to its peers https://t.co/OrXVmggo3o | [X](https://x.com/StockMKTNewz/status/2096613844223246653) |
 | @WhaleInsider | Sun Sep 06 15:11:21 +0000 2026 | NEW: VC-backed Pokémon gacha site https://t.co/LGPj99uimp just launched.  They’re offering 200% deposit bonuses to pull users from rivals as the market heats up, burning investor cash for market share. Collectors win. https://t.co/VE5zzNAWe8 | [X](https://x.com/WhaleInsider/status/2096617256641761427) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Sat Sep 05 07:19:58 +0000 2026 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. https://t.co/e4Ecf3pd07 | [X](https://x.com/WhaleInsider/status/2096136240324030904) |
 | @WhaleInsider | Sat Sep 05 09:41:08 +0000 2026 | JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. https://t.co/XoogbG6Y4C | [X](https://x.com/WhaleInsider/status/2096171765932126604) |
 | @WhaleInsider | Sat Sep 05 09:52:22 +0000 2026 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. https://t.co/4iq13E7A2N | [X](https://x.com/WhaleInsider/status/2096174592431648911) |
-| @WhaleInsider | Sat Sep 05 10:52:29 +0000 2026 | JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marking a new all-time high. https://t.co/GqHzBk3N8Z | [X](https://x.com/WhaleInsider/status/2096189719310725292) |
 
 ## 选题推荐
 
@@ -58,6 +58,7 @@
 | 1 | JUST IN: 🇺🇸 US housing affordability crisis deepens: Google searches for “can’t afford a hom… | WhaleInsider | 13235 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre ta… | StockMKTNewz | 6970 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Robinhood Chain $HOOD generated more than $8 Million in fees on Friday | StockMKTNewz | 43870 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | When it’s a Monday and the stock market isn’t open https://t.co/RS530IqXon | StockMKTNewz | 49061 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1664,12 +1665,12 @@ Market radar: @WhaleInsider reports: JUST IN: @hooddomains $HD is building the E
 
 Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD assets are closing in on a combined mar  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
-### Robinhood Chain $HOOD generated more than $8 Million in fees on Friday
+### Robinhood Chain tops $8M in Friday fees
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-robinhood-chain-hood-generated-more-than-8-milli-35494/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Robinhood Chain $HOOD generated more than $8 Million in fees on Friday  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+$HOOD's Robinhood Chain generated more than $8M in fees Friday.  When2Buy — your U.S. stock partner.
 
 ### Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.”
 
@@ -1678,19 +1679,19 @@ Market radar: @StockMKTNewz reports: Robinhood Chain $HOOD generated more than $
 
 Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.”  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### An Amazon $AMZN cargo plane overshot the runway at Miami international airport and crashed into near
+### Amazon cargo jet overruns Miami runway
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-an-amazon-amzn-cargo-plane-overshot-the-runway-a-47791/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: An Amazon $AMZN cargo plane overshot the runway at Miami international  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.  When2Buy — your U.S. stock partner.
 
-### Nvidia chips are being used to settle wars "When fragile peace talks between Armenia and Azerbaijan
+### Nvidia chips in Armenia-Azerbaijan talks
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-nvidia-chips-are-being-used-to-settle-wars-when--38804/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Nvidia chips are being used to settle wars "When fragile peace talks b  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.  When2Buy — your U.S. stock partner.
 
 ### This is my 2nd largest ETF holding ... What do you think?
 
@@ -1699,12 +1700,12 @@ Market radar: @StockMKTNewz reports: Nvidia chips are being used to settle wars 
 
 Market radar: @StockMKTNewz reports: This is my 2nd largest ETF holding ... What do you think?  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### Apple $AAPL stock is up by more than 10x over the last decade 🟢
+### Apple gains more than 10x in a decade
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260907-apple-aapl-stock-is-up-by-more-than-10x-over-the-25677/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Apple $AAPL stock is up by more than 10x over the last decade 🟢  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+$AAPL stock is up more than 10x over the last decade.  When2Buy — your U.S. stock partner.
 
 ### Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯
 
@@ -1775,6 +1776,13 @@ Market radar: @StockMKTNewz reports: 75% of new Apple $AAPL CEO John Ternus' sto
 - 配图：`deliverables/pkg-20260907-just-in-altcoins-flip-btc-in-open-interest-82396/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interest.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+
+### U.S. stock market closed Monday
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png`
+
+The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -1861,9 +1869,23 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096761601777086823) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096761735374164145) |
+| U.S. stock market closed Monday | 2026-09-07T05:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096833975658680669) |
+| Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834091673063588) |
+| Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834296762011792) |
+| Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834411216159009) |
+| Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096834524735013203) |
 
 ## 最近运行
 
+- `2026-09-07T05:35:49.569309+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
+- `2026-09-07T05:34:44.707463+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:34:17.295253+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:33:49.876151+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:33:00.757472+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:32:33.003007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T05:31:45.305825+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
+- `2026-09-07T05:26:04Z` **queue / succeeded** — Prepared 76 one-to-one production candidate(s).
+- `2026-09-07T05:26:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-07T05:22:55Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
 - `2026-09-07T05:22:55Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-07T05:07:19Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
@@ -1875,12 +1897,3 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 - `2026-09-07T00:44:27.228834+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T00:43:55.233635+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T00:43:23.823375+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T00:42:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T00:42:47Z` **queue / succeeded** — Prepared 81 one-to-one production candidate(s).
-- `2026-09-07T00:42:47.252111+00:00` **produce / succeeded** — Created 16 original attributed market-radar package(s).
-- `2026-09-07T00:42:34Z` **queue / succeeded** — Prepared 81 one-to-one production candidate(s).
-- `2026-09-07T00:41:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T00:41:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 16 new post(s).
-- `2026-09-06T15:42:46Z` **queue / succeeded** — Prepared 85 one-to-one production candidate(s).
-- `2026-09-06T15:42:46Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-06T12:45:22Z` **report / blocked** — Rendered local report artifacts but could not update the existing stable run-panel URL. Terminal panel blocker: report-hub registry access returned HTTP 401 after the required re-source retry, and no existing stable slug is recorded in tracked state. The sync failed closed; no public destination was created or changed.
