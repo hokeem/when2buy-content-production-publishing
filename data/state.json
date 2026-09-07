@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T22:47:19.834400+00:00",
+  "updatedAt": "2026-09-07T23:06:35.086763+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -79142,6 +79142,42 @@
       "startedAt": "2026-09-07T22:47:19Z",
       "completedAt": "2026-09-07T22:47:19Z",
       "summary": "Apify collection, media archive, timestamp-first queue rebuild, metrics refresh, and the single newest-package delivery probe completed; publication did not produce a verified public URL.",
+      "reason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T23:47:19Z",
+        "deliveryReason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried."
+      }
+    },
+    {
+      "id": "run-20260907T230615Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T23:06:15Z",
+      "completedAt": "2026-09-07T23:06:15Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T230615Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T23:06:15Z",
+      "completedAt": "2026-09-07T23:06:15Z",
+      "summary": "Prepared 46 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T230635Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T23:06:35Z",
+      "completedAt": "2026-09-07T23:06:35Z",
+      "summary": "Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker.",
       "reason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.",
       "circuitBreaker": {
         "active": true,
