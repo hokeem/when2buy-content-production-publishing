@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T09:21:51.455649+00:00`
+- 状态更新：`2026-09-07T09:26:04.341461+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**294**
 - 待选选题：**253**
@@ -1935,6 +1935,8 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 
 ## 最近运行
 
+- `2026-09-07T09:26:04Z` **queue / succeeded** — Prepared 22 one-to-one production candidate(s).
+- `2026-09-07T09:26:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T09:21:51.454948+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued.
 - `2026-09-07T09:20:30.493130+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued.
 - `2026-09-07T09:19:15.980418+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery did not return PUBLISHED plus a public x.com URL across two safe attempts; the observed terminal response was ERROR with no releaseURL.
@@ -1953,5 +1955,3 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 - `2026-09-07T08:46:37Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
 - `2026-09-07T08:45:56Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
 - `2026-09-07T08:45:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T08:36:52.669538+00:00` **publish / partial** — Three packages published and verified; two packages reached terminal Postiz delivery errors. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
-- `2026-09-07T08:34:09.968922+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

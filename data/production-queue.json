@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:06:00Z",
+  "generatedAt": "2026-09-07T09:26:04Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -809,50 +809,6 @@
         "factualClarity": 4
       },
       "editorialScore": 14,
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 23,
-      "benchmarkPostId": "2095802439580393655",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2095802439580393655",
-      "originalText": "JUST IN: 🇺🇸 Major U.S. enforcement group, the NSA, now supports the CLARITY Act. https://t.co/H4htHZzZEg",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRXJNbcWEAYAh_M.jpg",
-        "https://pbs.twimg.com/media/HRXJNb5agAAPpas.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRXJNbcWEAYAh_M.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095802439580393655-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRXJNb5agAAPpas.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2095802439580393655-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 31,
-        "replies": 12,
-        "reposts": 9,
-        "quotes": 2,
-        "views": 10970
-      },
-      "postedAt": "Fri Sep 04 09:13:34 +0000 2026",
-      "score": 12640,
-      "heatScore": 12640,
-      "scoreBreakdown": {
-        "freshness": 1,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 11,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     }
   ]
