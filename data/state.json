@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T07:38:30.980926+00:00",
+  "updatedAt": "2026-09-07T07:55:16.121484+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -7980,6 +7980,13 @@
           "path": "output/benchmark-media/WhaleInsider/2096857687501754540-1.jpg",
           "status": "archived"
         }
+      ],
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRmI84hXsAAsp8b.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096857687501754540-1.jpg",
+          "status": "archived"
+        }
       ]
     }
   ],
@@ -15164,94 +15171,125 @@
       "publishedAt": "2026-09-05T12:43:00.000Z"
     },
     {
-      "id": "pkg-20260905-this-is-how-the-stock-market-performed-today-76761",
+      "id": "pkg-20260907-this-is-how-the-stock-market-performed-today-76761",
       "benchmarkPostId": "2095974949391376761",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095974949391376761",
-      "title": "This is how the 🇺🇸 stock market performed today",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: This is how the 🇺🇸 stock market performed today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "U.S. stock market performance today",
+      "status": "published",
+      "postText": "The U.S. stock market's performance today is in focus.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "This is how the 🇺🇸 stock market performed today"
+        "The source covers how the U.S. stock market performed today."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095974949391376761"
       ],
-      "imagePath": "deliverables/pkg-20260905-this-is-how-the-stock-market-performed-today-76761/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:09.766545+00:00"
+      "imagePath": "deliverables/pkg-20260907-this-is-how-the-stock-market-performed-today-76761/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:52:28.285828Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "U.S. stock market daily close: 1:1 premium editorial financial-news visual with a realistic Wall Street trading floor, electronic market board, exchange architecture and red closing-bell light. Black and near-black base, white type, controlled red accent. Exact text: U.S. STOCK MARKET; TODAY'S CLOSE. The entity-led market scene dominates; clean lower-right logo-safe area. No other readable text, numbers, logos, watermark, source names, URLs, disclaimers, CTA, or pure typography.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqy15ki08kolm0y9gwx43al",
+      "publishedAt": "2026-09-07T07:52:00.000Z"
     },
     {
-      "id": "pkg-20260905-evan-stockmktnewz-top-10-trader-47085",
+      "id": "pkg-20260907-evan-stockmktnewz-top-10-trader-47085",
       "benchmarkPostId": "2095970287435047085",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095970287435047085",
-      "title": "Evan StockMKTNewz Top 10 Trader",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Evan StockMKTNewz Top 10 Trader\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Top 10 trader",
+      "status": "published",
+      "postText": "A top-10 trader ranking is in focus today.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Evan StockMKTNewz Top 10 Trader"
+        "The source identifies an Evan StockMKTNewz Top 10 Trader item."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095970287435047085"
       ],
-      "imagePath": "deliverables/pkg-20260905-evan-stockmktnewz-top-10-trader-47085/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:09.887644+00:00"
+      "imagePath": "deliverables/pkg-20260907-evan-stockmktnewz-top-10-trader-47085/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:52:29.273998Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "1:1 premium financial-news visual of an anonymous professional trader at a dark multi-screen trading desk and a ranked performance board. Black and near-black base, white type, controlled red accent. Exact text: TOP 10 TRADER. Trader and screens dominate with a clean lower-right logo-safe area. No other readable text, numbers, names, logos, watermark, source names, URLs, disclaimers, CTA, or pure typography.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqy1qtu08krlm0ypeuqth6i",
+      "publishedAt": "2026-09-07T07:53:00.000Z"
     },
     {
-      "id": "pkg-20260905-just-in-77-chance-of-btc-crossing-85k-again-befo-16903",
+      "id": "pkg-20260907-btc-85k-kalshi-probability-16903",
       "benchmarkPostId": "2095958389150916903",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095958389150916903",
-      "title": "JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders.",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per K\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "BTC $85K probability",
+      "status": "published",
+      "postText": "$BTC has a 77% chance of crossing $85K again before Oct. 2.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders."
+        "Kalshi traders assign a 77% chance that BTC crosses $85,000 again before October 2."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2095958389150916903"
       ],
-      "imagePath": "deliverables/pkg-20260905-just-in-77-chance-of-btc-crossing-85k-again-befo-16903/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-05T00:42:10.007540+00:00"
+      "imagePath": "deliverables/pkg-20260907-btc-85k-kalshi-probability-16903/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:52:30.102842Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "1:1 premium editorial financial-news visual of a realistic Bitcoin coin and institutional trading screens with a rising trajectory to $85K. Black and near-black base, white type, controlled red accent. Exact text: BTC $85K; 77% BY OCT. 2. Coin and market event dominate with a clean lower-right logo-safe area. No other readable text, numbers, logos, watermark, source names, URLs, disclaimers, CTA, or pure typography.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqy2c1k08kylm0yu29tzkep",
+      "publishedAt": "2026-09-07T07:53:00.000Z"
     },
     {
-      "id": "pkg-20260905-president-trump-just-said-if-you-want-to-get-ric-46330",
+      "id": "pkg-20260907-data-centers-state-approval-46330",
       "benchmarkPostId": "2095951550073946330",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095951550073946330",
-      "title": "🇺🇸 President Trump just said: “If you want to get rich as a state, you will want data centers. If yo",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said: “If you want to get rich as a state, you\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Data centers and state approvals",
+      "status": "published",
+      "postText": "Data-center approvals can shape a state's growth path.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "🇺🇸 President Trump just said: “If you want to get rich as a state, you will want data centers. If you want to go through poverty and crime, I would say don't approve data centers.”"
+        "President Trump said states that want to get rich will want data centers.",
+        "He contrasted data-center approvals with poverty and crime."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095951550073946330"
       ],
-      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-if-you-want-to-get-ric-46330/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:10.141564+00:00"
+      "imagePath": "deliverables/pkg-20260907-data-centers-state-approval-46330/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:52:31.052097Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "1:1 premium editorial financial-news visual of realistic large-scale data centers, power infrastructure and a state approval document. Black and near-black base, white type, controlled red accent. Exact text: DATA CENTERS; STATE APPROVAL. Facility and document dominate with a clean lower-right logo-safe area. No other readable text, numbers, politicians, logos, watermark, source names, URLs, disclaimers, CTA, or pure typography.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqy2wae0g0lqk0yuxzb514r",
+      "publishedAt": "2026-09-07T07:54:00.000Z"
     },
     {
-      "id": "pkg-20260905-president-trump-just-said-interest-rates-should--20987",
+      "id": "pkg-20260907-interest-rates-one-or-half-percent-20987",
       "benchmarkPostId": "2095947527795220987",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095947527795220987",
-      "title": "🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Interest-rate target",
+      "status": "published",
+      "postText": "Interest rates should be at 1% or 0.5%.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%"
+        "President Trump said interest rates should be at 1% or 0.5%."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095947527795220987"
       ],
-      "imagePath": "deliverables/pkg-20260905-president-trump-just-said-interest-rates-should--20987/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:10.256941+00:00"
+      "imagePath": "deliverables/pkg-20260907-interest-rates-one-or-half-percent-20987/when2buy-image-model.png",
+      "createdAt": "2026-09-07T07:52:32.142338Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "1:1 premium editorial financial-news visual of a Federal Reserve-style building, a rate dial set between 1% and 0.5%, and a dark bond-market screen. Black and near-black base, white type, controlled red accent. Exact text: INTEREST RATES; 1% OR 0.5%. Architecture and rate dial dominate with a clean lower-right logo-safe area. No other readable text, numbers, politicians, logos, watermark, source names, URLs, disclaimers, CTA, or pure typography.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqy3i4s08l7lm0ycpjm2j33",
+      "publishedAt": "2026-09-07T07:54:00.000Z"
     },
     {
       "id": "pkg-20260905-president-trump-just-said-that-he-speaks-with-fe-68608",
@@ -19033,6 +19071,91 @@
         "status": "active",
         "windowStart": "2026-09-07T07:37:00.000Z",
         "windowEnd": "2026-09-10T07:37:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096869428151611677",
+      "packageId": "pkg-20260907-this-is-how-the-stock-market-performed-today-76761",
+      "title": "U.S. stock market performance today",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:52:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096869428151611677",
+      "postizPostId": "cmtqy15ki08kolm0y9gwx43al",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:52:00.000Z",
+        "windowEnd": "2026-09-10T07:52:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096869544749125986",
+      "packageId": "pkg-20260907-evan-stockmktnewz-top-10-trader-47085",
+      "title": "Top 10 trader",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:53:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096869544749125986",
+      "postizPostId": "cmtqy1qtu08krlm0ypeuqth6i",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:53:00.000Z",
+        "windowEnd": "2026-09-10T07:53:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096869655126421647",
+      "packageId": "pkg-20260907-btc-85k-kalshi-probability-16903",
+      "title": "BTC $85K probability",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:53:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096869655126421647",
+      "postizPostId": "cmtqy2c1k08kylm0yu29tzkep",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:53:00.000Z",
+        "windowEnd": "2026-09-10T07:53:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096869765671428557",
+      "packageId": "pkg-20260907-data-centers-state-approval-46330",
+      "title": "Data centers and state approvals",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:54:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096869765671428557",
+      "postizPostId": "cmtqy2wae0g0lqk0yuxzb514r",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:54:00.000Z",
+        "windowEnd": "2026-09-10T07:54:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096869885339132326",
+      "packageId": "pkg-20260907-interest-rates-one-or-half-percent-20987",
+      "title": "Interest-rate target",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:54:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096869885339132326",
+      "postizPostId": "cmtqy3i4s08l7lm0ycpjm2j33",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:54:00.000Z",
+        "windowEnd": "2026-09-10T07:54:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -28385,6 +28508,82 @@
       "status": "succeeded",
       "startedAt": "2026-09-07T07:38:30.978977+00:00",
       "completedAt": "2026-09-07T07:38:30.978988+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T074557Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:45:57Z",
+      "completedAt": "2026-09-07T07:45:57Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T074558Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:45:58Z",
+      "completedAt": "2026-09-07T07:45:58Z",
+      "summary": "Prepared 39 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T075232Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:52:32.142462Z",
+      "completedAt": "2026-09-07T07:52:32.142473Z",
+      "summary": "Remade the first five timestamp-first queue items with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T075325Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:53:25.465504+00:00",
+      "completedAt": "2026-09-07T07:53:25.465511+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T075353Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:53:53.028602+00:00",
+      "completedAt": "2026-09-07T07:53:53.028610+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T075419Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:54:19.205415+00:00",
+      "completedAt": "2026-09-07T07:54:19.205422+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T075447Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:54:47.599663+00:00",
+      "completedAt": "2026-09-07T07:54:47.599669+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T075516Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:55:16.119905+00:00",
+      "completedAt": "2026-09-07T07:55:16.119912+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

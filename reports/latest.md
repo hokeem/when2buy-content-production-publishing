@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T07:38:30.980926+00:00`
+- 状态更新：`2026-09-07T07:55:16.121484+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**293**
 - 待选选题：**252**
-- 待发布制作包：**99**
-- 已验证发布：**114**
+- 待发布制作包：**94**
+- 已验证发布：**119**
 
 ## 对标账号扫描
 
@@ -1155,40 +1155,40 @@ Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some u
 
 Market radar: @StockMKTNewz reports: JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to t  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
-### This is how the 🇺🇸 stock market performed today
+### U.S. stock market performance today
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-this-is-how-the-stock-market-performed-today-76761/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-this-is-how-the-stock-market-performed-today-76761/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: This is how the 🇺🇸 stock market performed today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+The U.S. stock market's performance today is in focus.  When2Buy — your U.S. stock partner.
 
-### Evan StockMKTNewz Top 10 Trader
+### Top 10 trader
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-evan-stockmktnewz-top-10-trader-47085/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-evan-stockmktnewz-top-10-trader-47085/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Evan StockMKTNewz Top 10 Trader  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+A top-10 trader ranking is in focus today.  When2Buy — your U.S. stock partner.
 
-### JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per Kalshi traders.
+### BTC $85K probability
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-just-in-77-chance-of-btc-crossing-85k-again-befo-16903/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-btc-85k-kalshi-probability-16903/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: 77% chance of $BTC crossing $85K again before Oct. 2nd, per K  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+$BTC has a 77% chance of crossing $85K again before Oct. 2.  When2Buy — your U.S. stock partner.
 
-### 🇺🇸 President Trump just said: “If you want to get rich as a state, you will want data centers. If yo
+### Data centers and state approvals
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-president-trump-just-said-if-you-want-to-get-ric-46330/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-data-centers-state-approval-46330/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said: “If you want to get rich as a state, you  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Data-center approvals can shape a state's growth path.  When2Buy — your U.S. stock partner.
 
-### 🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%
+### Interest-rate target
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-president-trump-just-said-interest-rates-should--20987/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-interest-rates-one-or-half-percent-20987/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: 🇺🇸 PRESIDENT TRUMP JUST SAID: INTEREST RATES SHOULD BE AT 1% OR 0.5%  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Interest rates should be at 1% or 0.5%.  When2Buy — your U.S. stock partner.
 
 ### *🇺🇸 PRESIDENT TRUMP JUST SAID THAT HE SPEAKS WITH FED CHAIRMAN KEVIN WARSH
 
@@ -1911,9 +1911,22 @@ Japan sold $88B in foreign securities last month—the country's largest sell-of
 | The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last | 2026-09-07T07:36:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865395340976138) |
 | Waiting for the stock market to open again | 2026-09-07T07:37:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865520805142643) |
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865657732337897) |
+| U.S. stock market performance today | 2026-09-07T07:52:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869428151611677) |
+| Top 10 trader | 2026-09-07T07:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869544749125986) |
+| BTC $85K probability | 2026-09-07T07:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869655126421647) |
+| Data centers and state approvals | 2026-09-07T07:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869765671428557) |
+| Interest-rate target | 2026-09-07T07:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869885339132326) |
 
 ## 最近运行
 
+- `2026-09-07T07:55:16.119905+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:54:47.599663+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:54:19.205415+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:53:53.028602+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:53:25.465504+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:52:32.142462Z` **produce / succeeded** — Remade the first five timestamp-first queue items with inspected image-model visuals and exact-logo compositing.
+- `2026-09-07T07:45:58Z` **queue / succeeded** — Prepared 39 one-to-one production candidate(s).
+- `2026-09-07T07:45:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T07:38:30.978977+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:37:57.851677+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:37:25.110150+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1926,11 +1939,3 @@ Japan sold $88B in foreign securities last month—the country's largest sell-of
 - `2026-09-07T07:14:45.695574+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:14:13.113416+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:13:21.905099+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:12:33.443405Z` **produce / succeeded** — Remade the first five queue items with image-model visuals, exact-logo compositing, and visual QA.
-- `2026-09-07T07:06:39Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-07T07:06:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
-- `2026-09-07T06:55:11Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-07T06:55:02.045916+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:54:29.240263+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:53:54.721313+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:53:19.816383+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
