@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T10:52:40.167895+00:00`
+- 状态更新：`2026-09-07T11:14:17.116659+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**299**
 - 待选选题：**258**
@@ -1674,7 +1674,7 @@ Robinhood Chain $HOOD assets are closing in on a combined market cap of $2B.  Wh
 
 ### Robinhood Chain tops $8M in Friday fees
 
-- 状态：`failed`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png`
 
 $HOOD's Robinhood Chain generated more than $8M in fees Friday.  When2Buy — your U.S. stock partner.
@@ -1688,14 +1688,14 @@ Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang just said: �
 
 ### Amazon cargo jet overruns Miami runway
 
-- 状态：`failed`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png`
 
 An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.  When2Buy — your U.S. stock partner.
 
 ### Nvidia chips in Armenia-Azerbaijan talks
 
-- 状态：`failed`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png`
 
 Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.  When2Buy — your U.S. stock partner.
@@ -1786,7 +1786,7 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 
 ### U.S. stock market closed Monday
 
-- 状态：`failed`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png`
 
 The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
@@ -1975,6 +1975,9 @@ Massachusetts just saw its most expensive home sale on record.  When2Buy — you
 
 ## 最近运行
 
+- `2026-09-07T11:13:26.239077+00:00` **publish / partial** — Terminal Postiz delivery error for pkg-20260907-btc-kalshi-85000; no public X URL. Postiz safe retry exhausted: the intended @_When2buy integration returned no PUBLISHED state with a public x.com release URL.
+- `2026-09-07T11:06:09Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
+- `2026-09-07T11:06:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 0 new post(s).
 - `2026-09-07T10:52:40Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T10:52:14.672084+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL after two safe delivery attempts; no public x.com URL was issued.
 - `2026-09-07T10:52:14.540640+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL after two safe delivery attempts; no public x.com URL was issued.
@@ -1992,6 +1995,3 @@ Massachusetts just saw its most expensive home sale on record.  When2Buy — you
 - `2026-09-07T10:35:19Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T10:34:29.522891+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
 - `2026-09-07T10:34:29.369939+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
-- `2026-09-07T10:34:29.195138+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
-- `2026-09-07T10:34:29.015417+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
-- `2026-09-07T10:34:28.883557+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
