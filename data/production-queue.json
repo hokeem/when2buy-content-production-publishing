@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:05:53Z",
+  "generatedAt": "2026-09-07T21:26:13Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -7,8 +7,8 @@
       "rank": 1,
       "benchmarkPostId": "2097065983592566919",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260908-jets-playoff-prediction-market",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097065983592566919",
       "originalText": "Is this a good trade or not enough for the risk?\n\nYou could bet $1,000 on these prediction markets that the New York Jets will not make the NFL playoffs this year and win $1,136\n\nNow, winning $136 doesnt sound like a lot of money BUT \n\nThat's a 13.6% return on your money in 4 months\n\nWhat do you think?",
       "originalMediaUrls": [],
@@ -416,13 +416,13 @@
       "score": 11718,
       "heatScore": 11718,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 5,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 24,
+      "editorialScore": 23,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
