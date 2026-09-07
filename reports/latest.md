@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T20:46:24.464633+00:00`
+- 状态更新：`2026-09-07T21:07:54.002492+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**340**
-- 待选选题：**298**
-- 待发布制作包：**100**
+- 对标帖子快照：**341**
+- 待选选题：**299**
+- 待发布制作包：**101**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 20:54:26 +0000 2026 | Is this a good trade or not enough for the risk?  You could bet $1,000 on these prediction markets that the New York Jets will not make the NFL playoffs this year and win $1,136  Now, winning $136 doesnt sound like a lot of money BUT   That's a 13.6% return on your money in 4 months  What do you think? | [X](https://x.com/StockMKTNewz/status/2097065983592566919) |
 | @WhaleInsider | Mon Sep 07 20:19:22 +0000 2026 | JUST IN: $XRP futures activity surges to six-month high amid price volatility​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/swwoEN4Ox2 | [X](https://x.com/WhaleInsider/status/2097057155824206271) |
 | @StockMKTNewz | Mon Sep 07 20:23:10 +0000 2026 | ROBINHOOD IS UNDERWRITING ITS FIRST IPO  Oura has named Robinhood $HOOD as an underwriter for its upcoming IPO, marking Robinhood’s first official underwriting mandate https://t.co/feXtRSooKq | [X](https://x.com/StockMKTNewz/status/2097058112251322868) |
 | @StockMKTNewz | Mon Sep 07 19:46:55 +0000 2026 | *THE STOCK MARKET IS BACK OPEN AGAIN TOMORROW | [X](https://x.com/StockMKTNewz/status/2097048992051769654) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 13:44:04 +0000 2026 | The European Union 🇪🇺 is investing $232 million in Greenland 🇬🇱, part of the bloc’s campaign to tighten links to the island - Bloomberg https://t.co/zJDIZ1A2gw | [X](https://x.com/StockMKTNewz/status/2096957675204411460) |
 | @StockMKTNewz | Mon Sep 07 13:18:09 +0000 2026 | Nvidia $NVDA now generates $7.8 Million of annual revenue per employee, a new high for the company https://t.co/xTVVsvIIGz | [X](https://x.com/StockMKTNewz/status/2096951154840117320) |
 | @WhaleInsider | Mon Sep 07 13:19:05 +0000 2026 | JUST IN: Robinhood Chain $HOOD spot volume tripled since the start of August.  Weekly spot trading volume on Robinhood Chain DEXs reached $10.5 billion, up 3.5x from early August - CryptoRank. https://t.co/3qmZamRHiX | [X](https://x.com/WhaleInsider/status/2096951390434209850) |
-| @StockMKTNewz | Mon Sep 07 12:56:19 +0000 2026 | Nike stock is currently the worst performing stock in the Dow Jones so far in 2026  💩 Nike $NKE: -40%🔴 https://t.co/gv8I7ohsRL | [X](https://x.com/StockMKTNewz/status/2096945662529093944) |
 
 ## 选题推荐
 
@@ -86,6 +86,7 @@
 | 1 | JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana inte… | WhaleInsider | 14506 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | NVIDIA $NVDA CEO JENSEN HUANG IS ON 🇬🇧 KING CHARLES' AI MEETING GUEST LIST - Politico | StockMKTNewz | 6779 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | ROBINHOOD IS UNDERWRITING ITS FIRST IPO Oura has named Robinhood $HOOD as an underwriter for… | StockMKTNewz | 7814 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Is this a good trade or not enough for the risk? You could bet $1,000 on these prediction ma… | StockMKTNewz | 8751 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2132,6 +2133,13 @@ Robinhood $HOOD just landed its first official IPO underwriting mandate as Oura 
 
 $XRP futures activity just reached a six-month high as price volatility accelerates.  When2Buy — your U.S. stock partner.
 
+### Jets playoff prediction contract offers $136 on $1,000 stake
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-jets-playoff-prediction-market/when2buy-image-model.png`
+
+A $1,000 prediction-market contract on the New York Jets missing the playoffs would pay $1,136 if it settles that way.  That is a $136 return over roughly four months.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2272,6 +2280,10 @@ $XRP futures activity just reached a six-month high as price volatility accelera
 
 ## 最近运行
 
+- `2026-09-07T21:07:54Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-07T21:07:27Z` **produce / succeeded** — Produced the newest eligible prediction-market package from an inspected image-model visual with exact-logo compositing.
+- `2026-09-07T21:05:53Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
+- `2026-09-07T21:05:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-07T20:46:24Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T20:45:56Z` **queue / succeeded** — Prepared 41 one-to-one production candidate(s).
 - `2026-09-07T20:45:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2288,7 +2300,3 @@ $XRP futures activity just reached a six-month high as price volatility accelera
 - `2026-09-07T19:47:38.307305Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
 - `2026-09-07T19:46:58Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
 - `2026-09-07T19:46:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 0 new post(s).
-- `2026-09-07T19:45:43Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
-- `2026-09-07T19:27:00Z` **full / partial** — Apify collection, benchmark-media archival, and timestamp-first queue rebuild completed; no new eligible originals were found. Publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
-- `2026-09-07T19:25:57Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
-- `2026-09-07T19:25:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
