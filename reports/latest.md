@@ -2240,7 +2240,7 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 
 ## 最近运行
 
-- `2026-09-07T19:47:38.307305Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker. Postiz delivery error without a public x.com release URL.
+- `2026-09-07T19:47:38.307305Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
 - `2026-09-07T19:46:58Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
 - `2026-09-07T19:46:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 0 new post(s).
 - `2026-09-07T19:45:43Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).

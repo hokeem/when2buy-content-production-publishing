@@ -67383,11 +67383,11 @@
       "startedAt": "2026-09-07T19:47:38.307305Z",
       "completedAt": "2026-09-07T19:47:38.307305Z",
       "summary": "Apify collection, media archive, timestamp-first queue rebuild, hourly metrics collection, and two newest-package productions completed; publication was withheld by the Postiz delivery circuit breaker.",
-      "reason": "Postiz delivery error without a public x.com release URL.",
+      "reason": "Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.",
       "circuitBreaker": {
         "active": true,
         "expiresAt": "2026-09-07T20:09:59Z",
-        "deliveryReason": "Postiz delivery error without a public x.com release URL."
+        "deliveryReason": "Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried."
       }
     }
   ],
