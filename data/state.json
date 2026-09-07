@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T14:49:14.934814+00:00",
+  "updatedAt": "2026-09-07T15:10:43.373130+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8770,6 +8770,54 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096977122342400266",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096977122342400266",
+      "postedAt": "Mon Sep 07 15:01:20 +0000 2026",
+      "text": "Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026\n\n🥈 Caterpillar $CAT: +42%🟢 https://t.co/MezJT5h6W8",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRn1PEsXYAA-llg.jpg"
+      ],
+      "engagement": {
+        "likes": 20,
+        "replies": 9,
+        "reposts": 2,
+        "quotes": 1,
+        "views": 6118
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T15:06:27Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRn1PEsXYAA-llg.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096977122342400266-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096975330858692621",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096975330858692621",
+      "postedAt": "Mon Sep 07 14:54:13 +0000 2026",
+      "text": "JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglomerate, is building a tokenization platform on Avalanche as South Korea accelerates plans to bring securities onchain.",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 31,
+        "replies": 14,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 16301
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T15:06:27Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -14073,6 +14121,44 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096977122342400266",
+      "rank": 1,
+      "title": "Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026…",
+      "benchmarkPostId": "2096977122342400266",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096977122342400266",
+      "score": 7038,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T15:06:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096975330858692621",
+      "rank": 2,
+      "title": "JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglome…",
+      "benchmarkPostId": "2096975330858692621",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096975330858692621",
+      "score": 17841,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T15:06:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -19291,6 +19377,81 @@
           "canvas": "1254x1254 square PNG",
           "inspection": "Approved: entity-led Miami penthouse scene, no generated text, no generic radar treatment, exact repository logo composited once at lower-right with clear space.",
           "logoSha256": "197cfdd9d2b623083e8018db4b8f4ca068f0476d79b8038b400d447c1abb8130"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260907-caterpillar-cat-plus-42-ytd",
+      "benchmarkPostId": "2096977122342400266",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096977122342400266",
+      "title": "Caterpillar ranks second among Dow stocks in 2026",
+      "status": "ready",
+      "postText": "Caterpillar $CAT is up 42% year to date, ranking second among Dow stocks in 2026.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Caterpillar $CAT is up about 42% year to date.",
+        "Caterpillar ranks second among Dow stocks in 2026."
+      ],
+      "verificationSources": [
+        "https://www.financecharts.com/stocks/CAT/performance/total-return",
+        "https://x.com/StockMKTNewz/status/2096977122342400266"
+      ],
+      "imagePath": "deliverables/pkg-20260907-caterpillar-cat-plus-42-ytd/when2buy-image-model.png",
+      "createdAt": "2026-09-07T15:08:57.965097+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Asset type: square X financial-news visual. A premium Caterpillar market-performance scene with a yellow excavator, subtle rising light chart, near-black base, white highlights, restrained red and green accents, and a clean lower-right logo-safe area. No text, logos, watermarks, social UI, generic radar graphics, distorted machinery, or people.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T15:08:57.965127+00:00",
+          "checks": [
+            "square 1254x1254",
+            "entity-led visual",
+            "near-black premium palette",
+            "no generated text or source attribution",
+            "no generic radar imagery",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no damage or misspelling"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260907-hanwha-avalanche-tokenization-platform",
+      "benchmarkPostId": "2096975330858692621",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096975330858692621",
+      "title": "Hanwha builds tokenized-securities platform on Avalanche",
+      "status": "ready",
+      "postText": "Hanwha Investment & Securities has built a tokenized-securities platform on Avalanche.\n\nSouth Korea's tokenized-securities framework is scheduled to take effect February 4, 2027.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Hanwha Investment & Securities built a tokenized-securities platform supporting Avalanche.",
+        "South Korea's tokenized-securities framework is scheduled to take effect February 4, 2027."
+      ],
+      "verificationSources": [
+        "https://fsc.go.kr/eng/pr010101/87653?curPage=&srchBeginDt=&srchCtgry=2&srchEndDt=&srchKey=&srchText=",
+        "https://en.sedaily.com/finance/2026/09/06/hanwha-securities-builds-avalanche-based-token-securities",
+        "https://x.com/WhaleInsider/status/2096975330858692621"
+      ],
+      "imagePath": "deliverables/pkg-20260907-hanwha-avalanche-tokenization-platform/when2buy-image-model.png",
+      "createdAt": "2026-09-07T15:08:58.879755+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Asset type: square X financial-news visual. A premium Hanwha tokenized-securities infrastructure scene: near-black Korean financial district and boardroom merging into secure ledger architecture with an abstract triangular network motif, white highlights, restrained red accents, and a clean lower-right logo-safe area. No text, company or Avalanche logos, watermarks, source attribution, social UI, generic radar imagery, or cryptocurrency coins.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T15:08:58.879766+00:00",
+          "checks": [
+            "square 1254x1254",
+            "entity-led visual",
+            "near-black premium palette",
+            "no generated text or source attribution",
+            "no generic radar imagery",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no damage or misspelling"
+          ]
         }
       }
     }
@@ -47159,6 +47320,55 @@
         "expiresAt": "2026-09-07T15:50:26Z",
         "deliveryReason": "ERROR delivery without a public release URL"
       }
+    },
+    {
+      "id": "run-20260907T150627Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T15:06:27Z",
+      "completedAt": "2026-09-07T15:06:27Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T150628Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T15:06:28Z",
+      "completedAt": "2026-09-07T15:06:28Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T150858Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T15:08:58.879839+00:00",
+      "completedAt": "2026-09-07T15:08:58.879841+00:00",
+      "summary": "Produced the two newest eligible benchmark packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T150859Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T15:08:59Z",
+      "completedAt": "2026-09-07T15:08:59Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T151043Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T15:10:43.372394+00:00",
+      "completedAt": "2026-09-07T15:10:43.372408+00:00",
+      "summary": "Publication attempt for pkg-20260907-caterpillar-cat-plus-42-ytd did not produce a verified public X URL; package remains ready and was not retried.",
+      "reason": "Postiz publish command returned without a Postiz delivery record in the queried delivery window; no PUBLISHED state or public x.com URL was available for verification."
     }
   ]
 }

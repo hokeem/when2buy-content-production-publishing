@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T14:49:14.934814+00:00`
+- 状态更新：`2026-09-07T15:10:43.373130+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**320**
-- 待选选题：**279**
-- 待发布制作包：**85**
+- 对标帖子快照：**322**
+- 待选选题：**281**
+- 待发布制作包：**87**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 14:54:13 +0000 2026 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglomerate, is building a tokenization platform on Avalanche as South Korea accelerates plans to bring securities onchain. | [X](https://x.com/WhaleInsider/status/2096975330858692621) |
+| @StockMKTNewz | Mon Sep 07 15:01:20 +0000 2026 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026  🥈 Caterpillar $CAT: +42%🟢 https://t.co/MezJT5h6W8 | [X](https://x.com/StockMKTNewz/status/2096977122342400266) |
 | @WhaleInsider | Mon Sep 07 14:27:58 +0000 2026 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since February 28th due to the Iran war. https://t.co/4fstiFR0rT | [X](https://x.com/WhaleInsider/status/2096968726939652174) |
 | @StockMKTNewz | Mon Sep 07 14:45:10 +0000 2026 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | [X](https://x.com/StockMKTNewz/status/2096973053095706742) |
 | @StockMKTNewz | Mon Sep 07 14:23:57 +0000 2026 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026  👑 Merck $MRK: +43%🟢 https://t.co/APN8kkaku9 | [X](https://x.com/StockMKTNewz/status/2096967712274628776) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Sat Sep 05 12:47:04 +0000 2026 | Nike $NKE was added to the S&amp;P 100 in December 2008  Nike is being removed from the S&amp;P 100 after a nearly 18 year run | [X](https://x.com/StockMKTNewz/status/2096218556690022471) |
 | @WhaleInsider | Mon Sep 07 07:46:12 +0000 2026 | JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in September and December 2026, vs prior forecast of no policy change. https://t.co/FagOYzoTtX | [X](https://x.com/WhaleInsider/status/2096867616916689269) |
 | @WhaleInsider | Mon Sep 07 07:06:45 +0000 2026 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest such sell-off in its history. https://t.co/5HroWeCzgI | [X](https://x.com/WhaleInsider/status/2096857687501754540) |
-| @StockMKTNewz | Mon Sep 07 00:49:07 +0000 2026 | When it’s a Monday and the stock market isn’t open  https://t.co/RS530IqXon | [X](https://x.com/StockMKTNewz/status/2096762652995248280) |
-| @WhaleInsider | Sun Sep 06 13:35:42 +0000 2026 | JUST IN: Altcoins flip $BTC in open interest. https://t.co/Pwsg0gJnlH | [X](https://x.com/WhaleInsider/status/2096593182309982396) |
 
 ## 选题推荐
 
@@ -73,6 +73,7 @@
 | 1 | IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026 🥈 $IBM… | StockMKTNewz | 10151 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026 👑 Merck $… | StockMKTNewz | 5693 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | StockMKTNewz | 4097 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026… | StockMKTNewz | 7038 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -91,6 +92,7 @@
 | 2 | Nvidia $NVDA now generates $7.8 Million of annual revenue per employee, a new high for the c… | StockMKTNewz | 8538 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the m… | WhaleInsider | 21848 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since Febru… | WhaleInsider | 20451 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglome… | WhaleInsider | 17841 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2001,6 +2003,20 @@ $MRK is the Dow's best-performing stock in 2026, up 43% so far.  When2Buy — yo
 
 A $75M penthouse is turning heads in Miami.  When2Buy — your U.S. stock partner.
 
+### Caterpillar ranks second among Dow stocks in 2026
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-caterpillar-cat-plus-42-ytd/when2buy-image-model.png`
+
+Caterpillar $CAT is up 42% year to date, ranking second among Dow stocks in 2026.  When2Buy — your U.S. stock partner.
+
+### Hanwha builds tokenized-securities platform on Avalanche
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-hanwha-avalanche-tokenization-platform/when2buy-image-model.png`
+
+Hanwha Investment & Securities has built a tokenized-securities platform on Avalanche.  South Korea's tokenized-securities framework is scheduled to take effect February 4, 2027.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2141,6 +2157,11 @@ A $75M penthouse is turning heads in Miami.  When2Buy — your U.S. stock partne
 
 ## 最近运行
 
+- `2026-09-07T15:10:43.372394+00:00` **publish / partial** — Publication attempt for pkg-20260907-caterpillar-cat-plus-42-ytd did not produce a verified public X URL; package remains ready and was not retried. Postiz publish command returned without a Postiz delivery record in the queried delivery window; no PUBLISHED state or public x.com URL was available for verification.
+- `2026-09-07T15:08:59Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T15:08:58.879839+00:00` **produce / succeeded** — Produced the two newest eligible benchmark packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-07T15:06:28Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T15:06:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
 - `2026-09-07T14:45:45Z` **full / partial** — Hourly Postiz-first metrics collection, Apify benchmark collection, media archive, timestamp-first queue rebuild, and the newest Miami penthouse image-model package completed; no X submission was attempted. Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed at 2026-09-07T14:11:00Z); do not submit another post before 2026-09-07T15:50:26Z.
 - `2026-09-07T14:48:42Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T14:46:47Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
@@ -2156,8 +2177,3 @@ A $75M penthouse is turning heads in Miami.  When2Buy — your U.S. stock partne
 - `2026-09-07T14:25:13Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T14:25:13Z` **produce / succeeded** — Produced the newest timestamp-first IBM benchmark package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-07T14:23:59Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T14:23:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-07T14:12:49.009945+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR for cmtrbj8hp0kgkqk0yqdfkbojr and cmtrbkj5k0crclm0yv4jrzvxd after two safe attempts; neither issued a releaseURL or public x.com URL.
-- `2026-09-07T14:10:56.569394+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR for cmtrbgr5k0kfoqk0yqxkn5jw4 and cmtrbhsjv0cqolm0ygt1oefr3 after two safe attempts; neither issued a releaseURL or public x.com URL.
-- `2026-09-07T14:08:53.229176+00:00` **produce / succeeded** — Produced the two newest timestamp-first benchmark items with inspected image-model visuals and exact-logo compositing.
-- `2026-09-07T14:05:56Z` **queue / succeeded** — Prepared 27 one-to-one production candidate(s).
