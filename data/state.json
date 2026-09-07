@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T11:14:17.116659+00:00",
+  "updatedAt": "2026-09-07T11:33:18.490581+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8160,6 +8160,74 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096922021468766260",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096922021468766260",
+      "postedAt": "Mon Sep 07 11:22:23 +0000 2026",
+      "text": "JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/5EhpMGI2Or",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnDdiraAAACu76.jpg",
+        "https://pbs.twimg.com/media/HRnDdiuaYAAX7hh.jpg"
+      ],
+      "engagement": {
+        "likes": 16,
+        "replies": 6,
+        "reposts": 5,
+        "quotes": 1,
+        "views": 10480
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T11:25:51Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnDdiraAAACu76.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096922021468766260-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnDdiuaYAAX7hh.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096922021468766260-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096920838301782244",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096920838301782244",
+      "postedAt": "Mon Sep 07 11:17:41 +0000 2026",
+      "text": "JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is followed by Vlad himself. https://t.co/PjRkmjSW0E",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnCYrUWIAAbo9f.jpg",
+        "https://pbs.twimg.com/media/HRnCYrQWEAAjp_4.jpg"
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 25,
+        "reposts": 9,
+        "quotes": 5,
+        "views": 14158
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T11:25:51Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnCYrUWIAAbo9f.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096920838301782244-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnCYrQWEAAjp_4.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096920838301782244-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -13064,6 +13132,44 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096922021468766260",
+      "rank": 1,
+      "title": "JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​…",
+      "benchmarkPostId": "2096922021468766260",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096922021468766260",
+      "score": 11350,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T11:25:52Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096920838301782244",
+      "rank": 2,
+      "title": "JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is f…",
+      "benchmarkPostId": "2096920838301782244",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096920838301782244",
+      "score": 16648,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T11:25:52Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -17207,7 +17313,7 @@
       "benchmarkPostId": "2096679920785125677",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096679920785125677",
       "title": "Apple gains more than 10x in a decade",
-      "status": "ready",
+      "status": "failed",
       "postText": "$AAPL stock is up more than 10x over the last decade.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Apple $AAPL stock is up by more than 10x over the last decade."
@@ -17223,7 +17329,8 @@
         "prompt": "Square image-model visual: sleek smartphone and upward decade-long chart, exact headline Apple $AAPL / 10X+ in a Decade; premium black financial-news styling, white type, controlled green performance accent, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      }
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     },
     {
       "id": "pkg-20260907-nvidia-decade-gain",
@@ -17639,6 +17746,52 @@
         "qaStatus": "passed"
       },
       "deliveryError": "Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL."
+    },
+    {
+      "id": "pkg-20260907-china-qatar-cooperation",
+      "benchmarkPostId": "2096922021468766260",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096922021468766260",
+      "title": "China and Qatar deepen energy, investment and AI cooperation",
+      "status": "failed",
+      "postText": "China and Qatar are deepening cooperation across energy, investment and AI.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "China and Qatar plan to deepen cooperation.",
+        "The cooperation spans energy, investment and artificial intelligence."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096922021468766260"
+      ],
+      "imagePath": "deliverables/pkg-20260907-china-qatar-cooperation/when2buy-image-model.png",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Create a premium square, entity-led financial-news visual showing China and Qatar deepening energy, investment, and AI cooperation: cinematic LNG terminal, data-center architecture, diplomatic partnership motif, near-black ground, white highlights, restrained red accents, no words or source attribution; exact repository logo composited once at bottom-right after generation.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL; a safe retry did not produce PUBLISHED or a public x.com URL."
+    },
+    {
+      "id": "pkg-20260907-robinhood-capital-cat",
+      "benchmarkPostId": "2096920838301782244",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096920838301782244",
+      "title": "Robinhood CEO names Capital beside Cashcat",
+      "status": "failed",
+      "postText": "Robinhood CEO Vlad Tenev named the cat beside Cashcat \"Capital.\"\n\nThe developer is followed by Vlad himself.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Robinhood CEO Vlad Tenev named the cat beside Cashcat Capital.",
+        "The developer is followed by Vlad Tenev."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096920838301782244"
+      ],
+      "imagePath": "deliverables/pkg-20260907-robinhood-capital-cat/when2buy-image-model.png",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Create a premium square, entity-led fintech culture visual: a polished black-and-white cat as hero in a sophisticated nighttime trading workspace with subtle market-terminal glow, near-black base, white highlights, restrained red accents, no words or source attribution; exact repository logo composited once at bottom-right after generation.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     }
   ],
   "posts": [
@@ -33974,6 +34127,64 @@
       "completedAt": "2026-09-07T11:13:26.239077+00:00",
       "summary": "Terminal Postiz delivery error for pkg-20260907-btc-kalshi-85000; no public X URL.",
       "reason": "Postiz safe retry exhausted: the intended @_When2buy integration returned no PUBLISHED state with a public x.com release URL."
+    },
+    {
+      "id": "run-20260907T112551Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T11:25:51Z",
+      "completedAt": "2026-09-07T11:25:51Z",
+      "summary": "Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T112552Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T11:25:52Z",
+      "completedAt": "2026-09-07T11:25:52Z",
+      "summary": "Prepared 25 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T112842Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T11:28:42Z",
+      "completedAt": "2026-09-07T11:28:42Z",
+      "summary": "Prepared 24 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T113052Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T11:30:52.817830+00:00",
+      "completedAt": "2026-09-07T11:30:52.817830+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL; a safe retry did not produce PUBLISHED or a public x.com URL."
+    },
+    {
+      "id": "run-20260907T113318Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T11:33:18.394006+00:00",
+      "completedAt": "2026-09-07T11:33:18.394006+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T113318Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T11:33:18.489743+00:00",
+      "completedAt": "2026-09-07T11:33:18.489743+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     }
   ]
 }

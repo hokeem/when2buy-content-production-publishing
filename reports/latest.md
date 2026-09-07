@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T11:14:17.116659+00:00`
+- 状态更新：`2026-09-07T11:33:18.490581+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**299**
-- 待选选题：**258**
-- 待发布制作包：**83**
+- 对标帖子快照：**301**
+- 待选选题：**260**
+- 待发布制作包：**82**
 - 已验证发布：**127**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 11:17:41 +0000 2026 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is followed by Vlad himself. https://t.co/PjRkmjSW0E | [X](https://x.com/WhaleInsider/status/2096920838301782244) |
+| @WhaleInsider | Mon Sep 07 11:22:23 +0000 2026 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/5EhpMGI2Or | [X](https://x.com/WhaleInsider/status/2096922021468766260) |
 | @WhaleInsider | Mon Sep 07 09:40:31 +0000 2026 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. https://t.co/Gx5xy4c7cY | [X](https://x.com/WhaleInsider/status/2096896385584935155) |
 | @StockMKTNewz | Sat Sep 05 11:24:09 +0000 2026 | This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo | [X](https://x.com/StockMKTNewz/status/2096197691311059281) |
 | @StockMKTNewz | Sat Sep 05 11:28:28 +0000 2026 | The 🇺🇸 National Debt currently sits at  $40,117,045,127,072.57 https://t.co/pbHZQhQaqd | [X](https://x.com/StockMKTNewz/status/2096198775584804970) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Sun Sep 06 07:53:04 +0000 2026 | JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock accounts powered by ERC-6551. https://t.co/nMQu3Kl3Kq | [X](https://x.com/WhaleInsider/status/2096506955866976379) |
 | @WhaleInsider | Sun Sep 06 08:49:00 +0000 2026 | JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000. https://t.co/fwa9ay6BvS | [X](https://x.com/WhaleInsider/status/2096521032416768125) |
 | @WhaleInsider | Sun Sep 06 10:10:48 +0000 2026 | JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of approximately $17 billion in planned reinvestment purchases between August 14 and September 14. https://t.co/EnJlBgwTuL | [X](https://x.com/WhaleInsider/status/2096541618522161474) |
-| @StockMKTNewz | Sun Sep 06 11:03:46 +0000 2026 | Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does from people trading stocks https://t.co/MxxglThpcJ | [X](https://x.com/StockMKTNewz/status/2096554949349875958) |
-| @StockMKTNewz | Sun Sep 06 11:29:09 +0000 2026 | Jaguar Land Rover said the company is set to cut ~4,000 jobs over the next 2 years - Bloomberg https://t.co/N6mQ1S3QH7 | [X](https://x.com/StockMKTNewz/status/2096561335450448219) |
 
 ## 选题推荐
 
@@ -62,6 +62,7 @@
 | 1 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest… | WhaleInsider | 17104 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in… | WhaleInsider | 17784 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. … | WhaleInsider | 13501 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​… | WhaleInsider | 11350 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -74,6 +75,7 @@
 | 2 | JUST IN: Robinhood Chain $HOOD leads in weekly fees. Over the past 7 days, the chain generat… | WhaleInsider | 16784 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” https://t.co/VQ3V6CM1CJ | StockMKTNewz | 88661 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Nike $NKE was added to the S&amp;P 100 in December 2008 Nike is being removed from the S&amp… | StockMKTNewz | 260042 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is f… | WhaleInsider | 16648 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1709,7 +1711,7 @@ Market radar: @StockMKTNewz reports: This is my 2nd largest ETF holding ... What
 
 ### Apple gains more than 10x in a decade
 
-- 状态：`ready`
+- 状态：`failed`
 - 配图：`deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png`
 
 $AAPL stock is up more than 10x over the last decade.  When2Buy — your U.S. stock partner.
@@ -1839,6 +1841,20 @@ U.S. national debt currently stands at $40,117,045,127,072.57.  When2Buy — you
 - 配图：`deliverables/pkg-20260907-massachusetts-record-home-sale/when2buy-image-model.png`
 
 Massachusetts just saw its most expensive home sale on record.  When2Buy — your U.S. stock partner.
+
+### China and Qatar deepen energy, investment and AI cooperation
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-china-qatar-cooperation/when2buy-image-model.png`
+
+China and Qatar are deepening cooperation across energy, investment and AI.  When2Buy — your U.S. stock partner.
+
+### Robinhood CEO names Capital beside Cashcat
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-robinhood-capital-cat/when2buy-image-model.png`
+
+Robinhood CEO Vlad Tenev named the cat beside Cashcat "Capital."  The developer is followed by Vlad himself.  When2Buy — your U.S. stock partner.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -1975,6 +1991,12 @@ Massachusetts just saw its most expensive home sale on record.  When2Buy — you
 
 ## 最近运行
 
+- `2026-09-07T11:33:18.489743+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T11:33:18.394006+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T11:30:52.817830+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL; a safe retry did not produce PUBLISHED or a public x.com URL.
+- `2026-09-07T11:28:42Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
+- `2026-09-07T11:25:52Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
+- `2026-09-07T11:25:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).
 - `2026-09-07T11:13:26.239077+00:00` **publish / partial** — Terminal Postiz delivery error for pkg-20260907-btc-kalshi-85000; no public X URL. Postiz safe retry exhausted: the intended @_When2buy integration returned no PUBLISHED state with a public x.com release URL.
 - `2026-09-07T11:06:09Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T11:06:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 0 new post(s).
@@ -1989,9 +2011,3 @@ Massachusetts just saw its most expensive home sale on record.  When2Buy — you
 - `2026-09-07T10:45:45Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T10:39:32Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
 - `2026-09-07T10:39:32.493497+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
-- `2026-09-07T10:39:32.356512+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
-- `2026-09-07T10:39:32.211903+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
-- `2026-09-07T10:39:32.088123+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
-- `2026-09-07T10:35:19Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T10:34:29.522891+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
-- `2026-09-07T10:34:29.369939+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery failed twice: final retry state ERROR with no releaseId and no public x.com URL.
