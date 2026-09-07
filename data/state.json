@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T16:09:53.543336+00:00",
+  "updatedAt": "2026-09-07T16:27:21.303005+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -55236,12 +55236,51 @@
       "completedAt": "2026-09-07T16:09:53Z",
       "summary": "Prepared 32 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260907T162608Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T16:26:08Z",
+      "completedAt": "2026-09-07T16:26:08Z",
+      "summary": "Apify scanned both benchmark accounts; captured 42 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T162608Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T16:26:08Z",
+      "completedAt": "2026-09-07T16:26:08Z",
+      "summary": "Prepared 32 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T162621Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T16:26:21Z",
+      "completedAt": "2026-09-07T16:26:21Z",
+      "summary": "No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest gasoline package remains ready.",
+      "reason": "Postiz query at 2026-09-07T16:26:21Z found X delivery cmtreano20dp3lm0y93qswru7 in ERROR state with releaseURL null; no accepted task was retried. Circuit breaker active until 2026-09-07T17:26:21Z.",
+      "circuitBreaker": {
+        "active": true,
+        "triggeredAt": "2026-09-07T16:26:21Z",
+        "expiresAt": "2026-09-07T17:26:21Z",
+        "postizPostId": "cmtreano20dp3lm0y93qswru7",
+        "deliveryState": "ERROR",
+        "releaseURL": null
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "startedAt": "2026-09-07T15:28:00Z",
-    "expiresAt": "2026-09-07T16:29:08Z",
-    "reason": "Postiz X delivery ERROR for cmtreano20dp3lm0y93qswru7; no public x.com release URL."
+    "startedAt": "2026-09-07T16:26:21Z",
+    "expiresAt": "2026-09-07T17:26:21Z",
+    "reason": "Postiz query found X delivery cmtreano20dp3lm0y93qswru7 in ERROR state with no public x.com release URL; no accepted task was retried."
   }
 }

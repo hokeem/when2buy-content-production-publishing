@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T16:09:53.543336+00:00`
+- 状态更新：`2026-09-07T16:27:21.303005+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**328**
 - 待选选题：**286**
@@ -2183,6 +2183,9 @@ U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  T
 
 ## 最近运行
 
+- `2026-09-07T16:26:21Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest gasoline package remains ready. Postiz query at 2026-09-07T16:26:21Z found X delivery cmtreano20dp3lm0y93qswru7 in ERROR state with releaseURL null; no accepted task was retried. Circuit breaker active until 2026-09-07T17:26:21Z.
+- `2026-09-07T16:26:08Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
+- `2026-09-07T16:26:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 0 new post(s).
 - `2026-09-07T16:09:53Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
 - `2026-09-07T16:09:26.790487Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker remains active; the newest gasoline package remains ready. Postiz query at 2026-09-07T16:09:01Z returned no X deliveries in its supplied window, but the accepted X delivery cmtreano20dp3lm0y93qswru7 was previously observed ERROR at 2026-09-07T15:28:00Z with releaseURL null. The recorded 60-minute breaker remains active until 2026-09-07T16:28:00Z; do not submit or retry an accepted task.
 - `2026-09-07T16:08:45.620732Z` **produce / succeeded** — Produced the newest eligible U.S. gasoline Labor Day-record package with a regenerated image-model visual and exact-logo compositing.
@@ -2200,6 +2203,3 @@ U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  T
 - `2026-09-07T15:26:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 3 new post(s).
 - `2026-09-07T15:10:43.372394+00:00` **publish / partial** — Publication attempt for pkg-20260907-caterpillar-cat-plus-42-ytd did not produce a verified public X URL; package remains ready and was not retried. Postiz publish command returned without a Postiz delivery record in the queried delivery window; no PUBLISHED state or public x.com URL was available for verification.
 - `2026-09-07T15:08:59Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T15:08:58.879839+00:00` **produce / succeeded** — Produced the two newest eligible benchmark packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-07T15:06:28Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T15:06:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
