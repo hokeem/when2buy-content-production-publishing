@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T17:09:01.263033+00:00`
+- 状态更新：`2026-09-07T17:32:05.949256+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**330**
-- 待选选题：**288**
+- 对标帖子快照：**331**
+- 待选选题：**289**
 - 待发布制作包：**91**
 - 已验证发布：**132**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 17:10:51 +0000 2026 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803  For anyone curious $15M in 2026 is enough to buy  - 19.8 shares of Berkshire Hathaway $BRK.A stock - 8,620 shares of Sandisk $SNDK  - 14,763 shares of Micron $MU  - 19,480 shares of the S&P 500 ETF $SPY  - 20,862 shares of the Nasdaq 100 ETF $QQQ  - 24,320 shares of Meta Platforms $META  - 30,000 shares of Microsoft $MSFT  - 42,372 shares of Tesla $TSLA - 44,776 shares of Google $GOOGL  - 46,875 shares of Apple $AAPL  - 58,027 shares of Amazon $AMZN  - 65,217 shares of Nvidia $NVDA  - 101,351 shares of SpaceX $SPCX  - 191,693 shares of Netflix $NFLX | [X](https://x.com/StockMKTNewz/status/2097009717994242070) |
 | @WhaleInsider | Mon Sep 07 16:46:28 +0000 2026 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchain terminals. https://t.co/hvMoTq7YNp | [X](https://x.com/WhaleInsider/status/2097003578648940977) |
 | @StockMKTNewz | Mon Sep 07 16:34:12 +0000 2026 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 years https://t.co/ywRfw6fRhZ | [X](https://x.com/StockMKTNewz/status/2097000494098972748) |
 | @StockMKTNewz | Mon Sep 07 15:56:39 +0000 2026 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, according to AAA  On Monday, the national average price at the pump was $4.15, a record high for the holiday - CNBC https://t.co/EMkLKcLUqX | [X](https://x.com/StockMKTNewz/status/2096991041987531044) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 11:59:01 +0000 2026 | Sandisk $SNDK is also currently the best performing stock in the S&amp;P 500 so far in 2026 | [X](https://x.com/StockMKTNewz/status/2096931241597567248) |
 | @StockMKTNewz | Mon Sep 07 11:29:21 +0000 2026 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 2026  (Trade Desk stock is being removed from the S&amp;P 500 later this month) https://t.co/k4QNpi5z3u | [X](https://x.com/StockMKTNewz/status/2096923774364844127) |
 | @StockMKTNewz | Mon Sep 07 11:40:28 +0000 2026 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026  💩 Applovin: -52%🔴 https://t.co/aFQEEt4V64 | [X](https://x.com/StockMKTNewz/status/2096926573056151788) |
-| @WhaleInsider | Mon Sep 07 11:17:41 +0000 2026 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is followed by Vlad himself. https://t.co/PjRkmjSW0E | [X](https://x.com/WhaleInsider/status/2096920838301782244) |
 
 ## 选题推荐
 
@@ -79,6 +79,7 @@
 | 1 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, acc… | StockMKTNewz | 8752 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 y… | StockMKTNewz | 10594 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchai… | WhaleInsider | 21325 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803 For anyone curious … | StockMKTNewz | 11718 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2052,6 +2053,13 @@ U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  T
 
 Onchain terminals processed $6.35B in trading volume this week.  It was the biggest week since the $TRUMP trading surge.  When2Buy — your U.S. stock partner.
 
+### Louisiana Purchase and modern market purchasing power
+
+- 状态：`blocked`
+- 配图：`deliverables/pkg-20260907-louisiana-purchase-market-value/when2buy-image-model.png`
+
+The U.S. bought the Louisiana territory from France for $15M in 1803.  At current prices, $15M buys 19.8 Berkshire Hathaway Class A shares.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2060,13 +2068,13 @@ Onchain terminals processed $6.35B in trading volume this week.  It was the bigg
 | JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 198 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
 | When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 127 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
 | McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
-| JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 101 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
+| JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 102 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 89 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
-| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 71 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
+| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 76 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
-| September market calendar | 2026-09-07T08:33:00.000Z | 53 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
+| September market calendar | 2026-09-07T08:33:00.000Z | 54 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
 | Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834296762011792) |
@@ -2081,7 +2089,7 @@ Onchain terminals processed $6.35B in trading volume this week.  It was the bigg
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” | 2026-09-07T00:42:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761201938375037) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
-| CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
+| CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
@@ -2099,9 +2107,9 @@ Onchain terminals processed $6.35B in trading volume this week.  It was the bigg
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | U.S. Bitcoin ETFs see $986.8M weekly inflow | 2026-09-07T07:12:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859345426468895) |
+| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
-| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
@@ -2134,6 +2142,7 @@ Onchain terminals processed $6.35B in trading volume this week.  It was the bigg
 | .hood names bring ERC-6551 stock accounts | 2026-09-07T06:35:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849878433624359) |
 | S&P 500 membership changes over a decade | 2026-09-07T07:13:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859560149647529) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
+| Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline prices - CNBC. | 2026-09-06T06:43:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489538550137245) |
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | September ends | 2026-09-07T06:54:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854732249952423) |
@@ -2146,7 +2155,6 @@ Onchain terminals processed $6.35B in trading volume this week.  It was the bigg
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Data centers and state approvals | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
-| Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
@@ -2192,6 +2200,15 @@ Onchain terminals processed $6.35B in trading volume this week.  It was the bigg
 
 ## 最近运行
 
+- `2026-09-07T17:32:05Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
+- `2026-09-07T17:31:31Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, metrics collection, and one newest-package Postiz probe completed; no public X release was verified. Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public release URL; accepted task was not retried.
+- `2026-09-07T17:29:59Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
+- `2026-09-07T17:29:59.112889+00:00` **produce / succeeded** — Produced the newest timestamp-first benchmark item with an inspected image-model visual and exact-logo compositing.
+- `2026-09-07T17:27:17Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
+- `2026-09-07T17:27:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 0 new post(s).
+- `2026-09-07T17:26:44Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
+- `2026-09-07T17:26:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 1 new post(s).
+- `2026-09-07T17:25:35Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T17:10:00Z` **full / partial** — Apify benchmark collection, media archive, timestamp-first queue rebuild, and one newest image-model package completed; no X submission was made. Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.
 - `2026-09-07T17:08:42Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T17:06:21Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
@@ -2203,12 +2220,3 @@ Onchain terminals processed $6.35B in trading volume this week.  It was the bigg
 - `2026-09-07T16:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 69 eligible originals and added 1 new post(s).
 - `2026-09-07T16:26:21Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest gasoline package remains ready. Postiz query at 2026-09-07T16:26:21Z found X delivery cmtreano20dp3lm0y93qswru7 in ERROR state with releaseURL null; no accepted task was retried. Circuit breaker active until 2026-09-07T17:26:21Z.
 - `2026-09-07T16:26:08Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
-- `2026-09-07T16:26:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 0 new post(s).
-- `2026-09-07T16:09:53Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
-- `2026-09-07T16:09:26.790487Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker remains active; the newest gasoline package remains ready. Postiz query at 2026-09-07T16:09:01Z returned no X deliveries in its supplied window, but the accepted X delivery cmtreano20dp3lm0y93qswru7 was previously observed ERROR at 2026-09-07T15:28:00Z with releaseURL null. The recorded 60-minute breaker remains active until 2026-09-07T16:28:00Z; do not submit or retry an accepted task.
-- `2026-09-07T16:08:45.620732Z` **produce / succeeded** — Produced the newest eligible U.S. gasoline Labor Day-record package with a regenerated image-model visual and exact-logo compositing.
-- `2026-09-07T16:06:05Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
-- `2026-09-07T16:06:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-07T15:49:32.481616Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest copper package remains ready. Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z with releaseURL null (also cmtrdmc820l71qk0yd6ofp0pl ERROR at 2026-09-07T15:09:00Z); do not submit or retry an accepted task before 2026-09-07T16:28:00Z.
-- `2026-09-07T15:48:52.129261Z` **produce / succeeded** — Produced the newest eligible copper-record package with a new image-model visual and exact-logo compositing.
-- `2026-09-07T15:47:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 71 eligible originals and added 0 new post(s).
