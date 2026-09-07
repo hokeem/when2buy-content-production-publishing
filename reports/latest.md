@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T15:29:08.998073+00:00`
+- 状态更新：`2026-09-07T15:49:32.482405+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**325**
-- 待选选题：**284**
-- 待发布制作包：**88**
+- 对标帖子快照：**327**
+- 待选选题：**285**
+- 待发布制作包：**89**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 15:32:15 +0000 2026 | JUST IN: @MetaWin player turns $6 into $16,733.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies for their $1M airdrop this month. https://t.co/C5RYIOaoLg | [X](https://x.com/WhaleInsider/status/2096984904089125105) |
+| @WhaleInsider | Mon Sep 07 15:38:51 +0000 2026 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of potential U.S. tariffs on refined copper imports. https://t.co/5itwt8BTfp | [X](https://x.com/WhaleInsider/status/2096986563792027845) |
 | @WhaleInsider | Mon Sep 07 15:06:50 +0000 2026 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | [X](https://x.com/WhaleInsider/status/2096978507339354540) |
 | @StockMKTNewz | Mon Sep 07 15:12:46 +0000 2026 | The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V | [X](https://x.com/StockMKTNewz/status/2096979998687023461) |
 | @WhaleInsider | Mon Sep 07 15:17:09 +0000 2026 | JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Partner Directory. https://t.co/BkbUhbnb4u | [X](https://x.com/WhaleInsider/status/2096981101445001600) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Mon Sep 07 11:22:23 +0000 2026 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/5EhpMGI2Or | [X](https://x.com/WhaleInsider/status/2096922021468766260) |
 | @WhaleInsider | Mon Sep 07 09:40:31 +0000 2026 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. https://t.co/Gx5xy4c7cY | [X](https://x.com/WhaleInsider/status/2096896385584935155) |
 | @StockMKTNewz | Sat Sep 05 11:24:09 +0000 2026 | This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo | [X](https://x.com/StockMKTNewz/status/2096197691311059281) |
-| @StockMKTNewz | Sat Sep 05 11:28:28 +0000 2026 | The 🇺🇸 National Debt currently sits at  $40,117,045,127,072.57 https://t.co/pbHZQhQaqd | [X](https://x.com/StockMKTNewz/status/2096198775584804970) |
-| @StockMKTNewz | Sat Sep 05 12:31:58 +0000 2026 | Trade Desk $TTD stock was trading around $80 when it was added to the S&amp;P 500 in July 2025  Today Trade Desk stock is trading at $14 https://t.co/JCXEA2mXQ7 | [X](https://x.com/StockMKTNewz/status/2096214755518071240) |
 
 ## 选题推荐
 
@@ -75,6 +75,7 @@
 | 1 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | StockMKTNewz | 4097 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026… | StockMKTNewz | 7038 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Pa… | WhaleInsider | 16496 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of p… | WhaleInsider | 14920 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2027,6 +2028,13 @@ Hanwha Investment & Securities has built a tokenized-securities platform on Aval
 
 DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  When2Buy — your U.S. stock partner.
 
+### Copper hits a record $14,533 a ton
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-copper-record-14533-ton/when2buy-image-model.png`
+
+Copper hit a record $14,533 a ton on the London Metal Exchange.  Potential U.S. tariffs on refined copper imports are stoking the move.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2035,12 +2043,12 @@ DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  W
 | JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 197 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
 | When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 127 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
 | McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
-| JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 99 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
+| JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 101 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 89 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
-| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 59 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
+| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 69 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | September market calendar | 2026-09-07T08:33:00.000Z | 53 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879654707835204) |
 | Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879509362610198) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
@@ -2060,13 +2068,13 @@ DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  W
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
+| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
-| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
@@ -2121,9 +2129,9 @@ DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  W
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Data centers and state approvals | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
+| Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
-| Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2094648465645265080) |
@@ -2167,6 +2175,12 @@ DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  W
 
 ## 最近运行
 
+- `2026-09-07T15:49:32.481616Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest copper package remains ready. Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z with releaseURL null (also cmtrdmc820l71qk0yd6ofp0pl ERROR at 2026-09-07T15:09:00Z); do not submit or retry an accepted task before 2026-09-07T16:28:00Z.
+- `2026-09-07T15:48:52.129261Z` **produce / succeeded** — Produced the newest eligible copper-record package with a new image-model visual and exact-logo compositing.
+- `2026-09-07T15:47:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 71 eligible originals and added 0 new post(s).
+- `2026-09-07T15:46:51Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T15:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 71 eligible originals and added 2 new post(s).
+- `2026-09-07T15:45:35Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T15:29:08.996847+00:00` **publish / partial** — One throttled Postiz submission for pkg-20260907-datahedge-intel-partner returned ERROR without a verified public X URL; circuit breaker activated and no further post was submitted. Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z; releaseURL was null. Circuit breaker active for 60 minutes; accepted task will not be retried.
 - `2026-09-07T15:27:50Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T15:26:18Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
@@ -2181,9 +2195,3 @@ DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  W
 - `2026-09-07T14:46:47Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T14:46:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T14:46:27Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T14:46:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).
-- `2026-09-07T14:29:54Z` **full / partial** — Apify benchmark collection, media archival, timestamp-first queue rebuild, and Merck package production completed; publishing was withheld by the X delivery circuit breaker. Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed delivery at 2026-09-07T14:11:00Z); no submission attempted and newest package remains ready.
-- `2026-09-07T14:29:33Z` **queue / succeeded** — Prepared 29 one-to-one production candidate(s).
-- `2026-09-07T14:29:17Z` **produce / succeeded** — Produced the newest timestamp-first Merck benchmark package with verified financial context, original image-model visual, exact-logo compositing, and QA metadata.
-- `2026-09-07T14:27:30Z` **queue / succeeded** — Prepared 29 one-to-one production candidate(s).
-- `2026-09-07T14:27:30Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
