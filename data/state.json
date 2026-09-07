@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T06:18:16.534253+00:00",
+  "updatedAt": "2026-09-07T06:36:13.979172+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16418,94 +16418,126 @@
       "publishedAt": "2026-09-07T06:17:00.000Z"
     },
     {
-      "id": "pkg-20260906-robinhood-hood-now-makes-more-money-from-trading-75958",
+      "id": "pkg-20260907-robinhood-prediction-market-revenue",
       "benchmarkPostId": "2096554949349875958",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096554949349875958",
-      "title": "Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does fr",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Robinhood $HOOD now makes more money from trading Prediction Markets o\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Robinhood prediction markets overtake stock trading",
+      "status": "published",
+      "postText": "Robinhood $HOOD now makes more from prediction-market trading than from stock trading on its platform.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does from people trading stocks"
+        "Robinhood $HOOD's prediction-market trading revenue is higher than stock-trading revenue on its platform."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096554949349875958"
       ],
-      "imagePath": "deliverables/pkg-20260906-robinhood-hood-now-makes-more-money-from-trading-75958/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T12:41:09.460103+00:00"
+      "imagePath": "deliverables/pkg-20260907-robinhood-prediction-market-revenue/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:33:18.381310+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: square X financial-news visual. Primary request: Create a complete, entity-led, premium financial-news editorial image about Robinhood $HOOD where prediction-market trading revenue has overtaken stock-trading revenue. Scene/backdrop: a dark high-end trading command center with a glowing Robinhood-style green-and-black market interface, a prediction-market probability chart visibly higher than a stock-trading chart, abstract transaction flows; no people. Style/medium: cinematic photorealistic 3D editorial illustration, near-black background, bold white condensed sans-serif typography, controlled red accent only for urgency. Composition: 1:1 square, dominant visual entity and data display in center-left; reserve clean empty near-black logo-safe area in the bottom-right corner. Text (verbatim): \"HOOD PREDICTION MARKETS\" and \"NOW TOP STOCK TRADING\". Constraints: accurate spelling, readable short text only, no source handle, no source URL, no disclaimer, no advice, no attribution, no CTA, no logo, no watermark. Avoid: pure typography card, generic abstract background, misspellings, extra words.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqv79p50ezgqk0ydypz57nx",
+      "publishedAt": "2026-09-07T06:33:00.000Z"
     },
     {
-      "id": "pkg-20260906-just-in-the-fed-plans-to-purchase-up-to-2-122-bi-61474",
+      "id": "pkg-20260907-fed-treasury-bill-purchases",
       "benchmarkPostId": "2096541618522161474",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096541618522161474",
-      "title": "JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of appr",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "Fed plans up to $2.122B in Treasury-bill purchases",
+      "status": "published",
+      "postText": "The Fed plans to buy up to $2.122B in Treasury bills next week, part of roughly $17B in reinvestment purchases from Aug. 14 to Sept. 14.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of approximately $17 billion in planned reinvestment purchases between August 14 and September 14."
+        "The Fed plans to purchase up to $2.122 billion in Treasury bills next week.",
+        "The purchase is part of approximately $17 billion in planned reinvestment purchases from August 14 through September 14."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096541618522161474"
       ],
-      "imagePath": "deliverables/pkg-20260906-just-in-the-fed-plans-to-purchase-up-to-2-122-bi-61474/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T12:41:09.590573+00:00"
+      "imagePath": "deliverables/pkg-20260907-fed-treasury-bill-purchases/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:33:18.381432+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: square X financial-news visual. Primary request: create a complete entity-led editorial image about the U.S. Federal Reserve planning to buy up to $2.122 billion in Treasury bills next week, within approximately $17 billion of reinvestment purchases from August 14 to September 14. Scene: dramatic Federal Reserve building at night merged with crisp Treasury-bill certificates and an institutional purchase order display. Premium cinematic financial-news style: near-black base, white typography, controlled red accents. 1:1 square. Center the building and Treasury documents; leave clean near-black empty logo-safe area bottom right. Text verbatim: \"FED TREASURY BILL BUYING\" and \"$2.122B NEXT WEEK\". Constraints: concise readable text, exact number, no attribution, no source handles/URLs, no disclaimer, no advice, no CTA, no logo, no watermark. Avoid pure text card, generic art, misspellings, extraneous numbers.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqv7xhv07pelm0ywsobwkik",
+      "publishedAt": "2026-09-07T06:34:00.000Z"
     },
     {
-      "id": "pkg-20260906-just-in-the-number-of-401-k-millionaires-has-sur-68125",
+      "id": "pkg-20260907-401k-millionaires-record",
       "benchmarkPostId": "2096521032416768125",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096521032416768125",
-      "title": "JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000.",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "401(k) millionaires reach 769,000",
+      "status": "published",
+      "postText": "The number of 401(k) millionaires has reached a record 769,000.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000."
+        "The number of 401(k) millionaires reached an all-time high of 769,000."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096521032416768125"
       ],
-      "imagePath": "deliverables/pkg-20260906-just-in-the-number-of-401-k-millionaires-has-sur-68125/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T12:41:09.722785+00:00"
+      "imagePath": "deliverables/pkg-20260907-401k-millionaires-record/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:33:18.381495+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: square X financial-news visual. Primary request: create a complete entity-led premium financial-news visual about the number of U.S. 401(k) millionaires reaching a record 769,000. Scene: elegant retirement savings statement and a sophisticated investor silhouette viewing a wealth dashboard with a rising line, physical million-dollar account document; not a generic abstract chart. Style: cinematic editorial, black and near-black base, bold white type, controlled green growth accent and subtle red accent. 1:1 square, visual entity central; reserve a clean empty near-black logo-safe area in bottom-right. Text verbatim: \"401(k) MILLIONAIRES\" and \"769,000 RECORD HIGH\". Constraints: exact spelling and number; no source handles, source URLs, attribution, disclaimer, advice, CTA, logo, or watermark. Avoid pure typography card, generic image, clutter, extra text.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqv8jee07pglm0y03uao9aa",
+      "publishedAt": "2026-09-07T06:34:00.000Z"
     },
     {
-      "id": "pkg-20260906-just-in-hooddomains-hd-is-building-the-ens-of-ro-76379",
+      "id": "pkg-20260907-hood-names-erc6551",
       "benchmarkPostId": "2096506955866976379",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096506955866976379",
-      "title": "JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock a",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .ho\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": ".hood names bring ERC-6551 stock accounts",
+      "status": "published",
+      "postText": ".hood names are being built for Robinhood Chain, with seedless stock accounts powered by ERC-6551.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock accounts powered by ERC-6551."
+        ".hood names are being built as an ENS-like service for Robinhood Chain.",
+        "The names use seedless stock accounts powered by ERC-6551."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096506955866976379"
       ],
-      "imagePath": "deliverables/pkg-20260906-just-in-hooddomains-hd-is-building-the-ens-of-ro-76379/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T12:41:09.846993+00:00"
+      "imagePath": "deliverables/pkg-20260907-hood-names-erc6551/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:33:18.381551+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: square X financial-news visual. Primary request: create a complete entity-led premium financial-news visual about .hood names, an Ethereum-style naming service for Robinhood Chain, powered by ERC-6551 seedless stock accounts. Scene: a sleek dark blockchain infrastructure display: a glowing \".hood\" domain tag, secure wallet/account nodes, a stylized Ethereum smart-contract chip and stock-account connection; no people. Style: cinematic tech-finance editorial, near-black background, bold white typography and controlled red accents. 1:1 square, object-led scene across center; reserve clean empty near-black bottom-right logo-safe area. Text verbatim: \".HOOD NAMES\" and \"ERC-6551 STOCK ACCOUNTS\". Constraints: clear spelling including the dot in .hood and hyphen in ERC-6551; no source handle/URL, attribution, disclaimer, advice, CTA, logo or watermark. Avoid pure typography card, generic crypto coins, clutter and extra text.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqv98ly07pllm0y9a38wo9g",
+      "publishedAt": "2026-09-07T06:35:00.000Z"
     },
     {
-      "id": "pkg-20260906-just-in-robinhood-chain-hood-assets-are-closing--16162",
+      "id": "pkg-20260907-robinhood-chain-assets-2b",
       "benchmarkPostId": "2096492002141516162",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096492002141516162",
-      "title": "JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Ar",
-      "status": "ready",
-      "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD assets are closing in on a combined mar\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
+      "title": "Robinhood Chain assets near $2B",
+      "status": "published",
+      "postText": "Robinhood Chain $HOOD assets are closing in on a combined market cap of $2B.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @WhaleInsider",
-        "JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Arbdata."
+        "Robinhood Chain $HOOD assets are nearing a combined market capitalization of $2 billion."
       ],
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2096492002141516162"
       ],
-      "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-assets-are-closing--16162/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T12:41:09.963033+00:00"
+      "imagePath": "deliverables/pkg-20260907-robinhood-chain-assets-2b/when2buy-image-model.png",
+      "createdAt": "2026-09-07T06:33:18.381607+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: square X financial-news visual. Primary request: create a complete entity-led premium financial-news editorial image about Robinhood Chain assets nearing a combined market capitalization of $2,000,000,000. Scene: futuristic institutional digital-asset exchange dashboard with a central asset vault, network rails, market-cap meter nearing two billion; recognizable finance infrastructure, not generic coins. Style: cinematic black and near-black premium finance news, white typography, controlled red accents. 1:1 square, visual-led center-left, reserve clean empty near-black logo-safe area bottom-right. Text verbatim: \"ROBINHOOD CHAIN ASSETS\" and \"NEAR $2 BILLION\". Constraints: exact number concept and spelling, no source handle, source URL, attribution, disclaimer, advice, CTA, logo, watermark, or extra text. Avoid pure typography card, vague radar motif, generic crypto coin pile, misspellings.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqv9um40f0nqk0ydmq6ggas",
+      "publishedAt": "2026-09-07T06:35:00.000Z"
     },
     {
       "id": "pkg-20260907-robinhood-chain-friday-fees",
@@ -18493,6 +18525,91 @@
         "status": "active",
         "windowStart": "2026-09-07T06:17:00.000Z",
         "windowEnd": "2026-09-10T06:17:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096849491324551540",
+      "packageId": "pkg-20260907-robinhood-prediction-market-revenue",
+      "title": "Robinhood prediction markets overtake stock trading",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:33:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096849491324551540",
+      "postizPostId": "cmtqv79p50ezgqk0ydypz57nx",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:33:00.000Z",
+        "windowEnd": "2026-09-10T06:33:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096849615861793099",
+      "packageId": "pkg-20260907-fed-treasury-bill-purchases",
+      "title": "Fed plans up to $2.122B in Treasury-bill purchases",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:34:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096849615861793099",
+      "postizPostId": "cmtqv7xhv07pelm0ywsobwkik",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:34:00.000Z",
+        "windowEnd": "2026-09-10T06:34:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096849736842232137",
+      "packageId": "pkg-20260907-401k-millionaires-record",
+      "title": "401(k) millionaires reach 769,000",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:34:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096849736842232137",
+      "postizPostId": "cmtqv8jee07pglm0y03uao9aa",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:34:00.000Z",
+        "windowEnd": "2026-09-10T06:34:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096849878433624359",
+      "packageId": "pkg-20260907-hood-names-erc6551",
+      "title": ".hood names bring ERC-6551 stock accounts",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:35:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096849878433624359",
+      "postizPostId": "cmtqv98ly07pllm0y9a38wo9g",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:35:00.000Z",
+        "windowEnd": "2026-09-10T06:35:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096849998738788846",
+      "packageId": "pkg-20260907-robinhood-chain-assets-2b",
+      "title": "Robinhood Chain assets near $2B",
+      "status": "published",
+      "publishedAt": "2026-09-07T06:35:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096849998738788846",
+      "postizPostId": "cmtqv9um40f0nqk0ydmq6ggas",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T06:35:00.000Z",
+        "windowEnd": "2026-09-10T06:35:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -26923,6 +27040,82 @@
       "status": "succeeded",
       "startedAt": "2026-09-07T06:18:16.532905+00:00",
       "completedAt": "2026-09-07T06:18:16.532912+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T062609Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:26:09Z",
+      "completedAt": "2026-09-07T06:26:09Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T062609Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:26:09Z",
+      "completedAt": "2026-09-07T06:26:09Z",
+      "summary": "Prepared 59 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T063318Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:33:18.381677+00:00",
+      "completedAt": "2026-09-07T06:33:18.381681+00:00",
+      "summary": "Remade five current timestamp-first packages with entity-led image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T063414Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:34:14.792456+00:00",
+      "completedAt": "2026-09-07T06:34:14.792464+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T063443Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:34:43.157141+00:00",
+      "completedAt": "2026-09-07T06:34:43.157146+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T063511Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:35:11.645228+00:00",
+      "completedAt": "2026-09-07T06:35:11.645232+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T063544Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:35:44.348313+00:00",
+      "completedAt": "2026-09-07T06:35:44.348319+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T063613Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T06:36:13.975492+00:00",
+      "completedAt": "2026-09-07T06:36:13.975498+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

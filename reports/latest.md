@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T06:18:16.534253+00:00`
+- 状态更新：`2026-09-07T06:36:13.979172+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**292**
 - 待选选题：**251**
-- 待发布制作包：**118**
-- 已验证发布：**94**
+- 待发布制作包：**113**
+- 已验证发布：**99**
 
 ## 对标账号扫描
 
@@ -1630,40 +1630,40 @@ The U.S. stock market is closed Monday for Labor Day.  When2Buy — your U.S. st
 
 Jaguar Land Rover plans to cut about 4,000 jobs over the next two years.  When2Buy — your U.S. stock partner.
 
-### Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it does fr
+### Robinhood prediction markets overtake stock trading
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-robinhood-hood-now-makes-more-money-from-trading-75958/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-robinhood-prediction-market-revenue/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Robinhood $HOOD now makes more money from trading Prediction Markets o  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Robinhood $HOOD now makes more from prediction-market trading than from stock trading on its platform.  When2Buy — your U.S. stock partner.
 
-### JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part of appr
+### Fed plans up to $2.122B in Treasury-bill purchases
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-just-in-the-fed-plans-to-purchase-up-to-2-122-bi-61474/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-fed-treasury-bill-purchases/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+The Fed plans to buy up to $2.122B in Treasury bills next week, part of roughly $17B in reinvestment purchases from Aug. 14 to Sept. 14.  When2Buy — your U.S. stock partner.
 
-### JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000.
+### 401(k) millionaires reach 769,000
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-just-in-the-number-of-401-k-millionaires-has-sur-68125/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-401k-millionaires-record/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+The number of 401(k) millionaires has reached a record 769,000.  When2Buy — your U.S. stock partner.
 
-### JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless stock a
+### .hood names bring ERC-6551 stock accounts
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-just-in-hooddomains-hd-is-building-the-ens-of-ro-76379/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-hood-names-erc6551/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .ho  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+.hood names are being built for Robinhood Chain, with seedless stock accounts powered by ERC-6551.  When2Buy — your U.S. stock partner.
 
-### JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,000 - Ar
+### Robinhood Chain assets near $2B
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-just-in-robinhood-chain-hood-assets-are-closing--16162/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-robinhood-chain-assets-2b/when2buy-image-model.png`
 
-Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD assets are closing in on a combined mar  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
+Robinhood Chain $HOOD assets are closing in on a combined market cap of $2B.  When2Buy — your U.S. stock partner.
 
 ### Robinhood Chain tops $8M in Friday fees
 
@@ -1883,9 +1883,22 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845250576977938) |
 | U.S. market closed for Labor Day | 2026-09-07T06:17:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845367338041635) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096845481288851512) |
+| Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849491324551540) |
+| Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849615861793099) |
+| 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849736842232137) |
+| .hood names bring ERC-6551 stock accounts | 2026-09-07T06:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849878433624359) |
+| Robinhood Chain assets near $2B | 2026-09-07T06:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096849998738788846) |
 
 ## 最近运行
 
+- `2026-09-07T06:36:13.975492+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:35:44.348313+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:35:11.645228+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:34:43.157141+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:34:14.792456+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T06:33:18.381677+00:00` **produce / succeeded** — Remade five current timestamp-first packages with entity-led image-model visuals and exact-logo compositing.
+- `2026-09-07T06:26:09Z` **queue / succeeded** — Prepared 59 one-to-one production candidate(s).
+- `2026-09-07T06:26:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-07T06:18:16.532905+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:17:49.121549+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:17:21.202007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1898,11 +1911,3 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 - `2026-09-07T05:59:18.498525+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
 - `2026-09-07T05:57:58.914906+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T05:57:13.952400+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:56:35.337254+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:55:51.049161+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T05:55:10.480151+00:00` **produce / succeeded** — Rebuilt four selected financial packages from image-model visuals under the current standard. The intervening NFL-only source post was excluded from financial publication as off-topic; the promotional NFL Pick'em post was excluded.
-- `2026-09-07T05:46:34Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
-- `2026-09-07T05:45:50Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
-- `2026-09-07T05:45:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T05:35:49.569309+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
-- `2026-09-07T05:34:44.707463+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
