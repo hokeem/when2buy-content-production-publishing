@@ -10,3 +10,7 @@ browser-profile/
 cookies*.txt
 secrets/
 output/
+# Live Report Hub build artifacts (regenerated from canonical state)
+/reports/run-panel.html
+/reports/metrics-dashboard.html
+/reports/weekly/*.html
