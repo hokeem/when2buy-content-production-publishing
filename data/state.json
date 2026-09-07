@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T08:36:52.670872+00:00",
+  "updatedAt": "2026-09-07T08:56:43.943374+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15607,22 +15607,27 @@
       "deliveryFailedAt": "2026-09-07T08:36:52.669477+00:00"
     },
     {
-      "id": "pkg-20260905-micron-mu-stock-is-back-over-1-000-per-share-06996",
+      "id": "pkg-20260907-micron-mu-1000-per-share",
       "benchmarkPostId": "2095912220077006996",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095912220077006996",
-      "title": "Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Micron $MU returns above $1,000 per share",
+      "status": "failed",
+      "postText": "Micron $MU stock is back above $1,000 per share.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢"
+        "Micron $MU stock is back above $1,000 per share."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095912220077006996"
       ],
-      "imagePath": "deliverables/pkg-20260905-micron-mu-stock-is-back-over-1-000-per-share-06996/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:11.971968+00:00"
+      "imagePath": "deliverables/pkg-20260907-micron-mu-1000-per-share/when2buy-image-model.png",
+      "createdAt": "2026-09-07T08:56:26.101977+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 entity-led Micron DRAM chip and wafer scene with a rising price chart, premium near-black financial-news style, exact white headline 'MICRON $MU' and '$1,000+ PER SHARE', controlled red accent and lower-right logo-safe area. No source references, disclaimers, CTA, watermark or generic typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     },
     {
       "id": "pkg-20260905-just-in-metawin-player-turns-45-into-over-87-000-91419",
@@ -15643,22 +15648,27 @@
       "createdAt": "2026-09-05T00:42:12.081023+00:00"
     },
     {
-      "id": "pkg-20260905-reminder-the-stock-market-will-be-closed-on-mond-40118",
+      "id": "pkg-20260907-us-stock-market-closed-labor-day",
       "benchmarkPostId": "2095901350622040118",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095901350622040118",
-      "title": "REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "U.S. stock market closed Monday",
+      "status": "failed",
+      "postText": "The U.S. stock market is closed Monday for Labor Day.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day"
+        "The U.S. stock market is closed Monday for Labor Day."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095901350622040118"
       ],
-      "imagePath": "deliverables/pkg-20260905-reminder-the-stock-market-will-be-closed-on-mond-40118/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T00:42:12.220486+00:00"
+      "imagePath": "deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model-v2.png",
+      "createdAt": "2026-09-07T08:56:26.102038+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 entity-led New York Stock Exchange exterior with a Monday calendar, premium near-black financial-news style, exact white headline 'U.S. MARKETS' and 'CLOSED MONDAY', controlled red accent and lower-right logo-safe area. No source references, disclaimers, CTA, watermark or generic typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     },
     {
       "id": "pkg-20260905-just-in-304-000-000-worth-of-long-positions-liqu-72923",
@@ -15739,22 +15749,27 @@
       "publishedAt": "2026-09-05T00:42:00.000Z"
     },
     {
-      "id": "pkg-20260905-i-kind-of-want-to-short-lululemon-stock-just-to--90905",
+      "id": "pkg-20260907-lululemon-short-talk",
       "benchmarkPostId": "2095896468615790905",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095896468615790905",
-      "title": "I kind of want to short Lululemon stock just to show Michael Burry how it feels",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: I kind of want to short Lululemon stock just to show Michael Burry how\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "title": "Lululemon $LULU short-selling talk",
+      "status": "failed",
+      "postText": "Lululemon $LULU is drawing short-selling talk in a jab aimed at Michael Burry.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "I kind of want to short Lululemon stock just to show Michael Burry how it feels"
+        "The source post says it wants to short Lululemon stock to show Michael Burry how it feels."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095896468615790905"
       ],
-      "imagePath": "deliverables/pkg-20260905-i-kind-of-want-to-short-lululemon-stock-just-to--90905/when2buy-market-radar.png",
-      "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T06:42:25.830575+00:00"
+      "imagePath": "deliverables/pkg-20260907-lululemon-short-talk/when2buy-image-model.png",
+      "createdAt": "2026-09-07T08:56:26.102057+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 entity-led Lululemon retail storefront and downward market chart, premium near-black financial-news style, exact white headline 'LULULEMON $LULU' and 'SHORT TALK', controlled red accent and lower-right logo-safe area. No source references, disclaimers, CTA, watermark, named-person likeness or generic typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     },
     {
       "id": "pkg-20260905-mark-zuckerberg-and-meta-platforms-meta-confirme-29002",
@@ -19138,12 +19153,12 @@
       "url": "https://x.com/_When2buy/status/2096865134606156168",
       "postizPostId": "cmtqxf6th0fusqk0yny59l0n9",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:35:00.000Z",
         "windowEnd": "2026-09-10T07:35:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19155,12 +19170,12 @@
       "url": "https://x.com/_When2buy/status/2096865262234677561",
       "postizPostId": "cmtqxfv0j0fuuqk0yleu74nkl",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:36:00.000Z",
         "windowEnd": "2026-09-10T07:36:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19172,12 +19187,12 @@
       "url": "https://x.com/_When2buy/status/2096865395340976138",
       "postizPostId": "cmtqxggjl08gflm0ytl76n03n",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:36:00.000Z",
         "windowEnd": "2026-09-10T07:36:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19189,12 +19204,12 @@
       "url": "https://x.com/_When2buy/status/2096865520805142643",
       "postizPostId": "cmtqxh5t50fvnqk0yec9z84qp",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:37:00.000Z",
         "windowEnd": "2026-09-10T07:37:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19206,12 +19221,12 @@
       "url": "https://x.com/_When2buy/status/2096865657732337897",
       "postizPostId": "cmtqxhv520fvoqk0y9dfpl0cx",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:37:00.000Z",
         "windowEnd": "2026-09-10T07:37:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19223,12 +19238,12 @@
       "url": "https://x.com/_When2buy/status/2096869428151611677",
       "postizPostId": "cmtqy15ki08kolm0y9gwx43al",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:52:00.000Z",
         "windowEnd": "2026-09-10T07:52:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19240,12 +19255,12 @@
       "url": "https://x.com/_When2buy/status/2096869544749125986",
       "postizPostId": "cmtqy1qtu08krlm0ypeuqth6i",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:53:00.000Z",
         "windowEnd": "2026-09-10T07:53:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19257,12 +19272,12 @@
       "url": "https://x.com/_When2buy/status/2096869655126421647",
       "postizPostId": "cmtqy2c1k08kylm0yu29tzkep",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:53:00.000Z",
         "windowEnd": "2026-09-10T07:53:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19274,12 +19289,12 @@
       "url": "https://x.com/_When2buy/status/2096869765671428557",
       "postizPostId": "cmtqy2wae0g0lqk0yuxzb514r",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:54:00.000Z",
         "windowEnd": "2026-09-10T07:54:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19291,12 +19306,12 @@
       "url": "https://x.com/_When2buy/status/2096869885339132326",
       "postizPostId": "cmtqy3i4s08l7lm0ycpjm2j33",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T07:54:00.000Z",
         "windowEnd": "2026-09-10T07:54:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19308,12 +19323,12 @@
       "url": "https://x.com/_When2buy/status/2096874208454398209",
       "postizPostId": "cmtqypkrj08tmlm0yvjljs0jk",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T08:11:00.000Z",
         "windowEnd": "2026-09-10T08:11:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19325,12 +19340,12 @@
       "url": "https://x.com/_When2buy/status/2096874367053640141",
       "postizPostId": "cmtqyq9ba0g9kqk0yh671sor6",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T08:12:00.000Z",
         "windowEnd": "2026-09-10T08:12:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19342,12 +19357,12 @@
       "url": "https://x.com/_When2buy/status/2096874586663186450",
       "postizPostId": "cmtqyrj4c08u5lm0yzxtuwk9l",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T08:13:00.000Z",
         "windowEnd": "2026-09-10T08:13:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19359,12 +19374,12 @@
       "url": "https://x.com/_When2buy/status/2096874726715162931",
       "postizPostId": "cmtqys8on0g9rqk0ysa343yjy",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T08:14:00.000Z",
         "windowEnd": "2026-09-10T08:14:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19376,12 +19391,12 @@
       "url": "https://x.com/_When2buy/status/2096874871292936488",
       "postizPostId": "cmtqysywd0ga1qk0yizx05558",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T08:14:00.000Z",
         "windowEnd": "2026-09-10T08:14:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19393,12 +19408,12 @@
       "url": "https://x.com/_When2buy/status/2096879304479293464",
       "postizPostId": "cmtqzfm8w0ghkqk0ymd91v5na",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T08:32:00.000Z",
         "windowEnd": "2026-09-10T08:32:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19410,12 +19425,12 @@
       "url": "https://x.com/_When2buy/status/2096879509362610198",
       "postizPostId": "cmtqzgo4n0gi1qk0ycs4fh4rk",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T08:33:00.000Z",
         "windowEnd": "2026-09-10T08:33:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     },
     {
@@ -19427,12 +19442,12 @@
       "url": "https://x.com/_When2buy/status/2096879654707835204",
       "postizPostId": "cmtqzherd0gi5qk0yw7y62084",
       "metricsTracking": {
-        "status": "active",
+        "status": "daily-active",
         "windowStart": "2026-09-07T08:33:00.000Z",
         "windowEnd": "2026-09-10T08:33:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-07T08:56:41.166623Z",
+        "lastAttemptSource": "public X status page",
+        "lastAttemptResult": "no visible numeric counters parsed"
       }
     }
   ],
@@ -25796,6 +25811,384 @@
         },
         "checkedAt": "2026-09-07T07:16:25.591771Z"
       }
+    },
+    {
+      "id": "metric-2096865134606156168-20260907T085641Z",
+      "postId": "2096865134606156168",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096865134606156168",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096865262234677561-20260907T085641Z",
+      "postId": "2096865262234677561",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096865262234677561",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096865395340976138-20260907T085641Z",
+      "postId": "2096865395340976138",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096865395340976138",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096865520805142643-20260907T085641Z",
+      "postId": "2096865520805142643",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096865520805142643",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096865657732337897-20260907T085641Z",
+      "postId": "2096865657732337897",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096865657732337897",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096869428151611677-20260907T085641Z",
+      "postId": "2096869428151611677",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096869428151611677",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096869544749125986-20260907T085641Z",
+      "postId": "2096869544749125986",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096869544749125986",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096869655126421647-20260907T085641Z",
+      "postId": "2096869655126421647",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096869655126421647",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096869765671428557-20260907T085641Z",
+      "postId": "2096869765671428557",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096869765671428557",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096869885339132326-20260907T085641Z",
+      "postId": "2096869885339132326",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096869885339132326",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096874208454398209-20260907T085641Z",
+      "postId": "2096874208454398209",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096874208454398209",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096874367053640141-20260907T085641Z",
+      "postId": "2096874367053640141",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096874367053640141",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096874586663186450-20260907T085641Z",
+      "postId": "2096874586663186450",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096874586663186450",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096874726715162931-20260907T085641Z",
+      "postId": "2096874726715162931",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096874726715162931",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096874871292936488-20260907T085641Z",
+      "postId": "2096874871292936488",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096874871292936488",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096879304479293464-20260907T085641Z",
+      "postId": "2096879304479293464",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096879304479293464",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096879509362610198-20260907T085641Z",
+      "postId": "2096879509362610198",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096879509362610198",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
+    },
+    {
+      "id": "metric-2096879654707835204-20260907T085641Z",
+      "postId": "2096879654707835204",
+      "observedAt": "2026-09-07T08:56:41.166623Z",
+      "views": null,
+      "replies": null,
+      "reposts": null,
+      "likes": null,
+      "evidence": {
+        "source": "public X status page",
+        "url": "https://x.com/_When2buy/status/2096879654707835204",
+        "result": "no visible numeric counters parsed",
+        "fieldReasons": {
+          "views": "not visible or not parseable on public X status page",
+          "replies": "not visible or not parseable on public X status page",
+          "reposts": "not visible or not parseable on public X status page",
+          "likes": "not visible or not parseable on public X status page"
+        },
+        "checkedAt": "2026-09-07T08:56:41.166623Z"
+      }
     }
   ],
   "experiments": [],
@@ -29002,6 +29395,109 @@
       "startedAt": "2026-09-07T08:36:52.669538+00:00",
       "completedAt": "2026-09-07T08:36:52.669544+00:00",
       "summary": "Three packages published and verified; two packages reached terminal Postiz delivery errors.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T084556Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:45:56Z",
+      "completedAt": "2026-09-07T08:45:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T084556Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:45:56Z",
+      "completedAt": "2026-09-07T08:45:56Z",
+      "summary": "Prepared 25 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T084637Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:46:37Z",
+      "completedAt": "2026-09-07T08:46:37Z",
+      "summary": "Prepared 24 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T085129Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:51:29.411560+00:00",
+      "completedAt": "2026-09-07T08:51:29.411565+00:00",
+      "summary": "Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T085308Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T08:53:08.715271+00:00",
+      "completedAt": "2026-09-07T08:53:08.715271+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T085423Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T08:54:23.563327+00:00",
+      "completedAt": "2026-09-07T08:54:23.563327+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T085558Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T08:55:58.756614+00:00",
+      "completedAt": "2026-09-07T08:55:58.756614+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T085626Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T08:56:26.102097+00:00",
+      "completedAt": "2026-09-07T08:56:26.102099+00:00",
+      "summary": "Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T085626Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T08:56:26.211038+00:00",
+      "completedAt": "2026-09-07T08:56:26.211038+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T085626Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T08:56:26.319159+00:00",
+      "completedAt": "2026-09-07T08:56:26.319159+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T085626Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T08:56:26.414214+00:00",
+      "completedAt": "2026-09-07T08:56:26.414214+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
       "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
     }
   ]

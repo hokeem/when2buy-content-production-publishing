@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T08:36:52.670872+00:00`
+- 状态更新：`2026-09-07T08:56:43.943374+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**294**
 - 待选选题：**253**
-- 待发布制作包：**85**
+- 待发布制作包：**82**
 - 已验证发布：**127**
 
 ## 对标账号扫描
@@ -1268,12 +1268,12 @@ Howard Lutnick disclosed at least $250M in income last year, mostly tied to prio
 
 Fed's Hammack says local contacts point to raising rates to curb inflation.  When2Buy — your U.S. stock partner.
 
-### Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢
+### Micron $MU returns above $1,000 per share
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-micron-mu-stock-is-back-over-1-000-per-share-06996/when2buy-market-radar.png`
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-micron-mu-1000-per-share/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: Micron $MU stock is back over $1,000 per share 🟢🟢🟢🟢🟢  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Micron $MU stock is back above $1,000 per share.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $1M will
 
@@ -1282,12 +1282,12 @@ Market radar: @StockMKTNewz reports: Micron $MU stock is back over $1,000 per sh
 
 Market radar: @WhaleInsider reports: JUST IN: @MetaWin player turns $45 into over $87,000 following their a  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
-### REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day
+### U.S. stock market closed Monday
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-reminder-the-stock-market-will-be-closed-on-mond-40118/when2buy-market-radar.png`
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model-v2.png`
 
-Market radar: @StockMKTNewz reports: REMINDER The 🇺🇸 stock market will be closed on Monday for Labor Day  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+The U.S. stock market is closed Monday for Labor Day.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours
 
@@ -1317,12 +1317,12 @@ Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD has accumula
 
 Market radar: @WhaleInsider reports: NEW: The Bank for International Settlements publishes a paper using th  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
-### I kind of want to short Lululemon stock just to show Michael Burry how it feels
+### Lululemon $LULU short-selling talk
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260905-i-kind-of-want-to-short-lululemon-stock-just-to--90905/when2buy-market-radar.png`
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260907-lululemon-short-talk/when2buy-image-model.png`
 
-Market radar: @StockMKTNewz reports: I kind of want to short Lululemon stock just to show Michael Burry how  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Lululemon $LULU is drawing short-selling talk in a jab aimed at Michael Burry.  When2Buy — your U.S. stock partner.
 
 ### Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will take pl
 
@@ -1914,27 +1914,38 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096860021741265261) |
-| Japan foreign securities sell-off | 2026-09-07T07:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865134606156168) |
-| Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865262234677561) |
-| The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last | 2026-09-07T07:36:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865395340976138) |
-| Waiting for the stock market to open again | 2026-09-07T07:37:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865520805142643) |
-| CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865657732337897) |
-| U.S. stock market performance today | 2026-09-07T07:52:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869428151611677) |
-| Top 10 trader | 2026-09-07T07:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869544749125986) |
-| BTC $85K probability | 2026-09-07T07:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869655126421647) |
-| Data centers and state approvals | 2026-09-07T07:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869765671428557) |
-| Interest-rate target | 2026-09-07T07:54:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096869885339132326) |
-| UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874208454398209) |
-| Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874367053640141) |
-| Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874586663186450) |
-| Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874726715162931) |
-| Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096874871292936488) |
-| Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096879304479293464) |
-| Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096879509362610198) |
-| September market calendar | 2026-09-07T08:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096879654707835204) |
+| Japan foreign securities sell-off | 2026-09-07T07:35:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096865134606156168) |
+| Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096865262234677561) |
+| The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last | 2026-09-07T07:36:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096865395340976138) |
+| Waiting for the stock market to open again | 2026-09-07T07:37:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096865520805142643) |
+| CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096865657732337897) |
+| U.S. stock market performance today | 2026-09-07T07:52:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096869428151611677) |
+| Top 10 trader | 2026-09-07T07:53:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096869544749125986) |
+| BTC $85K probability | 2026-09-07T07:53:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096869655126421647) |
+| Data centers and state approvals | 2026-09-07T07:54:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096869765671428557) |
+| Interest-rate target | 2026-09-07T07:54:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096869885339132326) |
+| UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096874208454398209) |
+| Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096874367053640141) |
+| Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096874586663186450) |
+| Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096874726715162931) |
+| Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096874871292936488) |
+| Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096879304479293464) |
+| Tesla starts paid Cybercab rides | 2026-09-07T08:33:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096879509362610198) |
+| September market calendar | 2026-09-07T08:33:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096879654707835204) |
 
 ## 最近运行
 
+- `2026-09-07T08:56:26.414214+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T08:56:26.319159+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T08:56:26.211038+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T08:56:26.102097+00:00` **produce / succeeded** — Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.
+- `2026-09-07T08:55:58.756614+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T08:54:23.563327+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T08:53:08.715271+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
+- `2026-09-07T08:51:29.411560+00:00` **produce / succeeded** — Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.
+- `2026-09-07T08:46:37Z` **queue / succeeded** — Prepared 24 one-to-one production candidate(s).
+- `2026-09-07T08:45:56Z` **queue / succeeded** — Prepared 25 one-to-one production candidate(s).
+- `2026-09-07T08:45:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T08:36:52.669538+00:00` **publish / partial** — Three packages published and verified; two packages reached terminal Postiz delivery errors. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T08:34:09.968922+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T08:33:29.426910+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1944,14 +1955,3 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 - `2026-09-07T08:25:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-07T08:15:03.290970+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T08:14:29.228482+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T08:13:56.539666+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T08:13:07.137959+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T08:12:25.128785+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T08:11:50.052461Z` **produce / succeeded** — Produced the first five timestamp-first packages with image-model visuals and exact-logo compositing.
-- `2026-09-07T08:06:00Z` **queue / succeeded** — Prepared 35 one-to-one production candidate(s).
-- `2026-09-07T08:06:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 26 eligible originals and added 1 new post(s).
-- `2026-09-07T07:55:16.119905+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:54:47.599663+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:54:19.205415+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:53:53.028602+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T07:53:25.465504+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
