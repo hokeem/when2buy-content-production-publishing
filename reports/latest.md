@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T07:16:29.374257+00:00`
+- 状态更新：`2026-09-07T07:38:30.980926+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**292**
-- 待选选题：**251**
-- 待发布制作包：**103**
-- 已验证发布：**109**
+- 对标帖子快照：**293**
+- 待选选题：**252**
+- 待发布制作包：**99**
+- 已验证发布：**114**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 07:06:45 +0000 2026 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest such sell-off in its history. https://t.co/5HroWeCzgI | [X](https://x.com/WhaleInsider/status/2096857687501754540) |
 | @StockMKTNewz | Mon Sep 07 00:49:07 +0000 2026 | When it’s a Monday and the stock market isn’t open  https://t.co/RS530IqXon | [X](https://x.com/StockMKTNewz/status/2096762652995248280) |
 | @WhaleInsider | Sun Sep 06 13:35:42 +0000 2026 | JUST IN: Altcoins flip $BTC in open interest. https://t.co/Pwsg0gJnlH | [X](https://x.com/WhaleInsider/status/2096593182309982396) |
 | @StockMKTNewz | Sun Sep 06 14:57:48 +0000 2026 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relative to its peers https://t.co/OrXVmggo3o | [X](https://x.com/StockMKTNewz/status/2096613844223246653) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Sat Sep 05 06:46:07 +0000 2026 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. https://t.co/a7Q0R1KADn | [X](https://x.com/WhaleInsider/status/2096127719159308464) |
 | @WhaleInsider | Sat Sep 05 07:19:58 +0000 2026 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. https://t.co/e4Ecf3pd07 | [X](https://x.com/WhaleInsider/status/2096136240324030904) |
 | @WhaleInsider | Sat Sep 05 09:41:08 +0000 2026 | JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. https://t.co/XoogbG6Y4C | [X](https://x.com/WhaleInsider/status/2096171765932126604) |
-| @WhaleInsider | Sat Sep 05 09:52:22 +0000 2026 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. https://t.co/4iq13E7A2N | [X](https://x.com/WhaleInsider/status/2096174592431648911) |
 
 ## 选题推荐
 
@@ -59,6 +59,7 @@
 | 1 | For anyone curious with the 30 year yield at 5.244% in order to get $2,000 a month in pre ta… | StockMKTNewz | 6970 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Robinhood Chain $HOOD generated more than $8 Million in fees on Friday | StockMKTNewz | 43870 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | When it’s a Monday and the stock market isn’t open https://t.co/RS530IqXon | StockMKTNewz | 49061 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest… | WhaleInsider | 17104 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -1520,10 +1521,10 @@ Market radar: @StockMKTNewz reports: Nancy Pelosi bought 15,000 shares and 200 c
 
 ### Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609/when2buy-visual.png`
 
-Market radar: @StockMKTNewz reports: Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+Foxconn brought in $29.1B of August revenue, up 52% year over year.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline prices - CNBC.
 
@@ -1534,24 +1535,24 @@ Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Americans hit with record
 
 ### The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-the-top-10-largest-stocks-in-the-world-are-now-w-59654/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260906-the-top-10-largest-stocks-in-the-world-are-now-w-59654/when2buy-visual.png`
 
-Market radar: @StockMKTNewz reports: The top 10 largest stocks in the world are now worth a combined $29.95  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+The world's 10 largest stocks are now worth $29.95T combined, up from $29.73T last week.  When2Buy — your U.S. stock partner.
 
 ### Waiting for the stock market to open again
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-waiting-for-the-stock-market-to-open-again-78943/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260906-waiting-for-the-stock-market-to-open-again-78943/when2buy-visual.png`
 
-Market radar: @StockMKTNewz reports: Waiting for the stock market to open again  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+U.S. stocks are waiting for the market to open again.  When2Buy — your U.S. stock partner.
 
 ### CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421/when2buy-market-radar.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421/when2buy-visual.png`
 
-Market radar: @StockMKTNewz reports: CoreWeave $CRWV recently posted this: “We are excited to receive our f  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
+CoreWeave $CRWV received its first production NVIDIA Vera Rubin NVL72 racks.  When2Buy — your U.S. stock partner.
 
 ### JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com
 
@@ -1784,6 +1785,13 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 
 The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 
+### Japan foreign securities sell-off
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260907-japan-foreign-securities-754540/when2buy-visual.png`
+
+Japan sold $88B in foreign securities last month—the country's largest sell-off on record.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -1898,9 +1906,21 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2096860021741265261) |
+| Japan foreign securities sell-off | 2026-09-07T07:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865134606156168) |
+| Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865262234677561) |
+| The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last | 2026-09-07T07:36:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865395340976138) |
+| Waiting for the stock market to open again | 2026-09-07T07:37:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865520805142643) |
+| CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2096865657732337897) |
 
 ## 最近运行
 
+- `2026-09-07T07:38:30.978977+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:37:57.851677+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:37:25.110150+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:36:52.028736+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:36:24.529825+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-07T07:25:51Z` **queue / succeeded** — Prepared 44 one-to-one production candidate(s).
+- `2026-09-07T07:25:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-07T07:16:05.350672+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:15:21.917979+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T07:14:45.695574+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -1914,10 +1934,3 @@ The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
 - `2026-09-07T06:54:29.240263+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:53:54.721313+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-07T06:53:19.816383+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:52:46.321706+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:52:10Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-07T06:52:10.584612+00:00` **produce / succeeded** — Remade the five newest timestamp-first packages with entity-led image-model visuals and exact-logo compositing.
-- `2026-09-07T06:46:03Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-07T06:46:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T06:36:13.975492+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T06:35:44.348313+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

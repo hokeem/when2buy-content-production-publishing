@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T07:16:29.374257+00:00",
+  "updatedAt": "2026-09-07T07:38:30.980926+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -7953,6 +7953,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096857687501754540",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096857687501754540",
+      "postedAt": "Mon Sep 07 07:06:45 +0000 2026",
+      "text": "JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest such sell-off in its history. https://t.co/5HroWeCzgI",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRmI84hXsAAsp8b.jpg"
+      ],
+      "engagement": {
+        "likes": 46,
+        "replies": 18,
+        "reposts": 10,
+        "quotes": 1,
+        "views": 14904
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T07:25:50Z",
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRmI84hXsAAsp8b.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096857687501754540-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -12724,6 +12752,25 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096857687501754540",
+      "rank": 1,
+      "title": "JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest…",
+      "benchmarkPostId": "2096857687501754540",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096857687501754540",
+      "score": 17104,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T07:25:51Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -16158,18 +16205,27 @@
       "benchmarkPostId": "2096251643687817609",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096251643687817609",
       "title": "Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "status": "published",
+      "postText": "Foxconn brought in $29.1B of August revenue, up 52% year over year.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY"
+        "Foxconn is a supplier to Nvidia and Apple.",
+        "Foxconn reported $29.1 billion of August revenue.",
+        "August revenue was up 52% year over year."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096251643687817609"
       ],
-      "imagePath": "deliverables/pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609/when2buy-market-radar.png",
+      "imagePath": "deliverables/pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609/when2buy-visual.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:36.790324+00:00"
+      "createdAt": "2026-09-06T06:41:36.790324+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. Original premium financial-news image about Foxconn generating $29.1 billion in August revenue, up 52% year over year. Near-black advanced electronics manufacturing campus, server racks and chip components, entity-led, exact 1:1, $29.1B and FOXCONN AUGUST REVENUE +52% YOY, logo-safe top-right; no source, disclaimer, CTA, watermark, logo, generic abstract, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqxfv0j0fuuqk0yleu74nkl",
+      "publishedAt": "2026-09-07T07:36:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-americans-hit-with-record-high-labor-day-39714",
@@ -16196,54 +16252,76 @@
       "benchmarkPostId": "2096245555160559654",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096245555160559654",
       "title": "The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: The top 10 largest stocks in the world are now worth a combined $29.95\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "status": "published",
+      "postText": "The world's 10 largest stocks are now worth $29.95T combined, up from $29.73T last week.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last week"
+        "The top 10 largest stocks in the world are worth a combined $29.95 trillion.",
+        "Their combined value was $29.73 trillion last week."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096245555160559654"
       ],
-      "imagePath": "deliverables/pkg-20260906-the-top-10-largest-stocks-in-the-world-are-now-w-59654/when2buy-market-radar.png",
+      "imagePath": "deliverables/pkg-20260906-the-top-10-largest-stocks-in-the-world-are-now-w-59654/when2buy-visual.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:37.048304+00:00"
+      "createdAt": "2026-09-06T06:41:37.048304+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. Original premium finance image showing the top 10 largest stocks reaching $29.95 trillion combined, up from $29.73 trillion last week. Near-black global market command center with equity towers and valuation arc, exact 1:1, $29.95T and TOP 10 STOCKS COMBINED, logo-safe top-right; no source, disclaimer, CTA, watermark, logos, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqxggjl08gflm0ytl76n03n",
+      "publishedAt": "2026-09-07T07:36:00.000Z"
     },
     {
       "id": "pkg-20260906-waiting-for-the-stock-market-to-open-again-78943",
       "benchmarkPostId": "2096239880753778943",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096239880753778943",
       "title": "Waiting for the stock market to open again",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: Waiting for the stock market to open again\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "status": "published",
+      "postText": "U.S. stocks are waiting for the market to open again.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "Waiting for the stock market to open again"
+        "The source post says it is waiting for the stock market to open again."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096239880753778943"
       ],
-      "imagePath": "deliverables/pkg-20260906-waiting-for-the-stock-market-to-open-again-78943/when2buy-market-radar.png",
+      "imagePath": "deliverables/pkg-20260906-waiting-for-the-stock-market-to-open-again-78943/when2buy-visual.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:37.162702+00:00"
+      "createdAt": "2026-09-06T06:41:37.162702+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. Premium near-black editorial image of the New York Stock Exchange exterior at dawn with a brass opening bell, anticipation before the U.S. market opens. Exact 1:1; exact visible text MARKET OPENS NEXT only, fully visible and correctly spelled, logo-safe top-right; no numbers, prices, ticker data, charts, source, disclaimer, CTA, watermark, or logos.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqxh5t50fvnqk0yec9z84qp",
+      "publishedAt": "2026-09-07T07:37:00.000Z"
     },
     {
       "id": "pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421",
       "benchmarkPostId": "2096225910659682421",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096225910659682421",
       "title": "CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru",
-      "status": "ready",
-      "postText": "Market radar: @StockMKTNewz reports: CoreWeave $CRWV recently posted this: “We are excited to receive our f\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
+      "status": "published",
+      "postText": "CoreWeave $CRWV received its first production NVIDIA Vera Rubin NVL72 racks.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Source-attributed report from @StockMKTNewz",
-        "CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Rubin NVL72 racks!”"
+        "CoreWeave received its first production NVIDIA Vera Rubin NVL72 racks."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096225910659682421"
       ],
-      "imagePath": "deliverables/pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421/when2buy-market-radar.png",
+      "imagePath": "deliverables/pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421/when2buy-visual.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-06T06:41:37.269671+00:00"
+      "createdAt": "2026-09-06T06:41:37.269671+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. Original premium finance image about CoreWeave receiving its first production NVIDIA Vera Rubin NVL72 racks. Near-black AI data-center interior with the rack installation, exact 1:1, NVL72 RACKS ARRIVE and COREWEAVE + VERA RUBIN, logo-safe top-right; no source, disclaimer, CTA, watermark, logos, generic abstraction, pure typography card, or invented numerical specs.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqxhv520fvoqk0y9dfpl0cx",
+      "publishedAt": "2026-09-07T07:37:00.000Z"
     },
     {
       "id": "pkg-20260906-just-in-robinhood-chain-hood-tokenized-assets-hi-57579",
@@ -16986,6 +17064,31 @@
       },
       "postizPostId": "cmtqszzfy078ilm0y1mvqeg5g",
       "publishedAt": "2026-09-07T05:32:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-japan-foreign-securities-754540",
+      "benchmarkPostId": "2096857687501754540",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096857687501754540",
+      "title": "Japan foreign securities sell-off",
+      "createdAt": "2026-09-07T07:25:51Z",
+      "status": "published",
+      "postText": "Japan sold $88B in foreign securities last month—the country's largest sell-off on record.\n\nWhen2Buy — your U.S. stock partner.",
+      "imagePath": "deliverables/pkg-20260907-japan-foreign-securities-754540/when2buy-visual.png",
+      "mirroredFacts": [
+        "Japan sold $88 billion in foreign securities last month.",
+        "The sale was the largest such sell-off in Japan's history."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096857687501754540"
+      ],
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. Original premium financial-news image about Japan selling $88 billion in foreign securities last month, the largest such sell-off in its history. Near-black Tokyo finance district, Japanese flag, global securities ledger, red capital-flow arc, exact 1:1, dominant $88B and JAPAN FOREIGN SECURITIES only, logo-safe top-right; no other numbers, source, disclaimer, CTA, watermark, or logo.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtqxf6th0fusqk0yny59l0n9",
+      "publishedAt": "2026-09-07T07:35:00.000Z"
     }
   ],
   "posts": [
@@ -18848,6 +18951,91 @@
         "lastAttemptAt": "2026-09-07T07:16:25.591771Z",
         "lastAttemptSource": "public X status page",
         "lastAttemptResult": "no visible numeric counters parsed"
+      }
+    },
+    {
+      "id": "2096865134606156168",
+      "packageId": "pkg-20260907-japan-foreign-securities-754540",
+      "title": "Japan foreign securities sell-off",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:35:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096865134606156168",
+      "postizPostId": "cmtqxf6th0fusqk0yny59l0n9",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:35:00.000Z",
+        "windowEnd": "2026-09-10T07:35:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096865262234677561",
+      "packageId": "pkg-20260906-nvidia-and-apple-supplier-foxconn-brought-in-29--17609",
+      "title": "Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:36:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096865262234677561",
+      "postizPostId": "cmtqxfv0j0fuuqk0yleu74nkl",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:36:00.000Z",
+        "windowEnd": "2026-09-10T07:36:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096865395340976138",
+      "packageId": "pkg-20260906-the-top-10-largest-stocks-in-the-world-are-now-w-59654",
+      "title": "The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:36:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096865395340976138",
+      "postizPostId": "cmtqxggjl08gflm0ytl76n03n",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:36:00.000Z",
+        "windowEnd": "2026-09-10T07:36:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096865520805142643",
+      "packageId": "pkg-20260906-waiting-for-the-stock-market-to-open-again-78943",
+      "title": "Waiting for the stock market to open again",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:37:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096865520805142643",
+      "postizPostId": "cmtqxh5t50fvnqk0yec9z84qp",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:37:00.000Z",
+        "windowEnd": "2026-09-10T07:37:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096865657732337897",
+      "packageId": "pkg-20260906-coreweave-crwv-recently-posted-this-we-are-excit-82421",
+      "title": "CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru",
+      "status": "published",
+      "publishedAt": "2026-09-07T07:37:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096865657732337897",
+      "postizPostId": "cmtqxhv520fvoqk0y9dfpl0cx",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T07:37:00.000Z",
+        "windowEnd": "2026-09-10T07:37:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -28130,6 +28318,73 @@
       "status": "succeeded",
       "startedAt": "2026-09-07T07:16:05.350672+00:00",
       "completedAt": "2026-09-07T07:16:05.350685+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T072550Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:25:50Z",
+      "completedAt": "2026-09-07T07:25:50Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T072551Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:25:51Z",
+      "completedAt": "2026-09-07T07:25:51Z",
+      "summary": "Prepared 44 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T073624Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:36:24.529825+00:00",
+      "completedAt": "2026-09-07T07:36:24.529835+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T073652Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:36:52.028736+00:00",
+      "completedAt": "2026-09-07T07:36:52.028741+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T073725Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:37:25.110150+00:00",
+      "completedAt": "2026-09-07T07:37:25.110157+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T073757Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:37:57.851677+00:00",
+      "completedAt": "2026-09-07T07:37:57.851682+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T073830Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T07:38:30.978977+00:00",
+      "completedAt": "2026-09-07T07:38:30.978988+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
