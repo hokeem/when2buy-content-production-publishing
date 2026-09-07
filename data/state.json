@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T08:56:43.943374+00:00",
+  "updatedAt": "2026-09-07T09:21:51.455649+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15569,17 +15569,18 @@
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095918547742380358"
       ],
-      "imagePath": "deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-image-model-v2.png",
+      "imagePath": "deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-image-model-v3.png",
       "createdAt": "2026-09-07T08:32:02.922315+00:00",
       "visualProduction": {
         "method": "image_model",
-        "prompt": "Use case: ads-marketing. Square person-led Howard Lutnick executive-disclosure image with filing document, premium near-black financial-news style, white type, controlled red accents, headline HOWARD LUTNICK and $250M+ INCOME, clean lower-right space; original image-model generation and exact supplied logo composited afterward.",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. Scene/backdrop: premium near-black newsroom graphic with a real executive-disclosure filing. Subject: Howard Lutnick beside a financial disclosure and Cantor Fitzgerald architecture. Text (verbatim): HOWARD LUTNICK and $250M+ INCOME. Constraints: entity-led editorial scene, no source references, disclaimer, CTA, watermark, generic typography-only card, or generated logo; supplied logo composited afterward once in the clear lower-right area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
+      "previousDeliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
       "deliveryAttempts": 2,
-      "deliveryFailedAt": "2026-09-07T08:36:52.669420+00:00"
+      "deliveryFailedAt": "2026-09-07T08:36:52.669420+00:00",
+      "deliveryError": "Postiz delivery returned ERROR with no releaseURL; a safe retry did not produce PUBLISHED plus a public x.com URL."
     },
     {
       "id": "pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660",
@@ -15594,17 +15595,18 @@
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2095913618835435660"
       ],
-      "imagePath": "deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-image-model-v2.png",
+      "imagePath": "deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-image-model-v3.png",
       "createdAt": "2026-09-07T08:32:02.922347+00:00",
       "visualProduction": {
         "method": "image_model",
-        "prompt": "Use case: productivity-visual. Square person-led Federal Reserve policy visual with Beth Hammack, inflation chart and meeting documents, premium near-black financial-news style, white type, controlled red accents, headline FED: RAISE RATES and CURB INFLATION, clean lower-right space; original image-model generation and exact supplied logo composited afterward.",
+        "prompt": "Use case: productivity-visual. Asset type: square X financial-news visual. Federal Reserve boardroom with Beth Hammack, rate-policy documents and inflation chart. Text (verbatim): FED: RAISE RATES and CURB INFLATION. Premium near-black entity-led editorial art, white type and controlled red accents; no source references, disclaimer, CTA, watermark, generic typography-only card, or generated logo; supplied logo composited afterward once in the clear lower-right area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
+      "previousDeliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
       "deliveryAttempts": 2,
-      "deliveryFailedAt": "2026-09-07T08:36:52.669477+00:00"
+      "deliveryFailedAt": "2026-09-07T08:36:52.669477+00:00",
+      "deliveryError": "Postiz delivery returned ERROR with no releaseURL; a safe retry did not produce PUBLISHED plus a public x.com URL."
     },
     {
       "id": "pkg-20260907-micron-mu-1000-per-share",
@@ -15619,15 +15621,16 @@
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095912220077006996"
       ],
-      "imagePath": "deliverables/pkg-20260907-micron-mu-1000-per-share/when2buy-image-model.png",
+      "imagePath": "deliverables/pkg-20260907-micron-mu-1000-per-share/when2buy-image-model-v2.png",
       "createdAt": "2026-09-07T08:56:26.101977+00:00",
       "visualProduction": {
         "method": "image_model",
-        "prompt": "Use case: ads-marketing. Square 1:1 entity-led Micron DRAM chip and wafer scene with a rising price chart, premium near-black financial-news style, exact white headline 'MICRON $MU' and '$1,000+ PER SHARE', controlled red accent and lower-right logo-safe area. No source references, disclaimers, CTA, watermark or generic typography card.",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. Semiconductor cleanroom, Micron DRAM chip and silicon wafer with rising market chart. Text (verbatim): MICRON $MU and $1,000+ PER SHARE. Premium near-black entity-led editorial art with white type; no source references, disclaimer, CTA, watermark, generic typography-only card, or generated logo; supplied logo composited afterward once in the clear lower-right area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+      "previousDeliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
+      "deliveryError": "Postiz delivery did not return PUBLISHED plus a public x.com URL across two safe attempts; the observed terminal response was ERROR with no releaseURL."
     },
     {
       "id": "pkg-20260905-just-in-metawin-player-turns-45-into-over-87-000-91419",
@@ -15660,15 +15663,16 @@
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095901350622040118"
       ],
-      "imagePath": "deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model-v2.png",
+      "imagePath": "deliverables/pkg-20260907-us-stock-market-closed-labor-day/when2buy-image-model-v4.png",
       "createdAt": "2026-09-07T08:56:26.102038+00:00",
       "visualProduction": {
         "method": "image_model",
-        "prompt": "Use case: ads-marketing. Square 1:1 entity-led New York Stock Exchange exterior with a Monday calendar, premium near-black financial-news style, exact white headline 'U.S. MARKETS' and 'CLOSED MONDAY', controlled red accent and lower-right logo-safe area. No source references, disclaimers, CTA, watermark or generic typography card.",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. New York Stock Exchange exterior with a Labor Day calendar and closed trading-floor entrance. Text (verbatim): U.S. MARKETS and CLOSED MONDAY. No date, month, Memorial Day text, or number. Premium near-black entity-led editorial art with white type; no source references, disclaimer, CTA, watermark, generic typography-only card, or generated logo; supplied logo composited afterward once in the clear lower-right area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+      "previousDeliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
+      "deliveryError": "Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued."
     },
     {
       "id": "pkg-20260905-just-in-304-000-000-worth-of-long-positions-liqu-72923",
@@ -15754,22 +15758,23 @@
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095896468615790905",
       "title": "Lululemon $LULU short-selling talk",
       "status": "failed",
-      "postText": "Lululemon $LULU is drawing short-selling talk in a jab aimed at Michael Burry.\n\nWhen2Buy — your U.S. stock partner.",
+      "postText": "Lululemon $LULU is getting short-call attention, with Michael Burry the target of the jab.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The source post says it wants to short Lululemon stock to show Michael Burry how it feels."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2095896468615790905"
       ],
-      "imagePath": "deliverables/pkg-20260907-lululemon-short-talk/when2buy-image-model.png",
+      "imagePath": "deliverables/pkg-20260907-lululemon-short-talk/when2buy-image-model-v2.png",
       "createdAt": "2026-09-07T08:56:26.102057+00:00",
       "visualProduction": {
         "method": "image_model",
-        "prompt": "Use case: ads-marketing. Square 1:1 entity-led Lululemon retail storefront and downward market chart, premium near-black financial-news style, exact white headline 'LULULEMON $LULU' and 'SHORT TALK', controlled red accent and lower-right logo-safe area. No source references, disclaimers, CTA, watermark, named-person likeness or generic typography card.",
+        "prompt": "Use case: ads-marketing. Asset type: square X financial-news visual. Lululemon retail storefront and downward market chart, visualizing short-position discussion without a person likeness. Text (verbatim): LULULEMON $LULU and SHORT TALK. Premium near-black entity-led editorial art with white type and controlled red accent; no source references, disclaimer, CTA, watermark, generic typography-only card, or generated logo; supplied logo composited afterward once in the clear lower-right area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "deliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+      "previousDeliveryError": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.",
+      "deliveryError": "Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued."
     },
     {
       "id": "pkg-20260905-mark-zuckerberg-and-meta-platforms-meta-confirme-29002",
@@ -29499,6 +29504,73 @@
       "completedAt": "2026-09-07T08:56:26.414214+00:00",
       "summary": "Postiz delivery reached a terminal error after safe retries.",
       "reason": "Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T090559Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T09:05:59Z",
+      "completedAt": "2026-09-07T09:05:59Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T090600Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T09:06:00Z",
+      "completedAt": "2026-09-07T09:06:00Z",
+      "summary": "Prepared 23 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T091642Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T09:16:42.415368+00:00",
+      "completedAt": "2026-09-07T09:16:42.415368+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery returned ERROR with no releaseURL; a safe retry did not produce PUBLISHED plus a public x.com URL."
+    },
+    {
+      "id": "run-20260907T091758Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T09:17:58.855784+00:00",
+      "completedAt": "2026-09-07T09:17:58.855784+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery returned ERROR with no releaseURL; a safe retry did not produce PUBLISHED plus a public x.com URL."
+    },
+    {
+      "id": "run-20260907T091915Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T09:19:15.980418+00:00",
+      "completedAt": "2026-09-07T09:19:15.980418+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz delivery did not return PUBLISHED plus a public x.com URL across two safe attempts; the observed terminal response was ERROR with no releaseURL."
+    },
+    {
+      "id": "run-20260907T092030Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T09:20:30.493130+00:00",
+      "completedAt": "2026-09-07T09:20:30.493130+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued."
+    },
+    {
+      "id": "run-20260907T092151Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T09:21:51.454948+00:00",
+      "completedAt": "2026-09-07T09:21:51.454948+00:00",
+      "summary": "Postiz delivery reached a terminal error after safe retries.",
+      "reason": "Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued."
     }
   ]
 }

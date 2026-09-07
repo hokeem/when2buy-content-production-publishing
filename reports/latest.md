@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T08:56:43.943374+00:00`
+- 状态更新：`2026-09-07T09:21:51.455649+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**294**
 - 待选选题：**253**
@@ -1257,21 +1257,21 @@ September still has CPI, an FOMC meeting and Micron $MU earnings ahead.  When2Bu
 ### Howard Lutnick disclosed $250M+ income
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-image-model-v2.png`
+- 配图：`deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-image-model-v3.png`
 
 Howard Lutnick disclosed at least $250M in income last year, mostly tied to prior Cantor Fitzgerald ownership.  When2Buy — your U.S. stock partner.
 
 ### Fed's Hammack calls for higher rates
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-image-model-v2.png`
+- 配图：`deliverables/pkg-20260905-just-in-fed-s-hammack-says-local-contacts-indica-35660/when2buy-image-model-v3.png`
 
 Fed's Hammack says local contacts point to raising rates to curb inflation.  When2Buy — your U.S. stock partner.
 
 ### Micron $MU returns above $1,000 per share
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-micron-mu-1000-per-share/when2buy-image-model.png`
+- 配图：`deliverables/pkg-20260907-micron-mu-1000-per-share/when2buy-image-model-v2.png`
 
 Micron $MU stock is back above $1,000 per share.  When2Buy — your U.S. stock partner.
 
@@ -1285,7 +1285,7 @@ Market radar: @WhaleInsider reports: JUST IN: @MetaWin player turns $45 into ove
 ### U.S. stock market closed Monday
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model-v2.png`
+- 配图：`deliverables/pkg-20260907-us-stock-market-closed-labor-day/when2buy-image-model-v4.png`
 
 The U.S. stock market is closed Monday for Labor Day.  When2Buy — your U.S. stock partner.
 
@@ -1320,9 +1320,9 @@ Market radar: @WhaleInsider reports: NEW: The Bank for International Settlements
 ### Lululemon $LULU short-selling talk
 
 - 状态：`failed`
-- 配图：`deliverables/pkg-20260907-lululemon-short-talk/when2buy-image-model.png`
+- 配图：`deliverables/pkg-20260907-lululemon-short-talk/when2buy-image-model-v2.png`
 
-Lululemon $LULU is drawing short-selling talk in a jab aimed at Michael Burry.  When2Buy — your U.S. stock partner.
+Lululemon $LULU is getting short-call attention, with Michael Burry the target of the jab.  When2Buy — your U.S. stock partner.
 
 ### Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will take pl
 
@@ -1935,6 +1935,13 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 
 ## 最近运行
 
+- `2026-09-07T09:21:51.454948+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued.
+- `2026-09-07T09:20:30.493130+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned ERROR with no releaseURL on two safe delivery attempts; no public x.com URL was issued.
+- `2026-09-07T09:19:15.980418+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery did not return PUBLISHED plus a public x.com URL across two safe attempts; the observed terminal response was ERROR with no releaseURL.
+- `2026-09-07T09:17:58.855784+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery returned ERROR with no releaseURL; a safe retry did not produce PUBLISHED plus a public x.com URL.
+- `2026-09-07T09:16:42.415368+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz delivery returned ERROR with no releaseURL; a safe retry did not produce PUBLISHED plus a public x.com URL.
+- `2026-09-07T09:06:00Z` **queue / succeeded** — Prepared 23 one-to-one production candidate(s).
+- `2026-09-07T09:05:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T08:56:26.414214+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T08:56:26.319159+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T08:56:26.211038+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
@@ -1948,10 +1955,3 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 - `2026-09-07T08:45:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T08:36:52.669538+00:00` **publish / partial** — Three packages published and verified; two packages reached terminal Postiz delivery errors. Postiz returned state=ERROR with no releaseURL on two delivery attempts; no public x.com URL was issued.
 - `2026-09-07T08:34:09.968922+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T08:33:29.426910+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T08:32:39.894206+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T08:32:02.922389+00:00` **produce / succeeded** — Remade first five timestamp-first packages with original image-model visuals, exact-logo compositing, and visual QA.
-- `2026-09-07T08:25:54Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T08:25:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-07T08:15:03.290970+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-07T08:14:29.228482+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
