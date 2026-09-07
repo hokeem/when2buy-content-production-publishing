@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T16:27:21.303005+00:00",
+  "updatedAt": "2026-09-07T16:48:11.183146+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9004,6 +9004,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097000494098972748",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097000494098972748",
+      "postedAt": "Mon Sep 07 16:34:12 +0000 2026",
+      "text": "Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 years https://t.co/ywRfw6fRhZ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRoK1TcbQAAhzAt.jpg",
+        "https://pbs.twimg.com/media/HRoK1TAX0AAj15D.jpg"
+      ],
+      "engagement": {
+        "likes": 36,
+        "replies": 11,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 9064
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T16:46:37Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRoK1TcbQAAhzAt.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097000494098972748-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRoK1TAX0AAj15D.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097000494098972748-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -14436,6 +14470,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097000494098972748",
+      "rank": 1,
+      "title": "Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 y…",
+      "benchmarkPostId": "2097000494098972748",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097000494098972748",
+      "score": 10594,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T16:46:37Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -55274,6 +55327,64 @@
         "postizPostId": "cmtreano20dp3lm0y93qswru7",
         "deliveryState": "ERROR",
         "releaseURL": null
+      }
+    },
+    {
+      "id": "run-20260907T164637Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T16:46:37Z",
+      "completedAt": "2026-09-07T16:46:37Z",
+      "summary": "Apify scanned both benchmark accounts; captured 69 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T164637Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T16:46:37Z",
+      "completedAt": "2026-09-07T16:46:37Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T164713Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T16:47:13Z",
+      "completedAt": "2026-09-07T16:47:13Z",
+      "summary": "Apify scanned both benchmark accounts; captured 69 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T164734Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T16:47:34Z",
+      "completedAt": "2026-09-07T16:47:34Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T164811Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T16:48:11Z",
+      "completedAt": "2026-09-07T16:48:11Z",
+      "summary": "Shanghai :45 metrics pass, Apify benchmark collection, media archive, and timestamp-first queue rebuild completed; no X submission was made.",
+      "reason": "Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T17:26:21Z",
+        "deliveryReason": "ERROR delivery without a public release URL"
       }
     }
   ],

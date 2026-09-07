@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T16:27:21.303005+00:00`
+- 状态更新：`2026-09-07T16:48:11.183146+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**328**
-- 待选选题：**286**
+- 对标帖子快照：**329**
+- 待选选题：**287**
 - 待发布制作包：**90**
 - 已验证发布：**132**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Mon Sep 07 16:34:12 +0000 2026 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 years https://t.co/ywRfw6fRhZ | [X](https://x.com/StockMKTNewz/status/2097000494098972748) |
 | @StockMKTNewz | Mon Sep 07 15:56:39 +0000 2026 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, according to AAA  On Monday, the national average price at the pump was $4.15, a record high for the holiday - CNBC https://t.co/EMkLKcLUqX | [X](https://x.com/StockMKTNewz/status/2096991041987531044) |
 | @WhaleInsider | Mon Sep 07 15:32:15 +0000 2026 | JUST IN: @MetaWin player turns $6 into $16,733.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies for their $1M airdrop this month. https://t.co/C5RYIOaoLg | [X](https://x.com/WhaleInsider/status/2096984904089125105) |
 | @WhaleInsider | Mon Sep 07 15:38:51 +0000 2026 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of potential U.S. tariffs on refined copper imports. https://t.co/5itwt8BTfp | [X](https://x.com/WhaleInsider/status/2096986563792027845) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 11:40:28 +0000 2026 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026  💩 Applovin: -52%🔴 https://t.co/aFQEEt4V64 | [X](https://x.com/StockMKTNewz/status/2096926573056151788) |
 | @WhaleInsider | Mon Sep 07 11:17:41 +0000 2026 | JUST IN: Robinhood CEO Vlad names the cat on the left beside Cashcat “Capital.” The dev is followed by Vlad himself. https://t.co/PjRkmjSW0E | [X](https://x.com/WhaleInsider/status/2096920838301782244) |
 | @WhaleInsider | Mon Sep 07 11:22:23 +0000 2026 | JUST IN: 🇨🇳🇶🇦 China to deepen energy, investment, AI cooperation with Qatar - CCTV​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/5EhpMGI2Or | [X](https://x.com/WhaleInsider/status/2096922021468766260) |
-| @WhaleInsider | Mon Sep 07 09:40:31 +0000 2026 | JUST IN: $BTC currently forecasted to hit a high of $85,000 this month, per Kalshi traders. https://t.co/Gx5xy4c7cY | [X](https://x.com/WhaleInsider/status/2096896385584935155) |
 
 ## 选题推荐
 
@@ -77,6 +77,7 @@
 | 1 | JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Pa… | WhaleInsider | 16496 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of p… | WhaleInsider | 14920 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, acc… | StockMKTNewz | 8752 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 y… | StockMKTNewz | 10594 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2183,6 +2184,11 @@ U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  T
 
 ## 最近运行
 
+- `2026-09-07T16:48:11Z` **full / partial** — Shanghai :45 metrics pass, Apify benchmark collection, media archive, and timestamp-first queue rebuild completed; no X submission was made. Circuit breaker active: previously observed Postiz X delivery cmtreano20dp3lm0y93qswru7 is ERROR without a public release URL; no accepted task was retried. The breaker remains active until 2026-09-07T17:26:21Z.
+- `2026-09-07T16:47:34Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T16:47:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 69 eligible originals and added 0 new post(s).
+- `2026-09-07T16:46:37Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T16:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 69 eligible originals and added 1 new post(s).
 - `2026-09-07T16:26:21Z` **publish / partial** — No Postiz submission: the required 60-minute X delivery circuit breaker is active; the newest gasoline package remains ready. Postiz query at 2026-09-07T16:26:21Z found X delivery cmtreano20dp3lm0y93qswru7 in ERROR state with releaseURL null; no accepted task was retried. Circuit breaker active until 2026-09-07T17:26:21Z.
 - `2026-09-07T16:26:08Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
 - `2026-09-07T16:26:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 0 new post(s).
@@ -2198,8 +2204,3 @@ U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  T
 - `2026-09-07T15:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 71 eligible originals and added 2 new post(s).
 - `2026-09-07T15:45:35Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T15:29:08.996847+00:00` **publish / partial** — One throttled Postiz submission for pkg-20260907-datahedge-intel-partner returned ERROR without a verified public X URL; circuit breaker activated and no further post was submitted. Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z; releaseURL was null. Circuit breaker active for 60 minutes; accepted task will not be retried.
-- `2026-09-07T15:27:50Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
-- `2026-09-07T15:26:18Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
-- `2026-09-07T15:26:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 3 new post(s).
-- `2026-09-07T15:10:43.372394+00:00` **publish / partial** — Publication attempt for pkg-20260907-caterpillar-cat-plus-42-ytd did not produce a verified public X URL; package remains ready and was not retried. Postiz publish command returned without a Postiz delivery record in the queried delivery window; no PUBLISHED state or public x.com URL was available for verification.
-- `2026-09-07T15:08:59Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
