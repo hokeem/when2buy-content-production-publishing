@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T12:34:21.283592+00:00",
+  "updatedAt": "2026-09-07T12:54:26.195868+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8360,6 +8360,118 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2096942235312918559",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096942235312918559",
+      "postedAt": "Mon Sep 07 12:42:42 +0000 2026",
+      "text": "Dell Technologies is currently the 3rd best performing stock in the S&amp;P 500 so far in 2026\n\n🥉 $DELL: +316%🟢 https://t.co/wp7qNq9AS0",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnTKd-aQAAT9pt.jpg"
+      ],
+      "engagement": {
+        "likes": 20,
+        "replies": 4,
+        "reposts": 2,
+        "quotes": 1,
+        "views": 5542
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T12:46:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnTKd-aQAAT9pt.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096942235312918559-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096942065867202925",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096942065867202925",
+      "postedAt": "Mon Sep 07 12:42:02 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD generated $30,000,000 in revenue last week. https://t.co/1Wt4dbr1wB",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnVsV-bQAA_w-U.jpg"
+      ],
+      "engagement": {
+        "likes": 30,
+        "replies": 16,
+        "reposts": 9,
+        "quotes": 2,
+        "views": 11880
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T12:46:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnVsV-bQAA_w-U.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096942065867202925-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096940978732953909",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096940978732953909",
+      "postedAt": "Mon Sep 07 12:37:43 +0000 2026",
+      "text": "JUST IN: $INDEXR launches on Robinhood Chain as https://t.co/Y2sUgKxg2e memecoin index-fund token, bundling coins into one 1:1-backed, redeemable token. https://t.co/piTq8YX75P",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnUtCXacAA1iLm.jpg"
+      ],
+      "engagement": {
+        "likes": 45,
+        "replies": 20,
+        "reposts": 15,
+        "quotes": 0,
+        "views": 13637
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T12:46:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnUtCXacAA1iLm.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096940978732953909-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096939055036436906",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096939055036436906",
+      "postedAt": "Mon Sep 07 12:30:04 +0000 2026",
+      "text": "Moderna is currently the 2nd best performing stock in the S&amp;P 500 so far in 2026\n\n🥈 Moderna $MRNA: +394%🟢 https://t.co/CgsW3nYPph",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRnMBadXYAArmw2.jpg"
+      ],
+      "engagement": {
+        "likes": 57,
+        "replies": 8,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 9440
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T12:46:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRnMBadXYAArmw2.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096939055036436906-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -13397,6 +13509,82 @@
         "visualPotential": 3,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096942235312918559",
+      "rank": 1,
+      "title": "Dell Technologies is currently the 3rd best performing stock in the S&amp;P 500 so far in 20…",
+      "benchmarkPostId": "2096942235312918559",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096942235312918559",
+      "score": 6262,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T12:46:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096942065867202925",
+      "rank": 2,
+      "title": "JUST IN: Robinhood Chain $HOOD generated $30,000,000 in revenue last week. https://t.co/1Wt4…",
+      "benchmarkPostId": "2096942065867202925",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096942065867202925",
+      "score": 13690,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T12:46:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096940978732953909",
+      "rank": 3,
+      "title": "JUST IN: $INDEXR launches on Robinhood Chain as https://t.co/Y2sUgKxg2e memecoin index-fund …",
+      "benchmarkPostId": "2096940978732953909",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096940978732953909",
+      "score": 16087,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T12:46:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096939055036436906",
+      "rank": 4,
+      "title": "Moderna is currently the 2nd best performing stock in the S&amp;P 500 so far in 2026 🥈 Moder…",
+      "benchmarkPostId": "2096939055036436906",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096939055036436906",
+      "score": 11200,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T12:46:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -18176,40 +18364,128 @@
       "deliveryError": "Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries."
     },
     {
-      "id": "pkg-20260907-apple-iphone-event-leadership",
+      "id": "pkg-20260907-apple-iphone-event-ternus",
       "benchmarkPostId": "2096935123937640546",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096935123937640546",
-      "title": "Apple iPhone event leadership",
-      "status": "failed",
-      "postText": "Tim Cook is expected to skip Apple $AAPL's iPhone event Wednesday.\n\nJohn Ternus will lead the presentation.\n\nWhen2Buy — your U.S. stock partner.",
+      "title": "John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear",
+      "status": "published",
+      "postText": "John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
-        "Tim Cook will reportedly not appear at Apple's iPhone release event on Wednesday.",
-        "John Ternus will be in full control of the event."
+        "John Ternus is expected to lead Apple's new iPhone release event Wednesday.",
+        "Tim Cook is not expected to appear."
       ],
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2096935123937640546"
       ],
-      "imagePath": "deliverables/pkg-20260907-apple-iphone-event-leadership/when2buy-image-model-v3.png",
-      "createdAt": "2026-09-07T12:30:57.265007Z",
+      "imagePath": "deliverables/pkg-20260907-apple-iphone-event-ternus/when2buy-image-model.png",
+      "createdAt": "2026-09-07T12:51:05.954327Z",
       "visualProduction": {
         "method": "image_model",
-        "prompt": "Use case: ads-marketing. Asset type: 1:1 X financial-news visual for When2Buy. Primary request: original premium editorial visual about Apple’s upcoming iPhone event with leadership transition focus. Scene/backdrop: a dark Apple-like product-launch stage, sophisticated near-black auditorium, subtle white projection light. Subject: a sleek unbranded modern smartphone on a pedestal, with a single empty executive presentation lectern in the background; concrete product-event scene, not an abstract background. Style/medium: high-end photorealistic financial-news editorial photography. Composition/framing: exact square 1:1. Product dominates left/center. Keep the lower-right 20% clean and near-black for a circular logo added afterward. Lighting/mood: restrained, dramatic, premium. Color palette: near-black, white, restrained red only. Text: none. Constraints: no readable text, numbers, brand logos, source names, social handles, URLs, watermarks, disclaimer, CTA, people, generic radar background, or typography card; scene must be complete and undamaged.",
+        "prompt": "Minimal product-launch stage with a luminous smartphone silhouette and anonymous executive at a lectern; premium near-black and white financial-news imagery with restrained red accents; no generated text or logos; clean lower-right logo-safe area.",
         "logoApplied": true,
-        "qaStatus": "passed",
-        "qa": {
-          "inspectedAt": "2026-09-07T12:30:57.265053Z",
-          "checks": [
-            "square",
-            "entity-led",
-            "no readable generated text",
-            "no source attribution",
-            "exact logo composited once",
-            "logo clear space",
-            "no damage"
-          ]
-        }
+        "qaStatus": "passed"
       },
-      "deliveryError": "Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries."
+      "postizPostId": "cmtr8s5xp0ja8qk0ybp17iswm",
+      "publishedAt": "2026-09-07T12:53:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-dell-sp500-316",
+      "benchmarkPostId": "2096942235312918559",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096942235312918559",
+      "title": "Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316%",
+      "status": "published",
+      "postText": "Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316%.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Dell Technologies is the third-best-performing S&P 500 stock so far in 2026.",
+        "$DELL is up 316%."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096942235312918559"
+      ],
+      "imagePath": "deliverables/pkg-20260907-dell-sp500-316/when2buy-image-model.png",
+      "createdAt": "2026-09-07T12:51:05.954160Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Dell enterprise data-center scene with a bronze third-place medallion and abstract rising market trajectory; premium near-black, white, restrained red and slight green performance accent; no generated text or logos; clean lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtr8os360boxlm0ys536q91j",
+      "publishedAt": "2026-09-07T12:51:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-robinhood-chain-30m-week",
+      "benchmarkPostId": "2096942065867202925",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096942065867202925",
+      "title": "Robinhood Chain generated $30 million in revenue last week",
+      "status": "published",
+      "postText": "Robinhood Chain generated $30 million in revenue last week. $HOOD\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Robinhood Chain generated $30 million in revenue last week."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096942065867202925"
+      ],
+      "imagePath": "deliverables/pkg-20260907-robinhood-chain-30m-week/when2buy-image-model.png",
+      "createdAt": "2026-09-07T12:51:05.954238Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Robinhood Chain transaction-network infrastructure and a revenue-surge motif; premium near-black and white financial-news imagery with restrained red accents; no generated text or logos; clean lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtr8pm7g0bp3lm0yohn5bkvu",
+      "publishedAt": "2026-09-07T12:51:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-indexr-robinhood-chain-launch",
+      "benchmarkPostId": "2096940978732953909",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096940978732953909",
+      "title": "$INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token",
+      "status": "published",
+      "postText": "$INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "INDEXR launched on Robinhood Chain.",
+        "It is described as a 1:1-backed, redeemable memecoin index-fund token that bundles coins into one token."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096940978732953909"
+      ],
+      "imagePath": "deliverables/pkg-20260907-indexr-robinhood-chain-launch/when2buy-image-model.png",
+      "createdAt": "2026-09-07T12:51:05.954270Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Index-fund token container linking several abstract token nodes with a one-to-one exchange motif; premium near-black and white financial-news imagery with restrained red accents; no generated text or logos; clean lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtr8qgjr0j9hqk0yqvmugyrh",
+      "publishedAt": "2026-09-07T12:52:00.000Z"
+    },
+    {
+      "id": "pkg-20260907-moderna-sp500-394",
+      "benchmarkPostId": "2096939055036436906",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096939055036436906",
+      "title": "Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394%",
+      "status": "published",
+      "postText": "Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394%.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Moderna is the second-best-performing S&P 500 stock so far in 2026.",
+        "$MRNA is up 394%."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2096939055036436906"
+      ],
+      "imagePath": "deliverables/pkg-20260907-moderna-sp500-394/when2buy-image-model.png",
+      "createdAt": "2026-09-07T12:51:05.954300Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Modern biotechnology research vessel and laboratory architecture with an abstract rising market trajectory; premium near-black, white, restrained red and slight green performance accent; no generated text or logos; clean lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtr8rbs80bpclm0yed055zmy",
+      "publishedAt": "2026-09-07T12:53:00.000Z"
     }
   ],
   "posts": [
@@ -18985,12 +19261,14 @@
       "url": "https://x.com/_When2buy/status/2095855505831010807",
       "postizPostId": "cmtmy3wfy06twqk0yd6ex777c",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-04T12:44:00Z",
         "windowEnd": "2026-09-07T12:44:00Z",
         "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters",
+        "completedAt": "2026-09-07T12:45:26.814633Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -19002,12 +19280,14 @@
       "url": "https://x.com/_When2buy/status/2095855640375922725",
       "postizPostId": "cmtmy4l9w06u2qk0ye9w5ebob",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-04T12:44:00Z",
         "windowEnd": "2026-09-07T12:44:00Z",
         "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters",
+        "completedAt": "2026-09-07T12:45:26.814633Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -19019,12 +19299,14 @@
       "url": "https://x.com/_When2buy/status/2095855783753953496",
       "postizPostId": "cmtmy5aj606u5qk0ys9wlfhl1",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-04T12:45:00Z",
         "windowEnd": "2026-09-07T12:45:00Z",
         "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters",
+        "completedAt": "2026-09-07T12:45:26.814633Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -19036,12 +19318,14 @@
       "url": "https://x.com/_When2buy/status/2095855909612498984",
       "postizPostId": "cmtmy5yfw06uaqk0yb7kccix7",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-04T12:45:00Z",
         "windowEnd": "2026-09-07T12:45:00Z",
         "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters",
+        "completedAt": "2026-09-07T12:45:26.814633Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -19056,9 +19340,9 @@
         "status": "active",
         "windowStart": "2026-09-04T12:46:00Z",
         "windowEnd": "2026-09-07T12:46:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19073,9 +19357,9 @@
         "status": "active",
         "windowStart": "2026-09-05T00:42:00Z",
         "windowEnd": "2026-09-08T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19090,9 +19374,9 @@
         "status": "active",
         "windowStart": "2026-09-05T00:42:00Z",
         "windowEnd": "2026-09-08T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19107,9 +19391,9 @@
         "status": "active",
         "windowStart": "2026-09-05T00:43:00Z",
         "windowEnd": "2026-09-08T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19124,9 +19408,9 @@
         "status": "active",
         "windowStart": "2026-09-05T00:43:00Z",
         "windowEnd": "2026-09-08T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19141,9 +19425,9 @@
         "status": "active",
         "windowStart": "2026-09-05T00:44:00Z",
         "windowEnd": "2026-09-08T00:44:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19158,9 +19442,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:42:00Z",
         "windowEnd": "2026-09-08T06:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19175,9 +19459,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:43:00Z",
         "windowEnd": "2026-09-08T06:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19192,9 +19476,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:43:00Z",
         "windowEnd": "2026-09-08T06:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19209,9 +19493,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:44:00Z",
         "windowEnd": "2026-09-08T06:44:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19226,9 +19510,9 @@
         "status": "active",
         "windowStart": "2026-09-05T06:44:00Z",
         "windowEnd": "2026-09-08T06:44:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19243,9 +19527,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:42:00Z",
         "windowEnd": "2026-09-08T12:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19260,9 +19544,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:42:00Z",
         "windowEnd": "2026-09-08T12:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19277,9 +19561,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:43:00Z",
         "windowEnd": "2026-09-08T12:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19294,9 +19578,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:44:00Z",
         "windowEnd": "2026-09-08T12:44:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19311,9 +19595,9 @@
         "status": "active",
         "windowStart": "2026-09-05T12:44:00Z",
         "windowEnd": "2026-09-08T12:44:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19328,9 +19612,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:42:00Z",
         "windowEnd": "2026-09-09T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19345,9 +19629,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:42:00Z",
         "windowEnd": "2026-09-09T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19362,9 +19646,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:43:00Z",
         "windowEnd": "2026-09-09T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19379,9 +19663,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:43:00Z",
         "windowEnd": "2026-09-09T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19396,9 +19680,9 @@
         "status": "active",
         "windowStart": "2026-09-06T00:44:00Z",
         "windowEnd": "2026-09-09T00:44:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19413,9 +19697,9 @@
         "status": "active",
         "windowStart": "2026-09-06T06:41:00Z",
         "windowEnd": "2026-09-09T06:41:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19430,9 +19714,9 @@
         "status": "active",
         "windowStart": "2026-09-06T06:42:00Z",
         "windowEnd": "2026-09-09T06:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19447,9 +19731,9 @@
         "status": "active",
         "windowStart": "2026-09-06T06:42:00Z",
         "windowEnd": "2026-09-09T06:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19464,9 +19748,9 @@
         "status": "active",
         "windowStart": "2026-09-06T06:43:00Z",
         "windowEnd": "2026-09-09T06:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19481,9 +19765,9 @@
         "status": "active",
         "windowStart": "2026-09-06T06:43:00Z",
         "windowEnd": "2026-09-09T06:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19498,9 +19782,9 @@
         "status": "active",
         "windowStart": "2026-09-06T12:41:00Z",
         "windowEnd": "2026-09-09T12:41:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19515,9 +19799,9 @@
         "status": "active",
         "windowStart": "2026-09-06T12:42:00Z",
         "windowEnd": "2026-09-09T12:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19532,9 +19816,9 @@
         "status": "active",
         "windowStart": "2026-09-06T12:42:00Z",
         "windowEnd": "2026-09-09T12:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19549,9 +19833,9 @@
         "status": "active",
         "windowStart": "2026-09-06T12:43:00Z",
         "windowEnd": "2026-09-09T12:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19566,9 +19850,9 @@
         "status": "active",
         "windowStart": "2026-09-06T12:43:00Z",
         "windowEnd": "2026-09-09T12:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19583,9 +19867,9 @@
         "status": "active",
         "windowStart": "2026-09-07T00:42:00Z",
         "windowEnd": "2026-09-10T00:42:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19600,9 +19884,9 @@
         "status": "active",
         "windowStart": "2026-09-07T00:43:00Z",
         "windowEnd": "2026-09-10T00:43:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19617,9 +19901,9 @@
         "status": "active",
         "windowStart": "2026-09-07T00:44:00Z",
         "windowEnd": "2026-09-10T00:44:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19634,9 +19918,9 @@
         "status": "active",
         "windowStart": "2026-09-07T00:44:00Z",
         "windowEnd": "2026-09-10T00:44:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19651,9 +19935,9 @@
         "status": "active",
         "windowStart": "2026-09-07T00:45:00Z",
         "windowEnd": "2026-09-10T00:45:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19668,9 +19952,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:32:00Z",
         "windowEnd": "2026-09-10T05:32:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19685,9 +19969,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:32:00Z",
         "windowEnd": "2026-09-10T05:32:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19702,9 +19986,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:33:00Z",
         "windowEnd": "2026-09-10T05:33:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19719,9 +20003,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:33:00Z",
         "windowEnd": "2026-09-10T05:33:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19736,9 +20020,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:34:00Z",
         "windowEnd": "2026-09-10T05:34:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19753,9 +20037,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:55:00Z",
         "windowEnd": "2026-09-10T05:55:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19770,9 +20054,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:56:00Z",
         "windowEnd": "2026-09-10T05:56:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19787,9 +20071,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:56:00Z",
         "windowEnd": "2026-09-10T05:56:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19804,9 +20088,9 @@
         "status": "active",
         "windowStart": "2026-09-07T05:57:00Z",
         "windowEnd": "2026-09-10T05:57:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19821,9 +20105,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:15:00Z",
         "windowEnd": "2026-09-10T06:15:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19838,9 +20122,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:16:00Z",
         "windowEnd": "2026-09-10T06:16:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19855,9 +20139,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:16:00Z",
         "windowEnd": "2026-09-10T06:16:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19872,9 +20156,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:17:00Z",
         "windowEnd": "2026-09-10T06:17:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19889,9 +20173,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:17:00Z",
         "windowEnd": "2026-09-10T06:17:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19906,9 +20190,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:33:00Z",
         "windowEnd": "2026-09-10T06:33:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19923,9 +20207,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:34:00Z",
         "windowEnd": "2026-09-10T06:34:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19940,9 +20224,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:34:00Z",
         "windowEnd": "2026-09-10T06:34:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19957,9 +20241,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:35:00Z",
         "windowEnd": "2026-09-10T06:35:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19974,9 +20258,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:35:00Z",
         "windowEnd": "2026-09-10T06:35:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -19991,9 +20275,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:52:00Z",
         "windowEnd": "2026-09-10T06:52:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20008,9 +20292,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:52:00Z",
         "windowEnd": "2026-09-10T06:52:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20025,9 +20309,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:53:00Z",
         "windowEnd": "2026-09-10T06:53:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20042,9 +20326,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:54:00Z",
         "windowEnd": "2026-09-10T06:54:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20059,9 +20343,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:54:00Z",
         "windowEnd": "2026-09-10T06:54:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20076,9 +20360,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:12:00Z",
         "windowEnd": "2026-09-10T07:12:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20093,9 +20377,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:13:00Z",
         "windowEnd": "2026-09-10T07:13:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20110,9 +20394,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:14:00Z",
         "windowEnd": "2026-09-10T07:14:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20127,9 +20411,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:14:00Z",
         "windowEnd": "2026-09-10T07:14:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20144,9 +20428,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:15:00Z",
         "windowEnd": "2026-09-10T07:15:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20161,9 +20445,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:35:00Z",
         "windowEnd": "2026-09-10T07:35:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20178,9 +20462,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:36:00Z",
         "windowEnd": "2026-09-10T07:36:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20195,9 +20479,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:36:00Z",
         "windowEnd": "2026-09-10T07:36:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20212,9 +20496,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:37:00Z",
         "windowEnd": "2026-09-10T07:37:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20229,9 +20513,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:37:00Z",
         "windowEnd": "2026-09-10T07:37:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20246,9 +20530,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:52:00Z",
         "windowEnd": "2026-09-10T07:52:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20263,9 +20547,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:53:00Z",
         "windowEnd": "2026-09-10T07:53:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20280,9 +20564,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:53:00Z",
         "windowEnd": "2026-09-10T07:53:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20297,9 +20581,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:54:00Z",
         "windowEnd": "2026-09-10T07:54:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20314,9 +20598,9 @@
         "status": "active",
         "windowStart": "2026-09-07T07:54:00Z",
         "windowEnd": "2026-09-10T07:54:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20331,9 +20615,9 @@
         "status": "active",
         "windowStart": "2026-09-07T08:11:00Z",
         "windowEnd": "2026-09-10T08:11:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20348,9 +20632,9 @@
         "status": "active",
         "windowStart": "2026-09-07T08:12:00Z",
         "windowEnd": "2026-09-10T08:12:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20365,9 +20649,9 @@
         "status": "active",
         "windowStart": "2026-09-07T08:13:00Z",
         "windowEnd": "2026-09-10T08:13:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20382,9 +20666,9 @@
         "status": "active",
         "windowStart": "2026-09-07T08:14:00Z",
         "windowEnd": "2026-09-10T08:14:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20399,9 +20683,9 @@
         "status": "active",
         "windowStart": "2026-09-07T08:14:00Z",
         "windowEnd": "2026-09-10T08:14:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20416,9 +20700,9 @@
         "status": "active",
         "windowStart": "2026-09-07T08:32:00Z",
         "windowEnd": "2026-09-10T08:32:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20433,9 +20717,9 @@
         "status": "active",
         "windowStart": "2026-09-07T08:33:00Z",
         "windowEnd": "2026-09-10T08:33:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -20450,9 +20734,94 @@
         "status": "active",
         "windowStart": "2026-09-07T08:33:00Z",
         "windowEnd": "2026-09-10T08:33:00Z",
-        "lastAttemptAt": "2026-09-07T11:45:34.397892Z",
-        "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptAt": "2026-09-07T12:45:26.814633Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2096944502418387234",
+      "packageId": "pkg-20260907-dell-sp500-316",
+      "title": "Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316%",
+      "status": "published",
+      "publishedAt": "2026-09-07T12:51:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096944502418387234",
+      "postizPostId": "cmtr8os360boxlm0ys536q91j",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T12:51:00.000Z",
+        "windowEnd": "2026-09-10T12:51:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096944666377867632",
+      "packageId": "pkg-20260907-robinhood-chain-30m-week",
+      "title": "Robinhood Chain generated $30 million in revenue last week",
+      "status": "published",
+      "publishedAt": "2026-09-07T12:51:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096944666377867632",
+      "postizPostId": "cmtr8pm7g0bp3lm0yohn5bkvu",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T12:51:00.000Z",
+        "windowEnd": "2026-09-10T12:51:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096944831633473960",
+      "packageId": "pkg-20260907-indexr-robinhood-chain-launch",
+      "title": "$INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token",
+      "status": "published",
+      "publishedAt": "2026-09-07T12:52:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096944831633473960",
+      "postizPostId": "cmtr8qgjr0j9hqk0yqvmugyrh",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T12:52:00.000Z",
+        "windowEnd": "2026-09-10T12:52:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096945002169675872",
+      "packageId": "pkg-20260907-moderna-sp500-394",
+      "title": "Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394%",
+      "status": "published",
+      "publishedAt": "2026-09-07T12:53:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096945002169675872",
+      "postizPostId": "cmtr8rbs80bpclm0yed055zmy",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T12:53:00.000Z",
+        "windowEnd": "2026-09-10T12:53:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2096945164745048157",
+      "packageId": "pkg-20260907-apple-iphone-event-ternus",
+      "title": "John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear",
+      "status": "published",
+      "publishedAt": "2026-09-07T12:53:00.000Z",
+      "url": "https://x.com/_When2buy/status/2096945164745048157",
+      "postizPostId": "cmtr8s5xp0ja8qk0ybp17iswm",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-07T12:53:00.000Z",
+        "windowEnd": "2026-09-10T12:53:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -30848,6 +31217,3492 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-07T10:46:00.873413Z"
       }
+    },
+    {
+      "id": "metric-2095856045784805886-20260907T124526Z",
+      "postId": "2095856045784805886",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 89,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtmy6n8b06ukqk0ysismget6",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtmy6n8b06ukqk0ysismget6",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096036275862266165-20260907T124526Z",
+      "postId": "2096036275862266165",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnnrntg0t64lm0ygbfvyuis",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnnrntg0t64lm0ygbfvyuis",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096036402891010178-20260907T124526Z",
+      "postId": "2096036402891010178",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 81,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnnsbiw0t66lm0yporztv76",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnnsbiw0t66lm0yporztv76",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096036533728108897-20260907T124526Z",
+      "postId": "2096036533728108897",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 48,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnnsz7h0t68lm0y6q724pr4",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnnsz7h0t68lm0y6q724pr4",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096036664003154368-20260907T124526Z",
+      "postId": "2096036664003154368",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 111,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnntnd20kb3qk0y474ffq2b",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnntnd20kb3qk0y474ffq2b",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096036799080776086-20260907T124526Z",
+      "postId": "2096036799080776086",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 14,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtnnubwp0kblqk0y93zf58k3",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtnnubwp0kblqk0y93zf58k3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096126961492082889-20260907T124526Z",
+      "postId": "2096126961492082889",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 14,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0n2tq0vh9lm0yvs7t4kq9",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0n2tq0vh9lm0yvs7t4kq9",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096127091901354265-20260907T124526Z",
+      "postId": "2096127091901354265",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 36,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0nqrv0ml0qk0yjvrtw5zr",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0nqrv0ml0qk0yjvrtw5zr",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096127220427481484-20260907T124526Z",
+      "postId": "2096127220427481484",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0oegg0vhflm0y0fyotd9s",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0oegg0vhflm0y0fyotd9s",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096127353290363156-20260907T124526Z",
+      "postId": "2096127353290363156",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 13,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0p2yd0vhglm0ybse4dt84",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0p2yd0vhglm0ybse4dt84",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096127492960735481-20260907T124526Z",
+      "postId": "2096127492960735481",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmto0pqw40mlhqk0ycy4egore",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmto0pqw40mlhqk0ycy4egore",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096217478926115235-20260907T124526Z",
+      "postId": "2096217478926115235",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodhjeh0pjqqk0y0p3zf279",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodhjeh0pjqqk0y0p3zf279",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096217642730475682-20260907T124526Z",
+      "postId": "2096217642730475682",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodiebu0yholm0yxgjyseds",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodiebu0yholm0yxgjyseds",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096217796002881854-20260907T124526Z",
+      "postId": "2096217796002881854",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodj8yj0yhtlm0ymewjdvt2",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodj8yj0yhtlm0ymewjdvt2",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096217926424772667-20260907T124526Z",
+      "postId": "2096217926424772667",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 23,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodjwf90yi0lm0y427kode9",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodjwf90yi0lm0y427kode9",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096218060470542508-20260907T124526Z",
+      "postId": "2096218060470542508",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtodkk5e0yiblm0y8nh0tmu3",
+        "query": {
+          "date": 3
+        },
+        "postizPostId": "cmtodkk5e0yiblm0y8nh0tmu3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096398633344417984-20260907T124526Z",
+      "postId": "2096398633344417984",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 97,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp37cwt15tqlm0yoql59pkp",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp37cwt15tqlm0yoql59pkp",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096398792233017423-20260907T124526Z",
+      "postId": "2096398792233017423",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 11,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp386d215tylm0ymzxatyli",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp386d215tylm0ymzxatyli",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096398921539199051-20260907T124526Z",
+      "postId": "2096398921539199051",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 31,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp38ubd15u9lm0y66iv1v80",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp38ubd15u9lm0y66iv1v80",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096399055203238203-20260907T124526Z",
+      "postId": "2096399055203238203",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 12,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp39iq915uolm0yznzxgjex",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp39iq915uolm0yznzxgjex",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096399182450090088-20260907T124526Z",
+      "postId": "2096399182450090088",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 126,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtp3a6ao02abqk0yqrkbkca1",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtp3a6ao02abqk0yqrkbkca1",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096489141521564026-20260907T124526Z",
+      "postId": "2096489141521564026",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg1v6n018wqk0ywlcs1q16",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg1v6n018wqk0ywlcs1q16",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096489273486966979-20260907T124526Z",
+      "postId": "2096489273486966979",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 15,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg2jeu018xqk0ync496e9z",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg2jeu018xqk0ync496e9z",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096489403720102140-20260907T124526Z",
+      "postId": "2096489403720102140",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 11,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg37f1018zqk0yc35x1seg",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg37f1018zqk0yc35x1seg",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096489538550137245-20260907T124526Z",
+      "postId": "2096489538550137245",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg3wco18eklm0ysnzu6rmq",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg3wco18eklm0ysnzu6rmq",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096489671731945544-20260907T124526Z",
+      "postId": "2096489671731945544",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 33,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpg4k9818emlm0yxhosag98",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpg4k9818emlm0yxhosag98",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096579642832597213-20260907T124526Z",
+      "postId": "2096579642832597213",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 22,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpswbfw1azjlm0y0akiitu9",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpswbfw1azjlm0y0akiitu9",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096579773963391239-20260907T124526Z",
+      "postId": "2096579773963391239",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 10,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpsx0qs1aznlm0ysvqkc18p",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpsx0qs1aznlm0ysvqkc18p",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096579911805010395-20260907T124526Z",
+      "postId": "2096579911805010395",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 11,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpsxppe1azulm0yi1zn6fxz",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpsxppe1azulm0yi1zn6fxz",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096580050598682787-20260907T124526Z",
+      "postId": "2096580050598682787",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 196,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpsyfkh1azvlm0ycw7wnfh2",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpsyfkh1azvlm0ycw7wnfh2",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096580186124976177-20260907T124526Z",
+      "postId": "2096580186124976177",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 96,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtpsz4nn041zqk0y5av3x4sg",
+        "query": {
+          "date": 2
+        },
+        "postizPostId": "cmtpsz4nn041zqk0y5av3x4sg",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096761201938375037-20260907T124526Z",
+      "postId": "2096761201938375037",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 26,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqio4u304q5lm0yzqutj0hj",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqio4u304q5lm0yzqutj0hj",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096761333488513480-20260907T124526Z",
+      "postId": "2096761333488513480",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 32,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqiot3r0bvyqk0y2ntg1urh",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqiot3r0bvyqk0y2ntg1urh",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096761466556932161-20260907T124526Z",
+      "postId": "2096761466556932161",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 9,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqiphod04qalm0yvylmsli2",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqiphod04qalm0yvylmsli2",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096761601777086823-20260907T124526Z",
+      "postId": "2096761601777086823",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 26,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqiq61k0bw4qk0y6o4gdff3",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqiq61k0bw4qk0y6o4gdff3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096761735374164145-20260907T124526Z",
+      "postId": "2096761735374164145",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqiqty60bwsqk0yj3ncozhg",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqiqty60bwsqk0yj3ncozhg",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096833975658680669-20260907T124526Z",
+      "postId": "2096833975658680669",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqszzfy078ilm0y1mvqeg5g",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqszzfy078ilm0y1mvqeg5g",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096834091673063588-20260907T124526Z",
+      "postId": "2096834091673063588",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqt0l0d0eivqk0ybvko5wm4",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqt0l0d0eivqk0ybvko5wm4",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096834296762011792-20260907T124526Z",
+      "postId": "2096834296762011792",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 48,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqt1mv70791lm0yyqne9pcu",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqt1mv70791lm0yyqne9pcu",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096834411216159009-20260907T124526Z",
+      "postId": "2096834411216159009",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 38,
+      "likes": 1,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqt285c0794lm0y9fhpw58e",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqt285c0794lm0y9fhpw58e",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096834524735013203-20260907T124526Z",
+      "postId": "2096834524735013203",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 8,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqt2t8t0796lm0ynvrbkxsq",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqt2t8t0796lm0ynvrbkxsq",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096839822057115976-20260907T124526Z",
+      "postId": "2096839822057115976",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 7,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqttud00em9qk0yxv93eirw",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqttud00em9qk0yxv93eirw",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096840008116420742-20260907T124526Z",
+      "postId": "2096840008116420742",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqtuskz0emaqk0ye1bhh06a",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqtuskz0emaqk0ye1bhh06a",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096840177251680334-20260907T124526Z",
+      "postId": "2096840177251680334",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqtvolo0emdqk0y1km09u77",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqtvolo0emdqk0y1km09u77",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096840363533312068-20260907T124526Z",
+      "postId": "2096840363533312068",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqtwgtb07d3lm0yo0212izd",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqtwgtb07d3lm0yo0212izd",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096845001351393501-20260907T124526Z",
+      "postId": "2096845001351393501",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqukbdj07julm0y19ad2srw",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqukbdj07julm0y19ad2srw",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096845136185663992-20260907T124526Z",
+      "postId": "2096845136185663992",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqul0k807jwlm0yn1rjrx0z",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqul0k807jwlm0yn1rjrx0z",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096845250576977938-20260907T124526Z",
+      "postId": "2096845250576977938",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 8,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqullvi07jylm0ygpwkho5h",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqullvi07jylm0ygpwkho5h",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096845367338041635-20260907T124526Z",
+      "postId": "2096845367338041635",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqum7ai0etvqk0ynl0olikv",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqum7ai0etvqk0ynl0olikv",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096845481288851512-20260907T124526Z",
+      "postId": "2096845481288851512",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqumsjc0etzqk0yfuohxsa6",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqumsjc0etzqk0yfuohxsa6",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096849491324551540-20260907T124526Z",
+      "postId": "2096849491324551540",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv79p50ezgqk0ydypz57nx",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv79p50ezgqk0ydypz57nx",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096849615861793099-20260907T124526Z",
+      "postId": "2096849615861793099",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv7xhv07pelm0ywsobwkik",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv7xhv07pelm0ywsobwkik",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096849736842232137-20260907T124526Z",
+      "postId": "2096849736842232137",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv8jee07pglm0y03uao9aa",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv8jee07pglm0y03uao9aa",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096849878433624359-20260907T124526Z",
+      "postId": "2096849878433624359",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv98ly07pllm0y9a38wo9g",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv98ly07pllm0y9a38wo9g",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096849998738788846-20260907T124526Z",
+      "postId": "2096849998738788846",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqv9um40f0nqk0ydmq6ggas",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqv9um40f0nqk0ydmq6ggas",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096854162210509026-20260907T124526Z",
+      "postId": "2096854162210509026",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvv5hp07x4lm0y29cp7r2f",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvv5hp07x4lm0y29cp7r2f",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096854301000003651-20260907T124526Z",
+      "postId": "2096854301000003651",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 16,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvvvar07xdlm0y3vztolhm",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvvvar07xdlm0y3vztolhm",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096854447158964727-20260907T124526Z",
+      "postId": "2096854447158964727",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 21,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvwm1d07xklm0yphmzwh9r",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvwm1d07xklm0yphmzwh9r",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096854587550679371-20260907T124526Z",
+      "postId": "2096854587550679371",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvxc3a0f8yqk0y2cbnv703",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvxc3a0f8yqk0y2cbnv703",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096854732249952423-20260907T124526Z",
+      "postId": "2096854732249952423",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqvy2a80f95qk0ypae5tziv",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqvy2a80f95qk0ypae5tziv",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096859345426468895-20260907T124526Z",
+      "postId": "2096859345426468895",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 10,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwlmye0fl6qk0yc3673ebw",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwlmye0fl6qk0yc3673ebw",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096859560149647529-20260907T124526Z",
+      "postId": "2096859560149647529",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwmqfa089blm0y7ga45lbt",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwmqfa089blm0y7ga45lbt",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096859679486095536-20260907T124526Z",
+      "postId": "2096859679486095536",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 11,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwnbnf0flhqk0yv6n8l70p",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwnbnf0flhqk0yv6n8l70p",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096859829679837591-20260907T124526Z",
+      "postId": "2096859829679837591",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 14,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwo0v40flnqk0yeyh37ak3",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwo0v40flnqk0yeyh37ak3",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096860021741265261-20260907T124526Z",
+      "postId": "2096860021741265261",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqwosq70flxqk0ye09cxemg",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqwosq70flxqk0ye09cxemg",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096865134606156168-20260907T124526Z",
+      "postId": "2096865134606156168",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxf6th0fusqk0yny59l0n9",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxf6th0fusqk0yny59l0n9",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096865262234677561-20260907T124526Z",
+      "postId": "2096865262234677561",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxfv0j0fuuqk0yleu74nkl",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxfv0j0fuuqk0yleu74nkl",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096865395340976138-20260907T124526Z",
+      "postId": "2096865395340976138",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxggjl08gflm0ytl76n03n",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxggjl08gflm0ytl76n03n",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096865520805142643-20260907T124526Z",
+      "postId": "2096865520805142643",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxh5t50fvnqk0yec9z84qp",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxh5t50fvnqk0yec9z84qp",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096865657732337897-20260907T124526Z",
+      "postId": "2096865657732337897",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 25,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqxhv520fvoqk0y9dfpl0cx",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqxhv520fvoqk0y9dfpl0cx",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096869428151611677-20260907T124526Z",
+      "postId": "2096869428151611677",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy15ki08kolm0y9gwx43al",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy15ki08kolm0y9gwx43al",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096869544749125986-20260907T124526Z",
+      "postId": "2096869544749125986",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy1qtu08krlm0ypeuqth6i",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy1qtu08krlm0ypeuqth6i",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096869655126421647-20260907T124526Z",
+      "postId": "2096869655126421647",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 6,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy2c1k08kylm0yu29tzkep",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy2c1k08kylm0yu29tzkep",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096869765671428557-20260907T124526Z",
+      "postId": "2096869765671428557",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy2wae0g0lqk0yuxzb514r",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy2wae0g0lqk0yuxzb514r",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096869885339132326-20260907T124526Z",
+      "postId": "2096869885339132326",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqy3i4s08l7lm0ycpjm2j33",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqy3i4s08l7lm0ycpjm2j33",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096874208454398209-20260907T124526Z",
+      "postId": "2096874208454398209",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqypkrj08tmlm0yvjljs0jk",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqypkrj08tmlm0yvjljs0jk",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096874367053640141-20260907T124526Z",
+      "postId": "2096874367053640141",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 9,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqyq9ba0g9kqk0yh671sor6",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqyq9ba0g9kqk0yh671sor6",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096874586663186450-20260907T124526Z",
+      "postId": "2096874586663186450",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqyrj4c08u5lm0yzxtuwk9l",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqyrj4c08u5lm0yzxtuwk9l",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096874726715162931-20260907T124526Z",
+      "postId": "2096874726715162931",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 5,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqys8on0g9rqk0ysa343yjy",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqys8on0g9rqk0ysa343yjy",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096874871292936488-20260907T124526Z",
+      "postId": "2096874871292936488",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqysywd0ga1qk0yizx05558",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqysywd0ga1qk0yizx05558",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096879304479293464-20260907T124526Z",
+      "postId": "2096879304479293464",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 40,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqzfm8w0ghkqk0ymd91v5na",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqzfm8w0ghkqk0ymd91v5na",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096879509362610198-20260907T124526Z",
+      "postId": "2096879509362610198",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 50,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqzgo4n0gi1qk0ycs4fh4rk",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqzgo4n0gi1qk0ycs4fh4rk",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
+    },
+    {
+      "id": "metric-2096879654707835204-20260907T124526Z",
+      "postId": "2096879654707835204",
+      "observedAt": "2026-09-07T12:45:26.814633Z",
+      "views": 49,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtqzherd0gi5qk0yw7y62084",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtqzherd0gi5qk0yw7y62084",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-07"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-07"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-07"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-07"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-07"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-07T12:45:26.814633Z"
+      }
     }
   ],
   "experiments": [],
@@ -34764,6 +38619,82 @@
       "completedAt": "2026-09-07T12:34:21.282567+00:00",
       "summary": "Postiz delivery reached a terminal error after safe retries.",
       "reason": "Postiz returned state=ERROR with no releaseURL for the current package; no public x.com URL was issued after safe delivery retries."
+    },
+    {
+      "id": "run-20260907T124626Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:46:26Z",
+      "completedAt": "2026-09-07T12:46:26Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 4 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T124627Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:46:27Z",
+      "completedAt": "2026-09-07T12:46:27Z",
+      "summary": "Prepared 28 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T125105Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:51:05.954370Z",
+      "completedAt": "2026-09-07T12:51:05.954372Z",
+      "summary": "Produced the five timestamp-first benchmark items with original image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T125149Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:51:49.123668+00:00",
+      "completedAt": "2026-09-07T12:51:49.123672+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T125228Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:52:28.034702+00:00",
+      "completedAt": "2026-09-07T12:52:28.034709+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T125307Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:53:07.476088+00:00",
+      "completedAt": "2026-09-07T12:53:07.476098+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T125348Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:53:48.343421+00:00",
+      "completedAt": "2026-09-07T12:53:48.343490+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T125426Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T12:54:26.194249+00:00",
+      "completedAt": "2026-09-07T12:54:26.194255+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ]
 }
