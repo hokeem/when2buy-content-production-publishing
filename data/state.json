@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T15:10:43.373130+00:00",
+  "updatedAt": "2026-09-07T15:29:08.998073+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -8818,6 +8818,96 @@
       "isPinned": false,
       "capturedAt": "2026-09-07T15:06:27Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2096981101445001600",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096981101445001600",
+      "postedAt": "Mon Sep 07 15:17:09 +0000 2026",
+      "text": "JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Partner Directory. https://t.co/BkbUhbnb4u",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRn5MY0XUAA59LJ.jpg"
+      ],
+      "engagement": {
+        "likes": 50,
+        "replies": 16,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 14236
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T15:26:17Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRn5MY0XUAA59LJ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096981101445001600-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096979998687023461",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2096979998687023461",
+      "postedAt": "Mon Sep 07 15:12:46 +0000 2026",
+      "text": "The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRn4JIlbMAE0tRJ.jpg"
+      ],
+      "engagement": {
+        "likes": 41,
+        "replies": 13,
+        "reposts": 2,
+        "quotes": 1,
+        "views": 11014
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T15:26:17Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRn4JIlbMAE0tRJ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2096979998687023461-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2096978507339354540",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2096978507339354540",
+      "postedAt": "Mon Sep 07 15:06:50 +0000 2026",
+      "text": "JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRn21dvWMAER0yO.jpg",
+        "https://pbs.twimg.com/media/HRn21eNXkAAsS5c.jpg"
+      ],
+      "engagement": {
+        "likes": 176,
+        "replies": 36,
+        "reposts": 8,
+        "quotes": 7,
+        "views": 18581
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-07T15:26:17Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRn21dvWMAER0yO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096978507339354540-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRn21eNXkAAsS5c.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2096978507339354540-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -14159,6 +14249,63 @@
         "visualPotential": 5,
         "factualClarity": 4
       }
+    },
+    {
+      "id": "radar-2096981101445001600",
+      "rank": 1,
+      "title": "JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Pa…",
+      "benchmarkPostId": "2096981101445001600",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096981101445001600",
+      "score": 16496,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T15:26:18Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096979998687023461",
+      "rank": 2,
+      "title": "The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V",
+      "benchmarkPostId": "2096979998687023461",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2096979998687023461",
+      "score": 12514,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T15:26:18Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2096978507339354540",
+      "rank": 3,
+      "title": "JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV",
+      "benchmarkPostId": "2096978507339354540",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2096978507339354540",
+      "score": 24361,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-07T15:26:18Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
     }
   ],
   "packages": [
@@ -19453,6 +19600,48 @@
             "no damage or misspelling"
           ]
         }
+      }
+    },
+    {
+      "id": "pkg-20260907-datahedge-intel-partner",
+      "benchmarkPostId": "2096981101445001600",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096981101445001600",
+      "title": "DATAHEDGE AI joins Intel Partner Directory",
+      "status": "ready",
+      "postText": "DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "DATAHEDGE AI has officially partnered with Intel.",
+        "DATAHEDGE AI is listed in the Intel Partner Directory."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2096981101445001600"
+      ],
+      "imagePath": "deliverables/pkg-20260907-datahedge-intel-partner/when2buy-image-model.png",
+      "createdAt": "2026-09-07T15:27:30Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: 1:1 premium X financial-news visual for When2Buy. Primary request: original high-end editorial image about an AI data company joining a major semiconductor partner ecosystem. Scene/backdrop: cinematic near-black advanced data center, elegant server racks and luminous silicon wafer inspection equipment. Subject: a single unbranded AI compute module connected to a subtle partnership network of light, concrete technology infrastructure, not a generic stock chart. Style/medium: premium photorealistic financial-news photography. Composition/framing: exact square 1:1; entity-led subject dominates center-left; retain a clean, empty, near-black lower-right 20% for a circular logo composited later. Lighting/mood: dramatic white rim light with only restrained deep red technical accents, sophisticated and urgent. Text: none. Constraints: no readable text, numbers, tickers, company names, brand logos, people, source handles, URLs, watermarks, disclaimers, CTA, pure typography cards, malformed hardware, or damage.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-07T15:27:30Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led AI compute and semiconductor scene",
+            "no readable generated text or source attribution",
+            "premium near-black white and restrained-red palette",
+            "exact repository logo composited once",
+            "logo clear space",
+            "no visible damage or misspelling"
+          ]
+        }
+      },
+      "delivery": {
+        "postizPostId": "cmtreano20dp3lm0y93qswru7",
+        "attemptedAt": "2026-09-07T15:28:00Z",
+        "state": "ERROR",
+        "releaseURL": null,
+        "retryPolicy": "do_not_retry_accepted_task_without_public_url"
       }
     }
   ],
@@ -47369,6 +47558,52 @@
       "completedAt": "2026-09-07T15:10:43.372408+00:00",
       "summary": "Publication attempt for pkg-20260907-caterpillar-cat-plus-42-ytd did not produce a verified public X URL; package remains ready and was not retried.",
       "reason": "Postiz publish command returned without a Postiz delivery record in the queried delivery window; no PUBLISHED state or public x.com URL was available for verification."
+    },
+    {
+      "id": "run-20260907T152617Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T15:26:17Z",
+      "completedAt": "2026-09-07T15:26:17Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T152618Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T15:26:18Z",
+      "completedAt": "2026-09-07T15:26:18Z",
+      "summary": "Prepared 32 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T152750Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T15:27:50Z",
+      "completedAt": "2026-09-07T15:27:50Z",
+      "summary": "Prepared 31 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T152908Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-07T15:29:08.996847+00:00",
+      "completedAt": "2026-09-07T15:29:08.996847+00:00",
+      "summary": "One throttled Postiz submission for pkg-20260907-datahedge-intel-partner returned ERROR without a verified public X URL; circuit breaker activated and no further post was submitted.",
+      "reason": "Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z; releaseURL was null. Circuit breaker active for 60 minutes; accepted task will not be retried."
     }
-  ]
+  ],
+  "deliveryCircuitBreaker": {
+    "active": true,
+    "startedAt": "2026-09-07T15:28:00Z",
+    "expiresAt": "2026-09-07T16:29:08Z",
+    "reason": "Postiz X delivery ERROR for cmtreano20dp3lm0y93qswru7; no public x.com release URL."
+  }
 }

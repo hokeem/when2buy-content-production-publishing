@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T15:10:43.373130+00:00`
+- 状态更新：`2026-09-07T15:29:08.998073+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**322**
-- 待选选题：**281**
-- 待发布制作包：**87**
+- 对标帖子快照：**325**
+- 待选选题：**284**
+- 待发布制作包：**88**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Mon Sep 07 15:06:50 +0000 2026 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | [X](https://x.com/WhaleInsider/status/2096978507339354540) |
+| @StockMKTNewz | Mon Sep 07 15:12:46 +0000 2026 | The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V | [X](https://x.com/StockMKTNewz/status/2096979998687023461) |
+| @WhaleInsider | Mon Sep 07 15:17:09 +0000 2026 | JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Partner Directory. https://t.co/BkbUhbnb4u | [X](https://x.com/WhaleInsider/status/2096981101445001600) |
 | @WhaleInsider | Mon Sep 07 14:54:13 +0000 2026 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglomerate, is building a tokenization platform on Avalanche as South Korea accelerates plans to bring securities onchain. | [X](https://x.com/WhaleInsider/status/2096975330858692621) |
 | @StockMKTNewz | Mon Sep 07 15:01:20 +0000 2026 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026  🥈 Caterpillar $CAT: +42%🟢 https://t.co/MezJT5h6W8 | [X](https://x.com/StockMKTNewz/status/2096977122342400266) |
 | @WhaleInsider | Mon Sep 07 14:27:58 +0000 2026 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since February 28th due to the Iran war. https://t.co/4fstiFR0rT | [X](https://x.com/WhaleInsider/status/2096968726939652174) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Sat Sep 05 11:24:09 +0000 2026 | This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo | [X](https://x.com/StockMKTNewz/status/2096197691311059281) |
 | @StockMKTNewz | Sat Sep 05 11:28:28 +0000 2026 | The 🇺🇸 National Debt currently sits at  $40,117,045,127,072.57 https://t.co/pbHZQhQaqd | [X](https://x.com/StockMKTNewz/status/2096198775584804970) |
 | @StockMKTNewz | Sat Sep 05 12:31:58 +0000 2026 | Trade Desk $TTD stock was trading around $80 when it was added to the S&amp;P 500 in July 2025  Today Trade Desk stock is trading at $14 https://t.co/JCXEA2mXQ7 | [X](https://x.com/StockMKTNewz/status/2096214755518071240) |
-| @StockMKTNewz | Sat Sep 05 12:47:04 +0000 2026 | Nike $NKE was added to the S&amp;P 100 in December 2008  Nike is being removed from the S&amp;P 100 after a nearly 18 year run | [X](https://x.com/StockMKTNewz/status/2096218556690022471) |
-| @WhaleInsider | Mon Sep 07 07:46:12 +0000 2026 | JUST IN: 🇺🇸 UBS Global Wealth Management expects the U.S. Fed to deliver 25 bp rate hikes in September and December 2026, vs prior forecast of no policy change. https://t.co/FagOYzoTtX | [X](https://x.com/WhaleInsider/status/2096867616916689269) |
-| @WhaleInsider | Mon Sep 07 07:06:45 +0000 2026 | JUST IN: 🇯🇵 Japan sold off $88 billion in foreign securities last month, marking the largest such sell-off in its history. https://t.co/5HroWeCzgI | [X](https://x.com/WhaleInsider/status/2096857687501754540) |
 
 ## 选题推荐
 
@@ -74,6 +74,7 @@
 | 1 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026 👑 Merck $… | StockMKTNewz | 5693 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | StockMKTNewz | 4097 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026… | StockMKTNewz | 7038 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Pa… | WhaleInsider | 16496 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -93,6 +94,7 @@
 | 2 | JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the m… | WhaleInsider | 21848 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since Febru… | WhaleInsider | 20451 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglome… | WhaleInsider | 17841 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V | StockMKTNewz | 12514 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -107,6 +109,7 @@
 | 3 | Trade Desk $TTD stock was trading around $80 when it was added to the S&amp;P 500 in July 20… | StockMKTNewz | 74396 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026 💩 App… | StockMKTNewz | 6771 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: $INDEXR launches on Robinhood Chain as https://t.co/Y2sUgKxg2e memecoin index-fund … | WhaleInsider | 16087 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | WhaleInsider | 24361 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2017,6 +2020,13 @@ Caterpillar $CAT is up 42% year to date, ranking second among Dow stocks in 2026
 
 Hanwha Investment & Securities has built a tokenized-securities platform on Avalanche.  South Korea's tokenized-securities framework is scheduled to take effect February 4, 2027.  When2Buy — your U.S. stock partner.
 
+### DATAHEDGE AI joins Intel Partner Directory
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260907-datahedge-intel-partner/when2buy-image-model.png`
+
+DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2157,6 +2167,10 @@ Hanwha Investment & Securities has built a tokenized-securities platform on Aval
 
 ## 最近运行
 
+- `2026-09-07T15:29:08.996847+00:00` **publish / partial** — One throttled Postiz submission for pkg-20260907-datahedge-intel-partner returned ERROR without a verified public X URL; circuit breaker activated and no further post was submitted. Postiz X delivery cmtreano20dp3lm0y93qswru7 state ERROR at 2026-09-07T15:28:00Z; releaseURL was null. Circuit breaker active for 60 minutes; accepted task will not be retried.
+- `2026-09-07T15:27:50Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
+- `2026-09-07T15:26:18Z` **queue / succeeded** — Prepared 32 one-to-one production candidate(s).
+- `2026-09-07T15:26:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 3 new post(s).
 - `2026-09-07T15:10:43.372394+00:00` **publish / partial** — Publication attempt for pkg-20260907-caterpillar-cat-plus-42-ytd did not produce a verified public X URL; package remains ready and was not retried. Postiz publish command returned without a Postiz delivery record in the queried delivery window; no PUBLISHED state or public x.com URL was available for verification.
 - `2026-09-07T15:08:59Z` **queue / succeeded** — Prepared 31 one-to-one production candidate(s).
 - `2026-09-07T15:08:58.879839+00:00` **produce / succeeded** — Produced the two newest eligible benchmark packages with inspected image-model visuals and exact-logo compositing.
@@ -2173,7 +2187,3 @@ Hanwha Investment & Securities has built a tokenized-securities platform on Aval
 - `2026-09-07T14:29:17Z` **produce / succeeded** — Produced the newest timestamp-first Merck benchmark package with verified financial context, original image-model visual, exact-logo compositing, and QA metadata.
 - `2026-09-07T14:27:30Z` **queue / succeeded** — Prepared 29 one-to-one production candidate(s).
 - `2026-09-07T14:27:30Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
-- `2026-09-07T14:25:32Z` **publish / partial** — No Postiz submission: 60-minute X delivery circuit breaker is active; newest package remains ready. Circuit breaker active: Postiz X deliveries in the preceding 60 minutes include ERROR states without public release URLs (latest observed at 2026-09-07T14:11:00Z); do not submit another post before 2026-09-07T15:23:28Z.
-- `2026-09-07T14:25:13Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
-- `2026-09-07T14:25:13Z` **produce / succeeded** — Produced the newest timestamp-first IBM benchmark package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-07T14:23:59Z` **queue / succeeded** — Prepared 28 one-to-one production candidate(s).
