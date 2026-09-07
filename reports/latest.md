@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T19:09:59.885720+00:00`
+- 状态更新：`2026-09-07T19:26:21.686017+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**336**
 - 待选选题：**294**
@@ -2240,6 +2240,9 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 
 ## 最近运行
 
+- `2026-09-07T19:27:00Z` **full / partial** — Apify collection, benchmark-media archival, and timestamp-first queue rebuild completed; no new eligible originals were found. Publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
+- `2026-09-07T19:25:57Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
+- `2026-09-07T19:25:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
 - `2026-09-07T19:09:59Z` **full / partial** — Apify collection, benchmark-media archive, timestamp-first queue rebuild, and one new image-model package completed; the sole permitted Postiz probe did not produce a public X URL. Postiz X delivery cmtrm66xk0gsmlm0y99ryf104 was ERROR with no public release URL; accepted task was not retried.
 - `2026-09-07T19:07:21Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
 - `2026-09-07T19:05:58Z` **queue / succeeded** — Prepared 37 one-to-one production candidate(s).
@@ -2257,6 +2260,3 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 - `2026-09-07T18:07:55Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
 - `2026-09-07T18:07:55Z` **produce / succeeded** — Produced the newest timestamp-first benchmark package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-07T18:05:57Z` **queue / succeeded** — Prepared 34 one-to-one production candidate(s).
-- `2026-09-07T18:05:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
-- `2026-09-07T17:49:31.558802Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, hourly metrics pass, and newest-package production completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrindcc0fjllm0yh35wk8br returned ERROR without a public x.com release URL; accepted task was not retried.
-- `2026-09-07T17:48:58.583958Z` **produce / succeeded** — Produced the newest timestamp-first U.S. stock-fund package with an inspected image-model visual and exact-logo compositing.
