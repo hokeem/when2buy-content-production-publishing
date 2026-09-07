@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T23:49:51.690828+00:00`
+- 状态更新：`2026-09-07T23:50:40.494414+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**343**
 - 待选选题：**301**
-- 待发布制作包：**108**
+- 待发布制作包：**107**
 - 已验证发布：**132**
 
 ## 对标账号扫描
@@ -2144,7 +2144,7 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 
 ### Tesla says Superchargers are made in Buffalo
 
-- 状态：`ready`
+- 状态：`publishing`
 - 配图：`deliverables/pkg-20260908-tesla-buffalo-supercharger-manufacturing/when2buy-image-model.png`
 
 $TSLA says Superchargers are made in Buffalo, New York.  The charging buildout is coming from a U.S. factory floor.  When2Buy — your U.S. stock partner.

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T23:49:51.690828+00:00",
+  "updatedAt": "2026-09-07T23:50:40.494414+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -20978,7 +20978,7 @@
       "benchmarkPostId": "2097101124708794712",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097101124708794712",
       "title": "Tesla says Superchargers are made in Buffalo",
-      "status": "ready",
+      "status": "publishing",
       "postText": "$TSLA says Superchargers are made in Buffalo, New York.\n\nThe charging buildout is coming from a U.S. factory floor.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Tesla said Superchargers are made in Buffalo, New York.",
@@ -21006,7 +21006,11 @@
             "no damaged or malformed equipment"
           ]
         }
-      }
+      },
+      "postizPostId": "cmtrw5m1g0jwmlm0yqbozm1wl",
+      "deliveryAcceptedAt": "2026-09-07T23:48:00Z",
+      "deliveryStatus": "QUEUE",
+      "deliveryReason": "Accepted Postiz task has no public X URL; do not retry."
     },
     {
       "id": "pkg-20260908-chatgpt-work-writing-style-awareness",
