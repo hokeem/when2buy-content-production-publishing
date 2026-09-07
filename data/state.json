@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T22:26:38.682613+00:00",
+  "updatedAt": "2026-09-07T22:47:19.834400+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -79112,13 +79112,49 @@
         "expiresAt": "2026-09-07T22:47:29Z",
         "deliveryReason": "Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried."
       }
+    },
+    {
+      "id": "run-20260907T224553Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T22:45:53Z",
+      "completedAt": "2026-09-07T22:45:53Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260907T224553Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-07T22:45:53Z",
+      "completedAt": "2026-09-07T22:45:53Z",
+      "summary": "Prepared 46 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260907T224719Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-07T22:47:19Z",
+      "completedAt": "2026-09-07T22:47:19Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, metrics refresh, and the single newest-package delivery probe completed; publication did not produce a verified public URL.",
+      "reason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-07T23:47:19Z",
+        "deliveryReason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "activatedAt": "2026-09-07T21:47:29Z",
-    "expiresAt": "2026-09-07T22:47:29Z",
-    "postizPostId": "cmtrrtdyq0ievlm0ye5j2q1h9",
-    "deliveryReason": "Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried."
+    "activatedAt": "2026-09-07T22:47:19Z",
+    "expiresAt": "2026-09-07T23:47:19Z",
+    "postizPostId": "cmtrtxtr90j26lm0yovi4o6kc",
+    "deliveryReason": "Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried."
   }
 }

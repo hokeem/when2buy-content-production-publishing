@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T22:26:38.682613+00:00`
+- 状态更新：`2026-09-07T22:47:19.834400+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**341**
 - 待选选题：**299**
@@ -2280,6 +2280,9 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 
 ## 最近运行
 
+- `2026-09-07T22:47:19Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, metrics refresh, and the single newest-package delivery probe completed; publication did not produce a verified public URL. Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-07T22:45:53Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-07T22:45:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T22:26:38Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T22:26:11Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-07T22:26:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
@@ -2297,6 +2300,3 @@ A $1,000 prediction-market contract on the New York Jets missing the playoffs wo
 - `2026-09-07T21:26:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T21:07:54Z` **full / partial** — Apify collection and timestamp-first queue rebuild completed; ready packages were retained while publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T21:07:27Z` **produce / succeeded** — Produced the newest eligible prediction-market package from an inspected image-model visual with exact-logo compositing.
-- `2026-09-07T21:05:53Z` **queue / succeeded** — Prepared 42 one-to-one production candidate(s).
-- `2026-09-07T21:05:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-07T20:46:24Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two newest-package productions completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtroddkb0pbiqk0y6ppej5vd was ERROR with no public x.com release URL; accepted task was not retried.
