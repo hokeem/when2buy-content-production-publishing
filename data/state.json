@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T23:06:45.739032+00:00",
+  "updatedAt": "2026-09-08T23:27:31.002925+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -121382,6 +121382,81 @@
       "startedAt": "2026-09-08T23:08:00Z",
       "completedAt": "2026-09-08T23:08:00Z",
       "summary": "Apify collection, media archiving, and newest-first queue rebuild completed; no new eligible source posts required production and publication was withheld by the active delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T23:28:10Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T23:28:10Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
+      }
+    },
+    {
+      "id": "run-20260908T232632Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T23:26:32Z",
+      "completedAt": "2026-09-08T23:26:32Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T232634Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T23:26:34Z",
+      "completedAt": "2026-09-08T23:26:34Z",
+      "summary": "Prepared 73 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T232649Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T23:26:49Z",
+      "completedAt": "2026-09-08T23:26:49Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T232702Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T23:27:02Z",
+      "completedAt": "2026-09-08T23:27:02Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T232716Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T23:27:16Z",
+      "completedAt": "2026-09-08T23:27:16Z",
+      "summary": "Prepared 73 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T232521Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T23:25:21Z",
+      "completedAt": "2026-09-08T23:27:00Z",
+      "summary": "Apify collection, media archive, and timestamp-first queue rebuild completed; no new eligible source posts required production and publication was withheld by the active delivery circuit breaker.",
       "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
       "deliveryCheck": {
         "postizWindowMinutes": 60,
