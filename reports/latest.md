@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T01:07:34.973746+00:00`
+- 状态更新：`2026-09-08T01:26:30.160467+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
@@ -2304,6 +2304,9 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ## 最近运行
 
+- `2026-09-08T01:26:30Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
+- `2026-09-08T01:25:57Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-08T01:25:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-08T01:07:34.902775Z` **full / partial** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 49-item newest-first queue. The newest ready package passed the content standard but was not submitted. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-08T01:06:36Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-08T01:06:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2321,6 +2324,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T00:06:20Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-08T00:06:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-07T23:45:31Z` **full / partial** — Apify collection, hourly 72-hour metrics, timestamp-first queue rebuild, and one newest-package Postiz probe completed; the accepted delivery remains QUEUE without a public X URL. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted at 2026-09-07T23:48:00Z and remained QUEUE with releaseURL null at the final check; it was not retried.
-- `2026-09-07T23:46:38Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
-- `2026-09-07T23:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T23:46:31Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
