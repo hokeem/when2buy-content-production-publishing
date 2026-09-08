@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T20:11:48.235586+00:00`
+- 状态更新：`2026-09-08T20:28:58.794066+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**399**
-- 待选选题：**356**
-- 待发布制作包：**147**
+- 对标帖子快照：**400**
+- 待选选题：**357**
+- 待发布制作包：**148**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 20:16:37 +0000 2026 | $DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc | [X](https://x.com/StockMKTNewz/status/2097418855249252608) |
 | @StockMKTNewz | Tue Sep 08 19:59:11 +0000 2026 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to major players in China’s 🇨🇳 auto industry - Bloomberg https://t.co/kjVkItqUXI | [X](https://x.com/StockMKTNewz/status/2097414465733955650) |
 | @StockMKTNewz | Tue Sep 08 19:12:27 +0000 2026 | Meta Platforms $META just posted this:  “today we're rolling out Muse, our new personal ai assistant. Muse is always-on, wicked fast, can use a browser, connect to your apps, and is designed to be secure.” https://t.co/tZGkKgesKh | [X](https://x.com/StockMKTNewz/status/2097402706411278438) |
 | @WhaleInsider | Tue Sep 08 18:59:38 +0000 2026 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the escrow platform Xinbi Guarantee on the Tron network. https://t.co/GpzLtXPcZ3 | [X](https://x.com/WhaleInsider/status/2097399478881837141) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Tue Sep 08 14:13:55 +0000 2026 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. https://t.co/jKYvAIaL1s | [X](https://x.com/WhaleInsider/status/2097327575504670871) |
 | @StockMKTNewz | Tue Sep 08 13:34:24 +0000 2026 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | [X](https://x.com/StockMKTNewz/status/2097317631451660624) |
 | @WhaleInsider | Tue Sep 08 13:41:29 +0000 2026 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from today. https://t.co/TtcP5nfnfW | [X](https://x.com/WhaleInsider/status/2097319414722928938) |
-| @StockMKTNewz | Tue Sep 08 13:52:35 +0000 2026 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trillion to make it the biggest IPO of the year https://t.co/M1ywd7jyRp | [X](https://x.com/StockMKTNewz/status/2097322208989249734) |
 
 ## 选题推荐
 
@@ -119,6 +119,7 @@
 | 1 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the esc… | WhaleInsider | 12712 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Meta Platforms $META just posted this: “today we're rolling out Muse, our new personal ai as… | StockMKTNewz | 12612 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to … | StockMKTNewz | 9529 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | $DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc | StockMKTNewz | 11348 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2561,6 +2562,13 @@ $META is rolling out Muse, an always-on AI assistant that can browse and connect
 
 Ford $F is facing fresh U.S. scrutiny over its China business partnerships.  Transportation Secretary Sean Duffy cited CATL, Geely, BYD and Lincoln Nautilus production in China in a letter to CEO Jim Farley.  When2Buy — your U.S. stock partner.
 
+### Dell reaches a new 52-week high
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-dell-new-52-week-high/when2buy-image-model.png`
+
+$DELL just hit a new 52-week high.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2707,6 +2715,11 @@ Ford $F is facing fresh U.S. scrutiny over its China business partnerships.  Tra
 
 ## 最近运行
 
+- `2026-09-08T20:28:58Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
+- `2026-09-08T20:28:15Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, newest-package production, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T20:28:01Z` **produce / succeeded** — Produced the newest timestamp-first Apify benchmark package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-08T20:26:07Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
+- `2026-09-08T20:26:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
 - `2026-09-08T20:11:48Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, newest-package production, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T20:11:36Z` **queue / succeeded** — Prepared 69 one-to-one production candidate(s).
 - `2026-09-08T20:10:53Z` **produce / succeeded** — Archived new Apify media and produced the newest timestamp-first Ford package with an inspected image-model visual and exact-logo compositing.
@@ -2722,8 +2735,3 @@ Ford $F is facing fresh U.S. scrutiny over its China business partnerships.  Tra
 - `2026-09-08T19:06:00Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T19:09:30Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
 - `2026-09-08T19:06:27Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
-- `2026-09-08T19:06:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
-- `2026-09-08T18:49:03Z` **full / partial** — Apify scanned both benchmark accounts, archived available media, rebuilt the newest-first queue, refreshed eligible 72-hour metrics, and retained the newest ready package for a later probe. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T18:49:03Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
-- `2026-09-08T18:48:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-08T18:46:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).

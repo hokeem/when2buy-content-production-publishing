@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T20:11:48.235586+00:00",
+  "updatedAt": "2026-09-08T20:28:58.794066+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10979,6 +10979,34 @@
           "archivedAt": "2026-09-08T20:10:53Z"
         }
       ]
+    },
+    {
+      "id": "2097418855249252608",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097418855249252608",
+      "postedAt": "Tue Sep 08 20:16:37 +0000 2026",
+      "text": "$DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRuHUOSa0AA8gQV.jpg"
+      ],
+      "engagement": {
+        "likes": 45,
+        "replies": 12,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 9758
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T20:26:04Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRuHUOSa0AA8gQV.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097418855249252608-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -17741,6 +17769,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097418855249252608",
+      "rank": 1,
+      "title": "$DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc",
+      "benchmarkPostId": "2097418855249252608",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097418855249252608",
+      "score": 11348,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T20:26:07Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -25412,6 +25459,41 @@
             "complete entity-led automotive visual",
             "no visible text, numbers, source attribution, map, or generic radar imagery",
             "premium near-black, white, restrained-red palette",
+            "exact repository logo composited once in lower-right safe area",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-dell-new-52-week-high",
+      "benchmarkPostId": "2097418855249252608",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097418855249252608",
+      "title": "Dell reaches a new 52-week high",
+      "status": "ready",
+      "postText": "$DELL just hit a new 52-week high.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Dell stock reached a new 52-week high today."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097418855249252608"
+      ],
+      "imagePath": "deliverables/pkg-20260908-dell-new-52-week-high/when2buy-image-model.png",
+      "createdAt": "2026-09-08T20:28:01Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Asset type: premium 1:1 X financial-news visual for When2Buy. Primary request: an original entity-led visual about Dell stock reaching a new 52-week high. Scene/backdrop: cinematic near-black enterprise data-center corridor with an elegant abstract high-performance server tower as the dominant subject; subtle upward light trajectory made of non-numeric market data beams in the distance. Subject: a premium black-and-silver enterprise server tower with refined circuit and rack details. Style/medium: high-end editorial 3D financial-news photography. Composition/framing: exact 1:1 square; server tower large at center-left; reserve a clean unoccupied near-black lower-right 20% for a later supplied logo overlay. Lighting/mood: urgent and confident, high-contrast white rim lighting with one restrained deep-red reflection. Text: none. Constraints: no letters, numbers, words, logos, brand marks, watermarks, source names, social handles, URLs, charts, gauges, generic radar graphics, people, damaged objects, malformed hardware, or pure-typography layout.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T20:28:01Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led server/data-center visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
             "exact repository logo composited once in lower-right safe area",
             "no damaged logo or misspelled visible text"
           ],
@@ -120620,6 +120702,64 @@
         "expiresAt": "2026-09-08T20:49:10Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
       }
+    },
+    {
+      "id": "run-20260908T202604Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T20:26:04Z",
+      "completedAt": "2026-09-08T20:26:04Z",
+      "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T202607Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T20:26:07Z",
+      "completedAt": "2026-09-08T20:26:07Z",
+      "summary": "Prepared 70 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T202801Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T20:28:01Z",
+      "completedAt": "2026-09-08T20:28:01Z",
+      "summary": "Produced the newest timestamp-first Apify benchmark package with an inspected image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T202815Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T20:28:15Z",
+      "completedAt": "2026-09-08T20:28:15Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, newest-package production, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T20:49:10Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T20:49:10Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T202858Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T20:28:58Z",
+      "completedAt": "2026-09-08T20:28:58Z",
+      "summary": "Prepared 70 one-to-one production candidate(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
