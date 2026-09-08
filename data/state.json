@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T11:51:00.368866+00:00",
+  "updatedAt": "2026-09-08T12:12:18.238896+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9878,6 +9878,108 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097295164846813684",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097295164846813684",
+      "postedAt": "Tue Sep 08 12:05:07 +0000 2026",
+      "text": "Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction market business - WSJ https://t.co/NwQy1JcXET",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRsW1LaXQAAKDc_.jpg"
+      ],
+      "engagement": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 3835
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T12:07:22Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsW1LaXQAAKDc_.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097295164846813684-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097294247049236489",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097294247049236489",
+      "postedAt": "Tue Sep 08 12:01:28 +0000 2026",
+      "text": "Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in assets under management \n\nVanguard has a total of 116 ETFs in the United States 🇺🇸 of which 38 are beating the S&amp;P 500\n\nBelow is every Vanguard ETF beating VOO so far in 2026 via @TheETFTracker",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 13,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 7117
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T12:07:22Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097291447749820438",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097291447749820438",
+      "postedAt": "Tue Sep 08 11:50:21 +0000 2026",
+      "text": "JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. https://t.co/zUYLgVY8Pg",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRsTcglWkAAQHkj.jpg",
+        "https://pbs.twimg.com/media/HRsTcigWUAAnauQ.jpg"
+      ],
+      "engagement": {
+        "likes": 199,
+        "replies": 26,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 16056
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T12:07:22Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsTcglWkAAQHkj.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097291447749820438-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsTcigWUAAnauQ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097291447749820438-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097291038737965429",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097291038737965429",
+      "postedAt": "Tue Sep 08 11:48:44 +0000 2026",
+      "text": "WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES:\n\n- RIGETTI $RGTI SIGNS PACT FOR $100M WITH 🇺🇸 GOVERNMENT TO ACCELERATE R&amp;D\n\n- D-WAVE $QBTS SIGNS DEAL WITH US GOVERNMENT FOR UP TO $100M \n\n- $IONQ RAISES ITS FULL YEAR GUIDANCE FOLLOWING SKYWATER ACQUISITION",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 39,
+        "replies": 6,
+        "reposts": 8,
+        "quotes": 0,
+        "views": 11315
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T12:07:22Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -15896,6 +15998,82 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-08T11:46:17Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097295164846813684",
+      "rank": 1,
+      "title": "Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction marke…",
+      "benchmarkPostId": "2097295164846813684",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097295164846813684",
+      "score": 4005,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T12:07:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097294247049236489",
+      "rank": 2,
+      "title": "Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in ass…",
+      "benchmarkPostId": "2097294247049236489",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097294247049236489",
+      "score": 7497,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T12:07:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097291447749820438",
+      "rank": 3,
+      "title": "JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. h…",
+      "benchmarkPostId": "2097291447749820438",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097291447749820438",
+      "score": 21696,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T12:07:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097291038737965429",
+      "rank": 4,
+      "title": "WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES: - RIGETTI $RGTI SIGNS PACT FOR $100M…",
+      "benchmarkPostId": "2097291038737965429",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097291038737965429",
+      "score": 12735,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T12:07:23Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
@@ -22363,6 +22541,149 @@
             "not a pure-text or generic-radar visual",
             "exact repository logo composited once in lower-right clear space",
             "no damaged logo or malformed objects"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-robinhood-cryptocom-minority-stake",
+      "benchmarkPostId": "2097295164846813684",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097295164846813684",
+      "title": "Robinhood takes Crypto.com stake",
+      "status": "ready",
+      "postText": "$HOOD agreed to take a minority stake in Crypto.com and its prediction-market business.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Robinhood agreed to take a minority stake in Crypto.com and its prediction-market business."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097295164846813684"
+      ],
+      "imagePath": "deliverables/pkg-20260908-robinhood-cryptocom-minority-stake/when2buy-image-model.png",
+      "createdAt": "2026-09-08T12:11:33Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Original text-free premium square visual: Robinhood/Crypto.com partnership represented by a dark smartphone and interlocking metallic arcs, near-black institutional fintech room, white rim light and restrained red accents; lower-right clear space for one exact logo overlay. No text, numbers, logos, people, UI, charts, source references, or generic radar.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T12:11:33Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black white restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-vanguard-voo-1t-aum",
+      "benchmarkPostId": "2097294247049236489",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097294247049236489",
+      "title": "Vanguard VOO tops $1T in assets",
+      "status": "ready",
+      "postText": "Vanguard's $VOO now has more than $1T in assets.\n\nIt is the largest ETF in the U.S.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Vanguard's S&P 500 ETF VOO has more than $1 trillion in assets under management.",
+        "VOO is the largest ETF in the United States."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097294247049236489"
+      ],
+      "imagePath": "deliverables/pkg-20260908-vanguard-voo-1t-aum/when2buy-image-model.png",
+      "createdAt": "2026-09-08T12:11:34Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Original text-free premium square visual: Vanguard-scale ETF assets represented by a dark portfolio case and monumental silver fund columns inside a near-black asset-management vault, white rim light and restrained red accents; lower-right clear space for one exact logo overlay. No text, numbers, logos, people, UI, charts, source references, or generic radar.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T12:11:34Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black white restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-bitcoin-kalshi-74000-forecast",
+      "benchmarkPostId": "2097291447749820438",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097291447749820438",
+      "title": "Bitcoin $74,000 forecast",
+      "status": "ready",
+      "postText": "Kalshi traders are pricing a possible $74,000 Bitcoin low this month.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Kalshi traders forecast Bitcoin could fall as low as $74,000 this month."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097291447749820438"
+      ],
+      "imagePath": "deliverables/pkg-20260908-bitcoin-kalshi-74000-forecast/when2buy-image-model.png",
+      "createdAt": "2026-09-08T12:11:35Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Original premium square visual: a Bitcoin coin on a dark stepped plinth with a single downward metallic arc, near-black institutional digital-asset room, white rim light and restrained red accents; lower-right clear space for one exact logo overlay. No public text, source names, handles, URLs, disclaimers, UI, or generic radar; inspected for intact objects and no misspelled copy.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T12:11:35Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black white restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-quantum-us-government-100m",
+      "benchmarkPostId": "2097291038737965429",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097291038737965429",
+      "title": "Quantum companies land U.S. updates",
+      "status": "ready",
+      "postText": "$RGTI and $QBTS signed U.S. government deals worth up to $100M.\n\n$IONQ raised full-year guidance after its SkyWater acquisition.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Rigetti signed a U.S. government pact for $100 million to accelerate R&D.",
+        "D-Wave signed a U.S. government deal worth up to $100 million.",
+        "IonQ raised full-year guidance following its SkyWater acquisition."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097291038737965429"
+      ],
+      "imagePath": "deliverables/pkg-20260908-quantum-us-government-100m/when2buy-image-model.png",
+      "createdAt": "2026-09-08T12:11:36Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Original text-free premium square visual: three intact quantum processors and a sealed government folder in a near-black quantum lab, white rim light and restrained red accents; lower-right clear space for one exact logo overlay. No text, numbers, logos, people, UI, charts, source references, or generic radar.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T12:11:36Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black white restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
           ],
           "result": "passed"
         }
@@ -116192,15 +116513,88 @@
         "expiresAt": "2026-09-08T12:31:00Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
       }
+    },
+    {
+      "id": "run-20260908T120722Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:07:22Z",
+      "completedAt": "2026-09-08T12:07:22Z",
+      "summary": "Apify scanned both benchmark accounts; captured 84 eligible originals and added 4 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T120723Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:07:23Z",
+      "completedAt": "2026-09-08T12:07:23Z",
+      "summary": "Prepared 60 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T121106Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:11:06Z",
+      "completedAt": "2026-09-08T12:11:06Z",
+      "summary": "Produced 4 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T121106Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:11:06Z",
+      "completedAt": "2026-09-08T12:11:06Z",
+      "summary": "Prepared 60 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T121136Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:11:36Z",
+      "completedAt": "2026-09-08T12:11:36Z",
+      "summary": "Produced 4 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T121137Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:11:37Z",
+      "completedAt": "2026-09-08T12:11:37Z",
+      "summary": "Prepared 60 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T121218Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T12:12:18Z",
+      "completedAt": "2026-09-08T12:12:18Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, four image-model packages, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "HTTP 403 Forbidden; no delivery statuses returned"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T13:12:18Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": false,
-    "startedAt": "2026-09-08T08:08:37Z",
-    "expiresAt": "2026-09-08T09:08:37Z",
-    "postizPostId": "cmtrw5m1g0jwmlm0yqbozm1wl",
-    "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.",
-    "expiredAt": "2026-09-08T09:49:28Z",
-    "lastProbeResult": "Postiz X publication probe for pkg-20260908-btc-short-term-whale-profit-risk was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted."
+    "active": true,
+    "startedAt": "2026-09-08T12:12:18Z",
+    "expiresAt": "2026-09-08T13:12:18Z",
+    "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
   }
 }

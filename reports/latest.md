@@ -1,16 +1,20 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T11:51:00.368866+00:00`
+- 状态更新：`2026-09-08T12:12:18.238896+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**359**
-- 待选选题：**317**
-- 待发布制作包：**114**
+- 对标帖子快照：**363**
+- 待选选题：**321**
+- 待发布制作包：**118**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 11:48:44 +0000 2026 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES:  - RIGETTI $RGTI SIGNS PACT FOR $100M WITH 🇺🇸 GOVERNMENT TO ACCELERATE R&amp;D  - D-WAVE $QBTS SIGNS DEAL WITH US GOVERNMENT FOR UP TO $100M   - $IONQ RAISES ITS FULL YEAR GUIDANCE FOLLOWING SKYWATER ACQUISITION | [X](https://x.com/StockMKTNewz/status/2097291038737965429) |
+| @WhaleInsider | Tue Sep 08 11:50:21 +0000 2026 | JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. https://t.co/zUYLgVY8Pg | [X](https://x.com/WhaleInsider/status/2097291447749820438) |
+| @StockMKTNewz | Tue Sep 08 12:01:28 +0000 2026 | Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in assets under management   Vanguard has a total of 116 ETFs in the United States 🇺🇸 of which 38 are beating the S&amp;P 500  Below is every Vanguard ETF beating VOO so far in 2026 via @TheETFTracker | [X](https://x.com/StockMKTNewz/status/2097294247049236489) |
+| @StockMKTNewz | Tue Sep 08 12:05:07 +0000 2026 | Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction market business - WSJ https://t.co/NwQy1JcXET | [X](https://x.com/StockMKTNewz/status/2097295164846813684) |
 | @StockMKTNewz | Tue Sep 08 11:33:34 +0000 2026 | $UBER COO Andrew Macdonald spent $5.31 Million to buy 70,000 shares of Uber stock at an average cost of ~$75.83 per share https://t.co/8dzhl6prTf | [X](https://x.com/StockMKTNewz/status/2097287222324027862) |
 | @StockMKTNewz | Tue Sep 08 11:43:20 +0000 2026 | Goldman Sachs today raised its price target on Robinhood $HOOD up to $142 from $124 while maintaining its Buy rating | [X](https://x.com/StockMKTNewz/status/2097289682795004293) |
 | @StockMKTNewz | Tue Sep 08 11:06:49 +0000 2026 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP  Palantir named Nebius "its preferred sovereign AI infrastructure partner" which will bring "Nebius's AI-native compute infrastructure and cloud platform to Palantir's commercial customers." https://t.co/UYxA721ojU | [X](https://x.com/StockMKTNewz/status/2097280493431501087) |
@@ -37,10 +41,6 @@
 | @WhaleInsider | Mon Sep 07 18:59:02 +0000 2026 | JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana integration for its privacy technology. https://t.co/oygVZqd2Fs | [X](https://x.com/WhaleInsider/status/2097036939798978783) |
 | @StockMKTNewz | Mon Sep 07 18:36:36 +0000 2026 | Iron ore broke back $100 a ton for the first time in seven weeks today - Bloomberg https://t.co/pENwkTLz0o | [X](https://x.com/StockMKTNewz/status/2097031294546784410) |
 | @WhaleInsider | Mon Sep 07 18:38:07 +0000 2026 | JUST IN: OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. https://t.co/cakvyoFMQO | [X](https://x.com/WhaleInsider/status/2097031676031336867) |
-| @StockMKTNewz | Mon Sep 07 17:52:20 +0000 2026 | 🇺🇸 President Trump posted this:  "I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself" https://t.co/jOpbjsCxzM | [X](https://x.com/StockMKTNewz/status/2097020156203397246) |
-| @StockMKTNewz | Mon Sep 07 17:30:12 +0000 2026 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of August - WSJ | [X](https://x.com/StockMKTNewz/status/2097014587426062500) |
-| @StockMKTNewz | Mon Sep 07 17:10:51 +0000 2026 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803  For anyone curious $15M in 2026 is enough to buy  - 19.8 shares of Berkshire Hathaway $BRK.A stock - 8,620 shares of Sandisk $SNDK  - 14,763 shares of Micron $MU  - 19,480 shares of the S&P 500 ETF $SPY  - 20,862 shares of the Nasdaq 100 ETF $QQQ  - 24,320 shares of Meta Platforms $META  - 30,000 shares of Microsoft $MSFT  - 42,372 shares of Tesla $TSLA - 44,776 shares of Google $GOOGL  - 46,875 shares of Apple $AAPL  - 58,027 shares of Amazon $AMZN  - 65,217 shares of Nvidia $NVDA  - 101,351 shares of SpaceX $SPCX  - 191,693 shares of Netflix $NFLX | [X](https://x.com/StockMKTNewz/status/2097009717994242070) |
-| @WhaleInsider | Mon Sep 07 16:46:28 +0000 2026 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchain terminals. https://t.co/hvMoTq7YNp | [X](https://x.com/WhaleInsider/status/2097003578648940977) |
 
 ## 选题推荐
 
@@ -100,6 +100,7 @@
 | 1 | The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04% | StockMKTNewz | 7863 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at leas… | StockMKTNewz | 6276 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Goldman Sachs today raised its price target on Robinhood $HOOD up to $142 from $124 while ma… | StockMKTNewz | 5821 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction marke… | StockMKTNewz | 4005 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -128,6 +129,7 @@
 | 2 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - … | StockMKTNewz | 7825 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP Palantir named Nebius "its … | StockMKTNewz | 16123 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | $UBER COO Andrew Macdonald spent $5.31 Million to buy 70,000 shares of Uber stock at an aver… | StockMKTNewz | 11046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in ass… | StockMKTNewz | 7497 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -143,6 +145,7 @@
 | 3 | Applovin $APP is currently the worst performing stock in the NASDAQ 100 so far in 2026 💩 App… | StockMKTNewz | 6771 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: $INDEXR launches on Robinhood Chain as https://t.co/Y2sUgKxg2e memecoin index-fund … | WhaleInsider | 16087 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | WhaleInsider | 24361 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. h… | WhaleInsider | 21696 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -156,6 +159,7 @@
 | 4 | The 🇺🇸 National Debt currently sits at $40,117,045,127,072.57 https://t.co/pbHZQhQaqd | StockMKTNewz | 51589 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 202… | StockMKTNewz | 9637 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | Moderna is currently the 2nd best performing stock in the S&amp;P 500 so far in 2026 🥈 Moder… | StockMKTNewz | 11200 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES: - RIGETTI $RGTI SIGNS PACT FOR $100M… | StockMKTNewz | 12735 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2284,6 +2288,34 @@ $HOOD just got a $142 price target from Goldman Sachs, up from $124.  The firm k
 
 Uber COO Andrew Macdonald bought 70,000 $UBER shares for $5.31M.  His average purchase price was about $75.83 per share.  When2Buy — your U.S. stock partner.
 
+### Robinhood takes Crypto.com stake
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-robinhood-cryptocom-minority-stake/when2buy-image-model.png`
+
+$HOOD agreed to take a minority stake in Crypto.com and its prediction-market business.  When2Buy — your U.S. stock partner.
+
+### Vanguard VOO tops $1T in assets
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-vanguard-voo-1t-aum/when2buy-image-model.png`
+
+Vanguard's $VOO now has more than $1T in assets.  It is the largest ETF in the U.S.  When2Buy — your U.S. stock partner.
+
+### Bitcoin $74,000 forecast
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-bitcoin-kalshi-74000-forecast/when2buy-image-model.png`
+
+Kalshi traders are pricing a possible $74,000 Bitcoin low this month.  When2Buy — your U.S. stock partner.
+
+### Quantum companies land U.S. updates
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-quantum-us-government-100m/when2buy-image-model.png`
+
+$RGTI and $QBTS signed U.S. government deals worth up to $100M.  $IONQ raised full-year guidance after its SkyWater acquisition.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2430,6 +2462,13 @@ Uber COO Andrew Macdonald bought 70,000 $UBER shares for $5.31M.  His average pu
 
 ## 最近运行
 
+- `2026-09-08T12:12:18Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, four image-model packages, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T12:11:37Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
+- `2026-09-08T12:11:36Z` **produce / succeeded** — Produced 4 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-08T12:11:06Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
+- `2026-09-08T12:11:06Z` **produce / succeeded** — Produced 4 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-08T12:07:23Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
+- `2026-09-08T12:07:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 84 eligible originals and added 4 new post(s).
 - `2026-09-08T11:51:00Z` **full / partial** — Apify collection, media archive, metrics, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred while the active circuit breaker remains in force. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T11:50:36Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
 - `2026-09-08T11:50:30Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
@@ -2443,10 +2482,3 @@ Uber COO Andrew Macdonald bought 70,000 $UBER shares for $5.31M.  His average pu
 - `2026-09-08T11:26:40Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
 - `2026-09-08T11:26:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).
 - `2026-09-08T11:09:29Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T11:08:59Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
-- `2026-09-08T11:06:18Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-08T11:06:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
-- `2026-09-08T10:54:08Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 metrics pass, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T10:53:25Z` **queue / succeeded** — Prepared 52 one-to-one production candidate(s).
-- `2026-09-08T10:53:24Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
-- `2026-09-08T10:48:18Z` **queue / succeeded** — Prepared 52 one-to-one production candidate(s).
