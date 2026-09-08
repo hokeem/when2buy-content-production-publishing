@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:06:48Z",
+  "generatedAt": "2026-09-08T06:26:16Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -146,7 +146,7 @@
       "benchmarkPostId": "2097048992051769654",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260907-us-market-reopens-tomorrow",
-      "packageStatus": "ready",
+      "packageStatus": "blocked",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097048992051769654",
       "originalText": "*THE STOCK MARKET IS BACK OPEN AGAIN TOMORROW",
       "originalMediaUrls": [],

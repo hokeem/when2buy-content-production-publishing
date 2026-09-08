@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T06:08:25.298469+00:00",
+  "updatedAt": "2026-09-08T06:27:15.177267+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -107291,6 +107291,42 @@
       "completedAt": "2026-09-08T06:08:25.297143+00:00",
       "summary": "Preflight and validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived no new media, and rebuilt the 45-item newest-first queue. The 60-minute Postiz check found one PUBLISHED X delivery with a public URL and no ERROR, FAILED, or unverified QUEUE delivery.",
       "reason": "The newest ready package contained a time-sensitive “reopens tomorrow” claim that was stale at probe time; it was not submitted."
+    },
+    {
+      "id": "run-20260908T062616Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T06:26:16Z",
+      "completedAt": "2026-09-08T06:26:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T062616Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T06:26:16Z",
+      "completedAt": "2026-09-08T06:26:16Z",
+      "summary": "Prepared 45 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T062700Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T06:25:43Z",
+      "completedAt": "2026-09-08T06:27:00Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and report rendering completed; publication was withheld by the required Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T07:27:00Z",
+        "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
