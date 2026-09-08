@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T01:49:10.737148+00:00",
+  "updatedAt": "2026-09-08T02:07:58.503114+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -21064,7 +21064,7 @@
       "benchmarkPostId": "2097100701637763331",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097100701637763331",
       "title": "ChatGPT Work adds writing-style awareness",
-      "status": "ready",
+      "status": "published",
       "postText": "ChatGPT Work can now pick up on the details that make a user's writing sound like them.\n\nThat includes favorite phrases, sign-offs and capitalization quirks.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "ChatGPT Work can pick up details that make a user's writing sound like them.",
@@ -21092,7 +21092,9 @@
             "no damaged or malformed objects"
           ]
         }
-      }
+      },
+      "postizPostId": "cmts13zux0l4rlm0y0ulhd7ar",
+      "publishedAt": "2026-09-08T02:06:00.000Z"
     },
     {
       "id": "pkg-20260908-isar-aerospace-western-europe-orbit",
@@ -23491,6 +23493,23 @@
         "status": "active",
         "windowStart": "2026-09-08T01:48:00.000Z",
         "windowEnd": "2026-09-11T01:48:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097144732816474500",
+      "packageId": "pkg-20260908-chatgpt-work-writing-style-awareness",
+      "title": "ChatGPT Work adds writing-style awareness",
+      "status": "published",
+      "publishedAt": "2026-09-08T02:06:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097144732816474500",
+      "postizPostId": "cmts13zux0l4rlm0y0ulhd7ar",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-08T02:06:00.000Z",
+        "windowEnd": "2026-09-11T02:06:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -90360,6 +90379,46 @@
       "startedAt": "2026-09-08T01:49:10.736205Z",
       "completedAt": "2026-09-08T01:49:10.736205Z",
       "summary": "Preflight passed; Apify scanned both required benchmarks with no new eligible originals; 72-hour Postiz metrics appended numeric observations; queue rebuilt newest-first; one newest ready package was published and verified publicly.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T020621Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T02:06:21Z",
+      "completedAt": "2026-09-08T02:06:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T020621Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T02:06:21Z",
+      "completedAt": "2026-09-08T02:06:21Z",
+      "summary": "Prepared 48 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T020723Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T02:07:23.097625+00:00",
+      "completedAt": "2026-09-08T02:07:23.097637+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T020700Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T02:07:00Z",
+      "completedAt": "2026-09-08T02:07:00Z",
+      "summary": "Preflight and state validation passed. Apify scanned both required benchmark accounts, added no eligible originals, rebuilt the 48-item newest-first queue, and one newest ready package was published and verified with a public X URL.",
       "reason": ""
     }
   ],
