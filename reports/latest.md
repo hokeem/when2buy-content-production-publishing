@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T09:30:08.257645+00:00`
+- 状态更新：`2026-09-08T09:51:09.561717+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**349**
 - 待选选题：**307**
@@ -2350,6 +2350,10 @@ $BTC short-term whale profits just hit a record $9.07B.  The build-up raises the
 
 ## 最近运行
 
+- `2026-09-08T09:49:28Z` **full / partial** — Apify collection, media archival, timestamp-first queue rebuild, and :45 Postiz-first metrics collection completed; the sole newest-package Postiz probe did not produce a verified public X URL. Postiz X publication probe for pkg-20260908-btc-short-term-whale-profit-risk was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.
+- `2026-09-08T09:48:31Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
+- `2026-09-08T09:48:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
+- `2026-09-08T09:48:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T09:30:08Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
 - `2026-09-08T09:29:26Z` **produce / succeeded** — Produced the newest BTC whale-profit-risk package with an inspected image-model visual and one exact-logo composite.
 - `2026-09-08T09:26:18Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
@@ -2366,7 +2370,3 @@ $BTC short-term whale profits just hit a record $9.07B.  The build-up raises the
 - `2026-09-08T08:26:05Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T08:26:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-08T08:08:37Z` **full / partial** — Apify collection, media archive, queue rebuild, report rendering, and delivery safeguards completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
-- `2026-09-08T08:07:42Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
-- `2026-09-08T08:07:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 72 eligible originals and added 0 new post(s).
-- `2026-09-08T08:05:58Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
-- `2026-09-08T07:47:25.814719+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
