@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T02:46:47Z",
+  "generatedAt": "2026-09-08T03:07:21Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -46,7 +46,7 @@
       "benchmarkPostId": "2097058112251322868",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260908-robinhood-first-oura-ipo-underwriter",
-      "packageStatus": "ready",
+      "packageStatus": "failed",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097058112251322868",
       "originalText": "ROBINHOOD IS UNDERWRITING ITS FIRST IPO\n\nOura has named Robinhood $HOOD as an underwriter for its upcoming IPO, marking Robinhood’s first official underwriting mandate https://t.co/feXtRSooKq",
       "originalMediaUrls": [
@@ -708,13 +708,13 @@
       "score": 24361,
       "heatScore": 24361,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 14,
+      "editorialScore": 13,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -746,13 +746,13 @@
       "score": 7038,
       "heatScore": 7038,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 18,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -776,13 +776,13 @@
       "score": 17841,
       "heatScore": 17841,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 18,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
