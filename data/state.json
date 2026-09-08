@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T08:49:18.491065+00:00",
+  "updatedAt": "2026-09-08T09:08:43.753135+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9564,6 +9564,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097247338762809344",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097247338762809344",
+      "postedAt": "Tue Sep 08 08:55:05 +0000 2026",
+      "text": "𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fees over the past 15 days. https://t.co/8CoQElRl79",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRrrVIwXgAAqbvy.jpg",
+        "https://pbs.twimg.com/media/HRrrVIvWMAAIcT2.jpg"
+      ],
+      "engagement": {
+        "likes": 36,
+        "replies": 20,
+        "reposts": 8,
+        "quotes": 2,
+        "views": 13002
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T09:05:57Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRrrVIwXgAAqbvy.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097247338762809344-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRrrVIvWMAAIcT2.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097247338762809344-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -15358,6 +15392,25 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097247338762809344",
+      "rank": 1,
+      "title": "𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fee…",
+      "benchmarkPostId": "2097247338762809344",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097247338762809344",
+      "score": 15042,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T09:05:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -21409,6 +21462,41 @@
             "logo intact and no visibly damaged subject"
           ],
           "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-robinhood-chain-fees-upside",
+      "benchmarkPostId": "2097247338762809344",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097247338762809344",
+      "title": "Robinhood Chain fees hit $33M in 15 days",
+      "status": "ready",
+      "postText": "$HOOD has generated $33M in Robinhood Chain fees over the past 15 days.\n\nBernstein sees 31% upside for the stock.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Bernstein sees 31% upside for Robinhood $HOOD.",
+        "Robinhood Chain generated $33 million in fees over the past 15 days."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097247338762809344"
+      ],
+      "imagePath": "deliverables/pkg-20260908-robinhood-chain-fees-upside/when2buy-image-model.png",
+      "createdAt": "2026-09-08T09:08:16Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Asset type: premium 1:1 X financial-news editorial visual for When2Buy. Primary request: original entity-led visual for Robinhood $HOOD, a research view highlighting 31% upside and $33 million of Robinhood Chain fees over 15 days. Scene/backdrop: near-black institutional fintech trading room, black glass, brushed metal and sculptural warm-white chain-network light elements. Subject: one sleek unbranded dark smartphone with a blank completely black reflective screen, beside one unbranded metallic bull sculpture and an abstract physical translucent chain-network sculpture. No papers, no computer screens, no charts, no ledger, no interface panels. Style/medium: cinematic photorealistic premium financial-news photography, sharp white rim light, near-black base, controlled restrained deep-red accent. Composition/framing: exact 1:1 square; subjects centered-left and upper-left; lower-right 20 percent clean, uniform near-black empty space for a supplied logo overlay. Text: none whatsoever. Constraints: absolutely no text or text-like marks anywhere: no letters, numbers, symbols, charts, graph axes, UI, documents, labels, ticker symbols, company names, source attribution, handles, URLs, watermarks, brand logos, or pseudo-text. No people, generic radar graphics, typography-card layout, duplicate subjects, malformed or damaged objects.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T09:08:16Z",
+          "checks": [
+            "square 1254x1254",
+            "entity-led fintech device, metallic bull and physical chain-network visual",
+            "no generated text, attribution, source handle or URL",
+            "near-black premium palette with controlled white and restrained-red accents",
+            "not a pure-text or generic-radar image",
+            "exact repository logo composited once in lower-right clear space",
+            "no malformed or damaged subject"
+          ]
         }
       }
     }
@@ -114778,6 +114866,46 @@
         "expiresAt": "2026-09-08T09:08:37Z",
         "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403."
       }
+    },
+    {
+      "id": "run-20260908T090557Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T09:05:57Z",
+      "completedAt": "2026-09-08T09:05:57Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T090558Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T09:05:58Z",
+      "completedAt": "2026-09-08T09:05:58Z",
+      "summary": "Prepared 47 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T090816Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T09:08:16Z",
+      "completedAt": "2026-09-08T09:08:16Z",
+      "summary": "Produced the newest eligible Robinhood package from a QA-inspected image-model visual with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T090843Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T09:08:43Z",
+      "completedAt": "2026-09-08T09:08:43Z",
+      "summary": "Collected both benchmark feeds, archived new source media, rebuilt the timestamp-first queue, and produced the newest ready package. No social submission was made.",
+      "reason": "Postiz preceding-60-minute delivery query returned HTTP 403 Forbidden; circuit-breaker status could not be verified, so no post was submitted."
     }
   ],
   "deliveryCircuitBreaker": {

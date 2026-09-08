@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T08:49:18.491065+00:00`
+- 状态更新：`2026-09-08T09:08:43.753135+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**347**
-- 待选选题：**305**
-- 待发布制作包：**102**
+- 对标帖子快照：**348**
+- 待选选题：**306**
+- 待发布制作包：**103**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 08:55:05 +0000 2026 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fees over the past 15 days. https://t.co/8CoQElRl79 | [X](https://x.com/WhaleInsider/status/2097247338762809344) |
 | @WhaleInsider | Tue Sep 08 08:19:11 +0000 2026 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-card platforms - Economic Times. https://t.co/SU5cr4MxeS | [X](https://x.com/WhaleInsider/status/2097238305305755671) |
 | @WhaleInsider | Tue Sep 08 07:19:20 +0000 2026 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over the past month, now surpassing $700 million - Token Terminal. https://t.co/mkiuh50YyH | [X](https://x.com/WhaleInsider/status/2097223244692574351) |
 | @WhaleInsider | Tue Sep 08 06:44:17 +0000 2026 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 years. https://t.co/sZ4iQvPS0q | [X](https://x.com/WhaleInsider/status/2097214423114863064) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 15:01:20 +0000 2026 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026  🥈 Caterpillar $CAT: +42%🟢 https://t.co/MezJT5h6W8 | [X](https://x.com/StockMKTNewz/status/2096977122342400266) |
 | @WhaleInsider | Mon Sep 07 14:27:58 +0000 2026 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since February 28th due to the Iran war. https://t.co/4fstiFR0rT | [X](https://x.com/WhaleInsider/status/2096968726939652174) |
 | @StockMKTNewz | Mon Sep 07 14:45:10 +0000 2026 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | [X](https://x.com/StockMKTNewz/status/2096973053095706742) |
-| @StockMKTNewz | Mon Sep 07 14:23:57 +0000 2026 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026  👑 Merck $MRK: +43%🟢 https://t.co/APN8kkaku9 | [X](https://x.com/StockMKTNewz/status/2096967712274628776) |
 
 ## 选题推荐
 
@@ -92,6 +92,7 @@
 | 1 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 yea… | WhaleInsider | 9524 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over th… | WhaleInsider | 14095 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-c… | WhaleInsider | 13352 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fee… | WhaleInsider | 15042 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2188,6 +2189,13 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 
 Crypto holders in India are using overseas gift-card platforms to spend on groceries, fuel and gold.  When2Buy — your U.S. stock partner.
 
+### Robinhood Chain fees hit $33M in 15 days
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-robinhood-chain-fees-upside/when2buy-image-model.png`
+
+$HOOD has generated $33M in Robinhood Chain fees over the past 15 days.  Bernstein sees 31% upside for the stock.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2334,6 +2342,10 @@ Crypto holders in India are using overseas gift-card platforms to spend on groce
 
 ## 最近运行
 
+- `2026-09-08T09:08:43Z` **full / partial** — Collected both benchmark feeds, archived new source media, rebuilt the timestamp-first queue, and produced the newest ready package. No social submission was made. Postiz preceding-60-minute delivery query returned HTTP 403 Forbidden; circuit-breaker status could not be verified, so no post was submitted.
+- `2026-09-08T09:08:16Z` **produce / succeeded** — Produced the newest eligible Robinhood package from a QA-inspected image-model visual with exact-logo compositing.
+- `2026-09-08T09:05:58Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
+- `2026-09-08T09:05:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-08T08:49:18Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
 - `2026-09-08T08:47:49Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T08:47:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2350,7 +2362,3 @@ Crypto holders in India are using overseas gift-card platforms to spend on groce
 - `2026-09-08T07:46:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T07:25:00Z` **full / succeeded** — Apify collection, media archive, newest-first queue rebuild, one image-model package, Postiz verification, reporting, and canonical push completed; one X post was published.
 - `2026-09-08T07:31:14.415680+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-08T07:29:47Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
-- `2026-09-08T07:27:06Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
-- `2026-09-08T07:27:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 58 eligible originals and added 1 new post(s).
-- `2026-09-08T07:06:00Z` **full / partial** — Apify collection, timestamp-first queue rebuild, Postiz-first metrics collection, package validation, and reporting completed; publication was withheld by the active delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
