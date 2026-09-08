@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T16:14:36.670357+00:00`
+- 状态更新：`2026-09-08T16:16:12.000938+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**384**
 - 待选选题：**342**
-- 待发布制作包：**136**
+- 待发布制作包：**135**
 - 已验证发布：**138**
 
 ## 对标账号扫描
@@ -2458,7 +2458,7 @@ The developer behind the billion-dollar $PEPE project on Ethereum has joined Art
 
 ### LeBron James and Polymarket
 
-- 状态：`ready`
+- 状态：`blocked`
 - 配图：`deliverables/pkg-20260908-lebron-polymarket-partnership-v2/when2buy-image-model.png`
 
 LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partner.
@@ -2609,6 +2609,8 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 
 ## 最近运行
 
+- `2026-09-08T16:16:11Z` **queue / succeeded** — Prepared 61 one-to-one production candidate(s).
+- `2026-09-08T16:16:11Z` **queue / succeeded** — Retained the duplicate benchmark capture for audit and excluded its duplicate Polymarket package from the timestamp-first production queue.
 - `2026-09-08T16:14:36Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and two new image-model packages completed; publication was deferred by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T16:14:20Z` **queue / succeeded** — Prepared 79 one-to-one production candidate(s).
 - `2026-09-08T16:14:20Z` **produce / succeeded** — Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.
@@ -2627,5 +2629,3 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 - `2026-09-08T15:26:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
 - `2026-09-08T15:16:00Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T15:15:11Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
-- `2026-09-08T15:15:11Z` **produce / succeeded** — Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-08T15:06:21Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).

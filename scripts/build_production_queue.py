@@ -71,7 +71,7 @@ def main():
         package = packages.get(str(post.get("id")))
         text = str(post.get("text") or "").lower()
         is_promotion = any(marker in text for marker in PROMOTION_MARKERS)
-        if post.get("isPinned") or is_promotion or (package and package.get("status") == "published") or (posted and now() - posted > timedelta(hours=72)):
+        if post.get("isPinned") or is_promotion or (package and package.get("status") in {"published", "blocked", "failed"}) or (posted and now() - posted > timedelta(hours=72)):
             continue
         editorial_total, breakdown = score(post)
         total = heat_score(post)

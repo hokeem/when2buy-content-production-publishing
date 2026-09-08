@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:14:36.670357+00:00",
+  "updatedAt": "2026-09-08T16:16:12.000938+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -24300,7 +24300,7 @@
       "benchmarkPostId": "2097355583498113152",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097355583498113152",
       "title": "LeBron James and Polymarket",
-      "status": "ready",
+      "status": "blocked",
       "postText": "LeBron James is now working with Polymarket.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark says LeBron James is working with Polymarket."
@@ -24328,7 +24328,9 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "blockedAt": "2026-09-08T16:16:11Z",
+      "blockReason": "Duplicate topic: an earlier retained benchmark package already covers the LeBron James and Polymarket event."
     }
   ],
   "posts": [
@@ -118911,6 +118913,24 @@
         "expiresAt": "2026-09-08T16:51:52Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
       }
+    },
+    {
+      "id": "run-20260908T161611Z-dedupe",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T16:16:11Z",
+      "completedAt": "2026-09-08T16:16:11Z",
+      "summary": "Retained the duplicate benchmark capture for audit and excluded its duplicate Polymarket package from the timestamp-first production queue.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T161611Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T16:16:11Z",
+      "completedAt": "2026-09-08T16:16:11Z",
+      "summary": "Prepared 61 one-to-one production candidate(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
