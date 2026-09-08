@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T09:08:43.753135+00:00`
+- 状态更新：`2026-09-08T09:30:08.257645+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**348**
-- 待选选题：**306**
-- 待发布制作包：**103**
+- 对标帖子快照：**349**
+- 待选选题：**307**
+- 待发布制作包：**104**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 09:21:16 +0000 2026 | JUST IN: $BTC short-term whale profits hit record $9.07 billion, increasing risk of a sell-off - CryptoQuant. https://t.co/WcdRi9WxqD | [X](https://x.com/WhaleInsider/status/2097253930233151772) |
 | @WhaleInsider | Tue Sep 08 08:55:05 +0000 2026 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fees over the past 15 days. https://t.co/8CoQElRl79 | [X](https://x.com/WhaleInsider/status/2097247338762809344) |
 | @WhaleInsider | Tue Sep 08 08:19:11 +0000 2026 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-card platforms - Economic Times. https://t.co/SU5cr4MxeS | [X](https://x.com/WhaleInsider/status/2097238305305755671) |
 | @WhaleInsider | Tue Sep 08 07:19:20 +0000 2026 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over the past month, now surpassing $700 million - Token Terminal. https://t.co/mkiuh50YyH | [X](https://x.com/WhaleInsider/status/2097223244692574351) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Mon Sep 07 14:54:13 +0000 2026 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglomerate, is building a tokenization platform on Avalanche as South Korea accelerates plans to bring securities onchain. | [X](https://x.com/WhaleInsider/status/2096975330858692621) |
 | @StockMKTNewz | Mon Sep 07 15:01:20 +0000 2026 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026  🥈 Caterpillar $CAT: +42%🟢 https://t.co/MezJT5h6W8 | [X](https://x.com/StockMKTNewz/status/2096977122342400266) |
 | @WhaleInsider | Mon Sep 07 14:27:58 +0000 2026 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since February 28th due to the Iran war. https://t.co/4fstiFR0rT | [X](https://x.com/WhaleInsider/status/2096968726939652174) |
-| @StockMKTNewz | Mon Sep 07 14:45:10 +0000 2026 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | [X](https://x.com/StockMKTNewz/status/2096973053095706742) |
 
 ## 选题推荐
 
@@ -93,6 +93,7 @@
 | 1 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over th… | WhaleInsider | 14095 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-c… | WhaleInsider | 13352 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fee… | WhaleInsider | 15042 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $BTC short-term whale profits hit record $9.07 billion, increasing risk of a sell-o… | WhaleInsider | 12439 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2196,6 +2197,13 @@ Crypto holders in India are using overseas gift-card platforms to spend on groce
 
 $HOOD has generated $33M in Robinhood Chain fees over the past 15 days.  Bernstein sees 31% upside for the stock.  When2Buy — your U.S. stock partner.
 
+### Bitcoin short-term whale profits reach $9.07B
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-btc-short-term-whale-profit-risk/when2buy-image-model.png`
+
+$BTC short-term whale profits just hit a record $9.07B.  The build-up raises the risk of a sell-off.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2342,6 +2350,10 @@ $HOOD has generated $33M in Robinhood Chain fees over the past 15 days.  Bernste
 
 ## 最近运行
 
+- `2026-09-08T09:30:08Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
+- `2026-09-08T09:29:26Z` **produce / succeeded** — Produced the newest BTC whale-profit-risk package with an inspected image-model visual and one exact-logo composite.
+- `2026-09-08T09:26:18Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
+- `2026-09-08T09:26:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-08T09:08:43Z` **full / partial** — Collected both benchmark feeds, archived new source media, rebuilt the timestamp-first queue, and produced the newest ready package. No social submission was made. Postiz preceding-60-minute delivery query returned HTTP 403 Forbidden; circuit-breaker status could not be verified, so no post was submitted.
 - `2026-09-08T09:08:16Z` **produce / succeeded** — Produced the newest eligible Robinhood package from a QA-inspected image-model visual with exact-logo compositing.
 - `2026-09-08T09:05:58Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
@@ -2358,7 +2370,3 @@ $HOOD has generated $33M in Robinhood Chain fees over the past 15 days.  Bernste
 - `2026-09-08T08:07:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 72 eligible originals and added 0 new post(s).
 - `2026-09-08T08:05:58Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
 - `2026-09-08T07:47:25.814719+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-08T07:46:26Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T07:46:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T07:25:00Z` **full / succeeded** — Apify collection, media archive, newest-first queue rebuild, one image-model package, Postiz verification, reporting, and canonical push completed; one X post was published.
-- `2026-09-08T07:31:14.415680+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
