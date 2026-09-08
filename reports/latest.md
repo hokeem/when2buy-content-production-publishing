@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T19:28:16.495805+00:00`
+- 状态更新：`2026-09-08T19:49:10.807916+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**398**
 - 待选选题：**355**
@@ -2699,6 +2699,9 @@ $META is rolling out Muse, an always-on AI assistant that can browse and connect
 
 ## 最近运行
 
+- `2026-09-08T19:49:10Z` **full / partial** — Hourly metrics, Apify collection, media archive, timestamp-first queue rebuild, and delivery-safety checks completed; publication was withheld by the Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T19:47:53Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
+- `2026-09-08T19:47:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T19:28:16Z` **full / partial** — Apify collection, benchmark-media archive, timestamp-first queue rebuild, newest-package production, content validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T19:27:56Z` **produce / succeeded** — Produced the newest eligible Meta Muse package with an original image-model visual, exact-logo compositing, and primary-source verification.
 - `2026-09-08T19:26:10Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
@@ -2716,6 +2719,3 @@ $META is rolling out Muse, an always-on AI assistant that can browse and connect
 - `2026-09-08T18:26:38Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
 - `2026-09-08T18:26:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 2 new post(s).
 - `2026-09-08T18:07:43Z` **full / partial** — Apify scanned both benchmark accounts, archived available benchmark media, and rebuilt the timestamp-first production queue; no new eligible source posts required package production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T18:06:48Z` **queue / succeeded** — Prepared 65 one-to-one production candidate(s).
-- `2026-09-08T18:06:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
-- `2026-09-08T17:58:07Z` **full / partial** — Apify collection, media archive, hourly metrics, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
