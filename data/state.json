@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T17:58:07.440502+00:00",
+  "updatedAt": "2026-09-08T18:07:43.402202+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -119904,6 +119904,46 @@
       "startedAt": "2026-09-08T17:58:07Z",
       "completedAt": "2026-09-08T17:58:07Z",
       "summary": "Apify collection, media archive, hourly metrics, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T18:10:02Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T18:10:02Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T180645Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T18:06:45Z",
+      "completedAt": "2026-09-08T18:06:45Z",
+      "summary": "Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T180648Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T18:06:48Z",
+      "completedAt": "2026-09-08T18:06:48Z",
+      "summary": "Prepared 65 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T180743Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T18:07:43Z",
+      "completedAt": "2026-09-08T18:07:43Z",
+      "summary": "Apify scanned both benchmark accounts, archived available benchmark media, and rebuilt the timestamp-first production queue; no new eligible source posts required package production. Publication was withheld by the active Postiz delivery circuit breaker.",
       "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
       "deliveryCheck": {
         "postizWindowMinutes": 60,

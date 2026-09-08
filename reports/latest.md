@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T17:58:07.440502+00:00`
+- 状态更新：`2026-09-08T18:07:43.402202+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**394**
 - 待选选题：**352**
@@ -2675,6 +2675,9 @@ Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy 
 
 ## 最近运行
 
+- `2026-09-08T18:07:43Z` **full / partial** — Apify scanned both benchmark accounts, archived available benchmark media, and rebuilt the timestamp-first production queue; no new eligible source posts required package production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T18:06:48Z` **queue / succeeded** — Prepared 65 one-to-one production candidate(s).
+- `2026-09-08T18:06:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
 - `2026-09-08T17:58:07Z` **full / partial** — Apify collection, media archive, hourly metrics, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T17:57:31Z` **queue / succeeded** — Prepared 65 one-to-one production candidate(s).
 - `2026-09-08T17:57:28Z` **produce / succeeded** — Produced the two newest timestamp-first Apify packages with inspected image-model visuals and one exact-logo composite each.
@@ -2692,6 +2695,3 @@ Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy 
 - `2026-09-08T16:56:06Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
 - `2026-09-08T16:56:04Z` **produce / succeeded** — Produced the three newest timestamp-first benchmark packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-08T16:55:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 4 new post(s).
-- `2026-09-08T16:25:28Z` **full / partial** — Apify scanned both benchmark feeds, archived available source media, rebuilt the timestamp-first queue, excluded a promotional partner post and a duplicate event, and produced one verified image-model package. No publication was submitted. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden (error code: 1010); no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T16:29:46Z` **queue / succeeded** — Prepared 58 one-to-one production candidate(s).
-- `2026-09-08T16:29:32Z` **queue / succeeded** — Prepared 59 one-to-one production candidate(s).
