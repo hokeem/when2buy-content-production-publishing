@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T12:12:18.238896+00:00`
+- 状态更新：`2026-09-08T12:30:17.208172+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**363**
-- 待选选题：**321**
-- 待发布制作包：**118**
+- 对标帖子快照：**365**
+- 待选选题：**323**
+- 待发布制作包：**120**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 12:09:04 +0000 2026 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS   Google Cloud $GOOGL and Accenture $ACN just announced they've formed Accenture Gemini Enterprise Business Group  "As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform." - WSJ | [X](https://x.com/StockMKTNewz/status/2097296156157935643) |
+| @StockMKTNewz | Tue Sep 08 12:19:00 +0000 2026 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Consolidated Precision Products from private investment firms Warburg Pincus and Berkshire Partners for   $11.75 billion https://t.co/afxl89aQc1 | [X](https://x.com/StockMKTNewz/status/2097298657657704833) |
 | @StockMKTNewz | Tue Sep 08 11:48:44 +0000 2026 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES:  - RIGETTI $RGTI SIGNS PACT FOR $100M WITH 🇺🇸 GOVERNMENT TO ACCELERATE R&amp;D  - D-WAVE $QBTS SIGNS DEAL WITH US GOVERNMENT FOR UP TO $100M   - $IONQ RAISES ITS FULL YEAR GUIDANCE FOLLOWING SKYWATER ACQUISITION | [X](https://x.com/StockMKTNewz/status/2097291038737965429) |
 | @WhaleInsider | Tue Sep 08 11:50:21 +0000 2026 | JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. https://t.co/zUYLgVY8Pg | [X](https://x.com/WhaleInsider/status/2097291447749820438) |
 | @StockMKTNewz | Tue Sep 08 12:01:28 +0000 2026 | Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in assets under management   Vanguard has a total of 116 ETFs in the United States 🇺🇸 of which 38 are beating the S&amp;P 500  Below is every Vanguard ETF beating VOO so far in 2026 via @TheETFTracker | [X](https://x.com/StockMKTNewz/status/2097294247049236489) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 19:46:55 +0000 2026 | *THE STOCK MARKET IS BACK OPEN AGAIN TOMORROW | [X](https://x.com/StockMKTNewz/status/2097048992051769654) |
 | @StockMKTNewz | Mon Sep 07 20:00:36 +0000 2026 | NVIDIA $NVDA CEO JENSEN HUANG IS ON 🇬🇧 KING CHARLES' AI MEETING GUEST LIST - Politico | [X](https://x.com/StockMKTNewz/status/2097052436301054403) |
 | @WhaleInsider | Mon Sep 07 18:59:02 +0000 2026 | JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana integration for its privacy technology. https://t.co/oygVZqd2Fs | [X](https://x.com/WhaleInsider/status/2097036939798978783) |
-| @StockMKTNewz | Mon Sep 07 18:36:36 +0000 2026 | Iron ore broke back $100 a ton for the first time in seven weeks today - Bloomberg https://t.co/pENwkTLz0o | [X](https://x.com/StockMKTNewz/status/2097031294546784410) |
-| @WhaleInsider | Mon Sep 07 18:38:07 +0000 2026 | JUST IN: OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. https://t.co/cakvyoFMQO | [X](https://x.com/WhaleInsider/status/2097031676031336867) |
 
 ## 选题推荐
 
@@ -101,6 +101,7 @@
 | 1 | The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at leas… | StockMKTNewz | 6276 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Goldman Sachs today raised its price target on Robinhood $HOOD up to $142 from $124 while ma… | StockMKTNewz | 5821 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction marke… | StockMKTNewz | 4005 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Cons… | StockMKTNewz | 7455 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -130,6 +131,7 @@
 | 2 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP Palantir named Nebius "its … | StockMKTNewz | 16123 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | $UBER COO Andrew Macdonald spent $5.31 Million to buy 70,000 shares of Uber stock at an aver… | StockMKTNewz | 11046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in ass… | StockMKTNewz | 7497 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS Google Cloud … | StockMKTNewz | 12116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2316,6 +2318,20 @@ Kalshi traders are pricing a possible $74,000 Bitcoin low this month.  When2Buy 
 
 $RGTI and $QBTS signed U.S. government deals worth up to $100M.  $IONQ raised full-year guidance after its SkyWater acquisition.  When2Buy — your U.S. stock partner.
 
+### GE Aerospace agrees $11.75B CPP acquisition
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-ge-aerospace-cpp-1175b-acquisition/when2buy-image-model.png`
+
+GE Aerospace $GE agreed to acquire engineered-castings maker Consolidated Precision Products for $11.75B.  Warburg Pincus and Berkshire Partners are selling the business.  When2Buy — your U.S. stock partner.
+
+### Google Cloud and Accenture launch Gemini group
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-google-accenture-gemini-engineers/when2buy-image-model.png`
+
+Google Cloud $GOOGL and Accenture $ACN formed a Gemini Enterprise group.  Google Cloud will train up to 1,000 Accenture engineers to build customer AI apps on-site.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2462,6 +2478,11 @@ $RGTI and $QBTS signed U.S. government deals worth up to $100M.  $IONQ raised fu
 
 ## 最近运行
 
+- `2026-09-08T12:30:17Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T12:29:52Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
+- `2026-09-08T12:29:52Z` **produce / succeeded** — Produced 2 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-08T12:26:12Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
+- `2026-09-08T12:26:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
 - `2026-09-08T12:12:18Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, four image-model packages, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T12:11:37Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
 - `2026-09-08T12:11:36Z` **produce / succeeded** — Produced 4 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
@@ -2477,8 +2498,3 @@ $RGTI and $QBTS signed U.S. government deals worth up to $100M.  $IONQ raised fu
 - `2026-09-08T11:45:48Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
 - `2026-09-08T11:31:00Z` **publish / partial** — Apify collection, media archiving, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T11:30:11Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-08T11:30:10Z` **produce / succeeded** — Produced 2 newest timestamp-first packages with inspected image-model visuals and one exact-logo composite each.
-- `2026-09-08T11:29:09Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-08T11:26:40Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
-- `2026-09-08T11:26:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).
-- `2026-09-08T11:09:29Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.

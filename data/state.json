@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T12:12:18.238896+00:00",
+  "updatedAt": "2026-09-08T12:30:17.208172+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9980,6 +9980,62 @@
       "isPinned": false,
       "capturedAt": "2026-09-08T12:07:22Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097298657657704833",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097298657657704833",
+      "postedAt": "Tue Sep 08 12:19:00 +0000 2026",
+      "text": "GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Consolidated Precision Products from private investment firms Warburg Pincus and Berkshire Partners for \n\n$11.75 billion https://t.co/afxl89aQc1",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRsW-9UaYAEj_Xs.jpg"
+      ],
+      "engagement": {
+        "likes": 18,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 6875
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T12:26:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsW-9UaYAEj_Xs.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097298657657704833-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097296156157935643",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097296156157935643",
+      "postedAt": "Tue Sep 08 12:09:04 +0000 2026",
+      "text": "GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS \n\nGoogle Cloud $GOOGL and Accenture $ACN just announced they've formed Accenture Gemini Enterprise Business Group\n\n\"As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform.\" - WSJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRsXmN6bgAAScp5.jpg"
+      ],
+      "engagement": {
+        "likes": 28,
+        "replies": 6,
+        "reposts": 7,
+        "quotes": 0,
+        "views": 10966
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T12:26:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsXmN6bgAAScp5.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097296156157935643-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -16079,6 +16135,44 @@
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097298657657704833",
+      "rank": 1,
+      "title": "GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Cons…",
+      "benchmarkPostId": "2097298657657704833",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097298657657704833",
+      "score": 7455,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T12:26:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097296156157935643",
+      "rank": 2,
+      "title": "GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS Google Cloud …",
+      "benchmarkPostId": "2097296156157935643",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097296156157935643",
+      "score": 12116,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T12:26:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -22680,6 +22774,80 @@
             "square 1254x1254",
             "complete entity-led visual",
             "no generated public copy or source attribution",
+            "premium near-black white restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-ge-aerospace-cpp-1175b-acquisition",
+      "benchmarkPostId": "2097298657657704833",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097298657657704833",
+      "title": "GE Aerospace agrees $11.75B CPP acquisition",
+      "status": "ready",
+      "postText": "GE Aerospace $GE agreed to acquire engineered-castings maker Consolidated Precision Products for $11.75B.\n\nWarburg Pincus and Berkshire Partners are selling the business.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "GE Aerospace agreed to acquire engineered-castings maker Consolidated Precision Products.",
+        "The transaction value is $11.75 billion.",
+        "Warburg Pincus and Berkshire Partners are the sellers."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097298657657704833"
+      ],
+      "imagePath": "deliverables/pkg-20260908-ge-aerospace-cpp-1175b-acquisition/when2buy-image-model.png",
+      "createdAt": "2026-09-08T12:29:51Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Asset type: square X financial-news visual for When2Buy. Original entity-led premium visual for GE Aerospace acquiring engineered-castings maker Consolidated Precision Products in an $11.75 billion transaction: near-black aerospace engineering foundry, precise turbine blade casting and sleek jet-engine nacelle, crisp white rim light and restrained red accent, clean lower-right logo-safe area. No text, numbers, logos, people, UI, charts, source references, generic radar, or visual corruption.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T12:29:51Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy, source attribution, or UI",
+            "premium near-black white restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-google-accenture-gemini-engineers",
+      "benchmarkPostId": "2097296156157935643",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097296156157935643",
+      "title": "Google Cloud and Accenture launch Gemini group",
+      "status": "ready",
+      "postText": "Google Cloud $GOOGL and Accenture $ACN formed a Gemini Enterprise group.\n\nGoogle Cloud will train up to 1,000 Accenture engineers to build customer AI apps on-site.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Google Cloud and Accenture formed the Accenture Gemini Enterprise Business Group.",
+        "Google Cloud will help train up to 1,000 Accenture forward-deployed engineers.",
+        "The engineers will work with clients on-site to plan and build AI applications on Gemini Enterprise."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097296156157935643"
+      ],
+      "imagePath": "deliverables/pkg-20260908-google-accenture-gemini-engineers/when2buy-image-model.png",
+      "createdAt": "2026-09-08T12:29:52Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Asset type: square X financial-news visual for When2Buy. Original entity-led premium visual for Google Cloud and Accenture's Gemini Enterprise group training up to 1,000 forward-deployed engineers: dark architectural enterprise innovation atrium, abstract glass cloud sculpture around a glowing server core, distant engineer silhouettes, crisp white rim light, restrained deep-red edge accents, uncluttered lower-right floor for logo overlay. No UI, monitors, screens, charts, logos, brand marks, generated text, source names, handles, URLs, watermarks, generic radar, or visual corruption.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T12:29:52Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy, source attribution, or UI",
             "premium near-black white restrained-red palette",
             "not pure text or generic radar",
             "exact repository logo composited once",
@@ -116583,6 +116751,64 @@
       "deliveryCheck": {
         "postizWindowMinutes": 60,
         "result": "HTTP 403 Forbidden; no delivery statuses returned"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T13:12:18Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T122611Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:26:11Z",
+      "completedAt": "2026-09-08T12:26:11Z",
+      "summary": "Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T122612Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:26:12Z",
+      "completedAt": "2026-09-08T12:26:12Z",
+      "summary": "Prepared 62 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T122952Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:29:52Z",
+      "completedAt": "2026-09-08T12:29:52Z",
+      "summary": "Produced 2 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T122952Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T12:29:52Z",
+      "completedAt": "2026-09-08T12:29:52Z",
+      "summary": "Prepared 62 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T123017Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T12:30:17Z",
+      "completedAt": "2026-09-08T12:30:17Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T13:12:18Z"
       },
       "circuitBreaker": {
         "active": true,
