@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T13:33:18.299030+00:00",
+  "updatedAt": "2026-09-08T14:11:11.862204+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10146,6 +10146,102 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097322208989249734",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097322208989249734",
+      "postedAt": "Tue Sep 08 13:52:35 +0000 2026",
+      "text": "There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trillion to make it the biggest IPO of the year https://t.co/M1ywd7jyRp",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRsvLCbacAAm4XF.jpg",
+        "https://pbs.twimg.com/media/HRsvOYIWkAABamZ.jpg"
+      ],
+      "engagement": {
+        "likes": 21,
+        "replies": 12,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 10748
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T14:06:43Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsvLCbacAAm4XF.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097322208989249734-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsvOYIWkAABamZ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097322208989249734-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097319414722928938",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097319414722928938",
+      "postedAt": "Tue Sep 08 13:41:29 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from today. https://t.co/TtcP5nfnfW",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRss4M7WMAEcR3u.jpg",
+        "https://pbs.twimg.com/media/HRss4MzXcAAoJCg.jpg"
+      ],
+      "engagement": {
+        "likes": 279,
+        "replies": 20,
+        "reposts": 25,
+        "quotes": 4,
+        "views": 20231
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T14:06:43Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRss4M7WMAEcR3u.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097319414722928938-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRss4MzXcAAoJCg.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097319414722928938-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097317631451660624",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097317631451660624",
+      "postedAt": "Tue Sep 08 13:34:24 +0000 2026",
+      "text": "THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRsrRMXbEAACgrE.jpg"
+      ],
+      "engagement": {
+        "likes": 70,
+        "replies": 15,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 16082
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T14:06:43Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsrRMXbEAACgrE.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097317631451660624-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -16358,6 +16454,63 @@
         "freshness": 5,
         "when2buyFit": 3,
         "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097322208989249734",
+      "rank": 1,
+      "title": "There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trill…",
+      "benchmarkPostId": "2097322208989249734",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097322208989249734",
+      "score": 11798,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T14:06:43Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097319414722928938",
+      "rank": 2,
+      "title": "JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from…",
+      "benchmarkPostId": "2097319414722928938",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097319414722928938",
+      "score": 28101,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T14:06:43Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097317631451660624",
+      "rank": 3,
+      "title": "THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD",
+      "benchmarkPostId": "2097317631451660624",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097317631451660624",
+      "score": 18492,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T14:06:43Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -23183,6 +23336,112 @@
             "not pure text or generic radar",
             "exact repository logo composited once in lower-right clear space",
             "no damaged logo or malformed subject"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-anthropic-ipo-175t-59pct",
+      "benchmarkPostId": "2097322208989249734",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097322208989249734",
+      "title": "Anthropic IPO odds reach 59%",
+      "status": "ready",
+      "postText": "Anthropic now has a 59% chance of going public above a $1.75T valuation.\n\nThat would make it the year’s biggest IPO.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark assigns a 59% chance that Anthropic goes public above a $1.75 trillion valuation.",
+        "The captured benchmark says that outcome would make it the biggest IPO of the year."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097322208989249734"
+      ],
+      "imagePath": "deliverables/pkg-20260908-anthropic-ipo-175t-59pct/when2buy-image-model.png",
+      "createdAt": "2026-09-08T14:10:39Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Original premium square entity-led visual: monumental abstract AI compute structure made from graphite and brushed metal, subtle luminous neural geometry, a distant abstract exchange arch, near-black base, crisp white rim light, restrained deep-red accents, no public text; external lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T14:10:39Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-senate-clarity-act-cloture-vote",
+      "benchmarkPostId": "2097319414722928938",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097319414722928938",
+      "title": "Senate sets Clarity Act procedural vote",
+      "status": "ready",
+      "postText": "The U.S. Senate is set to hold a procedural cloture vote on the Clarity Act one week from today.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark says the U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from its publication time."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097319414722928938"
+      ],
+      "imagePath": "deliverables/pkg-20260908-senate-clarity-act-cloture-vote/when2buy-image-model.png",
+      "createdAt": "2026-09-08T14:10:40Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Original premium square entity-led visual: monumental dark legislative chamber, sealed policy-document silhouette and restrained digital-asset network motif, near-black base, crisp white rim light, restrained deep-red accents, no public text; external lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T14:10:40Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-us-stock-market-reopens",
+      "benchmarkPostId": "2097317631451660624",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097317631451660624",
+      "title": "U.S. stock market reopens",
+      "status": "ready",
+      "postText": "The U.S. stock market is back open.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark states that the U.S. stock market is back open."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097317631451660624"
+      ],
+      "imagePath": "deliverables/pkg-20260908-us-stock-market-reopens/when2buy-image-model.png",
+      "createdAt": "2026-09-08T14:10:41Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Original premium square entity-led visual: opening-bell mechanism and monumental exchange doors at dawn, near-black institutional trading hall, bold white highlights, restrained deep-red accents, no public text; external lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T14:10:41Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
           ],
           "result": "passed"
         }
@@ -117342,6 +117601,55 @@
       "startedAt": "2026-09-08T13:33:18Z",
       "completedAt": "2026-09-08T13:33:18Z",
       "summary": "Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T14:28:42Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T14:28:42Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T140643Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T14:06:43Z",
+      "completedAt": "2026-09-08T14:06:43Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T140644Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T14:06:44Z",
+      "completedAt": "2026-09-08T14:06:44Z",
+      "summary": "Prepared 67 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T141041Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T14:10:41Z",
+      "completedAt": "2026-09-08T14:10:41Z",
+      "summary": "Archived benchmark media and produced 3 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T141111Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T14:11:11Z",
+      "completedAt": "2026-09-08T14:11:11Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and three image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker.",
       "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
       "deliveryCheck": {
         "postizWindowMinutes": 60,

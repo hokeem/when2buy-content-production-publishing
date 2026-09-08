@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T13:33:18.299030+00:00`
+- 状态更新：`2026-09-08T14:11:11.862204+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**369**
-- 待选选题：**327**
-- 待发布制作包：**124**
+- 对标帖子快照：**372**
+- 待选选题：**330**
+- 待发布制作包：**127**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 13:34:24 +0000 2026 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | [X](https://x.com/StockMKTNewz/status/2097317631451660624) |
+| @WhaleInsider | Tue Sep 08 13:41:29 +0000 2026 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from today. https://t.co/TtcP5nfnfW | [X](https://x.com/WhaleInsider/status/2097319414722928938) |
+| @StockMKTNewz | Tue Sep 08 13:52:35 +0000 2026 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trillion to make it the biggest IPO of the year https://t.co/M1ywd7jyRp | [X](https://x.com/StockMKTNewz/status/2097322208989249734) |
 | @StockMKTNewz | Tue Sep 08 13:08:36 +0000 2026 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI DATA CENTER SILICON  As a part of the deal Amazon got a warrant for 25 Million Qualcomm shares tied to up to $60 Billion in chip purchases  The warrant is exercisable at $161.26 per share through September 2036. It's structured around actual purchases: Amazon vests shares as it places binding orders and buys Qualcomm's server chip products, technology, systems, and manufacturing services, up to that $60 billion ceiling.  3,750,000 shares vested immediately upon issuance, based on Amazon's initial purchase commitments. The rest vests as the relationship deepens. | [X](https://x.com/StockMKTNewz/status/2097311138782319005) |
 | @StockMKTNewz | Tue Sep 08 12:39:00 +0000 2026 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | [X](https://x.com/StockMKTNewz/status/2097303691522875491) |
 | @StockMKTNewz | Tue Sep 08 12:46:45 +0000 2026 | Apple $AAPL reportedly bought Sonera  "a California company that makes non-invasive sensors that can measure neural signals from the brain" - AppleInsider https://t.co/etiNmAkI8S | [X](https://x.com/StockMKTNewz/status/2097305641819799757) |
@@ -38,9 +41,6 @@
 | @WhaleInsider | Tue Sep 08 06:44:17 +0000 2026 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 years. https://t.co/sZ4iQvPS0q | [X](https://x.com/WhaleInsider/status/2097214423114863064) |
 | @StockMKTNewz | Tue Sep 08 00:03:30 +0000 2026 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend  This is the first rocket to ever reach orbit from western European soil https://t.co/NsShfe8Ree | [X](https://x.com/StockMKTNewz/status/2097113561960964257) |
 | @StockMKTNewz | Mon Sep 07 23:12:24 +0000 2026 | OpenAI owned ChatGPT posted this today:  “ChatGPT Work can now pick up on what makes your writing sound like… you. Your favorite phrases. Your very specific sign-off. your capitalizations quirks.” https://t.co/Bd4gtZfF1h | [X](https://x.com/StockMKTNewz/status/2097100701637763331) |
-| @StockMKTNewz | Mon Sep 07 23:14:05 +0000 2026 | Tesla $TSLA posted this today:  “Superchargers are made in Buffalo, New York.” https://t.co/nZfyJAXR55 | [X](https://x.com/StockMKTNewz/status/2097101124708794712) |
-| @StockMKTNewz | Mon Sep 07 20:54:26 +0000 2026 | Is this a good trade or not enough for the risk?  You could bet $1,000 on these prediction markets that the New York Jets will not make the NFL playoffs this year and win $1,136  Now, winning $136 doesnt sound like a lot of money BUT   That's a 13.6% return on your money in 4 months  What do you think? | [X](https://x.com/StockMKTNewz/status/2097065983592566919) |
-| @WhaleInsider | Mon Sep 07 20:19:22 +0000 2026 | JUST IN: $XRP futures activity surges to six-month high amid price volatility​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/swwoEN4Ox2 | [X](https://x.com/WhaleInsider/status/2097057155824206271) |
 
 ## 选题推荐
 
@@ -104,6 +104,7 @@
 | 1 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Cons… | StockMKTNewz | 7455 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Tom Lee's ‘BitMine’ bought $70 million worth of $ETH last week, bringing its total … | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI D… | StockMKTNewz | 13419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trill… | StockMKTNewz | 11798 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -135,6 +136,7 @@
 | 2 | Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in ass… | StockMKTNewz | 7497 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS Google Cloud … | StockMKTNewz | 12116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Apple $AAPL reportedly bought Sonera "a California company that makes non-invasive sensors t… | StockMKTNewz | 4020 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from… | WhaleInsider | 28101 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -152,6 +154,7 @@
 | 3 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | WhaleInsider | 24361 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. h… | WhaleInsider | 21696 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | StockMKTNewz | 11195 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | StockMKTNewz | 18492 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2364,6 +2367,27 @@ BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.  Wh
 
 Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center silicon partnership.  Amazon received a warrant for 25M Qualcomm shares tied to up to $60B in chip purchases.  When2Buy — your U.S. stock partner.
 
+### Anthropic IPO odds reach 59%
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-anthropic-ipo-175t-59pct/when2buy-image-model.png`
+
+Anthropic now has a 59% chance of going public above a $1.75T valuation.  That would make it the year’s biggest IPO.  When2Buy — your U.S. stock partner.
+
+### Senate sets Clarity Act procedural vote
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-senate-clarity-act-cloture-vote/when2buy-image-model.png`
+
+The U.S. Senate is set to hold a procedural cloture vote on the Clarity Act one week from today.  When2Buy — your U.S. stock partner.
+
+### U.S. stock market reopens
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-us-stock-market-reopens/when2buy-image-model.png`
+
+The U.S. stock market is back open.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2510,6 +2534,10 @@ Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center 
 
 ## 最近运行
 
+- `2026-09-08T14:11:11Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and three image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T14:10:41Z` **produce / succeeded** — Archived benchmark media and produced 3 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-08T14:06:44Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
+- `2026-09-08T14:06:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
 - `2026-09-08T13:33:18Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T13:32:21Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
 - `2026-09-08T13:32:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 88 eligible originals and added 0 new post(s).
@@ -2526,7 +2554,3 @@ Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center 
 - `2026-09-08T12:54:21Z` **produce / succeeded** — Produced 3 newly captured timestamp-first packages with image-model visuals and exact-logo compositing.
 - `2026-09-08T12:48:13Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
 - `2026-09-08T12:48:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 87 eligible originals and added 3 new post(s).
-- `2026-09-08T12:45:40Z` **queue / succeeded** — Prepared 61 one-to-one production candidate(s).
-- `2026-09-08T12:30:17Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T12:29:52Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
-- `2026-09-08T12:29:52Z` **produce / succeeded** — Produced 2 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
