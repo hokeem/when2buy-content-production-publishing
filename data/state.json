@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T08:08:37.326574+00:00",
+  "updatedAt": "2026-09-08T08:28:26.453024+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9530,6 +9530,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097238305305755671",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097238305305755671",
+      "postedAt": "Tue Sep 08 08:19:11 +0000 2026",
+      "text": "JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-card platforms - Economic Times. https://t.co/SU5cr4MxeS",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRrjHpea8AAORsI.jpg",
+        "https://pbs.twimg.com/media/HRrjHpCXMAAx8QQ.jpg"
+      ],
+      "engagement": {
+        "likes": 26,
+        "replies": 16,
+        "reposts": 6,
+        "quotes": 3,
+        "views": 11712
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T08:26:04Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRrjHpea8AAORsI.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097238305305755671-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRrjHpCXMAAx8QQ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097238305305755671-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -15305,6 +15339,25 @@
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097238305305755671",
+      "rank": 1,
+      "title": "JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-c…",
+      "benchmarkPostId": "2097238305305755671",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097238305305755671",
+      "score": 13352,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T08:26:05Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -21321,6 +21374,43 @@
       },
       "postizPostId": "cmtsco4j00vrtqk0y2p8ynjxa",
       "publishedAt": "2026-09-08T07:30:00.000Z"
+    },
+    {
+      "id": "pkg-20260908-india-crypto-gift-card-purchases",
+      "benchmarkPostId": "2097238305305755671",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097238305305755671",
+      "title": "Crypto-funded gift cards reach everyday spending in India",
+      "status": "ready",
+      "postText": "Crypto holders in India are using overseas gift-card platforms to spend on groceries, fuel and gold.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Crypto can be converted through overseas platforms into gift cards and vouchers for domestic purchases in India.",
+        "The captured event identifies groceries, fuel, and gold as purchase categories."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097238305305755671",
+        "https://economictimes.indiatimes.com/industry/banking/finance/indians-are-using-crypto-to-buy-groceries-fuel-and-gold-through-overseas-gift-card-platforms/articleshow/133895144.cms?from=mdr"
+      ],
+      "imagePath": "deliverables/pkg-20260908-india-crypto-gift-card-purchases/when2buy-image-model.png",
+      "createdAt": "2026-09-08T08:27:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: square premium financial-news visual for an X post. Primary request: create a complete 1:1, entity-led visual about everyday crypto spending in India through overseas gift-card platforms. Scene/backdrop: a premium near-black contemporary Indian urban grocery-and-fuel retail environment at night, elegant display of a generic smartphone showing a simple crypto wallet payment confirmation beside unbranded grocery staples, a gold bar, and a fuel-pump silhouette; subtle global digital-payment network arcs in restrained red. Subject: the smartphone payment and real-world purchases, not a generic trading chart. Style/medium: cinematic photorealistic editorial financial-news art, polished, credible, high contrast. Composition/framing: square 1024x1024; strongest focus in center-left; reserve clean empty near-black space at bottom-right for a logo overlay. Lighting/mood: precise, urgent, premium. Color palette: near-black, charcoal, white highlights, restrained red accents only. Text (verbatim): no text anywhere in the generated image. Constraints: no brands, no logos, no watermarks, no country flags, no charts, no readable UI text, no distorted hands, no additional typography; render a visually rich complete scene, never a pure-text card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T08:27:00Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "entity-led crypto-payment scene covering groceries, fuel, and gold",
+            "no generated text, source handle, URL, or attribution",
+            "premium near-black visual with white highlights and restrained red accents",
+            "not a pure-text or generic-radar image",
+            "exact repository logo composited once in lower-right clear space",
+            "logo intact and no visibly damaged subject"
+          ],
+          "result": "passed"
+        }
+      }
     }
   ],
   "posts": [
@@ -114601,6 +114691,51 @@
       "startedAt": "2026-09-08T08:08:37Z",
       "completedAt": "2026-09-08T08:08:37Z",
       "summary": "Apify collection, media archive, queue rebuild, report rendering, and delivery safeguards completed; publication was withheld by the Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T09:08:37Z",
+        "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403."
+      }
+    },
+    {
+      "id": "run-20260908T082604Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T08:26:04Z",
+      "completedAt": "2026-09-08T08:26:04Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T082605Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T08:26:05Z",
+      "completedAt": "2026-09-08T08:26:05Z",
+      "summary": "Prepared 46 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T082826Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T08:28:26Z",
+      "completedAt": "2026-09-08T08:28:26Z",
+      "summary": "Prepared 46 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T082826Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T08:28:26Z",
+      "completedAt": "2026-09-08T08:28:26Z",
+      "summary": "Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker.",
       "reason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.",
       "circuitBreaker": {
         "active": true,

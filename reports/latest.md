@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T08:08:37.326574+00:00`
+- 状态更新：`2026-09-08T08:28:26.453024+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**346**
-- 待选选题：**304**
-- 待发布制作包：**101**
+- 对标帖子快照：**347**
+- 待选选题：**305**
+- 待发布制作包：**102**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 08:19:11 +0000 2026 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-card platforms - Economic Times. https://t.co/SU5cr4MxeS | [X](https://x.com/WhaleInsider/status/2097238305305755671) |
 | @WhaleInsider | Tue Sep 08 07:19:20 +0000 2026 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over the past month, now surpassing $700 million - Token Terminal. https://t.co/mkiuh50YyH | [X](https://x.com/WhaleInsider/status/2097223244692574351) |
 | @WhaleInsider | Tue Sep 08 06:44:17 +0000 2026 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 years. https://t.co/sZ4iQvPS0q | [X](https://x.com/WhaleInsider/status/2097214423114863064) |
 | @StockMKTNewz | Tue Sep 08 00:03:30 +0000 2026 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend  This is the first rocket to ever reach orbit from western European soil https://t.co/NsShfe8Ree | [X](https://x.com/StockMKTNewz/status/2097113561960964257) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Mon Sep 07 14:27:58 +0000 2026 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since February 28th due to the Iran war. https://t.co/4fstiFR0rT | [X](https://x.com/WhaleInsider/status/2096968726939652174) |
 | @StockMKTNewz | Mon Sep 07 14:45:10 +0000 2026 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | [X](https://x.com/StockMKTNewz/status/2096973053095706742) |
 | @StockMKTNewz | Mon Sep 07 14:23:57 +0000 2026 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026  👑 Merck $MRK: +43%🟢 https://t.co/APN8kkaku9 | [X](https://x.com/StockMKTNewz/status/2096967712274628776) |
-| @StockMKTNewz | Mon Sep 07 14:13:19 +0000 2026 | IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026  🥈 $IBM: -21%🔴 https://t.co/PqywBvlPMj | [X](https://x.com/StockMKTNewz/status/2096965037080334439) |
 
 ## 选题推荐
 
@@ -91,6 +91,7 @@
 | 1 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the… | StockMKTNewz | 5056 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 yea… | WhaleInsider | 9524 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over th… | WhaleInsider | 14095 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-c… | WhaleInsider | 13352 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2180,6 +2181,13 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 
 $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, topping $700M.  When2Buy — your U.S. stock partner.
 
+### Crypto-funded gift cards reach everyday spending in India
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-india-crypto-gift-card-purchases/when2buy-image-model.png`
+
+Crypto holders in India are using overseas gift-card platforms to spend on groceries, fuel and gold.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2326,6 +2334,10 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 
 ## 最近运行
 
+- `2026-09-08T08:28:26Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
+- `2026-09-08T08:28:26Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T08:26:05Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T08:26:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-08T08:08:37Z` **full / partial** — Apify collection, media archive, queue rebuild, report rendering, and delivery safeguards completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
 - `2026-09-08T08:07:42Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
 - `2026-09-08T08:07:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 72 eligible originals and added 0 new post(s).
@@ -2342,7 +2354,3 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 - `2026-09-08T07:06:03Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T07:06:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T06:45:39Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 Postiz-first metrics check, and one new complete ready package were completed; publication was withheld by the required Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
-- `2026-09-08T06:48:35Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T06:46:13Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T06:46:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-08T06:25:43Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and report rendering completed; publication was withheld by the required Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
