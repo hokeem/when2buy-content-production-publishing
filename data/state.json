@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T13:28:42.536723+00:00",
+  "updatedAt": "2026-09-08T13:33:18.299030+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -117306,6 +117306,46 @@
       "deliveryCheck": {
         "postizWindowMinutes": 60,
         "result": "failed: HTTP 403 Forbidden"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T14:28:42Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T133220Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T13:32:20Z",
+      "completedAt": "2026-09-08T13:32:20Z",
+      "summary": "Apify scanned both benchmark accounts; captured 88 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T133221Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T13:32:21Z",
+      "completedAt": "2026-09-08T13:32:21Z",
+      "summary": "Prepared 64 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T133318Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T13:33:18Z",
+      "completedAt": "2026-09-08T13:33:18Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T14:28:42Z"
       },
       "circuitBreaker": {
         "active": true,

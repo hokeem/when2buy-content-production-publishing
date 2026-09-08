@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T13:28:42.536723+00:00`
+- 状态更新：`2026-09-08T13:33:18.299030+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**369**
 - 待选选题：**327**
@@ -2510,6 +2510,9 @@ Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center 
 
 ## 最近运行
 
+- `2026-09-08T13:33:18Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T13:32:21Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
+- `2026-09-08T13:32:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 88 eligible originals and added 0 new post(s).
 - `2026-09-08T13:28:42Z` **full / partial** — Apify collection, media archiving, timestamp-first queue rebuild, newest package production, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T13:28:09Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
 - `2026-09-08T13:28:09Z` **produce / succeeded** — Produced the newest timestamp-first Amazon–Qualcomm package with an inspected image-model visual, exact-logo compositing, and internal source mapping.
@@ -2527,6 +2530,3 @@ Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center 
 - `2026-09-08T12:30:17Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T12:29:52Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
 - `2026-09-08T12:29:52Z` **produce / succeeded** — Produced 2 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-08T12:26:12Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
-- `2026-09-08T12:26:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
-- `2026-09-08T12:12:18Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, four image-model packages, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
