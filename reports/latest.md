@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T03:27:36.574040+00:00`
+- 状态更新：`2026-09-08T03:51:00.698495+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
-- 待发布制作包：**104**
+- 待发布制作包：**103**
 - 已验证发布：**135**
 
 ## 对标账号扫描
@@ -2131,7 +2131,7 @@ Robinhood $HOOD just landed its first official IPO underwriting mandate as Oura 
 
 ### XRP futures activity hits six-month high
 
-- 状态：`ready`
+- 状态：`failed`
 - 配图：`deliverables/pkg-20260908-xrp-futures-six-month-high/when2buy-image-model.png`
 
 $XRP futures activity just reached a six-month high as price volatility accelerates.  When2Buy — your U.S. stock partner.
@@ -2196,8 +2196,8 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
+| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
-| Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
@@ -2260,6 +2260,7 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
+| Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 2 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
@@ -2303,10 +2304,12 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095805634109382831) |
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
-| Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
 
 ## 最近运行
 
+- `2026-09-08T03:51:00.697485Z` **full / partial** — Apify collection, hourly metrics, queue rebuild, and one throttled Postiz publication probe completed; no public X URL was verified. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-08T03:48:38Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T03:48:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
 - `2026-09-08T03:27:36Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T03:27:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
 - `2026-09-08T03:08:21Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmts2jufr0lnnlm0y4fsggp63 was ERROR with no public x.com release URL; accepted task was not retried.
@@ -2324,6 +2327,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T02:07:00Z` **full / succeeded** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no eligible originals, rebuilt the 48-item newest-first queue, and one newest ready package was published and verified with a public X URL.
 - `2026-09-08T02:07:23.097625+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T02:06:21Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
-- `2026-09-08T02:06:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
-- `2026-09-08T01:49:10.736205Z` **full / succeeded** — Preflight passed; Apify scanned both required benchmarks with no new eligible originals; 72-hour Postiz metrics appended numeric observations; queue rebuilt newest-first; one newest ready package was published and verified publicly.
-- `2026-09-08T01:48:26.353948+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
