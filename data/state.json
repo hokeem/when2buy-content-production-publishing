@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T18:49:31.736404+00:00",
+  "updatedAt": "2026-09-08T19:10:00+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10888,6 +10888,40 @@
       "isPinned": false,
       "capturedAt": "2026-09-08T18:26:36Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097399478881837141",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097399478881837141",
+      "postedAt": "Tue Sep 08 18:59:38 +0000 2026",
+      "text": "JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the escrow platform Xinbi Guarantee on the Tron network. https://t.co/GpzLtXPcZ3",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRt1tUNXMAA44Sk.jpg",
+        "https://pbs.twimg.com/media/HRt1tV9aQAAVhyl.jpg"
+      ],
+      "engagement": {
+        "likes": 18,
+        "replies": 7,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 11812
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T19:06:24Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRt1tUNXMAA44Sk.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097399478881837141-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRt1tV9aQAAVhyl.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097399478881837141-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -17594,6 +17628,25 @@
         "freshness": 5,
         "when2buyFit": 2,
         "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097399478881837141",
+      "rank": 1,
+      "title": "JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the esc…",
+      "benchmarkPostId": "2097399478881837141",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097399478881837141",
+      "score": 12712,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T19:06:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -25156,6 +25209,43 @@
             "not pure text or generic radar",
             "exact repository logo composited once in the lower-right safe area",
             "logo inspected after compositing; no crop, distortion, or damage"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-tether-freezes-3927m-usdt",
+      "benchmarkPostId": "2097399478881837141",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097399478881837141",
+      "title": "Tether freezes 39.27M USDT across 10 Tron addresses",
+      "status": "ready",
+      "postText": "Tether froze about 39.27M USDT across 10 Tron addresses tied to Xinbi Guarantee.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Tether froze approximately 39.27 million USDT.",
+        "The freeze covered 10 addresses linked to Xinbi Guarantee on the Tron network."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097399478881837141"
+      ],
+      "imagePath": "deliverables/pkg-20260908-tether-freezes-3927m-usdt/when2buy-image-model.png",
+      "createdAt": "2026-09-08T19:07:30Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Asset type: premium square X market-news visual. Primary request: create an original entity-led editorial illustration about Tether freezing 39.27 million USDT across 10 crypto wallet addresses on the Tron network. Scene/backdrop: near-black high-tech crypto-security command center with an abstract tether-token coin and translucent digital wallet address tiles held behind a vivid red security freeze barrier; the number 39.27M may appear only if perfectly legible, otherwise omit all text. Subject: Tether, digital assets, frozen transfer network. Style/medium: refined photorealistic 3D editorial finance illustration, not a text card. Composition/framing: square 1:1, dominant coin and red freeze barrier center-left, generous clean empty lower-right corner reserved for a logo overlay, one visual story readable in two seconds. Lighting/mood: urgent, premium, precise. Color palette: near-black and charcoal base, clean white highlights, restrained financial red; no green. Constraints: no logos, no brand marks, no watermark, no source handles, no URLs, no generic radar, no dense paragraphs, no malformed words, no promotional aesthetic. Avoid: pure typography card, misspelled text, cartoonish imagery, damaged artifacts.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T19:07:30Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led crypto-security visual",
+            "no generated public copy, source attribution, source handle, URL, or watermark",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once in the lower-right safe area",
+            "logo inspected after compositing; no crop, distortion, or damage",
+            "no malformed subject or misspelled visible text"
           ],
           "result": "passed"
         }
@@ -120160,6 +120250,55 @@
       "deliveryCheck": {
         "postizWindowMinutes": 60,
         "result": "HTTP 403: error code: 1010"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T19:38:54Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T190624Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T19:06:24Z",
+      "completedAt": "2026-09-08T19:06:24Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T190627Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T19:06:27Z",
+      "completedAt": "2026-09-08T19:06:27Z",
+      "summary": "Prepared 67 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T190930Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T19:09:30Z",
+      "completedAt": "2026-09-08T19:09:30Z",
+      "summary": "Prepared 67 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T191000Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T19:06:00Z",
+      "completedAt": "2026-09-08T19:10:00Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "deferred: active circuit breaker until 2026-09-08T19:38:54Z"
       },
       "circuitBreaker": {
         "active": true,

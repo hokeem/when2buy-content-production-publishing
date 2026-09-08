@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T18:49:31.736404+00:00`
+- 状态更新：`2026-09-08T19:10:00+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**396**
-- 待选选题：**353**
-- 待发布制作包：**144**
+- 对标帖子快照：**397**
+- 待选选题：**354**
+- 待发布制作包：**145**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 18:59:38 +0000 2026 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the escrow platform Xinbi Guarantee on the Tron network. https://t.co/GpzLtXPcZ3 | [X](https://x.com/WhaleInsider/status/2097399478881837141) |
 | @StockMKTNewz | Tue Sep 08 18:15:40 +0000 2026 | RAMP is reportedly in talks to raise money at a $60 Billion valuation | [X](https://x.com/StockMKTNewz/status/2097388417306829126) |
 | @WhaleInsider | Tue Sep 08 18:21:19 +0000 2026 | JUST IN: @MetaWin player turns $5 into over $15,000.  This comes after MetaWin announced they’re giving away another $1,000,000 to players this month.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/FDE8Uq98rG | [X](https://x.com/WhaleInsider/status/2097389837217132992) |
 | @WhaleInsider | Tue Sep 08 17:27:32 +0000 2026 | JUST IN: Robinhood Chain generates 17,171 $ETH ($42.58M) in revenue in 70 days. https://t.co/xP3perdxB0 | [X](https://x.com/WhaleInsider/status/2097376303628390521) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 13:52:35 +0000 2026 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trillion to make it the biggest IPO of the year https://t.co/M1ywd7jyRp | [X](https://x.com/StockMKTNewz/status/2097322208989249734) |
 | @StockMKTNewz | Tue Sep 08 13:08:36 +0000 2026 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI DATA CENTER SILICON  As a part of the deal Amazon got a warrant for 25 Million Qualcomm shares tied to up to $60 Billion in chip purchases  The warrant is exercisable at $161.26 per share through September 2036. It's structured around actual purchases: Amazon vests shares as it places binding orders and buys Qualcomm's server chip products, technology, systems, and manufacturing services, up to that $60 billion ceiling.  3,750,000 shares vested immediately upon issuance, based on Amazon's initial purchase commitments. The rest vests as the relationship deepens. | [X](https://x.com/StockMKTNewz/status/2097311138782319005) |
 | @StockMKTNewz | Tue Sep 08 12:39:00 +0000 2026 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | [X](https://x.com/StockMKTNewz/status/2097303691522875491) |
-| @StockMKTNewz | Tue Sep 08 12:46:45 +0000 2026 | Apple $AAPL reportedly bought Sonera  "a California company that makes non-invasive sensors that can measure neural signals from the brain" - AppleInsider https://t.co/etiNmAkI8S | [X](https://x.com/StockMKTNewz/status/2097305641819799757) |
 
 ## 选题推荐
 
@@ -116,6 +116,7 @@
 | 1 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian… | WhaleInsider | 8590 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | AI startup Cognition raised more than $2B at a valuation of $48 Billion | StockMKTNewz | 10916 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | RAMP is reportedly in talks to raise money at a $60 Billion valuation | StockMKTNewz | 11167 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the esc… | WhaleInsider | 12712 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2537,6 +2538,13 @@ Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy 
 
 RAMP is in talks to raise money at a $60B valuation.  When2Buy — your U.S. stock partner.
 
+### Tether freezes 39.27M USDT across 10 Tron addresses
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-tether-freezes-3927m-usdt/when2buy-image-model.png`
+
+Tether froze about 39.27M USDT across 10 Tron addresses tied to Xinbi Guarantee.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2683,6 +2691,10 @@ RAMP is in talks to raise money at a $60B valuation.  When2Buy — your U.S. sto
 
 ## 最近运行
 
+- `2026-09-08T19:06:00Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T19:09:30Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
+- `2026-09-08T19:06:27Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
+- `2026-09-08T19:06:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
 - `2026-09-08T18:49:03Z` **full / partial** — Apify scanned both benchmark accounts, archived available media, rebuilt the newest-first queue, refreshed eligible 72-hour metrics, and retained the newest ready package for a later probe. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T18:49:03Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
 - `2026-09-08T18:48:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
@@ -2699,7 +2711,3 @@ RAMP is in talks to raise money at a $60B valuation.  When2Buy — your U.S. sto
 - `2026-09-08T17:57:28Z` **produce / succeeded** — Produced the two newest timestamp-first Apify packages with inspected image-model visuals and one exact-logo composite each.
 - `2026-09-08T17:52:06Z` **queue / succeeded** — Prepared 65 one-to-one production candidate(s).
 - `2026-09-08T17:50:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
-- `2026-09-08T17:27:00Z` **full / partial** — Apify collection, media archive, and timestamp-first queue rebuild completed; no new eligible benchmark items required package production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T17:26:15Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
-- `2026-09-08T17:26:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 0 new post(s).
-- `2026-09-08T17:10:02Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld after the required Postiz delivery-status query failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
