@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T11:31:00.864810+00:00`
+- 状态更新：`2026-09-08T11:51:00.368866+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**357**
-- 待选选题：**315**
-- 待发布制作包：**112**
+- 对标帖子快照：**359**
+- 待选选题：**317**
+- 待发布制作包：**114**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 11:33:34 +0000 2026 | $UBER COO Andrew Macdonald spent $5.31 Million to buy 70,000 shares of Uber stock at an average cost of ~$75.83 per share https://t.co/8dzhl6prTf | [X](https://x.com/StockMKTNewz/status/2097287222324027862) |
+| @StockMKTNewz | Tue Sep 08 11:43:20 +0000 2026 | Goldman Sachs today raised its price target on Robinhood $HOOD up to $142 from $124 while maintaining its Buy rating | [X](https://x.com/StockMKTNewz/status/2097289682795004293) |
 | @StockMKTNewz | Tue Sep 08 11:06:49 +0000 2026 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP  Palantir named Nebius "its preferred sovereign AI infrastructure partner" which will bring "Nebius's AI-native compute infrastructure and cloud platform to Palantir's commercial customers." https://t.co/UYxA721ojU | [X](https://x.com/StockMKTNewz/status/2097280493431501087) |
 | @StockMKTNewz | Tue Sep 08 11:20:52 +0000 2026 | The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at least 1998 - Bloomberg https://t.co/neDllquazz | [X](https://x.com/StockMKTNewz/status/2097284027023560809) |
 | @StockMKTNewz | Tue Sep 08 10:54:27 +0000 2026 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - Goldman Sachs | [X](https://x.com/StockMKTNewz/status/2097277378934231391) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 17:30:12 +0000 2026 | The average 🇺🇸 stock ETF and mutual fund is now up 12.6% so far in 2026 as of the end of August - WSJ | [X](https://x.com/StockMKTNewz/status/2097014587426062500) |
 | @StockMKTNewz | Mon Sep 07 17:10:51 +0000 2026 | The 🇺🇸 bought the Louisiana Purchase from France for $15 Million in 1803  For anyone curious $15M in 2026 is enough to buy  - 19.8 shares of Berkshire Hathaway $BRK.A stock - 8,620 shares of Sandisk $SNDK  - 14,763 shares of Micron $MU  - 19,480 shares of the S&P 500 ETF $SPY  - 20,862 shares of the Nasdaq 100 ETF $QQQ  - 24,320 shares of Meta Platforms $META  - 30,000 shares of Microsoft $MSFT  - 42,372 shares of Tesla $TSLA - 44,776 shares of Google $GOOGL  - 46,875 shares of Apple $AAPL  - 58,027 shares of Amazon $AMZN  - 65,217 shares of Nvidia $NVDA  - 101,351 shares of SpaceX $SPCX  - 191,693 shares of Netflix $NFLX | [X](https://x.com/StockMKTNewz/status/2097009717994242070) |
 | @WhaleInsider | Mon Sep 07 16:46:28 +0000 2026 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchain terminals. https://t.co/hvMoTq7YNp | [X](https://x.com/WhaleInsider/status/2097003578648940977) |
-| @StockMKTNewz | Mon Sep 07 16:34:12 +0000 2026 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 years https://t.co/ywRfw6fRhZ | [X](https://x.com/StockMKTNewz/status/2097000494098972748) |
-| @StockMKTNewz | Mon Sep 07 15:56:39 +0000 2026 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, according to AAA  On Monday, the national average price at the pump was $4.15, a record high for the holiday - CNBC https://t.co/EMkLKcLUqX | [X](https://x.com/StockMKTNewz/status/2096991041987531044) |
 
 ## 选题推荐
 
@@ -99,6 +99,7 @@
 | 1 | Mistral AI is now worth more than $24.3 Billion | StockMKTNewz | 5845 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04% | StockMKTNewz | 7863 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at leas… | StockMKTNewz | 6276 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Goldman Sachs today raised its price target on Robinhood $HOOD up to $142 from $124 while ma… | StockMKTNewz | 5821 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -126,6 +127,7 @@
 | 2 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-in… | StockMKTNewz | 11635 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - … | StockMKTNewz | 7825 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP Palantir named Nebius "its … | StockMKTNewz | 16123 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | $UBER COO Andrew Macdonald spent $5.31 Million to buy 70,000 shares of Uber stock at an aver… | StockMKTNewz | 11046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2268,6 +2270,20 @@ UK borrowing costs are set for their highest gilt sale since at least 1998.  A s
 
 $PLTR and $NBIS have announced a new AI infrastructure partnership.  Nebius is Palantir’s preferred sovereign AI infrastructure partner for commercial customers.  When2Buy — your U.S. stock partner.
 
+### Goldman raises Robinhood target to $142
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-robinhood-goldman-142-target/when2buy-image-model.png`
+
+$HOOD just got a $142 price target from Goldman Sachs, up from $124.  The firm kept its Buy rating.  When2Buy — your U.S. stock partner.
+
+### Uber COO buys 70,000 shares
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-uber-macdonald-531m-share-purchase/when2buy-image-model.png`
+
+Uber COO Andrew Macdonald bought 70,000 $UBER shares for $5.31M.  His average purchase price was about $75.83 per share.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2414,6 +2430,12 @@ $PLTR and $NBIS have announced a new AI infrastructure partnership.  Nebius is P
 
 ## 最近运行
 
+- `2026-09-08T11:51:00Z` **full / partial** — Apify collection, media archive, metrics, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred while the active circuit breaker remains in force. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T11:50:36Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
+- `2026-09-08T11:50:30Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
+- `2026-09-08T11:46:17Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
+- `2026-09-08T11:46:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
+- `2026-09-08T11:45:48Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
 - `2026-09-08T11:31:00Z` **publish / partial** — Apify collection, media archiving, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T11:30:11Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
 - `2026-09-08T11:30:10Z` **produce / succeeded** — Produced 2 newest timestamp-first packages with inspected image-model visuals and one exact-logo composite each.
@@ -2428,9 +2450,3 @@ $PLTR and $NBIS have announced a new AI infrastructure partnership.  Nebius is P
 - `2026-09-08T10:53:25Z` **queue / succeeded** — Prepared 52 one-to-one production candidate(s).
 - `2026-09-08T10:53:24Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
 - `2026-09-08T10:48:18Z` **queue / succeeded** — Prepared 52 one-to-one production candidate(s).
-- `2026-09-08T10:48:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).
-- `2026-09-08T10:31:09Z` **queue / succeeded** — Prepared 50 one-to-one production candidate(s).
-- `2026-09-08T10:30:12Z` **full / partial** — Apify collection, media archiving, timestamp-first queue rebuild, ASML package production, the required delivery-window check, and the one permitted Postiz probe completed; publication did not yield a verified public X URL. Postiz X publication probe for pkg-20260908-asml-high-na-euv-commitments was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.
-- `2026-09-08T10:29:14.420925+00:00` **produce / succeeded** — Produced the newest ASML High-NA EUV package with an image-model visual and exact-logo compositing.
-- `2026-09-08T10:26:49Z` **queue / succeeded** — Prepared 50 one-to-one production candidate(s).
-- `2026-09-08T10:26:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 75 eligible originals and added 1 new post(s).
