@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T00:47:38.830640+00:00`
+- 状态更新：`2026-09-08T01:07:34.973746+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
@@ -2304,6 +2304,9 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ## 最近运行
 
+- `2026-09-08T01:07:34.902775Z` **full / partial** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 49-item newest-first queue. The newest ready package passed the content standard but was not submitted. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
+- `2026-09-08T01:06:36Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-08T01:06:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T00:47:38.804876Z` **full / partial** — Preflight and state validation passed. The Asia/Shanghai :45 metrics pass appended 82 numeric Postiz observations for 49 releases within their 72-hour windows. Apify scanned both required benchmark accounts, added no eligible originals, and rebuilt the 49-item newest-first queue. The newest ready Isar Aerospace package passed the content standard but was not submitted. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-08T00:46:53Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-08T00:46:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -2321,6 +2324,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-07T23:46:38Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
 - `2026-09-07T23:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T23:46:31Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
-- `2026-09-07T23:46:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T23:28:14Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-07T23:27:47Z` **produce / succeeded** — Produced two newest eligible packages with inspected image-model visuals and exact-logo compositing.

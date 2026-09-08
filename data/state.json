@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T00:47:38.830640+00:00",
+  "updatedAt": "2026-09-08T01:07:34.973746+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -86780,6 +86780,42 @@
       "startedAt": "2026-09-08T00:47:38.804876Z",
       "completedAt": "2026-09-08T00:47:38.804876Z",
       "summary": "Preflight and state validation passed. The Asia/Shanghai :45 metrics pass appended 82 numeric Postiz observations for 49 releases within their 72-hour windows. Apify scanned both required benchmark accounts, added no eligible originals, and rebuilt the 49-item newest-first queue. The newest ready Isar Aerospace package passed the content standard but was not submitted.",
+      "reason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T01:47:38.804876Z",
+        "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried."
+      }
+    },
+    {
+      "id": "run-20260908T010635Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T01:06:35Z",
+      "completedAt": "2026-09-08T01:06:35Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T010636Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T01:06:36Z",
+      "completedAt": "2026-09-08T01:06:36Z",
+      "summary": "Prepared 49 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T010734Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T01:07:34.902775Z",
+      "completedAt": "2026-09-08T01:07:34.902775Z",
+      "summary": "Preflight and state validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 49-item newest-first queue. The newest ready package passed the content standard but was not submitted.",
       "reason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.",
       "circuitBreaker": {
         "active": true,
