@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T13:07:08.774807+00:00",
+  "updatedAt": "2026-09-08T13:28:42.536723+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10118,6 +10118,34 @@
       "isPinned": false,
       "capturedAt": "2026-09-08T12:48:13Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097311138782319005",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097311138782319005",
+      "postedAt": "Tue Sep 08 13:08:36 +0000 2026",
+      "text": "AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI DATA CENTER SILICON\n\nAs a part of the deal Amazon got a warrant for 25 Million Qualcomm shares tied to up to $60 Billion in chip purchases\n\nThe warrant is exercisable at $161.26 per share through September 2036. It's structured around actual purchases: Amazon vests shares as it places binding orders and buys Qualcomm's server chip products, technology, systems, and manufacturing services, up to that $60 billion ceiling.\n\n3,750,000 shares vested immediately upon issuance, based on Amazon's initial purchase commitments. The rest vests as the relationship deepens.",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRslWDRWYAA3HKv.jpg"
+      ],
+      "engagement": {
+        "likes": 46,
+        "replies": 8,
+        "reposts": 5,
+        "quotes": 1,
+        "views": 11869
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T13:26:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRslWDRWYAA3HKv.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097311138782319005-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -16311,6 +16339,25 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097311138782319005",
+      "rank": 1,
+      "title": "AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI D…",
+      "benchmarkPostId": "2097311138782319005",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097311138782319005",
+      "score": 13419,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T13:26:14Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 3,
+        "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -23100,6 +23147,44 @@
             "exact repository logo composited once",
             "no damaged logo or misspelled visible text"
           ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-amazon-qualcomm-ai-silicon-warrant",
+      "benchmarkPostId": "2097311138782319005",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097311138782319005",
+      "title": "Amazon and Qualcomm form custom AI silicon partnership",
+      "status": "ready",
+      "postText": "Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center silicon partnership.\n\nAmazon received a warrant for 25M Qualcomm shares tied to up to $60B in chip purchases.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Amazon and Qualcomm announced a multi-generation partnership on custom AI data-center silicon.",
+        "Amazon received a warrant for 25 million Qualcomm shares tied to up to $60 billion in chip purchases.",
+        "The warrant is exercisable at $161.26 per share through September 2036 and vests with purchase commitments."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097311138782319005",
+        "https://www.qualcomm.com/news/releases/2026/06/qualcomm-unveils-comprehensive-data-center-roadmap-for-the-agent"
+      ],
+      "imagePath": "deliverables/pkg-20260908-amazon-qualcomm-ai-silicon-warrant/when2buy-image-model.png",
+      "createdAt": "2026-09-08T13:28:09Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Asset type: premium 1:1 X financial-news visual for When2Buy. Primary request: an original entity-led visual about Amazon and Qualcomm forming a multi-generation partnership for custom AI data-center silicon, with an equity warrant tied to large-scale chip purchases. Scene/backdrop: a cinematic, near-black hyperscale data-center aisle; no readable monitors. Subject: a single elegant abstract custom AI silicon wafer standing vertically in the foreground, with subtle precision circuit pathways connecting toward a distant cluster of server racks; a refined metallic warrant certificate shape in the background without any text. Style/medium: premium contemporary financial-news editorial 3D photography, tactile semiconductor materials, sleek and credible. Composition/framing: exact 1:1 square, large chip center-left; reserve a clean, unoccupied near-black lower-right 20% for a later supplied logo overlay. Lighting/mood: urgent, high contrast white rim lighting and one restrained deep-red accent reflection; no green. Text: none. Constraints: no letters, numbers, words, logos, brand marks, watermarks, source names, social handles, URLs, charts, gauges, generic radar graphics, people, damaged objects, malformed chips, or pure typography layout.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T13:28:09Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led custom AI silicon and data-center visual",
+            "no generated readable text, attribution, source handle, or URL",
+            "premium near-black white restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo or malformed subject"
+          ],
+          "result": "passed"
         }
       }
     }
@@ -117169,12 +117254,70 @@
         "expiresAt": "2026-09-08T13:12:18Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
       }
+    },
+    {
+      "id": "run-20260908T132614Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T13:26:14Z",
+      "completedAt": "2026-09-08T13:26:14Z",
+      "summary": "Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T132614Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T13:26:14Z",
+      "completedAt": "2026-09-08T13:26:14Z",
+      "summary": "Prepared 64 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T132809Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T13:28:09Z",
+      "completedAt": "2026-09-08T13:28:09Z",
+      "summary": "Produced the newest timestamp-first Amazon–Qualcomm package with an inspected image-model visual, exact-logo compositing, and internal source mapping.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T132809Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T13:28:09Z",
+      "completedAt": "2026-09-08T13:28:09Z",
+      "summary": "Prepared 64 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T132842Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T13:28:42Z",
+      "completedAt": "2026-09-08T13:28:42Z",
+      "summary": "Apify collection, media archiving, timestamp-first queue rebuild, newest package production, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "failed: HTTP 403 Forbidden"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T14:28:42Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "startedAt": "2026-09-08T12:12:18Z",
-    "expiresAt": "2026-09-08T13:12:18Z",
+    "startedAt": "2026-09-08T13:28:42Z",
+    "expiresAt": "2026-09-08T14:28:42Z",
     "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
   }
 }

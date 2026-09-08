@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T13:07:08.774807+00:00`
+- 状态更新：`2026-09-08T13:28:42.536723+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**368**
-- 待选选题：**326**
-- 待发布制作包：**123**
+- 对标帖子快照：**369**
+- 待选选题：**327**
+- 待发布制作包：**124**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 13:08:36 +0000 2026 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI DATA CENTER SILICON  As a part of the deal Amazon got a warrant for 25 Million Qualcomm shares tied to up to $60 Billion in chip purchases  The warrant is exercisable at $161.26 per share through September 2036. It's structured around actual purchases: Amazon vests shares as it places binding orders and buys Qualcomm's server chip products, technology, systems, and manufacturing services, up to that $60 billion ceiling.  3,750,000 shares vested immediately upon issuance, based on Amazon's initial purchase commitments. The rest vests as the relationship deepens. | [X](https://x.com/StockMKTNewz/status/2097311138782319005) |
 | @StockMKTNewz | Tue Sep 08 12:39:00 +0000 2026 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | [X](https://x.com/StockMKTNewz/status/2097303691522875491) |
 | @StockMKTNewz | Tue Sep 08 12:46:45 +0000 2026 | Apple $AAPL reportedly bought Sonera  "a California company that makes non-invasive sensors that can measure neural signals from the brain" - AppleInsider https://t.co/etiNmAkI8S | [X](https://x.com/StockMKTNewz/status/2097305641819799757) |
 | @WhaleInsider | Tue Sep 08 12:47:12 +0000 2026 | JUST IN: Tom Lee's ‘BitMine’ bought $70 million worth of $ETH last week, bringing its total holdings to $14.7 billion. https://t.co/wyF10L8oTg | [X](https://x.com/WhaleInsider/status/2097305755661566255) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 23:14:05 +0000 2026 | Tesla $TSLA posted this today:  “Superchargers are made in Buffalo, New York.” https://t.co/nZfyJAXR55 | [X](https://x.com/StockMKTNewz/status/2097101124708794712) |
 | @StockMKTNewz | Mon Sep 07 20:54:26 +0000 2026 | Is this a good trade or not enough for the risk?  You could bet $1,000 on these prediction markets that the New York Jets will not make the NFL playoffs this year and win $1,136  Now, winning $136 doesnt sound like a lot of money BUT   That's a 13.6% return on your money in 4 months  What do you think? | [X](https://x.com/StockMKTNewz/status/2097065983592566919) |
 | @WhaleInsider | Mon Sep 07 20:19:22 +0000 2026 | JUST IN: $XRP futures activity surges to six-month high amid price volatility​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/swwoEN4Ox2 | [X](https://x.com/WhaleInsider/status/2097057155824206271) |
-| @StockMKTNewz | Mon Sep 07 20:23:10 +0000 2026 | ROBINHOOD IS UNDERWRITING ITS FIRST IPO  Oura has named Robinhood $HOOD as an underwriter for its upcoming IPO, marking Robinhood’s first official underwriting mandate https://t.co/feXtRSooKq | [X](https://x.com/StockMKTNewz/status/2097058112251322868) |
 
 ## 选题推荐
 
@@ -103,6 +103,7 @@
 | 1 | Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction marke… | StockMKTNewz | 4005 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Cons… | StockMKTNewz | 7455 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Tom Lee's ‘BitMine’ bought $70 million worth of $ETH last week, bringing its total … | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI D… | StockMKTNewz | 13419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2356,6 +2357,13 @@ Apple $AAPL reportedly acquired Sonera, a California maker of non-invasive senso
 
 BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.  When2Buy — your U.S. stock partner.
 
+### Amazon and Qualcomm form custom AI silicon partnership
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-amazon-qualcomm-ai-silicon-warrant/when2buy-image-model.png`
+
+Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center silicon partnership.  Amazon received a warrant for 25M Qualcomm shares tied to up to $60B in chip purchases.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2502,6 +2510,11 @@ BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.  Wh
 
 ## 最近运行
 
+- `2026-09-08T13:28:42Z` **full / partial** — Apify collection, media archiving, timestamp-first queue rebuild, newest package production, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T13:28:09Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
+- `2026-09-08T13:28:09Z` **produce / succeeded** — Produced the newest timestamp-first Amazon–Qualcomm package with an inspected image-model visual, exact-logo compositing, and internal source mapping.
+- `2026-09-08T13:26:14Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
+- `2026-09-08T13:26:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
 - `2026-09-08T13:06:50Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T13:06:28Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
 - `2026-09-08T13:06:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
@@ -2517,8 +2530,3 @@ BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.  Wh
 - `2026-09-08T12:26:12Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
 - `2026-09-08T12:26:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
 - `2026-09-08T12:12:18Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, four image-model packages, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T12:11:37Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
-- `2026-09-08T12:11:36Z` **produce / succeeded** — Produced 4 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-08T12:11:06Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
-- `2026-09-08T12:11:06Z` **produce / succeeded** — Produced 4 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-08T12:07:23Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
