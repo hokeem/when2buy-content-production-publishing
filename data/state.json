@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T05:27:23.299352+00:00",
+  "updatedAt": "2026-09-08T05:48:28.258018+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -20850,7 +20850,7 @@
       "benchmarkPostId": "2097052436301054403",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097052436301054403",
       "title": "Nvidia CEO joins U.K. AI meeting guest list",
-      "status": "ready",
+      "status": "published",
       "postText": "$NVDA CEO Jensen Huang is on King Charles' AI meeting guest list in the U.K.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Nvidia CEO Jensen Huang is on King Charles' AI meeting guest list.",
@@ -20878,7 +20878,9 @@
             "no damaged or malformed hardware"
           ]
         }
-      }
+      },
+      "postizPostId": "cmts90b700uy0qk0yx1zctol3",
+      "publishedAt": "2026-09-08T05:48:00.000Z"
     },
     {
       "id": "pkg-20260907-us-market-reopens-tomorrow",
@@ -23537,6 +23539,23 @@
         "lastAttemptAt": "2026-09-08T05:03:50Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "full-history current metrics captured"
+      }
+    },
+    {
+      "id": "2097200367838900703",
+      "packageId": "pkg-20260907-nvidia-uk-ai-meeting",
+      "title": "Nvidia CEO joins U.K. AI meeting guest list",
+      "status": "published",
+      "publishedAt": "2026-09-08T05:48:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097200367838900703",
+      "postizPostId": "cmts90b700uy0qk0yx1zctol3",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-08T05:48:00.000Z",
+        "windowEnd": "2026-09-11T05:48:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -107177,6 +107196,59 @@
         "expiresAt": "2026-09-08T05:49:10Z",
         "deliveryReason": "Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried."
       }
+    },
+    {
+      "id": "run-20260908T054651Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T05:46:51Z",
+      "completedAt": "2026-09-08T05:46:51Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T054651Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T05:46:51Z",
+      "completedAt": "2026-09-08T05:46:51Z",
+      "summary": "Prepared 46 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T054731Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T05:47:31Z",
+      "completedAt": "2026-09-08T05:47:31Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T054732Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T05:47:32Z",
+      "completedAt": "2026-09-08T05:47:32Z",
+      "summary": "Prepared 46 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T054828Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T05:48:28.255210+00:00",
+      "completedAt": "2026-09-08T05:48:28.255220+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T05:27:23.299352+00:00`
+- 状态更新：`2026-09-08T05:48:28.258018+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
-- 待发布制作包：**103**
-- 已验证发布：**135**
+- 待发布制作包：**102**
+- 已验证发布：**136**
 
 ## 对标账号扫描
 
@@ -2110,7 +2110,7 @@ $GHOST surged 86% in 24 hours amid speculation its privacy technology could inte
 
 ### Nvidia CEO joins U.K. AI meeting guest list
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-nvidia-uk-ai-meeting/when2buy-image-model.png`
 
 $NVDA CEO Jensen Huang is on King Charles' AI meeting guest list in the U.K.  When2Buy — your U.S. stock partner.
@@ -2304,9 +2304,15 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
+| Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097200367838900703) |
 
 ## 最近运行
 
+- `2026-09-08T05:48:28.255210+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-08T05:47:32Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T05:47:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-08T05:46:51Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T05:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-08T05:27:23Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-08T05:26:49Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T05:26:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 58 eligible originals and added 0 new post(s).
@@ -2322,8 +2328,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T04:27:05Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T04:27:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
 - `2026-09-08T04:09:08.199600Z` **full / partial** — Preflight and validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 46-item newest-first queue. No Postiz submission was made while the delivery circuit breaker remains active. Postiz X delivery cmts2jufr0lnnlm0y4fsggp63 was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-08T04:08:09Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T04:08:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
-- `2026-09-08T03:51:00.697485Z` **full / partial** — Apify collection, hourly metrics, queue rebuild, and one throttled Postiz publication probe completed; no public X URL was verified. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-08T03:48:38Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T03:48:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
