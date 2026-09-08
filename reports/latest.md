@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T12:30:17.208172+00:00`
+- 状态更新：`2026-09-08T12:55:13.019885+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**365**
-- 待选选题：**323**
-- 待发布制作包：**120**
+- 对标帖子快照：**368**
+- 待选选题：**326**
+- 待发布制作包：**123**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 12:39:00 +0000 2026 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | [X](https://x.com/StockMKTNewz/status/2097303691522875491) |
+| @StockMKTNewz | Tue Sep 08 12:46:45 +0000 2026 | Apple $AAPL reportedly bought Sonera  "a California company that makes non-invasive sensors that can measure neural signals from the brain" - AppleInsider https://t.co/etiNmAkI8S | [X](https://x.com/StockMKTNewz/status/2097305641819799757) |
+| @WhaleInsider | Tue Sep 08 12:47:12 +0000 2026 | JUST IN: Tom Lee's ‘BitMine’ bought $70 million worth of $ETH last week, bringing its total holdings to $14.7 billion. https://t.co/wyF10L8oTg | [X](https://x.com/WhaleInsider/status/2097305755661566255) |
 | @StockMKTNewz | Tue Sep 08 12:09:04 +0000 2026 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS   Google Cloud $GOOGL and Accenture $ACN just announced they've formed Accenture Gemini Enterprise Business Group  "As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform." - WSJ | [X](https://x.com/StockMKTNewz/status/2097296156157935643) |
 | @StockMKTNewz | Tue Sep 08 12:19:00 +0000 2026 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Consolidated Precision Products from private investment firms Warburg Pincus and Berkshire Partners for   $11.75 billion https://t.co/afxl89aQc1 | [X](https://x.com/StockMKTNewz/status/2097298657657704833) |
 | @StockMKTNewz | Tue Sep 08 11:48:44 +0000 2026 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES:  - RIGETTI $RGTI SIGNS PACT FOR $100M WITH 🇺🇸 GOVERNMENT TO ACCELERATE R&amp;D  - D-WAVE $QBTS SIGNS DEAL WITH US GOVERNMENT FOR UP TO $100M   - $IONQ RAISES ITS FULL YEAR GUIDANCE FOLLOWING SKYWATER ACQUISITION | [X](https://x.com/StockMKTNewz/status/2097291038737965429) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 20:54:26 +0000 2026 | Is this a good trade or not enough for the risk?  You could bet $1,000 on these prediction markets that the New York Jets will not make the NFL playoffs this year and win $1,136  Now, winning $136 doesnt sound like a lot of money BUT   That's a 13.6% return on your money in 4 months  What do you think? | [X](https://x.com/StockMKTNewz/status/2097065983592566919) |
 | @WhaleInsider | Mon Sep 07 20:19:22 +0000 2026 | JUST IN: $XRP futures activity surges to six-month high amid price volatility​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​. https://t.co/swwoEN4Ox2 | [X](https://x.com/WhaleInsider/status/2097057155824206271) |
 | @StockMKTNewz | Mon Sep 07 20:23:10 +0000 2026 | ROBINHOOD IS UNDERWRITING ITS FIRST IPO  Oura has named Robinhood $HOOD as an underwriter for its upcoming IPO, marking Robinhood’s first official underwriting mandate https://t.co/feXtRSooKq | [X](https://x.com/StockMKTNewz/status/2097058112251322868) |
-| @StockMKTNewz | Mon Sep 07 19:46:55 +0000 2026 | *THE STOCK MARKET IS BACK OPEN AGAIN TOMORROW | [X](https://x.com/StockMKTNewz/status/2097048992051769654) |
-| @StockMKTNewz | Mon Sep 07 20:00:36 +0000 2026 | NVIDIA $NVDA CEO JENSEN HUANG IS ON 🇬🇧 KING CHARLES' AI MEETING GUEST LIST - Politico | [X](https://x.com/StockMKTNewz/status/2097052436301054403) |
-| @WhaleInsider | Mon Sep 07 18:59:02 +0000 2026 | JUST IN: $GHOST surges 86% in the past 24 hours, amid speculation of a potential Solana integration for its privacy technology. https://t.co/oygVZqd2Fs | [X](https://x.com/WhaleInsider/status/2097036939798978783) |
 
 ## 选题推荐
 
@@ -102,6 +102,7 @@
 | 1 | Goldman Sachs today raised its price target on Robinhood $HOOD up to $142 from $124 while ma… | StockMKTNewz | 5821 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction marke… | StockMKTNewz | 4005 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Cons… | StockMKTNewz | 7455 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Tom Lee's ‘BitMine’ bought $70 million worth of $ETH last week, bringing its total … | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -132,6 +133,7 @@
 | 2 | $UBER COO Andrew Macdonald spent $5.31 Million to buy 70,000 shares of Uber stock at an aver… | StockMKTNewz | 11046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in ass… | StockMKTNewz | 7497 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS Google Cloud … | StockMKTNewz | 12116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Apple $AAPL reportedly bought Sonera "a California company that makes non-invasive sensors t… | StockMKTNewz | 4020 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -148,6 +150,7 @@
 | 3 | JUST IN: $INDEXR launches on Robinhood Chain as https://t.co/Y2sUgKxg2e memecoin index-fund … | WhaleInsider | 16087 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | WhaleInsider | 24361 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. h… | WhaleInsider | 21696 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | StockMKTNewz | 11195 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2332,6 +2335,27 @@ GE Aerospace $GE agreed to acquire engineered-castings maker Consolidated Precis
 
 Google Cloud $GOOGL and Accenture $ACN formed a Gemini Enterprise group.  Google Cloud will train up to 1,000 Accenture engineers to build customer AI apps on-site.  When2Buy — your U.S. stock partner.
 
+### BitMine adds $70M in Ethereum
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-bitmine-eth-70m-147b-holdings/when2buy-image-model.png`
+
+BitMine bought $70M of Ethereum last week, taking total holdings to $14.7B.  When2Buy — your U.S. stock partner.
+
+### Apple acquires Sonera neural-sensor maker
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-apple-sonera-neural-sensors/when2buy-image-model.png`
+
+Apple $AAPL reportedly acquired Sonera, a California maker of non-invasive sensors that measure neural signals from the brain.  When2Buy — your U.S. stock partner.
+
+### BitMine nears 5% Ethereum supply goal
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-bitmine-97pct-eth-supply-goal/when2buy-image-model.png`
+
+BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2478,6 +2502,12 @@ Google Cloud $GOOGL and Accenture $ACN formed a Gemini Enterprise group.  Google
 
 ## 最近运行
 
+- `2026-09-08T12:45:39Z` **full / partial** — Postiz-first eligible metrics collection, Apify benchmark collection, media preservation, newest-first queue rebuild, three image-model packages, validation, and report preparation completed; publication was withheld. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; the required duplicate-delivery safety check could not be completed, so no publication was submitted and all ready packages remain queued.
+- `2026-09-08T12:54:21Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
+- `2026-09-08T12:54:21Z` **produce / succeeded** — Produced 3 newly captured timestamp-first packages with image-model visuals and exact-logo compositing.
+- `2026-09-08T12:48:13Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
+- `2026-09-08T12:48:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 87 eligible originals and added 3 new post(s).
+- `2026-09-08T12:45:40Z` **queue / succeeded** — Prepared 61 one-to-one production candidate(s).
 - `2026-09-08T12:30:17Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T12:29:52Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
 - `2026-09-08T12:29:52Z` **produce / succeeded** — Produced 2 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
@@ -2492,9 +2522,3 @@ Google Cloud $GOOGL and Accenture $ACN formed a Gemini Enterprise group.  Google
 - `2026-09-08T12:07:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 84 eligible originals and added 4 new post(s).
 - `2026-09-08T11:51:00Z` **full / partial** — Apify collection, media archive, metrics, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred while the active circuit breaker remains in force. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T11:50:36Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
-- `2026-09-08T11:50:30Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
-- `2026-09-08T11:46:17Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
-- `2026-09-08T11:46:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
-- `2026-09-08T11:45:48Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-08T11:31:00Z` **publish / partial** — Apify collection, media archiving, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T11:30:11Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
