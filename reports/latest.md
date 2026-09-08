@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T17:26:44.327565+00:00`
+- 状态更新：`2026-09-08T17:58:07.440502+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**392**
-- 待选选题：**350**
-- 待发布制作包：**141**
+- 对标帖子快照：**394**
+- 待选选题：**352**
+- 待发布制作包：**143**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 17:27:32 +0000 2026 | JUST IN: Robinhood Chain generates 17,171 $ETH ($42.58M) in revenue in 70 days. https://t.co/xP3perdxB0 | [X](https://x.com/WhaleInsider/status/2097376303628390521) |
+| @StockMKTNewz | Tue Sep 08 17:40:53 +0000 2026 | AI startup Cognition raised more than $2B at a valuation of $48 Billion | [X](https://x.com/StockMKTNewz/status/2097379660854157664) |
 | @WhaleInsider | Tue Sep 08 17:05:09 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian media. https://t.co/0lbfexXv8o | [X](https://x.com/WhaleInsider/status/2097370670145347948) |
 | @StockMKTNewz | Tue Sep 08 16:26:59 +0000 2026 | QUALCOMM $QCOM JUST SAID:  - THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE | [X](https://x.com/StockMKTNewz/status/2097361064912449586) |
 | @WhaleInsider | Tue Sep 08 16:36:47 +0000 2026 | JUST IN: $UPS (UNIPCS6900) launches on Robinhood Chain, reportedly tied to UniPcs’ FOMO holdings amid BONK insider speculation, with automated portfolio rotation and cross-chain rewards for holders. https://t.co/Mu6wdkOMaD | [X](https://x.com/WhaleInsider/status/2097363532727611898) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 12:46:45 +0000 2026 | Apple $AAPL reportedly bought Sonera  "a California company that makes non-invasive sensors that can measure neural signals from the brain" - AppleInsider https://t.co/etiNmAkI8S | [X](https://x.com/StockMKTNewz/status/2097305641819799757) |
 | @WhaleInsider | Tue Sep 08 12:47:12 +0000 2026 | JUST IN: Tom Lee's ‘BitMine’ bought $70 million worth of $ETH last week, bringing its total holdings to $14.7 billion. https://t.co/wyF10L8oTg | [X](https://x.com/WhaleInsider/status/2097305755661566255) |
 | @StockMKTNewz | Tue Sep 08 12:09:04 +0000 2026 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS   Google Cloud $GOOGL and Accenture $ACN just announced they've formed Accenture Gemini Enterprise Business Group  "As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform." - WSJ | [X](https://x.com/StockMKTNewz/status/2097296156157935643) |
-| @StockMKTNewz | Tue Sep 08 12:19:00 +0000 2026 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Consolidated Precision Products from private investment firms Warburg Pincus and Berkshire Partners for   $11.75 billion https://t.co/afxl89aQc1 | [X](https://x.com/StockMKTNewz/status/2097298657657704833) |
-| @StockMKTNewz | Tue Sep 08 11:48:44 +0000 2026 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES:  - RIGETTI $RGTI SIGNS PACT FOR $100M WITH 🇺🇸 GOVERNMENT TO ACCELERATE R&amp;D  - D-WAVE $QBTS SIGNS DEAL WITH US GOVERNMENT FOR UP TO $100M   - $IONQ RAISES ITS FULL YEAR GUIDANCE FOLLOWING SKYWATER ACQUISITION | [X](https://x.com/StockMKTNewz/status/2097291038737965429) |
 
 ## 选题推荐
 
@@ -114,6 +114,7 @@
 | 1 | JUST IN: Dev behind billion-dollar PEPE on Ethereum joins Artificial Pepe $AP. https://t.co/… | WhaleInsider | 10855 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Cresta aims to make customer service easier with AI agents that solve problems and … | WhaleInsider | 7358 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian… | WhaleInsider | 8590 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | AI startup Cognition raised more than $2B at a valuation of $48 Billion | StockMKTNewz | 10916 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -153,6 +154,7 @@
 | 2 | Lebron James is now working with our partners over at Polymarket | StockMKTNewz | 5476 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | I am ready for the NFL to be back Our partners over at Polymarket just announced a new partn… | StockMKTNewz | 5675 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Tesla $TSLA is reportedly preparing to deploy 1,000 Cybercabs | StockMKTNewz | 12410 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: Robinhood Chain generates 17,171 $ETH ($42.58M) in revenue in 70 days. https://t.co… | WhaleInsider | 24900 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2513,6 +2515,20 @@ Tehran is demanding new conditions from Washington before negotiations can resum
 
 Cresta is building customer-service AI agents that solve problems and hand conversations to human agents.  When2Buy — your U.S. stock partner.
 
+### Cognition raises more than $2B at $48B valuation
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-cognition-2b-48b-valuation/when2buy-image-model.png`
+
+Cognition raised more than $2B at a $48B valuation.  When2Buy — your U.S. stock partner.
+
+### Robinhood Chain generates 17,171 ETH in revenue
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-robinhood-chain-17171-eth-revenue/when2buy-image-model.png`
+
+Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2659,6 +2675,11 @@ Cresta is building customer-service AI agents that solve problems and hand conve
 
 ## 最近运行
 
+- `2026-09-08T17:58:07Z` **full / partial** — Apify collection, media archive, hourly metrics, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T17:57:31Z` **queue / succeeded** — Prepared 65 one-to-one production candidate(s).
+- `2026-09-08T17:57:28Z` **produce / succeeded** — Produced the two newest timestamp-first Apify packages with inspected image-model visuals and one exact-logo composite each.
+- `2026-09-08T17:52:06Z` **queue / succeeded** — Prepared 65 one-to-one production candidate(s).
+- `2026-09-08T17:50:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
 - `2026-09-08T17:27:00Z` **full / partial** — Apify collection, media archive, and timestamp-first queue rebuild completed; no new eligible benchmark items required package production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T17:26:15Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
 - `2026-09-08T17:26:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 0 new post(s).
@@ -2674,8 +2695,3 @@ Cresta is building customer-service AI agents that solve problems and hand conve
 - `2026-09-08T16:25:28Z` **full / partial** — Apify scanned both benchmark feeds, archived available source media, rebuilt the timestamp-first queue, excluded a promotional partner post and a duplicate event, and produced one verified image-model package. No publication was submitted. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden (error code: 1010); no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T16:29:46Z` **queue / succeeded** — Prepared 58 one-to-one production candidate(s).
 - `2026-09-08T16:29:32Z` **queue / succeeded** — Prepared 59 one-to-one production candidate(s).
-- `2026-09-08T16:29:02Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
-- `2026-09-08T16:26:43Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
-- `2026-09-08T16:26:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 3 new post(s).
-- `2026-09-08T16:16:11Z` **queue / succeeded** — Prepared 61 one-to-one production candidate(s).
-- `2026-09-08T16:16:11Z` **queue / succeeded** — Retained the duplicate benchmark capture for audit and excluded its duplicate Polymarket package from the timestamp-first production queue.
