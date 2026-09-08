@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T11:09:29.965299+00:00`
+- 状态更新：`2026-09-08T11:31:00.864810+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**355**
-- 待选选题：**313**
-- 待发布制作包：**110**
+- 对标帖子快照：**357**
+- 待选选题：**315**
+- 待发布制作包：**112**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 11:06:49 +0000 2026 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP  Palantir named Nebius "its preferred sovereign AI infrastructure partner" which will bring "Nebius's AI-native compute infrastructure and cloud platform to Palantir's commercial customers." https://t.co/UYxA721ojU | [X](https://x.com/StockMKTNewz/status/2097280493431501087) |
+| @StockMKTNewz | Tue Sep 08 11:20:52 +0000 2026 | The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at least 1998 - Bloomberg https://t.co/neDllquazz | [X](https://x.com/StockMKTNewz/status/2097284027023560809) |
 | @StockMKTNewz | Tue Sep 08 10:54:27 +0000 2026 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - Goldman Sachs | [X](https://x.com/StockMKTNewz/status/2097277378934231391) |
 | @StockMKTNewz | Tue Sep 08 10:57:48 +0000 2026 | The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04% | [X](https://x.com/StockMKTNewz/status/2097278222278799375) |
 | @StockMKTNewz | Tue Sep 08 10:32:30 +0000 2026 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-inch EUV photomasks, replacing the 6-inch format used today | [X](https://x.com/StockMKTNewz/status/2097271855493034341) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Mon Sep 07 16:46:28 +0000 2026 | JUST IN: Biggest week in the trenches since $TRUMP week. $6.35 billion traded through onchain terminals. https://t.co/hvMoTq7YNp | [X](https://x.com/WhaleInsider/status/2097003578648940977) |
 | @StockMKTNewz | Mon Sep 07 16:34:12 +0000 2026 | Micron $MU stock is currently the best performing stock in the S&amp;P 500 over the last 5 years https://t.co/ywRfw6fRhZ | [X](https://x.com/StockMKTNewz/status/2097000494098972748) |
 | @StockMKTNewz | Mon Sep 07 15:56:39 +0000 2026 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, according to AAA  On Monday, the national average price at the pump was $4.15, a record high for the holiday - CNBC https://t.co/EMkLKcLUqX | [X](https://x.com/StockMKTNewz/status/2096991041987531044) |
-| @WhaleInsider | Mon Sep 07 15:32:15 +0000 2026 | JUST IN: @MetaWin player turns $6 into $16,733.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies for their $1M airdrop this month. https://t.co/C5RYIOaoLg | [X](https://x.com/WhaleInsider/status/2096984904089125105) |
-| @WhaleInsider | Mon Sep 07 15:38:51 +0000 2026 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of potential U.S. tariffs on refined copper imports. https://t.co/5itwt8BTfp | [X](https://x.com/WhaleInsider/status/2096986563792027845) |
 
 ## 选题推荐
 
@@ -98,6 +98,7 @@
 | 1 | Samsung and Taiwan Semiconductor, the world’s two biggest chipmakers, have committed to usin… | StockMKTNewz | 4736 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Mistral AI is now worth more than $24.3 Billion | StockMKTNewz | 5845 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04% | StockMKTNewz | 7863 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at leas… | StockMKTNewz | 6276 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -124,6 +125,7 @@
 | 2 | OpenAI owned ChatGPT posted this today: “ChatGPT Work can now pick up on what makes your wri… | StockMKTNewz | 9683 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-in… | StockMKTNewz | 11635 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - … | StockMKTNewz | 7825 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP Palantir named Nebius "its … | StockMKTNewz | 16123 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2252,6 +2254,20 @@ The S&P 500 dividend yield has fallen to a new record low of 1.04%.  When2Buy �
 
 S&P 500 earnings per share is expected to rise 24%–31% in 2026.  When2Buy — your U.S. stock partner.
 
+### UK 2056 gilt borrowing cost
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-uk-2056-gilt-borrowing-cost/when2buy-image-model.png`
+
+UK borrowing costs are set for their highest gilt sale since at least 1998.  A syndicated reopening of the 5⅜% Treasury Gilt 2056 is planned this week.  When2Buy — your U.S. stock partner.
+
+### Palantir and Nebius sovereign AI partnership
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-palantir-nebius-sovereign-ai/when2buy-image-model.png`
+
+$PLTR and $NBIS have announced a new AI infrastructure partnership.  Nebius is Palantir’s preferred sovereign AI infrastructure partner for commercial customers.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2398,6 +2414,12 @@ S&P 500 earnings per share is expected to rise 24%–31% in 2026.  When2Buy — 
 
 ## 最近运行
 
+- `2026-09-08T11:31:00Z` **publish / partial** — Apify collection, media archiving, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T11:30:11Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
+- `2026-09-08T11:30:10Z` **produce / succeeded** — Produced 2 newest timestamp-first packages with inspected image-model visuals and one exact-logo composite each.
+- `2026-09-08T11:29:09Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
+- `2026-09-08T11:26:40Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
+- `2026-09-08T11:26:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).
 - `2026-09-08T11:09:29Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T11:08:59Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
 - `2026-09-08T11:06:18Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
@@ -2412,9 +2434,3 @@ S&P 500 earnings per share is expected to rise 24%–31% in 2026.  When2Buy — 
 - `2026-09-08T10:29:14.420925+00:00` **produce / succeeded** — Produced the newest ASML High-NA EUV package with an image-model visual and exact-logo compositing.
 - `2026-09-08T10:26:49Z` **queue / succeeded** — Prepared 50 one-to-one production candidate(s).
 - `2026-09-08T10:26:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 75 eligible originals and added 1 new post(s).
-- `2026-09-08T10:25:50Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-08T10:08:59Z` **full / partial** — Apify collection, media archiving, timestamp-first queue rebuild, Bank of Japan package production, delivery-window check, and the one permitted Postiz probe completed; publication did not yield a verified public X URL. Postiz X publication probe for pkg-20260908-boj-september-rate-signal was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.
-- `2026-09-08T10:08:14Z` **produce / succeeded** — Produced the newest Bank of Japan September-rate package with an inspected image-model visual and one exact-logo composite.
-- `2026-09-08T10:06:07Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-08T10:06:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-08T09:49:28Z` **full / partial** — Apify collection, media archival, timestamp-first queue rebuild, and :45 Postiz-first metrics collection completed; the sole newest-package Postiz probe did not produce a verified public X URL. Postiz X publication probe for pkg-20260908-btc-short-term-whale-profit-risk was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.

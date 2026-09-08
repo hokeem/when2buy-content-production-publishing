@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T11:09:29.965299+00:00",
+  "updatedAt": "2026-09-08T11:31:00.864810+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9768,6 +9768,62 @@
       "isPinned": false,
       "capturedAt": "2026-09-08T11:06:17Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097284027023560809",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097284027023560809",
+      "postedAt": "Tue Sep 08 11:20:52 +0000 2026",
+      "text": "The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at least 1998 - Bloomberg https://t.co/neDllquazz",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRsHxYDaUAAPedS.png"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 2,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 5976
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T11:26:39Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsHxYDaUAAPedS.png",
+          "path": "output/benchmark-media/StockMKTNewz/2097284027023560809-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097280493431501087",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097280493431501087",
+      "postedAt": "Tue Sep 08 11:06:49 +0000 2026",
+      "text": "PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP\n\nPalantir named Nebius \"its preferred sovereign AI infrastructure partner\" which will bring \"Nebius's AI-native compute infrastructure and cloud platform to Palantir's commercial customers.\" https://t.co/UYxA721ojU",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRsJeNkaAAAQmUW.jpg"
+      ],
+      "engagement": {
+        "likes": 76,
+        "replies": 8,
+        "reposts": 7,
+        "quotes": 3,
+        "views": 13753
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T11:26:39Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsJeNkaAAAQmUW.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097280493431501087-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -15715,6 +15771,44 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097284027023560809",
+      "rank": 1,
+      "title": "The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at leas…",
+      "benchmarkPostId": "2097284027023560809",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097284027023560809",
+      "score": 6276,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T11:26:40Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097280493431501087",
+      "rank": 2,
+      "title": "PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP Palantir named Nebius \"its …",
+      "benchmarkPostId": "2097280493431501087",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097280493431501087",
+      "score": 16123,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T11:26:40Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -22033,6 +22127,77 @@
             "not a pure-text or generic-radar visual",
             "exact repository logo composited once in lower-right clear space",
             "no damaged logo or malformed object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-uk-2056-gilt-borrowing-cost",
+      "benchmarkPostId": "2097284027023560809",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097284027023560809",
+      "title": "UK 2056 gilt borrowing cost",
+      "status": "ready",
+      "postText": "UK borrowing costs are set for their highest gilt sale since at least 1998.\n\nA syndicated reopening of the 5⅜% Treasury Gilt 2056 is planned this week.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The United Kingdom is set to pay its highest borrowing costs on a debt sale since at least 1998.",
+        "A syndicated reopening of 5⅜% Treasury Gilt 2056 is planned for the week of September 7, 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097284027023560809",
+        "https://www.dmo.gov.uk/media/oaojsntg/auctioncalendar010926.pdf",
+        "https://www.dmo.gov.uk/publications/?childFilter=-1&itemsPerPage=20&offset=0&p=0&parentFilter=1433&startMonth=1&startYear=2022"
+      ],
+      "imagePath": "deliverables/pkg-20260908-uk-2056-gilt-borrowing-cost/when2buy-image-model.png",
+      "createdAt": "2026-09-08T11:30:09Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium 1:1 square X financial-news visual for When2Buy.\nPrimary request: an original, text-free editorial image for the United Kingdom facing its highest borrowing cost on a government debt sale since at least 1998.\nScene/backdrop: cinematic near-black institutional gilt-auction room at night, deep charcoal walls and faint architectural reference to London without recognizable landmarks.\nSubject: one complete, elegant British gilt certificate represented only as a blank engraved dark-metal bond sheet on a polished black desk, paired with a physical auction gavel and a rising stack of neutral metallic yield markers with no markings. A real financial still life, not a generic radar graphic.\nStyle/medium: premium institutional editorial photography, sharp white rim lighting, restrained deep-red reflection accents.\nComposition/framing: exact 1:1 square, subject slightly left of center; reserve the lower-right 20 percent as clean near-black empty space for a logo composited later.\nText: none.\nConstraints: no readable text, letters, numbers, flags, currency symbols, logos, watermarks, UI, charts, company names, source handles, URLs, attribution, disclaimer, CTA, people, generic radar graphics, or pure typography. All objects complete, undamaged, physically plausible.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T11:30:09Z",
+          "checks": [
+            "square image inspected after image-model generation and exact-logo composite",
+            "entity-led gilt-auction still life with complete undamaged objects",
+            "no readable generated text, attribution, source handle, or URL",
+            "premium near-black, white, and restrained-red palette",
+            "not pure text or a generic radar visual",
+            "exact repository logo composited once in lower-right clear space"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-palantir-nebius-sovereign-ai",
+      "benchmarkPostId": "2097280493431501087",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097280493431501087",
+      "title": "Palantir and Nebius sovereign AI partnership",
+      "status": "ready",
+      "postText": "$PLTR and $NBIS have announced a new AI infrastructure partnership.\n\nNebius is Palantir’s preferred sovereign AI infrastructure partner for commercial customers.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Palantir and Nebius announced a partnership to bring Nebius AI-native compute infrastructure and cloud platform to Palantir commercial customers.",
+        "Palantir named Nebius its preferred sovereign AI infrastructure partner."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097280493431501087",
+        "https://www.webdisclosure.fr/press-release/yandex-nv-nasdaq-yndx-palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers-oDD3SPar6E4"
+      ],
+      "imagePath": "deliverables/pkg-20260908-palantir-nebius-sovereign-ai/when2buy-image-model.png",
+      "createdAt": "2026-09-08T11:30:10Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium 1:1 square X financial-news visual for When2Buy.\nPrimary request: an original, text-free entity-led image for Palantir and Nebius announcing a partnership in which Nebius becomes Palantir's preferred sovereign AI infrastructure partner.\nScene/backdrop: cinematic near-black advanced AI data-center operations room at night, charcoal glass, subtle server racks and soft atmospheric depth.\nSubject: two complete, distinct high-end physical compute modules connected by a single illuminated fiber-optic bridge: a dark graphite enterprise intelligence module and a silver-white sovereign cloud module. The visual must convey a strategic infrastructure partnership through real, sophisticated hardware, not a generic radar or a logo card.\nStyle/medium: premium institutional editorial photography, sharp white rim lighting, restrained deep-red accent reflections only.\nComposition/framing: exact 1:1 square, modules slightly left of center; reserve the lower-right 20 percent as clean near-black empty space for a logo composited later.\nText: none.\nConstraints: no readable text, letters, numbers, currency symbols, logos, watermarks, UI, charts, source names, source handles, URLs, attribution, disclaimer, CTA, people, generic radar graphics, or pure typography. All hardware complete and undamaged.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T11:30:10Z",
+          "checks": [
+            "square image inspected after image-model generation and exact-logo composite",
+            "entity-led paired compute-module partnership scene with complete undamaged hardware",
+            "no readable generated text, attribution, source handle, or URL",
+            "premium near-black, white, and restrained-red palette",
+            "not pure text or a generic radar visual",
+            "exact repository logo composited once in lower-right clear space"
           ]
         }
       }
@@ -115731,6 +115896,73 @@
       "completedAt": "2026-09-08T11:09:29Z",
       "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred.",
       "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+    },
+    {
+      "id": "run-20260908T112639Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T11:26:39Z",
+      "completedAt": "2026-09-08T11:26:39Z",
+      "summary": "Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T112640Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T11:26:40Z",
+      "completedAt": "2026-09-08T11:26:40Z",
+      "summary": "Prepared 55 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T112909Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T11:29:09Z",
+      "completedAt": "2026-09-08T11:29:09Z",
+      "summary": "Prepared 54 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T113010Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T11:30:10Z",
+      "completedAt": "2026-09-08T11:30:10Z",
+      "summary": "Produced 2 newest timestamp-first packages with inspected image-model visuals and one exact-logo composite each.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T113011Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T11:30:11Z",
+      "completedAt": "2026-09-08T11:30:11Z",
+      "summary": "Prepared 54 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T113100Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-08T11:31:00Z",
+      "completedAt": "2026-09-08T11:31:00Z",
+      "summary": "Apify collection, media archiving, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "HTTP 403 Forbidden; no delivery statuses returned"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T12:31:00Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
