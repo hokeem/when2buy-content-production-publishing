@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T14:11:11.862204+00:00",
+  "updatedAt": "2026-09-08T14:29:19.487597+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10242,6 +10242,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097327575504670871",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097327575504670871",
+      "postedAt": "Tue Sep 08 14:13:55 +0000 2026",
+      "text": "JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. https://t.co/jKYvAIaL1s",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRs0Ryga0AAAPLS.jpg",
+        "https://pbs.twimg.com/media/HRs0RyPbcAAi37N.jpg"
+      ],
+      "engagement": {
+        "likes": 62,
+        "replies": 24,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 16533
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T14:26:22Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRs0Ryga0AAAPLS.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097327575504670871-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRs0RyPbcAAi37N.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097327575504670871-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -16512,6 +16546,25 @@
         "when2buyFit": 2,
         "marketImpact": 3,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097327575504670871",
+      "rank": 1,
+      "title": "JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. ht…",
+      "benchmarkPostId": "2097327575504670871",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097327575504670871",
+      "score": 19463,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T14:26:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -23434,6 +23487,42 @@
         "qaStatus": "passed",
         "qa": {
           "inspectedAt": "2026-09-08T14:10:41Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-gme-robinhood-chain-follow-surge",
+      "benchmarkPostId": "2097327575504670871",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097327575504670871",
+      "title": "GME on Robinhood Chain surges after follow",
+      "status": "ready",
+      "postText": "GameStop on Robinhood Chain surged after Vlad Tenev followed the project's X account.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark says GME on Robinhood Chain surged.",
+        "The captured benchmark connects the move with Vlad Tenev following the project's X account."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097327575504670871"
+      ],
+      "imagePath": "deliverables/pkg-20260908-gme-robinhood-chain-follow-surge/when2buy-image-model.png",
+      "createdAt": "2026-09-08T14:29:19Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Generate a premium 1:1 financial-news visual for an X post. Subject: a luminous transparent green-on-black GameStop-style retail-stock ticker chip and subtle blockchain rails inside a sophisticated dark trading terminal, with a single elegant social-follow signal shown as an abstract connection pulse. Entity-led, factual news mood, dramatic close composition. Near-black background, crisp white highlights, restrained deep red accents, small cool-green glow only for the market move. No words, no letters, no ticker symbols, no logos, no watermark, no charts with readable text. Leave clean quiet negative space in the lower-right corner for a small circular logo added later. Avoid generic radar imagery, avoid pure typography.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T14:29:19Z",
           "checks": [
             "square 1254x1254",
             "complete entity-led visual",
@@ -117660,6 +117749,73 @@
         "expiresAt": "2026-09-08T14:28:42Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
       }
+    },
+    {
+      "id": "run-20260908T142622Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T14:26:22Z",
+      "completedAt": "2026-09-08T14:26:22Z",
+      "summary": "Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T142623Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T14:26:23Z",
+      "completedAt": "2026-09-08T14:26:23Z",
+      "summary": "Prepared 68 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T142847Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T14:28:47Z",
+      "completedAt": "2026-09-08T14:28:47Z",
+      "summary": "Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T142919Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T14:29:19Z",
+      "completedAt": "2026-09-08T14:29:19Z",
+      "summary": "Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T142919Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-08T14:29:19Z",
+      "completedAt": "2026-09-08T14:29:19Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T14:28:42Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T14:28:42Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T142919Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T14:29:19Z",
+      "completedAt": "2026-09-08T14:29:19Z",
+      "summary": "Prepared 68 one-to-one production candidate(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

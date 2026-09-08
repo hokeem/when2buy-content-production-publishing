@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T14:11:11.862204+00:00`
+- 状态更新：`2026-09-08T14:29:19.487597+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**372**
-- 待选选题：**330**
-- 待发布制作包：**127**
+- 对标帖子快照：**373**
+- 待选选题：**331**
+- 待发布制作包：**128**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 14:13:55 +0000 2026 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. https://t.co/jKYvAIaL1s | [X](https://x.com/WhaleInsider/status/2097327575504670871) |
 | @StockMKTNewz | Tue Sep 08 13:34:24 +0000 2026 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | [X](https://x.com/StockMKTNewz/status/2097317631451660624) |
 | @WhaleInsider | Tue Sep 08 13:41:29 +0000 2026 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from today. https://t.co/TtcP5nfnfW | [X](https://x.com/WhaleInsider/status/2097319414722928938) |
 | @StockMKTNewz | Tue Sep 08 13:52:35 +0000 2026 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trillion to make it the biggest IPO of the year https://t.co/M1ywd7jyRp | [X](https://x.com/StockMKTNewz/status/2097322208989249734) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Tue Sep 08 07:19:20 +0000 2026 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over the past month, now surpassing $700 million - Token Terminal. https://t.co/mkiuh50YyH | [X](https://x.com/WhaleInsider/status/2097223244692574351) |
 | @WhaleInsider | Tue Sep 08 06:44:17 +0000 2026 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 years. https://t.co/sZ4iQvPS0q | [X](https://x.com/WhaleInsider/status/2097214423114863064) |
 | @StockMKTNewz | Tue Sep 08 00:03:30 +0000 2026 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend  This is the first rocket to ever reach orbit from western European soil https://t.co/NsShfe8Ree | [X](https://x.com/StockMKTNewz/status/2097113561960964257) |
-| @StockMKTNewz | Mon Sep 07 23:12:24 +0000 2026 | OpenAI owned ChatGPT posted this today:  “ChatGPT Work can now pick up on what makes your writing sound like… you. Your favorite phrases. Your very specific sign-off. your capitalizations quirks.” https://t.co/Bd4gtZfF1h | [X](https://x.com/StockMKTNewz/status/2097100701637763331) |
 
 ## 选题推荐
 
@@ -105,6 +105,7 @@
 | 1 | JUST IN: Tom Lee's ‘BitMine’ bought $70 million worth of $ETH last week, bringing its total … | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI D… | StockMKTNewz | 13419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trill… | StockMKTNewz | 11798 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. ht… | WhaleInsider | 19463 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2388,6 +2389,13 @@ The U.S. Senate is set to hold a procedural cloture vote on the Clarity Act one 
 
 The U.S. stock market is back open.  When2Buy — your U.S. stock partner.
 
+### GME on Robinhood Chain surges after follow
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-gme-robinhood-chain-follow-surge/when2buy-image-model.png`
+
+GameStop on Robinhood Chain surged after Vlad Tenev followed the project's X account.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2534,6 +2542,12 @@ The U.S. stock market is back open.  When2Buy — your U.S. stock partner.
 
 ## 最近运行
 
+- `2026-09-08T14:29:19Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
+- `2026-09-08T14:29:19Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T14:29:19Z` **produce / succeeded** — Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-08T14:28:47Z` **produce / succeeded** — Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-08T14:26:23Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
+- `2026-09-08T14:26:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
 - `2026-09-08T14:11:11Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and three image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T14:10:41Z` **produce / succeeded** — Archived benchmark media and produced 3 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-08T14:06:44Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
@@ -2548,9 +2562,3 @@ The U.S. stock market is back open.  When2Buy — your U.S. stock partner.
 - `2026-09-08T13:26:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
 - `2026-09-08T13:06:50Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T13:06:28Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
-- `2026-09-08T13:06:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
-- `2026-09-08T12:45:39Z` **full / partial** — Postiz-first eligible metrics collection, Apify benchmark collection, media preservation, newest-first queue rebuild, three image-model packages, validation, and report preparation completed; publication was withheld. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; the required duplicate-delivery safety check could not be completed, so no publication was submitted and all ready packages remain queued.
-- `2026-09-08T12:54:21Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
-- `2026-09-08T12:54:21Z` **produce / succeeded** — Produced 3 newly captured timestamp-first packages with image-model visuals and exact-logo compositing.
-- `2026-09-08T12:48:13Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
-- `2026-09-08T12:48:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 87 eligible originals and added 3 new post(s).
