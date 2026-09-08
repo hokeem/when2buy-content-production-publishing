@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T07:07:19.663404+00:00",
+  "updatedAt": "2026-09-08T07:31:14.417117+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9496,6 +9496,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097223244692574351",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097223244692574351",
+      "postedAt": "Tue Sep 08 07:19:20 +0000 2026",
+      "text": "JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over the past month, now surpassing $700 million - Token Terminal. https://t.co/mkiuh50YyH",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRrVbDmbwAAjuMl.jpg",
+        "https://pbs.twimg.com/media/HRrVbDjbEAAn5Ki.jpg"
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 19,
+        "reposts": 6,
+        "quotes": 2,
+        "views": 12175
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T07:27:05Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRrVbDmbwAAjuMl.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097223244692574351-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRrVbDjbEAAn5Ki.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097223244692574351-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -15253,6 +15287,25 @@
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097223244692574351",
+      "rank": 1,
+      "title": "JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over th…",
+      "benchmarkPostId": "2097223244692574351",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097223244692574351",
+      "score": 14095,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T07:27:06Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -21229,6 +21282,43 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260908-ethereum-robinhood-chain-bridge-surge",
+      "benchmarkPostId": "2097223244692574351",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097223244692574351",
+      "title": "Ethereum bridged to Robinhood Chain tops $700M",
+      "status": "published",
+      "postText": "$ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, topping $700M.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "ETH bridged from Ethereum to Robinhood Chain increased 150% over the past month.",
+        "The bridged amount surpassed $700 million."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097223244692574351",
+        "https://docs.robinhood.com/chain/bridging/",
+        "https://robinhood.com/us/en/support/articles/robinhood-chain-mainnet/"
+      ],
+      "imagePath": "deliverables/pkg-20260908-ethereum-robinhood-chain-bridge-surge/when2buy-image-model.png",
+      "createdAt": "2026-09-08T07:30:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square premium financial editorial illustration: Ethereum bridge flow moving into an abstract Robinhood Chain-inspired market network; near-black institutional operations room, white/silver transaction paths, restrained red and small positive green accents, no words, letters, numbers, logos, watermarks, UI labels, fake charts, people, coins, flags, or generic radar imagery; clean dark lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "checked": [
+            "square 1254x1254 PNG",
+            "entity-led Ethereum-to-chain bridge scene",
+            "no generated text",
+            "exact repository logo composited once",
+            "logo intact with clear lower-right space"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmtsco4j00vrtqk0y2p8ynjxa",
+      "publishedAt": "2026-09-08T07:30:00.000Z"
     }
   ],
   "posts": [
@@ -23655,6 +23745,23 @@
         "lastAttemptAt": "2026-09-08T07:06:03.288686Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2097226225660158456",
+      "packageId": "pkg-20260908-ethereum-robinhood-chain-bridge-surge",
+      "title": "Ethereum bridged to Robinhood Chain tops $700M",
+      "status": "published",
+      "publishedAt": "2026-09-08T07:30:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097226225660158456",
+      "postizPostId": "cmtsco4j00vrtqk0y2p8ynjxa",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-08T07:30:00.000Z",
+        "windowEnd": "2026-09-11T07:30:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -114309,6 +114416,46 @@
         "expiresAt": "2026-09-08T07:27:00Z",
         "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried."
       }
+    },
+    {
+      "id": "run-20260908T072705Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T07:27:05Z",
+      "completedAt": "2026-09-08T07:27:05Z",
+      "summary": "Apify scanned both benchmark accounts; captured 58 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T072706Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T07:27:06Z",
+      "completedAt": "2026-09-08T07:27:06Z",
+      "summary": "Prepared 47 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T072947Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T07:29:47Z",
+      "completedAt": "2026-09-08T07:29:47Z",
+      "summary": "Prepared 47 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T073114Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T07:31:14.415680+00:00",
+      "completedAt": "2026-09-08T07:31:14.415686+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

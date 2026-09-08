@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T07:07:19.663404+00:00`
+- 状态更新：`2026-09-08T07:31:14.417117+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**345**
-- 待选选题：**303**
+- 对标帖子快照：**346**
+- 待选选题：**304**
 - 待发布制作包：**102**
-- 已验证发布：**136**
+- 已验证发布：**137**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 07:19:20 +0000 2026 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over the past month, now surpassing $700 million - Token Terminal. https://t.co/mkiuh50YyH | [X](https://x.com/WhaleInsider/status/2097223244692574351) |
 | @WhaleInsider | Tue Sep 08 06:44:17 +0000 2026 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 years. https://t.co/sZ4iQvPS0q | [X](https://x.com/WhaleInsider/status/2097214423114863064) |
 | @StockMKTNewz | Tue Sep 08 00:03:30 +0000 2026 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend  This is the first rocket to ever reach orbit from western European soil https://t.co/NsShfe8Ree | [X](https://x.com/StockMKTNewz/status/2097113561960964257) |
 | @StockMKTNewz | Mon Sep 07 23:12:24 +0000 2026 | OpenAI owned ChatGPT posted this today:  “ChatGPT Work can now pick up on what makes your writing sound like… you. Your favorite phrases. Your very specific sign-off. your capitalizations quirks.” https://t.co/Bd4gtZfF1h | [X](https://x.com/StockMKTNewz/status/2097100701637763331) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 14:45:10 +0000 2026 | This is what a $75 Million penthouse in Miami looks like https://t.co/FOG3PpeXj4 | [X](https://x.com/StockMKTNewz/status/2096973053095706742) |
 | @StockMKTNewz | Mon Sep 07 14:23:57 +0000 2026 | Merck stock is currently the BEST performing stock in the Dow Jones so far in 2026  👑 Merck $MRK: +43%🟢 https://t.co/APN8kkaku9 | [X](https://x.com/StockMKTNewz/status/2096967712274628776) |
 | @StockMKTNewz | Mon Sep 07 14:13:19 +0000 2026 | IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026  🥈 $IBM: -21%🔴 https://t.co/PqywBvlPMj | [X](https://x.com/StockMKTNewz/status/2096965037080334439) |
-| @WhaleInsider | Mon Sep 07 13:47:22 +0000 2026 | JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the meme to onboard a wider audience. Set to launch tomorrow at 5PM UTC on PumpFun. https://t.co/fP2YpOUsnw | [X](https://x.com/WhaleInsider/status/2096958507513680239) |
 
 ## 选题推荐
 
@@ -90,6 +90,7 @@
 | 1 | Tesla $TSLA posted this today: “Superchargers are made in Buffalo, New York.” https://t.co/n… | StockMKTNewz | 9881 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the… | StockMKTNewz | 5056 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 yea… | WhaleInsider | 9524 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over th… | WhaleInsider | 14095 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2172,6 +2173,13 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 China's holdings of U.S. Treasuries have fallen to their lowest level in 25 years.  When2Buy — your U.S. stock partner.
 
+### Ethereum bridged to Robinhood Chain tops $700M
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260908-ethereum-robinhood-chain-bridge-surge/when2buy-image-model.png`
+
+$ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, topping $700M.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2313,9 +2321,14 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
+| Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097226225660158456) |
 
 ## 最近运行
 
+- `2026-09-08T07:31:14.415680+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-08T07:29:47Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
+- `2026-09-08T07:27:06Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
+- `2026-09-08T07:27:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 58 eligible originals and added 1 new post(s).
 - `2026-09-08T07:06:00Z` **full / partial** — Apify collection, timestamp-first queue rebuild, Postiz-first metrics collection, package validation, and reporting completed; publication was withheld by the active delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
 - `2026-09-08T07:06:03Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T07:06:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2332,7 +2345,3 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 - `2026-09-08T06:05:47Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
 - `2026-09-08T05:48:28.255210+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T05:47:32Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T05:47:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-08T05:46:51Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T05:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-08T05:27:23Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
