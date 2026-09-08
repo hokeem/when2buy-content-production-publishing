@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T08:28:26.453024+00:00`
+- 状态更新：`2026-09-08T08:49:18.491065+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**347**
 - 待选选题：**305**
@@ -2334,6 +2334,9 @@ Crypto holders in India are using overseas gift-card platforms to spend on groce
 
 ## 最近运行
 
+- `2026-09-08T08:49:18Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
+- `2026-09-08T08:47:49Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T08:47:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T08:28:26Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
 - `2026-09-08T08:28:26Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T08:26:05Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
@@ -2351,6 +2354,3 @@ Crypto holders in India are using overseas gift-card platforms to spend on groce
 - `2026-09-08T07:27:06Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
 - `2026-09-08T07:27:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 58 eligible originals and added 1 new post(s).
 - `2026-09-08T07:06:00Z` **full / partial** — Apify collection, timestamp-first queue rebuild, Postiz-first metrics collection, package validation, and reporting completed; publication was withheld by the active delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
-- `2026-09-08T07:06:03Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T07:06:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T06:45:39Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 Postiz-first metrics check, and one new complete ready package were completed; publication was withheld by the required Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
