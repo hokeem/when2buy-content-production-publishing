@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T19:10:00+00:00",
+  "updatedAt": "2026-09-08T19:28:16.495805+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10922,6 +10922,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097402706411278438",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097402706411278438",
+      "postedAt": "Tue Sep 08 19:12:27 +0000 2026",
+      "text": "Meta Platforms $META just posted this:\n\n“today we're rolling out Muse, our new personal ai assistant. Muse is always-on, wicked fast, can use a browser, connect to your apps, and is designed to be secure.” https://t.co/tZGkKgesKh",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2097397839869698049/img/EBXBYqEIsH9rB2m-.jpg"
+      ],
+      "engagement": {
+        "likes": 46,
+        "replies": 9,
+        "reposts": 8,
+        "quotes": 1,
+        "views": 10872
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T19:26:07Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097397839869698049/img/EBXBYqEIsH9rB2m-.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097402706411278438-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -17648,6 +17676,25 @@
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097402706411278438",
+      "rank": 1,
+      "title": "Meta Platforms $META just posted this: “today we're rolling out Muse, our new personal ai as…",
+      "benchmarkPostId": "2097402706411278438",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097402706411278438",
+      "score": 12612,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T19:26:10Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -25246,6 +25293,43 @@
             "exact repository logo composited once in the lower-right safe area",
             "logo inspected after compositing; no crop, distortion, or damage",
             "no malformed subject or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-meta-muse-personal-ai",
+      "benchmarkPostId": "2097402706411278438",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097402706411278438",
+      "title": "Meta rolls out Muse personal AI assistant",
+      "status": "ready",
+      "postText": "$META is rolling out Muse, an always-on AI assistant that can browse and connect to your apps.\n\nIt is designed to be fast and secure.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Meta Platforms is rolling out Muse, a new personal AI assistant.",
+        "Muse is described as always-on, able to use a browser and connect to apps.",
+        "Meta describes Muse as fast and designed to be secure."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097402706411278438",
+        "https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/"
+      ],
+      "imagePath": "deliverables/pkg-20260908-meta-muse-personal-ai/when2buy-image-model.png",
+      "createdAt": "2026-09-08T19:27:56Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Premium 1:1 entity-led X financial-news visual for Meta Platforms' Muse personal AI assistant rollout: a single sophisticated smartphone-like personal AI device in a near-black private command room, surrounded by subtle browser and connected-app light pathways; a luminous abstract intelligence core conveys speed, secure connections and always-on availability. Cinematic editorial technology photography, graphite and white rim light with restrained deep-red accents, uncluttered lower-right logo-safe area. No words, letters, numbers, logos, trademarks, app UI, charts, watermark, source attribution, generic radar imagery, damaged objects, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T19:27:56Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led personal-AI device visual",
+            "premium near-black, white, restrained-red palette",
+            "no generated public copy, source attribution, generic radar, or damaged artifacts",
+            "not a pure-text card",
+            "exact repository logo composited once in the lower-right safe area"
           ],
           "result": "passed"
         }
@@ -120299,6 +120383,55 @@
       "deliveryCheck": {
         "postizWindowMinutes": 60,
         "result": "deferred: active circuit breaker until 2026-09-08T19:38:54Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T19:38:54Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T192607Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T19:26:07Z",
+      "completedAt": "2026-09-08T19:26:07Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T192610Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T19:26:10Z",
+      "completedAt": "2026-09-08T19:26:10Z",
+      "summary": "Prepared 68 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T192756Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T19:27:56Z",
+      "completedAt": "2026-09-08T19:27:56Z",
+      "summary": "Produced the newest eligible Meta Muse package with an original image-model visual, exact-logo compositing, and primary-source verification.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T192816Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T19:28:16Z",
+      "completedAt": "2026-09-08T19:28:16Z",
+      "summary": "Apify collection, benchmark-media archive, timestamp-first queue rebuild, newest-package production, content validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T19:38:54Z"
       },
       "circuitBreaker": {
         "active": true,
