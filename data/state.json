@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T23:27:31.002925+00:00",
+  "updatedAt": "2026-09-08T23:46:41.871006+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -121467,11 +121467,52 @@
         "expiresAt": "2026-09-08T23:28:10Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
       }
+    },
+    {
+      "id": "run-20260908T234611Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T23:46:11Z",
+      "completedAt": "2026-09-08T23:46:11Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T234614Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T23:46:14Z",
+      "completedAt": "2026-09-08T23:46:14Z",
+      "summary": "Prepared 73 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T234641Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T23:46:41Z",
+      "completedAt": "2026-09-08T23:46:41Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "HTTP 403; no delivery statuses returned"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-09T00:46:41Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "expiresAt": "2026-09-08T23:28:10Z",
+    "startedAt": "2026-09-08T23:46:41Z",
+    "expiresAt": "2026-09-09T00:46:41Z",
     "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
   }
 }

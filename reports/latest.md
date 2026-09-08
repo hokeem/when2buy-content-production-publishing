@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T23:27:31.002925+00:00`
+- 状态更新：`2026-09-08T23:46:41.871006+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**405**
 - 待选选题：**361**
@@ -2733,6 +2733,9 @@ A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your 
 
 ## 最近运行
 
+- `2026-09-08T23:46:41Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
+- `2026-09-08T23:46:14Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
+- `2026-09-08T23:46:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T23:25:21Z` **full / partial** — Apify collection, media archive, and timestamp-first queue rebuild completed; no new eligible source posts required production and publication was withheld by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T23:27:16Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-08T23:27:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -2750,6 +2753,3 @@ A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your 
 - `2026-09-08T22:26:03Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-08T22:26:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-08T22:07:32Z` **full / partial** — Apify scanned both benchmark feeds, archived available source media, and rebuilt the timestamp-first production queue; no new eligible originals required package production. Publication was withheld by the active 60-minute Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
-- `2026-09-08T22:06:44Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
-- `2026-09-08T22:06:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T21:48:30Z` **full / partial** — Apify collection, benchmark-media archiving, 72-hour metrics pass, and newest-first queue rebuild completed; no new non-promotional item required production. Publication was withheld by the Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
