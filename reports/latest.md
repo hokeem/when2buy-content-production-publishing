@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T07:31:14.417117+00:00`
+- 状态更新：`2026-09-08T07:32:21.454144+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**346**
 - 待选选题：**304**
@@ -2325,6 +2325,7 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 
 ## 最近运行
 
+- `2026-09-08T07:25:00Z` **full / succeeded** — Apify collection, media archive, newest-first queue rebuild, one image-model package, Postiz verification, reporting, and canonical push completed; one X post was published.
 - `2026-09-08T07:31:14.415680+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T07:29:47Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
 - `2026-09-08T07:27:06Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
@@ -2344,4 +2345,3 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 - `2026-09-08T06:06:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
 - `2026-09-08T06:05:47Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
 - `2026-09-08T05:48:28.255210+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-08T05:47:32Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).

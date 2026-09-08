@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T07:31:14.417117+00:00",
+  "updatedAt": "2026-09-08T07:32:21.454144+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -114456,6 +114456,20 @@
       "completedAt": "2026-09-08T07:31:14.415686+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260908T073100Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T07:25:00Z",
+      "completedAt": "2026-09-08T07:31:00Z",
+      "summary": "Apify collection, media archive, newest-first queue rebuild, one image-model package, Postiz verification, reporting, and canonical push completed; one X post was published.",
+      "reason": "",
+      "publication": {
+        "packageId": "pkg-20260908-ethereum-robinhood-chain-bridge-surge",
+        "url": "https://x.com/_When2buy/status/2097226225660158456",
+        "throttle": "one package submitted"
+      }
     }
   ],
   "deliveryCircuitBreaker": {
