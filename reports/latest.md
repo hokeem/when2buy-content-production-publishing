@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T00:09:48.693274+00:00`
+- 状态更新：`2026-09-08T00:26:57.721569+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
@@ -2304,6 +2304,9 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ## 最近运行
 
+- `2026-09-08T00:26:43Z` **full / partial** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no new eligible originals, archived no new media, and rebuilt the 49-item newest-first queue. The newest ready Isar Aerospace package passed the content standard but was not submitted. Origin/main was fetched; rebase was safely deferred because unrelated unstaged workspace changes already existed. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with no public release URL in the preceding 60 minutes; 60-minute circuit breaker remains active until 2026-09-08T01:26:43Z. No post was submitted and accepted deliveries were not retried.
+- `2026-09-08T00:26:13Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-08T00:26:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T00:09:00Z` **review / partial** — Correction to run-20260908T000600Z-full: the Apify collection did complete, adding benchmark post 2097113561960964257 from StockMKTNewz; its media was archived and a ready package was produced. Publication remains withheld by the active delivery circuit breaker. The earlier run record was written before delayed command output became available. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl remain the exact circuit-breaker reason; neither accepted delivery was retried.
 - `2026-09-08T00:05:32Z` **full / partial** — Preflight and state validation passed. Apify collection was invoked for both required benchmark accounts but did not complete within the execution window. No publication was submitted because the preceding-60-minute Postiz query found ERROR deliveries with no public X release URL. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with releaseURL null in the preceding 60 minutes; 60-minute circuit breaker active until 2026-09-08T01:06:45Z. Accepted deliveries were not retried.
 - `2026-09-08T00:07:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -2321,6 +2324,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-07T23:06:35Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T23:06:15Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-07T23:06:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-07T22:47:19Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, metrics refresh, and the single newest-package delivery probe completed; publication did not produce a verified public URL. Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-07T22:45:53Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-07T22:45:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).

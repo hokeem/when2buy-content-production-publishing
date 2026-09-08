@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T00:06:20Z",
+  "generatedAt": "2026-09-08T00:26:13Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -7,14 +7,20 @@
       "rank": 1,
       "benchmarkPostId": "2097113561960964257",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260908-isar-aerospace-western-europe-orbit",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097113561960964257",
       "originalText": "German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend\n\nThis is the first rocket to ever reach orbit from western European soil https://t.co/NsShfe8Ree",
       "originalMediaUrls": [
         "https://pbs.twimg.com/amplify_video_thumb/2096632662400385024/img/UXYXLpOibeiNc7T_.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096632662400385024/img/UXYXLpOibeiNc7T_.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097113561960964257-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 15,
         "replies": 1,
@@ -176,13 +182,13 @@
       "score": 7814,
       "heatScore": 7814,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -232,13 +238,13 @@
       "score": 14151,
       "heatScore": 14151,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
