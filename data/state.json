@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T18:07:43.402202+00:00",
+  "updatedAt": "2026-09-08T18:38:54.710475+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10834,6 +10834,47 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097389837217132992",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097389837217132992",
+      "postedAt": "Tue Sep 08 18:21:19 +0000 2026",
+      "text": "JUST IN: @MetaWin player turns $5 into over $15,000.\n\nThis comes after MetaWin announced they’re giving away another $1,000,000 to players this month.\n\nEveryone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/FDE8Uq98rG",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRts2ZWaIAAk-8o.jpg",
+        "https://pbs.twimg.com/amplify_video_thumb/2097389733240606720/img/_tLkOsOUV9SrVCIc.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 8,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 11585
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T18:26:36Z"
+    },
+    {
+      "id": "2097388417306829126",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097388417306829126",
+      "postedAt": "Tue Sep 08 18:15:40 +0000 2026",
+      "text": "RAMP is reportedly in talks to raise money at a $60 Billion valuation",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 17,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 10607
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T18:26:36Z"
     }
   ],
   "radar": [
@@ -17517,6 +17558,25 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-08T17:52:06Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097388417306829126",
+      "rank": 1,
+      "title": "RAMP is reportedly in talks to raise money at a $60 Billion valuation",
+      "benchmarkPostId": "2097388417306829126",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097388417306829126",
+      "score": 11167,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T18:26:38Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
@@ -25046,6 +25106,43 @@
             "not pure text or generic radar",
             "exact repository logo composited once in lower-right safe area",
             "no damaged logo, malformed subject, or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-ramp-60b-valuation-talks",
+      "benchmarkPostId": "2097388417306829126",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097388417306829126",
+      "title": "RAMP in $60B valuation fundraising talks",
+      "status": "ready",
+      "postText": "RAMP is in talks to raise money at a $60B valuation.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark says RAMP is in talks to raise money.",
+        "The captured benchmark specifies a $60 billion valuation."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097388417306829126",
+        "https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html"
+      ],
+      "imagePath": "deliverables/pkg-20260908-ramp-60b-valuation-talks/when2buy-image-model.png",
+      "createdAt": "2026-09-08T18:38:13Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: square X post visual for a premium U.S. markets publisher. Create one complete, entity-led premium editorial visual for RAMP and its reported $60 billion valuation: a dramatic near-black financial-command-center interior with a realistic stylized corporate expense-card / fintech platform motif, abstract glass capital-raise architecture, subtle trading-terminal depth and dimensional data light trails. Central focal subject with an unobstructed lower-right corner reserved for an externally composited circular logo; no text. Cinematic luxury financial editorial illustration, high contrast white rim lighting and restrained deep-red accents. No visible words, letters, numbers, logos, watermark, UI screenshot, generic radar background, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T18:38:13Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led corporate-fintech visual",
+            "no generated public copy, source attribution, misspelled visible text, or watermark",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once in the lower-right safe area",
+            "logo inspected after compositing; no crop, distortion, or damage"
           ],
           "result": "passed"
         }
@@ -119954,12 +120051,61 @@
         "expiresAt": "2026-09-08T18:10:02Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
       }
+    },
+    {
+      "id": "run-20260908T182636Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T18:26:36Z",
+      "completedAt": "2026-09-08T18:26:36Z",
+      "summary": "Apify scanned both benchmark accounts; captured 7 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T182638Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T18:26:38Z",
+      "completedAt": "2026-09-08T18:26:38Z",
+      "summary": "Prepared 66 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T183813Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T18:38:13Z",
+      "completedAt": "2026-09-08T18:38:13Z",
+      "summary": "Produced the newest timestamp-first RAMP package with an inspected image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T183854Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T18:38:54Z",
+      "completedAt": "2026-09-08T18:38:54Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld because the required 60-minute Postiz delivery-status safety check failed.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "HTTP 403: error code: 1010"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T19:38:54Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "startedAt": "2026-09-08T17:10:02Z",
-    "expiresAt": "2026-09-08T18:10:02Z",
+    "startedAt": "2026-09-08T18:38:54Z",
+    "expiresAt": "2026-09-08T19:38:54Z",
     "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
   }
 }

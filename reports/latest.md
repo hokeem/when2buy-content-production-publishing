@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T18:07:43.402202+00:00`
+- 状态更新：`2026-09-08T18:38:54.710475+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**394**
-- 待选选题：**352**
-- 待发布制作包：**143**
+- 对标帖子快照：**396**
+- 待选选题：**353**
+- 待发布制作包：**144**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 18:15:40 +0000 2026 | RAMP is reportedly in talks to raise money at a $60 Billion valuation | [X](https://x.com/StockMKTNewz/status/2097388417306829126) |
+| @WhaleInsider | Tue Sep 08 18:21:19 +0000 2026 | JUST IN: @MetaWin player turns $5 into over $15,000.  This comes after MetaWin announced they’re giving away another $1,000,000 to players this month.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/FDE8Uq98rG | [X](https://x.com/WhaleInsider/status/2097389837217132992) |
 | @WhaleInsider | Tue Sep 08 17:27:32 +0000 2026 | JUST IN: Robinhood Chain generates 17,171 $ETH ($42.58M) in revenue in 70 days. https://t.co/xP3perdxB0 | [X](https://x.com/WhaleInsider/status/2097376303628390521) |
 | @StockMKTNewz | Tue Sep 08 17:40:53 +0000 2026 | AI startup Cognition raised more than $2B at a valuation of $48 Billion | [X](https://x.com/StockMKTNewz/status/2097379660854157664) |
 | @WhaleInsider | Tue Sep 08 17:05:09 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian media. https://t.co/0lbfexXv8o | [X](https://x.com/WhaleInsider/status/2097370670145347948) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 13:08:36 +0000 2026 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI DATA CENTER SILICON  As a part of the deal Amazon got a warrant for 25 Million Qualcomm shares tied to up to $60 Billion in chip purchases  The warrant is exercisable at $161.26 per share through September 2036. It's structured around actual purchases: Amazon vests shares as it places binding orders and buys Qualcomm's server chip products, technology, systems, and manufacturing services, up to that $60 billion ceiling.  3,750,000 shares vested immediately upon issuance, based on Amazon's initial purchase commitments. The rest vests as the relationship deepens. | [X](https://x.com/StockMKTNewz/status/2097311138782319005) |
 | @StockMKTNewz | Tue Sep 08 12:39:00 +0000 2026 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | [X](https://x.com/StockMKTNewz/status/2097303691522875491) |
 | @StockMKTNewz | Tue Sep 08 12:46:45 +0000 2026 | Apple $AAPL reportedly bought Sonera  "a California company that makes non-invasive sensors that can measure neural signals from the brain" - AppleInsider https://t.co/etiNmAkI8S | [X](https://x.com/StockMKTNewz/status/2097305641819799757) |
-| @WhaleInsider | Tue Sep 08 12:47:12 +0000 2026 | JUST IN: Tom Lee's ‘BitMine’ bought $70 million worth of $ETH last week, bringing its total holdings to $14.7 billion. https://t.co/wyF10L8oTg | [X](https://x.com/WhaleInsider/status/2097305755661566255) |
-| @StockMKTNewz | Tue Sep 08 12:09:04 +0000 2026 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS   Google Cloud $GOOGL and Accenture $ACN just announced they've formed Accenture Gemini Enterprise Business Group  "As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform." - WSJ | [X](https://x.com/StockMKTNewz/status/2097296156157935643) |
 
 ## 选题推荐
 
@@ -115,6 +115,7 @@
 | 1 | JUST IN: Cresta aims to make customer service easier with AI agents that solve problems and … | WhaleInsider | 7358 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian… | WhaleInsider | 8590 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | AI startup Cognition raised more than $2B at a valuation of $48 Billion | StockMKTNewz | 10916 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | RAMP is reportedly in talks to raise money at a $60 Billion valuation | StockMKTNewz | 11167 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2529,6 +2530,13 @@ Cognition raised more than $2B at a $48B valuation.  When2Buy — your U.S. stoc
 
 Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy — your U.S. stock partner.
 
+### RAMP in $60B valuation fundraising talks
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-ramp-60b-valuation-talks/when2buy-image-model.png`
+
+RAMP is in talks to raise money at a $60B valuation.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2675,6 +2683,10 @@ Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy 
 
 ## 最近运行
 
+- `2026-09-08T18:38:54Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld because the required 60-minute Postiz delivery-status safety check failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T18:38:13Z` **produce / succeeded** — Produced the newest timestamp-first RAMP package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-08T18:26:38Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
+- `2026-09-08T18:26:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 2 new post(s).
 - `2026-09-08T18:07:43Z` **full / partial** — Apify scanned both benchmark accounts, archived available benchmark media, and rebuilt the timestamp-first production queue; no new eligible source posts required package production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T18:06:48Z` **queue / succeeded** — Prepared 65 one-to-one production candidate(s).
 - `2026-09-08T18:06:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
@@ -2691,7 +2703,3 @@ Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy 
 - `2026-09-08T17:09:25Z` **produce / succeeded** — Produced two newest eligible Apify benchmark packages with image-model visuals and exact-logo compositing.
 - `2026-09-08T17:06:40Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
 - `2026-09-08T17:06:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 1 new post(s).
-- `2026-09-08T16:56:52Z` **full / partial** — Apify collection, media archive, limited 72-hour metrics collection, timestamp-first queue rebuild, and three image-model packages completed; the one-post publication throttle was safely deferred while the circuit breaker is active. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T16:56:06Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
-- `2026-09-08T16:56:04Z` **produce / succeeded** — Produced the three newest timestamp-first benchmark packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-08T16:55:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 4 new post(s).
