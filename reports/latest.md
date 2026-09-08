@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T02:07:58.503114+00:00`
+- 状态更新：`2026-09-08T02:26:56.809126+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
-- 待发布制作包：**106**
-- 已验证发布：**134**
+- 待发布制作包：**105**
+- 已验证发布：**135**
 
 ## 对标账号扫描
 
@@ -2138,7 +2138,7 @@ $XRP futures activity just reached a six-month high as price volatility accelera
 
 ### Jets playoff prediction contract offers $136 on $1,000 stake
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-jets-playoff-prediction-market/when2buy-image-model.png`
 
 A $1,000 prediction-market contract on the New York Jets missing the playoffs would pay $1,136 if it settles that way.  That is a $136 return over roughly four months.  When2Buy — your U.S. stock partner.
@@ -2303,9 +2303,13 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095805634109382831) |
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097144732816474500) |
+| Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097149656405008457) |
 
 ## 最近运行
 
+- `2026-09-08T02:26:56.806375+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-08T02:25:56Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
+- `2026-09-08T02:25:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-08T02:07:00Z` **full / succeeded** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no eligible originals, rebuilt the 48-item newest-first queue, and one newest ready package was published and verified with a public X URL.
 - `2026-09-08T02:07:23.097625+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T02:06:21Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
@@ -2323,6 +2327,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T00:47:38.804876Z` **full / partial** — Preflight and state validation passed. The Asia/Shanghai :45 metrics pass appended 82 numeric Postiz observations for 49 releases within their 72-hour windows. Apify scanned both required benchmark accounts, added no eligible originals, and rebuilt the 49-item newest-first queue. The newest ready Isar Aerospace package passed the content standard but was not submitted. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-08T00:46:53Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-08T00:46:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-08T00:46:46Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-08T00:46:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-08T00:26:43Z` **full / partial** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no new eligible originals, archived no new media, and rebuilt the 49-item newest-first queue. The newest ready Isar Aerospace package passed the content standard but was not submitted. Origin/main was fetched; rebase was safely deferred because unrelated unstaged workspace changes already existed. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with no public release URL in the preceding 60 minutes; 60-minute circuit breaker remains active until 2026-09-08T01:26:43Z. No post was submitted and accepted deliveries were not retried.
