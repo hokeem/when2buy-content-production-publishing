@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T15:16:00.602054+00:00`
+- 状态更新：`2026-09-08T15:30:53.066384+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**377**
-- 待选选题：**335**
-- 待发布制作包：**131**
+- 对标帖子快照：**379**
+- 待选选题：**337**
+- 待发布制作包：**133**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 15:20:43 +0000 2026 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge as the chain’s native PENGUIN. 19% of the supply has been burned. https://t.co/43Pf0eDuGo | [X](https://x.com/WhaleInsider/status/2097344386354802890) |
+| @StockMKTNewz | Tue Sep 08 15:22:08 +0000 2026 | Lebron James is now working with Polymarket | [X](https://x.com/StockMKTNewz/status/2097344742673494213) |
 | @StockMKTNewz | Tue Sep 08 14:54:59 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/JWNTkIR8Ec | [X](https://x.com/StockMKTNewz/status/2097337913184768120) |
 | @StockMKTNewz | Tue Sep 08 15:00:52 +0000 2026 | $AMD stock is now up by more than 5% and back over $500  🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl | [X](https://x.com/StockMKTNewz/status/2097339391756718541) |
 | @StockMKTNewz | Tue Sep 08 14:28:53 +0000 2026 | I am now down just 28% on my $TE shares 🫡👜 | [X](https://x.com/StockMKTNewz/status/2097331343088578889) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 10:43:47 +0000 2026 | Mistral AI is now worth more than $24.3 Billion | [X](https://x.com/StockMKTNewz/status/2097274693912858661) |
 | @StockMKTNewz | Tue Sep 08 10:23:15 +0000 2026 | Samsung and Taiwan Semiconductor, the world’s two biggest chipmakers, have committed to using $ASML’s High NA extreme ultraviolet (EUV) lithography machines - CNBC https://t.co/lZKGm9B2XO | [X](https://x.com/StockMKTNewz/status/2097269529998946681) |
 | @WhaleInsider | Tue Sep 08 09:48:55 +0000 2026 | JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meeting - Kyodo News. https://t.co/3RvprXmSCJ | [X](https://x.com/WhaleInsider/status/2097260887690113057) |
-| @WhaleInsider | Tue Sep 08 09:21:16 +0000 2026 | JUST IN: $BTC short-term whale profits hit record $9.07 billion, increasing risk of a sell-off - CryptoQuant. https://t.co/WcdRi9WxqD | [X](https://x.com/WhaleInsider/status/2097253930233151772) |
-| @WhaleInsider | Tue Sep 08 08:55:05 +0000 2026 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fees over the past 15 days. https://t.co/8CoQElRl79 | [X](https://x.com/WhaleInsider/status/2097247338762809344) |
 
 ## 选题推荐
 
@@ -108,6 +108,7 @@
 | 1 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. ht… | WhaleInsider | 19463 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $188,000,000 worth of long positions liquidated from the crypto market in the past … | WhaleInsider | 17522 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | $AMD stock is now up by more than 5% and back over $500 🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl | StockMKTNewz | 8728 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Lebron James is now working with Polymarket | StockMKTNewz | 6979 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -142,6 +143,7 @@
 | 2 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from… | WhaleInsider | 28101 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | I am now down just 28% on my $TE shares 🫡👜 | StockMKTNewz | 14630 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading htt… | StockMKTNewz | 11078 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge… | WhaleInsider | 15229 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2421,6 +2423,20 @@ $AMD is up more than 5% and back above $500.  When2Buy — your U.S. stock partn
 
 Here is how every S&P 500 stock is performing in early trading.  When2Buy — your U.S. stock partner.
 
+### $PENGUIN goes live on Robinhood Chain
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-penguin-robinhood-chain-burn/when2buy-image-model.png`
+
+$PENGUIN is now live on Robinhood Chain.  19% of its supply has been burned.  When2Buy — your U.S. stock partner.
+
+### LeBron James works with Polymarket
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-lebron-polymarket-partnership/when2buy-image-model.png`
+
+LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2567,6 +2583,11 @@ Here is how every S&P 500 stock is performing in early trading.  When2Buy — yo
 
 ## 最近运行
 
+- `2026-09-08T15:30:53Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T15:30:52Z` **produce / succeeded** — Apify collection, media archive, timestamp-first queue rebuild, and two new complete image-model packages completed.
+- `2026-09-08T15:30:22Z` **produce / succeeded** — Apify collection, media archive, timestamp-first queue rebuild, and two new complete image-model packages completed.
+- `2026-09-08T15:26:07Z` **queue / succeeded** — Prepared 74 one-to-one production candidate(s).
+- `2026-09-08T15:26:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
 - `2026-09-08T15:16:00Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T15:15:11Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
 - `2026-09-08T15:15:11Z` **produce / succeeded** — Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.
@@ -2582,8 +2603,3 @@ Here is how every S&P 500 stock is performing in early trading.  When2Buy — yo
 - `2026-09-08T14:29:19Z` **produce / succeeded** — Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-08T14:28:47Z` **produce / succeeded** — Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-08T14:26:23Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
-- `2026-09-08T14:26:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
-- `2026-09-08T14:11:11Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and three image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T14:10:41Z` **produce / succeeded** — Archived benchmark media and produced 3 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-08T14:06:44Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
-- `2026-09-08T14:06:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).

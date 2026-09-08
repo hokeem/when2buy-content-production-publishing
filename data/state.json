@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T15:16:00.602054+00:00",
+  "updatedAt": "2026-09-08T15:30:53.066384+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10380,6 +10380,60 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097344742673494213",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097344742673494213",
+      "postedAt": "Tue Sep 08 15:22:08 +0000 2026",
+      "text": "Lebron James is now working with Polymarket",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 6779
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T15:26:06Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097344386354802890",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097344386354802890",
+      "postedAt": "Tue Sep 08 15:20:43 +0000 2026",
+      "text": "JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge as the chain’s native PENGUIN. 19% of the supply has been burned. https://t.co/43Pf0eDuGo",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRtDmCBXgAAva75.jpg",
+        "https://pbs.twimg.com/media/HRtDmCIXIAAodk6.jpg"
+      ],
+      "engagement": {
+        "likes": 52,
+        "replies": 22,
+        "reposts": 14,
+        "quotes": 4,
+        "views": 12369
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T15:26:06Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRtDmCBXgAAva75.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097344386354802890-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRtDmCIXIAAodk6.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097344386354802890-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -16745,6 +16799,44 @@
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097344742673494213",
+      "rank": 1,
+      "title": "Lebron James is now working with Polymarket",
+      "benchmarkPostId": "2097344742673494213",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097344742673494213",
+      "score": 6979,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T15:26:07Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2097344386354802890",
+      "rank": 2,
+      "title": "JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge…",
+      "benchmarkPostId": "2097344386354802890",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097344386354802890",
+      "score": 15229,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T15:26:07Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -23809,6 +23901,77 @@
         "qaStatus": "passed",
         "qa": {
           "inspectedAt": "2026-09-08T15:15:11Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once in lower-right safe area",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-penguin-robinhood-chain-burn",
+      "benchmarkPostId": "2097344386354802890",
+      "title": "$PENGUIN goes live on Robinhood Chain",
+      "postText": "$PENGUIN is now live on Robinhood Chain.\n\n19% of its supply has been burned.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark says $PENGUIN is now live on Robinhood Chain.",
+        "The captured benchmark says 19% of the supply has been burned."
+      ],
+      "imagePath": "deliverables/pkg-20260908-penguin-robinhood-chain-burn/when2buy-image-model.png",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097344386354802890",
+      "status": "ready",
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097344386354802890"
+      ],
+      "createdAt": "2026-09-08T15:30:22Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Original premium 1:1 entity-led digital-asset visual for $PENGUIN becoming live on Robinhood Chain with 19% supply burned: graphite penguin token sculpture, subtle blockchain links and restrained deep-red burn embers in a near-black institutional exchange setting, white rim light, uncluttered lower-right logo-safe area, no public text, letters, numbers, logos, watermark, people, generic radar, chart, or damaged artifacts.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T15:30:22Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once in lower-right safe area",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-lebron-polymarket-partnership",
+      "benchmarkPostId": "2097344742673494213",
+      "title": "LeBron James works with Polymarket",
+      "postText": "LeBron James is now working with Polymarket.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark says LeBron James is now working with Polymarket."
+      ],
+      "imagePath": "deliverables/pkg-20260908-lebron-polymarket-partnership/when2buy-image-model.png",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097344742673494213",
+      "status": "ready",
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097344742673494213"
+      ],
+      "createdAt": "2026-09-08T15:30:22Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Original premium 1:1 entity-led visual for an athlete partnership with Polymarket: anonymous basketball silhouette viewed from behind in a near-black prediction-market studio, abstract probability orbs and geometric market grid, white rim light and restrained deep-red accents, uncluttered lower-right logo-safe area, no text, letters, numbers, company logos, watermark, real-person likeness, generic radar, chart, or damaged artifacts.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T15:30:22Z",
           "checks": [
             "square 1254x1254 PNG",
             "complete entity-led visual",
@@ -118207,6 +118370,64 @@
       "status": "partial",
       "startedAt": "2026-09-08T15:16:00Z",
       "completedAt": "2026-09-08T15:16:00Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T15:50:03Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T15:50:03Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T152606Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T15:26:06Z",
+      "completedAt": "2026-09-08T15:26:06Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T152607Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T15:26:07Z",
+      "completedAt": "2026-09-08T15:26:07Z",
+      "summary": "Prepared 74 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T153022Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T15:30:22Z",
+      "completedAt": "2026-09-08T15:30:22Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two new complete image-model packages completed.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T153052Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T15:30:52Z",
+      "completedAt": "2026-09-08T15:30:52Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two new complete image-model packages completed.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T153053Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-08T15:30:53Z",
+      "completedAt": "2026-09-08T15:30:53Z",
       "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker.",
       "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
       "deliveryCheck": {
