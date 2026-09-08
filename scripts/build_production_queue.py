@@ -15,6 +15,7 @@ PROMOTION_MARKERS = (
     "free to enter", "deposit bonus", "deposit bonuses", "cash prize",
     "send me a dm", "join my", "sign up", "use code", "giveaway",
     "airdrop announcement", "qualifies", "will go out to their players",
+    "our partners", "partner over at", "partnership with",
 )
 
 def now(): return datetime.now(timezone.utc)
@@ -61,6 +62,32 @@ def score(post):
     total = freshness + fit + market + visual + clarity
     return total, {"freshness": freshness, "when2buyFit": fit, "marketImpact": market, "visualPotential": visual, "factualClarity": clarity}
 
+def topic_tokens(text):
+    """A conservative event fingerprint for suppressing repeat source alerts.
+
+    The discovery archive remains append-only, but a second alert that merely
+    spells an already-covered item differently must not re-enter production.
+    """
+    clean = re.sub(r"https?://\S+", "", str(text).lower())
+    clean = clean.replace("$", "")
+    clean = re.sub(r"\beth\b", "ethereum", clean)
+    clean = re.sub(r"\bjust in\b", "", clean)
+    return {word for word in re.findall(r"[a-z0-9]+", clean) if len(word) > 2}
+
+def duplicates_covered_event(post, packages, benchmark_posts):
+    tokens = topic_tokens(post.get("text", ""))
+    if not tokens:
+        return False
+    by_id = {str(item.get("id")): item for item in benchmark_posts}
+    for package in packages.values():
+        source = by_id.get(str(package.get("benchmarkPostId")))
+        if not source or str(source.get("id")) == str(post.get("id")):
+            continue
+        other = topic_tokens(source.get("text", ""))
+        if other and len(tokens & other) / len(tokens | other) >= 0.8:
+            return True
+    return False
+
 def main():
     current = state.load_state()
     packages = {str(x.get("benchmarkPostId")): x for x in current.get("packages", [])}
@@ -71,7 +98,7 @@ def main():
         package = packages.get(str(post.get("id")))
         text = str(post.get("text") or "").lower()
         is_promotion = any(marker in text for marker in PROMOTION_MARKERS)
-        if post.get("isPinned") or is_promotion or (package and package.get("status") in {"published", "blocked", "failed"}) or (posted and now() - posted > timedelta(hours=72)):
+        if post.get("isPinned") or is_promotion or duplicates_covered_event(post, packages, current.get("benchmarkPosts", [])) or (package and package.get("status") in {"published", "blocked", "failed"}) or (posted and now() - posted > timedelta(hours=72)):
             continue
         editorial_total, breakdown = score(post)
         total = heat_score(post)

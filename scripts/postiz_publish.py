@@ -21,7 +21,19 @@ def upload(path):
  body=(f'--{boundary}\r\nContent-Disposition: form-data; name="file"; filename="{path.name}"\r\nContent-Type: {mime}\r\n\r\n').encode()+path.read_bytes()+f'\r\n--{boundary}--\r\n'.encode()
  return request('/upload','POST',body,f'multipart/form-data; boundary={boundary}')
 def main():
- p=argparse.ArgumentParser();p.add_argument('--package-id',required=True);p.add_argument('--confirm',action='store_true',help='required acknowledgement of current publishing authorization');p.add_argument('--wait-seconds',type=int,default=90);a=p.parse_args()
+ p=argparse.ArgumentParser();p.add_argument('--package-id');p.add_argument('--confirm',action='store_true',help='required acknowledgement of current publishing authorization');p.add_argument('--wait-seconds',type=int,default=90);p.add_argument('--delivery-check-only',action='store_true',help='inspect X delivery state in the preceding 60 minutes without submitting');a=p.parse_args()
+ if a.delivery_check_only:
+  end=datetime.now(timezone.utc); start=end-timedelta(minutes=60)
+  posts=request(f"/posts?startDate={start.isoformat().replace('+00:00','Z')}&endDate={end.isoformat().replace('+00:00','Z')}").get('posts',[])
+  x_posts=[]
+  for item in posts:
+   integrations=item.get('integration') or item.get('integrations') or []
+   encoded=json.dumps(integrations).lower()
+   if '"identifier": "x"' in encoded or '"identifier":"x"' in encoded or 'x.com' in str(item.get('releaseURL','')):
+    x_posts.append({'id':item.get('id'),'state':item.get('state'),'releaseURL':item.get('releaseURL'),'publishDate':item.get('publishDate')})
+  print(json.dumps({'windowMinutes':60,'xDeliveries':x_posts}))
+  return
+ if not a.package_id: raise SystemExit('--package-id is required unless --delivery-check-only is used.')
  if not a.confirm: raise SystemExit('Refusing to publish without --confirm.')
  s=state.load_state(); pkg=next((x for x in s['packages'] if x.get('id')==a.package_id),None)
  if not pkg or pkg.get('status')!='ready': raise SystemExit('Package must exist and be status=ready.')

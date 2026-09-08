@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T16:16:12.000938+00:00`
+- 状态更新：`2026-09-08T16:31:09.437401+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**384**
-- 待选选题：**342**
-- 待发布制作包：**135**
+- 对标帖子快照：**387**
+- 待选选题：**345**
+- 待发布制作包：**136**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 16:17:07 +0000 2026 | SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND | [X](https://x.com/StockMKTNewz/status/2097358581230121166) |
+| @StockMKTNewz | Tue Sep 08 16:23:24 +0000 2026 | I am ready for the NFL to be back  Our partners over at Polymarket just announced a new partnership with Lebron James and more | [X](https://x.com/StockMKTNewz/status/2097360162986066049) |
+| @WhaleInsider | Tue Sep 08 16:24:37 +0000 2026 | JUST IN: Dev behind billion-dollar PEPE on Ethereum joins Artificial Pepe $AP. https://t.co/dAzjEyECFl | [X](https://x.com/WhaleInsider/status/2097360470617244078) |
 | @StockMKTNewz | Tue Sep 08 16:05:12 +0000 2026 | Lebron James is now working with our partners over at Polymarket | [X](https://x.com/StockMKTNewz/status/2097355583498113152) |
 | @WhaleInsider | Tue Sep 08 16:05:15 +0000 2026 | JUST IN: Dev behind billion-dollar PEPE on ETH joins Artificial Pepe $AP. https://t.co/G4ZbzBNKEL | [X](https://x.com/WhaleInsider/status/2097355596462690504) |
 | @StockMKTNewz | Tue Sep 08 15:32:54 +0000 2026 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | [X](https://x.com/StockMKTNewz/status/2097347451963289915) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 12:05:07 +0000 2026 | Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction market business - WSJ https://t.co/NwQy1JcXET | [X](https://x.com/StockMKTNewz/status/2097295164846813684) |
 | @StockMKTNewz | Tue Sep 08 11:33:34 +0000 2026 | $UBER COO Andrew Macdonald spent $5.31 Million to buy 70,000 shares of Uber stock at an average cost of ~$75.83 per share https://t.co/8dzhl6prTf | [X](https://x.com/StockMKTNewz/status/2097287222324027862) |
 | @StockMKTNewz | Tue Sep 08 11:43:20 +0000 2026 | Goldman Sachs today raised its price target on Robinhood $HOOD up to $142 from $124 while maintaining its Buy rating | [X](https://x.com/StockMKTNewz/status/2097289682795004293) |
-| @StockMKTNewz | Tue Sep 08 11:06:49 +0000 2026 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP  Palantir named Nebius "its preferred sovereign AI infrastructure partner" which will bring "Nebius's AI-native compute infrastructure and cloud platform to Palantir's commercial customers." https://t.co/UYxA721ojU | [X](https://x.com/StockMKTNewz/status/2097280493431501087) |
-| @StockMKTNewz | Tue Sep 08 11:20:52 +0000 2026 | The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at least 1998 - Bloomberg https://t.co/neDllquazz | [X](https://x.com/StockMKTNewz/status/2097284027023560809) |
-| @StockMKTNewz | Tue Sep 08 10:54:27 +0000 2026 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - Goldman Sachs | [X](https://x.com/StockMKTNewz/status/2097277378934231391) |
 
 ## 选题推荐
 
@@ -111,6 +111,7 @@
 | 1 | Lebron James is now working with Polymarket | StockMKTNewz | 6979 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | THIS IS WHO GAVE THE KEYNOTE AT EVERY APPLE $AAPL IPHONE LAUNCH EVENT 2007: Steve Jobs 2008:… | StockMKTNewz | 4900 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Dev behind billion-dollar PEPE on ETH joins Artificial Pepe $AP. https://t.co/G4Zbz… | WhaleInsider | 10345 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Dev behind billion-dollar PEPE on Ethereum joins Artificial Pepe $AP. https://t.co/… | WhaleInsider | 10855 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -148,6 +149,7 @@
 | 2 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge… | WhaleInsider | 15229 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market p… | WhaleInsider | 15143 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Lebron James is now working with our partners over at Polymarket | StockMKTNewz | 5476 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | I am ready for the NFL to be back Our partners over at Polymarket just announced a new partn… | StockMKTNewz | 5675 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -167,6 +169,7 @@
 | 3 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | StockMKTNewz | 11195 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | StockMKTNewz | 18492 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | StockMKTNewz | 13267 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND | StockMKTNewz | 10897 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2463,6 +2466,13 @@ The developer behind the billion-dollar $PEPE project on Ethereum has joined Art
 
 LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partner.
 
+### Samsung leads Mistral AI's €3B Series D
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-samsung-mistral-ai-equity/when2buy-image-model.png`
+
+Samsung led Mistral AI's €3B Series D at a valuation above €21B.  The funding round also includes Scaleup Europe Fund and PSG Equity.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2609,6 +2619,12 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 
 ## 最近运行
 
+- `2026-09-08T16:25:28Z` **full / partial** — Apify scanned both benchmark feeds, archived available source media, rebuilt the timestamp-first queue, excluded a promotional partner post and a duplicate event, and produced one verified image-model package. No publication was submitted. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden (error code: 1010); no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T16:29:46Z` **queue / succeeded** — Prepared 58 one-to-one production candidate(s).
+- `2026-09-08T16:29:32Z` **queue / succeeded** — Prepared 59 one-to-one production candidate(s).
+- `2026-09-08T16:29:02Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
+- `2026-09-08T16:26:43Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
+- `2026-09-08T16:26:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 3 new post(s).
 - `2026-09-08T16:16:11Z` **queue / succeeded** — Prepared 61 one-to-one production candidate(s).
 - `2026-09-08T16:16:11Z` **queue / succeeded** — Retained the duplicate benchmark capture for audit and excluded its duplicate Polymarket package from the timestamp-first production queue.
 - `2026-09-08T16:14:36Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and two new image-model packages completed; publication was deferred by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
@@ -2623,9 +2639,3 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 - `2026-09-08T15:46:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 3 new post(s).
 - `2026-09-08T15:45:37Z` **queue / succeeded** — Prepared 74 one-to-one production candidate(s).
 - `2026-09-08T15:30:53Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T15:30:52Z` **produce / succeeded** — Apify collection, media archive, timestamp-first queue rebuild, and two new complete image-model packages completed.
-- `2026-09-08T15:30:22Z` **produce / succeeded** — Apify collection, media archive, timestamp-first queue rebuild, and two new complete image-model packages completed.
-- `2026-09-08T15:26:07Z` **queue / succeeded** — Prepared 74 one-to-one production candidate(s).
-- `2026-09-08T15:26:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
-- `2026-09-08T15:16:00Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T15:15:11Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
