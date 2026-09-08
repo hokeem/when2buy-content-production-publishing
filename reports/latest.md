@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T18:38:54.710475+00:00`
+- 状态更新：`2026-09-08T18:49:31.736404+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**396**
 - 待选选题：**353**
@@ -2683,6 +2683,10 @@ RAMP is in talks to raise money at a $60B valuation.  When2Buy — your U.S. sto
 
 ## 最近运行
 
+- `2026-09-08T18:49:03Z` **full / partial** — Apify scanned both benchmark accounts, archived available media, rebuilt the newest-first queue, refreshed eligible 72-hour metrics, and retained the newest ready package for a later probe. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T18:49:03Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
+- `2026-09-08T18:48:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
+- `2026-09-08T18:46:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-08T18:38:54Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld because the required 60-minute Postiz delivery-status safety check failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T18:38:13Z` **produce / succeeded** — Produced the newest timestamp-first RAMP package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-08T18:26:38Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
@@ -2699,7 +2703,3 @@ RAMP is in talks to raise money at a $60B valuation.  When2Buy — your U.S. sto
 - `2026-09-08T17:26:15Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
 - `2026-09-08T17:26:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 0 new post(s).
 - `2026-09-08T17:10:02Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld after the required Postiz delivery-status query failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T17:09:27Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
-- `2026-09-08T17:09:25Z` **produce / succeeded** — Produced two newest eligible Apify benchmark packages with image-model visuals and exact-logo compositing.
-- `2026-09-08T17:06:40Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
-- `2026-09-08T17:06:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 1 new post(s).
