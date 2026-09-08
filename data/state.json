@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T09:51:09.561717+00:00",
+  "updatedAt": "2026-09-08T10:08:59.773585+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9626,6 +9626,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097260887690113057",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097260887690113057",
+      "postedAt": "Tue Sep 08 09:48:55 +0000 2026",
+      "text": "JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meeting - Kyodo News. https://t.co/3RvprXmSCJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRr3p2NWEAAQe4y.jpg",
+        "https://pbs.twimg.com/media/HRr3p2wbIAA2AV-.jpg"
+      ],
+      "engagement": {
+        "likes": 57,
+        "replies": 21,
+        "reposts": 12,
+        "quotes": 1,
+        "views": 15438
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T10:06:06Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRr3p2NWEAAQe4y.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097260887690113057-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRr3p2wbIAA2AV-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097260887690113057-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -15459,6 +15493,25 @@
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097260887690113057",
+      "rank": 1,
+      "title": "JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meet…",
+      "benchmarkPostId": "2097260887690113057",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097260887690113057",
+      "score": 18078,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T10:06:07Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -21578,6 +21631,43 @@
             "not a pure-text or generic-radar layout",
             "exact repository logo composited once in lower-right clear space",
             "no damaged or malformed object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-boj-september-rate-signal",
+      "benchmarkPostId": "2097260887690113057",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097260887690113057",
+      "title": "Bank of Japan September rate signal",
+      "status": "ready",
+      "postText": "Bank of Japan is weighing a 0.25-point rate hike at its Sept. 17-18 meeting.\n\nA move from 1.00% to 1.25% would put global rate markets on alert.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The Bank of Japan is weighing a 0.25 percentage-point rate increase at its September meeting.",
+        "The potential move is from 1.00 percent to 1.25 percent, with the meeting scheduled for September 17-18."
+      ],
+      "verificationSources": [
+        "https://www.boj.or.jp/en/",
+        "https://www.boj.or.jp/en/mopo/mpmsche_minu/",
+        "https://www.nippon.com/en/news/yjj2026090400739/boj-to-consider-rate-hike-in-earnest-at-sept-17-18-meeting.html"
+      ],
+      "imagePath": "deliverables/pkg-20260908-boj-september-rate-signal/when2buy-image-model.png",
+      "createdAt": "2026-09-08T10:08:14Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium 1:1 X financial-news editorial visual for When2Buy\nPrimary request: an original text-free visual for the Bank of Japan's September policy meeting and a possible 0.25 percentage-point rate move. This visual must not make a trade recommendation.\nScene/backdrop: near-black, cinematic Tokyo financial district at night with a minimal abstract central-bank building facade, faint rain on glass, and one restrained deep-red rising arc of reflected light.\nSubject: a single elegant unbranded Japanese-yen coin-like disc with a completely blank face -- no characters, no currency symbol -- resting on a black stone desk beside one thin, closed blank policy folder. Convey monetary-policy tension through the scene, not through charts or text.\nStyle/medium: premium institutional finance photography, realistic materials, sharp white rim light, controlled deep-red accent, clean editorial composition.\nComposition/framing: exact 1:1 square; place the disc and policy folder center-left. Keep the lower-right 20 percent entirely clean near-black empty space for one logo added later.\nText: none.\nConstraints: absolutely no readable text, pseudo-text, letters, numbers, currency marks, logos, watermarks, user interfaces, charts, source names, source handles, URLs, attribution, disclaimer, CTA, people, generic radar graphics, pure-typography card layout, or malformed/damaged objects. Ensure a complete square canvas.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T10:08:14Z",
+          "checks": [
+            "square 1254x1254 visual inspected after image-model generation and after logo compositing",
+            "entity-led Bank of Japan policy scene with an intact blank coin, policy folder, central-bank facade, and Tokyo context",
+            "no generated readable text, pseudo-text, attribution, source handle, or URL",
+            "premium near-black palette with restrained red policy-risk accent",
+            "not a pure-text or generic-radar layout",
+            "exact repository logo composited once in the lower-right clear space",
+            "no damaged logo or malformed objects"
           ]
         }
       }
@@ -115080,6 +115170,50 @@
       "metrics": {
         "scheduled": true,
         "result": "No numeric snapshot appended: Postiz analytics returned HTTP 403 and public X pages exposed no parseable numeric counters."
+      }
+    },
+    {
+      "id": "run-20260908T100606Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T10:06:06Z",
+      "completedAt": "2026-09-08T10:06:06Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T100607Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T10:06:07Z",
+      "completedAt": "2026-09-08T10:06:07Z",
+      "summary": "Prepared 49 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T100814Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T10:08:14Z",
+      "completedAt": "2026-09-08T10:08:14Z",
+      "summary": "Produced the newest Bank of Japan September-rate package with an inspected image-model visual and one exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T100859Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T10:08:59Z",
+      "completedAt": "2026-09-08T10:08:59Z",
+      "summary": "Apify collection, media archiving, timestamp-first queue rebuild, Bank of Japan package production, delivery-window check, and the one permitted Postiz probe completed; publication did not yield a verified public X URL.",
+      "reason": "Postiz X publication probe for pkg-20260908-boj-september-rate-signal was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "HTTP 403 (error code: 1010); no delivery statuses returned"
       }
     }
   ],

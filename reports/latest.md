@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T09:51:09.561717+00:00`
+- 状态更新：`2026-09-08T10:08:59.773585+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**349**
-- 待选选题：**307**
-- 待发布制作包：**104**
+- 对标帖子快照：**350**
+- 待选选题：**308**
+- 待发布制作包：**105**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 09:48:55 +0000 2026 | JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meeting - Kyodo News. https://t.co/3RvprXmSCJ | [X](https://x.com/WhaleInsider/status/2097260887690113057) |
 | @WhaleInsider | Tue Sep 08 09:21:16 +0000 2026 | JUST IN: $BTC short-term whale profits hit record $9.07 billion, increasing risk of a sell-off - CryptoQuant. https://t.co/WcdRi9WxqD | [X](https://x.com/WhaleInsider/status/2097253930233151772) |
 | @WhaleInsider | Tue Sep 08 08:55:05 +0000 2026 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fees over the past 15 days. https://t.co/8CoQElRl79 | [X](https://x.com/WhaleInsider/status/2097247338762809344) |
 | @WhaleInsider | Tue Sep 08 08:19:11 +0000 2026 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-card platforms - Economic Times. https://t.co/SU5cr4MxeS | [X](https://x.com/WhaleInsider/status/2097238305305755671) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Mon Sep 07 15:17:09 +0000 2026 | JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Partner Directory. https://t.co/BkbUhbnb4u | [X](https://x.com/WhaleInsider/status/2096981101445001600) |
 | @WhaleInsider | Mon Sep 07 14:54:13 +0000 2026 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglomerate, is building a tokenization platform on Avalanche as South Korea accelerates plans to bring securities onchain. | [X](https://x.com/WhaleInsider/status/2096975330858692621) |
 | @StockMKTNewz | Mon Sep 07 15:01:20 +0000 2026 | Caterpillar stock is currently the 2nd BEST performing stock in the Dow Jones so far in 2026  🥈 Caterpillar $CAT: +42%🟢 https://t.co/MezJT5h6W8 | [X](https://x.com/StockMKTNewz/status/2096977122342400266) |
-| @WhaleInsider | Mon Sep 07 14:27:58 +0000 2026 | JUST IN: 🇺🇸 U.S. consumers have spent an estimated $100,000,000,000 more on fuel since February 28th due to the Iran war. https://t.co/4fstiFR0rT | [X](https://x.com/WhaleInsider/status/2096968726939652174) |
 
 ## 选题推荐
 
@@ -94,6 +94,7 @@
 | 1 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-c… | WhaleInsider | 13352 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fee… | WhaleInsider | 15042 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $BTC short-term whale profits hit record $9.07 billion, increasing risk of a sell-o… | WhaleInsider | 12439 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meet… | WhaleInsider | 18078 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2204,6 +2205,13 @@ $HOOD has generated $33M in Robinhood Chain fees over the past 15 days.  Bernste
 
 $BTC short-term whale profits just hit a record $9.07B.  The build-up raises the risk of a sell-off.  When2Buy — your U.S. stock partner.
 
+### Bank of Japan September rate signal
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-boj-september-rate-signal/when2buy-image-model.png`
+
+Bank of Japan is weighing a 0.25-point rate hike at its Sept. 17-18 meeting.  A move from 1.00% to 1.25% would put global rate markets on alert.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2350,6 +2358,10 @@ $BTC short-term whale profits just hit a record $9.07B.  The build-up raises the
 
 ## 最近运行
 
+- `2026-09-08T10:08:59Z` **full / partial** — Apify collection, media archiving, timestamp-first queue rebuild, Bank of Japan package production, delivery-window check, and the one permitted Postiz probe completed; publication did not yield a verified public X URL. Postiz X publication probe for pkg-20260908-boj-september-rate-signal was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.
+- `2026-09-08T10:08:14Z` **produce / succeeded** — Produced the newest Bank of Japan September-rate package with an inspected image-model visual and one exact-logo composite.
+- `2026-09-08T10:06:07Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-08T10:06:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-08T09:49:28Z` **full / partial** — Apify collection, media archival, timestamp-first queue rebuild, and :45 Postiz-first metrics collection completed; the sole newest-package Postiz probe did not produce a verified public X URL. Postiz X publication probe for pkg-20260908-btc-short-term-whale-profit-risk was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.
 - `2026-09-08T09:48:31Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
 - `2026-09-08T09:48:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2366,7 +2378,3 @@ $BTC short-term whale profits just hit a record $9.07B.  The build-up raises the
 - `2026-09-08T08:47:49Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T08:47:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T08:28:26Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
-- `2026-09-08T08:28:26Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T08:26:05Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T08:26:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-08T08:08:37Z` **full / partial** — Apify collection, media archive, queue rebuild, report rendering, and delivery safeguards completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
