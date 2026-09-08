@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T07:47:25.816336+00:00",
+  "updatedAt": "2026-09-08T08:08:37.326574+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -114562,13 +114562,58 @@
       "completedAt": "2026-09-08T07:47:25.814724+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260908T080558Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T08:05:58Z",
+      "completedAt": "2026-09-08T08:05:58Z",
+      "summary": "Prepared 45 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T080742Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T08:07:42Z",
+      "completedAt": "2026-09-08T08:07:42Z",
+      "summary": "Apify scanned both benchmark accounts; captured 72 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T080742Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T08:07:42Z",
+      "completedAt": "2026-09-08T08:07:42Z",
+      "summary": "Prepared 45 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T080837Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T08:08:37Z",
+      "completedAt": "2026-09-08T08:08:37Z",
+      "summary": "Apify collection, media archive, queue rebuild, report rendering, and delivery safeguards completed; publication was withheld by the Postiz delivery circuit breaker.",
+      "reason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T09:08:37Z",
+        "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "detectedAt": "2026-09-08T06:27:00Z",
-    "expiresAt": "2026-09-08T07:27:00Z",
+    "startedAt": "2026-09-08T08:08:37Z",
+    "expiresAt": "2026-09-08T09:08:37Z",
     "postizPostId": "cmtrw5m1g0jwmlm0yqbozm1wl",
-    "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried."
+    "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403."
   }
 }

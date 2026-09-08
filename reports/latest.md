@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T07:47:25.816336+00:00`
+- 状态更新：`2026-09-08T08:08:37.326574+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**346**
 - 待选选题：**304**
@@ -2326,6 +2326,10 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 
 ## 最近运行
 
+- `2026-09-08T08:08:37Z` **full / partial** — Apify collection, media archive, queue rebuild, report rendering, and delivery safeguards completed; publication was withheld by the Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
+- `2026-09-08T08:07:42Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
+- `2026-09-08T08:07:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 72 eligible originals and added 0 new post(s).
+- `2026-09-08T08:05:58Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
 - `2026-09-08T07:47:25.814719+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T07:46:26Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T07:46:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2342,7 +2346,3 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 - `2026-09-08T06:46:13Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T06:46:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-08T06:25:43Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and report rendering completed; publication was withheld by the required Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
-- `2026-09-08T06:26:16Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
-- `2026-09-08T06:26:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T06:05:59Z` **full / partial** — Preflight and validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived no new media, and rebuilt the 45-item newest-first queue. The 60-minute Postiz check found one PUBLISHED X delivery with a public URL and no ERROR, FAILED, or unverified QUEUE delivery. The newest ready package contained a time-sensitive “reopens tomorrow” claim that was stale at probe time; it was not submitted.
-- `2026-09-08T06:06:48Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
