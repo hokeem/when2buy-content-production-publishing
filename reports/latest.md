@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T20:28:58.794066+00:00`
+- 状态更新：`2026-09-08T20:50:32.695352+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**400**
-- 待选选题：**357**
-- 待发布制作包：**148**
+- 对标帖子快照：**402**
+- 待选选题：**359**
+- 待发布制作包：**149**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 20:30:47 +0000 2026 | Nike $NKE stock hit new decade plus lows again today | [X](https://x.com/StockMKTNewz/status/2097422417794650113) |
+| @StockMKTNewz | Tue Sep 08 20:43:18 +0000 2026 | LIV GOLF FILES FOR CHAPTER 11 BANKRUPTCY | [X](https://x.com/StockMKTNewz/status/2097425569688297925) |
 | @StockMKTNewz | Tue Sep 08 20:16:37 +0000 2026 | $DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc | [X](https://x.com/StockMKTNewz/status/2097418855249252608) |
 | @StockMKTNewz | Tue Sep 08 19:59:11 +0000 2026 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to major players in China’s 🇨🇳 auto industry - Bloomberg https://t.co/kjVkItqUXI | [X](https://x.com/StockMKTNewz/status/2097414465733955650) |
 | @StockMKTNewz | Tue Sep 08 19:12:27 +0000 2026 | Meta Platforms $META just posted this:  “today we're rolling out Muse, our new personal ai assistant. Muse is always-on, wicked fast, can use a browser, connect to your apps, and is designed to be secure.” https://t.co/tZGkKgesKh | [X](https://x.com/StockMKTNewz/status/2097402706411278438) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 14:28:53 +0000 2026 | I am now down just 28% on my $TE shares 🫡👜 | [X](https://x.com/StockMKTNewz/status/2097331343088578889) |
 | @WhaleInsider | Tue Sep 08 14:35:12 +0000 2026 | JUST IN: $188,000,000 worth of long positions liquidated from the crypto market in the past 24 hours. https://t.co/eWMiEtGfwd | [X](https://x.com/WhaleInsider/status/2097332931765174660) |
 | @WhaleInsider | Tue Sep 08 14:13:55 +0000 2026 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. https://t.co/jKYvAIaL1s | [X](https://x.com/WhaleInsider/status/2097327575504670871) |
-| @StockMKTNewz | Tue Sep 08 13:34:24 +0000 2026 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | [X](https://x.com/StockMKTNewz/status/2097317631451660624) |
-| @WhaleInsider | Tue Sep 08 13:41:29 +0000 2026 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from today. https://t.co/TtcP5nfnfW | [X](https://x.com/WhaleInsider/status/2097319414722928938) |
 
 ## 选题推荐
 
@@ -120,6 +120,7 @@
 | 1 | Meta Platforms $META just posted this: “today we're rolling out Muse, our new personal ai as… | StockMKTNewz | 12612 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to … | StockMKTNewz | 9529 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | $DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc | StockMKTNewz | 11348 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | LIV GOLF FILES FOR CHAPTER 11 BANKRUPTCY | StockMKTNewz | 7296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -160,6 +161,7 @@
 | 2 | I am ready for the NFL to be back Our partners over at Polymarket just announced a new partn… | StockMKTNewz | 5675 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Tesla $TSLA is reportedly preparing to deploy 1,000 Cybercabs | StockMKTNewz | 12410 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Robinhood Chain generates 17,171 $ETH ($42.58M) in revenue in 70 days. https://t.co… | WhaleInsider | 24900 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Nike $NKE stock hit new decade plus lows again today | StockMKTNewz | 12632 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2569,6 +2571,13 @@ Ford $F is facing fresh U.S. scrutiny over its China business partnerships.  Tra
 
 $DELL just hit a new 52-week high.  When2Buy — your U.S. stock partner.
 
+### LIV Golf files for Chapter 11
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-liv-golf-chapter-11/when2buy-image-model.png`
+
+LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2715,6 +2724,11 @@ $DELL just hit a new 52-week high.  When2Buy — your U.S. stock partner.
 
 ## 最近运行
 
+- `2026-09-08T20:50:32Z` **full / partial** — Apify collection, 72-hour metrics collection, media archive, newest-first queue rebuild, and the newest image-model package completed; no publication was submitted. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
+- `2026-09-08T20:49:41Z` **produce / succeeded** — Produced the newest timestamp-first LIV Golf benchmark package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-08T20:48:05Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
+- `2026-09-08T20:47:53Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
+- `2026-09-08T20:47:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).
 - `2026-09-08T20:28:58Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
 - `2026-09-08T20:28:15Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, newest-package production, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T20:28:01Z` **produce / succeeded** — Produced the newest timestamp-first Apify benchmark package with an inspected image-model visual and exact-logo compositing.
@@ -2730,8 +2744,3 @@ $DELL just hit a new 52-week high.  When2Buy — your U.S. stock partner.
 - `2026-09-08T19:47:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T19:28:16Z` **full / partial** — Apify collection, benchmark-media archive, timestamp-first queue rebuild, newest-package production, content validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T19:27:56Z` **produce / succeeded** — Produced the newest eligible Meta Muse package with an original image-model visual, exact-logo compositing, and primary-source verification.
-- `2026-09-08T19:26:10Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
-- `2026-09-08T19:26:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-08T19:06:00Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T19:09:30Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
-- `2026-09-08T19:06:27Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
