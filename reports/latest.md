@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T12:55:13.019885+00:00`
+- 状态更新：`2026-09-08T13:07:08.774807+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**368**
 - 待选选题：**326**
@@ -2502,6 +2502,9 @@ BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.  Wh
 
 ## 最近运行
 
+- `2026-09-08T13:06:50Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T13:06:28Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
+- `2026-09-08T13:06:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
 - `2026-09-08T12:45:39Z` **full / partial** — Postiz-first eligible metrics collection, Apify benchmark collection, media preservation, newest-first queue rebuild, three image-model packages, validation, and report preparation completed; publication was withheld. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; the required duplicate-delivery safety check could not be completed, so no publication was submitted and all ready packages remain queued.
 - `2026-09-08T12:54:21Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
 - `2026-09-08T12:54:21Z` **produce / succeeded** — Produced 3 newly captured timestamp-first packages with image-model visuals and exact-logo compositing.
@@ -2519,6 +2522,3 @@ BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.  Wh
 - `2026-09-08T12:11:06Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
 - `2026-09-08T12:11:06Z` **produce / succeeded** — Produced 4 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-08T12:07:23Z` **queue / succeeded** — Prepared 60 one-to-one production candidate(s).
-- `2026-09-08T12:07:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 84 eligible originals and added 4 new post(s).
-- `2026-09-08T11:51:00Z` **full / partial** — Apify collection, media archive, metrics, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred while the active circuit breaker remains in force. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T11:50:36Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).

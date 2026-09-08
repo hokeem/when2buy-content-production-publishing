@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:54:21Z",
+  "generatedAt": "2026-09-08T13:06:28Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -15,7 +15,18 @@
         "https://pbs.twimg.com/media/HRsgdvtXYAAuBAZ.jpg",
         "https://pbs.twimg.com/media/HRsgdwjaQAIk94D.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsgdvtXYAAuBAZ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097305755661566255-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsgdwjaQAIk94D.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097305755661566255-2.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 0,
         "replies": 0,
@@ -47,7 +58,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRsgV0zXwAAm8Gu.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRsgV0zXwAAm8Gu.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097305641819799757-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 10,
         "replies": 2,
@@ -741,13 +758,13 @@
       "score": 15042,
       "heatScore": 15042,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 20,
+      "editorialScore": 19,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1935,13 +1952,13 @@
       "score": 9065,
       "heatScore": 9065,
       "scoreBreakdown": {
-        "freshness": 3,
+        "freshness": 2,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
