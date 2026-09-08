@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T03:51:00.698495+00:00`
+- 状态更新：`2026-09-08T04:09:08.200595+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
@@ -2307,6 +2307,9 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ## 最近运行
 
+- `2026-09-08T04:09:08.199600Z` **full / partial** — Preflight and validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 46-item newest-first queue. No Postiz submission was made while the delivery circuit breaker remains active. Postiz X delivery cmts2jufr0lnnlm0y4fsggp63 was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-08T04:08:09Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T04:08:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
 - `2026-09-08T03:51:00.697485Z` **full / partial** — Apify collection, hourly metrics, queue rebuild, and one throttled Postiz publication probe completed; no public X URL was verified. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-08T03:48:38Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T03:48:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
@@ -2324,6 +2327,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T02:26:56.806375+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T02:25:56Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
 - `2026-09-08T02:25:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-08T02:07:00Z` **full / succeeded** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no eligible originals, rebuilt the 48-item newest-first queue, and one newest ready package was published and verified with a public X URL.
-- `2026-09-08T02:07:23.097625+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-08T02:06:21Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
