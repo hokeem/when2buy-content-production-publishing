@@ -1,16 +1,20 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T16:31:09.437401+00:00`
+- 状态更新：`2026-09-08T16:56:52.335929+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**387**
-- 待选选题：**345**
-- 待发布制作包：**136**
+- 对标帖子快照：**391**
+- 待选选题：**349**
+- 待发布制作包：**139**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 16:26:59 +0000 2026 | QUALCOMM $QCOM JUST SAID:  - THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE | [X](https://x.com/StockMKTNewz/status/2097361064912449586) |
+| @WhaleInsider | Tue Sep 08 16:36:47 +0000 2026 | JUST IN: $UPS (UNIPCS6900) launches on Robinhood Chain, reportedly tied to UniPcs’ FOMO holdings amid BONK insider speculation, with automated portfolio rotation and cross-chain rewards for holders. https://t.co/Mu6wdkOMaD | [X](https://x.com/WhaleInsider/status/2097363532727611898) |
+| @StockMKTNewz | Tue Sep 08 16:46:27 +0000 2026 | Tesla $TSLA is reportedly preparing to deploy 1,000 Cybercabs | [X](https://x.com/StockMKTNewz/status/2097365965235196026) |
+| @WhaleInsider | Tue Sep 08 16:55:09 +0000 2026 | JUST IN: Cresta aims to make customer service easier with AI agents that solve problems and seamlessly hand conversations to human agents. | [X](https://x.com/WhaleInsider/status/2097368151558123921) |
 | @StockMKTNewz | Tue Sep 08 16:17:07 +0000 2026 | SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND | [X](https://x.com/StockMKTNewz/status/2097358581230121166) |
 | @StockMKTNewz | Tue Sep 08 16:23:24 +0000 2026 | I am ready for the NFL to be back  Our partners over at Polymarket just announced a new partnership with Lebron James and more | [X](https://x.com/StockMKTNewz/status/2097360162986066049) |
 | @WhaleInsider | Tue Sep 08 16:24:37 +0000 2026 | JUST IN: Dev behind billion-dollar PEPE on Ethereum joins Artificial Pepe $AP. https://t.co/dAzjEyECFl | [X](https://x.com/WhaleInsider/status/2097360470617244078) |
@@ -37,10 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 12:19:00 +0000 2026 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Consolidated Precision Products from private investment firms Warburg Pincus and Berkshire Partners for   $11.75 billion https://t.co/afxl89aQc1 | [X](https://x.com/StockMKTNewz/status/2097298657657704833) |
 | @StockMKTNewz | Tue Sep 08 11:48:44 +0000 2026 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES:  - RIGETTI $RGTI SIGNS PACT FOR $100M WITH 🇺🇸 GOVERNMENT TO ACCELERATE R&amp;D  - D-WAVE $QBTS SIGNS DEAL WITH US GOVERNMENT FOR UP TO $100M   - $IONQ RAISES ITS FULL YEAR GUIDANCE FOLLOWING SKYWATER ACQUISITION | [X](https://x.com/StockMKTNewz/status/2097291038737965429) |
 | @WhaleInsider | Tue Sep 08 11:50:21 +0000 2026 | JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. https://t.co/zUYLgVY8Pg | [X](https://x.com/WhaleInsider/status/2097291447749820438) |
-| @StockMKTNewz | Tue Sep 08 12:01:28 +0000 2026 | Vanguard has the largest ETF in the US with its S&amp;P 500 $VOO ETF over $1 trillion in assets under management   Vanguard has a total of 116 ETFs in the United States 🇺🇸 of which 38 are beating the S&amp;P 500  Below is every Vanguard ETF beating VOO so far in 2026 via @TheETFTracker | [X](https://x.com/StockMKTNewz/status/2097294247049236489) |
-| @StockMKTNewz | Tue Sep 08 12:05:07 +0000 2026 | Robinhood $HOOD has agreed to take a minority stake in crypto(.)com and its prediction market business - WSJ https://t.co/NwQy1JcXET | [X](https://x.com/StockMKTNewz/status/2097295164846813684) |
-| @StockMKTNewz | Tue Sep 08 11:33:34 +0000 2026 | $UBER COO Andrew Macdonald spent $5.31 Million to buy 70,000 shares of Uber stock at an average cost of ~$75.83 per share https://t.co/8dzhl6prTf | [X](https://x.com/StockMKTNewz/status/2097287222324027862) |
-| @StockMKTNewz | Tue Sep 08 11:43:20 +0000 2026 | Goldman Sachs today raised its price target on Robinhood $HOOD up to $142 from $124 while maintaining its Buy rating | [X](https://x.com/StockMKTNewz/status/2097289682795004293) |
 
 ## 选题推荐
 
@@ -112,6 +112,7 @@
 | 1 | THIS IS WHO GAVE THE KEYNOTE AT EVERY APPLE $AAPL IPHONE LAUNCH EVENT 2007: Steve Jobs 2008:… | StockMKTNewz | 4900 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Dev behind billion-dollar PEPE on ETH joins Artificial Pepe $AP. https://t.co/G4Zbz… | WhaleInsider | 10345 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Dev behind billion-dollar PEPE on Ethereum joins Artificial Pepe $AP. https://t.co/… | WhaleInsider | 10855 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Cresta aims to make customer service easier with AI agents that solve problems and … | WhaleInsider | 7358 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -150,6 +151,7 @@
 | 2 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market p… | WhaleInsider | 15143 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Lebron James is now working with our partners over at Polymarket | StockMKTNewz | 5476 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | I am ready for the NFL to be back Our partners over at Polymarket just announced a new partn… | StockMKTNewz | 5675 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Tesla $TSLA is reportedly preparing to deploy 1,000 Cybercabs | StockMKTNewz | 12410 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -170,6 +172,7 @@
 | 3 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | StockMKTNewz | 18492 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | StockMKTNewz | 13267 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND | StockMKTNewz | 10897 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: $UPS (UNIPCS6900) launches on Robinhood Chain, reportedly tied to UniPcs’ FOMO hold… | WhaleInsider | 20902 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -184,6 +187,7 @@
 | 4 | The Trade Desk $TTD is currently the worst performing stock in the S&amp;P 500 so far in 202… | StockMKTNewz | 9637 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | Moderna is currently the 2nd best performing stock in the S&amp;P 500 so far in 2026 🥈 Moder… | StockMKTNewz | 11200 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES: - RIGETTI $RGTI SIGNS PACT FOR $100M… | StockMKTNewz | 12735 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | QUALCOMM $QCOM JUST SAID: - THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE | StockMKTNewz | 15037 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2473,6 +2477,27 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 
 Samsung led Mistral AI's €3B Series D at a valuation above €21B.  The funding round also includes Scaleup Europe Fund and PSG Equity.  When2Buy — your U.S. stock partner.
 
+### Tesla prepares 1,000 Cybercabs
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-tesla-1000-cybercabs/when2buy-image-model.png`
+
+Tesla $TSLA is preparing to deploy 1,000 Cybercabs.  When2Buy — your U.S. stock partner.
+
+### UNIPCS6900 launches on Robinhood Chain
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-unipcs6900-robinhood-chain-launch/when2buy-image-model.png`
+
+UNIPCS6900 ($UPS) launches on Robinhood Chain, tied to UniPcs FOMO holdings amid BONK insider speculation.  It includes automated portfolio rotation and cross-chain rewards for holders.  When2Buy — your U.S. stock partner.
+
+### Qualcomm flags smartphone-cycle low
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-qualcomm-smartphone-cycle-low/when2buy-image-model.png`
+
+Qualcomm $QCOM says the smartphone market is at the low point of its cycle.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2619,6 +2644,10 @@ Samsung led Mistral AI's €3B Series D at a valuation above €21B.  The fundin
 
 ## 最近运行
 
+- `2026-09-08T16:56:52Z` **full / partial** — Apify collection, media archive, limited 72-hour metrics collection, timestamp-first queue rebuild, and three image-model packages completed; the one-post publication throttle was safely deferred while the circuit breaker is active. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T16:56:06Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
+- `2026-09-08T16:56:04Z` **produce / succeeded** — Produced the three newest timestamp-first benchmark packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-08T16:55:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 4 new post(s).
 - `2026-09-08T16:25:28Z` **full / partial** — Apify scanned both benchmark feeds, archived available source media, rebuilt the timestamp-first queue, excluded a promotional partner post and a duplicate event, and produced one verified image-model package. No publication was submitted. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden (error code: 1010); no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T16:29:46Z` **queue / succeeded** — Prepared 58 one-to-one production candidate(s).
 - `2026-09-08T16:29:32Z` **queue / succeeded** — Prepared 59 one-to-one production candidate(s).
@@ -2635,7 +2664,3 @@ Samsung led Mistral AI's €3B Series D at a valuation above €21B.  The fundin
 - `2026-09-08T15:51:52Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and the newest image-model package completed; the one-post publication throttle was deferred by the delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T15:49:50Z` **queue / succeeded** — Prepared 77 one-to-one production candidate(s).
 - `2026-09-08T15:49:00Z` **produce / succeeded** — Produced the newest timestamp-first Apple keynote package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-08T15:46:40Z` **queue / succeeded** — Prepared 77 one-to-one production candidate(s).
-- `2026-09-08T15:46:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 3 new post(s).
-- `2026-09-08T15:45:37Z` **queue / succeeded** — Prepared 74 one-to-one production candidate(s).
-- `2026-09-08T15:30:53Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
