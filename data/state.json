@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T05:48:28.258018+00:00",
+  "updatedAt": "2026-09-08T06:08:25.298469+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -20887,7 +20887,7 @@
       "benchmarkPostId": "2097048992051769654",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097048992051769654",
       "title": "U.S. stock market reopens tomorrow",
-      "status": "ready",
+      "status": "blocked",
       "postText": "The U.S. stock market reopens tomorrow.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The U.S. stock market reopens tomorrow."
@@ -20914,7 +20914,9 @@
             "no damaged or malformed subject"
           ]
         }
-      }
+      },
+      "deliveryReason": "Time-sensitive “reopens tomorrow” claim was stale at the scheduled probe; package was not submitted.",
+      "blockedAt": "2026-09-08T06:08:25.297075+00:00"
     },
     {
       "id": "pkg-20260908-robinhood-first-oura-ipo-underwriter",
@@ -107249,13 +107251,55 @@
       "completedAt": "2026-09-08T05:48:28.255220+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260908T060547Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T06:05:47Z",
+      "completedAt": "2026-09-08T06:05:47Z",
+      "summary": "Prepared 45 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T060648Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T06:06:48Z",
+      "completedAt": "2026-09-08T06:06:48Z",
+      "summary": "Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T060648Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T06:06:48Z",
+      "completedAt": "2026-09-08T06:06:48Z",
+      "summary": "Prepared 45 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T060825Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T06:05:59Z",
+      "completedAt": "2026-09-08T06:08:25.297143+00:00",
+      "summary": "Preflight and validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived no new media, and rebuilt the 45-item newest-first queue. The 60-minute Postiz check found one PUBLISHED X delivery with a public URL and no ERROR, FAILED, or unverified QUEUE delivery.",
+      "reason": "The newest ready package contained a time-sensitive “reopens tomorrow” claim that was stale at probe time; it was not submitted."
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": true,
+    "active": false,
     "detectedAt": "2026-09-08T04:49:10Z",
     "expiresAt": "2026-09-08T05:49:10Z",
     "postizPostId": "cmts4sknt0ttmqk0y277c7w6v",
-    "deliveryReason": "Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried."
+    "deliveryReason": "Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.",
+    "clearedAt": "2026-09-08T06:08:25.297149+00:00",
+    "clearedReason": "The prior expiry elapsed and the preceding-60-minute Postiz check found no ERROR, FAILED, or unverified QUEUE X delivery."
   }
 }

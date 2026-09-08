@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T05:48:28.258018+00:00`
+- 状态更新：`2026-09-08T06:08:25.298469+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
-- 待发布制作包：**102**
+- 待发布制作包：**101**
 - 已验证发布：**136**
 
 ## 对标账号扫描
@@ -2117,7 +2117,7 @@ $NVDA CEO Jensen Huang is on King Charles' AI meeting guest list in the U.K.  Wh
 
 ### U.S. stock market reopens tomorrow
 
-- 状态：`ready`
+- 状态：`blocked`
 - 配图：`deliverables/pkg-20260907-us-market-reopens-tomorrow/when2buy-image-model.png`
 
 The U.S. stock market reopens tomorrow.  When2Buy — your U.S. stock partner.
@@ -2308,6 +2308,10 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ## 最近运行
 
+- `2026-09-08T06:05:59Z` **full / partial** — Preflight and validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived no new media, and rebuilt the 45-item newest-first queue. The 60-minute Postiz check found one PUBLISHED X delivery with a public URL and no ERROR, FAILED, or unverified QUEUE delivery. The newest ready package contained a time-sensitive “reopens tomorrow” claim that was stale at probe time; it was not submitted.
+- `2026-09-08T06:06:48Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
+- `2026-09-08T06:06:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
+- `2026-09-08T06:05:47Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
 - `2026-09-08T05:48:28.255210+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T05:47:32Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T05:47:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -2324,7 +2328,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T04:46:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
 - `2026-09-08T04:28:56.504194+00:00` **full / partial** — Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 46-item newest-first queue. No Postiz submission was made because the preceding-60-minute delivery check found an X delivery error without a public release URL. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-08T04:28:10Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T04:27:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
-- `2026-09-08T04:27:05Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T04:27:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
-- `2026-09-08T04:09:08.199600Z` **full / partial** — Preflight and validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 46-item newest-first queue. No Postiz submission was made while the delivery circuit breaker remains active. Postiz X delivery cmts2jufr0lnnlm0y4fsggp63 was ERROR with no public x.com release URL; accepted task was not retried.
