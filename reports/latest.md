@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T17:10:02.289253+00:00`
+- 状态更新：`2026-09-08T17:26:44.327565+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**392**
 - 待选选题：**350**
@@ -2659,6 +2659,9 @@ Cresta is building customer-service AI agents that solve problems and hand conve
 
 ## 最近运行
 
+- `2026-09-08T17:27:00Z` **full / partial** — Apify collection, media archive, and timestamp-first queue rebuild completed; no new eligible benchmark items required package production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T17:26:15Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
+- `2026-09-08T17:26:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 0 new post(s).
 - `2026-09-08T17:10:02Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld after the required Postiz delivery-status query failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T17:09:27Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
 - `2026-09-08T17:09:25Z` **produce / succeeded** — Produced two newest eligible Apify benchmark packages with image-model visuals and exact-logo compositing.
@@ -2676,6 +2679,3 @@ Cresta is building customer-service AI agents that solve problems and hand conve
 - `2026-09-08T16:26:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 3 new post(s).
 - `2026-09-08T16:16:11Z` **queue / succeeded** — Prepared 61 one-to-one production candidate(s).
 - `2026-09-08T16:16:11Z` **queue / succeeded** — Retained the duplicate benchmark capture for audit and excluded its duplicate Polymarket package from the timestamp-first production queue.
-- `2026-09-08T16:14:36Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and two new image-model packages completed; publication was deferred by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T16:14:20Z` **queue / succeeded** — Prepared 79 one-to-one production candidate(s).
-- `2026-09-08T16:14:20Z` **produce / succeeded** — Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.
