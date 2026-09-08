@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T00:09:29.863440+00:00",
+  "updatedAt": "2026-09-08T00:09:48.693274+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -83234,6 +83234,15 @@
         "expiresAt": "2026-09-08T01:06:45Z",
         "deliveryReason": "Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with releaseURL null in the preceding 60 minutes; accepted deliveries were not retried."
       }
+    },
+    {
+      "id": "run-20260908T000900Z-ledger",
+      "mode": "review",
+      "status": "partial",
+      "startedAt": "2026-09-08T00:09:00Z",
+      "completedAt": "2026-09-08T00:09:00Z",
+      "summary": "Correction to run-20260908T000600Z-full: the Apify collection did complete, adding benchmark post 2097113561960964257 from StockMKTNewz; its media was archived and a ready package was produced. Publication remains withheld by the active delivery circuit breaker.",
+      "reason": "The earlier run record was written before delayed command output became available. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl remain the exact circuit-breaker reason; neither accepted delivery was retried."
     }
   ],
   "deliveryCircuitBreaker": {
