@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-07T23:50:40.494414+00:00`
+- 状态更新：`2026-09-08T00:09:29.863440+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**343**
-- 待选选题：**301**
-- 待发布制作包：**107**
+- 对标帖子快照：**344**
+- 待选选题：**302**
+- 待发布制作包：**108**
 - 已验证发布：**132**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 00:03:30 +0000 2026 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend  This is the first rocket to ever reach orbit from western European soil https://t.co/NsShfe8Ree | [X](https://x.com/StockMKTNewz/status/2097113561960964257) |
 | @StockMKTNewz | Mon Sep 07 23:12:24 +0000 2026 | OpenAI owned ChatGPT posted this today:  “ChatGPT Work can now pick up on what makes your writing sound like… you. Your favorite phrases. Your very specific sign-off. your capitalizations quirks.” https://t.co/Bd4gtZfF1h | [X](https://x.com/StockMKTNewz/status/2097100701637763331) |
 | @StockMKTNewz | Mon Sep 07 23:14:05 +0000 2026 | Tesla $TSLA posted this today:  “Superchargers are made in Buffalo, New York.” https://t.co/nZfyJAXR55 | [X](https://x.com/StockMKTNewz/status/2097101124708794712) |
 | @StockMKTNewz | Mon Sep 07 20:54:26 +0000 2026 | Is this a good trade or not enough for the risk?  You could bet $1,000 on these prediction markets that the New York Jets will not make the NFL playoffs this year and win $1,136  Now, winning $136 doesnt sound like a lot of money BUT   That's a 13.6% return on your money in 4 months  What do you think? | [X](https://x.com/StockMKTNewz/status/2097065983592566919) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 14:13:19 +0000 2026 | IBM stock is currently the 2nd worst performing stock in the Dow Jones so far in 2026  🥈 $IBM: -21%🔴 https://t.co/PqywBvlPMj | [X](https://x.com/StockMKTNewz/status/2096965037080334439) |
 | @WhaleInsider | Mon Sep 07 13:47:22 +0000 2026 | JUST IN: Upcoming memecoin $BIPOLAR gains attention on TikTok, with creators promoting the meme to onboard a wider audience. Set to launch tomorrow at 5PM UTC on PumpFun. https://t.co/fP2YpOUsnw | [X](https://x.com/WhaleInsider/status/2096958507513680239) |
 | @WhaleInsider | Mon Sep 07 13:51:03 +0000 2026 | JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin.  “Wall-breaking season at Strive.” https://t.co/CS9xH0zF4e | [X](https://x.com/WhaleInsider/status/2096959433909608475) |
-| @StockMKTNewz | Mon Sep 07 13:44:04 +0000 2026 | The European Union 🇪🇺 is investing $232 million in Greenland 🇬🇱, part of the bloc’s campaign to tighten links to the island - Bloomberg https://t.co/zJDIZ1A2gw | [X](https://x.com/StockMKTNewz/status/2096957675204411460) |
 
 ## 选题推荐
 
@@ -88,6 +88,7 @@
 | 1 | ROBINHOOD IS UNDERWRITING ITS FIRST IPO Oura has named Robinhood $HOOD as an underwriter for… | StockMKTNewz | 7814 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Is this a good trade or not enough for the risk? You could bet $1,000 on these prediction ma… | StockMKTNewz | 8751 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Tesla $TSLA posted this today: “Superchargers are made in Buffalo, New York.” https://t.co/n… | StockMKTNewz | 9881 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the… | StockMKTNewz | 5056 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2156,6 +2157,13 @@ $TSLA says Superchargers are made in Buffalo, New York.  The charging buildout i
 
 ChatGPT Work can now pick up on the details that make a user's writing sound like them.  That includes favorite phrases, sign-offs and capitalization quirks.  When2Buy — your U.S. stock partner.
 
+### Isar Aerospace reaches orbit from western Europe
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-isar-aerospace-western-europe-orbit/when2buy-image-model.png`
+
+Isar Aerospace has reached orbit for the first time.  It is the first rocket to reach orbit from western European soil.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2296,6 +2304,10 @@ ChatGPT Work can now pick up on the details that make a user's writing sound lik
 
 ## 最近运行
 
+- `2026-09-08T00:05:32Z` **full / partial** — Preflight and state validation passed. Apify collection was invoked for both required benchmark accounts but did not complete within the execution window. No publication was submitted because the preceding-60-minute Postiz query found ERROR deliveries with no public X release URL. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with releaseURL null in the preceding 60 minutes; 60-minute circuit breaker active until 2026-09-08T01:06:45Z. Accepted deliveries were not retried.
+- `2026-09-08T00:07:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-08T00:06:20Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-08T00:06:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-07T23:45:31Z` **full / partial** — Apify collection, hourly 72-hour metrics, timestamp-first queue rebuild, and one newest-package Postiz probe completed; the accepted delivery remains QUEUE without a public X URL. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted at 2026-09-07T23:48:00Z and remained QUEUE with releaseURL null at the final check; it was not retried.
 - `2026-09-07T23:46:38Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
 - `2026-09-07T23:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2312,7 +2324,3 @@ ChatGPT Work can now pick up on the details that make a user's writing sound lik
 - `2026-09-07T22:45:53Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-07T22:45:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T22:26:38Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-07T22:26:11Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-07T22:26:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
-- `2026-09-07T22:07:49Z` **full / partial** — Apify benchmark collection, media archival, newest-first queue rebuild, 72-hour metrics collection, and report preparation completed; no Postiz submission was made while the delivery circuit breaker was active. Postiz X delivery cmtrrtdyq0ievlm0ye5j2q1h9 was ERROR with no public x.com release URL; accepted task was not retried. The 60-minute delivery check also found ERROR delivery cmtrr3ez70i9qlm0yxzylqhrl without a public release URL. Circuit breaker remains active until 2026-09-07T22:47:29Z.
-- `2026-09-07T22:06:36.156190+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.

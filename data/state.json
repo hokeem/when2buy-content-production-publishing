@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T23:50:40.494414+00:00",
+  "updatedAt": "2026-09-08T00:09:29.863440+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9434,6 +9434,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097113561960964257",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097113561960964257",
+      "postedAt": "Tue Sep 08 00:03:30 +0000 2026",
+      "text": "German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend\n\nThis is the first rocket to ever reach orbit from western European soil https://t.co/NsShfe8Ree",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2096632662400385024/img/UXYXLpOibeiNc7T_.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 4666
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T00:06:20Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096632662400385024/img/UXYXLpOibeiNc7T_.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097113561960964257-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -15151,6 +15179,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097113561960964257",
+      "rank": 1,
+      "title": "German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the…",
+      "benchmarkPostId": "2097113561960964257",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097113561960964257",
+      "score": 5056,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T00:06:20Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
@@ -21043,6 +21090,40 @@
             "not pure text or generic radar",
             "exact repository logo composited once in the lower-right clear space",
             "no damaged or malformed objects"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-isar-aerospace-western-europe-orbit",
+      "benchmarkPostId": "2097113561960964257",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097113561960964257",
+      "title": "Isar Aerospace reaches orbit from western Europe",
+      "status": "ready",
+      "postText": "Isar Aerospace has reached orbit for the first time.\n\nIt is the first rocket to reach orbit from western European soil.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Isar Aerospace successfully reached orbit for the first time over the weekend.",
+        "The source describes it as the first rocket to reach orbit from western European soil."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097113561960964257"
+      ],
+      "imagePath": "deliverables/pkg-20260908-isar-aerospace-western-europe-orbit/when2buy-image-model.png",
+      "createdAt": "2026-09-08T00:08:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium 1:1 square X financial-news editorial image for When2Buy.\nPrimary request: original entity-led visual for Isar Aerospace becoming the first rocket to reach orbit from western European soil.\nScene/backdrop: near-black European launch complex at night, subtle silhouette of the North Sea coast, distant low industrial lights.\nSubject: one sleek unbranded white orbital rocket climbing vertically from its launch pad, clean bright exhaust, a faint arc toward space; no explosion.\nStyle/medium: cinematic, premium financial-news editorial photography; crisp and realistic, restrained deep-red accent lights and white highlights only.\nComposition/framing: exact square 1:1; rocket placed slightly left of center; keep lower-right 20 percent clean near-black negative space for a logo composited later.\nText: none.\nConstraints: no letters, words, numbers, flags, logos, watermarks, social UI, source handles, URLs, attribution, disclaimer, CTA, generic radar graphics, pure typography card, people, malformed rocket, or damaged scene.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T00:08:00Z",
+          "checks": [
+            "1254x1254 square PNG",
+            "entity-led rocket launch scene",
+            "no generated text, source material, or generic radar treatment",
+            "near-black premium visual with white highlights and restrained red lights",
+            "exact repository logo composited once in lower-right clear space",
+            "rocket and launch scene visually intact"
           ]
         }
       }
@@ -83104,6 +83185,55 @@
       "completedAt": "2026-09-07T23:49:39Z",
       "summary": "Apify collection, hourly 72-hour metrics, timestamp-first queue rebuild, and one newest-package Postiz probe completed; the accepted delivery remains QUEUE without a public X URL.",
       "reason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted at 2026-09-07T23:48:00Z and remained QUEUE with releaseURL null at the final check; it was not retried."
+    },
+    {
+      "id": "run-20260908T000620Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T00:06:20Z",
+      "completedAt": "2026-09-08T00:06:20Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T000620Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T00:06:20Z",
+      "completedAt": "2026-09-08T00:06:20Z",
+      "summary": "Prepared 49 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T000716Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T00:07:16Z",
+      "completedAt": "2026-09-08T00:07:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T000600Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T00:05:32Z",
+      "completedAt": "2026-09-08T00:06:45Z",
+      "summary": "Preflight and state validation passed. Apify collection was invoked for both required benchmark accounts but did not complete within the execution window. No publication was submitted because the preceding-60-minute Postiz query found ERROR deliveries with no public X release URL.",
+      "reason": "Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with releaseURL null in the preceding 60 minutes; 60-minute circuit breaker active until 2026-09-08T01:06:45Z. Accepted deliveries were not retried.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T01:06:45Z",
+        "deliveryReason": "Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with releaseURL null in the preceding 60 minutes; accepted deliveries were not retried."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
