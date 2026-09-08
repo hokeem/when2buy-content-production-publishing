@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T20:50:32.695352+00:00`
+- 状态更新：`2026-09-08T21:07:40.984075+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**402**
 - 待选选题：**359**
@@ -2724,6 +2724,9 @@ LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock part
 
 ## 最近运行
 
+- `2026-09-08T21:07:28Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, validation, and reporting completed; no newly eligible items required production. Publication withheld by the active 60-minute Postiz delivery circuit breaker: Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010.
+- `2026-09-08T21:06:41Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
+- `2026-09-08T21:06:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T20:50:32Z` **full / partial** — Apify collection, 72-hour metrics collection, media archive, newest-first queue rebuild, and the newest image-model package completed; no publication was submitted. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T20:49:41Z` **produce / succeeded** — Produced the newest timestamp-first LIV Golf benchmark package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-08T20:48:05Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
@@ -2741,6 +2744,3 @@ LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock part
 - `2026-09-08T20:08:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-08T19:49:10Z` **full / partial** — Hourly metrics, Apify collection, media archive, timestamp-first queue rebuild, and delivery-safety checks completed; publication was withheld by the Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T19:47:53Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
-- `2026-09-08T19:47:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T19:28:16Z` **full / partial** — Apify collection, benchmark-media archive, timestamp-first queue rebuild, newest-package production, content validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T19:27:56Z` **produce / succeeded** — Produced the newest eligible Meta Muse package with an original image-model visual, exact-logo compositing, and primary-source verification.
