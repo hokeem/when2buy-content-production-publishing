@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T16:56:52.335929+00:00`
+- 状态更新：`2026-09-08T17:10:02.289253+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**391**
-- 待选选题：**349**
-- 待发布制作包：**139**
+- 对标帖子快照：**392**
+- 待选选题：**350**
+- 待发布制作包：**141**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Tue Sep 08 17:05:09 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian media. https://t.co/0lbfexXv8o | [X](https://x.com/WhaleInsider/status/2097370670145347948) |
 | @StockMKTNewz | Tue Sep 08 16:26:59 +0000 2026 | QUALCOMM $QCOM JUST SAID:  - THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE | [X](https://x.com/StockMKTNewz/status/2097361064912449586) |
 | @WhaleInsider | Tue Sep 08 16:36:47 +0000 2026 | JUST IN: $UPS (UNIPCS6900) launches on Robinhood Chain, reportedly tied to UniPcs’ FOMO holdings amid BONK insider speculation, with automated portfolio rotation and cross-chain rewards for holders. https://t.co/Mu6wdkOMaD | [X](https://x.com/WhaleInsider/status/2097363532727611898) |
 | @StockMKTNewz | Tue Sep 08 16:46:27 +0000 2026 | Tesla $TSLA is reportedly preparing to deploy 1,000 Cybercabs | [X](https://x.com/StockMKTNewz/status/2097365965235196026) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 12:09:04 +0000 2026 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS   Google Cloud $GOOGL and Accenture $ACN just announced they've formed Accenture Gemini Enterprise Business Group  "As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform." - WSJ | [X](https://x.com/StockMKTNewz/status/2097296156157935643) |
 | @StockMKTNewz | Tue Sep 08 12:19:00 +0000 2026 | GE Aerospace $GE just announced that it has agreed to acquire engineered-castings maker Consolidated Precision Products from private investment firms Warburg Pincus and Berkshire Partners for   $11.75 billion https://t.co/afxl89aQc1 | [X](https://x.com/StockMKTNewz/status/2097298657657704833) |
 | @StockMKTNewz | Tue Sep 08 11:48:44 +0000 2026 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES:  - RIGETTI $RGTI SIGNS PACT FOR $100M WITH 🇺🇸 GOVERNMENT TO ACCELERATE R&amp;D  - D-WAVE $QBTS SIGNS DEAL WITH US GOVERNMENT FOR UP TO $100M   - $IONQ RAISES ITS FULL YEAR GUIDANCE FOLLOWING SKYWATER ACQUISITION | [X](https://x.com/StockMKTNewz/status/2097291038737965429) |
-| @WhaleInsider | Tue Sep 08 11:50:21 +0000 2026 | JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. https://t.co/zUYLgVY8Pg | [X](https://x.com/WhaleInsider/status/2097291447749820438) |
 
 ## 选题推荐
 
@@ -113,6 +113,7 @@
 | 1 | JUST IN: Dev behind billion-dollar PEPE on ETH joins Artificial Pepe $AP. https://t.co/G4Zbz… | WhaleInsider | 10345 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Dev behind billion-dollar PEPE on Ethereum joins Artificial Pepe $AP. https://t.co/… | WhaleInsider | 10855 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Cresta aims to make customer service easier with AI agents that solve problems and … | WhaleInsider | 7358 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian… | WhaleInsider | 8590 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2498,6 +2499,20 @@ UNIPCS6900 ($UPS) launches on Robinhood Chain, tied to UniPcs FOMO holdings amid
 
 Qualcomm $QCOM says the smartphone market is at the low point of its cycle.  When2Buy — your U.S. stock partner.
 
+### Iran sets new conditions for U.S. talks
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-iran-us-negotiation-conditions/when2buy-image-model.png`
+
+Tehran is demanding new conditions from Washington before negotiations can resume.  When2Buy — your U.S. stock partner.
+
+### Cresta targets AI-agent customer support
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-cresta-ai-agent-handoff/when2buy-image-model.png`
+
+Cresta is building customer-service AI agents that solve problems and hand conversations to human agents.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2644,6 +2659,11 @@ Qualcomm $QCOM says the smartphone market is at the low point of its cycle.  Whe
 
 ## 最近运行
 
+- `2026-09-08T17:10:02Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld after the required Postiz delivery-status query failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T17:09:27Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
+- `2026-09-08T17:09:25Z` **produce / succeeded** — Produced two newest eligible Apify benchmark packages with image-model visuals and exact-logo compositing.
+- `2026-09-08T17:06:40Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
+- `2026-09-08T17:06:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 1 new post(s).
 - `2026-09-08T16:56:52Z` **full / partial** — Apify collection, media archive, limited 72-hour metrics collection, timestamp-first queue rebuild, and three image-model packages completed; the one-post publication throttle was safely deferred while the circuit breaker is active. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T16:56:06Z` **queue / succeeded** — Prepared 62 one-to-one production candidate(s).
 - `2026-09-08T16:56:04Z` **produce / succeeded** — Produced the three newest timestamp-first benchmark packages with inspected image-model visuals and exact-logo compositing.
@@ -2659,8 +2679,3 @@ Qualcomm $QCOM says the smartphone market is at the low point of its cycle.  Whe
 - `2026-09-08T16:14:36Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and two new image-model packages completed; publication was deferred by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T16:14:20Z` **queue / succeeded** — Prepared 79 one-to-one production candidate(s).
 - `2026-09-08T16:14:20Z` **produce / succeeded** — Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-08T16:08:01Z` **queue / succeeded** — Prepared 79 one-to-one production candidate(s).
-- `2026-09-08T16:08:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 2 new post(s).
-- `2026-09-08T15:51:52Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and the newest image-model package completed; the one-post publication throttle was deferred by the delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T15:49:50Z` **queue / succeeded** — Prepared 77 one-to-one production candidate(s).
-- `2026-09-08T15:49:00Z` **produce / succeeded** — Produced the newest timestamp-first Apple keynote package with an inspected image-model visual and exact-logo compositing.

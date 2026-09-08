@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:56:52.335929+00:00",
+  "updatedAt": "2026-09-08T17:10:02.289253+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10746,6 +10746,40 @@
       "isPinned": false,
       "capturedAt": "2026-09-08T16:55:58Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097370670145347948",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097370670145347948",
+      "postedAt": "Tue Sep 08 17:05:09 +0000 2026",
+      "text": "JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian media. https://t.co/0lbfexXv8o",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRtbgfxW4AAbz8w.jpg",
+        "https://pbs.twimg.com/media/HRtbgfqXYAAwecI.jpg"
+      ],
+      "engagement": {
+        "likes": 16,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 7970
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T17:06:36Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRtbgfxW4AAbz8w.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097370670145347948-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRtbgfqXYAAwecI.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097370670145347948-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -17376,6 +17410,25 @@
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097370670145347948",
+      "rank": 1,
+      "title": "JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian…",
+      "benchmarkPostId": "2097370670145347948",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097370670145347948",
+      "score": 8590,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T17:06:40Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -24757,6 +24810,78 @@
             "premium near-black, white, restrained-red palette",
             "exact repository logo composited once",
             "not pure text, generic radar, misspelled, or damaged"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-iran-us-negotiation-conditions",
+      "benchmarkPostId": "2097370670145347948",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097370670145347948",
+      "title": "Iran sets new conditions for U.S. talks",
+      "status": "ready",
+      "postText": "Tehran is demanding new conditions from Washington before negotiations can resume.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Tehran is demanding new conditions from Washington.",
+        "The conditions concern a possible resumption of negotiations."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097370670145347948"
+      ],
+      "imagePath": "deliverables/pkg-20260908-iran-us-negotiation-conditions/when2buy-image-model.png",
+      "createdAt": "2026-09-08T17:09:23Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square entity-led financial-news visual about Iran and United States negotiations resuming under new conditions: a serious near-black diplomatic table, abstract Tehran and Washington silhouettes, two empty folders separated by a restrained red line, no text or flags, and a lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T17:09:23Z",
+          "checks": [
+            "square 1:1 PNG",
+            "complete entity-led visual",
+            "no generated public copy, source attribution, URL, or handle",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once in lower-right safe area",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-cresta-ai-agent-handoff",
+      "benchmarkPostId": "2097368151558123921",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097368151558123921",
+      "title": "Cresta targets AI-agent customer support",
+      "status": "ready",
+      "postText": "Cresta is building customer-service AI agents that solve problems and hand conversations to human agents.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Cresta aims to make customer service easier with AI agents.",
+        "The agents are intended to solve problems and seamlessly hand conversations to human agents."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097368151558123921"
+      ],
+      "imagePath": "deliverables/pkg-20260908-cresta-ai-agent-handoff/when2buy-image-model.png",
+      "createdAt": "2026-09-08T17:09:25Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square entity-led financial-news visual for Cresta customer-service AI: premium near-black support operations center, a luminous AI-agent core flowing into a human-support handoff, no text, logos, or generic radar imagery, with a lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T17:09:25Z",
+          "checks": [
+            "square 1:1 PNG",
+            "complete entity-led visual",
+            "no generated public copy, source attribution, URL, or handle",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once in lower-right safe area",
+            "no damaged logo or misspelled visible text"
           ],
           "result": "passed"
         }
@@ -119469,12 +119594,70 @@
         "expiresAt": "2026-09-08T17:56:52Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
       }
+    },
+    {
+      "id": "run-20260908T170636Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T17:06:36Z",
+      "completedAt": "2026-09-08T17:06:36Z",
+      "summary": "Apify scanned both benchmark accounts; captured 37 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T170640Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T17:06:40Z",
+      "completedAt": "2026-09-08T17:06:40Z",
+      "summary": "Prepared 63 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T170925Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T17:09:25Z",
+      "completedAt": "2026-09-08T17:09:25Z",
+      "summary": "Produced two newest eligible Apify benchmark packages with image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T170927Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T17:09:27Z",
+      "completedAt": "2026-09-08T17:09:27Z",
+      "summary": "Prepared 63 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T171002Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T17:10:02Z",
+      "completedAt": "2026-09-08T17:10:02Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld after the required Postiz delivery-status query failed.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "failed: HTTP 403 error code 1010"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T18:10:02Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "startedAt": "2026-09-08T15:51:52Z",
-    "expiresAt": "2026-09-08T16:51:52Z",
-    "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+    "startedAt": "2026-09-08T17:10:02Z",
+    "expiresAt": "2026-09-08T18:10:02Z",
+    "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
   }
 }
