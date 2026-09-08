@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T04:28:56.524827+00:00`
+- 状态更新：`2026-09-08T04:49:10.056152+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
@@ -2206,10 +2206,10 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
+| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
-| John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | U.S. Bitcoin ETFs see $986.8M weekly inflow | 2026-09-07T07:12:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859345426468895) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -2254,12 +2254,12 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | Waiting for the stock market to open again | 2026-09-07T07:37:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865520805142643) |
 | Data centers and state approvals | 2026-09-07T07:54:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874871292936488) |
+| ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | The top 10 largest stocks in the world are now worth a combined $29.95 Trillion up from $29.73T last | 2026-09-07T07:36:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865395340976138) |
 | U.S. stock market performance today | 2026-09-07T07:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869428151611677) |
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
-| ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 2 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -2307,6 +2307,11 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ## 最近运行
 
+- `2026-09-08T04:49:10Z` **full / partial** — Apify collection, queue rebuild, and 72-hour metrics completed; publication was withheld by the 60-minute Postiz delivery circuit breaker. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-08T04:47:15Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T04:47:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
+- `2026-09-08T04:46:47Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T04:46:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
 - `2026-09-08T04:28:56.504194+00:00` **full / partial** — Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 46-item newest-first queue. No Postiz submission was made because the preceding-60-minute delivery check found an X delivery error without a public release URL. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-08T04:28:10Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T04:27:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
@@ -2322,8 +2327,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T03:27:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
 - `2026-09-08T03:08:21Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmts2jufr0lnnlm0y4fsggp63 was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-08T03:07:21Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T03:07:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 66 eligible originals and added 0 new post(s).
-- `2026-09-08T03:05:38Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T02:48:13.654884+00:00` **publish / partial** — One newest-ready Postiz delivery probe failed without a verified public X URL; the 60-minute circuit breaker is active. Postiz X delivery cmts2jufr0lnnlm0y4fsggp63 was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-08T02:46:47Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T02:46:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
