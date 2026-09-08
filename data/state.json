@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T10:54:08.035353+00:00",
+  "updatedAt": "2026-09-08T11:09:29.965299+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -9728,6 +9728,46 @@
       "isPinned": false,
       "capturedAt": "2026-09-08T10:48:18Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097278222278799375",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097278222278799375",
+      "postedAt": "Tue Sep 08 10:57:48 +0000 2026",
+      "text": "The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04%",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 20,
+        "replies": 2,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 7013
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T11:06:17Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097277378934231391",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097277378934231391",
+      "postedAt": "Tue Sep 08 10:54:27 +0000 2026",
+      "text": "Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - Goldman Sachs",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 24,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 7125
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T11:06:17Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -15637,6 +15677,44 @@
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097278222278799375",
+      "rank": 1,
+      "title": "The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04%",
+      "benchmarkPostId": "2097278222278799375",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097278222278799375",
+      "score": 7863,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T11:06:18Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097277378934231391",
+      "rank": 2,
+      "title": "Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - …",
+      "benchmarkPostId": "2097277378934231391",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097277378934231391",
+      "score": 7825,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T11:06:18Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -21882,6 +21960,74 @@
           "checks": [
             "square 1254x1254 inspected after image-model generation and logo composite",
             "entity-led EUV photomask and precision-machine scene",
+            "no readable generated text, attribution, source handle, or URL",
+            "premium near-black, white, and restrained-red palette",
+            "not a pure-text or generic-radar visual",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo or malformed object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-sp500-dividend-yield-104",
+      "benchmarkPostId": "2097278222278799375",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097278222278799375",
+      "title": "S&P 500 dividend yield reaches 1.04%",
+      "status": "ready",
+      "postText": "The S&P 500 dividend yield has fallen to a new record low of 1.04%.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The S&P 500 dividend yield reached a new all-time low of 1.04%."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097278222278799375"
+      ],
+      "imagePath": "deliverables/pkg-20260908-sp500-dividend-yield-104/when2buy-image-model.png",
+      "createdAt": "2026-09-08T11:08:57Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium 1:1 square X financial-news editorial visual for When2Buy\nPrimary request: an original text-free entity-led visual for a record-low 1.04% dividend yield on the S&P 500.\nScene/backdrop: a cinematic near-black institutional trading-floor environment at night, charcoal glass and subtle depth.\nSubject: a single elegant brass dividend coin resting on a dark market ledger beside a refined declining yield gauge; this must be a real physical financial still life, not a generic radar or pure typography.\nStyle/medium: premium institutional editorial photography, sharp white rim light, restrained deep-red accent reflection only.\nComposition/framing: exact 1:1 square, main subject left of center; reserve the lower-right 20 percent as entirely clean near-black empty space for a repository logo added later.\nText: none.\nConstraints: no readable text, letters, numbers, currency symbols, logos, watermarks, UI, charts, source names, source handles, URLs, attribution, disclaimer, CTA, people, generic radar graphics, or pure typography card. Every object must be complete and undamaged.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T11:08:57Z",
+          "checks": [
+            "square 1254x1254 inspected after image-model generation and logo composite",
+            "entity-led dividend-yield still life with intact physical objects",
+            "no readable generated text, attribution, source handle, or URL",
+            "premium near-black, white, and restrained-red palette",
+            "not a pure-text or generic-radar visual",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo or malformed object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-sp500-eps-growth-24-31",
+      "benchmarkPostId": "2097277378934231391",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097277378934231391",
+      "title": "S&P 500 EPS growth forecast at 24%–31%",
+      "status": "ready",
+      "postText": "S&P 500 earnings per share is expected to rise 24%–31% in 2026.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "S&P 500 earnings per share is expected to increase by 24% to 31% in 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097277378934231391"
+      ],
+      "imagePath": "deliverables/pkg-20260908-sp500-eps-growth-24-31/when2buy-image-model.png",
+      "createdAt": "2026-09-08T11:08:59Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium 1:1 square X financial-news editorial visual for When2Buy\nPrimary request: an original text-free entity-led visual for S&P 500 earnings-per-share growth expected at 24% to 31% in 2026.\nScene/backdrop: a cinematic near-black institutional equity-research desk at night with charcoal glass and subtle depth.\nSubject: a physical polished crystal earnings prism with stacked ascending light bars emerging from it, suggesting a forward earnings range; include no written or numerical information. This must feel like a refined equity-research still life, not a generic radar or pure typography.\nStyle/medium: premium institutional editorial photography, sharp white rim light, restrained deep-red accent reflection only.\nComposition/framing: exact 1:1 square, main subject left of center; reserve the lower-right 20 percent as entirely clean near-black empty space for a repository logo added later.\nText: none.\nConstraints: no readable text, letters, numbers, currency symbols, logos, watermarks, UI, charts, source names, source handles, URLs, attribution, disclaimer, CTA, people, generic radar graphics, or pure typography card. Every object must be complete and undamaged.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T11:08:59Z",
+          "checks": [
+            "square 1254x1254 inspected after image-model generation and logo composite",
+            "entity-led equity-research still life with intact crystal earnings prism",
             "no readable generated text, attribution, source handle, or URL",
             "premium near-black, white, and restrained-red palette",
             "not a pure-text or generic-radar visual",
@@ -115544,6 +115690,46 @@
       "startedAt": "2026-09-08T10:54:08Z",
       "completedAt": "2026-09-08T10:54:08Z",
       "summary": "Apify collection, media archive, timestamp-first queue rebuild, :45 metrics pass, and two image-model packages completed; the one-post publication throttle was safely deferred.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+    },
+    {
+      "id": "run-20260908T110617Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T11:06:17Z",
+      "completedAt": "2026-09-08T11:06:17Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T110618Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T11:06:18Z",
+      "completedAt": "2026-09-08T11:06:18Z",
+      "summary": "Prepared 54 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T110859Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T11:08:59Z",
+      "completedAt": "2026-09-08T11:08:59Z",
+      "summary": "Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T110929Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T11:09:29Z",
+      "completedAt": "2026-09-08T11:09:29Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred.",
       "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
     }
   ],

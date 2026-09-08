@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T10:54:08.035353+00:00`
+- 状态更新：`2026-09-08T11:09:29.965299+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**353**
-- 待选选题：**311**
-- 待发布制作包：**108**
+- 对标帖子快照：**355**
+- 待选选题：**313**
+- 待发布制作包：**110**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 10:54:27 +0000 2026 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - Goldman Sachs | [X](https://x.com/StockMKTNewz/status/2097277378934231391) |
+| @StockMKTNewz | Tue Sep 08 10:57:48 +0000 2026 | The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04% | [X](https://x.com/StockMKTNewz/status/2097278222278799375) |
 | @StockMKTNewz | Tue Sep 08 10:32:30 +0000 2026 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-inch EUV photomasks, replacing the 6-inch format used today | [X](https://x.com/StockMKTNewz/status/2097271855493034341) |
 | @StockMKTNewz | Tue Sep 08 10:43:47 +0000 2026 | Mistral AI is now worth more than $24.3 Billion | [X](https://x.com/StockMKTNewz/status/2097274693912858661) |
 | @StockMKTNewz | Tue Sep 08 10:23:15 +0000 2026 | Samsung and Taiwan Semiconductor, the world’s two biggest chipmakers, have committed to using $ASML’s High NA extreme ultraviolet (EUV) lithography machines - CNBC https://t.co/lZKGm9B2XO | [X](https://x.com/StockMKTNewz/status/2097269529998946681) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Mon Sep 07 15:56:39 +0000 2026 | The price of a gallon of regular unleaded gasoline has never been above $4 on Labor Day, according to AAA  On Monday, the national average price at the pump was $4.15, a record high for the holiday - CNBC https://t.co/EMkLKcLUqX | [X](https://x.com/StockMKTNewz/status/2096991041987531044) |
 | @WhaleInsider | Mon Sep 07 15:32:15 +0000 2026 | JUST IN: @MetaWin player turns $6 into $16,733.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies for their $1M airdrop this month. https://t.co/C5RYIOaoLg | [X](https://x.com/WhaleInsider/status/2096984904089125105) |
 | @WhaleInsider | Mon Sep 07 15:38:51 +0000 2026 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of potential U.S. tariffs on refined copper imports. https://t.co/5itwt8BTfp | [X](https://x.com/WhaleInsider/status/2096986563792027845) |
-| @WhaleInsider | Mon Sep 07 15:06:50 +0000 2026 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | [X](https://x.com/WhaleInsider/status/2096978507339354540) |
-| @StockMKTNewz | Mon Sep 07 15:12:46 +0000 2026 | The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V | [X](https://x.com/StockMKTNewz/status/2096979998687023461) |
 
 ## 选题推荐
 
@@ -97,6 +97,7 @@
 | 1 | JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meet… | WhaleInsider | 18078 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Samsung and Taiwan Semiconductor, the world’s two biggest chipmakers, have committed to usin… | StockMKTNewz | 4736 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Mistral AI is now worth more than $24.3 Billion | StockMKTNewz | 5845 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04% | StockMKTNewz | 7863 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -122,6 +123,7 @@
 | 2 | JUST IN: $XRP futures activity surges to six-month high amid price volatility​​​​​​​​​​​​​​​… | WhaleInsider | 14151 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | OpenAI owned ChatGPT posted this today: “ChatGPT Work can now pick up on what makes your wri… | StockMKTNewz | 9683 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-in… | StockMKTNewz | 11635 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - … | StockMKTNewz | 7825 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2236,6 +2238,20 @@ Mistral AI is now valued above $24.3B.  The French AI challenger has entered a n
 
 $ASML and $TSM have launched a 12-inch EUV photomask initiative.  It targets a replacement for the 6-inch format used today.  When2Buy — your U.S. stock partner.
 
+### S&P 500 dividend yield reaches 1.04%
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-sp500-dividend-yield-104/when2buy-image-model.png`
+
+The S&P 500 dividend yield has fallen to a new record low of 1.04%.  When2Buy — your U.S. stock partner.
+
+### S&P 500 EPS growth forecast at 24%–31%
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-sp500-eps-growth-24-31/when2buy-image-model.png`
+
+S&P 500 earnings per share is expected to rise 24%–31% in 2026.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2382,6 +2398,10 @@ $ASML and $TSM have launched a 12-inch EUV photomask initiative.  It targets a r
 
 ## 最近运行
 
+- `2026-09-08T11:09:29Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T11:08:59Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
+- `2026-09-08T11:06:18Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
+- `2026-09-08T11:06:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
 - `2026-09-08T10:54:08Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 metrics pass, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T10:53:25Z` **queue / succeeded** — Prepared 52 one-to-one production candidate(s).
 - `2026-09-08T10:53:24Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
@@ -2398,7 +2418,3 @@ $ASML and $TSM have launched a 12-inch EUV photomask initiative.  It targets a r
 - `2026-09-08T10:06:07Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-08T10:06:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-08T09:49:28Z` **full / partial** — Apify collection, media archival, timestamp-first queue rebuild, and :45 Postiz-first metrics collection completed; the sole newest-package Postiz probe did not produce a verified public X URL. Postiz X publication probe for pkg-20260908-btc-short-term-whale-profit-risk was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.
-- `2026-09-08T09:48:31Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
-- `2026-09-08T09:48:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T09:48:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T09:30:08Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
