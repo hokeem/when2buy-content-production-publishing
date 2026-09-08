@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T22:07:32.887008+00:00",
+  "updatedAt": "2026-09-08T22:28:10.103262+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11109,6 +11109,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097448206950928886",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097448206950928886",
+      "postedAt": "Tue Sep 08 22:13:15 +0000 2026",
+      "text": "This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRuh9JJXUAAaGn4.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 10987
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T22:26:00Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRuh9JJXUAAaGn4.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097448206950928886-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -17949,6 +17977,25 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097448206950928886",
+      "rank": 1,
+      "title": "This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad",
+      "benchmarkPostId": "2097448206950928886",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097448206950928886",
+      "score": 11497,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T22:26:03Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -25690,6 +25737,41 @@
             "not pure text or generic radar",
             "exact repository logo composited once in lower-right safe area",
             "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-greece-luxury-property",
+      "benchmarkPostId": "2097448206950928886",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097448206950928886",
+      "title": "$7.2M Greek luxury property",
+      "status": "ready",
+      "postText": "A $7.2M Greek property puts Aegean cliffside luxury in view.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark post presents what $7.2 million buys in Greece.",
+        "The accompanying captured media depicts a Greek luxury-property setting."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097448206950928886"
+      ],
+      "imagePath": "deliverables/pkg-20260908-greece-luxury-property/when2buy-image-model.png",
+      "createdAt": "2026-09-08T22:27:43Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Premium square X editorial visual for the market event '$7.2 million Greek luxury property': original high-end architectural photograph of one contemporary Cycladic cliffside villa above the Aegean at blue hour, near-black navy and charcoal palette, white stone terraces and infinity pool, crisp highlights with a restrained deep-red architectural reflection, lower-right uncluttered logo-safe space; no text, letters, numbers, logos, watermarks, people, flags, or generic market imagery.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T22:27:43Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete original entity-led Greek luxury-property scene",
+            "premium dark palette with white stone and restrained red accent",
+            "no generated text, source attribution, watermark, or damaged logo",
+            "exact repository logo composited once in lower-right clear space",
+            "not a pure-text card or generic radar image"
           ],
           "result": "passed"
         }
@@ -121181,11 +121263,60 @@
         "expiresAt": "2026-09-08T22:48:30Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
       }
+    },
+    {
+      "id": "run-20260908T222600Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T22:26:00Z",
+      "completedAt": "2026-09-08T22:26:00Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T222603Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T22:26:03Z",
+      "completedAt": "2026-09-08T22:26:03Z",
+      "summary": "Prepared 73 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T222743Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T22:27:43Z",
+      "completedAt": "2026-09-08T22:27:43Z",
+      "summary": "Archived the newest benchmark media and produced one original image-model package with exact-logo compositing and visual QA.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T222810Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T22:28:10Z",
+      "completedAt": "2026-09-08T22:28:10Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and one image-model package completed; publication was withheld because the required Postiz delivery-window query could not be completed.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "HTTP 403: error code: 1010; no delivery statuses returned"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T23:28:10Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "expiresAt": "2026-09-08T22:48:30Z",
+    "expiresAt": "2026-09-08T23:28:10Z",
     "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
   }
 }

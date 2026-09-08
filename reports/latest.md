@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T22:07:32.887008+00:00`
+- 状态更新：`2026-09-08T22:28:10.103262+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**404**
-- 待选选题：**360**
-- 待发布制作包：**149**
+- 对标帖子快照：**405**
+- 待选选题：**361**
+- 待发布制作包：**150**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 22:13:15 +0000 2026 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | [X](https://x.com/StockMKTNewz/status/2097448206950928886) |
 | @WhaleInsider | Tue Sep 08 21:33:55 +0000 2026 | JUST IN: $MarsCat becomes the first ever AI coin on BNB Chain to distribute over over $100,000 in MarsCoin rewards to its holders. https://t.co/gjIwo9NbLf | [X](https://x.com/WhaleInsider/status/2097438308410241104) |
 | @StockMKTNewz | Tue Sep 08 21:37:29 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/fOMjncdIw5 | [X](https://x.com/StockMKTNewz/status/2097439204133273723) |
 | @StockMKTNewz | Tue Sep 08 20:30:47 +0000 2026 | Nike $NKE stock hit new decade plus lows again today | [X](https://x.com/StockMKTNewz/status/2097422417794650113) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 15:22:08 +0000 2026 | Lebron James is now working with Polymarket | [X](https://x.com/StockMKTNewz/status/2097344742673494213) |
 | @StockMKTNewz | Tue Sep 08 14:54:59 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/JWNTkIR8Ec | [X](https://x.com/StockMKTNewz/status/2097337913184768120) |
 | @StockMKTNewz | Tue Sep 08 15:00:52 +0000 2026 | $AMD stock is now up by more than 5% and back over $500  🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl | [X](https://x.com/StockMKTNewz/status/2097339391756718541) |
-| @StockMKTNewz | Tue Sep 08 14:28:53 +0000 2026 | I am now down just 28% on my $TE shares 🫡👜 | [X](https://x.com/StockMKTNewz/status/2097331343088578889) |
 
 ## 选题推荐
 
@@ -122,6 +122,7 @@
 | 1 | $DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc | StockMKTNewz | 11348 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | LIV GOLF FILES FOR CHAPTER 11 BANKRUPTCY | StockMKTNewz | 7296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $MarsCat becomes the first ever AI coin on BNB Chain to distribute over over $100,0… | WhaleInsider | 15029 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | StockMKTNewz | 11497 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2579,6 +2580,13 @@ $DELL just hit a new 52-week high.  When2Buy — your U.S. stock partner.
 
 LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock partner.
 
+### $7.2M Greek luxury property
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-greece-luxury-property/when2buy-image-model.png`
+
+A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2725,6 +2733,10 @@ LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock part
 
 ## 最近运行
 
+- `2026-09-08T22:28:10Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and one image-model package completed; publication was withheld because the required Postiz delivery-window query could not be completed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
+- `2026-09-08T22:27:43Z` **produce / succeeded** — Archived the newest benchmark media and produced one original image-model package with exact-logo compositing and visual QA.
+- `2026-09-08T22:26:03Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
+- `2026-09-08T22:26:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-08T22:07:32Z` **full / partial** — Apify scanned both benchmark feeds, archived available source media, and rebuilt the timestamp-first production queue; no new eligible originals required package production. Publication was withheld by the active 60-minute Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T22:06:44Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
 - `2026-09-08T22:06:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2741,7 +2753,3 @@ LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock part
 - `2026-09-08T20:50:32Z` **full / partial** — Apify collection, 72-hour metrics collection, media archive, newest-first queue rebuild, and the newest image-model package completed; no publication was submitted. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T20:49:41Z` **produce / succeeded** — Produced the newest timestamp-first LIV Golf benchmark package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-08T20:48:05Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
-- `2026-09-08T20:47:53Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
-- `2026-09-08T20:47:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).
-- `2026-09-08T20:28:58Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
-- `2026-09-08T20:28:15Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, newest-package production, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
