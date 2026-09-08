@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T15:30:53.066384+00:00`
+- 状态更新：`2026-09-08T15:51:52.351471+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**379**
-- 待选选题：**337**
-- 待发布制作包：**133**
+- 对标帖子快照：**382**
+- 待选选题：**340**
+- 待发布制作包：**134**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 15:32:54 +0000 2026 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | [X](https://x.com/StockMKTNewz/status/2097347451963289915) |
+| @WhaleInsider | Tue Sep 08 15:40:56 +0000 2026 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market pullback. https://t.co/Qv7swgBJYK | [X](https://x.com/WhaleInsider/status/2097349476302148002) |
+| @StockMKTNewz | Tue Sep 08 15:44:24 +0000 2026 | THIS IS WHO GAVE THE KEYNOTE AT EVERY APPLE $AAPL IPHONE LAUNCH EVENT  2007: Steve Jobs 2008: Steve Jobs 2009: Steve Jobs 2010: Steve Jobs 2011: Tim Cook  2012: Tim Cook 2013: Tim Cook 2014: Tim Cook 2015: Tim Cook 2016: Tim Cook 2017: Tim Cook 2018: Tim Cook 2019: Tim Cook 2020: Tim Cook 2021: Tim Cook 2022: Tim Cook 2023: Tim Cook 2024: Tim Cook 2025: Tim Cook 2026: John Ternus | [X](https://x.com/StockMKTNewz/status/2097350348318933244) |
 | @WhaleInsider | Tue Sep 08 15:20:43 +0000 2026 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge as the chain’s native PENGUIN. 19% of the supply has been burned. https://t.co/43Pf0eDuGo | [X](https://x.com/WhaleInsider/status/2097344386354802890) |
 | @StockMKTNewz | Tue Sep 08 15:22:08 +0000 2026 | Lebron James is now working with Polymarket | [X](https://x.com/StockMKTNewz/status/2097344742673494213) |
 | @StockMKTNewz | Tue Sep 08 14:54:59 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/JWNTkIR8Ec | [X](https://x.com/StockMKTNewz/status/2097337913184768120) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 10:54:27 +0000 2026 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - Goldman Sachs | [X](https://x.com/StockMKTNewz/status/2097277378934231391) |
 | @StockMKTNewz | Tue Sep 08 10:57:48 +0000 2026 | The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04% | [X](https://x.com/StockMKTNewz/status/2097278222278799375) |
 | @StockMKTNewz | Tue Sep 08 10:32:30 +0000 2026 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-inch EUV photomasks, replacing the 6-inch format used today | [X](https://x.com/StockMKTNewz/status/2097271855493034341) |
-| @StockMKTNewz | Tue Sep 08 10:43:47 +0000 2026 | Mistral AI is now worth more than $24.3 Billion | [X](https://x.com/StockMKTNewz/status/2097274693912858661) |
-| @StockMKTNewz | Tue Sep 08 10:23:15 +0000 2026 | Samsung and Taiwan Semiconductor, the world’s two biggest chipmakers, have committed to using $ASML’s High NA extreme ultraviolet (EUV) lithography machines - CNBC https://t.co/lZKGm9B2XO | [X](https://x.com/StockMKTNewz/status/2097269529998946681) |
-| @WhaleInsider | Tue Sep 08 09:48:55 +0000 2026 | JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meeting - Kyodo News. https://t.co/3RvprXmSCJ | [X](https://x.com/WhaleInsider/status/2097260887690113057) |
 
 ## 选题推荐
 
@@ -109,6 +109,7 @@
 | 1 | JUST IN: $188,000,000 worth of long positions liquidated from the crypto market in the past … | WhaleInsider | 17522 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | $AMD stock is now up by more than 5% and back over $500 🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl | StockMKTNewz | 8728 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Lebron James is now working with Polymarket | StockMKTNewz | 6979 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | THIS IS WHO GAVE THE KEYNOTE AT EVERY APPLE $AAPL IPHONE LAUNCH EVENT 2007: Steve Jobs 2008:… | StockMKTNewz | 4900 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -144,6 +145,7 @@
 | 2 | I am now down just 28% on my $TE shares 🫡👜 | StockMKTNewz | 14630 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading htt… | StockMKTNewz | 11078 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge… | WhaleInsider | 15229 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market p… | WhaleInsider | 15143 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -162,6 +164,7 @@
 | 3 | JUST IN: $BTC currently forecasted to go as low as $74,000 this month, per Kalshi traders. h… | WhaleInsider | 21696 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | BMNR is now 97% of the way to its goal of owning 5% of the Ethereum supply | StockMKTNewz | 11195 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | StockMKTNewz | 18492 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | StockMKTNewz | 13267 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2437,6 +2440,13 @@ $PENGUIN is now live on Robinhood Chain.  19% of its supply has been burned.  Wh
 
 LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partner.
 
+### Apple iPhone keynote leadership changes in 2026
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-apple-iphone-keynote-john-ternus/when2buy-image-model.png`
+
+Apple’s 2026 iPhone launch keynote is set to be led by John Ternus.  Steve Jobs led the 2007–2010 launches, while Tim Cook led every launch from 2011 through 2025.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2583,6 +2593,12 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 
 ## 最近运行
 
+- `2026-09-08T15:51:52Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and the newest image-model package completed; the one-post publication throttle was deferred by the delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T15:49:50Z` **queue / succeeded** — Prepared 77 one-to-one production candidate(s).
+- `2026-09-08T15:49:00Z` **produce / succeeded** — Produced the newest timestamp-first Apple keynote package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-08T15:46:40Z` **queue / succeeded** — Prepared 77 one-to-one production candidate(s).
+- `2026-09-08T15:46:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 3 new post(s).
+- `2026-09-08T15:45:37Z` **queue / succeeded** — Prepared 74 one-to-one production candidate(s).
 - `2026-09-08T15:30:53Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T15:30:52Z` **produce / succeeded** — Apify collection, media archive, timestamp-first queue rebuild, and two new complete image-model packages completed.
 - `2026-09-08T15:30:22Z` **produce / succeeded** — Apify collection, media archive, timestamp-first queue rebuild, and two new complete image-model packages completed.
@@ -2597,9 +2613,3 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 - `2026-09-08T14:50:03Z` **publish / partial** — Apify collection, 72-hour metrics collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T14:49:39Z` **produce / succeeded** — Produced the newest timestamp-first crypto long-liquidations package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-08T14:47:24Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
-- `2026-09-08T14:47:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
-- `2026-09-08T14:29:19Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
-- `2026-09-08T14:29:19Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T14:29:19Z` **produce / succeeded** — Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-08T14:28:47Z` **produce / succeeded** — Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-08T14:26:23Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
