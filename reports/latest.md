@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T07:32:21.454144+00:00`
+- 状态更新：`2026-09-08T07:47:25.816336+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**346**
 - 待选选题：**304**
-- 待发布制作包：**102**
-- 已验证发布：**137**
+- 待发布制作包：**101**
+- 已验证发布：**138**
 
 ## 对标账号扫描
 
@@ -2168,7 +2168,7 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ### China's U.S. Treasury holdings reach 25-year low
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-china-us-treasury-holdings-25-year-low/when2buy-image-model.png`
 
 China's holdings of U.S. Treasuries have fallen to their lowest level in 25 years.  When2Buy — your U.S. stock partner.
@@ -2282,6 +2282,7 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 7 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
+| Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -2321,10 +2322,13 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
-| Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097226225660158456) |
+| China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097230288871154032) |
 
 ## 最近运行
 
+- `2026-09-08T07:47:25.814719+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-08T07:46:26Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T07:46:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T07:25:00Z` **full / succeeded** — Apify collection, media archive, newest-first queue rebuild, one image-model package, Postiz verification, reporting, and canonical push completed; one X post was published.
 - `2026-09-08T07:31:14.415680+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T07:29:47Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
@@ -2342,6 +2346,3 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 - `2026-09-08T06:26:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T06:05:59Z` **full / partial** — Preflight and validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived no new media, and rebuilt the 45-item newest-first queue. The 60-minute Postiz check found one PUBLISHED X delivery with a public URL and no ERROR, FAILED, or unverified QUEUE delivery. The newest ready package contained a time-sensitive “reopens tomorrow” claim that was stale at probe time; it was not submitted.
 - `2026-09-08T06:06:48Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
-- `2026-09-08T06:06:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
-- `2026-09-08T06:05:47Z` **queue / succeeded** — Prepared 45 one-to-one production candidate(s).
-- `2026-09-08T05:48:28.255210+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

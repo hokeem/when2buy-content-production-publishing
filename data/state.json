@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T07:32:21.454144+00:00",
+  "updatedAt": "2026-09-08T07:47:25.816336+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -21254,7 +21254,7 @@
       "benchmarkPostId": "2097214423114863064",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097214423114863064",
       "title": "China's U.S. Treasury holdings reach 25-year low",
-      "status": "ready",
+      "status": "published",
       "postText": "China's holdings of U.S. Treasuries have fallen to their lowest level in 25 years.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "China's holdings of U.S. Treasuries have dropped to their lowest level in 25 years."
@@ -21281,7 +21281,9 @@
             "no damaged or malformed subject"
           ]
         }
-      }
+      },
+      "postizPostId": "cmtsd96sm0vxoqk0ym4arv6c7",
+      "publishedAt": "2026-09-08T07:46:00.000Z"
     },
     {
       "id": "pkg-20260908-ethereum-robinhood-chain-bridge-surge",
@@ -23757,8 +23759,25 @@
       "postizPostId": "cmtsco4j00vrtqk0y2p8ynjxa",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-08T07:30:00.000Z",
+        "windowStart": "2026-09-08T07:30:00Z",
         "windowEnd": "2026-09-11T07:30:00Z",
+        "lastAttemptAt": "2026-09-08T07:46:14.404859Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2097230288871154032",
+      "packageId": "pkg-20260908-china-us-treasury-holdings-25-year-low",
+      "title": "China's U.S. Treasury holdings reach 25-year low",
+      "status": "published",
+      "publishedAt": "2026-09-08T07:46:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097230288871154032",
+      "postizPostId": "cmtsd96sm0vxoqk0ym4arv6c7",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-08T07:46:00.000Z",
+        "windowEnd": "2026-09-11T07:46:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -107867,6 +107886,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-08T07:06:03.288686Z"
       }
+    },
+    {
+      "id": "metric-2097226225660158456-20260908T074614Z",
+      "postId": "2097226225660158456",
+      "observedAt": "2026-09-08T07:46:14.404859Z",
+      "views": 7,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtsco4j00vrtqk0y2p8ynjxa",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtsco4j00vrtqk0y2p8ynjxa",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-08"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-08"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-08"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-08"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-08"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-08T07:46:14.404859Z"
+      }
     }
   ],
   "experiments": [],
@@ -114470,6 +114531,37 @@
         "url": "https://x.com/_When2buy/status/2097226225660158456",
         "throttle": "one package submitted"
       }
+    },
+    {
+      "id": "run-20260908T074625Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T07:46:25Z",
+      "completedAt": "2026-09-08T07:46:25Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T074626Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T07:46:26Z",
+      "completedAt": "2026-09-08T07:46:26Z",
+      "summary": "Prepared 46 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T074725Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T07:47:25.814719+00:00",
+      "completedAt": "2026-09-08T07:47:25.814724+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
