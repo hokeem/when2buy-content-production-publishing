@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T01:26:30.160467+00:00`
+- 状态更新：`2026-09-08T01:49:10.737148+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
-- 待发布制作包：**108**
-- 已验证发布：**132**
+- 待发布制作包：**107**
+- 已验证发布：**133**
 
 ## 对标账号扫描
 
@@ -2159,7 +2159,7 @@ ChatGPT Work can now pick up on the details that make a user's writing sound lik
 
 ### Isar Aerospace reaches orbit from western Europe
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-isar-aerospace-western-europe-orbit/when2buy-image-model.png`
 
 Isar Aerospace has reached orbit for the first time.  It is the first rocket to reach orbit from western European soil.  When2Buy — your U.S. stock partner.
@@ -2301,9 +2301,14 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095805634109382831) |
+| Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097139963221708976) |
 
 ## 最近运行
 
+- `2026-09-08T01:49:10.736205Z` **full / succeeded** — Preflight passed; Apify scanned both required benchmarks with no new eligible originals; 72-hour Postiz metrics appended numeric observations; queue rebuilt newest-first; one newest ready package was published and verified publicly.
+- `2026-09-08T01:48:26.353948+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-08T01:46:38Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-08T01:46:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T01:26:30Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
 - `2026-09-08T01:25:57Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-08T01:25:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -2320,7 +2325,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T00:26:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T00:09:00Z` **review / partial** — Correction to run-20260908T000600Z-full: the Apify collection did complete, adding benchmark post 2097113561960964257 from StockMKTNewz; its media was archived and a ready package was produced. Publication remains withheld by the active delivery circuit breaker. The earlier run record was written before delayed command output became available. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl remain the exact circuit-breaker reason; neither accepted delivery was retried.
 - `2026-09-08T00:05:32Z` **full / partial** — Preflight and state validation passed. Apify collection was invoked for both required benchmark accounts but did not complete within the execution window. No publication was submitted because the preceding-60-minute Postiz query found ERROR deliveries with no public X release URL. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with releaseURL null in the preceding 60 minutes; 60-minute circuit breaker active until 2026-09-08T01:06:45Z. Accepted deliveries were not retried.
-- `2026-09-08T00:07:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-08T00:06:20Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-08T00:06:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-07T23:45:31Z` **full / partial** — Apify collection, hourly 72-hour metrics, timestamp-first queue rebuild, and one newest-package Postiz probe completed; the accepted delivery remains QUEUE without a public X URL. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted at 2026-09-07T23:48:00Z and remained QUEUE with releaseURL null at the final check; it was not retried.
