@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T00:26:57.721569+00:00`
+- 状态更新：`2026-09-08T00:47:38.830640+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
@@ -2170,7 +2170,7 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | 选题 | 发布时间 | 浏览 | 喜欢 | 回复 | 转发 | URL |
 |---|---|---:|---:|---:|---:|---|
 | JUST IN: $FLORK is live on the Las Vegas Strip for a full week, right next to the MGM Casino. | 2026-09-06T12:43:00.000Z | 199 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580050598682787) |
-| When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 127 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
+| When you invest $10,000 into the S&P 500 here's how much of each of the top 10 holdings you're buyin | 2026-09-06T00:44:00.000Z | 128 | 0 | 2 | 0 | [X](https://x.com/_When2buy/status/2096399182450090088) |
 | McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
 | JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 102 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
@@ -2304,6 +2304,11 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ## 最近运行
 
+- `2026-09-08T00:47:38.804876Z` **full / partial** — Preflight and state validation passed. The Asia/Shanghai :45 metrics pass appended 82 numeric Postiz observations for 49 releases within their 72-hour windows. Apify scanned both required benchmark accounts, added no eligible originals, and rebuilt the 49-item newest-first queue. The newest ready Isar Aerospace package passed the content standard but was not submitted. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
+- `2026-09-08T00:46:53Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-08T00:46:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-08T00:46:46Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
+- `2026-09-08T00:46:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-08T00:26:43Z` **full / partial** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no new eligible originals, archived no new media, and rebuilt the 49-item newest-first queue. The newest ready Isar Aerospace package passed the content standard but was not submitted. Origin/main was fetched; rebase was safely deferred because unrelated unstaged workspace changes already existed. Postiz X deliveries cmtrw4ahi0jwilm0yxw76aeuc and cmtrw5m1g0jwmlm0yqbozm1wl were ERROR with no public release URL in the preceding 60 minutes; 60-minute circuit breaker remains active until 2026-09-08T01:26:43Z. No post was submitted and accepted deliveries were not retried.
 - `2026-09-08T00:26:13Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-08T00:26:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2319,8 +2324,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-07T23:46:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-07T23:28:14Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-07T23:27:47Z` **produce / succeeded** — Produced two newest eligible packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-07T23:25:54Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
-- `2026-09-07T23:25:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).
-- `2026-09-07T23:06:35Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrtxtr90j26lm0yovi4o6kc was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-07T23:06:15Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-07T23:06:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
