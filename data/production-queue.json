@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T03:07:21Z",
+  "generatedAt": "2026-09-08T03:27:36Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -32,13 +32,13 @@
       "score": 9881,
       "heatScore": 9881,
       "scoreBreakdown": {
-        "freshness": 5,
+        "freshness": 4,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -626,13 +626,13 @@
       "score": 16496,
       "heatScore": 16496,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 14,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -664,13 +664,13 @@
       "score": 12514,
       "heatScore": 12514,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 14,
+      "editorialScore": 13,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {

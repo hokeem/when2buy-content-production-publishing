@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T03:08:21.012606+00:00`
+- 状态更新：`2026-09-08T03:27:36.574040+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
@@ -2307,6 +2307,8 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 
 ## 最近运行
 
+- `2026-09-08T03:27:36Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T03:27:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 73 eligible originals and added 0 new post(s).
 - `2026-09-08T03:08:21Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmts2jufr0lnnlm0y4fsggp63 was ERROR with no public x.com release URL; accepted task was not retried.
 - `2026-09-08T03:07:21Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T03:07:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 66 eligible originals and added 0 new post(s).
@@ -2325,5 +2327,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T02:06:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 0 new post(s).
 - `2026-09-08T01:49:10.736205Z` **full / succeeded** — Preflight passed; Apify scanned both required benchmarks with no new eligible originals; 72-hour Postiz metrics appended numeric observations; queue rebuilt newest-first; one newest ready package was published and verified publicly.
 - `2026-09-08T01:48:26.353948+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-08T01:46:38Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-08T01:46:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
