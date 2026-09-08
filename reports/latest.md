@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T14:29:19.487597+00:00`
+- 状态更新：`2026-09-08T14:50:39.022533+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**373**
-- 待选选题：**331**
-- 待发布制作包：**128**
+- 对标帖子快照：**375**
+- 待选选题：**333**
+- 待发布制作包：**129**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 14:28:53 +0000 2026 | I am now down just 28% on my $TE shares 🫡👜 | [X](https://x.com/StockMKTNewz/status/2097331343088578889) |
+| @WhaleInsider | Tue Sep 08 14:35:12 +0000 2026 | JUST IN: $188,000,000 worth of long positions liquidated from the crypto market in the past 24 hours. https://t.co/eWMiEtGfwd | [X](https://x.com/WhaleInsider/status/2097332931765174660) |
 | @WhaleInsider | Tue Sep 08 14:13:55 +0000 2026 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. https://t.co/jKYvAIaL1s | [X](https://x.com/WhaleInsider/status/2097327575504670871) |
 | @StockMKTNewz | Tue Sep 08 13:34:24 +0000 2026 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | [X](https://x.com/StockMKTNewz/status/2097317631451660624) |
 | @WhaleInsider | Tue Sep 08 13:41:29 +0000 2026 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from today. https://t.co/TtcP5nfnfW | [X](https://x.com/WhaleInsider/status/2097319414722928938) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Tue Sep 08 08:55:05 +0000 2026 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fees over the past 15 days. https://t.co/8CoQElRl79 | [X](https://x.com/WhaleInsider/status/2097247338762809344) |
 | @WhaleInsider | Tue Sep 08 08:19:11 +0000 2026 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-card platforms - Economic Times. https://t.co/SU5cr4MxeS | [X](https://x.com/WhaleInsider/status/2097238305305755671) |
 | @WhaleInsider | Tue Sep 08 07:19:20 +0000 2026 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over the past month, now surpassing $700 million - Token Terminal. https://t.co/mkiuh50YyH | [X](https://x.com/WhaleInsider/status/2097223244692574351) |
-| @WhaleInsider | Tue Sep 08 06:44:17 +0000 2026 | JUST IN: 🇨🇳 China’s holdings of U.S. Treasuries have dropped to their lowest level in 25 years. https://t.co/sZ4iQvPS0q | [X](https://x.com/WhaleInsider/status/2097214423114863064) |
-| @StockMKTNewz | Tue Sep 08 00:03:30 +0000 2026 | German 🇩🇪 rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend  This is the first rocket to ever reach orbit from western European soil https://t.co/NsShfe8Ree | [X](https://x.com/StockMKTNewz/status/2097113561960964257) |
 
 ## 选题推荐
 
@@ -106,6 +106,7 @@
 | 1 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI D… | StockMKTNewz | 13419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trill… | StockMKTNewz | 11798 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. ht… | WhaleInsider | 19463 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $188,000,000 worth of long positions liquidated from the crypto market in the past … | WhaleInsider | 17522 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -138,6 +139,7 @@
 | 2 | GOOGLE CLOUD, ACCENTURE LAUNCH UNIT TO PUT AI ENGINEERS ON-SITE WITH CUSTOMERS Google Cloud … | StockMKTNewz | 12116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Apple $AAPL reportedly bought Sonera "a California company that makes non-invasive sensors t… | StockMKTNewz | 4020 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from… | WhaleInsider | 28101 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | I am now down just 28% on my $TE shares 🫡👜 | StockMKTNewz | 14630 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2396,6 +2398,13 @@ The U.S. stock market is back open.  When2Buy — your U.S. stock partner.
 
 GameStop on Robinhood Chain surged after Vlad Tenev followed the project's X account.  When2Buy — your U.S. stock partner.
 
+### Crypto longs see $188M liquidated
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-crypto-long-liquidations-188m/when2buy-image-model.png`
+
+Crypto long positions worth $188M were liquidated over the past 24 hours.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2542,6 +2551,11 @@ GameStop on Robinhood Chain surged after Vlad Tenev followed the project's X acc
 
 ## 最近运行
 
+- `2026-09-08T14:50:39Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
+- `2026-09-08T14:50:03Z` **publish / partial** — Apify collection, 72-hour metrics collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T14:49:39Z` **produce / succeeded** — Produced the newest timestamp-first crypto long-liquidations package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-08T14:47:24Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
+- `2026-09-08T14:47:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
 - `2026-09-08T14:29:19Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
 - `2026-09-08T14:29:19Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T14:29:19Z` **produce / succeeded** — Produced the newest timestamp-first GME Robinhood Chain package with an inspected image-model visual and exact-logo compositing.
@@ -2557,8 +2571,3 @@ GameStop on Robinhood Chain surged after Vlad Tenev followed the project's X acc
 - `2026-09-08T13:32:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 88 eligible originals and added 0 new post(s).
 - `2026-09-08T13:28:42Z` **full / partial** — Apify collection, media archiving, timestamp-first queue rebuild, newest package production, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T13:28:09Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
-- `2026-09-08T13:28:09Z` **produce / succeeded** — Produced the newest timestamp-first Amazon–Qualcomm package with an inspected image-model visual, exact-logo compositing, and internal source mapping.
-- `2026-09-08T13:26:14Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
-- `2026-09-08T13:26:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
-- `2026-09-08T13:06:50Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T13:06:28Z` **queue / succeeded** — Prepared 63 one-to-one production candidate(s).
