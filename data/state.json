@@ -107330,12 +107330,10 @@
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": false,
-    "detectedAt": "2026-09-08T04:49:10Z",
-    "expiresAt": "2026-09-08T05:49:10Z",
-    "postizPostId": "cmts4sknt0ttmqk0y277c7w6v",
-    "deliveryReason": "Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.",
-    "clearedAt": "2026-09-08T06:08:25.297149+00:00",
-    "clearedReason": "The prior expiry elapsed and the preceding-60-minute Postiz check found no ERROR, FAILED, or unverified QUEUE X delivery."
+    "active": true,
+    "detectedAt": "2026-09-08T06:27:00Z",
+    "expiresAt": "2026-09-08T07:27:00Z",
+    "postizPostId": "cmtrw5m1g0jwmlm0yqbozm1wl",
+    "deliveryReason": "Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried."
   }
 }
