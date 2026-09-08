@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T22:28:10.103262+00:00`
+- 状态更新：`2026-09-08T22:51:04.027422+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**405**
 - 待选选题：**361**
@@ -2733,6 +2733,9 @@ A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your 
 
 ## 最近运行
 
+- `2026-09-08T22:51:04Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, and the :45 Postiz-first 72-hour metrics pass completed; no new eligible source posts required production and publication was withheld by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
+- `2026-09-08T22:46:40Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
+- `2026-09-08T22:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T22:28:10Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and one image-model package completed; publication was withheld because the required Postiz delivery-window query could not be completed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T22:27:43Z` **produce / succeeded** — Archived the newest benchmark media and produced one original image-model package with exact-logo compositing and visual QA.
 - `2026-09-08T22:26:03Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
@@ -2750,6 +2753,3 @@ A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your 
 - `2026-09-08T21:07:28Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, validation, and reporting completed; no newly eligible items required production. Publication withheld by the active 60-minute Postiz delivery circuit breaker: Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010.
 - `2026-09-08T21:06:41Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
 - `2026-09-08T21:06:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T20:50:32Z` **full / partial** — Apify collection, 72-hour metrics collection, media archive, newest-first queue rebuild, and the newest image-model package completed; no publication was submitted. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
-- `2026-09-08T20:49:41Z` **produce / succeeded** — Produced the newest timestamp-first LIV Golf benchmark package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-08T20:48:05Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).

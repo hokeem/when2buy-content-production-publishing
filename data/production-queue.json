@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T22:26:03Z",
+  "generatedAt": "2026-09-08T22:46:40Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -7,14 +7,20 @@
       "rank": 1,
       "benchmarkPostId": "2097448206950928886",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260908-greece-luxury-property",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097448206950928886",
       "originalText": "This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad",
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HRuh9JJXUAAaGn4.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRuh9JJXUAAaGn4.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097448206950928886-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 15,
         "replies": 4,
@@ -1559,13 +1565,13 @@
       "score": 5845,
       "heatScore": 5845,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 3
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -1589,13 +1595,13 @@
       "score": 11635,
       "heatScore": 11635,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
