@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T19:49:10.807916+00:00",
+  "updatedAt": "2026-09-08T20:11:48.235586+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10950,6 +10950,35 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097414465733955650",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097414465733955650",
+      "postedAt": "Tue Sep 08 19:59:11 +0000 2026",
+      "text": "🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to major players in China’s 🇨🇳 auto industry - Bloomberg https://t.co/kjVkItqUXI",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRuDSFgasAAh_7h.jpg"
+      ],
+      "engagement": {
+        "likes": 12,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 9119
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T20:08:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRuDSFgasAAh_7h.jpg",
+          "path": "deliverables/pkg-20260908-ford-china-auto-ties/benchmark-media-01.jpg",
+          "status": "archived",
+          "archivedAt": "2026-09-08T20:10:53Z"
+        }
+      ]
     }
   ],
   "radar": [
@@ -17693,6 +17722,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097414465733955650",
+      "rank": 1,
+      "title": "🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to …",
+      "benchmarkPostId": "2097414465733955650",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097414465733955650",
+      "score": 9529,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T20:08:19Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -25330,6 +25378,42 @@
             "no generated public copy, source attribution, generic radar, or damaged artifacts",
             "not a pure-text card",
             "exact repository logo composited once in the lower-right safe area"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-ford-china-auto-ties",
+      "benchmarkPostId": "2097414465733955650",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097414465733955650",
+      "title": "Ford faces fresh scrutiny over China partnerships",
+      "status": "ready",
+      "postText": "Ford $F is facing fresh U.S. scrutiny over its China business partnerships.\n\nTransportation Secretary Sean Duffy cited CATL, Geely, BYD and Lincoln Nautilus production in China in a letter to CEO Jim Farley.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Transportation Secretary Sean Duffy criticized Ford's business relationships with Chinese auto-industry companies.",
+        "The letter cited CATL, Geely, BYD and Lincoln Nautilus production in China."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097414465733955650",
+        "https://www.marketscreener.com/news/trump-administration-blasts-ford-business-deals-with-chinese-firms-ce785bd8d08bfe27"
+      ],
+      "imagePath": "deliverables/pkg-20260908-ford-china-auto-ties/when2buy-image-model.png",
+      "createdAt": "2026-09-08T20:10:53Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Asset type: premium square visual for an X financial-news post. Primary request: an original Ford-related automotive-industry scene conveying international supply-chain complexity. Scene/backdrop: a refined near-black automotive engineering studio with a deep-blue American pickup truck in foreground and distant abstract industrial logistics light structures made of unlabelled red lines and glowing metal components; no ports, ships, maps, flags, or recognizable places. Subject: one clean, realistic deep-blue pickup truck in three-quarter view, clearly the visual hero. Style/medium: cinematic editorial automotive photography, highly realistic materials, premium institutional-finance polish. Composition/framing: exact 1:1 square; truck dominant at left-center; clean empty lower-right corner reserved for a separate logo overlay. Lighting/mood: white rim lights, restrained deep-red accents, black graphite shadows. Color palette: near-black, white, restrained red, deep blue. Text: absolutely no text. Constraints: no letters, words, numbers, tickers, corporate logos, watermarks, flags, maps, people, signs, charts, generic radar imagery, or damaged objects/artifacts.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T20:10:53Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led automotive visual",
+            "no visible text, numbers, source attribution, map, or generic radar imagery",
+            "premium near-black, white, restrained-red palette",
+            "exact repository logo composited once in lower-right safe area",
+            "no damaged logo or misspelled visible text"
           ],
           "result": "passed"
         }
@@ -120472,6 +120556,64 @@
       "deliveryCheck": {
         "postizWindowMinutes": 60,
         "result": "failed: HTTP 403 error code: 1010"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T20:49:10Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
+    },
+    {
+      "id": "run-20260908T200816Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T20:08:16Z",
+      "completedAt": "2026-09-08T20:08:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T200819Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T20:08:19Z",
+      "completedAt": "2026-09-08T20:08:19Z",
+      "summary": "Prepared 69 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T201053Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T20:10:53Z",
+      "completedAt": "2026-09-08T20:10:53Z",
+      "summary": "Archived new Apify media and produced the newest timestamp-first Ford package with an inspected image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T201136Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T20:11:36Z",
+      "completedAt": "2026-09-08T20:11:36Z",
+      "summary": "Prepared 69 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T201148Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T20:11:48Z",
+      "completedAt": "2026-09-08T20:11:48Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, newest-package production, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T20:49:10Z"
       },
       "circuitBreaker": {
         "active": true,

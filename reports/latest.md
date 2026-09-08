@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T19:49:10.807916+00:00`
+- 状态更新：`2026-09-08T20:11:48.235586+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**398**
-- 待选选题：**355**
-- 待发布制作包：**146**
+- 对标帖子快照：**399**
+- 待选选题：**356**
+- 待发布制作包：**147**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 19:59:11 +0000 2026 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to major players in China’s 🇨🇳 auto industry - Bloomberg https://t.co/kjVkItqUXI | [X](https://x.com/StockMKTNewz/status/2097414465733955650) |
 | @StockMKTNewz | Tue Sep 08 19:12:27 +0000 2026 | Meta Platforms $META just posted this:  “today we're rolling out Muse, our new personal ai assistant. Muse is always-on, wicked fast, can use a browser, connect to your apps, and is designed to be secure.” https://t.co/tZGkKgesKh | [X](https://x.com/StockMKTNewz/status/2097402706411278438) |
 | @WhaleInsider | Tue Sep 08 18:59:38 +0000 2026 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the escrow platform Xinbi Guarantee on the Tron network. https://t.co/GpzLtXPcZ3 | [X](https://x.com/WhaleInsider/status/2097399478881837141) |
 | @StockMKTNewz | Tue Sep 08 18:15:40 +0000 2026 | RAMP is reportedly in talks to raise money at a $60 Billion valuation | [X](https://x.com/StockMKTNewz/status/2097388417306829126) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 13:34:24 +0000 2026 | THE 🇺🇸 STOCK MARKET IS BACK OPEN AGAIN https://t.co/2njwmrf9BD | [X](https://x.com/StockMKTNewz/status/2097317631451660624) |
 | @WhaleInsider | Tue Sep 08 13:41:29 +0000 2026 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from today. https://t.co/TtcP5nfnfW | [X](https://x.com/WhaleInsider/status/2097319414722928938) |
 | @StockMKTNewz | Tue Sep 08 13:52:35 +0000 2026 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trillion to make it the biggest IPO of the year https://t.co/M1ywd7jyRp | [X](https://x.com/StockMKTNewz/status/2097322208989249734) |
-| @StockMKTNewz | Tue Sep 08 13:08:36 +0000 2026 | AMAZON $AMZN AND QUALCOMM $QCOM JUST ANNOUNCED A MULTI-GENERATION PARTNERSHIP ON CUSTOM AI DATA CENTER SILICON  As a part of the deal Amazon got a warrant for 25 Million Qualcomm shares tied to up to $60 Billion in chip purchases  The warrant is exercisable at $161.26 per share through September 2036. It's structured around actual purchases: Amazon vests shares as it places binding orders and buys Qualcomm's server chip products, technology, systems, and manufacturing services, up to that $60 billion ceiling.  3,750,000 shares vested immediately upon issuance, based on Amazon's initial purchase commitments. The rest vests as the relationship deepens. | [X](https://x.com/StockMKTNewz/status/2097311138782319005) |
 
 ## 选题推荐
 
@@ -118,6 +118,7 @@
 | 1 | RAMP is reportedly in talks to raise money at a $60 Billion valuation | StockMKTNewz | 11167 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the esc… | WhaleInsider | 12712 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Meta Platforms $META just posted this: “today we're rolling out Muse, our new personal ai as… | StockMKTNewz | 12612 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to … | StockMKTNewz | 9529 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2553,6 +2554,13 @@ Tether froze about 39.27M USDT across 10 Tron addresses tied to Xinbi Guarantee.
 
 $META is rolling out Muse, an always-on AI assistant that can browse and connect to your apps.  It is designed to be fast and secure.  When2Buy — your U.S. stock partner.
 
+### Ford faces fresh scrutiny over China partnerships
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-ford-china-auto-ties/when2buy-image-model.png`
+
+Ford $F is facing fresh U.S. scrutiny over its China business partnerships.  Transportation Secretary Sean Duffy cited CATL, Geely, BYD and Lincoln Nautilus production in China in a letter to CEO Jim Farley.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2699,6 +2707,11 @@ $META is rolling out Muse, an always-on AI assistant that can browse and connect
 
 ## 最近运行
 
+- `2026-09-08T20:11:48Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, newest-package production, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T20:11:36Z` **queue / succeeded** — Prepared 69 one-to-one production candidate(s).
+- `2026-09-08T20:10:53Z` **produce / succeeded** — Archived new Apify media and produced the newest timestamp-first Ford package with an inspected image-model visual and exact-logo compositing.
+- `2026-09-08T20:08:19Z` **queue / succeeded** — Prepared 69 one-to-one production candidate(s).
+- `2026-09-08T20:08:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-08T19:49:10Z` **full / partial** — Hourly metrics, Apify collection, media archive, timestamp-first queue rebuild, and delivery-safety checks completed; publication was withheld by the Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T19:47:53Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).
 - `2026-09-08T19:47:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2714,8 +2727,3 @@ $META is rolling out Muse, an always-on AI assistant that can browse and connect
 - `2026-09-08T18:49:03Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
 - `2026-09-08T18:48:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-08T18:46:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-08T18:38:54Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld because the required 60-minute Postiz delivery-status safety check failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T18:38:13Z` **produce / succeeded** — Produced the newest timestamp-first RAMP package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-08T18:26:38Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
-- `2026-09-08T18:26:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 2 new post(s).
-- `2026-09-08T18:07:43Z` **full / partial** — Apify scanned both benchmark accounts, archived available benchmark media, and rebuilt the timestamp-first production queue; no new eligible source posts required package production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
