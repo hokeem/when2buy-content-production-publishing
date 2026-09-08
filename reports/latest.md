@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T06:49:08.743712+00:00`
+- 状态更新：`2026-09-08T07:07:19.663404+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**345**
 - 待选选题：**303**
@@ -2235,6 +2235,7 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
+| Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
@@ -2243,7 +2244,6 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
-| Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -2272,6 +2272,7 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
+| Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 7 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
@@ -2307,7 +2308,6 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 | U.S. stock market performance today | 2026-09-07T07:52:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869428151611677) |
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
-| Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
@@ -2316,6 +2316,9 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 
 ## 最近运行
 
+- `2026-09-08T07:06:00Z` **full / partial** — Apify collection, timestamp-first queue rebuild, Postiz-first metrics collection, package validation, and reporting completed; publication was withheld by the active delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
+- `2026-09-08T07:06:03Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T07:06:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T06:45:39Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 Postiz-first metrics check, and one new complete ready package were completed; publication was withheld by the required Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried.
 - `2026-09-08T06:48:35Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T06:46:13Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
@@ -2333,6 +2336,3 @@ China's holdings of U.S. Treasuries have fallen to their lowest level in 25 year
 - `2026-09-08T05:46:51Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
 - `2026-09-08T05:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-08T05:27:23Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmts4sknt0ttmqk0y277c7w6v was ERROR with no public x.com release URL; accepted task was not retried.
-- `2026-09-08T05:26:49Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
-- `2026-09-08T05:26:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 58 eligible originals and added 0 new post(s).
-- `2026-09-08T05:03:50Z` **metrics / partial** — Full-history current metrics refresh: 133/135 published posts received a new numeric snapshot; 2 retained prior history.
