@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T10:31:09.129412+00:00`
+- 状态更新：`2026-09-08T10:54:08.035353+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**351**
-- 待选选题：**309**
-- 待发布制作包：**106**
+- 对标帖子快照：**353**
+- 待选选题：**311**
+- 待发布制作包：**108**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 10:32:30 +0000 2026 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-inch EUV photomasks, replacing the 6-inch format used today | [X](https://x.com/StockMKTNewz/status/2097271855493034341) |
+| @StockMKTNewz | Tue Sep 08 10:43:47 +0000 2026 | Mistral AI is now worth more than $24.3 Billion | [X](https://x.com/StockMKTNewz/status/2097274693912858661) |
 | @StockMKTNewz | Tue Sep 08 10:23:15 +0000 2026 | Samsung and Taiwan Semiconductor, the world’s two biggest chipmakers, have committed to using $ASML’s High NA extreme ultraviolet (EUV) lithography machines - CNBC https://t.co/lZKGm9B2XO | [X](https://x.com/StockMKTNewz/status/2097269529998946681) |
 | @WhaleInsider | Tue Sep 08 09:48:55 +0000 2026 | JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meeting - Kyodo News. https://t.co/3RvprXmSCJ | [X](https://x.com/WhaleInsider/status/2097260887690113057) |
 | @WhaleInsider | Tue Sep 08 09:21:16 +0000 2026 | JUST IN: $BTC short-term whale profits hit record $9.07 billion, increasing risk of a sell-off - CryptoQuant. https://t.co/WcdRi9WxqD | [X](https://x.com/WhaleInsider/status/2097253930233151772) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Mon Sep 07 15:38:51 +0000 2026 | JUST IN: Copper hits record $14,533 a ton on the London Metal Exchange, fueled by fears of potential U.S. tariffs on refined copper imports. https://t.co/5itwt8BTfp | [X](https://x.com/WhaleInsider/status/2096986563792027845) |
 | @WhaleInsider | Mon Sep 07 15:06:50 +0000 2026 | JUST IN: Hunter Biden to launch memecoin - WSJ. https://t.co/5cvSPt2IaV | [X](https://x.com/WhaleInsider/status/2096978507339354540) |
 | @StockMKTNewz | Mon Sep 07 15:12:46 +0000 2026 | The son of former President Joe Biden is launching a meme coin - WSJ https://t.co/gyVkeTL46V | [X](https://x.com/StockMKTNewz/status/2096979998687023461) |
-| @WhaleInsider | Mon Sep 07 15:17:09 +0000 2026 | JUST IN: DATAHEDGE AI has officially partnered with @Intel and is now listed in the Intel Partner Directory. https://t.co/BkbUhbnb4u | [X](https://x.com/WhaleInsider/status/2096981101445001600) |
-| @WhaleInsider | Mon Sep 07 14:54:13 +0000 2026 | JUST IN: 🇰🇷 Hanwha Investment &amp; Securities, part of Korea’s $200 billion Hanwha conglomerate, is building a tokenization platform on Avalanche as South Korea accelerates plans to bring securities onchain. | [X](https://x.com/WhaleInsider/status/2096975330858692621) |
 
 ## 选题推荐
 
@@ -96,6 +96,7 @@
 | 1 | JUST IN: $BTC short-term whale profits hit record $9.07 billion, increasing risk of a sell-o… | WhaleInsider | 12439 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meet… | WhaleInsider | 18078 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Samsung and Taiwan Semiconductor, the world’s two biggest chipmakers, have committed to usin… | StockMKTNewz | 4736 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Mistral AI is now worth more than $24.3 Billion | StockMKTNewz | 5845 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -120,6 +121,7 @@
 | 2 | *THE STOCK MARKET IS BACK OPEN AGAIN TOMORROW | StockMKTNewz | 13991 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $XRP futures activity surges to six-month high amid price volatility​​​​​​​​​​​​​​​… | WhaleInsider | 14151 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | OpenAI owned ChatGPT posted this today: “ChatGPT Work can now pick up on what makes your wri… | StockMKTNewz | 9683 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-in… | StockMKTNewz | 11635 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2220,6 +2222,20 @@ Bank of Japan is weighing a 0.25-point rate hike at its Sept. 17-18 meeting.  A 
 
 Samsung and TSMC have committed to ASML's High-NA EUV machines.  The systems target the next generation of leading-edge chip production.  When2Buy — your U.S. stock partner.
 
+### Mistral AI valuation above $24.3B
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-mistral-ai-valuation-243b/when2buy-image-model.png`
+
+Mistral AI is now valued above $24.3B.  The French AI challenger has entered a new valuation tier.  When2Buy — your U.S. stock partner.
+
+### ASML and TSMC 12-inch EUV photomasks
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-asml-tsm-12-inch-euv-masks/when2buy-image-model.png`
+
+$ASML and $TSM have launched a 12-inch EUV photomask initiative.  It targets a replacement for the 6-inch format used today.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2366,6 +2382,11 @@ Samsung and TSMC have committed to ASML's High-NA EUV machines.  The systems tar
 
 ## 最近运行
 
+- `2026-09-08T10:54:08Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 metrics pass, and two image-model packages completed; the one-post publication throttle was safely deferred. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T10:53:25Z` **queue / succeeded** — Prepared 52 one-to-one production candidate(s).
+- `2026-09-08T10:53:24Z` **produce / succeeded** — Produced 2 newest timestamp-first package(s) with inspected image-model visuals and one exact-logo composite each.
+- `2026-09-08T10:48:18Z` **queue / succeeded** — Prepared 52 one-to-one production candidate(s).
+- `2026-09-08T10:48:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).
 - `2026-09-08T10:31:09Z` **queue / succeeded** — Prepared 50 one-to-one production candidate(s).
 - `2026-09-08T10:30:12Z` **full / partial** — Apify collection, media archiving, timestamp-first queue rebuild, ASML package production, the required delivery-window check, and the one permitted Postiz probe completed; publication did not yield a verified public X URL. Postiz X publication probe for pkg-20260908-asml-high-na-euv-commitments was rejected before delivery creation: HTTP 403 (error code: 1010); no public x.com URL was produced and no retry was attempted.
 - `2026-09-08T10:29:14.420925+00:00` **produce / succeeded** — Produced the newest ASML High-NA EUV package with an image-model visual and exact-logo compositing.
@@ -2381,8 +2402,3 @@ Samsung and TSMC have committed to ASML's High-NA EUV machines.  The systems tar
 - `2026-09-08T09:48:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T09:48:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T09:30:08Z` **full / partial** — Apify collection, timestamp-first queue rebuild, and newest-package production completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was previously accepted for the newest package but has no public x.com release URL more than 10 minutes later; it was not retried. Delivery-status query returned HTTP 403.
-- `2026-09-08T09:29:26Z` **produce / succeeded** — Produced the newest BTC whale-profit-risk package with an inspected image-model visual and one exact-logo composite.
-- `2026-09-08T09:26:18Z` **queue / succeeded** — Prepared 48 one-to-one production candidate(s).
-- `2026-09-08T09:26:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-08T09:08:43Z` **full / partial** — Collected both benchmark feeds, archived new source media, rebuilt the timestamp-first queue, and produced the newest ready package. No social submission was made. Postiz preceding-60-minute delivery query returned HTTP 403 Forbidden; circuit-breaker status could not be verified, so no post was submitted.
-- `2026-09-08T09:08:16Z` **produce / succeeded** — Produced the newest eligible Robinhood package from a QA-inspected image-model visual with exact-logo compositing.
