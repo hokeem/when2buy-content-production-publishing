@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T14:50:39.022533+00:00`
+- 状态更新：`2026-09-08T15:16:00.602054+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**375**
-- 待选选题：**333**
-- 待发布制作包：**129**
+- 对标帖子快照：**377**
+- 待选选题：**335**
+- 待发布制作包：**131**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 14:54:59 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/JWNTkIR8Ec | [X](https://x.com/StockMKTNewz/status/2097337913184768120) |
+| @StockMKTNewz | Tue Sep 08 15:00:52 +0000 2026 | $AMD stock is now up by more than 5% and back over $500  🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl | [X](https://x.com/StockMKTNewz/status/2097339391756718541) |
 | @StockMKTNewz | Tue Sep 08 14:28:53 +0000 2026 | I am now down just 28% on my $TE shares 🫡👜 | [X](https://x.com/StockMKTNewz/status/2097331343088578889) |
 | @WhaleInsider | Tue Sep 08 14:35:12 +0000 2026 | JUST IN: $188,000,000 worth of long positions liquidated from the crypto market in the past 24 hours. https://t.co/eWMiEtGfwd | [X](https://x.com/WhaleInsider/status/2097332931765174660) |
 | @WhaleInsider | Tue Sep 08 14:13:55 +0000 2026 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. https://t.co/jKYvAIaL1s | [X](https://x.com/WhaleInsider/status/2097327575504670871) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Tue Sep 08 09:48:55 +0000 2026 | JUST IN: 🇯🇵 Bank of Japan to hike key interest rates 0.25 percentage point in September meeting - Kyodo News. https://t.co/3RvprXmSCJ | [X](https://x.com/WhaleInsider/status/2097260887690113057) |
 | @WhaleInsider | Tue Sep 08 09:21:16 +0000 2026 | JUST IN: $BTC short-term whale profits hit record $9.07 billion, increasing risk of a sell-off - CryptoQuant. https://t.co/WcdRi9WxqD | [X](https://x.com/WhaleInsider/status/2097253930233151772) |
 | @WhaleInsider | Tue Sep 08 08:55:05 +0000 2026 | 𝗝𝗨𝗦𝗧 𝗜𝗡: Bernstein sees 31% upside for $HOOD, pointing to $33 million in Robinhood Chain fees over the past 15 days. https://t.co/8CoQElRl79 | [X](https://x.com/WhaleInsider/status/2097247338762809344) |
-| @WhaleInsider | Tue Sep 08 08:19:11 +0000 2026 | JUST IN: 🇮🇳 Indians are using crypto to buy groceries, fuel and gold through overseas gift-card platforms - Economic Times. https://t.co/SU5cr4MxeS | [X](https://x.com/WhaleInsider/status/2097238305305755671) |
-| @WhaleInsider | Tue Sep 08 07:19:20 +0000 2026 | JUST IN: The amount of $ETH bridged from Ethereum to Robinhood Chain has surged 150% over the past month, now surpassing $700 million - Token Terminal. https://t.co/mkiuh50YyH | [X](https://x.com/WhaleInsider/status/2097223244692574351) |
 
 ## 选题推荐
 
@@ -107,6 +107,7 @@
 | 1 | There is now a 59% chance that Anthropic goes public at a valuation of more than $1.75 Trill… | StockMKTNewz | 11798 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $GME on Robinhood Chain surges after Vlad Tenev follows the project’s X account. ht… | WhaleInsider | 19463 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $188,000,000 worth of long positions liquidated from the crypto market in the past … | WhaleInsider | 17522 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | $AMD stock is now up by more than 5% and back over $500 🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl | StockMKTNewz | 8728 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -140,6 +141,7 @@
 | 2 | Apple $AAPL reportedly bought Sonera "a California company that makes non-invasive sensors t… | StockMKTNewz | 4020 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from… | WhaleInsider | 28101 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | I am now down just 28% on my $TE shares 🫡👜 | StockMKTNewz | 14630 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading htt… | StockMKTNewz | 11078 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2405,6 +2407,20 @@ GameStop on Robinhood Chain surged after Vlad Tenev followed the project's X acc
 
 Crypto long positions worth $188M were liquidated over the past 24 hours.  When2Buy — your U.S. stock partner.
 
+### AMD rises above $500
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-amd-above-500/when2buy-image-model.png`
+
+$AMD is up more than 5% and back above $500.  When2Buy — your U.S. stock partner.
+
+### S&P 500 early trading performance
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-sp500-early-trading/when2buy-image-model.png`
+
+Here is how every S&P 500 stock is performing in early trading.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2551,6 +2567,11 @@ Crypto long positions worth $188M were liquidated over the past 24 hours.  When2
 
 ## 最近运行
 
+- `2026-09-08T15:16:00Z` **publish / partial** — Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T15:15:11Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
+- `2026-09-08T15:15:11Z` **produce / succeeded** — Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-08T15:06:21Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
+- `2026-09-08T15:06:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 2 new post(s).
 - `2026-09-08T14:50:39Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
 - `2026-09-08T14:50:03Z` **publish / partial** — Apify collection, 72-hour metrics collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T14:49:39Z` **produce / succeeded** — Produced the newest timestamp-first crypto long-liquidations package with an inspected image-model visual and exact-logo compositing.
@@ -2566,8 +2587,3 @@ Crypto long positions worth $188M were liquidated over the past 24 hours.  When2
 - `2026-09-08T14:10:41Z` **produce / succeeded** — Archived benchmark media and produced 3 newest timestamp-first packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-08T14:06:44Z` **queue / succeeded** — Prepared 67 one-to-one production candidate(s).
 - `2026-09-08T14:06:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
-- `2026-09-08T13:33:18Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, two image-model packages, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T13:32:21Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).
-- `2026-09-08T13:32:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 88 eligible originals and added 0 new post(s).
-- `2026-09-08T13:28:42Z` **full / partial** — Apify collection, media archiving, timestamp-first queue rebuild, newest package production, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T13:28:09Z` **queue / succeeded** — Prepared 64 one-to-one production candidate(s).

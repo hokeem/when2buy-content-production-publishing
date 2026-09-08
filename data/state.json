@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T14:50:39.022533+00:00",
+  "updatedAt": "2026-09-08T15:16:00.602054+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -10324,6 +10324,62 @@
       "isPinned": false,
       "capturedAt": "2026-09-08T14:47:23Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097339391756718541",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097339391756718541",
+      "postedAt": "Tue Sep 08 15:00:52 +0000 2026",
+      "text": "$AMD stock is now up by more than 5% and back over $500\n\n🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRs_D5mX0AAA-ec.jpg"
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 12,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 7258
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T15:06:20Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRs_D5mX0AAA-ec.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097339391756718541-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097337913184768120",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097337913184768120",
+      "postedAt": "Tue Sep 08 14:54:59 +0000 2026",
+      "text": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/JWNTkIR8Ec",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRs9rztbIAAlbOA.jpg"
+      ],
+      "engagement": {
+        "likes": 22,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 10028
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-08T15:06:20Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRs9rztbIAAlbOA.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097337913184768120-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -16652,6 +16708,44 @@
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2097339391756718541",
+      "rank": 1,
+      "title": "$AMD stock is now up by more than 5% and back over $500 🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl",
+      "benchmarkPostId": "2097339391756718541",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097339391756718541",
+      "score": 8728,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T15:06:21Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097337913184768120",
+      "rank": 2,
+      "title": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading htt…",
+      "benchmarkPostId": "2097337913184768120",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097337913184768120",
+      "score": 11078,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-08T15:06:21Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
       }
     }
   ],
@@ -23650,6 +23744,77 @@
             "premium near-black, white, restrained-red palette",
             "not pure text or generic radar",
             "no generated public copy or source attribution",
+            "exact repository logo composited once in lower-right safe area",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-amd-above-500",
+      "benchmarkPostId": "2097339391756718541",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097339391756718541",
+      "title": "AMD rises above $500",
+      "status": "ready",
+      "postText": "$AMD is up more than 5% and back above $500.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark says AMD stock is up more than 5%.",
+        "The captured benchmark says AMD is back above $500."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097339391756718541"
+      ],
+      "imagePath": "deliverables/pkg-20260908-amd-above-500/when2buy-image-model.png",
+      "createdAt": "2026-09-08T15:15:10Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Create a complete entity-led square visual about AMD stock moving above 500 after rising more than 5 percent today. Near-black institutional trading-floor environment, elegant glossy three-dimensional AMD chip as dominant subject, subtle rising red market-chart light trails, bold white highlights and restrained deep-red accents. Exact 1:1 composition with clean lower-right logo-safe area. No text, letters, numbers, logos, watermark, generic radar imagery, people, or damaged artifacts.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T15:15:10Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once in lower-right safe area",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-sp500-early-trading",
+      "benchmarkPostId": "2097337913184768120",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097337913184768120",
+      "title": "S&P 500 early trading performance",
+      "status": "ready",
+      "postText": "Here is how every S&P 500 stock is performing in early trading.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark presents how every S&P 500 stock has performed in early trading."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097337913184768120"
+      ],
+      "imagePath": "deliverables/pkg-20260908-sp500-early-trading/when2buy-image-model.png",
+      "createdAt": "2026-09-08T15:15:11Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Create a complete entity-led square visual showing the full S&P 500 in early trading as a broad market heatmap, with abstract rectangular market tiles flowing across a near-black exchange analytics wall, mixed restrained red and green movement, graphite and white highlights. Exact 1:1 composition with clean lower-right logo-safe area. No text, letters, numbers, company names, logos, watermark, generic radar imagery, people, or damaged artifacts.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-08T15:15:11Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black, white, restrained-red palette",
+            "not pure text or generic radar",
             "exact repository logo composited once in lower-right safe area",
             "no damaged logo or misspelled visible text"
           ],
@@ -117995,6 +118160,64 @@
       "completedAt": "2026-09-08T14:50:39Z",
       "summary": "Prepared 70 one-to-one production candidate(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260908T150620Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T15:06:20Z",
+      "completedAt": "2026-09-08T15:06:20Z",
+      "summary": "Apify scanned both benchmark accounts; captured 37 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T150621Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T15:06:21Z",
+      "completedAt": "2026-09-08T15:06:21Z",
+      "summary": "Prepared 72 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T151511Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T15:15:11Z",
+      "completedAt": "2026-09-08T15:15:11Z",
+      "summary": "Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T151511Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T15:15:11Z",
+      "completedAt": "2026-09-08T15:15:11Z",
+      "summary": "Prepared 72 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T151600Z-publish",
+      "mode": "publish",
+      "status": "partial",
+      "startedAt": "2026-09-08T15:16:00Z",
+      "completedAt": "2026-09-08T15:16:00Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, and two image-model packages completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T15:50:03Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T15:50:03Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
