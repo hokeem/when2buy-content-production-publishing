@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T15:51:52.351471+00:00`
+- 状态更新：`2026-09-08T16:14:36.670357+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**382**
-- 待选选题：**340**
-- 待发布制作包：**134**
+- 对标帖子快照：**384**
+- 待选选题：**342**
+- 待发布制作包：**136**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Tue Sep 08 16:05:12 +0000 2026 | Lebron James is now working with our partners over at Polymarket | [X](https://x.com/StockMKTNewz/status/2097355583498113152) |
+| @WhaleInsider | Tue Sep 08 16:05:15 +0000 2026 | JUST IN: Dev behind billion-dollar PEPE on ETH joins Artificial Pepe $AP. https://t.co/G4ZbzBNKEL | [X](https://x.com/WhaleInsider/status/2097355596462690504) |
 | @StockMKTNewz | Tue Sep 08 15:32:54 +0000 2026 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | [X](https://x.com/StockMKTNewz/status/2097347451963289915) |
 | @WhaleInsider | Tue Sep 08 15:40:56 +0000 2026 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market pullback. https://t.co/Qv7swgBJYK | [X](https://x.com/WhaleInsider/status/2097349476302148002) |
 | @StockMKTNewz | Tue Sep 08 15:44:24 +0000 2026 | THIS IS WHO GAVE THE KEYNOTE AT EVERY APPLE $AAPL IPHONE LAUNCH EVENT  2007: Steve Jobs 2008: Steve Jobs 2009: Steve Jobs 2010: Steve Jobs 2011: Tim Cook  2012: Tim Cook 2013: Tim Cook 2014: Tim Cook 2015: Tim Cook 2016: Tim Cook 2017: Tim Cook 2018: Tim Cook 2019: Tim Cook 2020: Tim Cook 2021: Tim Cook 2022: Tim Cook 2023: Tim Cook 2024: Tim Cook 2025: Tim Cook 2026: John Ternus | [X](https://x.com/StockMKTNewz/status/2097350348318933244) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 11:06:49 +0000 2026 | PALANTIR $PLTR AND NEBIUS $NBIS JUST ANNOUNCED A NEW PARTNERSHIP  Palantir named Nebius "its preferred sovereign AI infrastructure partner" which will bring "Nebius's AI-native compute infrastructure and cloud platform to Palantir's commercial customers." https://t.co/UYxA721ojU | [X](https://x.com/StockMKTNewz/status/2097280493431501087) |
 | @StockMKTNewz | Tue Sep 08 11:20:52 +0000 2026 | The United Kingdom 🇬🇧 is set to pay its highest borrowing costs on a debt sale since at least 1998 - Bloomberg https://t.co/neDllquazz | [X](https://x.com/StockMKTNewz/status/2097284027023560809) |
 | @StockMKTNewz | Tue Sep 08 10:54:27 +0000 2026 | Earnings per share for the S&amp;P 500 is expected to increase by between 24%-31% in 2026 - Goldman Sachs | [X](https://x.com/StockMKTNewz/status/2097277378934231391) |
-| @StockMKTNewz | Tue Sep 08 10:57:48 +0000 2026 | The dividend yield on the S&amp;P 500 just hit a new all time low of 1.04% | [X](https://x.com/StockMKTNewz/status/2097278222278799375) |
-| @StockMKTNewz | Tue Sep 08 10:32:30 +0000 2026 | $ASML and Taiwan Semiconductor $TSM just launched a new industry initiative to develop 12-inch EUV photomasks, replacing the 6-inch format used today | [X](https://x.com/StockMKTNewz/status/2097271855493034341) |
 
 ## 选题推荐
 
@@ -110,6 +110,7 @@
 | 1 | $AMD stock is now up by more than 5% and back over $500 🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl | StockMKTNewz | 8728 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Lebron James is now working with Polymarket | StockMKTNewz | 6979 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | THIS IS WHO GAVE THE KEYNOTE AT EVERY APPLE $AAPL IPHONE LAUNCH EVENT 2007: Steve Jobs 2008:… | StockMKTNewz | 4900 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Dev behind billion-dollar PEPE on ETH joins Artificial Pepe $AP. https://t.co/G4Zbz… | WhaleInsider | 10345 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -146,6 +147,7 @@
 | 2 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading htt… | StockMKTNewz | 11078 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge… | WhaleInsider | 15229 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market p… | WhaleInsider | 15143 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Lebron James is now working with our partners over at Polymarket | StockMKTNewz | 5476 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2447,6 +2449,20 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 
 Apple’s 2026 iPhone launch keynote is set to be led by John Ternus.  Steve Jobs led the 2007–2010 launches, while Tim Cook led every launch from 2011 through 2025.  When2Buy — your U.S. stock partner.
 
+### Artificial Pepe developer move
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-artificial-pepe-developer-joins-ap/when2buy-image-model.png`
+
+The developer behind the billion-dollar $PEPE project on Ethereum has joined Artificial Pepe $AP.  When2Buy — your U.S. stock partner.
+
+### LeBron James and Polymarket
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-lebron-polymarket-partnership-v2/when2buy-image-model.png`
+
+LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2593,6 +2609,11 @@ Apple’s 2026 iPhone launch keynote is set to be led by John Ternus.  Steve Job
 
 ## 最近运行
 
+- `2026-09-08T16:14:36Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and two new image-model packages completed; publication was deferred by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-08T16:14:20Z` **queue / succeeded** — Prepared 79 one-to-one production candidate(s).
+- `2026-09-08T16:14:20Z` **produce / succeeded** — Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.
+- `2026-09-08T16:08:01Z` **queue / succeeded** — Prepared 79 one-to-one production candidate(s).
+- `2026-09-08T16:08:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 2 new post(s).
 - `2026-09-08T15:51:52Z` **full / partial** — Apify collection, media archive, :45 metrics pass, timestamp-first queue rebuild, and the newest image-model package completed; the one-post publication throttle was deferred by the delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-08T15:49:50Z` **queue / succeeded** — Prepared 77 one-to-one production candidate(s).
 - `2026-09-08T15:49:00Z` **produce / succeeded** — Produced the newest timestamp-first Apple keynote package with an inspected image-model visual and exact-logo compositing.
@@ -2608,8 +2629,3 @@ Apple’s 2026 iPhone launch keynote is set to be led by John Ternus.  Steve Job
 - `2026-09-08T15:15:11Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
 - `2026-09-08T15:15:11Z` **produce / succeeded** — Produced the two newest timestamp-first Apify benchmark packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-08T15:06:21Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
-- `2026-09-08T15:06:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 2 new post(s).
-- `2026-09-08T14:50:39Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
-- `2026-09-08T14:50:03Z` **publish / partial** — Apify collection, 72-hour metrics collection, media archive, timestamp-first queue rebuild, and the newest image-model package completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403 Forbidden; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T14:49:39Z` **produce / succeeded** — Produced the newest timestamp-first crypto long-liquidations package with an inspected image-model visual and exact-logo compositing.
-- `2026-09-08T14:47:24Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
