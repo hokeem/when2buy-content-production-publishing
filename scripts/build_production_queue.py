@@ -15,7 +15,7 @@ PROMOTION_MARKERS = (
     "free to enter", "deposit bonus", "deposit bonuses", "cash prize",
     "send me a dm", "join my", "sign up", "use code", "giveaway",
     "airdrop announcement", "qualifies", "will go out to their players",
-    "our partners", "partner over at", "partnership with",
+    "our partners", "partner over at", "partnership with", "rewards to its holders",
 )
 
 def now(): return datetime.now(timezone.utc)
