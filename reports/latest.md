@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T02:26:56.809126+00:00`
+- 状态更新：`2026-09-08T02:48:13.655880+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**344**
 - 待选选题：**302**
-- 待发布制作包：**105**
+- 待发布制作包：**104**
 - 已验证发布：**135**
 
 ## 对标账号扫描
@@ -2124,7 +2124,7 @@ The U.S. stock market reopens tomorrow.  When2Buy — your U.S. stock partner.
 
 ### Robinhood wins first IPO underwriting mandate
 
-- 状态：`ready`
+- 状态：`failed`
 - 配图：`deliverables/pkg-20260908-robinhood-first-oura-ipo-underwriter/when2buy-image-model.png`
 
 Robinhood $HOOD just landed its first official IPO underwriting mandate as Oura prepares to go public.  When2Buy — your U.S. stock partner.
@@ -2234,6 +2234,7 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
+| Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
 | This is what Grok's portfolio looks like right now in the Rallies AI Stock Market Arena: $80,895 of | 2026-09-05T12:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217642730475682) |
@@ -2246,7 +2247,6 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | .hood names bring ERC-6551 stock accounts | 2026-09-07T06:35:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849878433624359) |
 | S&P 500 membership changes over a decade | 2026-09-07T07:13:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859560149647529) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
-| Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | JUST IN: 🇺🇸 Americans hit with record-high Labor Day Weekend gasoline prices - CNBC. | 2026-09-06T06:43:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489538550137245) |
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | September ends | 2026-09-07T06:54:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854732249952423) |
@@ -2259,6 +2259,7 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | U.S. stock market performance today | 2026-09-07T07:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869428151611677) |
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
+| ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
@@ -2301,12 +2302,16 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z |  |  |  |  | [X](https://x.com/_When2buy/status/2095805634109382831) |
-| Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097139963221708976) |
-| ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097144732816474500) |
-| Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097149656405008457) |
+| Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
+| Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
 
 ## 最近运行
 
+- `2026-09-08T02:48:13.654884+00:00` **publish / partial** — One newest-ready Postiz delivery probe failed without a verified public X URL; the 60-minute circuit breaker is active. Postiz X delivery cmts2jufr0lnnlm0y4fsggp63 was ERROR with no public x.com release URL; accepted task was not retried.
+- `2026-09-08T02:46:47Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T02:46:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
+- `2026-09-08T02:46:26Z` **queue / succeeded** — Prepared 46 one-to-one production candidate(s).
+- `2026-09-08T02:46:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T02:26:56.806375+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-08T02:25:56Z` **queue / succeeded** — Prepared 47 one-to-one production candidate(s).
 - `2026-09-08T02:25:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -2322,8 +2327,3 @@ Isar Aerospace has reached orbit for the first time.  It is the first rocket to 
 - `2026-09-08T01:25:57Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
 - `2026-09-08T01:25:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-08T01:07:34.902775Z` **full / partial** — Preflight and state validation passed. Apify scanned both required benchmark accounts, added no eligible originals, archived available media, and rebuilt the 49-item newest-first queue. The newest ready package passed the content standard but was not submitted. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
-- `2026-09-08T01:06:36Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-08T01:06:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T00:47:38.804876Z` **full / partial** — Preflight and state validation passed. The Asia/Shanghai :45 metrics pass appended 82 numeric Postiz observations for 49 releases within their 72-hour windows. Apify scanned both required benchmark accounts, added no eligible originals, and rebuilt the 49-item newest-first queue. The newest ready Isar Aerospace package passed the content standard but was not submitted. Postiz X delivery cmtrw5m1g0jwmlm0yqbozm1wl was ERROR with no public x.com release URL in the preceding 60 minutes; accepted task was not retried.
-- `2026-09-08T00:46:53Z` **queue / succeeded** — Prepared 49 one-to-one production candidate(s).
-- `2026-09-08T00:46:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
