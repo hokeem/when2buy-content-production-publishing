@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T21:07:40.984075+00:00`
+- 状态更新：`2026-09-08T21:26:57.776612+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**402**
 - 待选选题：**359**
@@ -2724,6 +2724,9 @@ LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock part
 
 ## 最近运行
 
+- `2026-09-08T21:25:35Z` **full / partial** — Apify collection, benchmark-media archiving, newest-first queue rebuild, validation, and reporting completed; no newly eligible items required production. Publication withheld by the active 60-minute Postiz delivery circuit breaker: Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010.
+- `2026-09-08T21:26:29Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
+- `2026-09-08T21:26:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-08T21:07:28Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, validation, and reporting completed; no newly eligible items required production. Publication withheld by the active 60-minute Postiz delivery circuit breaker: Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010.
 - `2026-09-08T21:06:41Z` **queue / succeeded** — Prepared 72 one-to-one production candidate(s).
 - `2026-09-08T21:06:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2741,6 +2744,3 @@ LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock part
 - `2026-09-08T20:11:36Z` **queue / succeeded** — Prepared 69 one-to-one production candidate(s).
 - `2026-09-08T20:10:53Z` **produce / succeeded** — Archived new Apify media and produced the newest timestamp-first Ford package with an inspected image-model visual and exact-logo compositing.
 - `2026-09-08T20:08:19Z` **queue / succeeded** — Prepared 69 one-to-one production candidate(s).
-- `2026-09-08T20:08:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-08T19:49:10Z` **full / partial** — Hourly metrics, Apify collection, media archive, timestamp-first queue rebuild, and delivery-safety checks completed; publication was withheld by the Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-08T19:47:53Z` **queue / succeeded** — Prepared 68 one-to-one production candidate(s).

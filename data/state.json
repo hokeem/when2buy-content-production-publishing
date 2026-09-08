@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T21:07:40.984075+00:00",
+  "updatedAt": "2026-09-08T21:26:57.776612+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -120961,6 +120961,46 @@
       "startedAt": "2026-09-08T21:07:28Z",
       "completedAt": "2026-09-08T21:07:28Z",
       "summary": "Apify collection, media archiving, newest-first queue rebuild, validation, and reporting completed; no newly eligible items required production.",
+      "reason": "Publication withheld by the active 60-minute Postiz delivery circuit breaker: Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-08T21:50:32Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-08T21:50:32Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
+      }
+    },
+    {
+      "id": "run-20260908T212626Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T21:26:26Z",
+      "completedAt": "2026-09-08T21:26:26Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260908T212629Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-08T21:26:29Z",
+      "completedAt": "2026-09-08T21:26:29Z",
+      "summary": "Prepared 72 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260908T212800Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-08T21:25:35Z",
+      "completedAt": "2026-09-08T21:28:00Z",
+      "summary": "Apify collection, benchmark-media archiving, newest-first queue rebuild, validation, and reporting completed; no newly eligible items required production.",
       "reason": "Publication withheld by the active 60-minute Postiz delivery circuit breaker: Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010.",
       "deliveryCheck": {
         "postizWindowMinutes": 60,
