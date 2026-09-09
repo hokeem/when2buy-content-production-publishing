@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T06:03:43.476924+00:00",
+  "updatedAt": "2026-09-09T06:16:38.103678+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -25435,7 +25435,7 @@
       "benchmarkPostId": "2097365965235196026",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097365965235196026",
       "title": "Tesla prepares 1,000 Cybercabs",
-      "status": "ready",
+      "status": "published",
       "postText": "Tesla $TSLA is preparing to deploy 1,000 Cybercabs.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Tesla $TSLA is preparing to deploy 1,000 Cybercabs."
@@ -25462,7 +25462,9 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttpgdyg084wlm0y907wmk70",
+      "publishedAt": "2026-09-09T06:16:00.000Z"
     },
     {
       "id": "pkg-20260908-unipcs6900-robinhood-chain-launch",
@@ -25539,7 +25541,7 @@
       "benchmarkPostId": "2097370670145347948",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097370670145347948",
       "title": "Iran sets new conditions for U.S. talks",
-      "status": "ready",
+      "status": "published",
       "postText": "Tehran is demanding new conditions from Washington before negotiations can resume.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Tehran is demanding new conditions from Washington.",
@@ -25568,14 +25570,16 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttpb83j083zlm0ynsg4c2be",
+      "publishedAt": "2026-09-09T06:12:00.000Z"
     },
     {
       "id": "pkg-20260908-cresta-ai-agent-handoff",
       "benchmarkPostId": "2097368151558123921",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097368151558123921",
       "title": "Cresta targets AI-agent customer support",
-      "status": "ready",
+      "status": "published",
       "postText": "Cresta is building customer-service AI agents that solve problems and hand conversations to human agents.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Cresta aims to make customer service easier with AI agents.",
@@ -25604,14 +25608,16 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttpduxl089qqk0ysqj88x0b",
+      "publishedAt": "2026-09-09T06:14:00.000Z"
     },
     {
       "id": "pkg-20260908-cognition-2b-48b-valuation",
       "benchmarkPostId": "2097379660854157664",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097379660854157664",
       "title": "Cognition raises more than $2B at $48B valuation",
-      "status": "ready",
+      "status": "published",
       "postText": "Cognition raised more than $2B at a $48B valuation.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Cognition raised more than $2 billion.",
@@ -25640,14 +25646,16 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttp628x0825lm0yrcc31v65",
+      "publishedAt": "2026-09-09T06:08:00.000Z"
     },
     {
       "id": "pkg-20260908-robinhood-chain-17171-eth-revenue",
       "benchmarkPostId": "2097376303628390521",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097376303628390521",
       "title": "Robinhood Chain generates 17,171 ETH in revenue",
-      "status": "ready",
+      "status": "published",
       "postText": "Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Robinhood Chain generated 17,171 ETH in revenue in 70 days.",
@@ -25676,7 +25684,9 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttp8l8a082qlm0y1r4s1z85",
+      "publishedAt": "2026-09-09T06:10:00.000Z"
     },
     {
       "id": "pkg-20260908-ramp-60b-valuation-talks",
@@ -28883,6 +28893,91 @@
         "status": "active",
         "windowStart": "2026-09-09T05:57:00.000Z",
         "windowEnd": "2026-09-12T05:57:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097567823543636175",
+      "packageId": "pkg-20260908-cognition-2b-48b-valuation",
+      "title": "Cognition raises more than $2B at $48B valuation",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:08:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097567823543636175",
+      "postizPostId": "cmttp628x0825lm0yrcc31v65",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:08:00.000Z",
+        "windowEnd": "2026-09-12T06:08:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097568335147962382",
+      "packageId": "pkg-20260908-robinhood-chain-17171-eth-revenue",
+      "title": "Robinhood Chain generates 17,171 ETH in revenue",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:10:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097568335147962382",
+      "postizPostId": "cmttp8l8a082qlm0y1r4s1z85",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:10:00.000Z",
+        "windowEnd": "2026-09-12T06:10:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097568844399415429",
+      "packageId": "pkg-20260908-iran-us-negotiation-conditions",
+      "title": "Iran sets new conditions for U.S. talks",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:12:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097568844399415429",
+      "postizPostId": "cmttpb83j083zlm0ynsg4c2be",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:12:00.000Z",
+        "windowEnd": "2026-09-12T06:12:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097569348282175687",
+      "packageId": "pkg-20260908-cresta-ai-agent-handoff",
+      "title": "Cresta targets AI-agent customer support",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:14:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097569348282175687",
+      "postizPostId": "cmttpduxl089qqk0ysqj88x0b",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:14:00.000Z",
+        "windowEnd": "2026-09-12T06:14:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097569842102706604",
+      "packageId": "pkg-20260908-tesla-1000-cybercabs",
+      "title": "Tesla prepares 1,000 Cybercabs",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:16:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097569842102706604",
+      "postizPostId": "cmttpgdyg084wlm0y907wmk70",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:16:00.000Z",
+        "windowEnd": "2026-09-12T06:16:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -126778,6 +126873,73 @@
         "pkg-20260908-tether-freezes-3927m-usdt",
         "pkg-20260908-ramp-60b-valuation-talks"
       ]
+    },
+    {
+      "id": "run-20260909T060704Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:07:04Z",
+      "completedAt": "2026-09-09T06:07:04Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T060706Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:07:06Z",
+      "completedAt": "2026-09-09T06:07:06Z",
+      "summary": "Prepared 61 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T060836Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:08:36.396889+00:00",
+      "completedAt": "2026-09-09T06:08:36.396893+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T061039Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:10:39.406748+00:00",
+      "completedAt": "2026-09-09T06:10:39.406752+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T061242Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:12:42.350374+00:00",
+      "completedAt": "2026-09-09T06:12:42.350380+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T061440Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:14:40.140909+00:00",
+      "completedAt": "2026-09-09T06:14:40.140917+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T061638Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:16:38.102167+00:00",
+      "completedAt": "2026-09-09T06:16:38.102172+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

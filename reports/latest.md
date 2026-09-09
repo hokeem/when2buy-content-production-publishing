@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T06:03:43.476924+00:00`
+- 状态更新：`2026-09-09T06:16:38.103678+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**408**
 - 待选选题：**364**
-- 待发布制作包：**140**
-- 已验证发布：**155**
+- 待发布制作包：**135**
+- 已验证发布：**160**
 
 ## 对标账号扫描
 
@@ -2494,7 +2494,7 @@ Samsung led Mistral AI's €3B Series D at a valuation above €21B.  The fundin
 
 ### Tesla prepares 1,000 Cybercabs
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-tesla-1000-cybercabs/when2buy-image-model.png`
 
 Tesla $TSLA is preparing to deploy 1,000 Cybercabs.  When2Buy — your U.S. stock partner.
@@ -2515,28 +2515,28 @@ Qualcomm $QCOM says the smartphone market is at the low point of its cycle.  Whe
 
 ### Iran sets new conditions for U.S. talks
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-iran-us-negotiation-conditions/when2buy-image-model.png`
 
 Tehran is demanding new conditions from Washington before negotiations can resume.  When2Buy — your U.S. stock partner.
 
 ### Cresta targets AI-agent customer support
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-cresta-ai-agent-handoff/when2buy-image-model.png`
 
 Cresta is building customer-service AI agents that solve problems and hand conversations to human agents.  When2Buy — your U.S. stock partner.
 
 ### Cognition raises more than $2B at $48B valuation
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-cognition-2b-48b-valuation/when2buy-image-model.png`
 
 Cognition raised more than $2B at a $48B valuation.  When2Buy — your U.S. stock partner.
 
 ### Robinhood Chain generates 17,171 ETH in revenue
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-robinhood-chain-17171-eth-revenue/when2buy-image-model.png`
 
 Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy — your U.S. stock partner.
@@ -2778,9 +2778,21 @@ Bitcoin ETFs logged $46.65M in net inflows.  When2Buy — your U.S. stock partne
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Tether freezes 39.27M USDT across 10 Tron addresses | 2026-09-09T05:55:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097564723030135241) |
 | RAMP in $60B valuation fundraising talks | 2026-09-09T05:57:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097565213319107067) |
+| Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097567823543636175) |
+| Robinhood Chain generates 17,171 ETH in revenue | 2026-09-09T06:10:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097568335147962382) |
+| Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097568844399415429) |
+| Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097569348282175687) |
+| Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097569842102706604) |
 
 ## 最近运行
 
+- `2026-09-09T06:16:38.102167+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:14:40.140909+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:12:42.350374+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:10:39.406748+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:08:36.396889+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:07:06Z` **queue / succeeded** — Prepared 61 one-to-one production candidate(s).
+- `2026-09-09T06:07:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-09T05:45:00Z` **full / succeeded** — Asia/Shanghai :45 run: Postiz-first 72-hour metrics, Apify benchmark collection and archival, newest-first queue rebuild, one image-model package, and five serial verified X deliveries completed.
 - `2026-09-09T05:58:14.654995+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T05:56:16.612833+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2794,10 +2806,3 @@ Bitcoin ETFs logged $46.65M in net inflows.  When2Buy — your U.S. stock partne
 - `2026-09-09T05:28:00Z` **full / succeeded** — Apify collection, media archive, newest-first queue rebuild, Postiz reconciliation, and five serial public X deliveries completed.
 - `2026-09-09T05:38:49.585156+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T05:36:47.818066+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:34:49.868194+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:32:51.572045+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:30:43.577681+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:29:41Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
-- `2026-09-09T05:29:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
-- `2026-09-09T05:26:32.823224+00:00` **publish / succeeded** — Cleared the stale HTTP 403/1010 circuit breaker after a healthy Postiz check and verified X publication.
-- `2026-09-09T05:21:02Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
