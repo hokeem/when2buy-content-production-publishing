@@ -1,0 +1,32 @@
+{
+  "id": "pkg-20260908-nike-nke-decade-lows",
+  "benchmarkPostId": "2097422417794650113",
+  "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097422417794650113",
+  "title": "Nike $NKE reaches fresh decade-plus lows",
+  "status": "ready",
+  "postText": "Nike $NKE hit fresh decade-plus lows again today.\n\nWhen2Buy — your U.S. stock partner.",
+  "mirroredFacts": [
+    "Nike $NKE stock reached new decade-plus lows again on September 8, 2026.",
+    "The source event is a repeat low, not a historic all-time-low claim."
+  ],
+  "verificationSources": [
+    "https://x.com/StockMKTNewz/status/2097422417794650113"
+  ],
+  "imagePath": "deliverables/pkg-20260908-nike-nke-decade-lows/when2buy-image-model.png",
+  "createdAt": "2026-09-09T00:09:00Z",
+  "visualProduction": {
+    "method": "image_model",
+    "prompt": "Premium square financial-news visual for Nike stock reaching decade-plus lows: nighttime sneaker flagship exterior, sculptural white running shoe, near-black glass, restrained red declining market reflection, no text or logos in generation, clean negative space for later headline and exact logo compositing.",
+    "generatedBaseImage": "deliverables/pkg-20260908-nike-nke-decade-lows/image-model-base.png",
+    "logoApplied": true,
+    "logoSource": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+    "qaStatus": "passed",
+    "qa": {
+      "square": "1254x1254 PNG",
+      "entityLed": "Nike retail and running-shoe scene",
+      "textChecked": ["NIKE $NKE", "DECADE LOWS"],
+      "logoCount": 1,
+      "rejected": ["pure-text", "generic market background", "misspelled headline", "non-square", "damaged logo"]
+    }
+  }
+}

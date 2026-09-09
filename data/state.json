@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T23:48:45.346881+00:00",
+  "updatedAt": "2026-09-09T00:08:22.145100+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -25774,6 +25774,47 @@
             "not a pure-text card or generic radar image"
           ],
           "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260908-nike-nke-decade-lows",
+      "benchmarkPostId": "2097422417794650113",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097422417794650113",
+      "title": "Nike $NKE reaches fresh decade-plus lows",
+      "status": "ready",
+      "postText": "Nike $NKE hit fresh decade-plus lows again today.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Nike $NKE stock reached new decade-plus lows again on September 8, 2026.",
+        "The source event is a repeat low, not a historic all-time-low claim."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097422417794650113"
+      ],
+      "imagePath": "deliverables/pkg-20260908-nike-nke-decade-lows/when2buy-image-model.png",
+      "createdAt": "2026-09-09T00:09:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Premium square financial-news visual for Nike stock reaching decade-plus lows: nighttime sneaker flagship exterior, sculptural white running shoe, near-black glass, restrained red declining market reflection, no text or logos in generation, clean negative space for later headline and exact logo compositing.",
+        "generatedBaseImage": "deliverables/pkg-20260908-nike-nke-decade-lows/image-model-base.png",
+        "logoApplied": true,
+        "logoSource": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "qaStatus": "passed",
+        "qa": {
+          "square": "1254x1254 PNG",
+          "entityLed": "Nike retail and running-shoe scene",
+          "textChecked": [
+            "NIKE $NKE",
+            "DECADE LOWS"
+          ],
+          "logoCount": 1,
+          "rejected": [
+            "pure-text",
+            "generic market background",
+            "misspelled headline",
+            "non-square",
+            "damaged logo"
+          ]
         }
       }
     }
@@ -121506,6 +121547,61 @@
         "active": true,
         "expiresAt": "2026-09-09T00:46:41Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
+      }
+    },
+    {
+      "id": "run-20260909T000549Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T00:05:49Z",
+      "completedAt": "2026-09-09T00:05:49Z",
+      "summary": "Prepared 73 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T000611Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T00:06:11Z",
+      "completedAt": "2026-09-09T00:06:11Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T000625Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T00:06:25Z",
+      "completedAt": "2026-09-09T00:06:25Z",
+      "summary": "Prepared 73 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T000808Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T00:08:08Z",
+      "completedAt": "2026-09-09T00:08:08Z",
+      "summary": "Prepared 73 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T001000Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T00:05:00Z",
+      "completedAt": "2026-09-09T00:10:00Z",
+      "summary": "Apify collected both required benchmark feeds and the queue was rebuilt newest-first. No newly captured eligible benchmark posts were found. Completed and validated the ready Nike package; no X submission was attempted while the delivery circuit breaker remained active.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
+      "delivery": {
+        "circuitBreakerActive": true,
+        "expiresAt": "2026-09-09T00:46:41Z",
+        "submissionAttempted": false,
+        "publicationResult": "deferred"
       }
     }
   ],

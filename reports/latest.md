@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-08T23:48:45.346881+00:00`
+- 状态更新：`2026-09-09T00:08:22.145100+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**405**
 - 待选选题：**361**
-- 待发布制作包：**150**
+- 待发布制作包：**151**
 - 已验证发布：**138**
 
 ## 对标账号扫描
@@ -2587,6 +2587,13 @@ LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock part
 
 A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your U.S. stock partner.
 
+### Nike $NKE reaches fresh decade-plus lows
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260908-nike-nke-decade-lows/when2buy-image-model.png`
+
+Nike $NKE hit fresh decade-plus lows again today.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2733,6 +2740,11 @@ A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your 
 
 ## 最近运行
 
+- `2026-09-09T00:05:00Z` **full / partial** — Apify collected both required benchmark feeds and the queue was rebuilt newest-first. No newly captured eligible benchmark posts were found. Completed and validated the ready Nike package; no X submission was attempted while the delivery circuit breaker remained active. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
+- `2026-09-09T00:08:08Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
+- `2026-09-09T00:06:25Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
+- `2026-09-09T00:06:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
+- `2026-09-09T00:05:49Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-08T23:46:41Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T23:46:14Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-08T23:46:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2748,8 +2760,3 @@ A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your 
 - `2026-09-08T22:51:04Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, and the :45 Postiz-first 72-hour metrics pass completed; no new eligible source posts required production and publication was withheld by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T22:46:40Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-08T22:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T22:28:10Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, and one image-model package completed; publication was withheld because the required Postiz delivery-window query could not be completed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
-- `2026-09-08T22:27:43Z` **produce / succeeded** — Archived the newest benchmark media and produced one original image-model package with exact-logo compositing and visual QA.
-- `2026-09-08T22:26:03Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
-- `2026-09-08T22:26:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
-- `2026-09-08T22:07:32Z` **full / partial** — Apify scanned both benchmark feeds, archived available source media, and rebuilt the timestamp-first production queue; no new eligible originals required package production. Publication was withheld by the active 60-minute Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010

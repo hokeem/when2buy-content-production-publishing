@@ -1,0 +1,15 @@
+{
+  "id": "run-20260909T001000Z-full",
+  "mode": "full",
+  "status": "partial",
+  "startedAt": "2026-09-09T00:05:00Z",
+  "completedAt": "2026-09-09T00:10:00Z",
+  "summary": "Apify collected both required benchmark feeds and the queue was rebuilt newest-first. No newly captured eligible benchmark posts were found. Completed and validated the ready Nike package; no X submission was attempted while the delivery circuit breaker remained active.",
+  "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
+  "delivery": {
+    "circuitBreakerActive": true,
+    "expiresAt": "2026-09-09T00:46:41Z",
+    "submissionAttempted": false,
+    "publicationResult": "deferred"
+  }
+}
