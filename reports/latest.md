@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T11:54:58.656893+00:00`
+- 状态更新：`2026-09-09T12:18:05.303739+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**427**
-- 待选选题：**383**
-- 待发布制作包：**5**
-- 已验证发布：**174**
+- 对标帖子快照：**429**
+- 待选选题：**385**
+- 待发布制作包：**4**
+- 已验证发布：**176**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 11:50:40 +0000 2026 | There could be as much as $31.6 Trillion spent on data center CAPEX through 2050  Almost 50% of that spending is expected to come from the 🇺🇸  Next year alone estimates are that global data center AI CAPEX spend will be around $1T-$1.2 Trillion up from roughly $850B, which was spent this year  Of that spend next year, between 50%-70% is expected to be spent in the United States | [X](https://x.com/StockMKTNewz/status/2097653916750016898) |
+| @StockMKTNewz | Wed Sep 09 12:01:13 +0000 2026 | Meta Platforms $META Chief AI Officer Alexandr Wang posted:  "the early usage on muse has blown way past our projections. muse’s users today are using 10x more than our testing cohorts. enjoy!" | [X](https://x.com/StockMKTNewz/status/2097656569513013637) |
 | @StockMKTNewz | Wed Sep 09 11:39:39 +0000 2026 | Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4 | [X](https://x.com/StockMKTNewz/status/2097651141337100444) |
 | @StockMKTNewz | Wed Sep 09 11:25:33 +0000 2026 | FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS  At least a third of all Federal Reserve officials have said they would consider meeting less frequently to set interest rates - Bloomberg https://t.co/4OTapOa3kx | [X](https://x.com/StockMKTNewz/status/2097647592054075592) |
 | @WhaleInsider | Wed Sep 09 11:29:52 +0000 2026 | JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://t.co/7DHeHDHxWU | [X](https://x.com/WhaleInsider/status/2097648681054830622) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 20:30:47 +0000 2026 | Nike $NKE stock hit new decade plus lows again today | [X](https://x.com/StockMKTNewz/status/2097422417794650113) |
 | @StockMKTNewz | Tue Sep 08 20:43:18 +0000 2026 | LIV GOLF FILES FOR CHAPTER 11 BANKRUPTCY | [X](https://x.com/StockMKTNewz/status/2097425569688297925) |
 | @StockMKTNewz | Tue Sep 08 20:16:37 +0000 2026 | $DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc | [X](https://x.com/StockMKTNewz/status/2097418855249252608) |
-| @StockMKTNewz | Tue Sep 08 19:59:11 +0000 2026 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to major players in China’s 🇨🇳 auto industry - Bloomberg https://t.co/kjVkItqUXI | [X](https://x.com/StockMKTNewz/status/2097414465733955650) |
-| @StockMKTNewz | Tue Sep 08 19:12:27 +0000 2026 | Meta Platforms $META just posted this:  “today we're rolling out Muse, our new personal ai assistant. Muse is always-on, wicked fast, can use a browser, connect to your apps, and is designed to be secure.” https://t.co/tZGkKgesKh | [X](https://x.com/StockMKTNewz/status/2097402706411278438) |
 
 ## 选题推荐
 
@@ -138,6 +138,7 @@
 | 1 | Meta Platforms $META stock is up by more than 5% in pre market trading 🟢🟢🟢🟢🟢 https://t.co/ZL… | StockMKTNewz | 5394 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://… | WhaleInsider | 14761 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4 | StockMKTNewz | 7622 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Meta Platforms $META Chief AI Officer Alexandr Wang posted: "the early usage on muse has blo… | StockMKTNewz | 8249 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -184,6 +185,7 @@
 | 2 | JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryp… | WhaleInsider | 11409 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | $LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Te… | StockMKTNewz | 6262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS At least a third o… | StockMKTNewz | 8268 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | There could be as much as $31.6 Trillion spent on data center CAPEX through 2050 Almost 50% … | StockMKTNewz | 13808 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2716,7 +2718,7 @@ India’s FIU issued non-compliance notices to 15 crypto platforms, including We
 
 ### Amazon and Uber launch debut regional bond sales
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260909-amazon-uber-debut-bonds/when2buy-image-model.png`
 
 $AMZN launched its first sterling bond sale, targeting at least £3 billion.  $UBER is seeking about €4 billion through its first euro-denominated bond offering.
@@ -2755,6 +2757,20 @@ Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15.
 - 配图：`deliverables/pkg-20260909-fed-officials-fewer-policy-meetings/when2buy-image-model.png`
 
 At least one-third of Federal Reserve officials would consider meeting less often to set interest rates.
+
+### Meta Muse usage runs 10x above test cohorts
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-meta-muse-tenfold-usage/when2buy-image-model.png`
+
+Meta’s Muse is seeing early usage far above projections, with users consuming 10× more than testing cohorts.
+
+### Global data-center capex could reach $31.6T
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-data-center-capex-31-6t/when2buy-image-model.png`
+
+Global data-center capex could reach $31.6T through 2050, with the U.S. expected to capture 48%—$15.1T.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -2807,30 +2823,31 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” | 2026-09-07T00:42:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761201938375037) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
+| Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569842102706604) |
 | Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| SpaceX returns above $2 trillion | 2026-09-09T10:23:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097632198967099767) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 25 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
-| Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569842102706604) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
+| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
-| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
+| IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097614505312506296) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
-| IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097614505312506296) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 19 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
+| Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
-| Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 17 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 17 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
@@ -2843,6 +2860,7 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
+| Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -2852,15 +2870,15 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
 | Robinhood Chain generated $30 million in revenue last week | 2026-09-07T12:51:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944666377867632) |
+| Brent crude climbs above $100 a barrel | 2026-09-09T09:40:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097621274306789488) |
+| Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
-| Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
-| Brent crude climbs above $100 a barrel | 2026-09-09T09:40:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097621274306789488) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -2880,6 +2898,8 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 | S&P 500 membership changes over a decade | 2026-09-07T07:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859560149647529) |
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
+| Samsung leads Mistral AI's €3B Series D | 2026-09-09T06:35:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574655683166484) |
+| Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097593108846579977) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -2887,8 +2907,7 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 | Regular NFL season starts | 2026-09-07T06:15:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845001351393501) |
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
-| Samsung leads Mistral AI's €3B Series D | 2026-09-09T06:35:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574655683166484) |
-| Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097593108846579977) |
+| Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -2906,6 +2925,7 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 | Waiting for the stock market to open again | 2026-09-07T07:37:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865520805142643) |
 | Data centers and state approvals | 2026-09-07T07:54:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874871292936488) |
+| Tether freezes 39.27M USDT across 10 Tron addresses | 2026-09-09T05:55:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564723030135241) |
 | Robinhood Chain tokenized stocks reach $160M | 2026-09-09T08:53:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097609478095110200) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
@@ -2919,25 +2939,32 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | RAMP in $60B valuation fundraising talks | 2026-09-09T05:57:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097565213319107067) |
-| Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
+| Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
-| Tether freezes 39.27M USDT across 10 Tron addresses | 2026-09-09T05:55:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564723030135241) |
-| Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
 | Robinhood Chain generates 17,171 ETH in revenue | 2026-09-09T06:10:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568335147962382) |
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
+| China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
+| India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097631684166619203) |
-| SpaceX returns above $2 trillion | 2026-09-09T10:23:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097632198967099767) |
-| Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097636596166336949) |
-| India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097637139089703163) |
+| Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097660078849728766) |
+| Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097660614202257592) |
 
 ## 最近运行
 
+- `2026-09-09T12:18:05Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-09T12:05:54Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, refreshed hourly metrics, rebuilt the freshness queue, produced its first two items, and published both through Postiz with verified public X URLs.
+- `2026-09-09T12:17:23.857253+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T12:15:17.594424+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T12:13:58Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:13:55.624915+00:00` **produce / succeeded** — Produced the first two items from the newly rebuilt fresh queue with image-model visuals and exact-logo compositing.
+- `2026-09-09T12:08:14Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:08:10Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).
+- `2026-09-09T12:05:57Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T11:54:58.654778+00:00` **full / partial** — Apify collection, media archive, duplicate exclusion, freshness queue rebuild, validation, and reporting completed; publication was withheld before submission by the active 60-minute delivery circuit breaker. The Postiz delivery guard found a recent verified X release inside the 60-minute safety window; no API submission was attempted.
 - `2026-09-09T11:53:12Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-09T11:53:08.927340+00:00` **radar / succeeded** — Excluded one newly captured Brent-above-$100 duplicate from fresh production. The same event already has a verified public when2buy release.
@@ -2949,12 +2976,3 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 - `2026-09-09T11:41:08Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T11:41:05.939189+00:00` **produce / succeeded** — Produced the first two newly rebuilt fresh queue items with image-model visuals and exact-logo compositing.
 - `2026-09-09T11:36:41Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:36:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
-- `2026-09-09T11:35:59Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:23:25Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; publication was withheld by the active X delivery circuit breaker. Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made.
-- `2026-09-09T11:21:26Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:21:23.427807Z` **produce / succeeded** — Produced the first two current fresh-queue packages with image-model visuals and exact-logo compositing.
-- `2026-09-09T11:16:59Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:16:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 3 new post(s).
-- `2026-09-09T10:56:01Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; the first Postiz submission returned ERROR without a public X URL, so the serial batch stopped before the second submission. Postiz delivery cmttzol6a01m0qk0y21ivx7ec returned ERROR with no release URL; no package was recorded as published and no retry was attempted.
-- `2026-09-09T11:03:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
