@@ -31,7 +31,7 @@ Every run:
 4. Exclude pinned posts, replies, repost-only entries, promotions, and duplicates; archive original media.
 5. Preserve newest-first queue order and process up to five unpublished items.
 6. Produce concise original copy and a complete entity-led generated square image; add the exact logo once and run QA.
-7. Validate and publish through Postiz. Require `PUBLISHED` and a public X URL.
+7. Run `python3 scripts/reconcile_postiz_publications.py --lookback-hours 72`, then validate and publish up to five queue-ordered packages with `scripts/postiz_publish_batch.py`. Publish strictly serially with at least 90 seconds between items; never run multiple publishers concurrently. Require `PUBLISHED` and a public X URL.
 8. Validate state/security and commit only canonical data, media, packages, and `reports/latest.md`.
 9. Render and publish the content and performance surfaces explicitly:
    - `python3 scripts/publish_run_panel.py --target content`

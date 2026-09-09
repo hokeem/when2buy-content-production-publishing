@@ -6,12 +6,12 @@ from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request,urlopen
 ROOT=Path(__file__).resolve().parents[1]; sys.path.insert(0,str(ROOT/'skills/when2buy-content-publisher/scripts')); import state
-sys.path.insert(0,str(ROOT/'scripts')); from validate_content_standard import validate_package
+sys.path.insert(0,str(ROOT/'scripts')); from validate_content_standard import validate_package; from postiz_api import DEFAULT_USER_AGENT
 BASE=os.getenv('POSTIZ_BASE_URL','https://api.postiz.com/public/v1').rstrip('/'); EXPECTED=os.getenv('WHEN2BUY_POSTIZ_HANDLE','_When2buy')
 def request(path, method='GET', data=None, content_type='application/json'):
  key=os.getenv('POSTIZ_API_KEY');
  if not key: raise SystemExit('POSTIZ_API_KEY is required; do not save it in this repository.')
- h={'Authorization':key};
+ h={'Authorization':key,'Accept':'application/json','Accept-Language':'en-US,en;q=0.9','User-Agent':os.getenv('POSTIZ_USER_AGENT',DEFAULT_USER_AGENT)};
  if data is not None: h['Content-Type']=content_type
  try:
   with urlopen(Request(BASE+path,data=data,headers=h,method=method),timeout=45) as r:return json.load(r)
@@ -29,9 +29,16 @@ def main():
   for item in posts:
    integrations=item.get('integration') or item.get('integrations') or []
    encoded=json.dumps(integrations).lower()
-   if '"identifier": "x"' in encoded or '"identifier":"x"' in encoded or 'x.com' in str(item.get('releaseURL','')):
+   if '"identifier": "x"' in encoded or '"identifier":"x"' in encoded or '"provideridentifier": "x"' in encoded or '"provideridentifier":"x"' in encoded or 'x.com' in str(item.get('releaseURL','')) or 'twitter.com' in str(item.get('releaseURL','')):
     x_posts.append({'id':item.get('id'),'state':item.get('state'),'releaseURL':item.get('releaseURL'),'publishDate':item.get('publishDate')})
-  print(json.dumps({'windowMinutes':60,'xDeliveries':x_posts}))
+  unsafe=[]; now=datetime.now(timezone.utc)
+  for item in x_posts:
+   if item.get('state') in ('ERROR','FAILED'): unsafe.append(item)
+   if item.get('state')=='QUEUE' and not item.get('releaseURL'):
+    published=datetime.fromisoformat(str(item.get('publishDate','')).replace('Z','+00:00')) if item.get('publishDate') else now
+    if now-published>timedelta(minutes=10): unsafe.append(item)
+  print(json.dumps({'windowMinutes':60,'xDeliveries':x_posts,'safe':not unsafe,'unsafeDeliveries':unsafe}))
+  if unsafe: raise SystemExit('Recent X delivery is unsafe; wait for the 60-minute circuit breaker.')
   return
  if not a.package_id: raise SystemExit('--package-id is required unless --delivery-check-only is used.')
  if not a.confirm: raise SystemExit('Refusing to publish without --confirm.')

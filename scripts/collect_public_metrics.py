@@ -21,6 +21,8 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'skills' / 'when2buy-content-publisher' / 'scripts'))
 import state  # noqa: E402
+sys.path.insert(0, str(ROOT / 'scripts'))
+from postiz_api import PostizAPIError, request_json  # noqa: E402
 
 POSTIZ_BASE = os.getenv('POSTIZ_BASE_URL', 'https://api.postiz.com/public/v1').rstrip('/')
 CORE_FIELDS = ('views', 'replies', 'reposts', 'likes')
@@ -65,13 +67,7 @@ def parse_number(value):
 
 
 def api_get(path, query):
-    key = os.getenv('POSTIZ_API_KEY')
-    if not key:
-        raise RuntimeError('POSTIZ_API_KEY is unavailable in the local credential paths')
-    url = POSTIZ_BASE + path + '?' + urlencode(query)
-    request = Request(url, headers={'Authorization': key, 'Accept': 'application/json'})
-    with urlopen(request, timeout=25) as response:
-        return json.loads(response.read().decode('utf-8'))
+    return request_json(path + '?' + urlencode(query), timeout=25)
 
 
 def postiz_metrics(postiz_id, days):
@@ -79,7 +75,7 @@ def postiz_metrics(postiz_id, days):
     endpoint = f'/analytics/post/{postiz_id}'
     try:
         payload = api_get(endpoint, {'date': days})
-    except (HTTPError, URLError, RuntimeError, json.JSONDecodeError) as exc:
+    except (PostizAPIError, RuntimeError, json.JSONDecodeError) as exc:
         return None, {'source': 'Postiz public API', 'endpoint': endpoint, 'query': {'date': days}, 'result': f'failed: {type(exc).__name__}'}, str(exc)
 
     values = {}
