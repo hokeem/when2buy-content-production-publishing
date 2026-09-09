@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:04:15.276911+00:00",
+  "updatedAt": "2026-09-09T11:23:25.648796+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11621,6 +11621,90 @@
       "isPinned": false,
       "capturedAt": "2026-09-09T10:56:31Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097644554820165827",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097644554820165827",
+      "postedAt": "Wed Sep 09 11:13:28 +0000 2026",
+      "text": "Meta Platforms $META stock is up by more than 5% in pre market trading \n\n🟢🟢🟢🟢🟢 https://t.co/ZLXv0RqYK1",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxUmr_XIAATcEl.jpg"
+      ],
+      "engagement": {
+        "likes": 11,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 5054
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T11:16:55Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxUmr_XIAATcEl.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097644554820165827-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097643905885900979",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097643905885900979",
+      "postedAt": "Wed Sep 09 11:10:54 +0000 2026",
+      "text": "$LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Tennessee - Bloomberg https://t.co/TkiyUdiadK",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxStPUXQAAkjCL.jpg"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 5932
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T11:16:55Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxStPUXQAAkjCL.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097643905885900979-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097640742176846317",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097640742176846317",
+      "postedAt": "Wed Sep 09 10:58:19 +0000 2026",
+      "text": "Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Finland 🇫🇮 over the next 2 years https://t.co/vmm84uXpva",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxP4jza0AAO_xO.jpg"
+      ],
+      "engagement": {
+        "likes": 34,
+        "replies": 8,
+        "reposts": 2,
+        "quotes": 1,
+        "views": 9259
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T11:16:55Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxP4jza0AAO_xO.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097640742176846317-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -18779,6 +18863,63 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-09T10:56:34Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097644554820165827",
+      "rank": 1,
+      "title": "Meta Platforms $META stock is up by more than 5% in pre market trading 🟢🟢🟢🟢🟢 https://t.co/ZL…",
+      "benchmarkPostId": "2097644554820165827",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097644554820165827",
+      "score": 5394,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T11:16:59Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097643905885900979",
+      "rank": 2,
+      "title": "$LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Te…",
+      "benchmarkPostId": "2097643905885900979",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097643905885900979",
+      "score": 6262,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T11:16:59Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097640742176846317",
+      "rank": 3,
+      "title": "Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Fin…",
+      "benchmarkPostId": "2097640742176846317",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097640742176846317",
+      "score": 10419,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T11:16:59Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -27594,6 +27735,56 @@
           ],
           "result": "passed"
         }
+      }
+    },
+    {
+      "id": "pkg-20260909-meta-up-five-percent-premarket",
+      "benchmarkPostId": "2097644554820165827",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097644554820165827",
+      "title": "Meta rises more than 5% premarket",
+      "status": "ready",
+      "postText": "Meta $META is up more than 5% in premarket trading.",
+      "mirroredFacts": [
+        "Meta Platforms shares were up more than 5% in premarket trading."
+      ],
+      "verificationSources": [
+        "https://public.com/stocks/meta/pre-market",
+        "https://x.com/StockMKTNewz/status/2097644554820165827"
+      ],
+      "imagePath": "deliverables/pkg-20260909-meta-up-five-percent-premarket/when2buy-image-model.png",
+      "createdAt": "2026-09-09T11:21:22.384157Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square premium financial-news visual about Meta Platforms stock rising more than 5% premarket. Realistic dark institutional trading scene with a Meta campus facade and rising terminal chart; near-black, white, restrained red, limited Meta blue. Exact text: META +5%; PREMARKET. Entity-led, 1:1, clean lower-right logo-safe area; no publisher logo, attribution, disclaimer, CTA, watermark, or extra text.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaNotes": "Square entity-led model output inspected; visible headline spelling and numbers passed; exact repository logo composited once with clear space."
+      }
+    },
+    {
+      "id": "pkg-20260909-lyft-waymo-robotaxis-nashville",
+      "benchmarkPostId": "2097643905885900979",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097643905885900979",
+      "title": "Lyft starts Nashville Waymo robotaxi rides",
+      "status": "ready",
+      "postText": "$LYFT is starting robotaxi rides in Nashville using Waymo vehicles from Google $GOOGL.",
+      "mirroredFacts": [
+        "Lyft is starting robotaxi rides in Nashville, Tennessee.",
+        "The rides use Waymo vehicles; Waymo is owned by Google parent Alphabet."
+      ],
+      "verificationSources": [
+        "https://www.lyft.com/blog/posts/lyft-and-waymo-launch-partnership-to-expand-autonomous-mobility-to-nashville",
+        "https://www.lyft.com/blog/posts/lyft-q2-2026-earnings-prepared-remarks",
+        "https://x.com/StockMKTNewz/status/2097643905885900979"
+      ],
+      "imagePath": "deliverables/pkg-20260909-lyft-waymo-robotaxis-nashville/when2buy-image-model.png",
+      "createdAt": "2026-09-09T11:21:23.427687Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square premium financial-news visual about Lyft starting robotaxi rides in Nashville using Waymo vehicles. Realistic nighttime Nashville street, autonomous vehicle and Lyft pickup marker; near-black, white, restrained red, limited magenta. Exact text: LYFT ROBOTAXIS; NASHVILLE. Entity-led, 1:1, clean lower-right logo-safe area; no publisher logo, source, attribution, disclaimer, CTA, watermark, or extra factual text.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaNotes": "Square entity-led model output inspected; visible headline spelling and numbers passed; exact repository logo composited once with clear space."
       }
     }
   ],
@@ -145947,14 +146138,67 @@
       "completedAt": "2026-09-09T11:03:00Z",
       "summary": "Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; the first Postiz submission returned ERROR without a public X URL, so the serial batch stopped before the second submission.",
       "reason": "Postiz delivery cmttzol6a01m0qk0y21ivx7ec returned ERROR with no release URL; no package was recorded as published and no retry was attempted."
+    },
+    {
+      "id": "run-20260909T111655Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:16:55Z",
+      "completedAt": "2026-09-09T11:16:55Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T111659Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:16:59Z",
+      "completedAt": "2026-09-09T11:16:59Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T112123Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:21:23.427807Z",
+      "completedAt": "2026-09-09T11:21:23.427814Z",
+      "summary": "Produced the first two current fresh-queue packages with image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T112126Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:21:26Z",
+      "completedAt": "2026-09-09T11:21:26Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T112325Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T11:23:25Z",
+      "completedAt": "2026-09-09T11:23:25Z",
+      "summary": "Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; publication was withheld by the active X delivery circuit breaker.",
+      "reason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-09T12:02:00Z",
+        "deliveryReason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": false,
-    "startedAt": "2026-09-09T07:52:10Z",
-    "expiresAt": "2026-09-09T08:52:10Z",
-    "deliveryReason": "Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.",
-    "clearedAt": "2026-09-09T08:55:25Z",
-    "clearanceReason": "The expired breaker recovery probe published the newest fresh package and returned a verified public X URL."
+    "active": true,
+    "startedAt": "2026-09-09T11:02:00Z",
+    "expiresAt": "2026-09-09T12:02:00Z",
+    "postizPostId": "cmttzol6a01m0qk0y21ivx7ec",
+    "deliveryReason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made."
   }
 }

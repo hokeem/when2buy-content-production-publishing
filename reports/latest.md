@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T11:04:15.276911+00:00`
+- 状态更新：`2026-09-09T11:23:25.648796+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**421**
-- 待选选题：**377**
-- 待发布制作包：**2**
+- 对标帖子快照：**424**
+- 待选选题：**380**
+- 待发布制作包：**4**
 - 已验证发布：**174**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 10:58:19 +0000 2026 | Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Finland 🇫🇮 over the next 2 years https://t.co/vmm84uXpva | [X](https://x.com/StockMKTNewz/status/2097640742176846317) |
+| @StockMKTNewz | Wed Sep 09 11:10:54 +0000 2026 | $LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Tennessee - Bloomberg https://t.co/TkiyUdiadK | [X](https://x.com/StockMKTNewz/status/2097643905885900979) |
+| @StockMKTNewz | Wed Sep 09 11:13:28 +0000 2026 | Meta Platforms $META stock is up by more than 5% in pre market trading   🟢🟢🟢🟢🟢 https://t.co/ZLXv0RqYK1 | [X](https://x.com/StockMKTNewz/status/2097644554820165827) |
 | @StockMKTNewz | Wed Sep 09 10:45:54 +0000 2026 | AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED KINGDOM 🇬🇧  $UBER WANTS TO RAISE ~€4 BILLION THROUGH ITS FIRST EUROPEAN 🇪🇺 BOND SALE | [X](https://x.com/StockMKTNewz/status/2097637616556392674) |
 | @StockMKTNewz | Wed Sep 09 10:21:00 +0000 2026 | HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of 7,650 | [X](https://x.com/StockMKTNewz/status/2097631348395479169) |
 | @WhaleInsider | Wed Sep 09 10:33:34 +0000 2026 | JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryptocurrency platforms, among them Weex, Blofin, Bitunix, DigiFinex, and Toobit.   The regulator is also seeking the removal of their apps and websites over alleged breaches of anti-money laundering rules. | [X](https://x.com/WhaleInsider/status/2097634511366304052) |
@@ -38,9 +41,6 @@
 | @WhaleInsider | Tue Sep 08 18:59:38 +0000 2026 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the escrow platform Xinbi Guarantee on the Tron network. https://t.co/GpzLtXPcZ3 | [X](https://x.com/WhaleInsider/status/2097399478881837141) |
 | @StockMKTNewz | Tue Sep 08 18:15:40 +0000 2026 | RAMP is reportedly in talks to raise money at a $60 Billion valuation | [X](https://x.com/StockMKTNewz/status/2097388417306829126) |
 | @WhaleInsider | Tue Sep 08 18:21:19 +0000 2026 | JUST IN: @MetaWin player turns $5 into over $15,000.  This comes after MetaWin announced they’re giving away another $1,000,000 to players this month.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/FDE8Uq98rG | [X](https://x.com/WhaleInsider/status/2097389837217132992) |
-| @WhaleInsider | Tue Sep 08 17:27:32 +0000 2026 | JUST IN: Robinhood Chain generates 17,171 $ETH ($42.58M) in revenue in 70 days. https://t.co/xP3perdxB0 | [X](https://x.com/WhaleInsider/status/2097376303628390521) |
-| @StockMKTNewz | Tue Sep 08 17:40:53 +0000 2026 | AI startup Cognition raised more than $2B at a valuation of $48 Billion | [X](https://x.com/StockMKTNewz/status/2097379660854157664) |
-| @WhaleInsider | Tue Sep 08 17:05:09 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian media. https://t.co/0lbfexXv8o | [X](https://x.com/WhaleInsider/status/2097370670145347948) |
 
 ## 选题推荐
 
@@ -135,6 +135,7 @@
 | 1 | JUST IN: 🇨🇳🇺🇸 China dismisses as “unfounded” a U.S. advisory accusing DeepSeek, Alibaba, Moo… | WhaleInsider | 13297 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a… | StockMKTNewz | 4130 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED… | StockMKTNewz | 7964 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Meta Platforms $META stock is up by more than 5% in pre market trading 🟢🟢🟢🟢🟢 https://t.co/ZL… | StockMKTNewz | 5394 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -179,6 +180,7 @@
 | 2 | JUST IN: $IQ (@iqtestrh) launches on Robinhood Chain, paired with Intel stock, as social-med… | WhaleInsider | 18652 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | SpaceX $SPCX is back to being valued at more than $2 Trillion https://t.co/ZqTRiJxdYo | StockMKTNewz | 6394 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryp… | WhaleInsider | 11409 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | $LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Te… | StockMKTNewz | 6262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -201,6 +203,7 @@
 | 3 | SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND | StockMKTNewz | 10897 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: $UPS (UNIPCS6900) launches on Robinhood Chain, reportedly tied to UniPcs’ FOMO hold… | WhaleInsider | 20902 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of… | StockMKTNewz | 8554 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Fin… | StockMKTNewz | 10419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2722,6 +2725,20 @@ $AMZN launched its first sterling bond sale, targeting at least £3 billion.  $U
 
 HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650, citing stronger corporate earnings and sustained AI-infrastructure spending.
 
+### Meta rises more than 5% premarket
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-meta-up-five-percent-premarket/when2buy-image-model.png`
+
+Meta $META is up more than 5% in premarket trading.
+
+### Lyft starts Nashville Waymo robotaxi rides
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-lyft-waymo-robotaxis-nashville/when2buy-image-model.png`
+
+$LYFT is starting robotaxi rides in Nashville using Waymo vehicles from Google $GOOGL.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2904,6 +2921,11 @@ HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650, citing stronge
 
 ## 最近运行
 
+- `2026-09-09T11:23:25Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; publication was withheld by the active X delivery circuit breaker. Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made.
+- `2026-09-09T11:21:26Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T11:21:23.427807Z` **produce / succeeded** — Produced the first two current fresh-queue packages with image-model visuals and exact-logo compositing.
+- `2026-09-09T11:16:59Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T11:16:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 3 new post(s).
 - `2026-09-09T10:56:01Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; the first Postiz submission returned ERROR without a public X URL, so the serial batch stopped before the second submission. Postiz delivery cmttzol6a01m0qk0y21ivx7ec returned ERROR with no release URL; no package was recorded as published and no retry was attempted.
 - `2026-09-09T11:03:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T11:01:56Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -2919,8 +2941,3 @@ HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650, citing stronge
 - `2026-09-09T10:15:45Z` **full / succeeded** — Fetched and matched origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable publication status; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; validated and published both serially through Postiz with verified public X URLs; rebuilt an empty post-publication queue; refreshed reporting.
 - `2026-09-09T10:24:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T10:24:28.237607+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T10:22:23.025577+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T10:21:25Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:17:07Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:16:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 2 new post(s).
-- `2026-09-09T10:15:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
