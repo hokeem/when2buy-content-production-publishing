@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T07:39:46.774592+00:00`
+- 状态更新：`2026-09-09T07:52:10.746975+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**411**
 - 待选选题：**367**
-- 待发布制作包：**133**
-- 已验证发布：**165**
+- 待发布制作包：**132**
+- 已验证发布：**166**
 
 ## 对标账号扫描
 
@@ -2630,7 +2630,7 @@ Franklin ETF clients bought $1.55M worth of $XRP.  When2Buy — your U.S. stock 
 
 ### Robinhood Chain tops $2M in 24-hour fees
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260909-robinhood-chain-fees-2m/when2buy-image-model.png`
 
 Robinhood Chain $HOOD ranked No. 1 for fees accrued over the past 24 hours, topping $2M.  When2Buy — your U.S. stock partner.
@@ -2679,16 +2679,17 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 41 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
+| LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
 | Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 33 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
 | JUST IN: $XRP price rallies 4.8% in the past 24 hours. | 2026-09-04T04:52:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736785712341242) |
 | JUST IN: Altcoins flip $BTC in open interest. | 2026-09-07T00:43:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761333488513480) |
+| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste | 2026-09-06T00:43:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398921539199051) |
+| Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
 | Salesforce $CRM and Anthropic just released this new commercial together | 2026-09-04T04:51:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736656079008137) |
 | Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: | 2026-09-04T12:45:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855783753953496) |
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
 | Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
-| Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
-| LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 29 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” | 2026-09-07T00:42:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761201938375037) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
@@ -2698,13 +2699,15 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
-| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
+| Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
+| Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569842102706604) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
+| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
@@ -2716,12 +2719,12 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
-| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
-| Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 14 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
+| Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
@@ -2751,9 +2754,8 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
+| Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | Bitcoin ETFs take in $46.65M | 2026-09-09T05:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097563223033843954) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 8 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
-| Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569842102706604) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -2761,7 +2763,7 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | S&P 500 membership changes over a decade | 2026-09-07T07:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859560149647529) |
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
-| Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
+| ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -2769,6 +2771,7 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | Regular NFL season starts | 2026-09-07T06:15:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845001351393501) |
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
+| Samsung leads Mistral AI's €3B Series D | 2026-09-09T06:35:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574655683166484) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -2786,7 +2789,6 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | Waiting for the stock market to open again | 2026-09-07T07:37:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865520805142643) |
 | Data centers and state approvals | 2026-09-07T07:54:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874871292936488) |
-| Samsung leads Mistral AI's €3B Series D | 2026-09-09T06:35:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574655683166484) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -2799,7 +2801,6 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | RAMP in $60B valuation fundraising talks | 2026-09-09T05:57:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097565213319107067) |
-| Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -2808,13 +2809,17 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
+| Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
-| ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097590718340771958) |
+| Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097593108846579977) |
 
 ## 最近运行
 
+- `2026-09-09T07:52:10Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 public metrics, one verified Postiz X publication, and reporting completed; remaining submissions were stopped by the delivery circuit breaker. Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.
+- `2026-09-09T07:49:05.807302+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T07:46:49Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
+- `2026-09-09T07:46:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-09T07:39:46.772847+00:00` **full / succeeded** — Apify collection, media archive, newest-first queue production, one image-model package, delivery recovery probe, and verified Postiz X publication completed.
 - `2026-09-09T07:39:34.831539+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T07:28:01Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
@@ -2831,7 +2836,3 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 - `2026-09-09T06:47:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-09T06:47:04Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
 - `2026-09-09T06:47:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-09T06:46:48Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-09T06:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-09T06:25:00Z` **full / partial** — Asia/Shanghai :25 run: Apify collection, media archival, queue rebuild, one image-model package, and four serial verified X deliveries completed; final delivery failed and publishing stopped. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.
-- `2026-09-09T06:35:44.599837+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
