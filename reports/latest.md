@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T23:27:42.670939+00:00`
+- 状态更新：`2026-09-09T23:37:33.015729+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**476**
 - 待选选题：**423**
@@ -3177,6 +3177,10 @@ A foldable dual-screen setup puts video up top and a market chart below.
 
 ## 最近运行
 
+- `2026-09-09T23:35:53Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
+- `2026-09-09T23:36:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T23:36:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
+- `2026-09-09T23:35:57Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:25:49Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-09T23:27:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:26:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
@@ -3193,7 +3197,3 @@ A foldable dual-screen setup puts video up top and a market chart below.
 - `2026-09-09T23:10:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-09T23:05:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T22:57:11Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-09T22:57:15Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T22:57:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-09T22:45:52Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status and Postiz reconciliation, hard-TTL queue rebuild, primary-source verification, image-model production, and one verified X publication completed.
-- `2026-09-09T22:50:47.556333+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
