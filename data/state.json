@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T22:31:25.892217+00:00",
+  "updatedAt": "2026-09-09T22:38:52.172095+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -180526,6 +180526,41 @@
       "completedAt": "2026-09-09T22:31:25.890366+00:00",
       "summary": "Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, source verification, and semantic duplicate review completed; no content was published.",
       "reason": "The sole fresh source repeated the already published iPhone Duo reveal without adding a new factual payload.",
+      "selectedPackageIds": [],
+      "excludedBenchmarkPostIds": [
+        "2097811968245596582"
+      ]
+    },
+    {
+      "id": "run-20260909T223717Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:37:17Z",
+      "completedAt": "2026-09-09T22:37:17Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T223721Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:37:21Z",
+      "completedAt": "2026-09-09T22:37:21Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T223831Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:36:06Z",
+      "completedAt": "2026-09-09T22:38:31Z",
+      "summary": "Apify collection from both benchmark accounts, benchmark-media archive, package-status and Postiz publication reconciliation, fresh-queue rebuild, and semantic duplicate review completed; no content was published.",
+      "reason": "The sole fresh queue item repeated the already published iPhone Duo reveal without adding a new factual payload.",
       "selectedPackageIds": [],
       "excludedBenchmarkPostIds": [
         "2097811968245596582"
