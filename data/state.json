@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T01:10:04.681802+00:00",
+  "updatedAt": "2026-09-09T01:29:17.576113+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11165,6 +11165,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097492167849631928",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097492167849631928",
+      "postedAt": "Wed Sep 09 01:07:56 +0000 2026",
+      "text": "WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 34,
+        "replies": 4,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 10425
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T01:26:35Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -18044,6 +18064,25 @@
         "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097492167849631928",
+      "rank": 1,
+      "title": "WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW",
+      "benchmarkPostId": "2097492167849631928",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097492167849631928",
+      "score": 11475,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T01:26:38Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
       }
     }
   ],
@@ -25896,6 +25935,43 @@
             "not a pure-text card or generic radar graphic",
             "exact repository logo composited once in lower-right clear space",
             "no damaged logo, malformed hands, or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260909-apple-iphone-event",
+      "benchmarkPostId": "2097492167849631928",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097492167849631928",
+      "title": "Apple special event begins at 1 PM ET",
+      "status": "ready",
+      "postText": "Apple's $AAPL special event begins at 1 PM ET today.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "The captured benchmark flags Apple's iPhone event at 1 PM ET.",
+        "Apple's official event page schedules the special event for September 9 at 10 AM PT, equivalent to 1 PM ET."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097492167849631928",
+        "https://developer.apple.com/hello/september26/"
+      ],
+      "imagePath": "deliverables/pkg-20260909-apple-iphone-event/when2buy-image-model.png",
+      "createdAt": "2026-09-09T01:29:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: premium 1:1 X financial-news visual for When2Buy. Primary request: original editorial visual for an upcoming Apple iPhone event, with event anticipation rather than any product claim. Scene/backdrop: dark architectural presentation stage inspired by a modern technology keynote venue, near-black glass and brushed aluminum, cinematic depth. Subject: a single unbranded sleek smartphone silhouette rising from a circular white spotlight, with a subtle abstract apple-shaped light motif; restrained deep-red accent lines evoke a countdown and urgency. Style/medium: premium high-end financial-news editorial photography, realistic metal and glass textures, sharp white rim lighting. Composition/framing: exact square 1:1; phone silhouette centered-left; reserve lower-right 20 percent as clean empty near-black space for later application of the supplied circular logo. Lighting/mood: precise, anticipatory, sophisticated, near-black with white and restrained red only. Text: none. Constraints: no readable text, numbers, letters, logos, watermarks, source names, social handles, URLs, attribution, disclaimer, CTA, calendar details, generic radar graphics, pure typography card, or damaged artifacts. Must be a complete entity-led visual, not a text card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T01:29:00Z",
+          "checks": [
+            "square 1254x1254",
+            "complete Apple-event entity-led editorial scene",
+            "no readable generated text, attribution, source handle, URL, disclaimer, or CTA",
+            "premium near-black palette with white and restrained-red accents",
+            "not a pure-text card or generic radar graphic",
+            "exact repository logo composited once in lower-right clear space",
+            "flattened final PNG inspected after compositing; logo intact and no malformed or misspelled elements"
           ],
           "result": "passed"
         }
@@ -121871,6 +121947,52 @@
         "submissionAttempted": false,
         "publicationResult": "deferred"
       }
+    },
+    {
+      "id": "run-20260909T012635Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T01:26:35Z",
+      "completedAt": "2026-09-09T01:26:35Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T012638Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T01:26:38Z",
+      "completedAt": "2026-09-09T01:26:38Z",
+      "summary": "Prepared 75 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T012900Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T01:29:00Z",
+      "completedAt": "2026-09-09T01:29:00Z",
+      "summary": "Apify collected both required benchmark feeds, archived media, rebuilt the queue newest-first, and produced one verified Apple package with an image-model visual and exact-logo compositing. Publication was not submitted because the existing delivery circuit breaker is active.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; active circuit breaker expires at 2026-09-09T01:50:05Z.",
+      "delivery": {
+        "circuitBreakerActive": true,
+        "expiresAt": "2026-09-09T01:50:05Z",
+        "submissionAttempted": false,
+        "publicationResult": "deferred"
+      }
+    },
+    {
+      "id": "run-20260909T012917Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T01:29:17Z",
+      "completedAt": "2026-09-09T01:29:17Z",
+      "summary": "Prepared 75 one-to-one production candidate(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
