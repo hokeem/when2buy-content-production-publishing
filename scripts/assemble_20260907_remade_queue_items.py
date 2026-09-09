@@ -8,7 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "skills" / "when2buy-content-publisher" / "scripts"))
 import state  # noqa: E402
 
-BRAND = "When2Buy — your U.S. stock partner."
+BRAND = ""
 ITEMS = [
     {
         "source": "2095912220077006996", "id": "pkg-20260907-micron-mu-1000-per-share",

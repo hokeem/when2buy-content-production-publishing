@@ -38,7 +38,7 @@ def main():
         "benchmarkPostUrl": source["url"],
         "title": "U.S. gasoline sets a $4.15 Labor Day record",
         "status": "ready",
-        "postText": "U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.\n\nThe prior Labor Day high had never reached $4 a gallon.\n\nWhen2Buy — your U.S. stock partner.",
+        "postText": "U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.\n\nThe prior Labor Day high had never reached $4 a gallon.",
         "mirroredFacts": [
             "The national average price for regular unleaded gasoline was $4.15 a gallon on Labor Day.",
             "The $4.15 average was described as a record high for the holiday.",

@@ -33,7 +33,7 @@ Write in English unless the task says otherwise. Preserve the benchmark post's f
 1. Lead with the named subject and core event.
 2. Preserve the decisive number or second fact when the source includes one.
 3. Reorder wording lightly without adding analysis or commentary.
-4. End with exactly `When2Buy — your U.S. stock partner.`
+4. End immediately after the factual payload; do not append the retired When2Buy partner line, a replacement fixed tagline, or a CTA.
 
 Use cashtags when natural. Do not print the benchmark handle, source URL, sourcing language, a verification disclaimer, investment-advice boilerplate, hashtags, or another CTA. Benchmarking may preserve public facts, tickers, numbers, and short official labels, but must not copy distinctive narration, jokes, or punchlines.
 

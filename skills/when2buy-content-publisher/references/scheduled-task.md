@@ -30,7 +30,7 @@ Every run:
 3. Collect only `@WhaleInsider` and `@StockMKTNewz` through Apify.
 4. Exclude pinned posts, replies, repost-only entries, promotions, and duplicates; archive original media.
 5. Run `python3 scripts/build_production_queue.py`, which enforces a hard 90-minute source TTL and marks stale unsent packages `expired`. Process at most two queue items, newest first. Never publish backlog, and never revive an `expired` package.
-6. Before spending time on each item, recalculate its source age and skip it if it is no longer fresh. Produce concise original copy and a complete entity-led generated square image; add the exact logo once and run QA.
+6. Before spending time on each item, recalculate its source age and skip it if it is no longer fresh. Produce concise original copy that ends after the factual payload, with no retired When2Buy partner line, replacement fixed tagline, or CTA. Produce a complete entity-led generated square image; add the exact logo once and run QA.
 7. Run `python3 scripts/reconcile_postiz_publications.py --lookback-hours 72`, then validate and publish up to two queue-ordered fresh packages with `scripts/postiz_publish_batch.py`. Publish strictly serially with at least 90 seconds between items; never run multiple publishers concurrently. Require `PUBLISHED` and a public X URL.
 8. Immediately before each Postiz submission, rely on the publisher hard gate to recheck the 90-minute TTL. A stale item is skipped without an API submission and does not block a newer item. Validate state/security and commit only canonical data, media, packages, and `reports/latest.md`.
 9. Render and publish the content and performance surfaces explicitly:

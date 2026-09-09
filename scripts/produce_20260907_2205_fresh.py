@@ -18,7 +18,7 @@ ITEMS = (
         "id": "pkg-20260907-strive-bitcoin-buying",
         "source": "2096959433909608475",
         "title": "Strive CEO hints at more Bitcoin buying",
-        "postText": "Strive's CEO hinted that the public company may buy more Bitcoin.\n\nWhen2Buy — your U.S. stock partner.",
+        "postText": "Strive's CEO hinted that the public company may buy more Bitcoin.",
         "mirroredFacts": [
             "Strive is a public company.",
             "Its CEO hinted at buying more Bitcoin.",
@@ -30,7 +30,7 @@ ITEMS = (
         "id": "pkg-20260907-bipolar-pumpfun-launch",
         "source": "2096958507513680239",
         "title": "BIPOLAR PumpFun launch",
-        "postText": "$BIPOLAR is gaining attention on TikTok ahead of its PumpFun launch tomorrow at 5 PM UTC.\n\nCreators are promoting the meme to reach a wider audience.\n\nWhen2Buy — your U.S. stock partner.",
+        "postText": "$BIPOLAR is gaining attention on TikTok ahead of its PumpFun launch tomorrow at 5 PM UTC.\n\nCreators are promoting the meme to reach a wider audience.",
         "mirroredFacts": [
             "$BIPOLAR is gaining attention on TikTok.",
             "Creators are promoting it to a wider audience.",

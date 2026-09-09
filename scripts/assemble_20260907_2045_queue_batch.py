@@ -27,7 +27,7 @@ def main():
         package = {
             "id": f"pkg-20260907-{slug}", "benchmarkPostId": source_id,
             "benchmarkPostUrl": source["url"], "title": body.split(".")[0], "status": "ready",
-            "postText": body + "\n\nWhen2Buy — your U.S. stock partner.",
+            "postText": body + "",
             "mirroredFacts": facts, "verificationSources": [source["url"]],
             "imagePath": str(Path("deliverables") / f"pkg-20260907-{slug}" / "when2buy-image-model.png"),
             "createdAt": now(),

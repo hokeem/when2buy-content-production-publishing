@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "skills" / "when2buy-content-publisher" / "scripts"))
 import state  # noqa: E402
 
-BRAND_LINE = "When2Buy — your U.S. stock partner."
+RETIRED_BRAND_LINE = "When2Buy — your U.S. stock partner."
 BANNED = (
     "according to",
     "reported by",
@@ -40,11 +40,8 @@ def validate_package(package, root=ROOT):
     for phrase in BANNED:
         if phrase in lower:
             errors.append(f"public copy contains banned phrase: {phrase}")
-    if copy.count(BRAND_LINE) != 1 or not copy.endswith(BRAND_LINE):
-        errors.append(f"public copy must end with exactly one brand line: {BRAND_LINE}")
-    first_block = copy.split("\n\n", 1)[0].strip()
-    if first_block == BRAND_LINE:
-        errors.append("the event must appear before the brand line")
+    if RETIRED_BRAND_LINE.lower() in lower:
+        errors.append("public copy contains the retired fixed brand line")
     if not package.get("benchmarkPostId") or not str(package.get("benchmarkPostUrl") or "").startswith("https://x.com/"):
         errors.append("internal benchmark provenance is missing")
     if not package.get("mirroredFacts"):

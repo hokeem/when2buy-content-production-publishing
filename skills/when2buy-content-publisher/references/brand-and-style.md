@@ -32,12 +32,11 @@ Required fast-follow structure:
 
 [Only the second fact needed to preserve the source information density.]
 
-When2Buy — your U.S. stock partner.
 ```
 
 Preferred traits:
 
-- Keep approximately the same information density as the benchmark; usually one or two factual blocks plus the brand line.
+- Keep approximately the same information density as the benchmark; usually one or two factual blocks, with no signature line.
 - Lead with the event and number; do not open with background.
 - Use plain verbs: `just filed`, `just priced`, `is buying`, `is cutting`, `is betting`.
 - Reorder the source facts lightly, but do not add analysis that pushes the core event down.
@@ -46,13 +45,13 @@ Preferred traits:
 
 Avoid:
 
-- `This is when2buy, your AI stock friend` as a fixed ending.
+- Any fixed brand ending, signature line, slogan, or CTA.
 - `In a significant development`, `It is worth noting`, and other corporate filler.
 - long explanations, fake certainty, return promises, hashtag piles, or multiple conclusions.
 - lightly paraphrasing a benchmark's distinctive hook or top reply.
 - `according to`, `reported by`, `Market radar`, source handles or URLs, `not independently verified`, `not investment advice`, and any public sourcing/disclaimer boilerplate.
 
-Every post ends with exactly: `When2Buy — your U.S. stock partner.`
+End immediately after the last factual sentence or compact fact block.
 
 ## Historical text examples
 
