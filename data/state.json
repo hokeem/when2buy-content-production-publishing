@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T21:37:55.624135+00:00",
+  "updatedAt": "2026-09-09T21:51:27.889192+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13027,6 +13027,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097803271696011418",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097803271696011418",
+      "postedAt": "Wed Sep 09 21:44:09 +0000 2026",
+      "text": "Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸 Air Force for the\n\n\"Joint Air-to-Surface Standoff Missile and Long Range Anti-Ship Missile Large Lot procurement.\" https://t.co/wnixi8e7mg",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRzkp-hWcAY_DRU.png"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 4360
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T21:46:35Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRzkp-hWcAY_DRU.png",
+          "path": "output/benchmark-media/StockMKTNewz/2097803271696011418-1.png",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -21005,6 +21033,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097803271696011418",
+      "rank": 1,
+      "title": "Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸…",
+      "benchmarkPostId": "2097803271696011418",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097803271696011418",
+      "score": 4650,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T21:46:39Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
@@ -30792,6 +30839,45 @@
       },
       "postizPostId": "cmtulhorh05e9qk0yf07tzfju",
       "publishedAt": "2026-09-09T21:13:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-lockheed-826m-air-force-award",
+      "benchmarkPostId": "2097803271696011418",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097803271696011418",
+      "title": "Lockheed Martin wins $826M Air Force award",
+      "status": "published",
+      "postText": "Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modification for JASSM and LRASM large-lot procurement.",
+      "mirroredFacts": [
+        "Lockheed Martin was awarded an $826 million U.S. Air Force contract modification.",
+        "The modification covers JASSM and LRASM large-lot procurement."
+      ],
+      "verificationSources": [
+        "https://www.defense.gov/News/Contracts/Contract/Article/4261297/",
+        "https://x.com/StockMKTNewz/status/2097803271696011418"
+      ],
+      "imagePath": "deliverables/pkg-20260909-lockheed-826m-air-force-award/when2buy-image-model.png",
+      "createdAt": "2026-09-09T21:49:41.193533+00:00",
+      "sourceExpiresAt": "2026-09-09T23:14:09Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual, 1:1\nPrimary request: Create a complete premium entity-led breaking-news visual about Lockheed Martin receiving an $826 million U.S. Air Force contract modification for JASSM and LRASM large-lot procurement.\nScene/backdrop: cinematic near-black aerospace hangar / night-flight atmosphere with a realistic modern standoff missile silhouette and a subtle advanced fighter aircraft presence; authoritative, restrained, not combat-action sensationalism.\nSubject: Lockheed Martin as the corporate entity and the two long-range missile programs; focus on procurement scale.\nStyle/medium: high-end photorealistic editorial finance graphic, sharp newsroom art direction, deep blacks, crisp white type, restrained red accents.\nComposition/framing: square 1024x1024; dominant entity-led scene; bold headline in upper-left or center-left; reserve a clean empty logo-safe area in the upper-right corner; strong mobile-feed hierarchy and generous negative space.\nLighting/mood: controlled red rim light, cool metallic highlights, urgent and premium.\nColor palette: near-black, white, charcoal, restrained signal red only.\nText (verbatim): \"$826M AIR FORCE AWARD\"\nSupporting text (verbatim): \"LOCKHEED MARTIN • JASSM + LRASM\"\nConstraints: render all text exactly and legibly; no source attribution; no source handle; no URL; no disclaimer; no CTA; no tagline; no logo or invented corporate mark; no watermark; no flags; no extra numbers or dates; leave upper-right logo-safe area empty. Complete composed visual, not a typography-only card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T21:49:41.193533+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led missile-program aerospace scene",
+            "exact $826M AIR FORCE AWARD and LOCKHEED MARTIN • JASSM + LRASM text",
+            "premium near-black, white, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtumtjge05nnqk0yjsg4jw7d",
+      "publishedAt": "2026-09-09T21:50:00.000Z"
     }
   ],
   "posts": [
@@ -34281,6 +34367,23 @@
         "status": "active",
         "windowStart": "2026-09-09T21:13:00.000Z",
         "windowEnd": "2026-09-12T21:13:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097804907198009403",
+      "packageId": "pkg-20260909-lockheed-826m-air-force-award",
+      "title": "Lockheed Martin wins $826M Air Force award",
+      "status": "published",
+      "publishedAt": "2026-09-09T21:50:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097804907198009403",
+      "postizPostId": "cmtumtjge05nnqk0yjsg4jw7d",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T21:50:00.000Z",
+        "windowEnd": "2026-09-12T21:50:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -175109,6 +175212,64 @@
       "summary": "Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published.",
       "reason": "No fresh queue items within the 90-minute source TTL.",
       "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260909T214635Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:46:35Z",
+      "completedAt": "2026-09-09T21:46:35Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T214639Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:46:39Z",
+      "completedAt": "2026-09-09T21:46:39Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T214925Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:49:25Z",
+      "completedAt": "2026-09-09T21:49:25Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T214945Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:49:45Z",
+      "completedAt": "2026-09-09T21:49:45Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T215043Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:50:43.472619+00:00",
+      "completedAt": "2026-09-09T21:50:43.472621+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T215127Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:51:27Z",
+      "completedAt": "2026-09-09T21:51:27Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T21:37:55.624135+00:00`
+- 状态更新：`2026-09-09T21:51:27.889192+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**473**
-- 待选选题：**420**
+- 对标帖子快照：**474**
+- 待选选题：**421**
 - 待发布制作包：**0**
-- 已验证发布：**195**
+- 已验证发布：**196**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 21:44:09 +0000 2026 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸 Air Force for the  "Joint Air-to-Surface Standoff Missile and Long Range Anti-Ship Missile Large Lot procurement." https://t.co/wnixi8e7mg | [X](https://x.com/StockMKTNewz/status/2097803271696011418) |
 | @StockMKTNewz | Wed Sep 09 21:02:21 +0000 2026 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomberg https://t.co/Wb153bsrEL | [X](https://x.com/StockMKTNewz/status/2097792751861440932) |
 | @StockMKTNewz | Wed Sep 09 20:54:05 +0000 2026 | Will you be getting the new foldable iPhone? | [X](https://x.com/StockMKTNewz/status/2097790671922872783) |
 | @StockMKTNewz | Wed Sep 09 20:38:12 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/SLTGZ57oNd | [X](https://x.com/StockMKTNewz/status/2097786675023778262) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 18:18:41 +0000 2026 | Here are the 4 new products Apple $AAPL announced today  - New iPhone 18 Pro and Pro Max - Updated Airpods - Updated Apple Watch - First foldable Phone the iPhone Duo https://t.co/qitxoMrAAv | [X](https://x.com/StockMKTNewz/status/2097751561380180420) |
 | @WhaleInsider | Wed Sep 09 18:19:12 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 billion this month. https://t.co/BJU6xEmh5R | [X](https://x.com/WhaleInsider/status/2097751693433680381) |
 | @StockMKTNewz | Wed Sep 09 18:24:45 +0000 2026 | Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word | [X](https://x.com/StockMKTNewz/status/2097753088132104409) |
-| @StockMKTNewz | Wed Sep 09 15:57:31 +0000 2026 | $META is the only stock out of the top 10 largest companies in the world that is moving higher today  🟢🔴🔴🔴🔴🔴🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2097716037126951139) |
 
 ## 选题推荐
 
@@ -155,6 +155,7 @@
 | 1 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K Yes ... being priced at $1,999 does coun… | StockMKTNewz | 7265 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Will you be getting the new foldable iPhone? | StockMKTNewz | 7262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomb… | StockMKTNewz | 8148 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸… | StockMKTNewz | 4650 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2947,6 +2948,13 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 
 Apple's $AAPL foldable iPhone Duo costs $3,199 in its highest-end configuration.
 
+### Lockheed Martin wins $826M Air Force award
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-lockheed-826m-air-force-award/when2buy-image-model.png`
+
+Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modification for JASSM and LRASM large-lot procurement.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3147,9 +3155,16 @@ Apple's $AAPL foldable iPhone Duo costs $3,199 in its highest-end configuration.
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097795555552567617) |
+| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097804907198009403) |
 
 ## 最近运行
 
+- `2026-09-09T21:51:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T21:50:43.472619+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T21:49:45Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T21:49:25Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T21:46:39Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T21:46:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-09T21:36:06Z` **full / succeeded** — Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published. No fresh queue items within the 90-minute source TTL.
 - `2026-09-09T21:37:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T21:37:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).
@@ -3164,9 +3179,3 @@ Apple's $AAPL foldable iPhone Duo costs $3,199 in its highest-end configuration.
 - `2026-09-09T21:11:54.256511+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
 - `2026-09-09T21:08:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T21:08:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
-- `2026-09-09T21:05:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:55:51Z` **full / succeeded** — Completed Apify freshness scan, media archive, status reconciliation, TTL queue rebuild, semantic deduplication, and no-publish reporting workflow. No unique fresh queue items remained after excluding a duplicate of the already published iPhone Duo reveal.
-- `2026-09-09T20:57:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:57:46Z` **radar / succeeded** — Excluded one fresh semantic duplicate of the already published iPhone Duo reveal.
-- `2026-09-09T20:57:09Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:57:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
