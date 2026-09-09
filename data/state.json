@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T22:51:36.884403+00:00",
+  "updatedAt": "2026-09-09T22:57:57.394346+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -180675,6 +180675,39 @@
       "publishedUrls": [
         "https://x.com/_When2buy/status/2097820023805141266"
       ]
+    },
+    {
+      "id": "run-20260909T225711Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:57:11Z",
+      "completedAt": "2026-09-09T22:57:11Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T225715Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:57:15Z",
+      "completedAt": "2026-09-09T22:57:15Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T225715Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:57:11Z",
+      "completedAt": "2026-09-09T22:57:15Z",
+      "summary": "Apify collection from both benchmark accounts, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.",
+      "reason": "",
+      "selectedPackageIds": [],
+      "publishedUrls": []
     }
   ],
   "deliveryCircuitBreaker": {
