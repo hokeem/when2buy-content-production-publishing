@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T03:29:28.374863+00:00",
+  "updatedAt": "2026-09-09T03:52:11.087503+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -27229,7 +27229,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:41:00Z",
         "windowEnd": "2026-09-09T06:41:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27246,7 +27246,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:42:00Z",
         "windowEnd": "2026-09-09T06:42:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27263,7 +27263,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:42:00Z",
         "windowEnd": "2026-09-09T06:42:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27280,7 +27280,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:43:00Z",
         "windowEnd": "2026-09-09T06:43:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27297,7 +27297,7 @@
         "status": "active",
         "windowStart": "2026-09-06T06:43:00Z",
         "windowEnd": "2026-09-09T06:43:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27314,7 +27314,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:41:00Z",
         "windowEnd": "2026-09-09T12:41:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27331,7 +27331,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:42:00Z",
         "windowEnd": "2026-09-09T12:42:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27348,7 +27348,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:42:00Z",
         "windowEnd": "2026-09-09T12:42:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27365,7 +27365,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:43:00Z",
         "windowEnd": "2026-09-09T12:43:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27382,7 +27382,7 @@
         "status": "active",
         "windowStart": "2026-09-06T12:43:00Z",
         "windowEnd": "2026-09-09T12:43:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27399,7 +27399,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:42:00Z",
         "windowEnd": "2026-09-10T00:42:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27416,7 +27416,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:43:00Z",
         "windowEnd": "2026-09-10T00:43:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27433,7 +27433,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:44:00Z",
         "windowEnd": "2026-09-10T00:44:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27450,7 +27450,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:44:00Z",
         "windowEnd": "2026-09-10T00:44:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27467,7 +27467,7 @@
         "status": "active",
         "windowStart": "2026-09-07T00:45:00Z",
         "windowEnd": "2026-09-10T00:45:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27484,7 +27484,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:32:00Z",
         "windowEnd": "2026-09-10T05:32:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27501,7 +27501,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:32:00Z",
         "windowEnd": "2026-09-10T05:32:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27518,7 +27518,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:33:00Z",
         "windowEnd": "2026-09-10T05:33:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27535,7 +27535,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:33:00Z",
         "windowEnd": "2026-09-10T05:33:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27552,7 +27552,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:34:00Z",
         "windowEnd": "2026-09-10T05:34:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27569,7 +27569,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:55:00Z",
         "windowEnd": "2026-09-10T05:55:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27586,7 +27586,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:56:00Z",
         "windowEnd": "2026-09-10T05:56:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27603,7 +27603,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:56:00Z",
         "windowEnd": "2026-09-10T05:56:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27620,7 +27620,7 @@
         "status": "active",
         "windowStart": "2026-09-07T05:57:00Z",
         "windowEnd": "2026-09-10T05:57:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27637,7 +27637,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:15:00Z",
         "windowEnd": "2026-09-10T06:15:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27654,7 +27654,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:16:00Z",
         "windowEnd": "2026-09-10T06:16:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27671,9 +27671,9 @@
         "status": "active",
         "windowStart": "2026-09-07T06:16:00Z",
         "windowEnd": "2026-09-10T06:16:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
-        "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
+        "lastAttemptResult": "no observation appended: Postiz=<urlopen error _ssl.c:975: The handshake operation timed out>; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -27688,7 +27688,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:17:00Z",
         "windowEnd": "2026-09-10T06:17:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27705,7 +27705,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:17:00Z",
         "windowEnd": "2026-09-10T06:17:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27722,7 +27722,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:33:00Z",
         "windowEnd": "2026-09-10T06:33:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27739,7 +27739,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:34:00Z",
         "windowEnd": "2026-09-10T06:34:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27756,7 +27756,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:34:00Z",
         "windowEnd": "2026-09-10T06:34:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27773,7 +27773,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:35:00Z",
         "windowEnd": "2026-09-10T06:35:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27790,7 +27790,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:35:00Z",
         "windowEnd": "2026-09-10T06:35:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27807,7 +27807,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:52:00Z",
         "windowEnd": "2026-09-10T06:52:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27824,7 +27824,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:52:00Z",
         "windowEnd": "2026-09-10T06:52:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27841,7 +27841,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:53:00Z",
         "windowEnd": "2026-09-10T06:53:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27858,7 +27858,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:54:00Z",
         "windowEnd": "2026-09-10T06:54:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27875,7 +27875,7 @@
         "status": "active",
         "windowStart": "2026-09-07T06:54:00Z",
         "windowEnd": "2026-09-10T06:54:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27892,7 +27892,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:12:00Z",
         "windowEnd": "2026-09-10T07:12:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27909,7 +27909,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:13:00Z",
         "windowEnd": "2026-09-10T07:13:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27926,7 +27926,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:14:00Z",
         "windowEnd": "2026-09-10T07:14:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27943,7 +27943,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:14:00Z",
         "windowEnd": "2026-09-10T07:14:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27960,7 +27960,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:15:00Z",
         "windowEnd": "2026-09-10T07:15:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27977,7 +27977,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:35:00Z",
         "windowEnd": "2026-09-10T07:35:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -27994,7 +27994,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:36:00Z",
         "windowEnd": "2026-09-10T07:36:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28011,7 +28011,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:36:00Z",
         "windowEnd": "2026-09-10T07:36:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28028,7 +28028,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:37:00Z",
         "windowEnd": "2026-09-10T07:37:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28045,7 +28045,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:37:00Z",
         "windowEnd": "2026-09-10T07:37:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28062,7 +28062,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:52:00Z",
         "windowEnd": "2026-09-10T07:52:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28079,7 +28079,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:53:00Z",
         "windowEnd": "2026-09-10T07:53:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28096,7 +28096,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:53:00Z",
         "windowEnd": "2026-09-10T07:53:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28113,7 +28113,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:54:00Z",
         "windowEnd": "2026-09-10T07:54:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28130,7 +28130,7 @@
         "status": "active",
         "windowStart": "2026-09-07T07:54:00Z",
         "windowEnd": "2026-09-10T07:54:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28147,7 +28147,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:11:00Z",
         "windowEnd": "2026-09-10T08:11:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28164,7 +28164,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:12:00Z",
         "windowEnd": "2026-09-10T08:12:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28181,7 +28181,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:13:00Z",
         "windowEnd": "2026-09-10T08:13:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28198,7 +28198,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:14:00Z",
         "windowEnd": "2026-09-10T08:14:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28215,7 +28215,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:14:00Z",
         "windowEnd": "2026-09-10T08:14:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28232,7 +28232,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:32:00Z",
         "windowEnd": "2026-09-10T08:32:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28249,7 +28249,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:33:00Z",
         "windowEnd": "2026-09-10T08:33:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28266,7 +28266,7 @@
         "status": "active",
         "windowStart": "2026-09-07T08:33:00Z",
         "windowEnd": "2026-09-10T08:33:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28283,7 +28283,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:51:00Z",
         "windowEnd": "2026-09-10T12:51:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28300,7 +28300,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:51:00Z",
         "windowEnd": "2026-09-10T12:51:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28317,7 +28317,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:52:00Z",
         "windowEnd": "2026-09-10T12:52:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28334,7 +28334,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:53:00Z",
         "windowEnd": "2026-09-10T12:53:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28351,7 +28351,7 @@
         "status": "active",
         "windowStart": "2026-09-07T12:53:00Z",
         "windowEnd": "2026-09-10T12:53:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28368,7 +28368,7 @@
         "status": "active",
         "windowStart": "2026-09-08T01:48:00Z",
         "windowEnd": "2026-09-11T01:48:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28385,7 +28385,7 @@
         "status": "active",
         "windowStart": "2026-09-08T02:06:00Z",
         "windowEnd": "2026-09-11T02:06:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28402,7 +28402,7 @@
         "status": "active",
         "windowStart": "2026-09-08T02:26:00Z",
         "windowEnd": "2026-09-11T02:26:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28419,7 +28419,7 @@
         "status": "active",
         "windowStart": "2026-09-08T05:48:00Z",
         "windowEnd": "2026-09-11T05:48:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28436,7 +28436,7 @@
         "status": "active",
         "windowStart": "2026-09-08T07:30:00Z",
         "windowEnd": "2026-09-11T07:30:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -28453,7 +28453,7 @@
         "status": "active",
         "windowStart": "2026-09-08T07:46:00Z",
         "windowEnd": "2026-09-11T07:46:00Z",
-        "lastAttemptAt": "2026-09-09T02:45:49.129145Z",
+        "lastAttemptAt": "2026-09-09T03:48:29.703245Z",
         "lastAttemptSource": "Postiz public API → public X fallback",
         "lastAttemptResult": "no observation appended: Postiz=HTTP Error 403: Forbidden; public X=public X did not expose any parseable numeric counters"
       }
@@ -122313,12 +122313,58 @@
         "submissionAttempted": false,
         "publicationResult": "deferred"
       }
+    },
+    {
+      "id": "run-20260909T035137Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T03:51:37Z",
+      "completedAt": "2026-09-09T03:51:37Z",
+      "summary": "Apify scanned both benchmark accounts; captured 101 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T035140Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T03:51:40Z",
+      "completedAt": "2026-09-09T03:51:40Z",
+      "summary": "Prepared 75 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T035155Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T03:45:34Z",
+      "completedAt": "2026-09-09T03:51:55Z",
+      "summary": "Apify collected both required benchmark feeds, archived available media, rebuilt the newest-first queue, and refreshed eligible 72-hour metrics. Publication was withheld by the required Postiz delivery safety check; all ready packages remain queued.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "HTTP 403: error code: 1010"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-09T04:49:39Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      },
+      "delivery": {
+        "circuitBreakerActive": true,
+        "expiresAt": "2026-09-09T04:49:39Z",
+        "submissionAttempted": false,
+        "publicationResult": "deferred"
+      }
     }
   ],
   "deliveryCircuitBreaker": {
     "active": true,
-    "startedAt": "2026-09-09T02:49:28Z",
-    "expiresAt": "2026-09-09T03:49:28Z",
+    "startedAt": "2026-09-09T03:49:39Z",
+    "expiresAt": "2026-09-09T04:49:39Z",
     "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
   }
 }
