@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T14:34:32.938159+00:00",
+  "updatedAt": "2026-09-09T14:55:48.763775+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -12045,6 +12045,54 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097696245359735104",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097696245359735104",
+      "postedAt": "Wed Sep 09 14:38:52 +0000 2026",
+      "text": "EUROPE GAS PRICES RISE ABOVE €80 FOR FIRST TIME SINCE 2023 - Bloomberg",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 19,
+        "replies": 6,
+        "reposts": 2,
+        "quotes": 2,
+        "views": 8489
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T14:46:34Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097695004827279430",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097695004827279430",
+      "postedAt": "Wed Sep 09 14:33:57 +0000 2026",
+      "text": "Michael Burry just said he is covering some of his shorts and reducing the size of his short bets on Nvidia $NVDA and CoreWeave $CRWV https://t.co/F4CxghZTZK",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRyBGDsbwAAfLu7.png"
+      ],
+      "engagement": {
+        "likes": 63,
+        "replies": 25,
+        "reposts": 5,
+        "quotes": 3,
+        "views": 11954
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T14:46:34Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyBGDsbwAAfLu7.png",
+          "path": "output/benchmark-media/StockMKTNewz/2097695004827279430-1.png",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -19493,6 +19541,44 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097696245359735104",
+      "rank": 1,
+      "title": "EUROPE GAS PRICES RISE ABOVE €80 FOR FIRST TIME SINCE 2023 - Bloomberg",
+      "benchmarkPostId": "2097696245359735104",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097696245359735104",
+      "score": 9329,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T14:46:48Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097695004827279430",
+      "rank": 2,
+      "title": "Michael Burry just said he is covering some of his shorts and reducing the size of his short…",
+      "benchmarkPostId": "2097695004827279430",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097695004827279430",
+      "score": 14644,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T14:46:48Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -28771,6 +28857,84 @@
       },
       "postizPostId": "cmtu753dc00xvqk0yt4qniyv4",
       "publishedAt": "2026-09-09T14:31:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-europe-gas-above-80",
+      "benchmarkPostId": "2097696245359735104",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097696245359735104",
+      "title": "European gas rises above €80/MWh",
+      "status": "published",
+      "postText": "European natural gas prices rose above €80/MWh for the first time since 2023.",
+      "mirroredFacts": [
+        "European natural gas prices rose above €80 per megawatt-hour.",
+        "This was the first move above that level since 2023."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097696245359735104",
+        "https://www.euronews.com/business/2026/09/09/european-gas-prices-keep-climbing-as-iea-calls-for-emergency-reserves"
+      ],
+      "imagePath": "deliverables/pkg-20260909-europe-gas-above-80/when2buy-image-model.png",
+      "createdAt": "2026-09-09T14:51:22.312515+00:00",
+      "sourceExpiresAt": "2026-09-09T16:08:52Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual\nPrimary request: Create a complete premium editorial visual about European benchmark natural gas prices rising above €80 per megawatt-hour for the first time since 2023.\nScene/backdrop: near-black cinematic European gas infrastructure scene with a recognizably European LNG terminal, steel pipelines, storage tanks, faint continent map geometry and a restrained upward market line.\nSubject: European natural gas infrastructure and the dominant price threshold.\nStyle/medium: polished photorealistic financial-news campaign art, sophisticated and urgent, not a template.\nComposition/framing: square 1:1; strong subject on the right and center; generous clean dark logo-safe area at bottom-left for later compositing.\nLighting/mood: high-contrast night lighting, white highlights, restrained red glow, serious market urgency.\nColor palette: near-black, white, restrained signal red; no green.\nText (verbatim): \"EUROPE GAS\" and \"ABOVE €80/MWh\" and \"FIRST TIME SINCE 2023\"\nConstraints: render all text exactly and legibly; one dominant number; no logo because the exact logo will be composited later; no attribution, source handle, URL, disclaimer, CTA, brand tagline, watermark, or extra factual claims.\nAvoid: generic radar imagery, pure typography card, clutter, misspelled words, additional numbers.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T14:51:22.312515+00:00",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led European LNG infrastructure scene",
+            "exact EUROPE GAS, ABOVE €80/MWh and FIRST TIME SINCE 2023 text",
+            "no source, URL, attribution, disclaimer, commentary, CTA or tagline",
+            "premium near-black, white and restrained-red palette",
+            "not a pure-text or generic-radar visual",
+            "exact repository logo composited once in the lower-left clear area"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmtu7vzn002e6lm0yijrvve12",
+      "publishedAt": "2026-09-09T14:52:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-burry-reduces-nvda-crwv-shorts",
+      "benchmarkPostId": "2097695004827279430",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097695004827279430",
+      "title": "Michael Burry reduces Nvidia and CoreWeave shorts",
+      "status": "ready",
+      "postText": "Michael Burry says he is covering part of his short positions and reducing his bets against Nvidia $NVDA and CoreWeave $CRWV.",
+      "mirroredFacts": [
+        "Michael Burry said he is covering some of his short positions.",
+        "He said he is reducing the size of short bets on Nvidia and CoreWeave."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097695004827279430"
+      ],
+      "imagePath": "deliverables/pkg-20260909-burry-reduces-nvda-crwv-shorts/when2buy-image-model.png",
+      "createdAt": "2026-09-09T14:51:23.332405+00:00",
+      "sourceExpiresAt": "2026-09-09T16:03:57Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual\nPrimary request: Create a complete premium editorial visual about investor Michael Burry reducing short exposure in Nvidia and CoreWeave.\nScene/backdrop: near-black institutional trading environment with an editorial portrait-inspired silhouette of a bespectacled hedge-fund investor viewed in profile, two subtle semiconductor/data-center motifs, and red short-position bars visibly contracting.\nSubject: Michael Burry and reduced short bets in Nvidia and CoreWeave, communicated visually without implying the positions are closed.\nStyle/medium: polished photorealistic financial-news campaign art, sophisticated, tense and precise, not a template.\nComposition/framing: square 1:1; subject on right; restrained charts behind; generous clean dark logo-safe area at bottom-left for later compositing.\nLighting/mood: high-contrast white rim light with restrained red accents.\nColor palette: near-black, white, restrained signal red.\nText (verbatim): \"BURRY CUTS SHORTS\" and \"$NVDA  •  $CRWV\"\nConstraints: render all text exactly and legibly; no logo because the exact logo will be composited later; no attribution, source handle, URL, disclaimer, CTA, brand tagline, watermark, recommendation, or claim that positions were fully closed.\nAvoid: generic radar imagery, pure typography card, caricature, clutter, extra numbers, misspelled tickers.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T14:51:23.332405+00:00",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led investor and semiconductor/data-center scene",
+            "exact BURRY CUTS SHORTS, $NVDA and $CRWV text",
+            "visual depicts shrinking rather than fully closed short positions",
+            "no source, URL, attribution, disclaimer, commentary, CTA or tagline",
+            "premium near-black, white and restrained-red palette",
+            "not a pure-text or generic-radar visual",
+            "exact repository logo composited once in the lower-left clear area"
+          ],
+          "result": "passed"
+        }
+      }
     }
   ],
   "posts": [
@@ -32072,6 +32236,23 @@
         "status": "active",
         "windowStart": "2026-09-09T14:33:00.000Z",
         "windowEnd": "2026-09-12T14:33:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097699721834082622",
+      "packageId": "pkg-20260909-europe-gas-above-80",
+      "title": "European gas rises above €80/MWh",
+      "status": "published",
+      "publishedAt": "2026-09-09T14:52:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097699721834082622",
+      "postizPostId": "cmtu7vzn002e6lm0yijrvve12",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T14:52:00.000Z",
+        "windowEnd": "2026-09-12T14:52:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -152614,6 +152795,64 @@
       "completedAt": "2026-09-09T14:34:32Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260909T144634Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:46:34Z",
+      "completedAt": "2026-09-09T14:46:34Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T144648Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:46:48Z",
+      "completedAt": "2026-09-09T14:46:48Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T145124Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:51:24.426684+00:00",
+      "completedAt": "2026-09-09T14:51:24.426684+00:00",
+      "summary": "Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T145126Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:51:26Z",
+      "completedAt": "2026-09-09T14:51:26Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T145245Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:52:45.790059+00:00",
+      "completedAt": "2026-09-09T14:52:45.790063+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T145548Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T14:46:15Z",
+      "completedAt": "2026-09-09T14:55:48.762438+00:00",
+      "summary": "Apify collection, media archive, status reconciliation, fresh-queue rebuild, two image-model packages, validation, and serial Postiz publication completed; the newest package published with a verified X URL and the second returned a delivery error without a release URL.",
+      "reason": "Postiz returned ERROR for pkg-20260909-burry-reduces-nvda-crwv-shorts; no retry was attempted without a verified release URL."
     }
   ],
   "deliveryCircuitBreaker": {

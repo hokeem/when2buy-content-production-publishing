@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T14:34:32.938159+00:00`
+- 状态更新：`2026-09-09T14:55:48.763775+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**436**
-- 待选选题：**392**
-- 待发布制作包：**0**
-- 已验证发布：**185**
+- 对标帖子快照：**438**
+- 待选选题：**394**
+- 待发布制作包：**1**
+- 已验证发布：**186**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 14:33:57 +0000 2026 | Michael Burry just said he is covering some of his shorts and reducing the size of his short bets on Nvidia $NVDA and CoreWeave $CRWV https://t.co/F4CxghZTZK | [X](https://x.com/StockMKTNewz/status/2097695004827279430) |
+| @StockMKTNewz | Wed Sep 09 14:38:52 +0000 2026 | EUROPE GAS PRICES RISE ABOVE €80 FOR FIRST TIME SINCE 2023 - Bloomberg | [X](https://x.com/StockMKTNewz/status/2097696245359735104) |
 | @WhaleInsider | Wed Sep 09 14:22:07 +0000 2026 | JUST IN: Robinhood Chain $HOOD leads tokenized equity volume at 40% market share. https://t.co/v9BQFebewa | [X](https://x.com/WhaleInsider/status/2097692027802513720) |
 | @WhaleInsider | Wed Sep 09 14:06:44 +0000 2026 | JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equivalent to $160,000 at all time high. https://t.co/TdY13eZjT1 | [X](https://x.com/WhaleInsider/status/2097688157370126338) |
 | @StockMKTNewz | Wed Sep 09 13:54:59 +0000 2026 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINNISH 🇫🇮 PLANT RUNNING TO 2050  Google agreed to buy up to 50% of the capacity from Fortum's Loviisa nuclear plant in Finland, guaranteeing it stays online through the end of its operating license in 2050.  The deal unlocks roughly $1.16 billion in investment Fortum needs to keep the plant running, decisions that would otherwise have been made year by year.  It's part of the broader $15.1 billion Google plan for AI infrastructure investment in Finland - Bloomberg | [X](https://x.com/StockMKTNewz/status/2097685199102316847) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Wed Sep 09 07:13:51 +0000 2026 | JUST IN: $ETH ETFs see an inflow of $24.29 million. https://t.co/mTLOvDAQSO | [X](https://x.com/WhaleInsider/status/2097584250992111832) |
 | @WhaleInsider | Wed Sep 09 06:36:30 +0000 2026 | JUST IN: Robinhood Chain $HOOD takes the #1 spot for fees accrued in the past 24 hours, surpassing $2 million - Artemis. https://t.co/eVZ09hTcoy | [X](https://x.com/WhaleInsider/status/2097574853075226955) |
 | @WhaleInsider | Wed Sep 09 06:12:37 +0000 2026 | JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6 | [X](https://x.com/WhaleInsider/status/2097568840863428737) |
-| @WhaleInsider | Wed Sep 09 05:46:12 +0000 2026 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | [X](https://x.com/WhaleInsider/status/2097562195114520817) |
-| @StockMKTNewz | Wed Sep 09 01:07:56 +0000 2026 | WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW | [X](https://x.com/StockMKTNewz/status/2097492167849631928) |
 
 ## 选题推荐
 
@@ -145,6 +145,7 @@
 | 1 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINN… | StockMKTNewz | 5026 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equival… | WhaleInsider | 17960 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD leads tokenized equity volume at 40% market share. https://t.… | WhaleInsider | 13460 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | EUROPE GAS PRICES RISE ABOVE €80 FOR FIRST TIME SINCE 2023 - Bloomberg | StockMKTNewz | 9329 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -193,6 +194,7 @@
 | 2 | FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS At least a third o… | StockMKTNewz | 8268 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | There could be as much as $31.6 Trillion spent on data center CAPEX through 2050 Almost 50% … | StockMKTNewz | 13808 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ… | StockMKTNewz | 10662 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Michael Burry just said he is covering some of his shorts and reducing the size of his short… | StockMKTNewz | 14644 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2828,6 +2830,20 @@ The team behind $PENGUIN on Robinhood Chain burned 200M tokens, valued at $160,0
 
 Robinhood Chain $HOOD leads tokenized equity volume with 40% market share.
 
+### European gas rises above €80/MWh
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-europe-gas-above-80/when2buy-image-model.png`
+
+European natural gas prices rose above €80/MWh for the first time since 2023.
+
+### Michael Burry reduces Nvidia and CoreWeave shorts
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-burry-reduces-nvda-crwv-shorts/when2buy-image-model.png`
+
+Michael Burry says he is covering part of his short positions and reducing his bets against Nvidia $NVDA and CoreWeave $CRWV.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3018,9 +3034,16 @@ Robinhood Chain $HOOD leads tokenized equity volume with 40% market share.
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097694447798722955) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097694968186024281) |
+| European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097699721834082622) |
 
 ## 最近运行
 
+- `2026-09-09T14:46:15Z` **full / partial** — Apify collection, media archive, status reconciliation, fresh-queue rebuild, two image-model packages, validation, and serial Postiz publication completed; the newest package published with a verified X URL and the second returned a delivery error without a release URL. Postiz returned ERROR for pkg-20260909-burry-reduces-nvda-crwv-shorts; no retry was attempted without a verified release URL.
+- `2026-09-09T14:52:45.790059+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T14:51:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:51:24.426684+00:00` **produce / succeeded** — Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.
+- `2026-09-09T14:46:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:46:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
 - `2026-09-09T14:34:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T14:26:06Z` **full / succeeded** — Apify collection, benchmark media archive, verified-status reconciliation, freshness queue rebuild, newest image-model package production, content validation, and two serial Postiz publications with verified public X URLs completed.
 - `2026-09-09T14:33:54.060176+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -3035,9 +3058,3 @@ Robinhood Chain $HOOD leads tokenized equity volume with 40% market share.
 - `2026-09-09T14:15:32Z` **full / succeeded** — Apify collection, media archive, status reconciliation, fresh-queue rebuild, newest image-model package production, one expired-breaker recovery probe, verified X publication, validation, and reporting completed. The second fresh queue item was intentionally not submitted because breaker recovery permits exactly one newest-fresh-package probe.
 - `2026-09-09T14:21:24.829343+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T14:20:36.105201Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
-- `2026-09-09T14:20:14Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:20:11.647525+00:00` **produce / succeeded** — Produced the newest fresh PENGUIN token-burn package with an inspected image-model visual and one exact-logo composite.
-- `2026-09-09T14:19:53Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:16:55Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:16:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-09T14:15:47Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
