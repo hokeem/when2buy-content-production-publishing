@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T10:25:43.251843+00:00`
+- 状态更新：`2026-09-09T10:44:31.812227+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**417**
-- 待选选题：**373**
+- 对标帖子快照：**420**
+- 待选选题：**376**
 - 待发布制作包：**0**
-- 已验证发布：**172**
+- 已验证发布：**174**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 10:21:00 +0000 2026 | HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of 7,650 | [X](https://x.com/StockMKTNewz/status/2097631348395479169) |
+| @WhaleInsider | Wed Sep 09 10:33:34 +0000 2026 | JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryptocurrency platforms, among them Weex, Blofin, Bitunix, DigiFinex, and Toobit.   The regulator is also seeking the removal of their apps and websites over alleged breaches of anti-money laundering rules. | [X](https://x.com/WhaleInsider/status/2097634511366304052) |
+| @StockMKTNewz | Wed Sep 09 10:34:37 +0000 2026 | This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a decade  There is currently a ~55% chance we get a 0.25% rate hike next week  Snce 2015 there have been 0 FOMC meetings where 2 days before, the market odds of the Fed taking action were between 38%-69%. Every time its been either less than a 38% chance or more than 69% | [X](https://x.com/StockMKTNewz/status/2097634775062184094) |
 | @StockMKTNewz | Wed Sep 09 10:09:37 +0000 2026 | SpaceX $SPCX is back to being valued at more than $2 Trillion https://t.co/ZqTRiJxdYo | [X](https://x.com/StockMKTNewz/status/2097628486454170011) |
 | @WhaleInsider | Wed Sep 09 10:10:10 +0000 2026 | JUST IN: 🇨🇳🇺🇸 China dismisses as “unfounded” a U.S. advisory accusing DeepSeek, Alibaba, Moonshot AI and three other firms of systematically distilling Claude, GPT, Gemini and Grok - and calls for more AI cooperation instead. https://t.co/vdCA91ownW | [X](https://x.com/WhaleInsider/status/2097628624551637052) |
 | @WhaleInsider | Wed Sep 09 09:31:02 +0000 2026 | JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil tankers near the Strait of Hormuz. https://t.co/QtpaOriimX | [X](https://x.com/WhaleInsider/status/2097618775214276775) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 17:40:53 +0000 2026 | AI startup Cognition raised more than $2B at a valuation of $48 Billion | [X](https://x.com/StockMKTNewz/status/2097379660854157664) |
 | @WhaleInsider | Tue Sep 08 17:05:09 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian media. https://t.co/0lbfexXv8o | [X](https://x.com/WhaleInsider/status/2097370670145347948) |
 | @StockMKTNewz | Tue Sep 08 16:26:59 +0000 2026 | QUALCOMM $QCOM JUST SAID:  - THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE | [X](https://x.com/StockMKTNewz/status/2097361064912449586) |
-| @WhaleInsider | Tue Sep 08 16:36:47 +0000 2026 | JUST IN: $UPS (UNIPCS6900) launches on Robinhood Chain, reportedly tied to UniPcs’ FOMO holdings amid BONK insider speculation, with automated portfolio rotation and cross-chain rewards for holders. https://t.co/Mu6wdkOMaD | [X](https://x.com/WhaleInsider/status/2097363532727611898) |
-| @StockMKTNewz | Tue Sep 08 16:46:27 +0000 2026 | Tesla $TSLA is reportedly preparing to deploy 1,000 Cybercabs | [X](https://x.com/StockMKTNewz/status/2097365965235196026) |
-| @WhaleInsider | Tue Sep 08 16:55:09 +0000 2026 | JUST IN: Cresta aims to make customer service easier with AI agents that solve problems and seamlessly hand conversations to human agents. | [X](https://x.com/WhaleInsider/status/2097368151558123921) |
 
 ## 选题推荐
 
@@ -133,6 +133,7 @@
 | 1 | JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. h… | WhaleInsider | 2505 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil ta… | WhaleInsider | 13023 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇨🇳🇺🇸 China dismisses as “unfounded” a U.S. advisory accusing DeepSeek, Alibaba, Moo… | WhaleInsider | 13297 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a… | StockMKTNewz | 4130 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -176,6 +177,7 @@
 | 2 | Nike $NKE stock hit new decade plus lows again today | StockMKTNewz | 12632 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $IQ (@iqtestrh) launches on Robinhood Chain, paired with Intel stock, as social-med… | WhaleInsider | 18652 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | SpaceX $SPCX is back to being valued at more than $2 Trillion https://t.co/ZqTRiJxdYo | StockMKTNewz | 6394 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryp… | WhaleInsider | 11409 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -197,6 +199,7 @@
 | 3 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | StockMKTNewz | 13267 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND | StockMKTNewz | 10897 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: $UPS (UNIPCS6900) launches on Robinhood Chain, reportedly tied to UniPcs’ FOMO hold… | WhaleInsider | 20902 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of… | StockMKTNewz | 8554 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2690,6 +2693,20 @@ China rejected U.S. accusations that six Chinese AI developers systematically di
 
 SpaceX $SPCX is back above a $2 trillion market value.
 
+### Fed hike odds near 55%
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-fed-hike-odds-55/when2buy-image-model.png`
+
+Markets put the chance of a 25 bp Fed rate hike next week near 55% ahead of the Sept. 15–16 FOMC meeting.
+
+### India FIU notices 15 crypto platforms
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-india-fiu-15-crypto-platforms/when2buy-image-model.png`
+
+India’s FIU issued non-compliance notices to 15 crypto platforms, including Weex, Blofin, Bitunix, DigiFinex and Toobit.  Authorities are seeking to restrict their apps and websites over alleged AML-rule breaches.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2867,9 +2884,18 @@ SpaceX $SPCX is back above a $2 trillion market value.
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | SpaceX returns above $2 trillion | 2026-09-09T10:23:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097632198967099767) |
+| Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097636596166336949) |
+| India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097637139089703163) |
 
 ## 最近运行
 
+- `2026-09-09T10:44:31Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T10:44:03.037007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T10:41:58.069422+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T10:40:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T10:36:48Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T10:36:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
+- `2026-09-09T10:36:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T10:15:45Z` **full / succeeded** — Fetched and matched origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable publication status; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; validated and published both serially through Postiz with verified public X URLs; rebuilt an empty post-publication queue; refreshed reporting.
 - `2026-09-09T10:24:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T10:24:28.237607+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2883,10 +2909,3 @@ SpaceX $SPCX is back above a $2 trillion market value.
 - `2026-09-09T10:07:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-09T10:06:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T10:00:20Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; scanned both required Apify feeds and found no new eligible originals; archived available source media; reconciled immutable package statuses; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.
-- `2026-09-09T10:01:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:01:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).
-- `2026-09-09T10:00:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T09:45:45Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; scanned both required Apify feeds and found no new eligible originals; reconciled immutable package statuses; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.
-- `2026-09-09T09:46:18Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T09:46:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-09T09:45:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

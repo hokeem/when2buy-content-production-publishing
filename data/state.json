@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T10:25:43.251843+00:00",
+  "updatedAt": "2026-09-09T10:44:31.812227+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11519,6 +11519,88 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097634775062184094",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097634775062184094",
+      "postedAt": "Wed Sep 09 10:34:37 +0000 2026",
+      "text": "This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a decade\n\nThere is currently a ~55% chance we get a 0.25% rate hike next week\n\nSnce 2015 there have been 0 FOMC meetings where 2 days before, the market odds of the Fed taking action were between 38%-69%. Every time its been either less than a 38% chance or more than 69%",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxHdz2awAAKaJf.png"
+      ],
+      "engagement": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 3940
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T10:36:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxHdz2awAAKaJf.png",
+          "path": "output/benchmark-media/StockMKTNewz/2097634775062184094-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097634511366304052",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097634511366304052",
+      "postedAt": "Wed Sep 09 10:33:34 +0000 2026",
+      "text": "JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryptocurrency platforms, among them Weex, Blofin, Bitunix, DigiFinex, and Toobit. \n\nThe regulator is also seeking the removal of their apps and websites over alleged breaches of anti-money laundering rules.",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxLeFTbUAAt9Pr.jpg",
+        "https://pbs.twimg.com/media/HRxLeDEW8AAqXSE.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 11,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 10259
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T10:36:44Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxLeFTbUAAt9Pr.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097634511366304052-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxLeDEW8AAqXSE.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097634511366304052-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097631348395479169",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097631348395479169",
+      "postedAt": "Wed Sep 09 10:21:00 +0000 2026",
+      "text": "HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of 7,650",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 20,
+        "replies": 3,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 7884
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T10:36:44Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -18605,6 +18687,63 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097634775062184094",
+      "rank": 1,
+      "title": "This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a…",
+      "benchmarkPostId": "2097634775062184094",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097634775062184094",
+      "score": 4130,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T10:36:48Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097634511366304052",
+      "rank": 2,
+      "title": "JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryp…",
+      "benchmarkPostId": "2097634511366304052",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097634511366304052",
+      "score": 11409,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T10:36:48Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097631348395479169",
+      "rank": 3,
+      "title": "HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of…",
+      "benchmarkPostId": "2097631348395479169",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097631348395479169",
+      "score": 8554,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T10:36:48Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -27284,6 +27423,61 @@
       },
       "postizPostId": "cmttyb0o2016lqk0yvus69i5t",
       "publishedAt": "2026-09-09T10:23:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-fed-hike-odds-55",
+      "benchmarkPostId": "2097634775062184094",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097634775062184094",
+      "title": "Fed hike odds near 55%",
+      "status": "published",
+      "postText": "Markets put the chance of a 25 bp Fed rate hike next week near 55% ahead of the Sept. 15–16 FOMC meeting.",
+      "mirroredFacts": [
+        "Market-implied odds of a 25 basis point Fed rate hike next week are near 55%.",
+        "The FOMC meeting is scheduled for September 15–16, 2026."
+      ],
+      "verificationSources": [
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "https://www.kiplinger.com/investing/stocks/stocks-pull-back-ahead-of-labor-day-stock-market-today",
+        "https://x.com/StockMKTNewz/status/2097634775062184094"
+      ],
+      "imagePath": "deliverables/pkg-20260909-fed-hike-odds-55/when2buy-image-model.png",
+      "createdAt": "2026-09-09T10:39:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square entity-led Federal Reserve building visual with exact FED DECISION, 55% HIKE ODDS and SEP 15–16 text; near-black premium financial-news styling, white type, restrained red, and a bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmttyxgzl00yjlm0ynlxaoyd4",
+      "publishedAt": "2026-09-09T10:41:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-india-fiu-15-crypto-platforms",
+      "benchmarkPostId": "2097634511366304052",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097634511366304052",
+      "title": "India FIU notices 15 crypto platforms",
+      "status": "published",
+      "postText": "India’s FIU issued non-compliance notices to 15 crypto platforms, including Weex, Blofin, Bitunix, DigiFinex and Toobit.\n\nAuthorities are seeking to restrict their apps and websites over alleged AML-rule breaches.",
+      "mirroredFacts": [
+        "India's FIU issued non-compliance notices to 15 virtual digital asset service providers.",
+        "The list includes Weex, Blofin, Bitunix, DigiFinex and Toobit.",
+        "Authorities are seeking access restrictions for their apps and websites over alleged anti-money-laundering non-compliance."
+      ],
+      "verificationSources": [
+        "https://fiuindia.gov.in/",
+        "https://ebs.publicnow.com/view/31A63FD481CDCDE0A33657424BCF4F1C6B7E0359",
+        "https://x.com/WhaleInsider/status/2097634511366304052"
+      ],
+      "imagePath": "deliverables/pkg-20260909-india-fiu-15-crypto-platforms/when2buy-image-model.png",
+      "createdAt": "2026-09-09T10:39:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square entity-led India FIU regulatory visual with exact INDIA FIU, 15 CRYPTO PLATFORMS and NON-COMPLIANCE NOTICES text; near-black premium financial-news styling, white type, restrained red, and a bottom-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmttz097r01fgqk0ysbi6aega",
+      "publishedAt": "2026-09-09T10:43:00.000Z"
     }
   ],
   "posts": [
@@ -30366,6 +30560,40 @@
         "status": "active",
         "windowStart": "2026-09-09T10:23:00.000Z",
         "windowEnd": "2026-09-12T10:23:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097636596166336949",
+      "packageId": "pkg-20260909-fed-hike-odds-55",
+      "title": "Fed hike odds near 55%",
+      "status": "published",
+      "publishedAt": "2026-09-09T10:41:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097636596166336949",
+      "postizPostId": "cmttyxgzl00yjlm0ynlxaoyd4",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T10:41:00.000Z",
+        "windowEnd": "2026-09-12T10:41:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097637139089703163",
+      "packageId": "pkg-20260909-india-fiu-15-crypto-platforms",
+      "title": "India FIU notices 15 crypto platforms",
+      "status": "published",
+      "publishedAt": "2026-09-09T10:43:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097637139089703163",
+      "postizPostId": "cmttz097r01fgqk0ysbi6aega",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T10:43:00.000Z",
+        "windowEnd": "2026-09-12T10:43:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -145485,6 +145713,73 @@
       "startedAt": "2026-09-09T10:15:45Z",
       "completedAt": "2026-09-09T10:25:00Z",
       "summary": "Fetched and matched origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable publication status; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; validated and published both serially through Postiz with verified public X URLs; rebuilt an empty post-publication queue; refreshed reporting.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T103608Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:36:08Z",
+      "completedAt": "2026-09-09T10:36:08Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T103644Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:36:44Z",
+      "completedAt": "2026-09-09T10:36:44Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T103648Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:36:48Z",
+      "completedAt": "2026-09-09T10:36:48Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T104035Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:40:35Z",
+      "completedAt": "2026-09-09T10:40:35Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T104158Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:41:58.069422+00:00",
+      "completedAt": "2026-09-09T10:41:58.069429+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T104403Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:44:03.037007+00:00",
+      "completedAt": "2026-09-09T10:44:03.037012+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T104431Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:44:31Z",
+      "completedAt": "2026-09-09T10:44:31Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
   ],
