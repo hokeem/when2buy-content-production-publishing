@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T05:39:22.659091+00:00`
+- 状态更新：`2026-09-09T06:03:43.476924+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**407**
-- 待选选题：**363**
-- 待发布制作包：**144**
-- 已验证发布：**150**
+- 对标帖子快照：**408**
+- 待选选题：**364**
+- 待发布制作包：**140**
+- 已验证发布：**155**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 05:46:12 +0000 2026 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | [X](https://x.com/WhaleInsider/status/2097562195114520817) |
 | @StockMKTNewz | Wed Sep 09 01:07:56 +0000 2026 | WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW | [X](https://x.com/StockMKTNewz/status/2097492167849631928) |
 | @StockMKTNewz | Wed Sep 09 01:04:26 +0000 2026 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% rate it as good or excellent - WSJ https://t.co/Qa2hSXvUyQ | [X](https://x.com/StockMKTNewz/status/2097491285909151900) |
 | @StockMKTNewz | Tue Sep 08 22:13:15 +0000 2026 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | [X](https://x.com/StockMKTNewz/status/2097448206950928886) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Tue Sep 08 15:40:56 +0000 2026 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market pullback. https://t.co/Qv7swgBJYK | [X](https://x.com/WhaleInsider/status/2097349476302148002) |
 | @StockMKTNewz | Tue Sep 08 15:44:24 +0000 2026 | THIS IS WHO GAVE THE KEYNOTE AT EVERY APPLE $AAPL IPHONE LAUNCH EVENT  2007: Steve Jobs 2008: Steve Jobs 2009: Steve Jobs 2010: Steve Jobs 2011: Tim Cook  2012: Tim Cook 2013: Tim Cook 2014: Tim Cook 2015: Tim Cook 2016: Tim Cook 2017: Tim Cook 2018: Tim Cook 2019: Tim Cook 2020: Tim Cook 2021: Tim Cook 2022: Tim Cook 2023: Tim Cook 2024: Tim Cook 2025: Tim Cook 2026: John Ternus | [X](https://x.com/StockMKTNewz/status/2097350348318933244) |
 | @WhaleInsider | Tue Sep 08 15:20:43 +0000 2026 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge as the chain’s native PENGUIN. 19% of the supply has been burned. https://t.co/43Pf0eDuGo | [X](https://x.com/WhaleInsider/status/2097344386354802890) |
-| @StockMKTNewz | Tue Sep 08 15:22:08 +0000 2026 | Lebron James is now working with Polymarket | [X](https://x.com/StockMKTNewz/status/2097344742673494213) |
 
 ## 选题推荐
 
@@ -125,6 +125,7 @@
 | 1 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | StockMKTNewz | 11497 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% ra… | StockMKTNewz | 4533 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW | StockMKTNewz | 11475 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2542,28 +2543,28 @@ Robinhood Chain generated 17,171 ETH ($42.58M) in revenue in 70 days.  When2Buy 
 
 ### RAMP in $60B valuation fundraising talks
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-ramp-60b-valuation-talks/when2buy-image-model.png`
 
 RAMP is in talks to raise money at a $60B valuation.  When2Buy — your U.S. stock partner.
 
 ### Tether freezes 39.27M USDT across 10 Tron addresses
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-tether-freezes-3927m-usdt/when2buy-image-model.png`
 
 Tether froze about 39.27M USDT across 10 Tron addresses tied to Xinbi Guarantee.  When2Buy — your U.S. stock partner.
 
 ### Meta rolls out Muse personal AI assistant
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-meta-muse-personal-ai/when2buy-image-model.png`
 
 $META is rolling out Muse, an always-on AI assistant that can browse and connect to your apps.  It is designed to be fast and secure.  When2Buy — your U.S. stock partner.
 
 ### Ford faces fresh scrutiny over China partnerships
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-ford-china-auto-ties/when2buy-image-model.png`
 
 Ford $F is facing fresh U.S. scrutiny over its China business partnerships.  Transportation Secretary Sean Duffy cited CATL, Geely, BYD and Lincoln Nautilus production in China in a letter to CEO Jim Farley.  When2Buy — your U.S. stock partner.
@@ -2609,6 +2610,13 @@ Nike $NKE hit fresh decade-plus lows again today.  When2Buy — your U.S. stock 
 - 配图：`deliverables/pkg-20260909-apple-iphone-event/when2buy-image-model.png`
 
 Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. stock partner.
+
+### Bitcoin ETFs take in $46.65M
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-bitcoin-etf-inflows/when2buy-image-model.png`
+
+Bitcoin ETFs logged $46.65M in net inflows.  When2Buy — your U.S. stock partner.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -2701,6 +2709,7 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
+| Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -2720,6 +2729,7 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 | S&P 500 membership changes over a decade | 2026-09-07T07:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859560149647529) |
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
+| LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -2758,16 +2768,29 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
+| Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
+| Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
-| Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097558293493563872) |
-| $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097559321148362873) |
-| Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097559818341110052) |
-| Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097560322815176821) |
+| $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| Bitcoin ETFs take in $46.65M | 2026-09-09T05:49:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097563223033843954) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097563734508245248) |
+| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097564224717533384) |
+| Tether freezes 39.27M USDT across 10 Tron addresses | 2026-09-09T05:55:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097564723030135241) |
+| RAMP in $60B valuation fundraising talks | 2026-09-09T05:57:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097565213319107067) |
 
 ## 最近运行
 
+- `2026-09-09T05:45:00Z` **full / succeeded** — Asia/Shanghai :45 run: Postiz-first 72-hour metrics, Apify benchmark collection and archival, newest-first queue rebuild, one image-model package, and five serial verified X deliveries completed.
+- `2026-09-09T05:58:14.654995+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:56:16.612833+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:54:18.984233+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:52:21.329245+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:50:23.697322+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:49:33Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
+- `2026-09-09T05:49:30.947738+00:00` **produce / succeeded** — Produced the newest Bitcoin ETF inflow package with an image-model visual and exact-logo composite.
+- `2026-09-09T05:47:09Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
+- `2026-09-09T05:47:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-09T05:28:00Z` **full / succeeded** — Apify collection, media archive, newest-first queue rebuild, Postiz reconciliation, and five serial public X deliveries completed.
 - `2026-09-09T05:38:49.585156+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T05:36:47.818066+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2778,13 +2801,3 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 - `2026-09-09T05:29:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
 - `2026-09-09T05:26:32.823224+00:00` **publish / succeeded** — Cleared the stale HTTP 403/1010 circuit breaker after a healthy Postiz check and verified X publication.
 - `2026-09-09T05:21:02Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-09T05:22:17Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
-- `2026-09-09T05:22:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-09T05:15:46.783172+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:14:10.902461Z` **publish / succeeded** — Reconciled 6 published and 1 failed Postiz deliveries into state.
-- `2026-09-09T04:48:53Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-09T04:47:18Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
-- `2026-09-09T04:47:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-09T04:28:49Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, :45 Postiz-first metrics pass, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-09T04:27:04Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
-- `2026-09-09T04:27:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).

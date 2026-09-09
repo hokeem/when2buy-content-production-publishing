@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T05:39:22.659091+00:00",
+  "updatedAt": "2026-09-09T06:03:43.476924+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11185,6 +11185,40 @@
       "isPinned": false,
       "capturedAt": "2026-09-09T01:26:35Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097562195114520817",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097562195114520817",
+      "postedAt": "Wed Sep 09 05:46:12 +0000 2026",
+      "text": "JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRwJsteXgAACZIX.jpg",
+        "https://pbs.twimg.com/media/HRwJstfXkAEIprk.jpg"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T05:47:06Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwJsteXgAACZIX.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097562195114520817-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwJstfXkAEIprk.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097562195114520817-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -18083,6 +18117,25 @@
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2097562195114520817",
+      "rank": 1,
+      "title": "JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q",
+      "benchmarkPostId": "2097562195114520817",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097562195114520817",
+      "score": 0,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T05:47:09Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
       }
     }
   ],
@@ -25630,7 +25683,7 @@
       "benchmarkPostId": "2097388417306829126",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097388417306829126",
       "title": "RAMP in $60B valuation fundraising talks",
-      "status": "ready",
+      "status": "published",
       "postText": "RAMP is in talks to raise money at a $60B valuation.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark says RAMP is in talks to raise money.",
@@ -25660,14 +25713,16 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttosqi4084eqk0ystdwv6ze",
+      "publishedAt": "2026-09-09T05:57:00.000Z"
     },
     {
       "id": "pkg-20260908-tether-freezes-3927m-usdt",
       "benchmarkPostId": "2097399478881837141",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097399478881837141",
       "title": "Tether freezes 39.27M USDT across 10 Tron addresses",
-      "status": "ready",
+      "status": "published",
       "postText": "Tether froze about 39.27M USDT across 10 Tron addresses tied to Xinbi Guarantee.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Tether froze approximately 39.27 million USDT.",
@@ -25697,14 +25752,16 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttoq7h907ywlm0y5huplw7s",
+      "publishedAt": "2026-09-09T05:55:00.000Z"
     },
     {
       "id": "pkg-20260908-meta-muse-personal-ai",
       "benchmarkPostId": "2097402706411278438",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097402706411278438",
       "title": "Meta rolls out Muse personal AI assistant",
-      "status": "ready",
+      "status": "published",
       "postText": "$META is rolling out Muse, an always-on AI assistant that can browse and connect to your apps.\n\nIt is designed to be fast and secure.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Meta Platforms is rolling out Muse, a new personal AI assistant.",
@@ -25734,14 +25791,16 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttonood07yflm0yhdqv5uzg",
+      "publishedAt": "2026-09-09T05:53:00.000Z"
     },
     {
       "id": "pkg-20260908-ford-china-auto-ties",
       "benchmarkPostId": "2097414465733955650",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097414465733955650",
       "title": "Ford faces fresh scrutiny over China partnerships",
-      "status": "ready",
+      "status": "published",
       "postText": "Ford $F is facing fresh U.S. scrutiny over its China business partnerships.\n\nTransportation Secretary Sean Duffy cited CATL, Geely, BYD and Lincoln Nautilus production in China in a letter to CEO Jim Farley.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Transportation Secretary Sean Duffy criticized Ford's business relationships with Chinese auto-industry companies.",
@@ -25770,7 +25829,9 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttol61607y0lm0ywu08t7n1",
+      "publishedAt": "2026-09-09T05:51:00.000Z"
     },
     {
       "id": "pkg-20260908-dell-new-52-week-high",
@@ -26002,6 +26063,43 @@
       },
       "postizPostId": "cmttna0n607toqk0ymyqigi91",
       "publishedAt": "2026-09-09T05:15:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-bitcoin-etf-inflows",
+      "benchmarkPostId": "2097562195114520817",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097562195114520817",
+      "title": "Bitcoin ETFs take in $46.65M",
+      "status": "published",
+      "postText": "Bitcoin ETFs logged $46.65M in net inflows.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Bitcoin ETFs recorded $46.65 million in net inflows."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097562195114520817"
+      ],
+      "imagePath": "deliverables/pkg-20260909-bitcoin-etf-inflows/when2buy-image-model.png",
+      "createdAt": "2026-09-09T05:49:30.947572+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Asset type: premium square 1:1 X financial-news visual for When2Buy. Primary request: original editorial visual about Bitcoin exchange-traded funds recording a $46.65 million net inflow. Scene/backdrop: sophisticated institutional digital-asset trading environment, near-black glass and metal, subtle abstract blockchain light trails, no user interface. Subject: a smooth matte-gold Bitcoin coin with a single centered Bitcoin symbol and a refined silver rising fund-flow sculpture. Style/medium: cinematic high-end financial-news photography. Composition/framing: exact square 1:1; subject center-left; reserve lower-right 20 percent as clean near-black space for later supplied logo compositing. Lighting/mood: urgent polished high contrast with white rim light and restrained red accent. Text: none. Constraints: no readable or pseudo-text, numbers, lettering, branding, watermark, attribution, charts, people, generic radar graphics, pure typography card, malformed symbol, or damaged objects.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T05:49:30.947613+00:00",
+          "checks": [
+            "square 1254x1254",
+            "entity-led Bitcoin and ETF fund-flow visual",
+            "no generated readable text, attribution, source handle, or URL",
+            "premium near-black palette with white and restrained-red accents",
+            "not a pure-text or generic-radar image",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo or misspelled visible text"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmttoij4l07xmlm0yvs8o4qld",
+      "publishedAt": "2026-09-09T05:49:00.000Z"
     }
   ],
   "posts": [
@@ -28630,11 +28728,11 @@
       "postizPostId": "cmttnt40407yxqk0yxrjq53hp",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-09T05:30:00.000Z",
+        "windowStart": "2026-09-09T05:30:00Z",
         "windowEnd": "2026-09-12T05:30:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-09T05:45:55.557685Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -28647,11 +28745,11 @@
       "postizPostId": "cmttnw2z307zpqk0yovi1xn4m",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-09T05:32:00.000Z",
+        "windowStart": "2026-09-09T05:32:00Z",
         "windowEnd": "2026-09-12T05:32:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-09T05:45:55.557685Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -28664,11 +28762,11 @@
       "postizPostId": "cmttnymhx0804qk0y0s41fldz",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-09T05:34:00.000Z",
+        "windowStart": "2026-09-09T05:34:00Z",
         "windowEnd": "2026-09-12T05:34:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-09T05:45:55.557685Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -28681,11 +28779,11 @@
       "postizPostId": "cmtto15ku080jqk0ygp4tjen0",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-09T05:36:00.000Z",
+        "windowStart": "2026-09-09T05:36:00Z",
         "windowEnd": "2026-09-12T05:36:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-09T05:45:55.557685Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -28698,8 +28796,93 @@
       "postizPostId": "cmtto3qpj07vwlm0ydjmxpp7p",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-09T05:38:00.000Z",
+        "windowStart": "2026-09-09T05:38:00Z",
         "windowEnd": "2026-09-12T05:38:00Z",
+        "lastAttemptAt": "2026-09-09T05:45:55.557685Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2097563223033843954",
+      "packageId": "pkg-20260909-bitcoin-etf-inflows",
+      "title": "Bitcoin ETFs take in $46.65M",
+      "status": "published",
+      "publishedAt": "2026-09-09T05:49:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097563223033843954",
+      "postizPostId": "cmttoij4l07xmlm0yvs8o4qld",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T05:49:00.000Z",
+        "windowEnd": "2026-09-12T05:49:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097563734508245248",
+      "packageId": "pkg-20260908-ford-china-auto-ties",
+      "title": "Ford faces fresh scrutiny over China partnerships",
+      "status": "published",
+      "publishedAt": "2026-09-09T05:51:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097563734508245248",
+      "postizPostId": "cmttol61607y0lm0ywu08t7n1",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T05:51:00.000Z",
+        "windowEnd": "2026-09-12T05:51:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097564224717533384",
+      "packageId": "pkg-20260908-meta-muse-personal-ai",
+      "title": "Meta rolls out Muse personal AI assistant",
+      "status": "published",
+      "publishedAt": "2026-09-09T05:53:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097564224717533384",
+      "postizPostId": "cmttonood07yflm0yhdqv5uzg",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T05:53:00.000Z",
+        "windowEnd": "2026-09-12T05:53:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097564723030135241",
+      "packageId": "pkg-20260908-tether-freezes-3927m-usdt",
+      "title": "Tether freezes 39.27M USDT across 10 Tron addresses",
+      "status": "published",
+      "publishedAt": "2026-09-09T05:55:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097564723030135241",
+      "postizPostId": "cmttoq7h907ywlm0y5huplw7s",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T05:55:00.000Z",
+        "windowEnd": "2026-09-12T05:55:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097565213319107067",
+      "packageId": "pkg-20260908-ramp-60b-valuation-talks",
+      "title": "RAMP in $60B valuation fundraising talks",
+      "status": "published",
+      "publishedAt": "2026-09-09T05:57:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097565213319107067",
+      "postizPostId": "cmttosqi4084eqk0ystdwv6ze",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T05:57:00.000Z",
+        "windowEnd": "2026-09-12T05:57:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -116210,6 +116393,216 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-09T05:16:13.919660Z"
       }
+    },
+    {
+      "id": "metric-2097558293493563872-20260909T054555Z",
+      "postId": "2097558293493563872",
+      "observedAt": "2026-09-09T05:45:55.557685Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmttnt40407yxqk0yxrjq53hp",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmttnt40407yxqk0yxrjq53hp",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-09"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-09"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-09"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-09"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-09"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-09T05:45:55.557685Z"
+      }
+    },
+    {
+      "id": "metric-2097558827457822859-20260909T054555Z",
+      "postId": "2097558827457822859",
+      "observedAt": "2026-09-09T05:45:55.557685Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmttnw2z307zpqk0yovi1xn4m",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmttnw2z307zpqk0yovi1xn4m",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-09"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-09"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-09"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-09"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-09"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-09T05:45:55.557685Z"
+      }
+    },
+    {
+      "id": "metric-2097559321148362873-20260909T054555Z",
+      "postId": "2097559321148362873",
+      "observedAt": "2026-09-09T05:45:55.557685Z",
+      "views": 7,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmttnymhx0804qk0y0s41fldz",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmttnymhx0804qk0y0s41fldz",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-09"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-09"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-09"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-09"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-09"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-09T05:45:55.557685Z"
+      }
+    },
+    {
+      "id": "metric-2097559818341110052-20260909T054555Z",
+      "postId": "2097559818341110052",
+      "observedAt": "2026-09-09T05:45:55.557685Z",
+      "views": 10,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtto15ku080jqk0ygp4tjen0",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtto15ku080jqk0ygp4tjen0",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-09"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-09"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-09"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-09"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-09"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-09T05:45:55.557685Z"
+      }
+    },
+    {
+      "id": "metric-2097560322815176821-20260909T054555Z",
+      "postId": "2097560322815176821",
+      "observedAt": "2026-09-09T05:45:55.557685Z",
+      "views": 2,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtto3qpj07vwlm0ydjmxpp7p",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtto3qpj07vwlm0ydjmxpp7p",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-09"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-09"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-09"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-09"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-09"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-09T05:45:55.557685Z"
+      }
     }
   ],
   "experiments": [],
@@ -126272,6 +126665,118 @@
         "pkg-20260908-liv-golf-chapter-11",
         "pkg-20260908-nike-nke-decade-lows",
         "pkg-20260908-dell-new-52-week-high"
+      ]
+    },
+    {
+      "id": "run-20260909T054706Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:47:06Z",
+      "completedAt": "2026-09-09T05:47:06Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T054709Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:47:09Z",
+      "completedAt": "2026-09-09T05:47:09Z",
+      "summary": "Prepared 66 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T054930Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:49:30.947738+00:00",
+      "completedAt": "2026-09-09T05:49:30.947745+00:00",
+      "summary": "Produced the newest Bitcoin ETF inflow package with an image-model visual and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T054933Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:49:33Z",
+      "completedAt": "2026-09-09T05:49:33Z",
+      "summary": "Prepared 66 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T055023Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:50:23.697322+00:00",
+      "completedAt": "2026-09-09T05:50:23.697324+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T055221Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:52:21.329245+00:00",
+      "completedAt": "2026-09-09T05:52:21.329249+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T055418Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:54:18.984233+00:00",
+      "completedAt": "2026-09-09T05:54:18.984239+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T055616Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:56:16.612833+00:00",
+      "completedAt": "2026-09-09T05:56:16.612837+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T055814Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:58:14.654995+00:00",
+      "completedAt": "2026-09-09T05:58:14.655000+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T060343Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:45:00Z",
+      "completedAt": "2026-09-09T06:03:43.475113+00:00",
+      "summary": "Asia/Shanghai :45 run: Postiz-first 72-hour metrics, Apify benchmark collection and archival, newest-first queue rebuild, one image-model package, and five serial verified X deliveries completed.",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "newEligiblePosts": 1
+      },
+      "deliveryCheck": {
+        "result": "safe"
+      },
+      "publishedPackageIds": [
+        "pkg-20260909-bitcoin-etf-inflows",
+        "pkg-20260908-ford-china-auto-ties",
+        "pkg-20260908-meta-muse-personal-ai",
+        "pkg-20260908-tether-freezes-3927m-usdt",
+        "pkg-20260908-ramp-60b-valuation-talks"
       ]
     }
   ],
