@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T10:08:12.090757+00:00",
+  "updatedAt": "2026-09-09T10:25:43.251843+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11457,6 +11457,68 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097628624551637052",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097628624551637052",
+      "postedAt": "Wed Sep 09 10:10:10 +0000 2026",
+      "text": "JUST IN: 🇨🇳🇺🇸 China dismisses as “unfounded” a U.S. advisory accusing DeepSeek, Alibaba, Moonshot AI and three other firms of systematically distilling Claude, GPT, Gemini and Grok - and calls for more AI cooperation instead. https://t.co/vdCA91ownW",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxFhF8XkAEp2kd.jpg",
+        "https://pbs.twimg.com/media/HRxGG6Fb0AAVl_z.jpg"
+      ],
+      "engagement": {
+        "likes": 22,
+        "replies": 15,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 11957
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T10:16:55Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxFhF8XkAEp2kd.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097628624551637052-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxGG6Fb0AAVl_z.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097628624551637052-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097628486454170011",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097628486454170011",
+      "postedAt": "Wed Sep 09 10:09:37 +0000 2026",
+      "text": "SpaceX $SPCX is back to being valued at more than $2 Trillion https://t.co/ZqTRiJxdYo",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxF9wEXgAAbqhv.jpg"
+      ],
+      "engagement": {
+        "likes": 18,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 5754
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T10:16:55Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxF9wEXgAAbqhv.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097628486454170011-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -18504,6 +18566,44 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097628624551637052",
+      "rank": 1,
+      "title": "JUST IN: 🇨🇳🇺🇸 China dismisses as “unfounded” a U.S. advisory accusing DeepSeek, Alibaba, Moo…",
+      "benchmarkPostId": "2097628624551637052",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097628624551637052",
+      "score": 13297,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T10:17:07Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097628486454170011",
+      "rank": 2,
+      "title": "SpaceX $SPCX is back to being valued at more than $2 Trillion https://t.co/ZqTRiJxdYo",
+      "benchmarkPostId": "2097628486454170011",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097628486454170011",
+      "score": 6394,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T10:17:07Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -27109,6 +27209,81 @@
       },
       "postizPostId": "cmttwr7eg0095lm0y7sr0nlh5",
       "publishedAt": "2026-09-09T09:40:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-china-ai-distillation-response",
+      "benchmarkPostId": "2097628624551637052",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097628624551637052",
+      "title": "China rejects U.S. AI distillation claims",
+      "status": "published",
+      "postText": "China rejected U.S. accusations that six Chinese AI developers systematically distilled Claude, GPT, Gemini and Grok.\n\nBeijing called the claims unfounded and urged more AI cooperation.",
+      "mirroredFacts": [
+        "China rejected U.S. accusations that six Chinese AI developers systematically distilled capabilities from Claude, GPT, Gemini and Grok.",
+        "China called the accusations unfounded and urged more AI cooperation."
+      ],
+      "verificationSources": [
+        "https://apnews.com/article/0f6ca61301630134607551b1dab0d632",
+        "https://x.com/WhaleInsider/status/2097628624551637052"
+      ],
+      "imagePath": "deliverables/pkg-20260909-china-ai-distillation-response/when2buy-image-model.png",
+      "createdAt": "2026-09-09T10:20:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 premium financial-news visual about China's formal response to U.S. AI-model-distillation accusations: a central luminous AI processor between abstract U.S. and China architectural motifs, near-black, white and restrained red, no text or logos, with clean lower-right logo-safe space.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T10:20:00Z",
+          "checks": [
+            "square 1254x1254 inspected after image-model generation and logo composite",
+            "complete entity-led AI and diplomatic technology scene",
+            "no readable generated text, attribution, source handle or URL",
+            "premium near-black, white and restrained-red palette",
+            "not pure text or a generic radar visual",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo or malformed central subject"
+          ]
+        }
+      },
+      "postizPostId": "cmtty8cvn00q8lm0y25e82lev",
+      "publishedAt": "2026-09-09T10:21:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-spacex-two-trillion-return",
+      "benchmarkPostId": "2097628486454170011",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097628486454170011",
+      "title": "SpaceX returns above $2 trillion",
+      "status": "published",
+      "postText": "SpaceX $SPCX is back above a $2 trillion market value.",
+      "mirroredFacts": [
+        "SpaceX $SPCX returned to a market value above $2 trillion."
+      ],
+      "verificationSources": [
+        "https://www.sec.gov/Archives/edgar/data/1181412/000162828026040874/spacexukfwp.htm",
+        "https://x.com/StockMKTNewz/status/2097628486454170011"
+      ],
+      "imagePath": "deliverables/pkg-20260909-spacex-two-trillion-return/when2buy-image-model.png",
+      "createdAt": "2026-09-09T10:20:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square 1:1 premium financial-news visual about SpaceX returning above a two-trillion-dollar market valuation: monumental reusable orbital rocket lifting beside a launch tower at night with Earth curvature and an orbital market arc, near-black, white and restrained red, no text or logos, with clean lower-right logo-safe space.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T10:20:00Z",
+          "checks": [
+            "square 1254x1254 inspected after image-model generation and logo composite",
+            "complete entity-led orbital rocket and launch infrastructure scene",
+            "no readable generated text, attribution, source handle or URL",
+            "premium near-black, white and restrained-red palette",
+            "not pure text or a generic radar visual",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo or malformed rocket"
+          ]
+        }
+      },
+      "postizPostId": "cmttyb0o2016lqk0yvus69i5t",
+      "publishedAt": "2026-09-09T10:23:00.000Z"
     }
   ],
   "posts": [
@@ -30160,6 +30335,40 @@
         "lastAttemptAt": "2026-09-09T10:06:35.352497Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2097631684166619203",
+      "packageId": "pkg-20260909-china-ai-distillation-response",
+      "title": "China rejects U.S. AI distillation claims",
+      "status": "published",
+      "publishedAt": "2026-09-09T10:21:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097631684166619203",
+      "postizPostId": "cmtty8cvn00q8lm0y25e82lev",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T10:21:00.000Z",
+        "windowEnd": "2026-09-12T10:21:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097632198967099767",
+      "packageId": "pkg-20260909-spacex-two-trillion-return",
+      "title": "SpaceX returns above $2 trillion",
+      "status": "published",
+      "publishedAt": "2026-09-09T10:23:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097632198967099767",
+      "postizPostId": "cmttyb0o2016lqk0yvus69i5t",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T10:23:00.000Z",
+        "windowEnd": "2026-09-12T10:23:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -145200,6 +145409,82 @@
       "startedAt": "2026-09-09T10:05:58Z",
       "completedAt": "2026-09-09T10:08:30Z",
       "summary": "Synchronized origin/main; validated preflight and state; collected Postiz-first hourly metrics for releases inside the latest 72 hours; scanned both required Apify feeds and found no new eligible originals; archived available source media; reconciled immutable package statuses and Postiz publications; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T101554Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:15:54Z",
+      "completedAt": "2026-09-09T10:15:54Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T101655Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:16:55Z",
+      "completedAt": "2026-09-09T10:16:55Z",
+      "summary": "Apify scanned both benchmark accounts; captured 19 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T101707Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:17:07Z",
+      "completedAt": "2026-09-09T10:17:07Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T102125Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:21:25Z",
+      "completedAt": "2026-09-09T10:21:25Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T102223Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:22:23.025577+00:00",
+      "completedAt": "2026-09-09T10:22:23.025581+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T102428Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:24:28.237607+00:00",
+      "completedAt": "2026-09-09T10:24:28.237613+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T102454Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:24:54Z",
+      "completedAt": "2026-09-09T10:24:54Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T102500Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:15:45Z",
+      "completedAt": "2026-09-09T10:25:00Z",
+      "summary": "Fetched and matched origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable publication status; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; validated and published both serially through Postiz with verified public X URLs; rebuilt an empty post-publication queue; refreshed reporting.",
       "reason": ""
     }
   ],
