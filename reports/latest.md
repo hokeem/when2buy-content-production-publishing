@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T19:35:33.263841+00:00`
+- 状态更新：`2026-09-09T19:52:22.572571+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**468**
 - 待选选题：**416**
 - 待发布制作包：**0**
-- 已验证发布：**191**
+- 已验证发布：**192**
 
 ## 对标账号扫描
 
@@ -2915,6 +2915,13 @@ Apple just revealed a first look at its new foldable iPhone Duo.
 
 $META's new Muse app is now the No. 3 free app on Apple's App Store.
 
+### Apple reveals foldable iPhone Duo
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-apple-iphone-duo-reveal/when2buy-image-model.png`
+
+Apple's new foldable iPhone Duo has been revealed.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3111,9 +3118,16 @@ $META's new Muse app is now the No. 3 free app on Apple's App Store.
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097770249135530085) |
 | Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097770760874135954) |
+| Apple reveals foldable iPhone Duo | 2026-09-09T19:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097774892167156048) |
 
 ## 最近运行
 
+- `2026-09-09T19:45:55Z` **full / succeeded** — Apify collection, benchmark-media archive, package-status and publication reconciliation, hard-TTL queue rebuild, one fresh image-model package, and one verified X publication completed; later queue items expired without production.
+- `2026-09-09T19:52:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:51:25.086187+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T19:49:40.293440+00:00` **produce / succeeded** — Produced the newest still-fresh queue package with an inspected image-model visual and exact-logo composite; later queue items expired before production.
+- `2026-09-09T19:47:18Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:47:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-09T19:35:33Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T19:35:00.494209+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T19:32:59.414218+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -3128,9 +3142,3 @@ $META's new Muse app is now the No. 3 free app on Apple's App Store.
 - `2026-09-09T19:09:29Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 2 unsent stale package(s).
 - `2026-09-09T16:14:23Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T16:05:52Z` **full / succeeded** — Postiz-first hourly metrics, Apify collection, benchmark-media archive, package-status and publication reconciliation, fresh-queue rebuild, image-model production, and two sequential verified X publications completed.
-- `2026-09-09T16:13:45.789515+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T16:11:37.286016+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T16:10:42Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T16:10:38.550383+00:00` **produce / succeeded** — Produced the newest fresh queue package with an inspected image-model visual and exact-logo composite.
-- `2026-09-09T16:08:10Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T16:08:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).
