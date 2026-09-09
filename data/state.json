@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T07:52:10.746975+00:00",
+  "updatedAt": "2026-09-09T08:32:25.508113+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11321,6 +11321,108 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097594455742173387",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097594455742173387",
+      "postedAt": "Wed Sep 09 07:54:24 +0000 2026",
+      "text": "JUST IN: 🇫🇮 $GOOGL to invest €13,000,000,000 in Finland AI infrastructure in 2027-28. https://t.co/sDGHD6XzVK",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRwnCcTacAA02jy.jpg",
+        "https://pbs.twimg.com/media/HRwnCcXbQAA7xXL.jpg"
+      ],
+      "engagement": {
+        "likes": 34,
+        "replies": 18,
+        "reposts": 10,
+        "quotes": 3,
+        "views": 13715
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T08:06:36Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwnCcTacAA02jy.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097594455742173387-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwnCcXbQAA7xXL.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097594455742173387-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097592833087549800",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097592833087549800",
+      "postedAt": "Wed Sep 09 07:47:57 +0000 2026",
+      "text": "JUST IN: $IQ (@iqtestrh) launches on Robinhood Chain, paired with Intel stock, as social-media users post “IQ TEST” references following the announcement of the Hunter Biden-linked crypto coin. https://t.co/6lJF7JwHmc",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2097592800321699840/img/YREWfQsb0rwdYzET.jpg",
+        "https://pbs.twimg.com/media/HRwlic-XIAAi_Ol.jpg"
+      ],
+      "engagement": {
+        "likes": 65,
+        "replies": 22,
+        "reposts": 8,
+        "quotes": 4,
+        "views": 15832
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T08:06:36Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097592800321699840/img/YREWfQsb0rwdYzET.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097592833087549800-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwlic-XIAAi_Ol.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097592833087549800-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097602437716611141",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097602437716611141",
+      "postedAt": "Wed Sep 09 08:26:07 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. https://t.co/qhRGaYgJJt",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRwuTB0WcAAAeE3.jpg",
+        "https://pbs.twimg.com/media/HRwuTBxWgAAaZFM.jpg"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 2505
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T08:26:59Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwuTB0WcAAAeE3.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097602437716611141-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwuTBxWgAAaZFM.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097602437716611141-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -18292,6 +18394,63 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097594455742173387",
+      "rank": 1,
+      "title": "JUST IN: 🇫🇮 $GOOGL to invest €13,000,000,000 in Finland AI infrastructure in 2027-28. https:…",
+      "benchmarkPostId": "2097594455742173387",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097594455742173387",
+      "score": 15795,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T08:06:39Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097592833087549800",
+      "rank": 2,
+      "title": "JUST IN: $IQ (@iqtestrh) launches on Robinhood Chain, paired with Intel stock, as social-med…",
+      "benchmarkPostId": "2097592833087549800",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097592833087549800",
+      "score": 18652,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T08:06:39Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097602437716611141",
+      "rank": 1,
+      "title": "JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. h…",
+      "benchmarkPostId": "2097602437716611141",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097602437716611141",
+      "score": 2505,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T08:27:02Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
@@ -26380,6 +26539,75 @@
       },
       "postizPostId": "cmttsf22x08xrlm0yg6aecugp",
       "publishedAt": "2026-09-09T07:39:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-robinhood-chain-tokenized-stocks-160m",
+      "benchmarkPostId": "2097602437716611141",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097602437716611141",
+      "title": "Robinhood Chain tokenized stocks reach $160M",
+      "status": "ready",
+      "postText": "Robinhood Chain tokenized stocks have reached $160M in total value.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Robinhood Chain tokenized stocks reached $160 million in total value."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097602437716611141"
+      ],
+      "imagePath": "deliverables/pkg-20260909-robinhood-chain-tokenized-stocks-160m/when2buy-image-model.png",
+      "createdAt": "2026-09-09T08:31:28.448315+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square premium near-black entity-led image-model visual of tokenized-equities infrastructure with a clear $160M marker, restrained green/red signals, and bottom-right clear space for the exact When2Buy logo; no source or third-party branding.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      }
+    },
+    {
+      "id": "pkg-20260909-google-finland-ai-infrastructure-13b",
+      "benchmarkPostId": "2097594455742173387",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097594455742173387",
+      "title": "Google commits €13B to Finland AI infrastructure",
+      "status": "ready",
+      "postText": "Google will invest €13B in Finland's AI infrastructure over 2027–28.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Google announced a €13 billion investment in Finland over 2027–28.",
+        "The investment covers digital infrastructure, clean energy projects and local partnerships."
+      ],
+      "verificationSources": [
+        "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
+        "https://x.com/WhaleInsider/status/2097594455742173387"
+      ],
+      "imagePath": "deliverables/pkg-20260909-google-finland-ai-infrastructure-13b/when2buy-image-model.png",
+      "createdAt": "2026-09-09T08:31:29.437798+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square premium near-black entity-led image-model visual of a Nordic AI data-center campus, a precise €13B marker, restrained red accents, and bottom-right clear space for the exact When2Buy logo; no source or third-party branding.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      }
+    },
+    {
+      "id": "pkg-20260909-iq-robinhood-chain-intel-pairing",
+      "benchmarkPostId": "2097592833087549800",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097592833087549800",
+      "title": "IQ launches on Robinhood Chain with Intel pairing",
+      "status": "ready",
+      "postText": "IQ launched on Robinhood Chain paired with Intel stock.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "IQ launched on Robinhood Chain.",
+        "The launch was paired with Intel stock."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097592833087549800"
+      ],
+      "imagePath": "deliverables/pkg-20260909-iq-robinhood-chain-intel-pairing/when2buy-image-model.png",
+      "createdAt": "2026-09-09T08:31:30.639622+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square premium near-black entity-led image-model visual of an IQ token and semiconductor wafer, restrained red accents, and bottom-right clear space for the exact When2Buy logo; no source or third-party branding.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      }
     }
   ],
   "posts": [
@@ -135625,6 +135853,104 @@
       "startedAt": "2026-09-09T07:52:10Z",
       "completedAt": "2026-09-09T07:52:10Z",
       "summary": "Apify collection, media archive, timestamp-first queue rebuild, :45 public metrics, one verified Postiz X publication, and reporting completed; remaining submissions were stopped by the delivery circuit breaker.",
+      "reason": "Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-09T08:52:10Z",
+        "deliveryReason": "Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate."
+      }
+    },
+    {
+      "id": "run-20260909T080636Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:06:36Z",
+      "completedAt": "2026-09-09T08:06:36Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T080639Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:06:39Z",
+      "completedAt": "2026-09-09T08:06:39Z",
+      "summary": "Prepared 55 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T082659Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:26:59Z",
+      "completedAt": "2026-09-09T08:26:59Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T082702Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:27:02Z",
+      "completedAt": "2026-09-09T08:27:02Z",
+      "summary": "Prepared 56 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T082725Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:27:25Z",
+      "completedAt": "2026-09-09T08:27:25Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T082728Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:27:28Z",
+      "completedAt": "2026-09-09T08:27:28Z",
+      "summary": "Prepared 56 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T083130Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:31:30.639746+00:00",
+      "completedAt": "2026-09-09T08:31:30.639752+00:00",
+      "summary": "Produced the three newest timestamp-first image-model packages with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T083133Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:31:33Z",
+      "completedAt": "2026-09-09T08:31:33Z",
+      "summary": "Prepared 56 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T083225Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T08:32:25Z",
+      "completedAt": "2026-09-09T08:32:25Z",
+      "summary": "Apify collection, media archiving, newest-first queue rebuild, and three image-model packages completed; no Postiz submission was made while the active delivery circuit breaker remained in force.",
       "reason": "Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.",
       "circuitBreaker": {
         "active": true,

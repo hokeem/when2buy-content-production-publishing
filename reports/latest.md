@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T07:52:10.746975+00:00`
+- 状态更新：`2026-09-09T08:32:25.508113+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**411**
-- 待选选题：**367**
-- 待发布制作包：**132**
+- 对标帖子快照：**414**
+- 待选选题：**370**
+- 待发布制作包：**135**
 - 已验证发布：**166**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 08:26:07 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. https://t.co/qhRGaYgJJt | [X](https://x.com/WhaleInsider/status/2097602437716611141) |
+| @WhaleInsider | Wed Sep 09 07:47:57 +0000 2026 | JUST IN: $IQ (@iqtestrh) launches on Robinhood Chain, paired with Intel stock, as social-media users post “IQ TEST” references following the announcement of the Hunter Biden-linked crypto coin. https://t.co/6lJF7JwHmc | [X](https://x.com/WhaleInsider/status/2097592833087549800) |
+| @WhaleInsider | Wed Sep 09 07:54:24 +0000 2026 | JUST IN: 🇫🇮 $GOOGL to invest €13,000,000,000 in Finland AI infrastructure in 2027-28. https://t.co/sDGHD6XzVK | [X](https://x.com/WhaleInsider/status/2097594455742173387) |
 | @WhaleInsider | Wed Sep 09 07:13:51 +0000 2026 | JUST IN: $ETH ETFs see an inflow of $24.29 million. https://t.co/mTLOvDAQSO | [X](https://x.com/WhaleInsider/status/2097584250992111832) |
 | @WhaleInsider | Wed Sep 09 06:36:30 +0000 2026 | JUST IN: Robinhood Chain $HOOD takes the #1 spot for fees accrued in the past 24 hours, surpassing $2 million - Artemis. https://t.co/eVZ09hTcoy | [X](https://x.com/WhaleInsider/status/2097574853075226955) |
 | @WhaleInsider | Wed Sep 09 06:12:37 +0000 2026 | JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6 | [X](https://x.com/WhaleInsider/status/2097568840863428737) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 16:17:07 +0000 2026 | SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND | [X](https://x.com/StockMKTNewz/status/2097358581230121166) |
 | @StockMKTNewz | Tue Sep 08 16:23:24 +0000 2026 | I am ready for the NFL to be back  Our partners over at Polymarket just announced a new partnership with Lebron James and more | [X](https://x.com/StockMKTNewz/status/2097360162986066049) |
 | @WhaleInsider | Tue Sep 08 16:24:37 +0000 2026 | JUST IN: Dev behind billion-dollar PEPE on Ethereum joins Artificial Pepe $AP. https://t.co/dAzjEyECFl | [X](https://x.com/WhaleInsider/status/2097360470617244078) |
-| @StockMKTNewz | Tue Sep 08 16:05:12 +0000 2026 | Lebron James is now working with our partners over at Polymarket | [X](https://x.com/StockMKTNewz/status/2097355583498113152) |
-| @WhaleInsider | Tue Sep 08 16:05:15 +0000 2026 | JUST IN: Dev behind billion-dollar PEPE on ETH joins Artificial Pepe $AP. https://t.co/G4ZbzBNKEL | [X](https://x.com/WhaleInsider/status/2097355596462690504) |
-| @StockMKTNewz | Tue Sep 08 15:32:54 +0000 2026 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | [X](https://x.com/StockMKTNewz/status/2097347451963289915) |
 
 ## 选题推荐
 
@@ -129,6 +129,8 @@
 | 1 | JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6 | WhaleInsider | 16814 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD takes the #1 spot for fees accrued in the past 24 hours, surp… | WhaleInsider | 14544 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $ETH ETFs see an inflow of $24.29 million. https://t.co/mTLOvDAQSO | WhaleInsider | 15204 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇫🇮 $GOOGL to invest €13,000,000,000 in Finland AI infrastructure in 2027-28. https:… | WhaleInsider | 15795 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. h… | WhaleInsider | 2505 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -170,6 +172,7 @@
 | 2 | Tesla $TSLA is reportedly preparing to deploy 1,000 Cybercabs | StockMKTNewz | 12410 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Robinhood Chain generates 17,171 $ETH ($42.58M) in revenue in 70 days. https://t.co… | WhaleInsider | 24900 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Nike $NKE stock hit new decade plus lows again today | StockMKTNewz | 12632 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: $IQ (@iqtestrh) launches on Robinhood Chain, paired with Intel stock, as social-med… | WhaleInsider | 18652 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2642,6 +2645,27 @@ Robinhood Chain $HOOD ranked No. 1 for fees accrued over the past 24 hours, topp
 
 $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partner.
 
+### Robinhood Chain tokenized stocks reach $160M
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-robinhood-chain-tokenized-stocks-160m/when2buy-image-model.png`
+
+Robinhood Chain tokenized stocks have reached $160M in total value.  When2Buy — your U.S. stock partner.
+
+### Google commits €13B to Finland AI infrastructure
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-google-finland-ai-infrastructure-13b/when2buy-image-model.png`
+
+Google will invest €13B in Finland's AI infrastructure over 2027–28.  When2Buy — your U.S. stock partner.
+
+### IQ launches on Robinhood Chain with Intel pairing
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-iq-robinhood-chain-intel-pairing/when2buy-image-model.png`
+
+IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2816,6 +2840,15 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 
 ## 最近运行
 
+- `2026-09-09T08:32:25Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, and three image-model packages completed; no Postiz submission was made while the active delivery circuit breaker remained in force. Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.
+- `2026-09-09T08:31:33Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
+- `2026-09-09T08:31:30.639746+00:00` **produce / succeeded** — Produced the three newest timestamp-first image-model packages with exact-logo compositing.
+- `2026-09-09T08:27:28Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
+- `2026-09-09T08:27:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
+- `2026-09-09T08:27:02Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
+- `2026-09-09T08:26:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
+- `2026-09-09T08:06:39Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
+- `2026-09-09T08:06:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).
 - `2026-09-09T07:52:10Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 public metrics, one verified Postiz X publication, and reporting completed; remaining submissions were stopped by the delivery circuit breaker. Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.
 - `2026-09-09T07:49:05.807302+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T07:46:49Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
@@ -2827,12 +2860,3 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 - `2026-09-09T07:26:01Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
 - `2026-09-09T07:25:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-09T07:05:00Z` **full / partial** — Scheduled run: Apify collection from both benchmark accounts, media archival, and timestamp-first queue rebuild completed; no new eligible originals were found. Publication was withheld by the active delivery circuit breaker. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.
-- `2026-09-09T07:06:49Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-09T07:06:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-09T06:45:00Z` **full / partial** — Asia/Shanghai :45 run: Apify collection, media archive, timestamp-first queue rebuild, numeric 72-hour metrics, and newest-package image production completed; publication was withheld by the active delivery circuit breaker. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.
-- `2026-09-09T06:50:18Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-09T06:50:15.353210Z` **produce / succeeded** — Produced the newest Apify benchmark package with an inspected entity-led image-model visual and exact-logo compositing.
-- `2026-09-09T06:47:35Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-09T06:47:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-09T06:47:04Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-09T06:47:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
