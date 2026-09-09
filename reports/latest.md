@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T14:03:59.356273+00:00`
+- 状态更新：`2026-09-09T14:22:35.999937+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**434**
-- 待选选题：**390**
+- 对标帖子快照：**435**
+- 待选选题：**391**
 - 待发布制作包：**1**
-- 已验证发布：**181**
+- 已验证发布：**183**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 14:06:44 +0000 2026 | JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equivalent to $160,000 at all time high. https://t.co/TdY13eZjT1 | [X](https://x.com/WhaleInsider/status/2097688157370126338) |
 | @StockMKTNewz | Wed Sep 09 13:54:59 +0000 2026 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINNISH 🇫🇮 PLANT RUNNING TO 2050  Google agreed to buy up to 50% of the capacity from Fortum's Loviisa nuclear plant in Finland, guaranteeing it stays online through the end of its operating license in 2050.  The deal unlocks roughly $1.16 billion in investment Fortum needs to keep the plant running, decisions that would otherwise have been made year by year.  It's part of the broader $15.1 billion Google plan for AI infrastructure investment in Finland - Bloomberg | [X](https://x.com/StockMKTNewz/status/2097685199102316847) |
 | @StockMKTNewz | Wed Sep 09 13:28:17 +0000 2026 | Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ   "Alif’s microcontrollers and fusion processors enable real-time sensor fusion, low-latency inference and on-device AI, bringing advanced intelligence to demanding physical systems" https://t.co/5uQFbmoYDx | [X](https://x.com/StockMKTNewz/status/2097678479634395160) |
 | @StockMKTNewz | Wed Sep 09 13:32:59 +0000 2026 | The 🇺🇸 stock market just opened trading today Red  🔴🔴🔴🔴 https://t.co/Q0VYOw467M | [X](https://x.com/StockMKTNewz/status/2097679663678058507) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Wed Sep 09 05:46:12 +0000 2026 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | [X](https://x.com/WhaleInsider/status/2097562195114520817) |
 | @StockMKTNewz | Wed Sep 09 01:07:56 +0000 2026 | WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW | [X](https://x.com/StockMKTNewz/status/2097492167849631928) |
 | @StockMKTNewz | Wed Sep 09 01:04:26 +0000 2026 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% rate it as good or excellent - WSJ https://t.co/Qa2hSXvUyQ | [X](https://x.com/StockMKTNewz/status/2097491285909151900) |
-| @StockMKTNewz | Tue Sep 08 22:13:15 +0000 2026 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | [X](https://x.com/StockMKTNewz/status/2097448206950928886) |
 
 ## 选题推荐
 
@@ -143,6 +143,7 @@
 | 1 | OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - … | StockMKTNewz | 11631 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The 🇺🇸 stock market just opened trading today Red 🔴🔴🔴🔴 https://t.co/Q0VYOw467M | StockMKTNewz | 7519 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINN… | StockMKTNewz | 5026 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equival… | WhaleInsider | 17960 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2807,10 +2808,17 @@ $ADI agreed to acquire Alif Semiconductor for $1.35B in cash.  Alif's chips hand
 
 ### Google secures Loviisa nuclear power through 2050
 
-- 状态：`publishing`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260909-google-fortum-nuclear-2050/when2buy-image-model.png`
 
 $GOOGL agreed to buy up to 50% of the power from Fortum's Loviisa nuclear plant through 2050.  The deal supports roughly $1.16B of investment to keep the Finnish plant operating.
+
+### PENGUIN team burns 200M tokens
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-penguin-200m-token-burn/when2buy-image-model.png`
+
+The team behind $PENGUIN on Robinhood Chain burned 200M tokens, valued at $160,000 at the all-time high.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -2998,9 +3006,21 @@ $GOOGL agreed to buy up to 50% of the power from Fortum's Loviisa nuclear plant 
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097672115789128095) |
 | OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097682264595534272) |
+| Google secures Loviisa nuclear power through 2050 | 2026-09-09T14:00:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097687737923178946) |
+| PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097691839725961267) |
 
 ## 最近运行
 
+- `2026-09-09T14:22:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:15:32Z` **full / succeeded** — Apify collection, media archive, status reconciliation, fresh-queue rebuild, newest image-model package production, one expired-breaker recovery probe, verified X publication, validation, and reporting completed. The second fresh queue item was intentionally not submitted because breaker recovery permits exactly one newest-fresh-package probe.
+- `2026-09-09T14:21:24.829343+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T14:20:36.105201Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
+- `2026-09-09T14:20:14Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:20:11.647525+00:00` **produce / succeeded** — Produced the newest fresh PENGUIN token-burn package with an inspected image-model visual and one exact-logo composite.
+- `2026-09-09T14:19:53Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:16:55Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:16:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
+- `2026-09-09T14:15:47Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T14:03:59Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T13:55:51Z` **full / partial** — Captured and produced the newest fresh item; Postiz accepted the first submission but no public X URL was available within the verification window, so the second item was not submitted. Pending Postiz delivery cmtu61lhl01s4lm0ylegpgg9m requires reconciliation before any retry.
 - `2026-09-09T14:02:23Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3011,13 +3031,3 @@ $GOOGL agreed to buy up to 50% of the power from Fortum's Loviisa nuclear plant 
 - `2026-09-09T13:56:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 1 new post(s).
 - `2026-09-09T13:55:51Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T13:43:46Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:43:21.104146+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T13:42:23Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:42:20.166380+00:00` **produce / succeeded** — Produced 2 newest fresh image-model package(s) with exact-logo compositing and QA.
-- `2026-09-09T13:37:50Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:37:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-09T13:35:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:27:04.619764+00:00` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled immutable publication statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published. No newly eligible benchmark source remained in the current fresh queue within the 90-minute TTL.
-- `2026-09-09T13:26:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:26:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
-- `2026-09-09T13:22:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

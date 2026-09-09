@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T14:03:59.356273+00:00",
+  "updatedAt": "2026-09-09T14:22:35.999937+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11983,6 +11983,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097688157370126338",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097688157370126338",
+      "postedAt": "Wed Sep 09 14:06:44 +0000 2026",
+      "text": "JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equivalent to $160,000 at all time high. https://t.co/TdY13eZjT1",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRx8QnFbwAAaOBu.jpg",
+        "https://pbs.twimg.com/media/HRx8QmiWkAAPhau.jpg"
+      ],
+      "engagement": {
+        "likes": 55,
+        "replies": 26,
+        "reposts": 13,
+        "quotes": 2,
+        "views": 15050
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T14:16:52Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRx8QnFbwAAaOBu.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097688157370126338-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRx8QmiWkAAPhau.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097688157370126338-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -19388,6 +19422,25 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-09T13:56:36Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097688157370126338",
+      "rank": 1,
+      "title": "JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equival…",
+      "benchmarkPostId": "2097688157370126338",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097688157370126338",
+      "score": 17960,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T14:16:55Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -28555,7 +28608,7 @@
       "benchmarkPostId": "2097685199102316847",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097685199102316847",
       "title": "Google secures Loviisa nuclear power through 2050",
-      "status": "publishing",
+      "status": "published",
       "postText": "$GOOGL agreed to buy up to 50% of the power from Fortum's Loviisa nuclear plant through 2050.\n\nThe deal supports roughly $1.16B of investment to keep the Finnish plant operating.",
       "mirroredFacts": [
         "Google agreed to buy up to 50% of the capacity from Fortum's Loviisa nuclear plant in Finland through 2050.",
@@ -28586,8 +28639,49 @@
         }
       },
       "postizPostId": "cmtu61lhl01s4lm0ylegpgg9m",
-      "deliveryState": "QUEUE",
-      "deliveryCheckedAt": "2026-09-09T14:03:55.968868Z"
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-09T14:20:36.105201Z",
+      "publishedAt": "2026-09-09T14:00:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-penguin-200m-token-burn",
+      "benchmarkPostId": "2097688157370126338",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097688157370126338",
+      "title": "PENGUIN team burns 200M tokens",
+      "status": "published",
+      "postText": "The team behind $PENGUIN on Robinhood Chain burned 200M tokens, valued at $160,000 at the all-time high.",
+      "mirroredFacts": [
+        "The team behind PENGUIN on Robinhood Chain burned 200 million tokens.",
+        "The tokens were valued at $160,000 at the all-time high."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097688157370126338"
+      ],
+      "imagePath": "deliverables/pkg-20260909-penguin-200m-token-burn/when2buy-image-model.png",
+      "createdAt": "2026-09-09T14:20:11.647525+00:00",
+      "sourceExpiresAt": "2026-09-09T15:36:44Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square 1:1 premium X financial-news visual for When2Buy\nPrimary request: create an original entity-led editorial visual for the team behind the PENGUIN token on Robinhood Chain burning 200 million tokens, valued at $160,000 at the all-time high.\nScene/backdrop: premium near-black institutional crypto operations room with a single elegant penguin-shaped token sculpture beside a controlled token-incineration chamber; glowing token fragments visibly disappearing, subtle blockchain rails in the background.\nSubject: the PENGUIN token burn is unmistakably the central event; sophisticated, credible financial-news imagery, not cute or cartoonish.\nStyle/medium: cinematic photorealistic 3D editorial render, sharp detail, high contrast, polished financial publication aesthetic.\nComposition/framing: exact square 1:1; dominant subject center-left; generous clean near-black lower-right area reserved for the exact repository logo to be composited later.\nLighting/mood: urgent and decisive, crisp white rim light with restrained deep-red heat accents.\nColor palette: near-black, white/silver, restrained red only.\nText (verbatim): \"$PENGUIN\" and \"200M TOKEN BURN\" and \"$160K AT ATH\"\nConstraints: spell every required character exactly; no other readable words or numbers; no generated logos; no Robinhood logo; no source handles, URLs, attribution, disclaimers, commentary, CTA, watermark, or tagline; no generic radar graphic; not a pure typography card; no damaged or malformed objects.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T14:20:11.647525+00:00",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led token-burn scene",
+            "exact $PENGUIN, 200M TOKEN BURN and $160K AT ATH text",
+            "no source, URL, attribution, disclaimer, commentary, CTA or tagline",
+            "premium near-black, white and restrained-red palette",
+            "not a pure-text or generic-radar visual",
+            "exact repository logo composited once in the lower-right clear area",
+            "no damaged logo or malformed subject"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmtu6rp7x00tnqk0y1coxfzim",
+      "publishedAt": "2026-09-09T14:20:00.000Z"
     }
   ],
   "posts": [
@@ -31822,6 +31916,39 @@
         "status": "active",
         "windowStart": "2026-09-09T13:42:00.000Z",
         "windowEnd": "2026-09-12T13:42:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097687737923178946",
+      "packageId": "pkg-20260909-google-fortum-nuclear-2050",
+      "title": "Google secures Loviisa nuclear power through 2050",
+      "text": "$GOOGL agreed to buy up to 50% of the power from Fortum's Loviisa nuclear plant through 2050.\n\nThe deal supports roughly $1.16B of investment to keep the Finnish plant operating.",
+      "status": "published",
+      "publishedAt": "2026-09-09T14:00:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097687737923178946",
+      "postizPostId": "cmtu61lhl01s4lm0ylegpgg9m",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T14:00:00.000Z",
+        "windowEnd": "2026-09-12T14:00:00Z"
+      },
+      "reconciledAt": "2026-09-09T14:20:36.105201Z"
+    },
+    {
+      "id": "2097691839725961267",
+      "packageId": "pkg-20260909-penguin-200m-token-burn",
+      "title": "PENGUIN team burns 200M tokens",
+      "status": "published",
+      "publishedAt": "2026-09-09T14:20:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097691839725961267",
+      "postizPostId": "cmtu6rp7x00tnqk0y1coxfzim",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T14:20:00.000Z",
+        "windowEnd": "2026-09-12T14:20:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -152176,13 +152303,109 @@
       "completedAt": "2026-09-09T14:03:59Z",
       "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260909T141547Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:15:47Z",
+      "completedAt": "2026-09-09T14:15:47Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T141652Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:16:52Z",
+      "completedAt": "2026-09-09T14:16:52Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T141655Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:16:55Z",
+      "completedAt": "2026-09-09T14:16:55Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T141953Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:19:53Z",
+      "completedAt": "2026-09-09T14:19:53Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T142011Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:20:11.647525+00:00",
+      "completedAt": "2026-09-09T14:20:11.647525+00:00",
+      "summary": "Produced the newest fresh PENGUIN token-burn package with an inspected image-model visual and one exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T142014Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:20:14Z",
+      "completedAt": "2026-09-09T14:20:14Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T142036Z-reconcile",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:20:36.105201Z",
+      "completedAt": "2026-09-09T14:20:36.531937Z",
+      "summary": "Reconciled 1 published and 0 failed Postiz deliveries into state.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T142124Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:21:24.829343+00:00",
+      "completedAt": "2026-09-09T14:21:24.829346+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T142233Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:15:32Z",
+      "completedAt": "2026-09-09T14:22:33.144001+00:00",
+      "summary": "Apify collection, media archive, status reconciliation, fresh-queue rebuild, newest image-model package production, one expired-breaker recovery probe, verified X publication, validation, and reporting completed.",
+      "reason": "The second fresh queue item was intentionally not submitted because breaker recovery permits exactly one newest-fresh-package probe."
+    },
+    {
+      "id": "run-20260909T142235Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:22:35Z",
+      "completedAt": "2026-09-09T14:22:35Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": true,
+    "active": false,
     "startedAt": "2026-09-09T11:02:00Z",
     "expiresAt": "2026-09-09T12:02:00Z",
     "postizPostId": "cmttzol6a01m0qk0y21ivx7ec",
-    "deliveryReason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made."
+    "deliveryReason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made.",
+    "clearedAt": "2026-09-09T14:22:33.143970+00:00",
+    "clearReason": "Expired X-delivery breaker cleared after one newest-fresh-package probe returned PUBLISHED with a verified public X URL."
   }
 }
