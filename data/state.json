@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T13:27:04.687386+00:00",
+  "updatedAt": "2026-09-09T13:43:46.038961+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11899,6 +11899,62 @@
       "isPinned": false,
       "capturedAt": "2026-09-09T13:17:14Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097679663678058507",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097679663678058507",
+      "postedAt": "Wed Sep 09 13:32:59 +0000 2026",
+      "text": "The 🇺🇸 stock market just opened trading today Red\n\n🔴🔴🔴🔴 https://t.co/Q0VYOw467M",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRx0iRBX0AE6eg9.jpg"
+      ],
+      "engagement": {
+        "likes": 16,
+        "replies": 10,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 6599
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T13:37:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRx0iRBX0AE6eg9.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097679663678058507-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097678479634395160",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097678479634395160",
+      "postedAt": "Wed Sep 09 13:28:17 +0000 2026",
+      "text": "Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ \n\n\"Alif’s microcontrollers and fusion processors enable real-time sensor fusion, low-latency inference and on-device AI, bringing advanced intelligence to demanding physical systems\" https://t.co/5uQFbmoYDx",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxzVFwWcAAcnCd.jpg"
+      ],
+      "engagement": {
+        "likes": 11,
+        "replies": 8,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 10022
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T13:37:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxzVFwWcAAcnCd.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097678479634395160-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -19252,6 +19308,44 @@
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097679663678058507",
+      "rank": 1,
+      "title": "The 🇺🇸 stock market just opened trading today Red 🔴🔴🔴🔴 https://t.co/Q0VYOw467M",
+      "benchmarkPostId": "2097679663678058507",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097679663678058507",
+      "score": 7519,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T13:37:50Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097678479634395160",
+      "rank": 2,
+      "title": "Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ…",
+      "benchmarkPostId": "2097678479634395160",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097678479634395160",
+      "score": 10662,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T13:37:50Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -28333,6 +28427,81 @@
       },
       "postizPostId": "cmtu4mmxz01cnqk0yx4paysdq",
       "publishedAt": "2026-09-09T13:20:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-us-stocks-open-lower",
+      "benchmarkPostId": "2097679663678058507",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097679663678058507",
+      "title": "U.S. stocks open lower",
+      "status": "published",
+      "postText": "U.S. stocks opened lower today.",
+      "mirroredFacts": [
+        "The U.S. stock market opened lower on September 9, 2026."
+      ],
+      "verificationSources": [
+        "https://apnews.com/article/d1284eb72934a3b076c14449bc087fbd",
+        "https://x.com/StockMKTNewz/status/2097679663678058507"
+      ],
+      "imagePath": "deliverables/pkg-20260909-us-stocks-open-lower/when2buy-image-model.png",
+      "createdAt": "2026-09-09T13:42:20.166197+00:00",
+      "sourceExpiresAt": "2026-09-09T15:02:59Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square premium entity-led NYSE exterior blended with a restrained red downward market chart for the U.S. stock market opening lower today; near-black, white and restrained red; exact text U.S. STOCKS OPEN LOWER; clean bottom-right logo-safe area; no generated logo, source, attribution, disclaimer, CTA or watermark.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T13:42:20.166216+00:00",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led NYSE and market-chart scene",
+            "exact U.S. STOCKS OPEN LOWER headline",
+            "no source, URL, disclaimer or CTA",
+            "premium near-black, white and restrained-red palette",
+            "exact repository logo composited once without damage"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmtu5eva201gjlm0ynti92ofg",
+      "publishedAt": "2026-09-09T13:42:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-adi-acquires-alif-1-35b",
+      "benchmarkPostId": "2097678479634395160",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097678479634395160",
+      "title": "Analog Devices to acquire Alif for $1.35B",
+      "status": "ready",
+      "postText": "$ADI agreed to acquire Alif Semiconductor for $1.35B in cash.\n\nAlif's chips handle real-time sensor fusion, low-latency inference and on-device AI.",
+      "mirroredFacts": [
+        "Analog Devices agreed to acquire Alif Semiconductor for $1.35 billion in cash.",
+        "Alif's microcontrollers and fusion processors enable real-time sensor fusion, low-latency inference and on-device AI."
+      ],
+      "verificationSources": [
+        "https://investor.analog.com/news-releases/news-release-details/analog-devices-acquire-alif-semiconductor-adding-ai-native",
+        "https://x.com/StockMKTNewz/status/2097678479634395160"
+      ],
+      "imagePath": "deliverables/pkg-20260909-adi-acquires-alif-1-35b/when2buy-image-model.png",
+      "createdAt": "2026-09-09T13:42:20.166294+00:00",
+      "sourceExpiresAt": "2026-09-09T14:58:17Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square premium entity-led semiconductor cleanroom with analog and edge-AI chips converging for Analog Devices' $1.35B cash acquisition of Alif; near-black, white and restrained red; exact text $ADI BUYS ALIF and $1.35B CASH; clean bottom-right logo-safe area; no generated logo, source, attribution, disclaimer, CTA or watermark.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T13:42:20.166298+00:00",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led semiconductor acquisition scene",
+            "exact $ADI BUYS ALIF and $1.35B CASH text",
+            "no source, URL, disclaimer or CTA",
+            "premium near-black, white and restrained-red palette",
+            "exact repository logo composited once without damage"
+          ],
+          "result": "passed"
+        }
+      }
     }
   ],
   "posts": [
@@ -31550,6 +31719,23 @@
         "status": "active",
         "windowStart": "2026-09-09T13:20:00.000Z",
         "windowEnd": "2026-09-12T13:20:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097682264595534272",
+      "packageId": "pkg-20260909-us-stocks-open-lower",
+      "title": "U.S. stocks open lower",
+      "status": "published",
+      "publishedAt": "2026-09-09T13:42:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097682264595534272",
+      "postizPostId": "cmtu5eva201gjlm0ynti92ofg",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T13:42:00.000Z",
+        "windowEnd": "2026-09-12T13:42:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -151740,6 +151926,77 @@
       "summary": "Collected both benchmark feeds through Apify, archived media, reconciled immutable publication statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published.",
       "reason": "No newly eligible benchmark source remained in the current fresh queue within the 90-minute TTL.",
       "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260909T133554Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:35:54Z",
+      "completedAt": "2026-09-09T13:35:54Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T133714Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:37:14Z",
+      "completedAt": "2026-09-09T13:37:14Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T133750Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:37:50Z",
+      "completedAt": "2026-09-09T13:37:50Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T134220Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:42:20.166380+00:00",
+      "completedAt": "2026-09-09T13:42:20.166384+00:00",
+      "summary": "Produced 2 newest fresh image-model package(s) with exact-logo compositing and QA.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260909-us-stocks-open-lower",
+        "pkg-20260909-adi-acquires-alif-1-35b"
+      ]
+    },
+    {
+      "id": "run-20260909T134223Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:42:23Z",
+      "completedAt": "2026-09-09T13:42:23Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T134321Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:43:21.104146+00:00",
+      "completedAt": "2026-09-09T13:43:21.104152+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T134346Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:43:46Z",
+      "completedAt": "2026-09-09T13:43:46Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

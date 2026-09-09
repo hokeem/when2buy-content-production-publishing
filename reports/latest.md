@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T13:27:04.687386+00:00`
+- 状态更新：`2026-09-09T13:43:46.038961+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**431**
-- 待选选题：**387**
-- 待发布制作包：**0**
-- 已验证发布：**180**
+- 对标帖子快照：**433**
+- 待选选题：**389**
+- 待发布制作包：**1**
+- 已验证发布：**181**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 13:28:17 +0000 2026 | Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ   "Alif’s microcontrollers and fusion processors enable real-time sensor fusion, low-latency inference and on-device AI, bringing advanced intelligence to demanding physical systems" https://t.co/5uQFbmoYDx | [X](https://x.com/StockMKTNewz/status/2097678479634395160) |
+| @StockMKTNewz | Wed Sep 09 13:32:59 +0000 2026 | The 🇺🇸 stock market just opened trading today Red  🔴🔴🔴🔴 https://t.co/Q0VYOw467M | [X](https://x.com/StockMKTNewz/status/2097679663678058507) |
 | @StockMKTNewz | Wed Sep 09 13:04:12 +0000 2026 | OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - CNBC | [X](https://x.com/StockMKTNewz/status/2097672421251645532) |
 | @WhaleInsider | Wed Sep 09 12:48:56 +0000 2026 | JUST IN: Hunter Biden's crypto memecoin $LAPTOP is down 90% from its peak. https://t.co/hA8Z53ts8S | [X](https://x.com/WhaleInsider/status/2097668576270315572) |
 | @StockMKTNewz | Wed Sep 09 11:50:40 +0000 2026 | There could be as much as $31.6 Trillion spent on data center CAPEX through 2050  Almost 50% of that spending is expected to come from the 🇺🇸  Next year alone estimates are that global data center AI CAPEX spend will be around $1T-$1.2 Trillion up from roughly $850B, which was spent this year  Of that spend next year, between 50%-70% is expected to be spent in the United States | [X](https://x.com/StockMKTNewz/status/2097653916750016898) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 01:04:26 +0000 2026 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% rate it as good or excellent - WSJ https://t.co/Qa2hSXvUyQ | [X](https://x.com/StockMKTNewz/status/2097491285909151900) |
 | @StockMKTNewz | Tue Sep 08 22:13:15 +0000 2026 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | [X](https://x.com/StockMKTNewz/status/2097448206950928886) |
 | @WhaleInsider | Tue Sep 08 21:33:55 +0000 2026 | JUST IN: $MarsCat becomes the first ever AI coin on BNB Chain to distribute over over $100,000 in MarsCoin rewards to its holders. https://t.co/gjIwo9NbLf | [X](https://x.com/WhaleInsider/status/2097438308410241104) |
-| @StockMKTNewz | Tue Sep 08 21:37:29 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/fOMjncdIw5 | [X](https://x.com/StockMKTNewz/status/2097439204133273723) |
-| @StockMKTNewz | Tue Sep 08 20:30:47 +0000 2026 | Nike $NKE stock hit new decade plus lows again today | [X](https://x.com/StockMKTNewz/status/2097422417794650113) |
 
 ## 选题推荐
 
@@ -141,6 +141,7 @@
 | 1 | Meta Platforms $META Chief AI Officer Alexandr Wang posted: "the early usage on muse has blo… | StockMKTNewz | 8249 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Hunter Biden's crypto memecoin $LAPTOP is down 90% from its peak. https://t.co/hA8Z… | WhaleInsider | 18738 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - … | StockMKTNewz | 11631 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The 🇺🇸 stock market just opened trading today Red 🔴🔴🔴🔴 https://t.co/Q0VYOw467M | StockMKTNewz | 7519 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -188,6 +189,7 @@
 | 2 | $LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Te… | StockMKTNewz | 6262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS At least a third o… | StockMKTNewz | 8268 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | There could be as much as $31.6 Trillion spent on data center CAPEX through 2050 Almost 50% … | StockMKTNewz | 13808 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ… | StockMKTNewz | 10662 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2788,6 +2790,20 @@ Hunter Biden’s $LAPTOP memecoin is down 90% from its peak.
 
 OpenAI used roughly 10,000 AI agents to produce a proposed solution to the Navier–Stokes Millennium Prize problem in 88 hours.  The result was formalized and checked in Lean over another 17 hours.
 
+### U.S. stocks open lower
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-us-stocks-open-lower/when2buy-image-model.png`
+
+U.S. stocks opened lower today.
+
+### Analog Devices to acquire Alif for $1.35B
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-adi-acquires-alif-1-35b/when2buy-image-model.png`
+
+$ADI agreed to acquire Alif Semiconductor for $1.35B in cash.  Alif's chips handle real-time sensor fusion, low-latency inference and on-device AI.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2973,9 +2989,17 @@ OpenAI used roughly 10,000 AI agents to produce a proposed solution to the Navie
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097664411699958174) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097672115789128095) |
 | OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097676757918941397) |
+| U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097682264595534272) |
 
 ## 最近运行
 
+- `2026-09-09T13:43:46Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:43:21.104146+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T13:42:23Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:42:20.166380+00:00` **produce / succeeded** — Produced 2 newest fresh image-model package(s) with exact-logo compositing and QA.
+- `2026-09-09T13:37:50Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:37:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
+- `2026-09-09T13:35:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T13:27:04.619764+00:00` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled immutable publication statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published. No newly eligible benchmark source remained in the current fresh queue within the 90-minute TTL.
 - `2026-09-09T13:26:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T13:26:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
@@ -2989,10 +3013,3 @@ OpenAI used roughly 10,000 AI agents to produce a proposed solution to the Navie
 - `2026-09-09T13:06:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:55:55Z` **full / succeeded** — Collected both benchmark feeds, rebuilt the hard-TTL queue, produced and published the sole fresh item, verified its public X URL, and removed a redundant delayed Postiz queue item before release.
 - `2026-09-09T13:04:29.886223Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
-- `2026-09-09T12:59:59Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:59:56.635003+00:00` **produce / succeeded** — Produced the newest fresh queue item with an image-model visual and exact-logo composite.
-- `2026-09-09T12:57:02Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:56:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 49 eligible originals and added 1 new post(s).
-- `2026-09-09T12:56:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:45:58Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled verified package statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published. No eligible benchmark source remained within the 90-minute TTL after the fresh scan.
-- `2026-09-09T12:46:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
