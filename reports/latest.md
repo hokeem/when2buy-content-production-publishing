@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T00:08:22.145100+00:00`
+- 状态更新：`2026-09-09T00:26:41.583555+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**405**
 - 待选选题：**361**
@@ -2740,6 +2740,9 @@ Nike $NKE hit fresh decade-plus lows again today.  When2Buy — your U.S. stock 
 
 ## 最近运行
 
+- `2026-09-09T00:26:41Z` **full / partial** — Apify collected both required benchmark feeds, media archive completed, and the production queue was rebuilt newest-first. No newly captured eligible benchmark posts required package production; publication was withheld by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
+- `2026-09-09T00:26:05Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
+- `2026-09-09T00:26:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-09T00:05:00Z` **full / partial** — Apify collected both required benchmark feeds and the queue was rebuilt newest-first. No newly captured eligible benchmark posts were found. Completed and validated the ready Nike package; no X submission was attempted while the delivery circuit breaker remained active. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-09T00:08:08Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-09T00:06:25Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
@@ -2757,6 +2760,3 @@ Nike $NKE hit fresh decade-plus lows again today.  When2Buy — your U.S. stock 
 - `2026-09-08T23:08:00Z` **full / partial** — Apify collection, media archiving, and newest-first queue rebuild completed; no new eligible source posts required production and publication was withheld by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T23:06:18Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-08T23:06:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T22:51:04Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, and the :45 Postiz-first 72-hour metrics pass completed; no new eligible source posts required production and publication was withheld by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
-- `2026-09-08T22:46:40Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
-- `2026-09-08T22:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).

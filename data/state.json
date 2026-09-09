@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T00:08:22.145100+00:00",
+  "updatedAt": "2026-09-09T00:26:41.583555+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -121597,6 +121597,52 @@
       "completedAt": "2026-09-09T00:10:00Z",
       "summary": "Apify collected both required benchmark feeds and the queue was rebuilt newest-first. No newly captured eligible benchmark posts were found. Completed and validated the ready Nike package; no X submission was attempted while the delivery circuit breaker remained active.",
       "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
+      "delivery": {
+        "circuitBreakerActive": true,
+        "expiresAt": "2026-09-09T00:46:41Z",
+        "submissionAttempted": false,
+        "publicationResult": "deferred"
+      }
+    },
+    {
+      "id": "run-20260909T002602Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T00:26:02Z",
+      "completedAt": "2026-09-09T00:26:02Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T002605Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T00:26:05Z",
+      "completedAt": "2026-09-09T00:26:05Z",
+      "summary": "Prepared 73 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T002641Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T00:26:41Z",
+      "completedAt": "2026-09-09T00:26:41Z",
+      "summary": "Apify collected both required benchmark feeds, media archive completed, and the production queue was rebuilt newest-first. No newly captured eligible benchmark posts required package production; publication was withheld by the active delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-09T00:46:41Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-09T00:46:41Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
+      },
       "delivery": {
         "circuitBreakerActive": true,
         "expiresAt": "2026-09-09T00:46:41Z",
