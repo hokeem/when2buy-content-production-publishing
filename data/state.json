@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T13:06:01.888632+00:00",
+  "updatedAt": "2026-09-09T13:22:24.811480+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11879,6 +11879,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097672421251645532",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097672421251645532",
+      "postedAt": "Wed Sep 09 13:04:12 +0000 2026",
+      "text": "OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - CNBC",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 24,
+        "replies": 9,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 10691
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T13:17:14Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -19213,6 +19233,25 @@
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097672421251645532",
+      "rank": 1,
+      "title": "OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - …",
+      "benchmarkPostId": "2097672421251645532",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097672421251645532",
+      "score": 11631,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T13:17:18Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -28253,6 +28292,47 @@
       "publishedAt": "2026-09-09T13:00:00.000Z",
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-09T13:04:29.886223Z"
+    },
+    {
+      "id": "pkg-20260909-openai-navier-stokes-10000-agents",
+      "benchmarkPostId": "2097672421251645532",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097672421251645532",
+      "title": "OpenAI's 10,000-agent Navier-Stokes run",
+      "status": "published",
+      "postText": "OpenAI used roughly 10,000 AI agents to produce a proposed solution to the Navier–Stokes Millennium Prize problem in 88 hours.\n\nThe result was formalized and checked in Lean over another 17 hours.",
+      "mirroredFacts": [
+        "OpenAI used roughly 10,000 coordinating AI agents.",
+        "The agents produced a proposed Navier-Stokes solution in about 88 hours.",
+        "The result received an additional 17-hour Lean formalization and check."
+      ],
+      "verificationSources": [
+        "https://openai.com/index/navier-stokes-solution/",
+        "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades"
+      ],
+      "imagePath": "deliverables/pkg-20260909-openai-navier-stokes-10000-agents/when2buy-image-model.png",
+      "createdAt": "2026-09-09T13:20:37.395033+00:00",
+      "sourceExpiresAt": "2026-09-09T14:34:12Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual\nPrimary request: Create a complete premium editorial visual about OpenAI coordinating roughly 10,000 AI agents to produce a proposed Navier-Stokes mathematical solution in 88 hours.\nScene/backdrop: near-black high-end AI research command center merging into a scientifically credible luminous fluid-dynamics vortex simulation and subtle mathematical flow-field structures.\nSubject: a vast coordinated constellation of AI compute nodes converging on one turbulent-fluid breakthrough; entity-led OpenAI research atmosphere without copying any existing artwork.\nStyle/medium: cinematic photorealistic 3D editorial illustration, polished financial-news aesthetic.\nComposition/framing: exact 1:1 square; dominant central fluid vortex and orchestration grid; strong hierarchy readable in two seconds; reserve clean empty space in the lower-right for a logo that will be composited later.\nLighting/mood: dramatic controlled white highlights, restrained red accents, intelligent and urgent, deep blacks.\nColor palette: near-black, white, graphite, restrained crimson red only.\nText: no text.\nConstraints: complete scene in one image; no source attribution; no account handle; no URL; no logo; no watermark; no UI screenshot; no stock chart; no generic radar background; no green; no distorted equations; no extra branding.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T13:20:37.395036+00:00",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led AI research and fluid-dynamics scene",
+            "no generated public copy, source attribution, URL, or watermark",
+            "premium near-black, white, and restrained-red palette",
+            "not a pure-text card or generic radar image",
+            "exact repository logo composited once in clear space",
+            "no malformed central subject or damaged logo"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmtu4mmxz01cnqk0yx4paysdq",
+      "publishedAt": "2026-09-09T13:20:00.000Z"
     }
   ],
   "posts": [
@@ -31457,6 +31537,23 @@
         "windowEnd": "2026-09-12T13:00:00Z"
       },
       "reconciledAt": "2026-09-09T13:04:29.886223Z"
+    },
+    {
+      "id": "2097676757918941397",
+      "packageId": "pkg-20260909-openai-navier-stokes-10000-agents",
+      "title": "OpenAI's 10,000-agent Navier-Stokes run",
+      "status": "published",
+      "publishedAt": "2026-09-09T13:20:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097676757918941397",
+      "postizPostId": "cmtu4mmxz01cnqk0yx4paysdq",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T13:20:00.000Z",
+        "windowEnd": "2026-09-12T13:20:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
     }
   ],
   "metricSnapshots": [
@@ -151542,6 +151639,73 @@
       "status": "succeeded",
       "startedAt": "2026-09-09T13:06:01Z",
       "completedAt": "2026-09-09T13:06:01Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T131714Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:17:14Z",
+      "completedAt": "2026-09-09T13:17:14Z",
+      "summary": "Apify scanned both benchmark accounts; captured 42 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T131718Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:17:18Z",
+      "completedAt": "2026-09-09T13:17:18Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T132037Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:20:37.395047+00:00",
+      "completedAt": "2026-09-09T13:20:37.395049+00:00",
+      "summary": "Produced the sole fresh queue item with an image-model visual and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T132040Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:20:40Z",
+      "completedAt": "2026-09-09T13:20:40Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T132129Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:21:29.305780+00:00",
+      "completedAt": "2026-09-09T13:21:29.305786+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T132200Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:16:00Z",
+      "completedAt": "2026-09-09T13:22:00Z",
+      "summary": "Collected both benchmark feeds, archived media, reconciled immutable publication statuses, rebuilt the hard-TTL queue, produced the sole fresh item, and published it through Postiz with a verified public X URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T132224Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:22:24Z",
+      "completedAt": "2026-09-09T13:22:24Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }

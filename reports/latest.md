@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T13:06:01.888632+00:00`
+- 状态更新：`2026-09-09T13:22:24.811480+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**430**
-- 待选选题：**386**
+- 对标帖子快照：**431**
+- 待选选题：**387**
 - 待发布制作包：**0**
-- 已验证发布：**179**
+- 已验证发布：**180**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 13:04:12 +0000 2026 | OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - CNBC | [X](https://x.com/StockMKTNewz/status/2097672421251645532) |
 | @WhaleInsider | Wed Sep 09 12:48:56 +0000 2026 | JUST IN: Hunter Biden's crypto memecoin $LAPTOP is down 90% from its peak. https://t.co/hA8Z53ts8S | [X](https://x.com/WhaleInsider/status/2097668576270315572) |
 | @StockMKTNewz | Wed Sep 09 11:50:40 +0000 2026 | There could be as much as $31.6 Trillion spent on data center CAPEX through 2050  Almost 50% of that spending is expected to come from the 🇺🇸  Next year alone estimates are that global data center AI CAPEX spend will be around $1T-$1.2 Trillion up from roughly $850B, which was spent this year  Of that spend next year, between 50%-70% is expected to be spent in the United States | [X](https://x.com/StockMKTNewz/status/2097653916750016898) |
 | @StockMKTNewz | Wed Sep 09 12:01:13 +0000 2026 | Meta Platforms $META Chief AI Officer Alexandr Wang posted:  "the early usage on muse has blown way past our projections. muse’s users today are using 10x more than our testing cohorts. enjoy!" | [X](https://x.com/StockMKTNewz/status/2097656569513013637) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Tue Sep 08 21:33:55 +0000 2026 | JUST IN: $MarsCat becomes the first ever AI coin on BNB Chain to distribute over over $100,000 in MarsCoin rewards to its holders. https://t.co/gjIwo9NbLf | [X](https://x.com/WhaleInsider/status/2097438308410241104) |
 | @StockMKTNewz | Tue Sep 08 21:37:29 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/fOMjncdIw5 | [X](https://x.com/StockMKTNewz/status/2097439204133273723) |
 | @StockMKTNewz | Tue Sep 08 20:30:47 +0000 2026 | Nike $NKE stock hit new decade plus lows again today | [X](https://x.com/StockMKTNewz/status/2097422417794650113) |
-| @StockMKTNewz | Tue Sep 08 20:43:18 +0000 2026 | LIV GOLF FILES FOR CHAPTER 11 BANKRUPTCY | [X](https://x.com/StockMKTNewz/status/2097425569688297925) |
 
 ## 选题推荐
 
@@ -140,6 +140,7 @@
 | 1 | Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4 | StockMKTNewz | 7622 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Meta Platforms $META Chief AI Officer Alexandr Wang posted: "the early usage on muse has blo… | StockMKTNewz | 8249 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Hunter Biden's crypto memecoin $LAPTOP is down 90% from its peak. https://t.co/hA8Z… | WhaleInsider | 18738 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - … | StockMKTNewz | 11631 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2780,6 +2781,13 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 
 Hunter Biden’s $LAPTOP memecoin is down 90% from its peak.
 
+### OpenAI's 10,000-agent Navier-Stokes run
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-openai-navier-stokes-10000-agents/when2buy-image-model.png`
+
+OpenAI used roughly 10,000 AI agents to produce a proposed solution to the Navier–Stokes Millennium Prize problem in 88 hours.  The result was formalized and checked in Lean over another 17 hours.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2964,9 +2972,17 @@ Hunter Biden’s $LAPTOP memecoin is down 90% from its peak.
 | Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097663884169728471) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097664411699958174) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097672115789128095) |
+| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097676757918941397) |
 
 ## 最近运行
 
+- `2026-09-09T13:22:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:16:00Z` **full / succeeded** — Collected both benchmark feeds, archived media, reconciled immutable publication statuses, rebuilt the hard-TTL queue, produced the sole fresh item, and published it through Postiz with a verified public X URL.
+- `2026-09-09T13:21:29.305780+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T13:20:40Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:20:37.395047+00:00` **produce / succeeded** — Produced the sole fresh queue item with an image-model visual and exact-logo composite.
+- `2026-09-09T13:17:18Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:17:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 1 new post(s).
 - `2026-09-09T13:06:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:55:55Z` **full / succeeded** — Collected both benchmark feeds, rebuilt the hard-TTL queue, produced and published the sole fresh item, verified its public X URL, and removed a redundant delayed Postiz queue item before release.
 - `2026-09-09T13:04:29.886223Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
@@ -2980,10 +2996,3 @@ Hunter Biden’s $LAPTOP memecoin is down 90% from its peak.
 - `2026-09-09T12:46:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
 - `2026-09-09T12:46:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 2 unsent stale package(s).
 - `2026-09-09T12:35:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:35:45Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
-- `2026-09-09T12:25:55Z` **full / succeeded** — Collected both benchmark feeds through Apify, excluded promotional content, archived media, reconciled package statuses, rebuilt the freshness queue, and published its first two eligible items through Postiz with verified public X URLs.
-- `2026-09-09T12:32:53Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:32:27.009868+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T12:30:26.237750+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T12:28:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:27:47Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
