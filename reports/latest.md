@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T12:35:48.050337+00:00`
+- 状态更新：`2026-09-09T12:47:49.516690+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**429**
 - 待选选题：**385**
-- 待发布制作包：**2**
+- 待发布制作包：**0**
 - 已验证发布：**178**
 
 ## 对标账号扫描
@@ -2732,14 +2732,14 @@ HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650, citing stronge
 
 ### Meta rises more than 5% premarket
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260909-meta-up-five-percent-premarket/when2buy-image-model.png`
 
 Meta $META is up more than 5% in premarket trading.
 
 ### Lyft starts Nashville Waymo robotaxi rides
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260909-lyft-waymo-robotaxis-nashville/when2buy-image-model.png`
 
 $LYFT is starting robotaxi rides in Nashville using Waymo vehicles from Google $GOOGL.
@@ -2958,6 +2958,10 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 
 ## 最近运行
 
+- `2026-09-09T12:45:58Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled verified package statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published. No eligible benchmark source remained within the 90-minute TTL after the fresh scan.
+- `2026-09-09T12:46:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:46:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
+- `2026-09-09T12:46:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 2 unsent stale package(s).
 - `2026-09-09T12:35:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:35:45Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-09T12:25:55Z` **full / succeeded** — Collected both benchmark feeds through Apify, excluded promotional content, archived media, reconciled package statuses, rebuilt the freshness queue, and published its first two eligible items through Postiz with verified public X URLs.
@@ -2974,7 +2978,3 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 - `2026-09-09T12:15:17.594424+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T12:13:58Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:13:55.624915+00:00` **produce / succeeded** — Produced the first two items from the newly rebuilt fresh queue with image-model visuals and exact-logo compositing.
-- `2026-09-09T12:08:14Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:08:10Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).
-- `2026-09-09T12:05:57Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:54:58.654778+00:00` **full / partial** — Apify collection, media archive, duplicate exclusion, freshness queue rebuild, validation, and reporting completed; publication was withheld before submission by the active 60-minute delivery circuit breaker. The Postiz delivery guard found a recent verified X release inside the 60-minute safety window; no API submission was attempted.

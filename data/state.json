@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T12:35:48.050337+00:00",
+  "updatedAt": "2026-09-09T12:47:49.516690+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -27983,7 +27983,7 @@
       "benchmarkPostId": "2097644554820165827",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097644554820165827",
       "title": "Meta rises more than 5% premarket",
-      "status": "ready",
+      "status": "expired",
       "postText": "Meta $META is up more than 5% in premarket trading.",
       "mirroredFacts": [
         "Meta Platforms shares were up more than 5% in premarket trading."
@@ -28000,14 +28000,17 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Square entity-led model output inspected; visible headline spelling and numbers passed; exact repository logo composited once with clear space."
-      }
+      },
+      "expiredAt": "2026-09-09T12:46:08Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-09T12:43:28Z"
     },
     {
       "id": "pkg-20260909-lyft-waymo-robotaxis-nashville",
       "benchmarkPostId": "2097643905885900979",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097643905885900979",
       "title": "Lyft starts Nashville Waymo robotaxi rides",
-      "status": "ready",
+      "status": "expired",
       "postText": "$LYFT is starting robotaxi rides in Nashville using Waymo vehicles from Google $GOOGL.",
       "mirroredFacts": [
         "Lyft is starting robotaxi rides in Nashville, Tennessee.",
@@ -28026,7 +28029,10 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Square entity-led model output inspected; visible headline spelling and numbers passed; exact repository logo composited once with clear space."
-      }
+      },
+      "expiredAt": "2026-09-09T12:46:08Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-09T12:40:54Z"
     },
     {
       "id": "pkg-20260909-fidelity-clarity-act-september-15",
@@ -151315,6 +151321,46 @@
       "completedAt": "2026-09-09T12:35:48Z",
       "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260909T124610Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:46:10Z",
+      "completedAt": "2026-09-09T12:46:10Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 2 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T124656Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:46:56Z",
+      "completedAt": "2026-09-09T12:46:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T124659Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:46:59Z",
+      "completedAt": "2026-09-09T12:46:59Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T124730Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:45:58Z",
+      "completedAt": "2026-09-09T12:47:30Z",
+      "summary": "Collected both benchmark feeds through Apify, archived media, reconciled verified package statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published.",
+      "reason": "No eligible benchmark source remained within the 90-minute TTL after the fresh scan."
     }
   ],
   "deliveryCircuitBreaker": {
