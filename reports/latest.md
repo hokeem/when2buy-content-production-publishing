@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T10:44:31.812227+00:00`
+- 状态更新：`2026-09-09T11:04:15.276911+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**420**
-- 待选选题：**376**
-- 待发布制作包：**0**
+- 对标帖子快照：**421**
+- 待选选题：**377**
+- 待发布制作包：**2**
 - 已验证发布：**174**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 10:45:54 +0000 2026 | AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED KINGDOM 🇬🇧  $UBER WANTS TO RAISE ~€4 BILLION THROUGH ITS FIRST EUROPEAN 🇪🇺 BOND SALE | [X](https://x.com/StockMKTNewz/status/2097637616556392674) |
 | @StockMKTNewz | Wed Sep 09 10:21:00 +0000 2026 | HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of 7,650 | [X](https://x.com/StockMKTNewz/status/2097631348395479169) |
 | @WhaleInsider | Wed Sep 09 10:33:34 +0000 2026 | JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryptocurrency platforms, among them Weex, Blofin, Bitunix, DigiFinex, and Toobit.   The regulator is also seeking the removal of their apps and websites over alleged breaches of anti-money laundering rules. | [X](https://x.com/WhaleInsider/status/2097634511366304052) |
 | @StockMKTNewz | Wed Sep 09 10:34:37 +0000 2026 | This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a decade  There is currently a ~55% chance we get a 0.25% rate hike next week  Snce 2015 there have been 0 FOMC meetings where 2 days before, the market odds of the Fed taking action were between 38%-69%. Every time its been either less than a 38% chance or more than 69% | [X](https://x.com/StockMKTNewz/status/2097634775062184094) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Tue Sep 08 17:27:32 +0000 2026 | JUST IN: Robinhood Chain generates 17,171 $ETH ($42.58M) in revenue in 70 days. https://t.co/xP3perdxB0 | [X](https://x.com/WhaleInsider/status/2097376303628390521) |
 | @StockMKTNewz | Tue Sep 08 17:40:53 +0000 2026 | AI startup Cognition raised more than $2B at a valuation of $48 Billion | [X](https://x.com/StockMKTNewz/status/2097379660854157664) |
 | @WhaleInsider | Tue Sep 08 17:05:09 +0000 2026 | JUST IN: 🇮🇷🇺🇸 Tehran demands new conditions from Washington to resume negotiations - Iranian media. https://t.co/0lbfexXv8o | [X](https://x.com/WhaleInsider/status/2097370670145347948) |
-| @StockMKTNewz | Tue Sep 08 16:26:59 +0000 2026 | QUALCOMM $QCOM JUST SAID:  - THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE | [X](https://x.com/StockMKTNewz/status/2097361064912449586) |
 
 ## 选题推荐
 
@@ -134,6 +134,7 @@
 | 1 | JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil ta… | WhaleInsider | 13023 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇨🇳🇺🇸 China dismisses as “unfounded” a U.S. advisory accusing DeepSeek, Alibaba, Moo… | WhaleInsider | 13297 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a… | StockMKTNewz | 4130 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED… | StockMKTNewz | 7964 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2707,6 +2708,20 @@ Markets put the chance of a 25 bp Fed rate hike next week near 55% ahead of the 
 
 India’s FIU issued non-compliance notices to 15 crypto platforms, including Weex, Blofin, Bitunix, DigiFinex and Toobit.  Authorities are seeking to restrict their apps and websites over alleged AML-rule breaches.
 
+### Amazon and Uber launch debut regional bond sales
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-amazon-uber-debut-bonds/when2buy-image-model.png`
+
+$AMZN launched its first sterling bond sale, targeting at least £3 billion.  $UBER is seeking about €4 billion through its first euro-denominated bond offering.
+
+### HSBC lifts S&P 500 target to 8,100
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-hsbc-sp500-8100/when2buy-image-model.png`
+
+HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650, citing stronger corporate earnings and sustained AI-infrastructure spending.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2889,6 +2904,11 @@ India’s FIU issued non-compliance notices to 15 crypto platforms, including We
 
 ## 最近运行
 
+- `2026-09-09T10:56:01Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; the first Postiz submission returned ERROR without a public X URL, so the serial batch stopped before the second submission. Postiz delivery cmttzol6a01m0qk0y21ivx7ec returned ERROR with no release URL; no package was recorded as published and no retry was attempted.
+- `2026-09-09T11:03:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T11:01:56Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T10:56:34Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T10:56:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 1 new post(s).
 - `2026-09-09T10:44:31Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T10:44:03.037007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T10:41:58.069422+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2904,8 +2924,3 @@ India’s FIU issued non-compliance notices to 15 crypto platforms, including We
 - `2026-09-09T10:17:07Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T10:16:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 2 new post(s).
 - `2026-09-09T10:15:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:05:58Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; collected Postiz-first hourly metrics for releases inside the latest 72 hours; scanned both required Apify feeds and found no new eligible originals; archived available source media; reconciled immutable package statuses and Postiz publications; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.
-- `2026-09-09T10:07:29Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:07:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-09T10:06:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:00:20Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; scanned both required Apify feeds and found no new eligible originals; archived available source media; reconciled immutable package statuses; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.

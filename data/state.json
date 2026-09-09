@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T10:44:31.812227+00:00",
+  "updatedAt": "2026-09-09T11:04:15.276911+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11601,6 +11601,26 @@
       "isPinned": false,
       "capturedAt": "2026-09-09T10:36:44Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097637616556392674",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097637616556392674",
+      "postedAt": "Wed Sep 09 10:45:54 +0000 2026",
+      "text": "AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED KINGDOM 🇬🇧\n\n$UBER WANTS TO RAISE ~€4 BILLION THROUGH ITS FIRST EUROPEAN 🇪🇺 BOND SALE",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 15,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 7394
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T10:56:31Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -18745,6 +18765,25 @@
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097637616556392674",
+      "rank": 1,
+      "title": "AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED…",
+      "benchmarkPostId": "2097637616556392674",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097637616556392674",
+      "score": 7964,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T10:56:34Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -27478,6 +27517,84 @@
       },
       "postizPostId": "cmttz097r01fgqk0ysbi6aega",
       "publishedAt": "2026-09-09T10:43:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-amazon-uber-debut-bonds",
+      "benchmarkPostId": "2097637616556392674",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097637616556392674",
+      "title": "Amazon and Uber launch debut regional bond sales",
+      "status": "ready",
+      "postText": "$AMZN launched its first sterling bond sale, targeting at least £3 billion.\n\n$UBER is seeking about €4 billion through its first euro-denominated bond offering.",
+      "mirroredFacts": [
+        "Amazon launched its first sterling bond sale and is targeting at least £3 billion.",
+        "Uber is seeking about €4 billion through its first euro-denominated bond offering."
+      ],
+      "verificationSources": [
+        "https://live.euronext.com/en/financial-news/amazon-starts-selling-first-sterling-bonds-lead-managers-say",
+        "https://ca.finance.yahoo.com/news/amazon-selling-first-sterling-bonds-080555095.html/",
+        "https://www.sec.gov/Archives/edgar/data/1543151/000155278126000469/e26355_uber-euro424b3.htm",
+        "https://hk.news.yahoo.com/uber%E9%A6%96%E6%AC%A1%E9%80%B2%E8%BB%8D%E6%AD%90%E5%85%83%E5%82%B5%E5%B8%82%E5%A0%B4-%E6%93%AC%E5%88%86%E4%BA%94%E9%83%A8%E5%88%86%E7%99%BC%E8%A1%8C%E5%82%B5%E5%88%B8-074813782.html",
+        "https://x.com/StockMKTNewz/status/2097637616556392674"
+      ],
+      "imagePath": "deliverables/pkg-20260909-amazon-uber-debut-bonds/when2buy-image-model.png",
+      "createdAt": "2026-09-09T11:00:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square premium financial-news visual about Amazon and Uber entering new regional bond markets: a modern fulfillment tower and sleek ride-hailing vehicle joined by bond certificates and European capital-flow arcs; near-black, white and restrained red; no text or logos; clean lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T11:00:00Z",
+          "checks": [
+            "square 1254x1254 image-model output inspected after logo composite",
+            "complete dual-entity logistics and mobility capital-markets scene",
+            "no readable generated copy, attribution, source handle or URL",
+            "premium near-black, white and restrained-red palette",
+            "not pure typography or generic radar imagery",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo or malformed dominant subjects"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260909-hsbc-sp500-8100",
+      "benchmarkPostId": "2097631348395479169",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097631348395479169",
+      "title": "HSBC lifts S&P 500 target to 8,100",
+      "status": "ready",
+      "postText": "HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650, citing stronger corporate earnings and sustained AI-infrastructure spending.",
+      "mirroredFacts": [
+        "HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650.",
+        "HSBC cited stronger corporate earnings and sustained AI-infrastructure spending."
+      ],
+      "verificationSources": [
+        "https://www.channelnewsasia.com/business/hsbc-lifts-sp-500s-year-end-target-8100-earnings-strength-6369936",
+        "https://www.kitco.com/news/off-the-wire/2026-09-08/hsbc-lifts-sp-500s-year-end-target-8100-earnings-strength",
+        "https://x.com/StockMKTNewz/status/2097631348395479169"
+      ],
+      "imagePath": "deliverables/pkg-20260909-hsbc-sp500-8100/when2buy-image-model.png",
+      "createdAt": "2026-09-09T11:00:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square premium financial-news visual about HSBC lifting its S&P 500 year-end target: a monumental global-bank headquarters and upward broad-market trajectory ending at a target marker; near-black, white and restrained red; no text or logos; clean lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T11:00:00Z",
+          "checks": [
+            "square 1254x1254 image-model output inspected after logo composite",
+            "complete bank-led index-strategy scene",
+            "no readable generated copy, attribution, source handle or URL",
+            "premium near-black, white and restrained-red palette",
+            "not pure typography or generic radar imagery",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo or malformed architecture"
+          ],
+          "result": "passed"
+        }
+      }
     }
   ],
   "posts": [
@@ -145781,6 +145898,55 @@
       "completedAt": "2026-09-09T10:44:31Z",
       "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260909T105631Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:56:31Z",
+      "completedAt": "2026-09-09T10:56:31Z",
+      "summary": "Apify scanned both benchmark accounts; captured 19 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T105634Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:56:34Z",
+      "completedAt": "2026-09-09T10:56:34Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T110156Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:01:56Z",
+      "completedAt": "2026-09-09T11:01:56Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T110337Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:03:37Z",
+      "completedAt": "2026-09-09T11:03:37Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T110300Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T10:56:01Z",
+      "completedAt": "2026-09-09T11:03:00Z",
+      "summary": "Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; the first Postiz submission returned ERROR without a public X URL, so the serial batch stopped before the second submission.",
+      "reason": "Postiz delivery cmttzol6a01m0qk0y21ivx7ec returned ERROR with no release URL; no package was recorded as published and no retry was attempted."
     }
   ],
   "deliveryCircuitBreaker": {

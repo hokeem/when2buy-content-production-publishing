@@ -1,14 +1,51 @@
 {
-  "generatedAt": "2026-09-09T10:44:31Z",
+  "generatedAt": "2026-09-09T11:03:37Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2097637616556392674",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260909-amazon-uber-debut-bonds",
+      "packageStatus": "ready",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097637616556392674",
+      "originalText": "AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED KINGDOM 🇬🇧\n\n$UBER WANTS TO RAISE ~€4 BILLION THROUGH ITS FIRST EUROPEAN 🇪🇺 BOND SALE",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 15,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 7394
+      },
+      "postedAt": "Wed Sep 09 10:45:54 +0000 2026",
+      "score": 7964,
+      "heatScore": 7964,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 20,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 17.7,
+        "expiresAt": "2026-09-09T12:15:54Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
       "benchmarkPostId": "2097631348395479169",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260909-hsbc-sp500-8100",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097631348395479169",
       "originalText": "HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of 7,650",
       "originalMediaUrls": [],
@@ -34,7 +71,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 23.5,
+        "ageMinutes": 42.6,
         "expiresAt": "2026-09-09T11:51:00Z",
         "ttlMinutes": 90
       },
