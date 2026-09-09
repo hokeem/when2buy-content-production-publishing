@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T12:33:26.192025+00:00",
+  "updatedAt": "2026-09-09T12:35:48.050337+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -151292,6 +151292,28 @@
       "startedAt": "2026-09-09T12:25:55Z",
       "completedAt": "2026-09-09T12:34:00Z",
       "summary": "Collected both benchmark feeds through Apify, excluded promotional content, archived media, reconciled package statuses, rebuilt the freshness queue, and published its first two eligible items through Postiz with verified public X URLs.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T123545Z-radar",
+      "mode": "radar",
+      "status": "blocked",
+      "startedAt": "2026-09-09T12:35:45Z",
+      "completedAt": "2026-09-09T12:35:45Z",
+      "summary": "Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s).",
+      "reason": "Apify returned no eligible original posts from either benchmark account.",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T123548Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:35:48Z",
+      "completedAt": "2026-09-09T12:35:48Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
   ],

@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T12:33:26.192025+00:00`
+- 状态更新：`2026-09-09T12:35:48.050337+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**429**
 - 待选选题：**385**
@@ -2958,6 +2958,8 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 
 ## 最近运行
 
+- `2026-09-09T12:35:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:35:45Z` **radar / blocked** — Apify scanned both benchmark accounts; captured 0 eligible originals and added 0 new post(s). Apify returned no eligible original posts from either benchmark account.
 - `2026-09-09T12:25:55Z` **full / succeeded** — Collected both benchmark feeds through Apify, excluded promotional content, archived media, reconciled package statuses, rebuilt the freshness queue, and published its first two eligible items through Postiz with verified public X URLs.
 - `2026-09-09T12:32:53Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:32:27.009868+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2976,5 +2978,3 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 - `2026-09-09T12:08:10Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).
 - `2026-09-09T12:05:57Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T11:54:58.654778+00:00` **full / partial** — Apify collection, media archive, duplicate exclusion, freshness queue rebuild, validation, and reporting completed; publication was withheld before submission by the active 60-minute delivery circuit breaker. The Postiz delivery guard found a recent verified X release inside the 60-minute safety window; no API submission was attempted.
-- `2026-09-09T11:53:12Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-09T11:53:08.927340+00:00` **radar / succeeded** — Excluded one newly captured Brent-above-$100 duplicate from fresh production. The same event already has a verified public when2buy release.
