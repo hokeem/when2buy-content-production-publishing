@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T11:23:25.648796+00:00`
+- 状态更新：`2026-09-09T11:43:06.049018+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**424**
-- 待选选题：**380**
-- 待发布制作包：**4**
+- 对标帖子快照：**426**
+- 待选选题：**382**
+- 待发布制作包：**6**
 - 已验证发布：**174**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 11:25:33 +0000 2026 | FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS  At least a third of all Federal Reserve officials have said they would consider meeting less frequently to set interest rates - Bloomberg https://t.co/4OTapOa3kx | [X](https://x.com/StockMKTNewz/status/2097647592054075592) |
+| @WhaleInsider | Wed Sep 09 11:29:52 +0000 2026 | JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://t.co/7DHeHDHxWU | [X](https://x.com/WhaleInsider/status/2097648681054830622) |
 | @StockMKTNewz | Wed Sep 09 10:58:19 +0000 2026 | Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Finland 🇫🇮 over the next 2 years https://t.co/vmm84uXpva | [X](https://x.com/StockMKTNewz/status/2097640742176846317) |
 | @StockMKTNewz | Wed Sep 09 11:10:54 +0000 2026 | $LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Tennessee - Bloomberg https://t.co/TkiyUdiadK | [X](https://x.com/StockMKTNewz/status/2097643905885900979) |
 | @StockMKTNewz | Wed Sep 09 11:13:28 +0000 2026 | Meta Platforms $META stock is up by more than 5% in pre market trading   🟢🟢🟢🟢🟢 https://t.co/ZLXv0RqYK1 | [X](https://x.com/StockMKTNewz/status/2097644554820165827) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 19:59:11 +0000 2026 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to major players in China’s 🇨🇳 auto industry - Bloomberg https://t.co/kjVkItqUXI | [X](https://x.com/StockMKTNewz/status/2097414465733955650) |
 | @StockMKTNewz | Tue Sep 08 19:12:27 +0000 2026 | Meta Platforms $META just posted this:  “today we're rolling out Muse, our new personal ai assistant. Muse is always-on, wicked fast, can use a browser, connect to your apps, and is designed to be secure.” https://t.co/tZGkKgesKh | [X](https://x.com/StockMKTNewz/status/2097402706411278438) |
 | @WhaleInsider | Tue Sep 08 18:59:38 +0000 2026 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the escrow platform Xinbi Guarantee on the Tron network. https://t.co/GpzLtXPcZ3 | [X](https://x.com/WhaleInsider/status/2097399478881837141) |
-| @StockMKTNewz | Tue Sep 08 18:15:40 +0000 2026 | RAMP is reportedly in talks to raise money at a $60 Billion valuation | [X](https://x.com/StockMKTNewz/status/2097388417306829126) |
-| @WhaleInsider | Tue Sep 08 18:21:19 +0000 2026 | JUST IN: @MetaWin player turns $5 into over $15,000.  This comes after MetaWin announced they’re giving away another $1,000,000 to players this month.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/FDE8Uq98rG | [X](https://x.com/WhaleInsider/status/2097389837217132992) |
 
 ## 选题推荐
 
@@ -136,6 +136,7 @@
 | 1 | This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a… | StockMKTNewz | 4130 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED… | StockMKTNewz | 7964 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Meta Platforms $META stock is up by more than 5% in pre market trading 🟢🟢🟢🟢🟢 https://t.co/ZL… | StockMKTNewz | 5394 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://… | WhaleInsider | 14761 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -181,6 +182,7 @@
 | 2 | SpaceX $SPCX is back to being valued at more than $2 Trillion https://t.co/ZqTRiJxdYo | StockMKTNewz | 6394 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryp… | WhaleInsider | 11409 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | $LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Te… | StockMKTNewz | 6262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS At least a third o… | StockMKTNewz | 8268 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2739,6 +2741,20 @@ Meta $META is up more than 5% in premarket trading.
 
 $LYFT is starting robotaxi rides in Nashville using Waymo vehicles from Google $GOOGL.
 
+### Fidelity expects CLARITY Act delay
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-fidelity-clarity-act-september-15/when2buy-image-model.png`
+
+Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15.
+
+### Fed officials consider fewer policy meetings
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-fed-officials-fewer-policy-meetings/when2buy-image-model.png`
+
+At least one-third of Federal Reserve officials would consider meeting less often to set interest rates.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2921,6 +2937,12 @@ $LYFT is starting robotaxi rides in Nashville using Waymo vehicles from Google $
 
 ## 最近运行
 
+- `2026-09-09T11:35:59Z` **full / partial** — Synchronized origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable package statuses; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; content validation passed; publication was withheld by the active X delivery circuit breaker. Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; the active circuit breaker expires at 2026-09-09T12:02:00Z, so no new submission or backlog retry was made.
+- `2026-09-09T11:41:08Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T11:41:05.939189+00:00` **produce / succeeded** — Produced the first two newly rebuilt fresh queue items with image-model visuals and exact-logo compositing.
+- `2026-09-09T11:36:41Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T11:36:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).
+- `2026-09-09T11:35:59Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T11:23:25Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; publication was withheld by the active X delivery circuit breaker. Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made.
 - `2026-09-09T11:21:26Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T11:21:23.427807Z` **produce / succeeded** — Produced the first two current fresh-queue packages with image-model visuals and exact-logo compositing.
@@ -2935,9 +2957,3 @@ $LYFT is starting robotaxi rides in Nashville using Waymo vehicles from Google $
 - `2026-09-09T10:44:03.037007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T10:41:58.069422+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T10:40:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:36:48Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:36:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
-- `2026-09-09T10:36:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:15:45Z` **full / succeeded** — Fetched and matched origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable publication status; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; validated and published both serially through Postiz with verified public X URLs; rebuilt an empty post-publication queue; refreshed reporting.
-- `2026-09-09T10:24:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:24:28.237607+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

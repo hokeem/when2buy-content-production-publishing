@@ -1,10 +1,106 @@
 {
-  "generatedAt": "2026-09-09T11:21:26Z",
+  "generatedAt": "2026-09-09T11:41:08Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2097648681054830622",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260909-fidelity-clarity-act-september-15",
+      "packageStatus": "ready",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097648681054830622",
+      "originalText": "JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://t.co/7DHeHDHxWU",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRxYWstaYAAJ6hH.jpg",
+        "https://pbs.twimg.com/media/HRxYWsTXoAATyOx.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxYWstaYAAJ6hH.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097648681054830622-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxYWsTXoAATyOx.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097648681054830622-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 20,
+        "reposts": 9,
+        "quotes": 1,
+        "views": 12711
+      },
+      "postedAt": "Wed Sep 09 11:29:52 +0000 2026",
+      "score": 14761,
+      "heatScore": 14761,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 11.3,
+        "expiresAt": "2026-09-09T12:59:52Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2097647592054075592",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260909-fed-officials-fewer-policy-meetings",
+      "packageStatus": "ready",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097647592054075592",
+      "originalText": "FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS\n\nAt least a third of all Federal Reserve officials have said they would consider meeting less frequently to set interest rates - Bloomberg https://t.co/4OTapOa3kx",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRxXR6baQAE035K.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxXR6baQAE035K.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097647592054075592-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 17,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7718
+      },
+      "postedAt": "Wed Sep 09 11:25:33 +0000 2026",
+      "score": 8268,
+      "heatScore": 8268,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 15.6,
+        "expiresAt": "2026-09-09T12:55:33Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
       "benchmarkPostId": "2097644554820165827",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260909-meta-up-five-percent-premarket",
@@ -42,14 +138,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 8.0,
+        "ageMinutes": 27.7,
         "expiresAt": "2026-09-09T12:43:28Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 4,
       "benchmarkPostId": "2097643905885900979",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260909-lyft-waymo-robotaxis-nashville",
@@ -87,14 +183,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 10.5,
+        "ageMinutes": 30.2,
         "expiresAt": "2026-09-09T12:40:54Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2097640742176846317",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -132,14 +228,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 23.1,
+        "ageMinutes": 42.8,
         "expiresAt": "2026-09-09T12:28:19Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2097637616556392674",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260909-amazon-uber-debut-bonds",
@@ -169,14 +265,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 35.5,
+        "ageMinutes": 55.2,
         "expiresAt": "2026-09-09T12:15:54Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 7,
       "benchmarkPostId": "2097631348395479169",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260909-hsbc-sp500-8100",
@@ -206,7 +302,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 60.4,
+        "ageMinutes": 80.1,
         "expiresAt": "2026-09-09T11:51:00Z",
         "ttlMinutes": 90
       },

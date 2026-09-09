@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:23:25.648796+00:00",
+  "updatedAt": "2026-09-09T11:43:06.049018+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11705,6 +11705,68 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097648681054830622",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097648681054830622",
+      "postedAt": "Wed Sep 09 11:29:52 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://t.co/7DHeHDHxWU",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxYWstaYAAJ6hH.jpg",
+        "https://pbs.twimg.com/media/HRxYWsTXoAATyOx.jpg"
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 20,
+        "reposts": 9,
+        "quotes": 1,
+        "views": 12711
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T11:36:37Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxYWstaYAAJ6hH.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097648681054830622-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxYWsTXoAATyOx.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097648681054830622-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097647592054075592",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097647592054075592",
+      "postedAt": "Wed Sep 09 11:25:33 +0000 2026",
+      "text": "FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS\n\nAt least a third of all Federal Reserve officials have said they would consider meeting less frequently to set interest rates - Bloomberg https://t.co/4OTapOa3kx",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxXR6baQAE035K.jpg"
+      ],
+      "engagement": {
+        "likes": 17,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7718
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T11:36:37Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxXR6baQAE035K.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097647592054075592-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -18925,6 +18987,44 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097648681054830622",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://…",
+      "benchmarkPostId": "2097648681054830622",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097648681054830622",
+      "score": 14761,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T11:36:41Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097647592054075592",
+      "rank": 2,
+      "title": "FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS At least a third o…",
+      "benchmarkPostId": "2097647592054075592",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097647592054075592",
+      "score": 8268,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T11:36:41Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -27785,6 +27885,55 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Square entity-led model output inspected; visible headline spelling and numbers passed; exact repository logo composited once with clear space."
+      }
+    },
+    {
+      "id": "pkg-20260909-fidelity-clarity-act-september-15",
+      "benchmarkPostId": "2097648681054830622",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097648681054830622",
+      "title": "Fidelity expects CLARITY Act delay",
+      "status": "ready",
+      "postText": "Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15.",
+      "mirroredFacts": [
+        "Fidelity does not expect the crypto CLARITY Act to advance on September 15."
+      ],
+      "verificationSources": [
+        "https://www.fidelity.com/news/article/company-news/202608101055RTRSNEWSCOMBINED_KBN3U119I-OUSBS_1",
+        "https://x.com/WhaleInsider/status/2097648681054830622"
+      ],
+      "imagePath": "deliverables/pkg-20260909-fidelity-clarity-act-september-15/when2buy-image-model.png",
+      "createdAt": "2026-09-09T11:41:04.658671+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square premium entity-led editorial visual about Fidelity expecting the U.S. crypto CLARITY Act not to advance on September 15. U.S. Capitol corridor, institutional digital-asset environment, paused calendar; near-black, white and restrained red. Exact text: CLARITY ACT; SEPT. 15. Complete 1:1 scene with lower-right logo-safe area; no source, attribution, disclaimer, CTA or watermark.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaNotes": "Square entity-led model output inspected; visible wording and date passed; exact repository logo composited once with clear space."
+      }
+    },
+    {
+      "id": "pkg-20260909-fed-officials-fewer-policy-meetings",
+      "benchmarkPostId": "2097647592054075592",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097647592054075592",
+      "title": "Fed officials consider fewer policy meetings",
+      "status": "ready",
+      "postText": "At least one-third of Federal Reserve officials would consider meeting less often to set interest rates.",
+      "mirroredFacts": [
+        "At least one-third of Federal Reserve officials said they would consider meeting less frequently to set interest rates.",
+        "The discussion follows Chair Kevin Warsh's proposal to reduce the number of policy meetings."
+      ],
+      "verificationSources": [
+        "https://news.bloomberglaw.com/banking-law/warsh-raises-rethink-on-feds-policy-meeting-frequency-timing",
+        "https://x.com/StockMKTNewz/status/2097647592054075592"
+      ],
+      "imagePath": "deliverables/pkg-20260909-fed-officials-fewer-policy-meetings/when2buy-image-model.png",
+      "createdAt": "2026-09-09T11:41:05.939093+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square premium entity-led editorial visual about Federal Reserve officials considering fewer interest-rate policy meetings. Federal Reserve building and boardroom calendar, near-black, white and restrained red. Exact text: FEWER FED MEETINGS. Complete 1:1 scene with lower-right logo-safe area; no source, attribution, disclaimer, CTA or watermark.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaNotes": "Square entity-led model output inspected; visible wording and date passed; exact repository logo composited once with clear space."
       }
     }
   ],
@@ -146187,6 +146336,69 @@
       "completedAt": "2026-09-09T11:23:25Z",
       "summary": "Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; publication was withheld by the active X delivery circuit breaker.",
       "reason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made.",
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-09T12:02:00Z",
+        "deliveryReason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made."
+      }
+    },
+    {
+      "id": "run-20260909T113559Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:35:59Z",
+      "completedAt": "2026-09-09T11:35:59Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T113637Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:36:37Z",
+      "completedAt": "2026-09-09T11:36:37Z",
+      "summary": "Apify scanned both benchmark accounts; captured 36 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T113641Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:36:41Z",
+      "completedAt": "2026-09-09T11:36:41Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T114105Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:41:05.939189+00:00",
+      "completedAt": "2026-09-09T11:41:05.939191+00:00",
+      "summary": "Produced the first two newly rebuilt fresh queue items with image-model visuals and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T114108Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:41:08Z",
+      "completedAt": "2026-09-09T11:41:08Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T114306Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T11:35:59Z",
+      "completedAt": "2026-09-09T11:43:06.047713+00:00",
+      "summary": "Synchronized origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable package statuses; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; content validation passed; publication was withheld by the active X delivery circuit breaker.",
+      "reason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; the active circuit breaker expires at 2026-09-09T12:02:00Z, so no new submission or backlog retry was made.",
       "circuitBreaker": {
         "active": true,
         "expiresAt": "2026-09-09T12:02:00Z",
