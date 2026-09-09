@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T00:50:05.353852+00:00",
+  "updatedAt": "2026-09-09T01:10:04.681802+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11137,6 +11137,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097491285909151900",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097491285909151900",
+      "postedAt": "Wed Sep 09 01:04:26 +0000 2026",
+      "text": "In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% rate it as good or excellent - WSJ https://t.co/Qa2hSXvUyQ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRvJNBiXsAAnrh0.jpg"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 4373
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T01:06:42Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRvJNBiXsAAnrh0.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097491285909151900-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -17995,6 +18023,25 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097491285909151900",
+      "rank": 1,
+      "title": "In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% ra…",
+      "benchmarkPostId": "2097491285909151900",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097491285909151900",
+      "score": 4533,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T01:06:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -25815,6 +25862,42 @@
             "non-square",
             "damaged logo"
           ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260909-gallup-economy-rating",
+      "benchmarkPostId": "2097491285909151900",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097491285909151900",
+      "title": "Gallup economy rating deteriorates",
+      "status": "ready",
+      "postText": "45% of Americans now rate the economy as poor in Gallup's monthly survey.\n\nJust 19% rate it good or excellent.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Gallup's monthly survey found 45% of respondents rate the economy poor.",
+        "A combined 19% rate the economy good or excellent."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097491285909151900"
+      ],
+      "imagePath": "deliverables/pkg-20260909-gallup-economy-rating/when2buy-image-model.png",
+      "createdAt": "2026-09-09T01:10:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: premium 1:1 X financial-news visual for When2Buy. Primary request: original editorial visual for a monthly consumer economic sentiment survey showing widespread pessimism. Scene/backdrop: a sophisticated, believable near-black modern American household kitchen at dusk, subtle city lights through a window; no brands. Subject: a single adult American consumer viewed from behind at a dark table reviewing a printed survey sheet, framed beside a subtle physical bar-chart object with two unlabeled bars, one tall muted red bar and one short white bar; it must look like a real editorial scene, not a dashboard screenshot. Style/medium: cinematic high-end financial-news photography, premium realistic paper, glass and metal textures. Composition/framing: exact square 1:1; subject and survey left-center; reserve lower-right 20 percent as clean empty near-black space for later application of the supplied circular logo. Lighting/mood: concerned, sober, sharp white rim light, controlled restrained deep-red accent. Text: none. Constraints: no readable or pseudo-text, no numbers, no letters, no logos, no watermarks, no source names, no social handles, URLs, attribution, disclaimers, CTA, screens, generic radar graphics, pure typography card, damaged hands, malformed objects, or visible brand marks.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T01:10:00Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led consumer economic-sentiment scene",
+            "no readable generated text, attribution, source handle, URL, or disclaimer",
+            "premium near-black palette with restrained-red and white accent",
+            "not a pure-text card or generic radar graphic",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged logo, malformed hands, or misspelled visible text"
+          ],
+          "result": "passed"
         }
       }
     }
@@ -121732,6 +121815,61 @@
         "numericSnapshotsAppended": 0,
         "noObservation": 73,
         "completedTrackingWindows": 64
+      }
+    },
+    {
+      "id": "run-20260909T010642Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T01:06:42Z",
+      "completedAt": "2026-09-09T01:06:42Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T010645Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T01:06:45Z",
+      "completedAt": "2026-09-09T01:06:45Z",
+      "summary": "Prepared 74 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T010947Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T01:09:47Z",
+      "completedAt": "2026-09-09T01:09:47Z",
+      "summary": "Prepared 74 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T010500Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T01:05:00Z",
+      "completedAt": "2026-09-09T01:12:00Z",
+      "summary": "Apify collected both required benchmark feeds, archived the new source media, rebuilt the production queue newest-first, and produced one complete image-model package with exact-logo compositing and content validation. Publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010",
+      "deliveryCheck": {
+        "postizWindowMinutes": 60,
+        "result": "not queried: active circuit breaker until 2026-09-09T01:50:05Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-09T01:50:05Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010"
+      },
+      "delivery": {
+        "circuitBreakerActive": true,
+        "expiresAt": "2026-09-09T01:50:05Z",
+        "submissionAttempted": false,
+        "publicationResult": "deferred"
       }
     }
   ],

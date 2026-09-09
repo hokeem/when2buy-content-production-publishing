@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T00:50:05.353852+00:00`
+- 状态更新：`2026-09-09T01:10:04.681802+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**405**
-- 待选选题：**361**
-- 待发布制作包：**151**
+- 对标帖子快照：**406**
+- 待选选题：**362**
+- 待发布制作包：**152**
 - 已验证发布：**138**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 01:04:26 +0000 2026 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% rate it as good or excellent - WSJ https://t.co/Qa2hSXvUyQ | [X](https://x.com/StockMKTNewz/status/2097491285909151900) |
 | @StockMKTNewz | Tue Sep 08 22:13:15 +0000 2026 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | [X](https://x.com/StockMKTNewz/status/2097448206950928886) |
 | @WhaleInsider | Tue Sep 08 21:33:55 +0000 2026 | JUST IN: $MarsCat becomes the first ever AI coin on BNB Chain to distribute over over $100,000 in MarsCoin rewards to its holders. https://t.co/gjIwo9NbLf | [X](https://x.com/WhaleInsider/status/2097438308410241104) |
 | @StockMKTNewz | Tue Sep 08 21:37:29 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/fOMjncdIw5 | [X](https://x.com/StockMKTNewz/status/2097439204133273723) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Tue Sep 08 15:20:43 +0000 2026 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge as the chain’s native PENGUIN. 19% of the supply has been burned. https://t.co/43Pf0eDuGo | [X](https://x.com/WhaleInsider/status/2097344386354802890) |
 | @StockMKTNewz | Tue Sep 08 15:22:08 +0000 2026 | Lebron James is now working with Polymarket | [X](https://x.com/StockMKTNewz/status/2097344742673494213) |
 | @StockMKTNewz | Tue Sep 08 14:54:59 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/JWNTkIR8Ec | [X](https://x.com/StockMKTNewz/status/2097337913184768120) |
-| @StockMKTNewz | Tue Sep 08 15:00:52 +0000 2026 | $AMD stock is now up by more than 5% and back over $500  🟢🟢🟢🟢🟢 https://t.co/WU64anWiGl | [X](https://x.com/StockMKTNewz/status/2097339391756718541) |
 
 ## 选题推荐
 
@@ -123,6 +123,7 @@
 | 1 | LIV GOLF FILES FOR CHAPTER 11 BANKRUPTCY | StockMKTNewz | 7296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $MarsCat becomes the first ever AI coin on BNB Chain to distribute over over $100,0… | WhaleInsider | 15029 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | StockMKTNewz | 11497 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% ra… | StockMKTNewz | 4533 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2594,6 +2595,13 @@ A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your 
 
 Nike $NKE hit fresh decade-plus lows again today.  When2Buy — your U.S. stock partner.
 
+### Gallup economy rating deteriorates
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-gallup-economy-rating/when2buy-image-model.png`
+
+45% of Americans now rate the economy as poor in Gallup's monthly survey.  Just 19% rate it good or excellent.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2740,6 +2748,10 @@ Nike $NKE hit fresh decade-plus lows again today.  When2Buy — your U.S. stock 
 
 ## 最近运行
 
+- `2026-09-09T01:05:00Z` **full / partial** — Apify collected both required benchmark feeds, archived the new source media, rebuilt the production queue newest-first, and produced one complete image-model package with exact-logo compositing and content validation. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
+- `2026-09-09T01:09:47Z` **queue / succeeded** — Prepared 74 one-to-one production candidate(s).
+- `2026-09-09T01:06:45Z` **queue / succeeded** — Prepared 74 one-to-one production candidate(s).
+- `2026-09-09T01:06:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-09T00:50:05Z` **full / partial** — Apify collected both required benchmark feeds, media archive completed, the production queue was rebuilt newest-first, and the :45 72-hour metrics pass completed without all-null snapshots. No new eligible benchmark posts required package production; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-09T00:46:59Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-09T00:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -2756,7 +2768,3 @@ Nike $NKE hit fresh decade-plus lows again today.  When2Buy — your U.S. stock 
 - `2026-09-08T23:46:41Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-08T23:46:14Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
 - `2026-09-08T23:46:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-08T23:25:21Z` **full / partial** — Apify collection, media archive, and timestamp-first queue rebuild completed; no new eligible source posts required production and publication was withheld by the active delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
-- `2026-09-08T23:27:16Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
-- `2026-09-08T23:27:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-08T23:26:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
