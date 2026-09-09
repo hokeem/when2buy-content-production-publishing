@@ -1,47 +1,137 @@
 {
-  "generatedAt": "2026-09-09T14:51:26Z",
+  "generatedAt": "2026-09-09T15:15:11Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2097696245359735104",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260909-europe-gas-above-80",
+      "benchmarkPostId": "2097703654966886534",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260909-penpe-robinhood-chain-launch",
       "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097696245359735104",
-      "originalText": "EUROPE GAS PRICES RISE ABOVE €80 FOR FIRST TIME SINCE 2023 - Bloomberg",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097703654966886534",
+      "originalText": "JUST IN: $PENPE, the self-proclaimed “father of PEPE,” is set to launch on Robinhood Chain tomorrow at 3 PM UTC via fair launch. https://t.co/YME6rJSEPF",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRyKWv7WUAAKJM4.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyKWv7WUAAKJM4.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097703654966886534-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
-        "likes": 19,
-        "replies": 6,
-        "reposts": 2,
-        "quotes": 2,
-        "views": 8489
+        "likes": 9,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 9068
       },
-      "postedAt": "Wed Sep 09 14:38:52 +0000 2026",
-      "score": 9329,
-      "heatScore": 9329,
+      "postedAt": "Wed Sep 09 15:08:19 +0000 2026",
+      "score": 9858,
+      "heatScore": 9858,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
+        "when2buyFit": 1,
+        "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 18,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 12.6,
-        "expiresAt": "2026-09-09T16:08:52Z",
+        "ageMinutes": 6.9,
+        "expiresAt": "2026-09-09T16:38:19Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
       "rank": 2,
+      "benchmarkPostId": "2097702636287881694",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260909-treasury-6b-long-debt-buyback",
+      "packageStatus": "ready",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097702636287881694",
+      "originalText": "THE 🇺🇸 TREASURY DEPARTMENT PLANS TO BUY BACK UP TO $6B IN LONGER-DATED DEBT TOMORROW UP FROM THE PREVIOUS $4B OF BUY BACKS",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 34,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 2981
+      },
+      "postedAt": "Wed Sep 09 15:04:16 +0000 2026",
+      "score": 4391,
+      "heatScore": 4391,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 10.9,
+        "expiresAt": "2026-09-09T16:34:16Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2097699385257685314",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097699385257685314",
+      "originalText": "This is what $11.5 Million gets you in Utah\n\nA house almost the size of the White House https://t.co/zcZn3mlSBk",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRyGZ5ObsAAWuZC.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyGZ5ObsAAWuZC.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097699385257685314-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 51,
+        "replies": 11,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 17851
+      },
+      "postedAt": "Wed Sep 09 14:51:21 +0000 2026",
+      "score": 19411,
+      "heatScore": 19411,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 23.8,
+        "expiresAt": "2026-09-09T16:21:21Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
       "benchmarkPostId": "2097695004827279430",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260909-burry-reduces-nvda-crwv-shorts",
@@ -79,7 +169,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 17.5,
+        "ageMinutes": 41.2,
         "expiresAt": "2026-09-09T16:03:57Z",
         "ttlMinutes": 90
       },
