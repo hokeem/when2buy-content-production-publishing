@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T14:22:35.999937+00:00`
+- 状态更新：`2026-09-09T14:34:32.938159+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**435**
-- 待选选题：**391**
-- 待发布制作包：**1**
-- 已验证发布：**183**
+- 对标帖子快照：**436**
+- 待选选题：**392**
+- 待发布制作包：**0**
+- 已验证发布：**185**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 14:22:07 +0000 2026 | JUST IN: Robinhood Chain $HOOD leads tokenized equity volume at 40% market share. https://t.co/v9BQFebewa | [X](https://x.com/WhaleInsider/status/2097692027802513720) |
 | @WhaleInsider | Wed Sep 09 14:06:44 +0000 2026 | JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equivalent to $160,000 at all time high. https://t.co/TdY13eZjT1 | [X](https://x.com/WhaleInsider/status/2097688157370126338) |
 | @StockMKTNewz | Wed Sep 09 13:54:59 +0000 2026 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINNISH 🇫🇮 PLANT RUNNING TO 2050  Google agreed to buy up to 50% of the capacity from Fortum's Loviisa nuclear plant in Finland, guaranteeing it stays online through the end of its operating license in 2050.  The deal unlocks roughly $1.16 billion in investment Fortum needs to keep the plant running, decisions that would otherwise have been made year by year.  It's part of the broader $15.1 billion Google plan for AI infrastructure investment in Finland - Bloomberg | [X](https://x.com/StockMKTNewz/status/2097685199102316847) |
 | @StockMKTNewz | Wed Sep 09 13:28:17 +0000 2026 | Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ   "Alif’s microcontrollers and fusion processors enable real-time sensor fusion, low-latency inference and on-device AI, bringing advanced intelligence to demanding physical systems" https://t.co/5uQFbmoYDx | [X](https://x.com/StockMKTNewz/status/2097678479634395160) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Wed Sep 09 06:12:37 +0000 2026 | JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6 | [X](https://x.com/WhaleInsider/status/2097568840863428737) |
 | @WhaleInsider | Wed Sep 09 05:46:12 +0000 2026 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | [X](https://x.com/WhaleInsider/status/2097562195114520817) |
 | @StockMKTNewz | Wed Sep 09 01:07:56 +0000 2026 | WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW | [X](https://x.com/StockMKTNewz/status/2097492167849631928) |
-| @StockMKTNewz | Wed Sep 09 01:04:26 +0000 2026 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% rate it as good or excellent - WSJ https://t.co/Qa2hSXvUyQ | [X](https://x.com/StockMKTNewz/status/2097491285909151900) |
 
 ## 选题推荐
 
@@ -144,6 +144,7 @@
 | 1 | The 🇺🇸 stock market just opened trading today Red 🔴🔴🔴🔴 https://t.co/Q0VYOw467M | StockMKTNewz | 7519 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINN… | StockMKTNewz | 5026 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equival… | WhaleInsider | 17960 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Robinhood Chain $HOOD leads tokenized equity volume at 40% market share. https://t.… | WhaleInsider | 13460 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2801,7 +2802,7 @@ U.S. stocks opened lower today.
 
 ### Analog Devices to acquire Alif for $1.35B
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260909-adi-acquires-alif-1-35b/when2buy-image-model.png`
 
 $ADI agreed to acquire Alif Semiconductor for $1.35B in cash.  Alif's chips handle real-time sensor fusion, low-latency inference and on-device AI.
@@ -2819,6 +2820,13 @@ $GOOGL agreed to buy up to 50% of the power from Fortum's Loviisa nuclear plant 
 - 配图：`deliverables/pkg-20260909-penguin-200m-token-burn/when2buy-image-model.png`
 
 The team behind $PENGUIN on Robinhood Chain burned 200M tokens, valued at $160,000 at the all-time high.
+
+### Robinhood Chain leads tokenized equity volume
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-robinhood-chain-40-percent-tokenized-equity/when2buy-image-model.png`
+
+Robinhood Chain $HOOD leads tokenized equity volume with 40% market share.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3008,9 +3016,21 @@ The team behind $PENGUIN on Robinhood Chain burned 200M tokens, valued at $160,0
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Google secures Loviisa nuclear power through 2050 | 2026-09-09T14:00:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097687737923178946) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097691839725961267) |
+| Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097694447798722955) |
+| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097694968186024281) |
 
 ## 最近运行
 
+- `2026-09-09T14:34:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:26:06Z` **full / succeeded** — Apify collection, benchmark media archive, verified-status reconciliation, freshness queue rebuild, newest image-model package production, content validation, and two serial Postiz publications with verified public X URLs completed.
+- `2026-09-09T14:33:54.060176+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T14:31:50.125554+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T14:30:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:30:23.226775+00:00` **produce / succeeded** — Produced the newest fresh Robinhood Chain market-share package with an inspected image-model visual and one exact-logo composite.
+- `2026-09-09T14:27:04Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:26:52Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:26:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
+- `2026-09-09T14:26:09Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T14:22:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T14:15:32Z` **full / succeeded** — Apify collection, media archive, status reconciliation, fresh-queue rebuild, newest image-model package production, one expired-breaker recovery probe, verified X publication, validation, and reporting completed. The second fresh queue item was intentionally not submitted because breaker recovery permits exactly one newest-fresh-package probe.
 - `2026-09-09T14:21:24.829343+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -3021,13 +3041,3 @@ The team behind $PENGUIN on Robinhood Chain burned 200M tokens, valued at $160,0
 - `2026-09-09T14:16:55Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T14:16:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-09T14:15:47Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:03:59Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:55:51Z` **full / partial** — Captured and produced the newest fresh item; Postiz accepted the first submission but no public X URL was available within the verification window, so the second item was not submitted. Pending Postiz delivery cmtu61lhl01s4lm0ylegpgg9m requires reconciliation before any retry.
-- `2026-09-09T14:02:23Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:00:05Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:57:16Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:57:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 0 new post(s).
-- `2026-09-09T13:56:36Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:56:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 1 new post(s).
-- `2026-09-09T13:55:51Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:43:46Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
