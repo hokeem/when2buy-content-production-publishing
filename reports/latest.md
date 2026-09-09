@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T23:37:33.015729+00:00`
+- 状态更新：`2026-09-09T23:52:45.021878+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**476**
-- 待选选题：**423**
+- 对标帖子快照：**477**
+- 待选选题：**424**
 - 待发布制作包：**0**
-- 已验证发布：**198**
+- 已验证发布：**199**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 23:46:15 +0000 2026 | ZYN IS EXPANDING ITS LINEUP  Philip Morris $PM owned Zyn announced today it will begin selling its flagship Zyn dry pouches in 1.5mg and 8mg strengths, adding to existing offerings at 3mg and 6mg  It is also launching Zyn Ultra, a pouch with a higher moisture content than the flagship product, at 9mg and 11mg.  Philip Morris also said that it will transition to having 20 pouches per can for its 3mg and 6mg products during Q4, up from the 15 pouches in a typical can - WSJ | [X](https://x.com/StockMKTNewz/status/2097833995828338937) |
 | @StockMKTNewz | Wed Sep 09 23:00:17 +0000 2026 | The future of trading https://t.co/ERAAAlafWK | [X](https://x.com/StockMKTNewz/status/2097822431306027059) |
 | @StockMKTNewz | Wed Sep 09 22:18:43 +0000 2026 | 2026: the first foldable iPhone | [X](https://x.com/StockMKTNewz/status/2097811968245596582) |
 | @StockMKTNewz | Wed Sep 09 21:44:09 +0000 2026 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸 Air Force for the  "Joint Air-to-Surface Standoff Missile and Long Range Anti-Ship Missile Large Lot procurement." https://t.co/wnixi8e7mg | [X](https://x.com/StockMKTNewz/status/2097803271696011418) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 18:13:23 +0000 2026 | APPLE $AAPL JUST SAID THE NEW FOLDABLE IPHONE DUO WILL HAVE UP TO 44 HOURS OF BATTERY LIFE WHEN USING THE OUTER DISPLAY | [X](https://x.com/StockMKTNewz/status/2097750228489134288) |
 | @StockMKTNewz | Wed Sep 09 18:14:36 +0000 2026 | Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the phone  https://t.co/UgPsnie3AO | [X](https://x.com/StockMKTNewz/status/2097750534165852336) |
 | @StockMKTNewz | Wed Sep 09 18:16:24 +0000 2026 | Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 and will be available on October 23rd https://t.co/lTUqiqJjnd | [X](https://x.com/StockMKTNewz/status/2097750987905597571) |
-| @StockMKTNewz | Wed Sep 09 18:18:41 +0000 2026 | Here are the 4 new products Apple $AAPL announced today  - New iPhone 18 Pro and Pro Max - Updated Airpods - Updated Apple Watch - First foldable Phone the iPhone Duo https://t.co/qitxoMrAAv | [X](https://x.com/StockMKTNewz/status/2097751561380180420) |
 
 ## 选题推荐
 
@@ -158,6 +158,7 @@
 | 1 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸… | StockMKTNewz | 4650 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 2026: the first foldable iPhone | StockMKTNewz | 9116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The future of trading https://t.co/ERAAAlafWK | StockMKTNewz | 9441 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | ZYN IS EXPANDING ITS LINEUP Philip Morris $PM owned Zyn announced today it will begin sellin… | StockMKTNewz | 2421 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2971,6 +2972,13 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 
 A foldable dual-screen setup puts video up top and a market chart below.
 
+### ZYN expands strengths and moves flagship cans to 20 pouches
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-zyn-strengths-20-pouch-cans/when2buy-image-model.png`
+
+$PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9mg and 11mg.  Its 3mg and 6mg cans will move from 15 to 20 pouches in Q4.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3174,9 +3182,18 @@ A foldable dual-screen setup puts video up top and a market chart below.
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097825543597256803) |
+| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097835292837462250) |
 
 ## 最近运行
 
+- `2026-09-09T23:45:49Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status reconciliation, hard-TTL queue rebuild, one image-model package, and one serial verified X publication completed.
+- `2026-09-09T23:52:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T23:51:26.648020+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T23:50:27Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T23:50:23.164674+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
+- `2026-09-09T23:46:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T23:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
+- `2026-09-09T23:45:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:35:53Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-09T23:36:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:36:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -3189,11 +3206,3 @@ A foldable dual-screen setup puts video up top and a market chart below.
 - `2026-09-09T23:17:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:17:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-09T23:16:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:13:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:05:49Z` **full / succeeded** — Hourly public metrics, Apify collection from both benchmark accounts, media archive, package-status and publication reconciliation, hard-TTL queue rebuild, image-model production, and one verified X publication completed.
-- `2026-09-09T23:12:43.737616+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T23:11:08.904623+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
-- `2026-09-09T23:11:08Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:10:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-09T23:05:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T22:57:11Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.

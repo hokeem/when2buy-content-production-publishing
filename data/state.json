@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T23:37:33.015729+00:00",
+  "updatedAt": "2026-09-09T23:52:45.021878+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13103,6 +13103,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097833995828338937",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097833995828338937",
+      "postedAt": "Wed Sep 09 23:46:15 +0000 2026",
+      "text": "ZYN IS EXPANDING ITS LINEUP\n\nPhilip Morris $PM owned Zyn announced today it will begin selling its flagship Zyn dry pouches in 1.5mg and 8mg strengths, adding to existing offerings at 3mg and 6mg\n\nIt is also launching Zyn Ultra, a pouch with a higher moisture content than the flagship product, at 9mg and 11mg.\n\nPhilip Morris also said that it will transition to having 20 pouches per can for its 3mg and 6mg products during Q4, up from the 15 pouches in a typical can - WSJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR0A3LCXoAkDm6O.jpg"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 2421
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T23:46:48Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR0A3LCXoAkDm6O.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097833995828338937-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -21141,6 +21169,25 @@
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2097833995828338937",
+      "rank": 1,
+      "title": "ZYN IS EXPANDING ITS LINEUP Philip Morris $PM owned Zyn announced today it will begin sellin…",
+      "benchmarkPostId": "2097833995828338937",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097833995828338937",
+      "score": 2421,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T23:46:52Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
       }
     }
   ],
@@ -31041,6 +31088,47 @@
       },
       "postizPostId": "cmtupqxy006jkqk0yzpehbrl9",
       "publishedAt": "2026-09-09T23:12:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-zyn-strengths-20-pouch-cans",
+      "benchmarkPostId": "2097833995828338937",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097833995828338937",
+      "title": "ZYN expands strengths and moves flagship cans to 20 pouches",
+      "status": "published",
+      "postText": "$PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9mg and 11mg.\n\nIts 3mg and 6mg cans will move from 15 to 20 pouches in Q4.",
+      "mirroredFacts": [
+        "ZYN is adding 1.5mg and 8mg strengths to its flagship dry pouch lineup.",
+        "ZYN Ultra is launching in 9mg and 11mg strengths.",
+        "The 3mg and 6mg flagship cans will move from 15 to 20 pouches during Q4."
+      ],
+      "verificationSources": [
+        "https://www.pmi.com/investor-relations/press-releases-and-events/press-releases-overview/press-release-details?newsId=30351",
+        "https://www.pmi.com/media-center/press-releases/press-details?newsId=30166"
+      ],
+      "imagePath": "deliverables/pkg-20260909-zyn-strengths-20-pouch-cans/when2buy-image-model.png",
+      "createdAt": "2026-09-09T23:50:23.164674+00:00",
+      "sourceExpiresAt": "2026-09-10T01:16:15Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square 1:1 premium X financial-news visual for When2Buy\nPrimary request: Create a complete original entity-led editorial visual about Philip Morris-owned ZYN expanding its U.S. nicotine pouch lineup, emphasizing the new strength range and larger can count.\nScene/backdrop: premium near-black product-launch studio with subtle architectural depth and a restrained red glow.\nSubject: several sleek round nicotine-pouch cans with clean generic ZYN-inspired white packaging shapes, dimensional product hero arrangement, plus a few small white pouches; do not reproduce any trademark logo because the exact repository logo will be composited later.\nStyle/medium: cinematic photorealistic 3D financial-news campaign art, premium, sharp, high contrast.\nComposition/framing: exact square; product hero on right/center; bold concise headline on upper-left; clear lower-left logo-safe area.\nLighting/mood: dramatic white rim lighting, restrained red highlights, urgent product-expansion mood.\nColor palette: near-black, white, restrained red only.\nText (verbatim): \"ZYN EXPANDS\" and \"1.5mg → 11mg\" and \"20 POUCHES\"\nConstraints: spell all visible text exactly, including lowercase mg; no generated logo, no source, handle, URL, attribution, according to, reported by, Market radar, disclaimer, commentary paragraph, CTA, tagline, recommendation, watermark, nicotine-use scene, person, smoke, or unrelated marks. Do not create a pure-text card or generic radar graphic. Leave lower-left clear for the exact repository When2Buy logo to be added once later.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T23:50:23.164674+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led nicotine-pouch product scene",
+            "exact ZYN EXPANDS, 1.5mg to 11mg, and 20 POUCHES text",
+            "premium near-black, white, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtur4ter0891lm0y5vfl0nlr",
+      "publishedAt": "2026-09-09T23:50:00.000Z"
     }
   ],
   "posts": [
@@ -34581,6 +34669,23 @@
         "status": "active",
         "windowStart": "2026-09-09T23:12:00.000Z",
         "windowEnd": "2026-09-12T23:12:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097835292837462250",
+      "packageId": "pkg-20260909-zyn-strengths-20-pouch-cans",
+      "title": "ZYN expands strengths and moves flagship cans to 20 pouches",
+      "status": "published",
+      "publishedAt": "2026-09-09T23:50:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097835292837462250",
+      "postizPostId": "cmtur4ter0891lm0y5vfl0nlr",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T23:50:00.000Z",
+        "windowEnd": "2026-09-12T23:50:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -186124,6 +186229,82 @@
       "startedAt": "2026-09-09T23:35:53Z",
       "completedAt": "2026-09-09T23:37:17Z",
       "summary": "Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T234559Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T23:45:59Z",
+      "completedAt": "2026-09-09T23:45:59Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T234648Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T23:46:48Z",
+      "completedAt": "2026-09-09T23:46:48Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T234652Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T23:46:52Z",
+      "completedAt": "2026-09-09T23:46:52Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T235023Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T23:50:23.164674+00:00",
+      "completedAt": "2026-09-09T23:50:23.164674+00:00",
+      "summary": "Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T235027Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T23:50:27Z",
+      "completedAt": "2026-09-09T23:50:27Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T235126Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T23:51:26.648020+00:00",
+      "completedAt": "2026-09-09T23:51:26.648025+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T235244Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T23:52:44Z",
+      "completedAt": "2026-09-09T23:52:44Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T235215Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T23:45:49Z",
+      "completedAt": "2026-09-09T23:52:15Z",
+      "summary": "Apify collection from both benchmark accounts, media archive, package-status reconciliation, hard-TTL queue rebuild, one image-model package, and one serial verified X publication completed.",
       "reason": ""
     }
   ],
