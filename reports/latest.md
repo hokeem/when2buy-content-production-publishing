@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T05:26:32.825044+00:00`
+- 状态更新：`2026-09-09T05:39:22.659091+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**407**
 - 待选选题：**363**
-- 待发布制作包：**149**
-- 已验证发布：**145**
+- 待发布制作包：**144**
+- 已验证发布：**150**
 
 ## 对标账号扫描
 
@@ -2570,35 +2570,35 @@ Ford $F is facing fresh U.S. scrutiny over its China business partnerships.  Tra
 
 ### Dell reaches a new 52-week high
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-dell-new-52-week-high/when2buy-image-model.png`
 
 $DELL just hit a new 52-week high.  When2Buy — your U.S. stock partner.
 
 ### LIV Golf files for Chapter 11
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-liv-golf-chapter-11/when2buy-image-model.png`
 
 LIV Golf has filed for Chapter 11 bankruptcy.  When2Buy — your U.S. stock partner.
 
 ### $7.2M Greek luxury property
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-greece-luxury-property/when2buy-image-model.png`
 
 A $7.2M Greek property puts Aegean cliffside luxury in view.  When2Buy — your U.S. stock partner.
 
 ### Nike $NKE reaches fresh decade-plus lows
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-nike-nke-decade-lows/when2buy-image-model.png`
 
 Nike $NKE hit fresh decade-plus lows again today.  When2Buy — your U.S. stock partner.
 
 ### Gallup economy rating deteriorates
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260909-gallup-economy-rating/when2buy-image-model.png`
 
 45% of Americans now rate the economy as poor in Gallup's monthly survey.  Just 19% rate it good or excellent.  When2Buy — your U.S. stock partner.
@@ -2760,9 +2760,22 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
+| Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097558293493563872) |
+| $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097559321148362873) |
+| Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097559818341110052) |
+| Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097560322815176821) |
 
 ## 最近运行
 
+- `2026-09-09T05:28:00Z` **full / succeeded** — Apify collection, media archive, newest-first queue rebuild, Postiz reconciliation, and five serial public X deliveries completed.
+- `2026-09-09T05:38:49.585156+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:36:47.818066+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:34:49.868194+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:32:51.572045+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:30:43.577681+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T05:29:41Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
+- `2026-09-09T05:29:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
 - `2026-09-09T05:26:32.823224+00:00` **publish / succeeded** — Cleared the stale HTTP 403/1010 circuit breaker after a healthy Postiz check and verified X publication.
 - `2026-09-09T05:21:02Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-09T05:22:17Z` **queue / succeeded** — Prepared 70 one-to-one production candidate(s).
@@ -2775,11 +2788,3 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 - `2026-09-09T04:28:49Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, :45 Postiz-first metrics pass, validation, and reporting completed; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-09T04:27:04Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
 - `2026-09-09T04:27:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-09T04:26:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-09T04:05:31Z` **full / partial** — Apify collected both required benchmark feeds, archived available media, rebuilt the newest-first queue, and retained all ready packages. No new eligible benchmark posts required production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-09T04:08:16Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
-- `2026-09-09T04:08:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 106 eligible originals and added 0 new post(s).
-- `2026-09-09T03:45:34Z` **full / partial** — Apify collected both required benchmark feeds, archived available media, rebuilt the newest-first queue, and refreshed eligible 72-hour metrics. Publication was withheld by the required Postiz delivery safety check; all ready packages remain queued. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
-- `2026-09-09T03:51:40Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
-- `2026-09-09T03:51:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 101 eligible originals and added 0 new post(s).
-- `2026-09-09T03:29:00Z` **full / partial** — Apify collected both required benchmark feeds, archived available media, rebuilt the newest-first queue, and retained all ready packages. No new eligible benchmark posts required production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
