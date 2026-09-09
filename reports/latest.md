@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T21:51:27.889192+00:00`
+- 状态更新：`2026-09-09T21:56:40.743606+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**474**
 - 待选选题：**421**
@@ -3159,6 +3159,8 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 
 ## 最近运行
 
+- `2026-09-09T21:56:40Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T21:56:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-09T21:51:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T21:50:43.472619+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T21:49:45Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3177,5 +3179,3 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 - `2026-09-09T21:05:00Z` **full / succeeded** — Hourly metrics, Apify collection, media archive, status reconciliation, fresh-queue rebuild, one image-model package, and one verified X publication completed.
 - `2026-09-09T21:13:35.589493+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T21:11:54.256511+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
-- `2026-09-09T21:08:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T21:08:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
