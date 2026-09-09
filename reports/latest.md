@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T09:42:23.301804+00:00`
+- 状态更新：`2026-09-09T09:47:08.201292+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**415**
 - 待选选题：**371**
@@ -2852,6 +2852,10 @@ Brent crude jumped above $100 a barrel after U.S. strikes on Iranian tankers int
 
 ## 最近运行
 
+- `2026-09-09T09:45:45Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; scanned both required Apify feeds and found no new eligible originals; reconciled immutable package statuses; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.
+- `2026-09-09T09:46:18Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T09:46:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-09T09:45:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T09:42:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T09:36:06Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; scanned both required Apify feeds; archived benchmark media; reconciled immutable package statuses; rebuilt the hard-TTL queue; produced and published the newest fresh Brent crude package with a verified public X URL; refreshed reporting.
 - `2026-09-09T09:41:00.144503+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2868,7 +2872,3 @@ Brent crude jumped above $100 a barrel after U.S. strikes on Iranian tankers int
 - `2026-09-09T09:14:12.002633+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T09:12:06.082566+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T09:10:41Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T09:10:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-09T09:06:47Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T08:57:00Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T08:47:10Z` **full / succeeded** — Synchronized origin/main, validated preflight and state, scanned both required Apify feeds with no newly discovered originals, archived media, rebuilt the freshness queue, produced and QA-checked the first two fresh queue visuals, reconciled Postiz, and published the single newest fresh recovery probe with a verified public X URL. The second fresh queue item was not submitted because recovery after an expired X-delivery circuit breaker permits exactly one newest-package probe.

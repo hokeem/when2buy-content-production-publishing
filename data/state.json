@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T09:42:23.301804+00:00",
+  "updatedAt": "2026-09-09T09:47:08.201292+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -140880,6 +140880,46 @@
       "startedAt": "2026-09-09T09:42:23Z",
       "completedAt": "2026-09-09T09:42:23Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T094547Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:45:47Z",
+      "completedAt": "2026-09-09T09:45:47Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T094616Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:46:16Z",
+      "completedAt": "2026-09-09T09:46:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T094618Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:46:18Z",
+      "completedAt": "2026-09-09T09:46:18Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T094708Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:45:45Z",
+      "completedAt": "2026-09-09T09:47:08Z",
+      "summary": "Synchronized origin/main; validated preflight and state; scanned both required Apify feeds and found no new eligible originals; reconciled immutable package statuses; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.",
       "reason": ""
     }
   ],
