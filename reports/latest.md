@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T20:58:37.587382+00:00`
+- 状态更新：`2026-09-09T21:15:01.014842+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**472**
-- 待选选题：**419**
+- 对标帖子快照：**473**
+- 待选选题：**420**
 - 待发布制作包：**0**
-- 已验证发布：**194**
+- 已验证发布：**195**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 21:02:21 +0000 2026 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomberg https://t.co/Wb153bsrEL | [X](https://x.com/StockMKTNewz/status/2097792751861440932) |
 | @StockMKTNewz | Wed Sep 09 20:54:05 +0000 2026 | Will you be getting the new foldable iPhone? | [X](https://x.com/StockMKTNewz/status/2097790671922872783) |
 | @StockMKTNewz | Wed Sep 09 20:38:12 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/SLTGZ57oNd | [X](https://x.com/StockMKTNewz/status/2097786675023778262) |
 | @StockMKTNewz | Wed Sep 09 20:24:27 +0000 2026 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K  Yes ... being priced at $1,999 does count as the iPhone Duo being $2K | [X](https://x.com/StockMKTNewz/status/2097783213863194739) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Wed Sep 09 18:19:12 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 billion this month. https://t.co/BJU6xEmh5R | [X](https://x.com/WhaleInsider/status/2097751693433680381) |
 | @StockMKTNewz | Wed Sep 09 18:24:45 +0000 2026 | Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word | [X](https://x.com/StockMKTNewz/status/2097753088132104409) |
 | @StockMKTNewz | Wed Sep 09 15:57:31 +0000 2026 | $META is the only stock out of the top 10 largest companies in the world that is moving higher today  🟢🔴🔴🔴🔴🔴🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2097716037126951139) |
-| @WhaleInsider | Wed Sep 09 15:13:34 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. https://t.co/lRz16If9ZE | [X](https://x.com/WhaleInsider/status/2097704978462671282) |
 
 ## 选题推荐
 
@@ -154,6 +154,7 @@
 | 1 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pas… | WhaleInsider | 16783 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K Yes ... being priced at $1,999 does coun… | StockMKTNewz | 7265 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Will you be getting the new foldable iPhone? | StockMKTNewz | 7262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomb… | StockMKTNewz | 8148 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2939,6 +2940,13 @@ Treasury Secretary Scott Bessent is strongly urging the Senate to pass the CLARI
 
 Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to open at roughly $2,000.
 
+### iPhone Duo reaches $3,199
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-iphone-duo-3199-top-configuration/when2buy-image-model.png`
+
+Apple's $AAPL foldable iPhone Duo costs $3,199 in its highest-end configuration.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2977,7 +2985,7 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 39 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 40 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
 | UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
@@ -2997,6 +3005,7 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” | 2026-09-07T00:42:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761201938375037) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
 | Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097785187346338125) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 25 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
@@ -3004,11 +3013,11 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
+| Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770249135530085) |
-| Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
 | IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097614505312506296) |
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
@@ -3048,6 +3057,7 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 | Brent crude climbs above $100 a barrel | 2026-09-09T09:40:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097621274306789488) |
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
+| Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -3136,11 +3146,17 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
-| Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097777745279537626) |
-| iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097785187346338125) |
+| iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097795555552567617) |
 
 ## 最近运行
 
+- `2026-09-09T21:15:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T21:05:00Z` **full / succeeded** — Hourly metrics, Apify collection, media archive, status reconciliation, fresh-queue rebuild, one image-model package, and one verified X publication completed.
+- `2026-09-09T21:13:35.589493+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T21:11:54.256511+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
+- `2026-09-09T21:08:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T21:08:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
+- `2026-09-09T21:05:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:55:51Z` **full / succeeded** — Completed Apify freshness scan, media archive, status reconciliation, TTL queue rebuild, semantic deduplication, and no-publish reporting workflow. No unique fresh queue items remained after excluding a duplicate of the already published iPhone Duo reveal.
 - `2026-09-09T20:57:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:57:46Z` **radar / succeeded** — Excluded one fresh semantic duplicate of the already published iPhone Duo reveal.
@@ -3154,10 +3170,3 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 - `2026-09-09T20:36:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 0 new post(s).
 - `2026-09-09T20:36:12Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:33:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:32:24.260694+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T20:30:45Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:30:40.574854Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
-- `2026-09-09T20:30:14.480178+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
-- `2026-09-09T20:27:31Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:27:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 13 eligible originals and added 1 new post(s).
-- `2026-09-09T20:19:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
