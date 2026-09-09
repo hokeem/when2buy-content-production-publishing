@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T08:32:25.508113+00:00`
+- 状态更新：`2026-09-09T08:44:45.243028+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**414**
 - 待选选题：**370**
-- 待发布制作包：**135**
+- 待发布制作包：**3**
 - 已验证发布：**166**
 
 ## 对标账号扫描
@@ -491,7 +491,7 @@ Market radar: @StockMKTNewz reports Uber and Wayve launched London robotaxi matc
 
 ### Victoria's Secret Q2: unverified 20% pre-market claim
 
-- 状态：`blocked`
+- 状态：`expired`
 - 配图：``
 
 
@@ -512,7 +512,7 @@ Market radar: @StockMKTNewz reports: Zoom $ZM just announced that Jeff Epstein h
 
 ### Broadcom $AVGO just said that it expects to bring in $230 Billion of revenue from AI semiconductors
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-broadcom-avgo-just-said-that-it-expects-to-bring-39182/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Broadcom $AVGO just said that it expects to bring in $230 Billion of r  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -526,21 +526,21 @@ Market radar: @StockMKTNewz reports: BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, 
 
 ### Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITABILITY IN Q4 FY28
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-snowflake-s-snow-ceo-just-said-we-remain-on-trac-00640/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITAB  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Here is a early look at some of the largest stocks that report earnings tomorrow Lululemon $LULU Cie
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-here-is-a-early-look-at-some-of-the-largest-stoc-61399/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Here is a early look at some of the largest stocks that report earning  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### This is how the 🇺🇸 stock market performed today
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-this-is-how-the-stock-market-performed-today-55572/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: This is how the 🇺🇸 stock market performed today  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -554,14 +554,14 @@ Market radar: @StockMKTNewz reports: Microsoft $MSFT just confirmed that it will
 
 ### JUST IN: G20 Finance Ministers and Central Bank Governors announce that digital assets ‘can play in
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-just-in-g20-finance-ministers-and-central-bank-g-13317/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: G20 Finance Ministers and Central Bank Governors announce tha  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### JUST IN: @MetaWin announces another $1M will be given away to players this month. Deposit on to qual
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-just-in-metawin-announces-another-1m-will-be-giv-11846/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: @MetaWin announces another $1M will be given away to players   Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -582,7 +582,7 @@ Market radar: @WhaleInsider reports: JUST IN: Daily volume on Robinhood chain $H
 
 ### JUST IN: A Binance content creator followed by CZ highlighted #MARIANHOOD community and volume, noti
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-just-in-a-binance-content-creator-followed-by-cz-60111/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: A Binance content creator followed by CZ highlighted #MARIANH  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -596,14 +596,14 @@ Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Fed's Williams says ‘Re
 
 ### This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-this-is-how-you-go-from-being-worth-250b-to-bein-49790/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: This is how you go from being worth ~$250B to being worth $1.75T in ju  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its Cybercab event tonight in Aus
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260903-watch-out-for-this-major-event-tonight-tesla-tsl-78535/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -638,14 +638,14 @@ Market radar: @StockMKTNewz reports: This is what $3.3 Million gets you less tha
 
 ### Is the Tesla $TSLA event happening?
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-is-the-tesla-tsla-event-happening-91054/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Is the Tesla $TSLA event happening?  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### JUST IN: $BTC surpasses $82,000.
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-btc-surpasses-82-000-54874/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: $BTC surpasses $82,000.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -659,7 +659,7 @@ Market radar: @StockMKTNewz reports: Microsoft sold $43 Million worth of $MSFT s
 
 ### JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for business clie
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-spacexai-spcx-launches-grok-bot-for-ente-46214/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-wee  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -673,14 +673,14 @@ Market radar: @StockMKTNewz reports: All these stocks hit new 52 WEEK HIGHS at s
 
 ### Adobe $ADBE just announced that Anil Chakravarthy will take over as the next CEO of the company
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-adobe-adbe-just-announced-that-anil-chakravarthy-43703/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Adobe $ADBE just announced that Anil Chakravarthy will take over as th  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Zscaler $ZS stock is up initially in after hours following its earnings
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-zscaler-zs-stock-is-up-initially-in-after-hours--10468/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Zscaler $ZS stock is up initially in after hours following its earning  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -694,21 +694,21 @@ Market radar: @StockMKTNewz reports: Lululemon $LULU stock is down by 15% in aft
 
 ### Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq under the ti
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-smart-ring-maker-oura-just-filed-to-go-public-in-61327/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Smart ring maker Oura just filed to go public in the US through a list  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user followed by El
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-doge-1-on-robinhood-chain-rallies-158-af-91167/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledg  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### JUST IN: Flap releases the first DeFi lending yield product around bStocks memes, powered by BNBCHAI
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-flap-releases-the-first-defi-lending-yie-36057/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Flap releases the first DeFi lending yield product around bSt  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -722,14 +722,14 @@ Market radar: @WhaleInsider reports: JUST IN: Hook has launched licensed music r
 
 ### Tesla $TSLA just posted this video ahead of their Cybercab event later tonight “The future has arriv
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-tesla-tsla-just-posted-this-video-ahead-of-their-31586/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Tesla $TSLA just posted this video ahead of their Cybercab event later  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### The CEO of Strategy $MSTR is on this live stream right now ⬇️
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-the-ceo-of-strategy-mstr-is-on-this-live-stream--59391/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: The CEO of Strategy $MSTR is on this live stream right now ⬇️  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -743,7 +743,7 @@ Market radar: @StockMKTNewz reports: Here is how much fees Robinhood $HOOD has g
 
 ### JUST IN: 119,453 crypto traders were liquidated in the past 24 hours.
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-119-453-crypto-traders-were-liquidated-i-27350/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: 119,453 crypto traders were liquidated in the past 24 hours.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -757,21 +757,21 @@ Market radar: @StockMKTNewz reports: Each of these 4 stocks have seen their mark
 
 ### OPENAI'S GREG BROCKMAN JUST SAID: "WELCOME TO THE AGI ERA"
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-openai-s-greg-brockman-just-said-welcome-to-the--24284/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: OPENAI'S GREG BROCKMAN JUST SAID: "WELCOME TO THE AGI ERA"  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### JUST IN: Martian’s AI Frontier is now live, letting users compare AI models across quality, cost, re
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-martian-s-ai-frontier-is-now-live-lettin-29437/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Martian’s AI Frontier is now live, letting users compare AI m  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIGENT MODEL OpenAI says Astra le
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-openai-just-released-gpt-6-astra-calling-it-the--26479/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIG  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -792,14 +792,14 @@ Market radar: @WhaleInsider reports: JUST IN: $169,000,000 worth of shorts liqui
 
 ### JUST IN: You can now trade 1000X leverage on new trading site
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-you-can-now-trade-1000x-leverage-on-new--56777/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: You can now trade 1000X leverage on new trading site  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the bell.
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-roblox-rblx-posts-its-strongest-market-o-70499/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Roblox $RBLX posts its strongest market open in months, openi  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -820,35 +820,35 @@ Market radar: @WhaleInsider reports: JUST IN: Daily trading volume on Uniswap's 
 
 ### Broadcom $AVGO stock is down by 5% in after hours following its earnings 🔴🔴🔴🔴🔴
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-broadcom-avgo-stock-is-down-by-5-in-after-hours--87553/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Broadcom $AVGO stock is down by 5% in after hours following its earnin  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Costco $COST just reported revenue of $23.7 Billion of revenue in August up 9.9% YoY
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-costco-cost-just-reported-revenue-of-23-7-billio-16732/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Costco $COST just reported revenue of $23.7 Billion of revenue in Augu  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Snowflake $SNOW stock is up by 20% in after hours following its earnings 🟢
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-snowflake-snow-stock-is-up-by-20-in-after-hours--69397/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Snowflake $SNOW stock is up by 20% in after hours following its earnin  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Deere $DE stock hit new ALL TIME HIGHS again today 🟢🟢🟢🟢🟢
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-deere-de-stock-hit-new-all-time-highs-again-toda-52702/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Deere $DE stock hit new ALL TIME HIGHS again today 🟢🟢🟢🟢🟢  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Google's $GOOGL self driving car company Waymo is in the final stages of talks to raise $3B of debt
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-google-s-googl-self-driving-car-company-waymo-is-18848/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Google's $GOOGL self driving car company Waymo is in the final stages   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -862,14 +862,14 @@ Market radar: @StockMKTNewz reports: META PLATFORMS $META CEO MARK ZUCKERBERG JU
 
 ### Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today 🟢
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-johnson-amp-johnson-jnj-stock-hit-new-52-week-hi-44758/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today 🟢  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Here is some of the stuff that our partners at BTQ Technologies have done so far in 2026 👀
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-here-is-some-of-the-stuff-that-our-partners-at-b-51871/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Here is some of the stuff that our partners at BTQ Technologies have d  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -883,14 +883,14 @@ Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just said - THE ST
 
 ### This is how every stock in the S&amp;P 500 has performed so far in today's early trading
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-55248/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: This is how every stock in the S&amp;P 500 has performed so far in tod  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 effective September 2nd, followi
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-uber-technologies-uber-is-shutting-down-its-serv-61384/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 ef  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -904,21 +904,21 @@ Market radar: @StockMKTNewz reports: This is what $5.35 Million gets you in Clev
 
 ### Southwest Airlines $LUV plans to roll out its first-ever lounge network next year - Bloomberg
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-southwest-airlines-luv-plans-to-roll-out-its-fir-46611/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Southwest Airlines $LUV plans to roll out its first-ever lounge networ  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### 🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID: - ANTHROPIC IS "BACK ON THE RIGHT SIDE" WITH TRUMP ADMINIST
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-commerce-secretary-lutnick-just-said-anthropic-i-96511/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: 🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID: - ANTHROPIC IS "BACK ON THE R  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### GE Vernova $GEV has committed to repairing large portions of Venezuela’s 🇻🇪 power grid - Bloomberg
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-ge-vernova-gev-has-committed-to-repairing-large--76698/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: GE Vernova $GEV has committed to repairing large portions of Venezuela  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -939,7 +939,7 @@ Market radar: @StockMKTNewz reports: 🇺🇸 President Trump just posted this: 
 
 ### SMN analyst number 5 is in the region to monitor the situation
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-smn-analyst-number-5-is-in-the-region-to-monitor-34495/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: SMN analyst number 5 is in the region to monitor the situation  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -960,28 +960,28 @@ Market radar: @StockMKTNewz reports: Salesforce $CRM and Anthropic just released
 
 ### I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought it at the end of the day when t
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-i-bought-tempus-ai-tem-at-60-87-per-share-on-aug-41905/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought i  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### $DELL is starting out trading today up by 12.8% 🟢 and is now up by 282% 🟢 so far in 2026
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-dell-is-starting-out-trading-today-up-by-12-8-an-54455/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: $DELL is starting out trading today up by 12.8% 🟢 and is now up by 282  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of AI as a
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-nvidia-nvda-ceo-jensen-huang-called-on-group-of--31505/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to acceler  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### SEPTEMBER RATE HIKE ODDS There is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed raise rates
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-september-rate-hike-odds-there-is-currently-a-56-86124/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: SEPTEMBER RATE HIKE ODDS There is currently a 56% chance that Kevin Wa  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -995,7 +995,7 @@ Market radar: @WhaleInsider reports: JUST IN: Oppenheimer raises SpaceX $SPCX pr
 
 ### NEW: XYO and Gate AI team up to launch XYO crypto cards.
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-new-xyo-and-gate-ai-team-up-to-launch-xyo-crypto-95519/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: NEW: XYO and Gate AI team up to launch XYO crypto cards.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -1037,49 +1037,49 @@ Market radar: @StockMKTNewz reports: OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH
 
 ### WHAT A TURN AROUND We’re don’t a stock picking competition with Gamestock … the people who come in t
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-what-a-turn-around-we-re-don-t-a-stock-picking-c-72910/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: WHAT A TURN AROUND We’re don’t a stock picking competition with Gamest  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Google $GOOGL just launched what it calls his the most advanced and accurate weather prediction mode
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-google-googl-just-launched-what-it-calls-his-the-35457/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Google $GOOGL just launched what it calls his the most advanced and ac  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Hugging Face x Nvidia $NVDA
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-hugging-face-x-nvidia-nvda-83583/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Hugging Face x Nvidia $NVDA  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Google $GOOGL CEO Sundar Pichai just posted this: “New Gemini voice capabilities are rolling out so
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-google-googl-ceo-sundar-pichai-just-posted-this--98993/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Google $GOOGL CEO Sundar Pichai just posted this: “New Gemini voice ca  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### The 3 founders of Hugging Face are now each worth $1.8 Billion after today's Nvidia deal Clement "Cl
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-the-3-founders-of-hugging-face-are-now-each-wort-06558/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: The 3 founders of Hugging Face are now each worth $1.8 Billion after t  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET ARENA
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-grok-is-back-to-being-in-first-place-in-the-rall-07876/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET AR  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launched Perps on the platform which
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-polymarket-just-launched-perpetual-futures-polym-51028/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launch  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1093,21 +1093,21 @@ Market radar: @StockMKTNewz reports: OUTAGE REPORT: Claude, OpenAI, and Grok are
 
 ### Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-bitcoin-btc-is-back-over-80-000-34303/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of its work
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-campbell-s-soup-cpb-just-announced-that-is-has-c-56433/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Campbell’s Soup $CPB just announced that is has cut more than 1,750 jo  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-jpmorgan-jpm-is-now-less-than-50-billion-away-fr-62334/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: JPMorgan $JPM is now less than $50 Billion away from joining the $1 Tr  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1121,49 +1121,49 @@ Market radar: @StockMKTNewz reports: The stock market Fear and Greed index is no
 
 ### This is how every stock in the S&amp;P 500 has performed so far in today's early trading
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-02293/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: This is how every stock in the S&amp;P 500 has performed so far in tod  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### $META’s stock is back to starting with a 6
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-meta-s-stock-is-back-to-starting-with-a-6-18105/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: $META’s stock is back to starting with a 6  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Snowflake $SNOW is starting trading today up by more than 20% following its earnings last night 🟢
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-snowflake-snow-is-starting-trading-today-up-by-m-45951/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Snowflake $SNOW is starting trading today up by more than 20% followin  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Tim Apple cooked the market during his time as the CEO of Apple $AAPL
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-tim-apple-cooked-the-market-during-his-time-as-t-06552/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Tim Apple cooked the market during his time as the CEO of Apple $AAPL  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Name another platform where you can get triggered by both Michael Burry and Elon Musk at the same ti
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-name-another-platform-where-you-can-get-triggere-51063/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Name another platform where you can get triggered by both Michael Burr  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### 🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT A REASON
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-fed-s-waller-just-said-we-should-start-to-see-so-99973/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: 🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Jim Cramer was just asked about $IREN stock: “If you’re going to do neoclouds, the only one I like i
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-jim-cramer-was-just-asked-about-iren-stock-if-yo-78901/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Jim Cramer was just asked about $IREN stock: “If you’re going to do ne  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1177,7 +1177,7 @@ Market radar: @StockMKTNewz reports: Tesla $TSLA has now officially started offe
 
 ### JUST IN: BlackRock clients buy $453.96 million worth of $BTC.
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-blackrock-clients-buy-453-96-million-wor-31691/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $453.96 million worth of $BTC.  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -1191,77 +1191,77 @@ BlackRock clients bought $72.07M of $ETH, according to @WhaleInsider.  Market ra
 
 ### The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of +53K jobs added (NFP Non-farm
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-the-economy-saw-162-000-jobs-added-in-august-abo-48699/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Nvidia $NVDA has committed to invest more than $40 billion into AI companies so far in 2026
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-nvidia-nvda-has-committed-to-invest-more-than-40-85319/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Nvidia $NVDA has committed to invest more than $40 billion into AI com  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### JUST IN: $BTC currently forecasted to hit a high of $90,000 this year, per Kalshi traders.
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-btc-currently-forecasted-to-hit-a-high-o-24937/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: $BTC currently forecasted to hit a high of $90,000 this year,  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### Volkswagen just announced plans for a further 50,000 job cuts - CNBC
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-volkswagen-just-announced-plans-for-a-further-50-14299/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Volkswagen just announced plans for a further 50,000 job cuts - CNBC  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL WORKFORCE
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-the-trade-deredacted-credential-like-string/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIGGEST COMPANIES IN CHINA 🇨🇳 ON
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-chinese-leader-xi-jinping-to-bring-a-delegation--99834/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIG  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### This is what $3.2 Million gets you in Los Angeles The former house of Fred Durst, Adam Brody, and Am
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-this-is-what-3-2-million-gets-you-in-los-angeles-61484/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: This is what $3.2 Million gets you in Los Angeles The former house of   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, despite Chair Kevin Warsh’s hawk
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-morgan-stanley-expects-the-fed-to-keep-r-84277/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, de  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity pool, is
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-ap-with-over-20-000-in-nvidia-holdings-a-80666/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: $AP, with over $20,000 in Nvidia holdings across its communit  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China.
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-deepseek-plans-to-install-more-than-160--12173/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chip  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
 
 ### JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market launchpad
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260904-just-in-reports-and-rumours-suggest-some-users-m-10350/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some users may be moving toward a  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -1394,7 +1394,7 @@ Micron $MU stock is back above $1,000 per share.  When2Buy — your U.S. stock p
 
 ### JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $1M will
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260905-just-in-metawin-player-turns-45-into-over-87-000-91419/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: @MetaWin player turns $45 into over $87,000 following their a  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -1422,7 +1422,7 @@ Market radar: @WhaleInsider reports: JUST IN: Following $MEME surging to over $1
 
 ### JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch through S
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260905-just-in-robinhood-chain-hood-has-accumulated-18--66683/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transact  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -1443,28 +1443,28 @@ Lululemon $LULU is getting short-call attention, with Michael Burry the target o
 
 ### Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will take pl
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260905-mark-zuckerberg-and-meta-platforms-meta-confirme-29002/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Mark Zuckerberg and Meta Platforms $META confirmed that their annual M  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### The Anthropic IPO is coming quick Will we get the public S-1 filing next week?
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260905-the-anthropic-ipo-is-coming-quick-will-we-get-th-93182/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: The Anthropic IPO is coming quick Will we get the public S-1 filing ne  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### After today there will be just 81 trading days left in 2026
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260905-after-today-there-will-be-just-81-trading-days-l-08525/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: After today there will be just 81 trading days left in 2026  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
 
 ### Nvidia $NVDA is now back to being worth ~$1 Trillion more than any other company in the world
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260905-nvidia-nvda-is-now-back-to-being-worth-1-trillio-73082/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: Nvidia $NVDA is now back to being worth ~$1 Trillion more than any oth  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1499,7 +1499,7 @@ Market radar: @StockMKTNewz reports: When you invest $10,000 into the S&P 500 he
 
 ### There is now a 52% chance that Kevin Warsh and the US Fed raise rates by 0.25% this month There is a
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260905-there-is-now-a-52-chance-that-kevin-warsh-and-th-39615/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: There is now a 52% chance that Kevin Warsh and the US Fed raise rates   Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1688,7 +1688,7 @@ Market radar: @WhaleInsider reports: JUST IN: 50% chance of Fed maintaining rate
 
 ### JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marking a new all-time high.
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260906-just-in-robinhood-chain-hood-24h-dex-volume-hits-25292/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marki  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -1786,7 +1786,7 @@ Robinhood Chain $HOOD assets are closing in on a combined market cap of $2B.  Wh
 
 ### Robinhood Chain tops $8M in Friday fees
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png`
 
 $HOOD's Robinhood Chain generated more than $8M in fees Friday.  When2Buy — your U.S. stock partner.
@@ -1849,7 +1849,7 @@ Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 U.S. dollar has lost 97% 
 
 ### We are doing a free to enter NFL Pick em league, you pick every game throughout the season We’re goi
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-we-are-doing-a-free-to-enter-nfl-pick-em-league--99675/when2buy-market-radar.png`
 
 Market radar: @StockMKTNewz reports: We are doing a free to enter NFL Pick em league, you pick every game t  Unverified source claim—watch context, not a trade.  Market radar — reported by @StockMKTNewz; not independently verified. Not investment advice.
@@ -1877,7 +1877,7 @@ Prediction markets put the chance of $BTC reaching $50,000 before $100,000 below
 
 ### NEW: VC-backed Pokémon gacha site just launched. They’re offering 200% deposit bonuses to pull users
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-new-vc-backed-pok-mon-gacha-site-just-launched-t-61427/when2buy-market-radar.png`
 
 Market radar: @WhaleInsider reports: NEW: VC-backed Pokémon gacha site just launched. They’re offering 200%  Unverified source claim—watch context, not a trade.  Market radar — reported by @WhaleInsider; not independently verified. Not investment advice.
@@ -1898,7 +1898,7 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 
 ### U.S. stock market closed Monday
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png`
 
 The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.
@@ -2073,105 +2073,105 @@ $BIPOLAR is gaining attention on TikTok ahead of its PumpFun launch tomorrow at 
 
 ### IBM $IBM ranks second-worst in the Dow in 2026
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-ibm-dow-minus-21/when2buy-image-model.png`
 
 $IBM is the Dow's second-worst performer so far in 2026, down 21%.  When2Buy — your U.S. stock partner.
 
 ### Merck leads the Dow in 2026
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-merck-dow-43-performance/when2buy-image-model.png`
 
 $MRK is the Dow's best-performing stock in 2026, up 43% so far.  When2Buy — your U.S. stock partner.
 
 ### Miami $75M penthouse
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-miami-penthouse-75m/when2buy-image-model.png`
 
 A $75M penthouse is turning heads in Miami.  When2Buy — your U.S. stock partner.
 
 ### Caterpillar ranks second among Dow stocks in 2026
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-caterpillar-cat-plus-42-ytd/when2buy-image-model.png`
 
 Caterpillar $CAT is up 42% year to date, ranking second among Dow stocks in 2026.  When2Buy — your U.S. stock partner.
 
 ### Hanwha builds tokenized-securities platform on Avalanche
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-hanwha-avalanche-tokenization-platform/when2buy-image-model.png`
 
 Hanwha Investment & Securities has built a tokenized-securities platform on Avalanche.  South Korea's tokenized-securities framework is scheduled to take effect February 4, 2027.  When2Buy — your U.S. stock partner.
 
 ### DATAHEDGE AI joins Intel Partner Directory
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-datahedge-intel-partner/when2buy-image-model.png`
 
 DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.  When2Buy — your U.S. stock partner.
 
 ### Copper hits a record $14,533 a ton
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-copper-record-14533-ton/when2buy-image-model.png`
 
 Copper hit a record $14,533 a ton on the London Metal Exchange.  Potential U.S. tariffs on refined copper imports are stoking the move.  When2Buy — your U.S. stock partner.
 
 ### U.S. gasoline sets a $4.15 Labor Day record
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-us-gasoline-labor-day-record-415/when2buy-image-model.png`
 
 U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.  The prior Labor Day high had never reached $4 a gallon.  When2Buy — your U.S. stock partner.
 
 ### Onchain terminals clear $6.35B in weekly trading
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-onchain-terminals-635b-week/when2buy-image-model.png`
 
 Onchain terminals processed $6.35B in trading volume this week.  It was the biggest week since the $TRUMP trading surge.  When2Buy — your U.S. stock partner.
 
 ### Louisiana Purchase and modern market purchasing power
 
-- 状态：`blocked`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-louisiana-purchase-market-value/when2buy-image-model.png`
 
 The U.S. bought the Louisiana territory from France for $15M in 1803.  At current prices, $15M buys 19.8 Berkshire Hathaway Class A shares.  When2Buy — your U.S. stock partner.
 
 ### Average U.S. stock fund up 12.6% in 2026 through August
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-us-stock-funds-126-ytd/when2buy-image-model.png`
 
 The average U.S. stock ETF and mutual fund is up 12.6% in 2026 through the end of August.  When2Buy — your U.S. stock partner.
 
 ### President Trump says he made hundreds of billions on stocks and holdings
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-trump-stock-holdings-statement/when2buy-image-model.png`
 
 President Trump says he has made hundreds of billions of dollars on stocks and other holdings.  When2Buy — your U.S. stock partner.
 
 ### OpenAI chief scientist urges extreme caution
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-openai-pachocki-extreme-caution/when2buy-image-model.png`
 
 OpenAI chief scientist Jakub Pachocki is calling for extreme caution as AI capabilities advance rapidly.  When2Buy — your U.S. stock partner.
 
 ### Iron ore returns above $100 a ton
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-iron-ore-back-above-100/when2buy-image-model.png`
 
 Iron ore moved back above $100 a ton today for the first time in seven weeks.  When2Buy — your U.S. stock partner.
 
 ### $GHOST rises 86% amid Solana integration speculation
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-ghost-solana-privacy-speculation/when2buy-image-model.png`
 
 $GHOST surged 86% in 24 hours amid speculation its privacy technology could integrate with Solana.  When2Buy — your U.S. stock partner.
@@ -2185,7 +2185,7 @@ $NVDA CEO Jensen Huang is on King Charles' AI meeting guest list in the U.K.  Wh
 
 ### U.S. stock market reopens tomorrow
 
-- 状态：`blocked`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-us-market-reopens-tomorrow/when2buy-image-model.png`
 
 The U.S. stock market reopens tomorrow.  When2Buy — your U.S. stock partner.
@@ -2248,245 +2248,245 @@ $ETH bridged from Ethereum to Robinhood Chain jumped 150% over the past month, t
 
 ### Crypto-funded gift cards reach everyday spending in India
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-india-crypto-gift-card-purchases/when2buy-image-model.png`
 
 Crypto holders in India are using overseas gift-card platforms to spend on groceries, fuel and gold.  When2Buy — your U.S. stock partner.
 
 ### Robinhood Chain fees hit $33M in 15 days
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-robinhood-chain-fees-upside/when2buy-image-model.png`
 
 $HOOD has generated $33M in Robinhood Chain fees over the past 15 days.  Bernstein sees 31% upside for the stock.  When2Buy — your U.S. stock partner.
 
 ### Bitcoin short-term whale profits reach $9.07B
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-btc-short-term-whale-profit-risk/when2buy-image-model.png`
 
 $BTC short-term whale profits just hit a record $9.07B.  The build-up raises the risk of a sell-off.  When2Buy — your U.S. stock partner.
 
 ### Bank of Japan September rate signal
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-boj-september-rate-signal/when2buy-image-model.png`
 
 Bank of Japan is weighing a 0.25-point rate hike at its Sept. 17-18 meeting.  A move from 1.00% to 1.25% would put global rate markets on alert.  When2Buy — your U.S. stock partner.
 
 ### Samsung and TSMC commit to ASML High-NA EUV
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-asml-high-na-euv-commitments/when2buy-image-model.png`
 
 Samsung and TSMC have committed to ASML's High-NA EUV machines.  The systems target the next generation of leading-edge chip production.  When2Buy — your U.S. stock partner.
 
 ### Mistral AI valuation above $24.3B
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-mistral-ai-valuation-243b/when2buy-image-model.png`
 
 Mistral AI is now valued above $24.3B.  The French AI challenger has entered a new valuation tier.  When2Buy — your U.S. stock partner.
 
 ### ASML and TSMC 12-inch EUV photomasks
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-asml-tsm-12-inch-euv-masks/when2buy-image-model.png`
 
 $ASML and $TSM have launched a 12-inch EUV photomask initiative.  It targets a replacement for the 6-inch format used today.  When2Buy — your U.S. stock partner.
 
 ### S&P 500 dividend yield reaches 1.04%
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-sp500-dividend-yield-104/when2buy-image-model.png`
 
 The S&P 500 dividend yield has fallen to a new record low of 1.04%.  When2Buy — your U.S. stock partner.
 
 ### S&P 500 EPS growth forecast at 24%–31%
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-sp500-eps-growth-24-31/when2buy-image-model.png`
 
 S&P 500 earnings per share is expected to rise 24%–31% in 2026.  When2Buy — your U.S. stock partner.
 
 ### UK 2056 gilt borrowing cost
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-uk-2056-gilt-borrowing-cost/when2buy-image-model.png`
 
 UK borrowing costs are set for their highest gilt sale since at least 1998.  A syndicated reopening of the 5⅜% Treasury Gilt 2056 is planned this week.  When2Buy — your U.S. stock partner.
 
 ### Palantir and Nebius sovereign AI partnership
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-palantir-nebius-sovereign-ai/when2buy-image-model.png`
 
 $PLTR and $NBIS have announced a new AI infrastructure partnership.  Nebius is Palantir’s preferred sovereign AI infrastructure partner for commercial customers.  When2Buy — your U.S. stock partner.
 
 ### Goldman raises Robinhood target to $142
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-robinhood-goldman-142-target/when2buy-image-model.png`
 
 $HOOD just got a $142 price target from Goldman Sachs, up from $124.  The firm kept its Buy rating.  When2Buy — your U.S. stock partner.
 
 ### Uber COO buys 70,000 shares
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-uber-macdonald-531m-share-purchase/when2buy-image-model.png`
 
 Uber COO Andrew Macdonald bought 70,000 $UBER shares for $5.31M.  His average purchase price was about $75.83 per share.  When2Buy — your U.S. stock partner.
 
 ### Robinhood takes Crypto.com stake
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-robinhood-cryptocom-minority-stake/when2buy-image-model.png`
 
 $HOOD agreed to take a minority stake in Crypto.com and its prediction-market business.  When2Buy — your U.S. stock partner.
 
 ### Vanguard VOO tops $1T in assets
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-vanguard-voo-1t-aum/when2buy-image-model.png`
 
 Vanguard's $VOO now has more than $1T in assets.  It is the largest ETF in the U.S.  When2Buy — your U.S. stock partner.
 
 ### Bitcoin $74,000 forecast
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-bitcoin-kalshi-74000-forecast/when2buy-image-model.png`
 
 Kalshi traders are pricing a possible $74,000 Bitcoin low this month.  When2Buy — your U.S. stock partner.
 
 ### Quantum companies land U.S. updates
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-quantum-us-government-100m/when2buy-image-model.png`
 
 $RGTI and $QBTS signed U.S. government deals worth up to $100M.  $IONQ raised full-year guidance after its SkyWater acquisition.  When2Buy — your U.S. stock partner.
 
 ### GE Aerospace agrees $11.75B CPP acquisition
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-ge-aerospace-cpp-1175b-acquisition/when2buy-image-model.png`
 
 GE Aerospace $GE agreed to acquire engineered-castings maker Consolidated Precision Products for $11.75B.  Warburg Pincus and Berkshire Partners are selling the business.  When2Buy — your U.S. stock partner.
 
 ### Google Cloud and Accenture launch Gemini group
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-google-accenture-gemini-engineers/when2buy-image-model.png`
 
 Google Cloud $GOOGL and Accenture $ACN formed a Gemini Enterprise group.  Google Cloud will train up to 1,000 Accenture engineers to build customer AI apps on-site.  When2Buy — your U.S. stock partner.
 
 ### BitMine adds $70M in Ethereum
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-bitmine-eth-70m-147b-holdings/when2buy-image-model.png`
 
 BitMine bought $70M of Ethereum last week, taking total holdings to $14.7B.  When2Buy — your U.S. stock partner.
 
 ### Apple acquires Sonera neural-sensor maker
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-apple-sonera-neural-sensors/when2buy-image-model.png`
 
 Apple $AAPL reportedly acquired Sonera, a California maker of non-invasive sensors that measure neural signals from the brain.  When2Buy — your U.S. stock partner.
 
 ### BitMine nears 5% Ethereum supply goal
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-bitmine-97pct-eth-supply-goal/when2buy-image-model.png`
 
 BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.  When2Buy — your U.S. stock partner.
 
 ### Amazon and Qualcomm form custom AI silicon partnership
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-amazon-qualcomm-ai-silicon-warrant/when2buy-image-model.png`
 
 Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center silicon partnership.  Amazon received a warrant for 25M Qualcomm shares tied to up to $60B in chip purchases.  When2Buy — your U.S. stock partner.
 
 ### Anthropic IPO odds reach 59%
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-anthropic-ipo-175t-59pct/when2buy-image-model.png`
 
 Anthropic now has a 59% chance of going public above a $1.75T valuation.  That would make it the year’s biggest IPO.  When2Buy — your U.S. stock partner.
 
 ### Senate sets Clarity Act procedural vote
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-senate-clarity-act-cloture-vote/when2buy-image-model.png`
 
 The U.S. Senate is set to hold a procedural cloture vote on the Clarity Act one week from today.  When2Buy — your U.S. stock partner.
 
 ### U.S. stock market reopens
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-us-stock-market-reopens/when2buy-image-model.png`
 
 The U.S. stock market is back open.  When2Buy — your U.S. stock partner.
 
 ### GME on Robinhood Chain surges after follow
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-gme-robinhood-chain-follow-surge/when2buy-image-model.png`
 
 GameStop on Robinhood Chain surged after Vlad Tenev followed the project's X account.  When2Buy — your U.S. stock partner.
 
 ### Crypto longs see $188M liquidated
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-crypto-long-liquidations-188m/when2buy-image-model.png`
 
 Crypto long positions worth $188M were liquidated over the past 24 hours.  When2Buy — your U.S. stock partner.
 
 ### AMD rises above $500
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-amd-above-500/when2buy-image-model.png`
 
 $AMD is up more than 5% and back above $500.  When2Buy — your U.S. stock partner.
 
 ### S&P 500 early trading performance
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-sp500-early-trading/when2buy-image-model.png`
 
 Here is how every S&P 500 stock is performing in early trading.  When2Buy — your U.S. stock partner.
 
 ### $PENGUIN goes live on Robinhood Chain
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-penguin-robinhood-chain-burn/when2buy-image-model.png`
 
 $PENGUIN is now live on Robinhood Chain.  19% of its supply has been burned.  When2Buy — your U.S. stock partner.
 
 ### LeBron James works with Polymarket
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-lebron-polymarket-partnership/when2buy-image-model.png`
 
 LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partner.
 
 ### Apple iPhone keynote leadership changes in 2026
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-apple-iphone-keynote-john-ternus/when2buy-image-model.png`
 
 Apple’s 2026 iPhone launch keynote is set to be led by John Ternus.  Steve Jobs led the 2007–2010 launches, while Tim Cook led every launch from 2011 through 2025.  When2Buy — your U.S. stock partner.
 
 ### Artificial Pepe developer move
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-artificial-pepe-developer-joins-ap/when2buy-image-model.png`
 
 The developer behind the billion-dollar $PEPE project on Ethereum has joined Artificial Pepe $AP.  When2Buy — your U.S. stock partner.
 
 ### LeBron James and Polymarket
 
-- 状态：`blocked`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260908-lebron-polymarket-partnership-v2/when2buy-image-model.png`
 
 LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partner.
@@ -2840,6 +2840,9 @@ IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. 
 
 ## 最近运行
 
+- `2026-09-09T08:41:53Z` **full / partial** — Apify scanned both benchmark feeds, media archival and freshness-first queue rebuild completed, and the first two current-queue packages passed visual review; publication was withheld by the active X delivery circuit breaker. The delivery circuit breaker remains active until 2026-09-09T08:52:10Z after a prior Postiz X delivery entered ERROR without a public URL; no retry or backfill was submitted.
+- `2026-09-09T08:43:39Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 136 unsent stale package(s).
+- `2026-09-09T08:43:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
 - `2026-09-09T08:32:25Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, and three image-model packages completed; no Postiz submission was made while the active delivery circuit breaker remained in force. Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.
 - `2026-09-09T08:31:33Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
 - `2026-09-09T08:31:30.639746+00:00` **produce / succeeded** — Produced the three newest timestamp-first image-model packages with exact-logo compositing.
@@ -2857,6 +2860,3 @@ IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. 
 - `2026-09-09T07:39:34.831539+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T07:28:01Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
 - `2026-09-09T07:27:58.991588+00:00` **produce / succeeded** — Produced the newest eligible Apify benchmark package with an inspected entity-led image-model visual and exact-logo compositing.
-- `2026-09-09T07:26:01Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
-- `2026-09-09T07:25:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
-- `2026-09-09T07:05:00Z` **full / partial** — Scheduled run: Apify collection from both benchmark accounts, media archival, and timestamp-first queue rebuild completed; no new eligible originals were found. Publication was withheld by the active delivery circuit breaker. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.

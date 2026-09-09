@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T08:32:25.508113+00:00",
+  "updatedAt": "2026-09-09T08:44:45.243028+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -18737,7 +18737,7 @@
     },
     {
       "id": "pkg-20260903-vsxy-q2-reaction",
-      "status": "blocked",
+      "status": "expired",
       "title": "Victoria's Secret Q2: unverified 20% pre-market claim",
       "createdAt": "2026-09-03T11:39:00Z",
       "benchmarkPostId": "2095468266487476518",
@@ -18759,7 +18759,10 @@
       "verificationNotes": "The source claim could not be verified. The company confirms its September 3 Q2 release; contemporaneous reporting shows Q2 net sales of $1.611B and adjusted operating income of $124M, while another current market report described a pre-open gain. No authoritative source substantiated the benchmark's claimed 20% pre-market decline.",
       "postText": "",
       "imagePath": "",
-      "deliveryReason": "Terminal content gate: standard-mode verification did not substantiate the benchmark's central 20% pre-market decline claim. No derivative image, Postiz upload, or X submission was attempted."
+      "deliveryReason": "Terminal content gate: standard-mode verification did not substantiate the benchmark's central 20% pre-market decline claim. No derivative image, Postiz upload, or X submission was attempted.",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T12:35:41Z"
     },
     {
       "id": "pkg-20260903-moonshot-hk-ipo",
@@ -18814,7 +18817,7 @@
       "benchmarkPostId": "2095261443717239182",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095261443717239182",
       "title": "Broadcom $AVGO just said that it expects to bring in $230 Billion of revenue from AI semiconductors ",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Broadcom $AVGO just said that it expects to bring in $230 Billion of r\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -18825,7 +18828,10 @@
       ],
       "imagePath": "deliverables/pkg-20260903-broadcom-avgo-just-said-that-it-expects-to-bring-39182/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:04.593202+00:00"
+      "createdAt": "2026-09-03T11:55:04.593202+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T22:53:50Z"
     },
     {
       "id": "pkg-20260903-broadcom-s-avgo-ceo-just-said-in-2027-we-have-se-29657",
@@ -18852,7 +18858,7 @@
       "benchmarkPostId": "2095260451147800640",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095260451147800640",
       "title": "Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITABILITY IN Q4 FY28",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Snowflake's $SNOW CEO just said - WE REMAIN ON TRACK FOR GAAP PROFITAB\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -18863,14 +18869,17 @@
       ],
       "imagePath": "deliverables/pkg-20260903-snowflake-s-snow-ceo-just-said-we-remain-on-trac-00640/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:04.826883+00:00"
+      "createdAt": "2026-09-03T11:55:04.826883+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T22:49:54Z"
     },
     {
       "id": "pkg-20260903-here-is-a-early-look-at-some-of-the-largest-stoc-61399",
       "benchmarkPostId": "2095259425544061399",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095259425544061399",
       "title": "Here is a early look at some of the largest stocks that report earnings tomorrow Lululemon $LULU Cie",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Here is a early look at some of the largest stocks that report earning\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -18881,14 +18890,17 @@
       ],
       "imagePath": "deliverables/pkg-20260903-here-is-a-early-look-at-some-of-the-largest-stoc-61399/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:04.947518+00:00"
+      "createdAt": "2026-09-03T11:55:04.947518+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T22:45:49Z"
     },
     {
       "id": "pkg-20260903-this-is-how-the-stock-market-performed-today-55572",
       "benchmarkPostId": "2095257442594455572",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095257442594455572",
       "title": "This is how the 🇺🇸 stock market performed today",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: This is how the 🇺🇸 stock market performed today\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -18899,7 +18911,10 @@
       ],
       "imagePath": "deliverables/pkg-20260903-this-is-how-the-stock-market-performed-today-55572/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:05.043260+00:00"
+      "createdAt": "2026-09-03T11:55:05.043260+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T22:37:56Z"
     },
     {
       "id": "pkg-20260903-microsoft-msft-just-confirmed-that-it-will-be-ch-99761",
@@ -18926,7 +18941,7 @@
       "benchmarkPostId": "2095194323918713317",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095194323918713317",
       "title": "JUST IN: G20 Finance Ministers and Central Bank Governors announce that digital assets ‘can play in ",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: G20 Finance Ministers and Central Bank Governors announce tha\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -18937,14 +18952,17 @@
       ],
       "imagePath": "deliverables/pkg-20260903-just-in-g20-finance-ministers-and-central-bank-g-13317/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-03T11:55:05.346257+00:00"
+      "createdAt": "2026-09-03T11:55:05.346257+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T18:27:08Z"
     },
     {
       "id": "pkg-20260903-just-in-metawin-announces-another-1m-will-be-giv-11846",
       "benchmarkPostId": "2095193305638211846",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095193305638211846",
       "title": "JUST IN: @MetaWin announces another $1M will be given away to players this month. Deposit on to qual",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: @MetaWin announces another $1M will be given away to players \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -18955,7 +18973,10 @@
       ],
       "imagePath": "deliverables/pkg-20260903-just-in-metawin-announces-another-1m-will-be-giv-11846/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-03T11:55:05.509966+00:00"
+      "createdAt": "2026-09-03T11:55:05.509966+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T18:23:05Z"
     },
     {
       "id": "pkg-20260903-just-in-robinhood-chain-hood-total-tokenized-val-33770",
@@ -19002,7 +19023,7 @@
       "benchmarkPostId": "2095148744584860111",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095148744584860111",
       "title": "JUST IN: A Binance content creator followed by CZ highlighted #MARIANHOOD community and volume, noti",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: A Binance content creator followed by CZ highlighted #MARIANH\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19013,7 +19034,10 @@
       ],
       "imagePath": "deliverables/pkg-20260903-just-in-a-binance-content-creator-followed-by-cz-60111/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-03T11:55:05.819293+00:00"
+      "createdAt": "2026-09-03T11:55:05.819293+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T15:26:01Z"
     },
     {
       "id": "pkg-20260903-just-in-fed-s-williams-says-recent-data-have-bee-22217",
@@ -19040,7 +19064,7 @@
       "benchmarkPostId": "2095480211940749790",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095480211940749790",
       "title": "This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: This is how you go from being worth ~$250B to being worth $1.75T in ju\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19051,14 +19075,17 @@
       ],
       "imagePath": "deliverables/pkg-20260903-this-is-how-you-go-from-being-worth-250b-to-bein-49790/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:05.994919+00:00"
+      "createdAt": "2026-09-03T11:55:05.994919+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T13:23:09Z"
     },
     {
       "id": "pkg-20260903-watch-out-for-this-major-event-tonight-tesla-tsl-78535",
       "benchmarkPostId": "2095476096225378535",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095476096225378535",
       "title": "WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its Cybercab event tonight in Aus",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19069,7 +19096,10 @@
       ],
       "imagePath": "deliverables/pkg-20260903-watch-out-for-this-major-event-tonight-tesla-tsl-78535/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-03T11:55:06.083260+00:00"
+      "createdAt": "2026-09-03T11:55:06.083260+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T13:06:48Z"
     },
     {
       "id": "pkg-20260903-nvda-hugging-face-acquisition",
@@ -19156,7 +19186,7 @@
       "benchmarkPostId": "2095637595174691054",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095637595174691054",
       "title": "Is the Tesla $TSLA event happening?",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Is the Tesla $TSLA event happening?\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19167,14 +19197,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-is-the-tesla-tsla-event-happening-91054/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T00:41:59.352315+00:00"
+      "createdAt": "2026-09-04T00:41:59.352315+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T23:48:32Z"
     },
     {
       "id": "pkg-20260904-just-in-btc-surpasses-82-000-54874",
       "benchmarkPostId": "2095626594484154874",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095626594484154874",
       "title": "JUST IN: $BTC surpasses $82,000.",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC surpasses $82,000.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19185,7 +19218,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-btc-surpasses-82-000-54874/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:41:59.520903+00:00"
+      "createdAt": "2026-09-04T00:41:59.520903+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T23:04:49Z"
     },
     {
       "id": "pkg-20260904-microsoft-sold-43-million-worth-of-msft-stock-th-11179",
@@ -19212,7 +19248,7 @@
       "benchmarkPostId": "2095621908288946214",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095621908288946214",
       "title": "JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for business clie",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-wee\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19223,7 +19259,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-spacexai-spcx-launches-grok-bot-for-ente-46214/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:41:59.880838+00:00"
+      "createdAt": "2026-09-04T00:41:59.880838+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T22:46:12Z"
     },
     {
       "id": "pkg-20260904-all-these-stocks-hit-new-52-week-highs-at-some-p-51780",
@@ -19250,7 +19289,7 @@
       "benchmarkPostId": "2095607202224443703",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095607202224443703",
       "title": "Adobe $ADBE just announced that Anil Chakravarthy will take over as the next CEO of the company",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Adobe $ADBE just announced that Anil Chakravarthy will take over as th\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19261,14 +19300,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-adobe-adbe-just-announced-that-anil-chakravarthy-43703/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T00:42:00.127562+00:00"
+      "createdAt": "2026-09-04T00:42:00.127562+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T21:47:46Z"
     },
     {
       "id": "pkg-20260904-zscaler-zs-stock-is-up-initially-in-after-hours--10468",
       "benchmarkPostId": "2095606516673810468",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095606516673810468",
       "title": "Zscaler $ZS stock is up initially in after hours following its earnings",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Zscaler $ZS stock is up initially in after hours following its earning\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19279,7 +19321,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-zscaler-zs-stock-is-up-initially-in-after-hours--10468/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T00:42:00.294210+00:00"
+      "createdAt": "2026-09-04T00:42:00.294210+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T21:45:02Z"
     },
     {
       "id": "pkg-20260904-lululemon-lulu-stock-is-down-by-15-in-after-hour-24271",
@@ -19306,7 +19351,7 @@
       "benchmarkPostId": "2095604149098361327",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095604149098361327",
       "title": "Smart ring maker Oura just filed to go public in the US through a listing on the Nasdaq under the ti",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Smart ring maker Oura just filed to go public in the US through a list\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19317,14 +19362,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-smart-ring-maker-oura-just-filed-to-go-public-in-61327/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T00:42:00.457259+00:00"
+      "createdAt": "2026-09-04T00:42:00.457259+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T21:35:38Z"
     },
     {
       "id": "pkg-20260904-just-in-doge-1-on-robinhood-chain-rallies-158-af-91167",
       "benchmarkPostId": "2095604081410691167",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095604081410691167",
       "title": "JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledged by an X user followed by El",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Doge-1 on Robinhood Chain rallies 158% after being acknowledg\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19335,14 +19383,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-doge-1-on-robinhood-chain-rallies-158-af-91167/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:42:00.538468+00:00"
+      "createdAt": "2026-09-04T00:42:00.538468+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T21:35:22Z"
     },
     {
       "id": "pkg-20260904-just-in-flap-releases-the-first-defi-lending-yie-36057",
       "benchmarkPostId": "2095598809787036057",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095598809787036057",
       "title": "JUST IN: Flap releases the first DeFi lending yield product around bStocks memes, powered by BNBCHAI",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Flap releases the first DeFi lending yield product around bSt\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19353,7 +19404,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-flap-releases-the-first-defi-lending-yie-36057/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:42:00.638370+00:00"
+      "createdAt": "2026-09-04T00:42:00.638370+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T21:14:25Z"
     },
     {
       "id": "pkg-20260904-just-in-hook-has-launched-licensed-music-remix-p-52181",
@@ -19380,7 +19434,7 @@
       "benchmarkPostId": "2095589894294831586",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095589894294831586",
       "title": "Tesla $TSLA just posted this video ahead of their Cybercab event later tonight “The future has arriv",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Tesla $TSLA just posted this video ahead of their Cybercab event later\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19391,14 +19445,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-tesla-tsla-just-posted-this-video-ahead-of-their-31586/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T00:42:00.827188+00:00"
+      "createdAt": "2026-09-04T00:42:00.827188+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T20:38:59Z"
     },
     {
       "id": "pkg-20260904-the-ceo-of-strategy-mstr-is-on-this-live-stream--59391",
       "benchmarkPostId": "2095587575339659391",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095587575339659391",
       "title": "The CEO of Strategy $MSTR is on this live stream right now ⬇️",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: The CEO of Strategy $MSTR is on this live stream right now ⬇️\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19409,7 +19466,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-the-ceo-of-strategy-mstr-is-on-this-live-stream--59391/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T00:42:00.910453+00:00"
+      "createdAt": "2026-09-04T00:42:00.910453+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T20:29:46Z"
     },
     {
       "id": "pkg-20260904-here-is-how-much-fees-robinhood-hood-has-generat-53289",
@@ -19436,7 +19496,7 @@
       "benchmarkPostId": "2095580903158227350",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095580903158227350",
       "title": "JUST IN: 119,453 crypto traders were liquidated in the past 24 hours.",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: 119,453 crypto traders were liquidated in the past 24 hours.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19447,7 +19507,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-119-453-crypto-traders-were-liquidated-i-27350/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:42:01.137519+00:00"
+      "createdAt": "2026-09-04T00:42:01.137519+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T20:03:15Z"
     },
     {
       "id": "pkg-20260904-each-of-these-4-stocks-have-seen-their-market-ca-66163",
@@ -19474,7 +19537,7 @@
       "benchmarkPostId": "2095576748448424284",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095576748448424284",
       "title": "OPENAI'S GREG BROCKMAN JUST SAID: \"WELCOME TO THE AGI ERA\"",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: OPENAI'S GREG BROCKMAN JUST SAID: \"WELCOME TO THE AGI ERA\"\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19485,14 +19548,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-openai-s-greg-brockman-just-said-welcome-to-the--24284/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T00:42:01.424741+00:00"
+      "createdAt": "2026-09-04T00:42:01.424741+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T19:46:45Z"
     },
     {
       "id": "pkg-20260904-just-in-martian-s-ai-frontier-is-now-live-lettin-29437",
       "benchmarkPostId": "2095575763814629437",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095575763814629437",
       "title": "JUST IN: Martian’s AI Frontier is now live, letting users compare AI models across quality, cost, re",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Martian’s AI Frontier is now live, letting users compare AI m\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19503,14 +19569,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-martian-s-ai-frontier-is-now-live-lettin-29437/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:42:01.497597+00:00"
+      "createdAt": "2026-09-04T00:42:01.497597+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T19:42:50Z"
     },
     {
       "id": "pkg-20260904-openai-just-released-gpt-6-astra-calling-it-the--26479",
       "benchmarkPostId": "2095574123720126479",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095574123720126479",
       "title": "OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIGENT MODEL OpenAI says Astra le",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: OPENAI JUST RELEASED GPT-6 ASTRA, CALLING IT THE WORLD'S MOST INTELLIG\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19521,7 +19590,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-openai-just-released-gpt-6-astra-calling-it-the--26479/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T00:42:01.582397+00:00"
+      "createdAt": "2026-09-04T00:42:01.582397+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T19:36:19Z"
     },
     {
       "id": "pkg-20260904-just-in-pepe-surges-13-in-24-hours-as-on-chain-d-88874",
@@ -19568,7 +19640,7 @@
       "benchmarkPostId": "2095524216011456777",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095524216011456777",
       "title": "JUST IN: You can now trade 1000X leverage on new trading site",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: You can now trade 1000X leverage on new trading site\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19579,14 +19651,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-you-can-now-trade-1000x-leverage-on-new--56777/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:42:01.808761+00:00"
+      "createdAt": "2026-09-04T00:42:01.808761+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T16:18:00Z"
     },
     {
       "id": "pkg-20260904-just-in-roblox-rblx-posts-its-strongest-market-o-70499",
       "benchmarkPostId": "2095518802452570499",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095518802452570499",
       "title": "JUST IN: Roblox $RBLX posts its strongest market open in months, opening 3% higher at the bell.",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Roblox $RBLX posts its strongest market open in months, openi\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -19597,7 +19672,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-roblox-rblx-posts-its-strongest-market-o-70499/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T00:42:01.886371+00:00"
+      "createdAt": "2026-09-04T00:42:01.886371+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T15:56:30Z"
     },
     {
       "id": "pkg-20260904-just-in-xrp-price-rallies-4-8-in-the-past-24-hou-78405",
@@ -19644,7 +19722,7 @@
       "benchmarkPostId": "2095246378519687553",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095246378519687553",
       "title": "Broadcom $AVGO stock is down by 5% in after hours following its earnings 🔴🔴🔴🔴🔴",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Broadcom $AVGO stock is down by 5% in after hours following its earnin\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19655,14 +19733,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-broadcom-avgo-stock-is-down-by-5-in-after-hours--87553/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:23.845788+00:00"
+      "createdAt": "2026-09-04T04:45:23.845788+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T21:53:59Z"
     },
     {
       "id": "pkg-20260904-costco-cost-just-reported-revenue-of-23-7-billio-16732",
       "benchmarkPostId": "2095245756265316732",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095245756265316732",
       "title": "Costco $COST just reported revenue of $23.7 Billion of revenue in August up 9.9% YoY",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Costco $COST just reported revenue of $23.7 Billion of revenue in Augu\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19673,14 +19754,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-costco-cost-just-reported-revenue-of-23-7-billio-16732/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:23.936902+00:00"
+      "createdAt": "2026-09-04T04:45:23.936902+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T21:51:30Z"
     },
     {
       "id": "pkg-20260904-snowflake-snow-stock-is-up-by-20-in-after-hours--69397",
       "benchmarkPostId": "2095243894900269397",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095243894900269397",
       "title": "Snowflake $SNOW stock is up by 20% in after hours following its earnings 🟢",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Snowflake $SNOW stock is up by 20% in after hours following its earnin\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19691,14 +19775,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-snowflake-snow-stock-is-up-by-20-in-after-hours--69397/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:24.035178+00:00"
+      "createdAt": "2026-09-04T04:45:24.035178+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T21:44:06Z"
     },
     {
       "id": "pkg-20260904-deere-de-stock-hit-new-all-time-highs-again-toda-52702",
       "benchmarkPostId": "2095239112630452702",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095239112630452702",
       "title": "Deere $DE stock hit new ALL TIME HIGHS again today 🟢🟢🟢🟢🟢",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Deere $DE stock hit new ALL TIME HIGHS again today 🟢🟢🟢🟢🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19709,14 +19796,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-deere-de-stock-hit-new-all-time-highs-again-toda-52702/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:24.204358+00:00"
+      "createdAt": "2026-09-04T04:45:24.204358+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T21:25:06Z"
     },
     {
       "id": "pkg-20260904-google-s-googl-self-driving-car-company-waymo-is-18848",
       "benchmarkPostId": "2095236089535418848",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095236089535418848",
       "title": "Google's $GOOGL self driving car company Waymo is in the final stages of talks to raise $3B of debt ",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Google's $GOOGL self driving car company Waymo is in the final stages \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19727,7 +19817,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-google-s-googl-self-driving-car-company-waymo-is-18848/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:24.354700+00:00"
+      "createdAt": "2026-09-04T04:45:24.354700+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T21:13:06Z"
     },
     {
       "id": "pkg-20260904-meta-platforms-meta-ceo-mark-zuckerberg-just-pos-14214",
@@ -19754,7 +19847,7 @@
       "benchmarkPostId": "2095224412077244758",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095224412077244758",
       "title": "Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today 🟢",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Johnson &amp; Johnson $JNJ stock hit new 52 WEEK HIGHS today 🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19765,14 +19858,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-johnson-amp-johnson-jnj-stock-hit-new-52-week-hi-44758/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:24.589066+00:00"
+      "createdAt": "2026-09-04T04:45:24.589066+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T20:26:41Z"
     },
     {
       "id": "pkg-20260904-here-is-some-of-the-stuff-that-our-partners-at-b-51871",
       "benchmarkPostId": "2095221095443951871",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095221095443951871",
       "title": "Here is some of the stuff that our partners at BTQ Technologies have done so far in 2026 👀",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Here is some of the stuff that our partners at BTQ Technologies have d\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19783,7 +19879,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-here-is-some-of-the-stuff-that-our-partners-at-b-51871/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:24.726146+00:00"
+      "createdAt": "2026-09-04T04:45:24.726146+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T20:13:31Z"
     },
     {
       "id": "pkg-20260904-president-trump-just-said-the-stock-market-will--70355",
@@ -19810,7 +19909,7 @@
       "benchmarkPostId": "2095196970465755248",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095196970465755248",
       "title": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: This is how every stock in the S&amp;P 500 has performed so far in tod\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19821,14 +19920,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-55248/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:24.980748+00:00"
+      "createdAt": "2026-09-04T04:45:24.980748+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T18:37:39Z"
     },
     {
       "id": "pkg-20260904-uber-technologies-uber-is-shutting-down-its-serv-61384",
       "benchmarkPostId": "2095183032831361384",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095183032831361384",
       "title": "Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 effective September 2nd, followi",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Uber Technologies $UBER is shutting down its services in Nigeria 🇳🇬 ef\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19839,7 +19941,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-uber-technologies-uber-is-shutting-down-its-serv-61384/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:25.058255+00:00"
+      "createdAt": "2026-09-04T04:45:25.058255+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T17:42:16Z"
     },
     {
       "id": "pkg-20260904-this-is-what-5-35-million-gets-you-in-cleveland--03269",
@@ -19866,7 +19971,7 @@
       "benchmarkPostId": "2095179359199846611",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095179359199846611",
       "title": "Southwest Airlines $LUV plans to roll out its first-ever lounge network next year - Bloomberg",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Southwest Airlines $LUV plans to roll out its first-ever lounge networ\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19877,14 +19982,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-southwest-airlines-luv-plans-to-roll-out-its-fir-46611/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:25.330612+00:00"
+      "createdAt": "2026-09-04T04:45:25.330612+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T17:27:40Z"
     },
     {
       "id": "pkg-20260904-commerce-secretary-lutnick-just-said-anthropic-i-96511",
       "benchmarkPostId": "2095178347865096511",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095178347865096511",
       "title": "🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID: - ANTHROPIC IS \"BACK ON THE RIGHT SIDE\" WITH TRUMP ADMINIST",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 COMMERCE SECRETARY LUTNICK JUST SAID: - ANTHROPIC IS \"BACK ON THE R\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19895,14 +20003,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-commerce-secretary-lutnick-just-said-anthropic-i-96511/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:25.428591+00:00"
+      "createdAt": "2026-09-04T04:45:25.428591+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T17:23:39Z"
     },
     {
       "id": "pkg-20260904-ge-vernova-gev-has-committed-to-repairing-large--76698",
       "benchmarkPostId": "2095174970171076698",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095174970171076698",
       "title": "GE Vernova $GEV has committed to repairing large portions of Venezuela’s 🇻🇪 power grid - Bloomberg",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: GE Vernova $GEV has committed to repairing large portions of Venezuela\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19913,7 +20024,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-ge-vernova-gev-has-committed-to-repairing-large--76698/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:25.545117+00:00"
+      "createdAt": "2026-09-04T04:45:25.545117+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T17:10:14Z"
     },
     {
       "id": "pkg-20260904-claude-just-fully-sold-out-of-its-adobe-adbe-sto-54669",
@@ -19960,7 +20074,7 @@
       "benchmarkPostId": "2095170753813434495",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095170753813434495",
       "title": "SMN analyst number 5 is in the region to monitor the situation",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: SMN analyst number 5 is in the region to monitor the situation\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -19971,7 +20085,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-smn-analyst-number-5-is-in-the-region-to-monitor-34495/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:25.884628+00:00"
+      "createdAt": "2026-09-04T04:45:25.884628+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T16:53:28Z"
     },
     {
       "id": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-said-this-today-to--89441",
@@ -20018,7 +20135,7 @@
       "benchmarkPostId": "2095149851797241905",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095149851797241905",
       "title": "I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought it at the end of the day when t",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: I bought Tempus AI $TEM at $60.87 per share on August 19th. I bought i\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20029,14 +20146,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-i-bought-tempus-ai-tem-at-60-87-per-share-on-aug-41905/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:26.151989+00:00"
+      "createdAt": "2026-09-04T04:45:26.151989+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T15:30:25Z"
     },
     {
       "id": "pkg-20260904-dell-is-starting-out-trading-today-up-by-12-8-an-54455",
       "benchmarkPostId": "2095146897019154455",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095146897019154455",
       "title": "$DELL is starting out trading today up by 12.8% 🟢 and is now up by 282% 🟢 so far in 2026",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: $DELL is starting out trading today up by 12.8% 🟢 and is now up by 282\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20047,14 +20167,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-dell-is-starting-out-trading-today-up-by-12-8-an-54455/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:26.296941+00:00"
+      "createdAt": "2026-09-04T04:45:26.296941+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T15:18:40Z"
     },
     {
       "id": "pkg-20260904-nvidia-nvda-ceo-jensen-huang-called-on-group-of--31505",
       "benchmarkPostId": "2095140381386031505",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095140381386031505",
       "title": "Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to accelerate their adoption of AI as a ",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang called on Group of 20 nations to acceler\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20065,14 +20188,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-nvidia-nvda-ceo-jensen-huang-called-on-group-of--31505/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:26.436754+00:00"
+      "createdAt": "2026-09-04T04:45:26.436754+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T14:52:47Z"
     },
     {
       "id": "pkg-20260904-september-rate-hike-odds-there-is-currently-a-56-86124",
       "benchmarkPostId": "2095136541538386124",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095136541538386124",
       "title": "SEPTEMBER RATE HIKE ODDS There is currently a 56% chance that Kevin Warsh and the 🇺🇸 Fed raise rates",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: SEPTEMBER RATE HIKE ODDS There is currently a 56% chance that Kevin Wa\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20083,7 +20209,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-september-rate-hike-odds-there-is-currently-a-56-86124/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:26.520898+00:00"
+      "createdAt": "2026-09-04T04:45:26.520898+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T14:37:31Z"
     },
     {
       "id": "pkg-20260904-just-in-oppenheimer-raises-spacex-spcx-price-tar-90757",
@@ -20110,7 +20239,7 @@
       "benchmarkPostId": "2095113199389495519",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095113199389495519",
       "title": "NEW: XYO and Gate AI team up to launch XYO crypto cards.",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: NEW: XYO and Gate AI team up to launch XYO crypto cards.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -20121,7 +20250,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-new-xyo-and-gate-ai-team-up-to-launch-xyo-crypto-95519/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T04:45:26.808004+00:00"
+      "createdAt": "2026-09-04T04:45:26.808004+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-02T13:04:46Z"
     },
     {
       "id": "pkg-20260904-just-in-btc-currently-forecasted-to-go-as-high-a-35044",
@@ -20228,7 +20360,7 @@
       "benchmarkPostId": "2095572272689872910",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095572272689872910",
       "title": "WHAT A TURN AROUND We’re don’t a stock picking competition with Gamestock … the people who come in t",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: WHAT A TURN AROUND We’re don’t a stock picking competition with Gamest\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20239,14 +20371,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-what-a-turn-around-we-re-don-t-a-stock-picking-c-72910/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.338731+00:00"
+      "createdAt": "2026-09-04T04:45:27.338731+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T19:28:58Z"
     },
     {
       "id": "pkg-20260904-google-googl-just-launched-what-it-calls-his-the-35457",
       "benchmarkPostId": "2095571452686635457",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095571452686635457",
       "title": "Google $GOOGL just launched what it calls his the most advanced and accurate weather prediction mode",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Google $GOOGL just launched what it calls his the most advanced and ac\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20257,14 +20392,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-google-googl-just-launched-what-it-calls-his-the-35457/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.450115+00:00"
+      "createdAt": "2026-09-04T04:45:27.450115+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T19:25:42Z"
     },
     {
       "id": "pkg-20260904-hugging-face-x-nvidia-nvda-83583",
       "benchmarkPostId": "2095570560407183583",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095570560407183583",
       "title": "Hugging Face x Nvidia $NVDA",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Hugging Face x Nvidia $NVDA\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20275,14 +20413,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-hugging-face-x-nvidia-nvda-83583/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.524287+00:00"
+      "createdAt": "2026-09-04T04:45:27.524287+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T19:22:10Z"
     },
     {
       "id": "pkg-20260904-google-googl-ceo-sundar-pichai-just-posted-this--98993",
       "benchmarkPostId": "2095570340181098993",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095570340181098993",
       "title": "Google $GOOGL CEO Sundar Pichai just posted this: “New Gemini voice capabilities are rolling out so ",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Google $GOOGL CEO Sundar Pichai just posted this: “New Gemini voice ca\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20293,14 +20434,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-google-googl-ceo-sundar-pichai-just-posted-this--98993/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.649850+00:00"
+      "createdAt": "2026-09-04T04:45:27.649850+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T19:21:17Z"
     },
     {
       "id": "pkg-20260904-the-3-founders-of-hugging-face-are-now-each-wort-06558",
       "benchmarkPostId": "2095560327723106558",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095560327723106558",
       "title": "The 3 founders of Hugging Face are now each worth $1.8 Billion after today's Nvidia deal Clement \"Cl",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: The 3 founders of Hugging Face are now each worth $1.8 Billion after t\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20311,14 +20455,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-the-3-founders-of-hugging-face-are-now-each-wort-06558/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.736549+00:00"
+      "createdAt": "2026-09-04T04:45:27.736549+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T18:41:30Z"
     },
     {
       "id": "pkg-20260904-grok-is-back-to-being-in-first-place-in-the-rall-07876",
       "benchmarkPostId": "2095543274987507876",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095543274987507876",
       "title": "GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET ARENA",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: GROK IS BACK TO BEING IN FIRST PLACE IN THE RALLIES AI STOCK MARKET AR\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20329,14 +20476,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-grok-is-back-to-being-in-first-place-in-the-rall-07876/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.807866+00:00"
+      "createdAt": "2026-09-04T04:45:27.807866+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T17:33:44Z"
     },
     {
       "id": "pkg-20260904-polymarket-just-launched-perpetual-futures-polym-51028",
       "benchmarkPostId": "2095531894926451028",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095531894926451028",
       "title": "POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launched Perps on the platform which",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: POLYMARKET JUST LAUNCHED PERPETUAL FUTURES Polymarket⁠.com just launch\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20347,7 +20497,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-polymarket-just-launched-perpetual-futures-polym-51028/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:27.883298+00:00"
+      "createdAt": "2026-09-04T04:45:27.883298+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T16:48:31Z"
     },
     {
       "id": "pkg-20260904-outage-report-claude-openai-and-grok-are-all-cur-85289",
@@ -20374,7 +20527,7 @@
       "benchmarkPostId": "2095524837208834303",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095524837208834303",
       "title": "Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Bitcoin $BTC is back over $80,000 🟢🟢🟢🟢🟢🟢🟢🟢\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20385,14 +20538,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-bitcoin-btc-is-back-over-80-000-34303/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.032967+00:00"
+      "createdAt": "2026-09-04T04:45:28.032967+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T16:20:28Z"
     },
     {
       "id": "pkg-20260904-campbell-s-soup-cpb-just-announced-that-is-has-c-56433",
       "benchmarkPostId": "2095523910951256433",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095523910951256433",
       "title": "Campbell’s Soup $CPB just announced that is has cut more than 1,750 jobs, or roughly 13% of its work",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Campbell’s Soup $CPB just announced that is has cut more than 1,750 jo\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20403,14 +20559,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-campbell-s-soup-cpb-just-announced-that-is-has-c-56433/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.113405+00:00"
+      "createdAt": "2026-09-04T04:45:28.113405+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T16:16:47Z"
     },
     {
       "id": "pkg-20260904-jpmorgan-jpm-is-now-less-than-50-billion-away-fr-62334",
       "benchmarkPostId": "2095521469094662334",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095521469094662334",
       "title": "JPMorgan $JPM is now less than $50 Billion away from joining the $1 Trillion market cap club",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: JPMorgan $JPM is now less than $50 Billion away from joining the $1 Tr\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20421,7 +20580,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-jpmorgan-jpm-is-now-less-than-50-billion-away-fr-62334/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.210629+00:00"
+      "createdAt": "2026-09-04T04:45:28.210629+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T16:07:05Z"
     },
     {
       "id": "pkg-20260904-the-stock-market-fear-and-greed-index-is-now-dow-75299",
@@ -20448,7 +20610,7 @@
       "benchmarkPostId": "2095516280321102293",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095516280321102293",
       "title": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: This is how every stock in the S&amp;P 500 has performed so far in tod\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20459,14 +20621,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-this-is-how-every-stock-in-the-s-amp-p-500-has-p-02293/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.424975+00:00"
+      "createdAt": "2026-09-04T04:45:28.424975+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T15:46:28Z"
     },
     {
       "id": "pkg-20260904-meta-s-stock-is-back-to-starting-with-a-6-18105",
       "benchmarkPostId": "2095509213367718105",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095509213367718105",
       "title": "$META’s stock is back to starting with a 6",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: $META’s stock is back to starting with a 6\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20477,14 +20642,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-meta-s-stock-is-back-to-starting-with-a-6-18105/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.499554+00:00"
+      "createdAt": "2026-09-04T04:45:28.499554+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T15:18:23Z"
     },
     {
       "id": "pkg-20260904-snowflake-snow-is-starting-trading-today-up-by-m-45951",
       "benchmarkPostId": "2095506487988645951",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095506487988645951",
       "title": "Snowflake $SNOW is starting trading today up by more than 20% following its earnings last night 🟢",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Snowflake $SNOW is starting trading today up by more than 20% followin\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20495,14 +20663,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-snowflake-snow-is-starting-trading-today-up-by-m-45951/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.581975+00:00"
+      "createdAt": "2026-09-04T04:45:28.581975+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T15:07:34Z"
     },
     {
       "id": "pkg-20260904-tim-apple-cooked-the-market-during-his-time-as-t-06552",
       "benchmarkPostId": "2095503578802606552",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095503578802606552",
       "title": "Tim Apple cooked the market during his time as the CEO of Apple $AAPL",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Tim Apple cooked the market during his time as the CEO of Apple $AAPL\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20513,14 +20684,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-tim-apple-cooked-the-market-during-his-time-as-t-06552/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.661939+00:00"
+      "createdAt": "2026-09-04T04:45:28.661939+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T14:56:00Z"
     },
     {
       "id": "pkg-20260904-name-another-platform-where-you-can-get-triggere-51063",
       "benchmarkPostId": "2095499492183151063",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095499492183151063",
       "title": "Name another platform where you can get triggered by both Michael Burry and Elon Musk at the same ti",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Name another platform where you can get triggered by both Michael Burr\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20531,14 +20705,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-name-another-platform-where-you-can-get-triggere-51063/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.832699+00:00"
+      "createdAt": "2026-09-04T04:45:28.832699+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T14:39:46Z"
     },
     {
       "id": "pkg-20260904-fed-s-waller-just-said-we-should-start-to-see-so-99973",
       "benchmarkPostId": "2095495103158599973",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095495103158599973",
       "title": "🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS ON INFLATION, EXPECT A REASON",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: 🇺🇸 FED'S WALLER JUST SAID: - WE SHOULD START TO SEE SOME LOWER NUMBERS\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20549,14 +20726,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-fed-s-waller-just-said-we-should-start-to-see-so-99973/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.905859+00:00"
+      "createdAt": "2026-09-04T04:45:28.905859+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-03T14:22:19Z"
     },
     {
       "id": "pkg-20260904-jim-cramer-was-just-asked-about-iren-stock-if-yo-78901",
       "benchmarkPostId": "2095685369031278901",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095685369031278901",
       "title": "Jim Cramer was just asked about $IREN stock: “If you’re going to do neoclouds, the only one I like i",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Jim Cramer was just asked about $IREN stock: “If you’re going to do ne\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20567,7 +20747,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-jim-cramer-was-just-asked-about-iren-stock-if-yo-78901/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T04:45:28.992133+00:00"
+      "createdAt": "2026-09-04T04:45:28.992133+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T02:58:22Z"
     },
     {
       "id": "pkg-20260904-tesla-tsla-has-now-officially-started-offering-r-51266",
@@ -20594,7 +20777,7 @@
       "benchmarkPostId": "2095748158001131691",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095748158001131691",
       "title": "JUST IN: BlackRock clients buy $453.96 million worth of $BTC.",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: BlackRock clients buy $453.96 million worth of $BTC.\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -20605,7 +20788,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-blackrock-clients-buy-453-96-million-wor-31691/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T06:42:51.812831+00:00"
+      "createdAt": "2026-09-04T06:42:51.812831+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T07:07:52Z"
     },
     {
       "id": "pkg-20260904-blackrock-eth-7207m-market-radar",
@@ -20634,7 +20820,7 @@
       "benchmarkPostId": "2095852270202048699",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095852270202048699",
       "title": "The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of +53K jobs added (NFP Non-farm ",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: The 🇺🇸 economy saw 162,000 jobs ADDED in August Above expectations of \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20645,14 +20831,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-the-economy-saw-162-000-jobs-added-in-august-abo-48699/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T12:43:49.588478+00:00"
+      "createdAt": "2026-09-04T12:43:49.588478+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T14:01:34Z"
     },
     {
       "id": "pkg-20260904-nvidia-nvda-has-committed-to-invest-more-than-40-85319",
       "benchmarkPostId": "2095847527920685319",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095847527920685319",
       "title": "Nvidia $NVDA has committed to invest more than $40 billion into AI companies so far in 2026",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA has committed to invest more than $40 billion into AI com\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20663,14 +20852,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-nvidia-nvda-has-committed-to-invest-more-than-40-85319/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T12:43:49.691163+00:00"
+      "createdAt": "2026-09-04T12:43:49.691163+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T13:42:44Z"
     },
     {
       "id": "pkg-20260904-just-in-btc-currently-forecasted-to-hit-a-high-o-24937",
       "benchmarkPostId": "2095845567893024937",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095845567893024937",
       "title": "JUST IN: $BTC currently forecasted to hit a high of $90,000 this year, per Kalshi traders.",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $BTC currently forecasted to hit a high of $90,000 this year,\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -20681,14 +20873,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-btc-currently-forecasted-to-hit-a-high-o-24937/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T12:43:49.837591+00:00"
+      "createdAt": "2026-09-04T12:43:49.837591+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T13:34:56Z"
     },
     {
       "id": "pkg-20260904-volkswagen-just-announced-plans-for-a-further-50-14299",
       "benchmarkPostId": "2095845351089414299",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095845351089414299",
       "title": "Volkswagen just announced plans for a further 50,000 job cuts - CNBC",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Volkswagen just announced plans for a further 50,000 job cuts - CNBC\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20699,14 +20894,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-volkswagen-just-announced-plans-for-a-further-50-14299/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T12:43:49.979212+00:00"
+      "createdAt": "2026-09-04T12:43:49.979212+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T13:34:05Z"
     },
     {
       "id": "pkg-20260904-the-trade-deredacted-credential-like-string",
       "benchmarkPostId": "2095838483235348731",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095838483235348731",
       "title": "THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL WORKFORCE",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: THE TRADE DESK $TTD JUST ANNOUNCED PLANS TO LET GO 15% OFF ITS GLOBAL \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20717,14 +20915,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-the-trade-deredacted-credential-like-string/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T12:43:50.123397+00:00"
+      "createdAt": "2026-09-04T12:43:50.123397+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T13:06:47Z"
     },
     {
       "id": "pkg-20260904-chinese-leader-xi-jinping-to-bring-a-delegation--99834",
       "benchmarkPostId": "2095836337303699834",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095836337303699834",
       "title": "CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIGGEST COMPANIES IN CHINA 🇨🇳 ON ",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: CHINESE LEADER XI JINPING TO BRING A DELEGATION OF THE CEOS OF THE BIG\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20735,14 +20936,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-chinese-leader-xi-jinping-to-bring-a-delegation--99834/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T12:43:50.262236+00:00"
+      "createdAt": "2026-09-04T12:43:50.262236+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T12:58:16Z"
     },
     {
       "id": "pkg-20260904-this-is-what-3-2-million-gets-you-in-los-angeles-61484",
       "benchmarkPostId": "2095833017654661484",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095833017654661484",
       "title": "This is what $3.2 Million gets you in Los Angeles The former house of Fred Durst, Adam Brody, and Am",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: This is what $3.2 Million gets you in Los Angeles The former house of \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -20753,14 +20957,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-this-is-what-3-2-million-gets-you-in-los-angeles-61484/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-04T12:43:50.409903+00:00"
+      "createdAt": "2026-09-04T12:43:50.409903+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T12:45:04Z"
     },
     {
       "id": "pkg-20260904-just-in-morgan-stanley-expects-the-fed-to-keep-r-84277",
       "benchmarkPostId": "2095820668109484277",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095820668109484277",
       "title": "JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, despite Chair Kevin Warsh’s hawk",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇺🇸 Morgan Stanley expects the Fed to keep rates unchanged, de\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -20771,14 +20978,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-morgan-stanley-expects-the-fed-to-keep-r-84277/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T12:43:50.571853+00:00"
+      "createdAt": "2026-09-04T12:43:50.571853+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T11:56:00Z"
     },
     {
       "id": "pkg-20260904-just-in-ap-with-over-20-000-in-nvidia-holdings-a-80666",
       "benchmarkPostId": "2095819068913680666",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095819068913680666",
       "title": "JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity pool, is",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: $AP, with over $20,000 in Nvidia holdings across its communit\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -20789,14 +20999,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-ap-with-over-20-000-in-nvidia-holdings-a-80666/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T12:43:50.731316+00:00"
+      "createdAt": "2026-09-04T12:43:50.731316+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T11:49:39Z"
     },
     {
       "id": "pkg-20260904-just-in-deepseek-plans-to-install-more-than-160--12173",
       "benchmarkPostId": "2095812430299312173",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095812430299312173",
       "title": "JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China.",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chip\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -20807,14 +21020,17 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-deepseek-plans-to-install-more-than-160--12173/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T12:43:50.910487+00:00"
+      "createdAt": "2026-09-04T12:43:50.910487+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T11:23:16Z"
     },
     {
       "id": "pkg-20260904-just-in-reports-and-rumours-suggest-some-users-m-10350",
       "benchmarkPostId": "2095811048884310350",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095811048884310350",
       "title": "JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market launchpad",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Reports and rumours suggest some users may be moving toward a\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -20825,7 +21041,10 @@
       ],
       "imagePath": "deliverables/pkg-20260904-just-in-reports-and-rumours-suggest-some-users-m-10350/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-04T12:43:51.043029+00:00"
+      "createdAt": "2026-09-04T12:43:51.043029+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T11:17:46Z"
     },
     {
       "id": "pkg-20260905-just-in-the-s-amp-p-500-is-changing-these-stocks-90845",
@@ -21261,7 +21480,7 @@
       "benchmarkPostId": "2095912050492891419",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095912050492891419",
       "title": "JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $1M will ",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: @MetaWin player turns $45 into over $87,000 following their a\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -21272,7 +21491,10 @@
       ],
       "imagePath": "deliverables/pkg-20260905-just-in-metawin-player-turns-45-into-over-87-000-91419/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-05T00:42:12.081023+00:00"
+      "createdAt": "2026-09-05T00:42:12.081023+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T17:59:07Z"
     },
     {
       "id": "pkg-20260907-us-stock-market-closed-labor-day",
@@ -21343,7 +21565,7 @@
       "benchmarkPostId": "2095873913293066683",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2095873913293066683",
       "title": "JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transaction fees from launch through S",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD has accumulated $18 million in transact\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -21354,7 +21576,10 @@
       ],
       "imagePath": "deliverables/pkg-20260905-just-in-robinhood-chain-hood-has-accumulated-18--66683/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-05T00:42:12.604597+00:00"
+      "createdAt": "2026-09-05T00:42:12.604597+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T15:27:35Z"
     },
     {
       "id": "pkg-20260905-new-the-bank-for-international-settlements-publi-87810",
@@ -21405,7 +21630,7 @@
       "benchmarkPostId": "2095894932716229002",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095894932716229002",
       "title": "Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will take pl",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Mark Zuckerberg and Meta Platforms $META confirmed that their annual M\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -21416,14 +21641,17 @@
       ],
       "imagePath": "deliverables/pkg-20260905-mark-zuckerberg-and-meta-platforms-meta-confirme-29002/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T06:42:25.941195+00:00"
+      "createdAt": "2026-09-05T06:42:25.941195+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T16:51:06Z"
     },
     {
       "id": "pkg-20260905-the-anthropic-ipo-is-coming-quick-will-we-get-th-93182",
       "benchmarkPostId": "2095893198962893182",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095893198962893182",
       "title": "The Anthropic IPO is coming quick Will we get the public S-1 filing next week?",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: The Anthropic IPO is coming quick Will we get the public S-1 filing ne\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -21434,14 +21662,17 @@
       ],
       "imagePath": "deliverables/pkg-20260905-the-anthropic-ipo-is-coming-quick-will-we-get-th-93182/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T06:42:26.061470+00:00"
+      "createdAt": "2026-09-05T06:42:26.061470+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T16:44:13Z"
     },
     {
       "id": "pkg-20260905-after-today-there-will-be-just-81-trading-days-l-08525",
       "benchmarkPostId": "2095890514369208525",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095890514369208525",
       "title": "After today there will be just 81 trading days left in 2026",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: After today there will be just 81 trading days left in 2026\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -21452,14 +21683,17 @@
       ],
       "imagePath": "deliverables/pkg-20260905-after-today-there-will-be-just-81-trading-days-l-08525/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T06:42:26.173492+00:00"
+      "createdAt": "2026-09-05T06:42:26.173492+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T16:33:33Z"
     },
     {
       "id": "pkg-20260905-nvidia-nvda-is-now-back-to-being-worth-1-trillio-73082",
       "benchmarkPostId": "2095888167911973082",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095888167911973082",
       "title": "Nvidia $NVDA is now back to being worth ~$1 Trillion more than any other company in the world",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: Nvidia $NVDA is now back to being worth ~$1 Trillion more than any oth\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -21470,7 +21704,10 @@
       ],
       "imagePath": "deliverables/pkg-20260905-nvidia-nvda-is-now-back-to-being-worth-1-trillio-73082/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T06:42:26.291474+00:00"
+      "createdAt": "2026-09-05T06:42:26.291474+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T16:24:13Z"
     },
     {
       "id": "pkg-20260905-this-is-what-grok-s-portfolio-looks-like-right-n-21519",
@@ -21557,7 +21794,7 @@
       "benchmarkPostId": "2095862891639439615",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095862891639439615",
       "title": "There is now a 52% chance that Kevin Warsh and the US Fed raise rates by 0.25% this month There is a",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: There is now a 52% chance that Kevin Warsh and the US Fed raise rates \n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -21568,7 +21805,10 @@
       ],
       "imagePath": "deliverables/pkg-20260905-there-is-now-a-52-chance-that-kevin-warsh-and-th-39615/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-05T06:42:26.891373+00:00"
+      "createdAt": "2026-09-05T06:42:26.891373+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-04T14:43:47Z"
     },
     {
       "id": "pkg-20260905-cnbc-s-rick-santelli-to-retire-49502",
@@ -22163,7 +22403,7 @@
       "benchmarkPostId": "2096189719310725292",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096189719310725292",
       "title": "JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marking a new all-time high.",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: JUST IN: Robinhood Chain $HOOD 24H DEX volume hits $3.7 billion, marki\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -22174,7 +22414,10 @@
       ],
       "imagePath": "deliverables/pkg-20260906-just-in-robinhood-chain-hood-24h-dex-volume-hits-25292/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-06T06:41:37.774681+00:00"
+      "createdAt": "2026-09-06T06:41:37.774681+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-05T12:22:29Z"
     },
     {
       "id": "pkg-20260906-just-in-btc-etfs-have-recorded-net-inflows-for-3-48911",
@@ -22482,7 +22725,7 @@
       "benchmarkPostId": "2096718702703935494",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096718702703935494",
       "title": "Robinhood Chain tops $8M in Friday fees",
-      "status": "ready",
+      "status": "expired",
       "postText": "$HOOD's Robinhood Chain generated more than $8M in fees Friday.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Robinhood Chain $HOOD generated more than $8 million in fees on Friday."
@@ -22498,7 +22741,10 @@
         "prompt": "Square image-model visual: dark Robinhood Chain transaction data center and fee dashboard, exact headline Robinhood Chain and $8M+ Friday Fees; premium black financial-news palette, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-06T23:24:28Z"
     },
     {
       "id": "pkg-20260907-nvidia-nvda-ceo-jensen-huang-just-said-agi-has-a-41575",
@@ -22696,7 +22942,7 @@
       "benchmarkPostId": "2096648113649799675",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096648113649799675",
       "title": "We are doing a free to enter NFL Pick em league, you pick every game throughout the season We’re goi",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @StockMKTNewz reports: We are doing a free to enter NFL Pick em league, you pick every game t\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @StockMKTNewz; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @StockMKTNewz",
@@ -22707,7 +22953,10 @@
       ],
       "imagePath": "deliverables/pkg-20260907-we-are-doing-a-free-to-enter-nfl-pick-em-league--99675/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @StockMKTNewz; not independently verified.",
-      "createdAt": "2026-09-07T00:42:46.116296+00:00"
+      "createdAt": "2026-09-07T00:42:46.116296+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-06T18:43:58Z"
     },
     {
       "id": "pkg-20260907-nfl-regular-season-starts",
@@ -22786,7 +23035,7 @@
       "benchmarkPostId": "2096617256641761427",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096617256641761427",
       "title": "NEW: VC-backed Pokémon gacha site just launched. They’re offering 200% deposit bonuses to pull users",
-      "status": "ready",
+      "status": "expired",
       "postText": "Market radar: @WhaleInsider reports: NEW: VC-backed Pokémon gacha site just launched. They’re offering 200%\n\nUnverified source claim—watch context, not a trade.\n\nMarket radar — reported by @WhaleInsider; not independently verified. Not investment advice.",
       "mirroredFacts": [
         "Source-attributed report from @WhaleInsider",
@@ -22797,7 +23046,10 @@
       ],
       "imagePath": "deliverables/pkg-20260907-new-vc-backed-pok-mon-gacha-site-just-launched-t-61427/when2buy-market-radar.png",
       "sourceDisclosure": "Market radar — reported by @WhaleInsider; not independently verified.",
-      "createdAt": "2026-09-07T00:42:46.875961+00:00"
+      "createdAt": "2026-09-07T00:42:46.875961+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-06T16:41:21Z"
     },
     {
       "id": "pkg-20260907-75-of-new-apple-aapl-ceo-john-ternus-stock-based-46653",
@@ -22844,7 +23096,7 @@
       "benchmarkPostId": "2096762652995248280",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096762652995248280",
       "title": "U.S. stock market closed Monday",
-      "status": "ready",
+      "status": "expired",
       "postText": "The U.S. stock market is closed Monday.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The source post says the stock market is not open Monday."
@@ -22860,7 +23112,10 @@
         "prompt": "Square image-model visual: New York Stock Exchange exterior with a Monday market-closure headline; black premium financial-news palette, white type, controlled red accents, and a bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T02:19:07Z"
     },
     {
       "id": "pkg-20260907-japan-foreign-securities-754540",
@@ -23584,7 +23839,7 @@
       "benchmarkPostId": "2096965037080334439",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096965037080334439",
       "title": "IBM $IBM ranks second-worst in the Dow in 2026",
-      "status": "ready",
+      "status": "expired",
       "postText": "$IBM is the Dow's second-worst performer so far in 2026, down 21%.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "IBM is the second-worst-performing Dow Jones stock so far in 2026.",
@@ -23613,14 +23868,17 @@
             "no damaged or inconsistent subject"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T15:43:19Z"
     },
     {
       "id": "pkg-20260907-merck-dow-43-performance",
       "benchmarkPostId": "2096967712274628776",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096967712274628776",
       "title": "Merck leads the Dow in 2026",
-      "status": "ready",
+      "status": "expired",
       "postText": "$MRK is the Dow's best-performing stock in 2026, up 43% so far.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Merck is the best-performing Dow Jones stock so far in 2026.",
@@ -23650,14 +23908,17 @@
             "no visible image damage"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T15:53:57Z"
     },
     {
       "id": "pkg-20260907-miami-penthouse-75m",
       "benchmarkPostId": "2096973053095706742",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096973053095706742",
       "title": "Miami $75M penthouse",
-      "status": "ready",
+      "status": "expired",
       "postText": "A $75M penthouse is turning heads in Miami.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "A Miami penthouse is presented at $75 million."
@@ -23677,14 +23938,17 @@
           "inspection": "Approved: entity-led Miami penthouse scene, no generated text, no generic radar treatment, exact repository logo composited once at lower-right with clear space.",
           "logoSha256": "197cfdd9d2b623083e8018db4b8f4ca068f0476d79b8038b400d447c1abb8130"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T16:15:10Z"
     },
     {
       "id": "pkg-20260907-caterpillar-cat-plus-42-ytd",
       "benchmarkPostId": "2096977122342400266",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096977122342400266",
       "title": "Caterpillar ranks second among Dow stocks in 2026",
-      "status": "ready",
+      "status": "expired",
       "postText": "Caterpillar $CAT is up 42% year to date, ranking second among Dow stocks in 2026.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Caterpillar $CAT is up about 42% year to date.",
@@ -23714,14 +23978,17 @@
             "no damage or misspelling"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T16:31:20Z"
     },
     {
       "id": "pkg-20260907-hanwha-avalanche-tokenization-platform",
       "benchmarkPostId": "2096975330858692621",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096975330858692621",
       "title": "Hanwha builds tokenized-securities platform on Avalanche",
-      "status": "ready",
+      "status": "expired",
       "postText": "Hanwha Investment & Securities has built a tokenized-securities platform on Avalanche.\n\nSouth Korea's tokenized-securities framework is scheduled to take effect February 4, 2027.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Hanwha Investment & Securities built a tokenized-securities platform supporting Avalanche.",
@@ -23752,14 +24019,17 @@
             "no damage or misspelling"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T16:24:13Z"
     },
     {
       "id": "pkg-20260907-datahedge-intel-partner",
       "benchmarkPostId": "2096981101445001600",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096981101445001600",
       "title": "DATAHEDGE AI joins Intel Partner Directory",
-      "status": "ready",
+      "status": "expired",
       "postText": "DATAHEDGE AI has partnered with Intel and joined the Intel Partner Directory.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "DATAHEDGE AI has officially partnered with Intel.",
@@ -23794,14 +24064,17 @@
         "state": "ERROR",
         "releaseURL": null,
         "retryPolicy": "do_not_retry_accepted_task_without_public_url"
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T16:47:09Z"
     },
     {
       "id": "pkg-20260907-copper-record-14533-ton",
       "benchmarkPostId": "2096986563792027845",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2096986563792027845",
       "title": "Copper hits a record $14,533 a ton",
-      "status": "ready",
+      "status": "expired",
       "postText": "Copper hit a record $14,533 a ton on the London Metal Exchange.\n\nPotential U.S. tariffs on refined copper imports are stoking the move.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Copper reached a record $14,533 a ton on the London Metal Exchange.",
@@ -23830,14 +24103,17 @@
             "no visible damage or misspelling"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T17:08:51Z"
     },
     {
       "id": "pkg-20260907-us-gasoline-labor-day-record-415",
       "benchmarkPostId": "2096991041987531044",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096991041987531044",
       "title": "U.S. gasoline sets a $4.15 Labor Day record",
-      "status": "ready",
+      "status": "expired",
       "postText": "U.S. regular gasoline averaged $4.15 a gallon on Labor Day, a holiday record.\n\nThe prior Labor Day high had never reached $4 a gallon.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The national average price for regular unleaded gasoline was $4.15 a gallon on Labor Day.",
@@ -23867,14 +24143,17 @@
             "no visible damage or malformed subject"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T17:26:39Z"
     },
     {
       "id": "pkg-20260907-onchain-terminals-635b-week",
       "benchmarkPostId": "2097003578648940977",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097003578648940977",
       "title": "Onchain terminals clear $6.35B in weekly trading",
-      "status": "ready",
+      "status": "expired",
       "postText": "Onchain terminals processed $6.35B in trading volume this week.\n\nIt was the biggest week since the $TRUMP trading surge.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Onchain terminals processed $6.35 billion in trading volume during the week.",
@@ -23901,14 +24180,17 @@
             "no generic radar background or damaged logo"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T18:16:28Z"
     },
     {
       "id": "pkg-20260907-louisiana-purchase-market-value",
       "benchmarkPostId": "2097009717994242070",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097009717994242070",
       "title": "Louisiana Purchase and modern market purchasing power",
-      "status": "blocked",
+      "status": "expired",
       "postText": "The U.S. bought the Louisiana territory from France for $15M in 1803.\n\nAt current prices, $15M buys 19.8 Berkshire Hathaway Class A shares.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The United States purchased Louisiana from France for $15 million in 1803.",
@@ -23943,14 +24225,17 @@
         "attempts": 1,
         "completedAt": "2026-09-07T17:31:31Z",
         "outcome": "error_no_public_x_url_no_retry"
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T18:40:51Z"
     },
     {
       "id": "pkg-20260907-us-stock-funds-126-ytd",
       "benchmarkPostId": "2097014587426062500",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097014587426062500",
       "title": "Average U.S. stock fund up 12.6% in 2026 through August",
-      "status": "ready",
+      "status": "expired",
       "postText": "The average U.S. stock ETF and mutual fund is up 12.6% in 2026 through the end of August.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The average U.S. stock ETF and mutual fund was up 12.6% in 2026.",
@@ -23978,14 +24263,17 @@
             "no damaged logo or source attribution"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T19:00:12Z"
     },
     {
       "id": "pkg-20260907-trump-stock-holdings-statement",
       "benchmarkPostId": "2097020156203397246",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097020156203397246",
       "title": "President Trump says he made hundreds of billions on stocks and holdings",
-      "status": "ready",
+      "status": "expired",
       "postText": "President Trump says he has made hundreds of billions of dollars on stocks and other holdings.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "President Trump said he has made hundreds of billions of dollars.",
@@ -24014,14 +24302,17 @@
             "no damaged-logo output"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T19:22:20Z"
     },
     {
       "id": "pkg-20260907-openai-pachocki-extreme-caution",
       "benchmarkPostId": "2097031676031336867",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097031676031336867",
       "title": "OpenAI chief scientist urges extreme caution",
-      "status": "ready",
+      "status": "expired",
       "postText": "OpenAI chief scientist Jakub Pachocki is calling for extreme caution as AI capabilities advance rapidly.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "OpenAI chief scientist Jakub Pachocki called for extreme caution.",
@@ -24049,14 +24340,17 @@
             "no damaged or malformed hardware"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T20:08:07Z"
     },
     {
       "id": "pkg-20260907-iron-ore-back-above-100",
       "benchmarkPostId": "2097031294546784410",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097031294546784410",
       "title": "Iron ore returns above $100 a ton",
-      "status": "ready",
+      "status": "expired",
       "postText": "Iron ore moved back above $100 a ton today for the first time in seven weeks.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Iron ore traded back above $100 a ton.",
@@ -24084,14 +24378,17 @@
             "no damaged or malformed rocks"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T20:06:36Z"
     },
     {
       "id": "pkg-20260907-ghost-solana-privacy-speculation",
       "benchmarkPostId": "2097036939798978783",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097036939798978783",
       "title": "$GHOST rises 86% amid Solana integration speculation",
-      "status": "ready",
+      "status": "expired",
       "postText": "$GHOST surged 86% in 24 hours amid speculation its privacy technology could integrate with Solana.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "$GHOST rose 86% over the preceding 24 hours.",
@@ -24108,7 +24405,10 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Manual visual inspection passed: 1254x1254 square PNG; entity-led shield/network scene; no generated text, no damaged or duplicated logo, and exact repository logo composited once in the lower-right safe area."
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T20:29:02Z"
     },
     {
       "id": "pkg-20260907-nvidia-uk-ai-meeting",
@@ -24152,7 +24452,7 @@
       "benchmarkPostId": "2097048992051769654",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097048992051769654",
       "title": "U.S. stock market reopens tomorrow",
-      "status": "blocked",
+      "status": "expired",
       "postText": "The U.S. stock market reopens tomorrow.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The U.S. stock market reopens tomorrow."
@@ -24181,7 +24481,10 @@
         }
       },
       "deliveryReason": "Time-sensitive “reopens tomorrow” claim was stale at the scheduled probe; package was not submitted.",
-      "blockedAt": "2026-09-08T06:08:25.297075+00:00"
+      "blockedAt": "2026-09-08T06:08:25.297075+00:00",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-07T21:16:55Z"
     },
     {
       "id": "pkg-20260908-robinhood-first-oura-ipo-underwriter",
@@ -24488,7 +24791,7 @@
       "benchmarkPostId": "2097238305305755671",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097238305305755671",
       "title": "Crypto-funded gift cards reach everyday spending in India",
-      "status": "ready",
+      "status": "expired",
       "postText": "Crypto holders in India are using overseas gift-card platforms to spend on groceries, fuel and gold.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Crypto can be converted through overseas platforms into gift cards and vouchers for domestic purchases in India.",
@@ -24518,14 +24821,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T09:49:11Z"
     },
     {
       "id": "pkg-20260908-robinhood-chain-fees-upside",
       "benchmarkPostId": "2097247338762809344",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097247338762809344",
       "title": "Robinhood Chain fees hit $33M in 15 days",
-      "status": "ready",
+      "status": "expired",
       "postText": "$HOOD has generated $33M in Robinhood Chain fees over the past 15 days.\n\nBernstein sees 31% upside for the stock.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Bernstein sees 31% upside for Robinhood $HOOD.",
@@ -24553,14 +24859,17 @@
             "no malformed or damaged subject"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T10:25:05Z"
     },
     {
       "id": "pkg-20260908-btc-short-term-whale-profit-risk",
       "benchmarkPostId": "2097253930233151772",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097253930233151772",
       "title": "Bitcoin short-term whale profits reach $9.07B",
-      "status": "ready",
+      "status": "expired",
       "postText": "$BTC short-term whale profits just hit a record $9.07B.\n\nThe build-up raises the risk of a sell-off.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "$BTC short-term whale profits reached a record $9.07 billion.",
@@ -24588,14 +24897,17 @@
             "no damaged or malformed object"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T10:51:16Z"
     },
     {
       "id": "pkg-20260908-boj-september-rate-signal",
       "benchmarkPostId": "2097260887690113057",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097260887690113057",
       "title": "Bank of Japan September rate signal",
-      "status": "ready",
+      "status": "expired",
       "postText": "Bank of Japan is weighing a 0.25-point rate hike at its Sept. 17-18 meeting.\n\nA move from 1.00% to 1.25% would put global rate markets on alert.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The Bank of Japan is weighing a 0.25 percentage-point rate increase at its September meeting.",
@@ -24625,14 +24937,17 @@
             "no damaged logo or malformed objects"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T11:18:55Z"
     },
     {
       "id": "pkg-20260908-asml-high-na-euv-commitments",
       "benchmarkPostId": "2097269529998946681",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097269529998946681",
       "title": "Samsung and TSMC commit to ASML High-NA EUV",
-      "status": "ready",
+      "status": "expired",
       "postText": "Samsung and TSMC have committed to ASML's High-NA EUV machines.\n\nThe systems target the next generation of leading-edge chip production.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Samsung and Taiwan Semiconductor have committed to use ASML High-NA extreme ultraviolet lithography machines.",
@@ -24650,14 +24965,17 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Manual visual inspection: square 1254x1254 PNG; entity-led High-NA EUV machine; no generated text, watermark, or generic radar visual; exact repository logo composited once at lower right."
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T11:53:15Z"
     },
     {
       "id": "pkg-20260908-mistral-ai-valuation-243b",
       "benchmarkPostId": "2097274693912858661",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097274693912858661",
       "title": "Mistral AI valuation above $24.3B",
-      "status": "ready",
+      "status": "expired",
       "postText": "Mistral AI is now valued above $24.3B.\n\nThe French AI challenger has entered a new valuation tier.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Mistral AI is valued at more than $24.3 billion."
@@ -24684,14 +25002,17 @@
             "no damaged logo or malformed object"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T12:13:47Z"
     },
     {
       "id": "pkg-20260908-asml-tsm-12-inch-euv-masks",
       "benchmarkPostId": "2097271855493034341",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097271855493034341",
       "title": "ASML and TSMC 12-inch EUV photomasks",
-      "status": "ready",
+      "status": "expired",
       "postText": "$ASML and $TSM have launched a 12-inch EUV photomask initiative.\n\nIt targets a replacement for the 6-inch format used today.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "ASML and Taiwan Semiconductor launched an industry initiative to develop 12-inch EUV photomasks.",
@@ -24719,14 +25040,17 @@
             "no damaged logo or malformed object"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T12:02:30Z"
     },
     {
       "id": "pkg-20260908-sp500-dividend-yield-104",
       "benchmarkPostId": "2097278222278799375",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097278222278799375",
       "title": "S&P 500 dividend yield reaches 1.04%",
-      "status": "ready",
+      "status": "expired",
       "postText": "The S&P 500 dividend yield has fallen to a new record low of 1.04%.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The S&P 500 dividend yield reached a new all-time low of 1.04%."
@@ -24753,14 +25077,17 @@
             "no damaged logo or malformed object"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T12:27:48Z"
     },
     {
       "id": "pkg-20260908-sp500-eps-growth-24-31",
       "benchmarkPostId": "2097277378934231391",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097277378934231391",
       "title": "S&P 500 EPS growth forecast at 24%–31%",
-      "status": "ready",
+      "status": "expired",
       "postText": "S&P 500 earnings per share is expected to rise 24%–31% in 2026.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "S&P 500 earnings per share is expected to increase by 24% to 31% in 2026."
@@ -24787,14 +25114,17 @@
             "no damaged logo or malformed object"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T12:24:27Z"
     },
     {
       "id": "pkg-20260908-uk-2056-gilt-borrowing-cost",
       "benchmarkPostId": "2097284027023560809",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097284027023560809",
       "title": "UK 2056 gilt borrowing cost",
-      "status": "ready",
+      "status": "expired",
       "postText": "UK borrowing costs are set for their highest gilt sale since at least 1998.\n\nA syndicated reopening of the 5⅜% Treasury Gilt 2056 is planned this week.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The United Kingdom is set to pay its highest borrowing costs on a debt sale since at least 1998.",
@@ -24823,14 +25153,17 @@
             "exact repository logo composited once in lower-right clear space"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T12:50:52Z"
     },
     {
       "id": "pkg-20260908-palantir-nebius-sovereign-ai",
       "benchmarkPostId": "2097280493431501087",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097280493431501087",
       "title": "Palantir and Nebius sovereign AI partnership",
-      "status": "ready",
+      "status": "expired",
       "postText": "$PLTR and $NBIS have announced a new AI infrastructure partnership.\n\nNebius is Palantir’s preferred sovereign AI infrastructure partner for commercial customers.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Palantir and Nebius announced a partnership to bring Nebius AI-native compute infrastructure and cloud platform to Palantir commercial customers.",
@@ -24858,14 +25191,17 @@
             "exact repository logo composited once in lower-right clear space"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T12:36:49Z"
     },
     {
       "id": "pkg-20260908-robinhood-goldman-142-target",
       "benchmarkPostId": "2097289682795004293",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097289682795004293",
       "title": "Goldman raises Robinhood target to $142",
-      "status": "ready",
+      "status": "expired",
       "postText": "$HOOD just got a $142 price target from Goldman Sachs, up from $124.\n\nThe firm kept its Buy rating.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Goldman Sachs raised its Robinhood price target to $142 from $124.",
@@ -24895,14 +25231,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T13:13:20Z"
     },
     {
       "id": "pkg-20260908-uber-macdonald-531m-share-purchase",
       "benchmarkPostId": "2097287222324027862",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097287222324027862",
       "title": "Uber COO buys 70,000 shares",
-      "status": "ready",
+      "status": "expired",
       "postText": "Uber COO Andrew Macdonald bought 70,000 $UBER shares for $5.31M.\n\nHis average purchase price was about $75.83 per share.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Uber COO Andrew Macdonald bought 70,000 Uber shares.",
@@ -24932,14 +25271,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T13:03:34Z"
     },
     {
       "id": "pkg-20260908-robinhood-cryptocom-minority-stake",
       "benchmarkPostId": "2097295164846813684",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097295164846813684",
       "title": "Robinhood takes Crypto.com stake",
-      "status": "ready",
+      "status": "expired",
       "postText": "$HOOD agreed to take a minority stake in Crypto.com and its prediction-market business.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Robinhood agreed to take a minority stake in Crypto.com and its prediction-market business."
@@ -24967,14 +25309,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T13:35:07Z"
     },
     {
       "id": "pkg-20260908-vanguard-voo-1t-aum",
       "benchmarkPostId": "2097294247049236489",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097294247049236489",
       "title": "Vanguard VOO tops $1T in assets",
-      "status": "ready",
+      "status": "expired",
       "postText": "Vanguard's $VOO now has more than $1T in assets.\n\nIt is the largest ETF in the U.S.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Vanguard's S&P 500 ETF VOO has more than $1 trillion in assets under management.",
@@ -25003,14 +25348,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T13:31:28Z"
     },
     {
       "id": "pkg-20260908-bitcoin-kalshi-74000-forecast",
       "benchmarkPostId": "2097291447749820438",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097291447749820438",
       "title": "Bitcoin $74,000 forecast",
-      "status": "ready",
+      "status": "expired",
       "postText": "Kalshi traders are pricing a possible $74,000 Bitcoin low this month.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Kalshi traders forecast Bitcoin could fall as low as $74,000 this month."
@@ -25038,14 +25386,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T13:20:21Z"
     },
     {
       "id": "pkg-20260908-quantum-us-government-100m",
       "benchmarkPostId": "2097291038737965429",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097291038737965429",
       "title": "Quantum companies land U.S. updates",
-      "status": "ready",
+      "status": "expired",
       "postText": "$RGTI and $QBTS signed U.S. government deals worth up to $100M.\n\n$IONQ raised full-year guidance after its SkyWater acquisition.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Rigetti signed a U.S. government pact for $100 million to accelerate R&D.",
@@ -25075,14 +25426,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T13:18:44Z"
     },
     {
       "id": "pkg-20260908-ge-aerospace-cpp-1175b-acquisition",
       "benchmarkPostId": "2097298657657704833",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097298657657704833",
       "title": "GE Aerospace agrees $11.75B CPP acquisition",
-      "status": "ready",
+      "status": "expired",
       "postText": "GE Aerospace $GE agreed to acquire engineered-castings maker Consolidated Precision Products for $11.75B.\n\nWarburg Pincus and Berkshire Partners are selling the business.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "GE Aerospace agreed to acquire engineered-castings maker Consolidated Precision Products.",
@@ -25112,14 +25466,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T13:49:00Z"
     },
     {
       "id": "pkg-20260908-google-accenture-gemini-engineers",
       "benchmarkPostId": "2097296156157935643",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097296156157935643",
       "title": "Google Cloud and Accenture launch Gemini group",
-      "status": "ready",
+      "status": "expired",
       "postText": "Google Cloud $GOOGL and Accenture $ACN formed a Gemini Enterprise group.\n\nGoogle Cloud will train up to 1,000 Accenture engineers to build customer AI apps on-site.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Google Cloud and Accenture formed the Accenture Gemini Enterprise Business Group.",
@@ -25149,14 +25506,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T13:39:04Z"
     },
     {
       "id": "pkg-20260908-bitmine-eth-70m-147b-holdings",
       "benchmarkPostId": "2097305755661566255",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097305755661566255",
       "title": "BitMine adds $70M in Ethereum",
-      "status": "ready",
+      "status": "expired",
       "postText": "BitMine bought $70M of Ethereum last week, taking total holdings to $14.7B.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Tom Lee's BitMine bought $70 million of Ethereum last week.",
@@ -25185,14 +25545,17 @@
             "no damaged logo or misspelled visible text"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T14:17:12Z"
     },
     {
       "id": "pkg-20260908-apple-sonera-neural-sensors",
       "benchmarkPostId": "2097305641819799757",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097305641819799757",
       "title": "Apple acquires Sonera neural-sensor maker",
-      "status": "ready",
+      "status": "expired",
       "postText": "Apple $AAPL reportedly acquired Sonera, a California maker of non-invasive sensors that measure neural signals from the brain.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Apple reportedly bought Sonera.",
@@ -25221,14 +25584,17 @@
             "no damaged logo or misspelled visible text"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T14:16:45Z"
     },
     {
       "id": "pkg-20260908-bitmine-97pct-eth-supply-goal",
       "benchmarkPostId": "2097303691522875491",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097303691522875491",
       "title": "BitMine nears 5% Ethereum supply goal",
-      "status": "ready",
+      "status": "expired",
       "postText": "BitMine is 97% of the way toward its goal of owning 5% of Ethereum's supply.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "BMNR is 97% of the way to its goal of owning 5% of Ethereum supply."
@@ -25256,14 +25622,17 @@
             "no damaged logo or misspelled visible text"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T14:09:00Z"
     },
     {
       "id": "pkg-20260908-amazon-qualcomm-ai-silicon-warrant",
       "benchmarkPostId": "2097311138782319005",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097311138782319005",
       "title": "Amazon and Qualcomm form custom AI silicon partnership",
-      "status": "ready",
+      "status": "expired",
       "postText": "Amazon $AMZN and Qualcomm $QCOM formed a multi-generation custom AI data-center silicon partnership.\n\nAmazon received a warrant for 25M Qualcomm shares tied to up to $60B in chip purchases.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Amazon and Qualcomm announced a multi-generation partnership on custom AI data-center silicon.",
@@ -25294,14 +25663,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T14:38:36Z"
     },
     {
       "id": "pkg-20260908-anthropic-ipo-175t-59pct",
       "benchmarkPostId": "2097322208989249734",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097322208989249734",
       "title": "Anthropic IPO odds reach 59%",
-      "status": "ready",
+      "status": "expired",
       "postText": "Anthropic now has a 59% chance of going public above a $1.75T valuation.\n\nThat would make it the year’s biggest IPO.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark assigns a 59% chance that Anthropic goes public above a $1.75 trillion valuation.",
@@ -25330,14 +25702,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T15:22:35Z"
     },
     {
       "id": "pkg-20260908-senate-clarity-act-cloture-vote",
       "benchmarkPostId": "2097319414722928938",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097319414722928938",
       "title": "Senate sets Clarity Act procedural vote",
-      "status": "ready",
+      "status": "expired",
       "postText": "The U.S. Senate is set to hold a procedural cloture vote on the Clarity Act one week from today.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark says the U.S. Senate will hold a procedural cloture vote on the Clarity Act one week from its publication time."
@@ -25365,14 +25740,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T15:11:29Z"
     },
     {
       "id": "pkg-20260908-us-stock-market-reopens",
       "benchmarkPostId": "2097317631451660624",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097317631451660624",
       "title": "U.S. stock market reopens",
-      "status": "ready",
+      "status": "expired",
       "postText": "The U.S. stock market is back open.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark states that the U.S. stock market is back open."
@@ -25400,14 +25778,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T15:04:24Z"
     },
     {
       "id": "pkg-20260908-gme-robinhood-chain-follow-surge",
       "benchmarkPostId": "2097327575504670871",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097327575504670871",
       "title": "GME on Robinhood Chain surges after follow",
-      "status": "ready",
+      "status": "expired",
       "postText": "GameStop on Robinhood Chain surged after Vlad Tenev followed the project's X account.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark says GME on Robinhood Chain surged.",
@@ -25436,14 +25817,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T15:43:55Z"
     },
     {
       "id": "pkg-20260908-crypto-long-liquidations-188m",
       "benchmarkPostId": "2097332931765174660",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097332931765174660",
       "title": "Crypto longs see $188M liquidated",
-      "status": "ready",
+      "status": "expired",
       "postText": "Crypto long positions worth $188M were liquidated over the past 24 hours.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark states that $188,000,000 in crypto long positions were liquidated in the past 24 hours."
@@ -25471,14 +25855,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T16:05:12Z"
     },
     {
       "id": "pkg-20260908-amd-above-500",
       "benchmarkPostId": "2097339391756718541",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097339391756718541",
       "title": "AMD rises above $500",
-      "status": "ready",
+      "status": "expired",
       "postText": "$AMD is up more than 5% and back above $500.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark says AMD stock is up more than 5%.",
@@ -25507,14 +25894,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T16:30:52Z"
     },
     {
       "id": "pkg-20260908-sp500-early-trading",
       "benchmarkPostId": "2097337913184768120",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097337913184768120",
       "title": "S&P 500 early trading performance",
-      "status": "ready",
+      "status": "expired",
       "postText": "Here is how every S&P 500 stock is performing in early trading.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark presents how every S&P 500 stock has performed in early trading."
@@ -25542,7 +25932,10 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T16:24:59Z"
     },
     {
       "id": "pkg-20260908-penguin-robinhood-chain-burn",
@@ -25555,7 +25948,7 @@
       ],
       "imagePath": "deliverables/pkg-20260908-penguin-robinhood-chain-burn/when2buy-image-model.png",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097344386354802890",
-      "status": "ready",
+      "status": "expired",
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2097344386354802890"
       ],
@@ -25578,7 +25971,10 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T16:50:43Z"
     },
     {
       "id": "pkg-20260908-lebron-polymarket-partnership",
@@ -25590,7 +25986,7 @@
       ],
       "imagePath": "deliverables/pkg-20260908-lebron-polymarket-partnership/when2buy-image-model.png",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097344742673494213",
-      "status": "ready",
+      "status": "expired",
       "verificationSources": [
         "https://x.com/StockMKTNewz/status/2097344742673494213"
       ],
@@ -25613,14 +26009,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T16:52:08Z"
     },
     {
       "id": "pkg-20260908-apple-iphone-keynote-john-ternus",
       "benchmarkPostId": "2097350348318933244",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097350348318933244",
       "title": "Apple iPhone keynote leadership changes in 2026",
-      "status": "ready",
+      "status": "expired",
       "postText": "Apple’s 2026 iPhone launch keynote is set to be led by John Ternus.\n\nSteve Jobs led the 2007–2010 launches, while Tim Cook led every launch from 2011 through 2025.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark lists John Ternus as the keynote presenter for Apple’s 2026 iPhone launch event.",
@@ -25648,14 +26047,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T17:14:24Z"
     },
     {
       "id": "pkg-20260908-artificial-pepe-developer-joins-ap",
       "benchmarkPostId": "2097355596462690504",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097355596462690504",
       "title": "Artificial Pepe developer move",
-      "status": "ready",
+      "status": "expired",
       "postText": "The developer behind the billion-dollar $PEPE project on Ethereum has joined Artificial Pepe $AP.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark says the developer behind a billion-dollar PEPE project on Ethereum has joined Artificial Pepe.",
@@ -25684,14 +26086,17 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T17:35:15Z"
     },
     {
       "id": "pkg-20260908-lebron-polymarket-partnership-v2",
       "benchmarkPostId": "2097355583498113152",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097355583498113152",
       "title": "LeBron James and Polymarket",
-      "status": "blocked",
+      "status": "expired",
       "postText": "LeBron James is now working with Polymarket.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The captured benchmark says LeBron James is working with Polymarket."
@@ -25721,7 +26126,10 @@
         }
       },
       "blockedAt": "2026-09-08T16:16:11Z",
-      "blockReason": "Duplicate topic: an earlier retained benchmark package already covers the LeBron James and Polymarket event."
+      "blockReason": "Duplicate topic: an earlier retained benchmark package already covers the LeBron James and Polymarket event.",
+      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-08T17:35:12Z"
     },
     {
       "id": "pkg-20260908-samsung-mistral-ai-equity",
@@ -135957,6 +136365,37 @@
         "expiresAt": "2026-09-09T08:52:10Z",
         "deliveryReason": "Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate."
       }
+    },
+    {
+      "id": "run-20260909T084321Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:43:21Z",
+      "completedAt": "2026-09-09T08:43:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T084339Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:43:39Z",
+      "completedAt": "2026-09-09T08:43:39Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 136 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T084430Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T08:41:53Z",
+      "completedAt": "2026-09-09T08:44:30Z",
+      "summary": "Apify scanned both benchmark feeds, media archival and freshness-first queue rebuild completed, and the first two current-queue packages passed visual review; publication was withheld by the active X delivery circuit breaker.",
+      "reason": "The delivery circuit breaker remains active until 2026-09-09T08:52:10Z after a prior Postiz X delivery entered ERROR without a public URL; no retry or backfill was submitted."
     }
   ],
   "deliveryCircuitBreaker": {

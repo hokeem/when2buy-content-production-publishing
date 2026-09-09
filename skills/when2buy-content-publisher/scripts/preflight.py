@@ -16,7 +16,7 @@ skill_text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
 required_workflow_tokens = [
     "https://x.com/WhaleInsider",
     "https://x.com/StockMKTNewz",
-    "05, 25, and 45 of every hour",
+    "05, 15, 25, 35, 45, and 55 of every hour",
     "benchmarkPostId",
     "brand-and-style.md",
     "assets/when2buy-logo-reference.png",
