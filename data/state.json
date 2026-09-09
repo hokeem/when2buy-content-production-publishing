@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T09:47:08.201292+00:00",
+  "updatedAt": "2026-09-09T10:02:26.903343+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -140920,6 +140920,46 @@
       "startedAt": "2026-09-09T09:45:45Z",
       "completedAt": "2026-09-09T09:47:08Z",
       "summary": "Synchronized origin/main; validated preflight and state; scanned both required Apify feeds and found no new eligible originals; reconciled immutable package statuses; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T100031Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:00:31Z",
+      "completedAt": "2026-09-09T10:00:31Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T100126Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:01:26Z",
+      "completedAt": "2026-09-09T10:01:26Z",
+      "summary": "Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T100130Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:01:30Z",
+      "completedAt": "2026-09-09T10:01:30Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T100200Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T10:00:20Z",
+      "completedAt": "2026-09-09T10:02:00Z",
+      "summary": "Synchronized origin/main; validated preflight and state; scanned both required Apify feeds and found no new eligible originals; archived available source media; reconciled immutable package statuses; rebuilt an empty hard-TTL production queue; published no filler or backlog; refreshed and validated reporting.",
       "reason": ""
     }
   ],
