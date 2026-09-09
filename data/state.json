@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T15:16:16.828917+00:00",
+  "updatedAt": "2026-09-09T15:34:12.394312+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -12169,6 +12169,68 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097707867981713833",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097707867981713833",
+      "postedAt": "Wed Sep 09 15:25:03 +0000 2026",
+      "text": "Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial products built around their shares once they go public - CNBC https://t.co/TqEhhSnGau",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRyOBTkXkAAUV_5.png"
+      ],
+      "engagement": {
+        "likes": 10,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 5257
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T15:27:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyOBTkXkAAUV_5.png",
+          "path": "output/benchmark-media/StockMKTNewz/2097707867981713833-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097704978462671282",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097704978462671282",
+      "postedAt": "Wed Sep 09 15:13:34 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. https://t.co/lRz16If9ZE",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRyLjo6WoAAI3t3.jpg",
+        "https://pbs.twimg.com/media/HRyLjpbakAAgbsX.jpg"
+      ],
+      "engagement": {
+        "likes": 69,
+        "replies": 29,
+        "reposts": 14,
+        "quotes": 2,
+        "views": 16881
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T15:27:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyLjo6WoAAI3t3.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097704978462671282-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyLjpbakAAgbsX.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097704978462671282-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -19712,6 +19774,44 @@
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097707867981713833",
+      "rank": 1,
+      "title": "Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial produc…",
+      "benchmarkPostId": "2097707867981713833",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097707867981713833",
+      "score": 5767,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T15:27:30Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097704978462671282",
+      "rank": 2,
+      "title": "JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. htt…",
+      "benchmarkPostId": "2097704978462671282",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097704978462671282",
+      "score": 20241,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T15:27:30Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -29138,6 +29238,80 @@
             "premium near-black, white and restrained-red palette",
             "not a pure-text card or generic radar visual",
             "exact repository logo composited once"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260909-robinhood-public-shares-products",
+      "benchmarkPostId": "2097707867981713833",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097707867981713833",
+      "title": "Robinhood CEO on products built around public shares",
+      "status": "ready",
+      "postText": "Robinhood $HOOD CEO Vlad Tenev says public companies can’t control third-party financial products built around their shares once they go public.",
+      "mirroredFacts": [
+        "Robinhood CEO Vlad Tenev said public companies cannot control third-party financial products built around their shares once they go public."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097707867981713833",
+        "https://stocktwits.com/news-articles/markets/equity/robinhood-ceo-vlad-tenev-defends-tokenized-amc-shares-stock-tokens/cZt73GRRJzS"
+      ],
+      "imagePath": "deliverables/pkg-20260909-robinhood-public-shares-products/when2buy-image-model.png",
+      "createdAt": "2026-09-09T15:32:17.354636+00:00",
+      "sourceExpiresAt": "2026-09-09T16:55:03Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square 1:1 premium X financial-news visual for When2Buy\nPrimary request: Create a complete original editorial visual about Robinhood CEO Vlad Tenev saying public companies cannot control third-party financial products built around their shares after going public.\nScene/backdrop: near-black institutional fintech exchange environment with an original executive figure, a dimensional public-company share certificate, and distinct abstract financial products branching around it.\nStyle/medium: cinematic photorealistic 3D financial-news campaign art.\nText (verbatim): \"$HOOD\" and \"PUBLIC SHARES\" and \"THIRD-PARTY PRODUCTS\"\nConstraints: no generated logo, source, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, or CNBC branding.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T15:32:17.354636+00:00",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led share-certificate and financial-products scene",
+            "exact $HOOD, PUBLIC SHARES and THIRD-PARTY PRODUCTS text",
+            "no source, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation or watermark",
+            "premium near-black, white and restrained-red palette",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once in the lower-left clear area"
+          ],
+          "result": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260909-treasury-6b-long-term-buyback",
+      "benchmarkPostId": "2097704978462671282",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097704978462671282",
+      "title": "Treasury plans up to $6B longer-term debt buyback",
+      "status": "ready",
+      "postText": "The U.S. Treasury plans to buy back up to $6B in longer-term debt tomorrow.",
+      "mirroredFacts": [
+        "The U.S. Treasury plans to buy back up to $6 billion in longer-term debt tomorrow."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097704978462671282",
+        "https://home.treasury.gov/news/press-releases/sb0607/"
+      ],
+      "imagePath": "deliverables/pkg-20260909-treasury-6b-long-term-buyback/when2buy-image-model.png",
+      "createdAt": "2026-09-09T15:32:18.572567+00:00",
+      "sourceExpiresAt": "2026-09-09T16:43:34Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square 1:1 premium X financial-news visual for When2Buy\nPrimary request: Create a complete original editorial visual about the U.S. Treasury planning to buy back up to $6 billion of longer-term government debt tomorrow.\nScene/backdrop: near-black cinematic institutional setting featuring a U.S. Treasury neoclassical facade, long-duration Treasury bond certificates, and a restrained buyback transaction pathway.\nStyle/medium: polished photorealistic 3D financial-news campaign art.\nText (verbatim): \"TREASURY BUYBACK\" and \"UP TO $6B\" and \"LONGER-TERM DEBT\"\nConstraints: no generated logo, source, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T15:32:18.572567+00:00",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led Treasury building and bond scene",
+            "exact TREASURY BUYBACK, UP TO $6B and LONGER-TERM DEBT text",
+            "no source, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation or watermark",
+            "premium near-black, white and restrained-red palette",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once in the lower-left clear area"
           ],
           "result": "passed"
         }
@@ -157799,6 +157973,77 @@
       "selectedPackageIds": [
         "pkg-20260909-penpe-robinhood-chain-launch",
         "pkg-20260909-treasury-6b-long-debt-buyback"
+      ]
+    },
+    {
+      "id": "run-20260909T152557Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:25:57Z",
+      "completedAt": "2026-09-09T15:25:57Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T152637Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:26:37Z",
+      "completedAt": "2026-09-09T15:26:37Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T152726Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:27:26Z",
+      "completedAt": "2026-09-09T15:27:26Z",
+      "summary": "Apify scanned both benchmark accounts; captured 32 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T152730Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:27:30Z",
+      "completedAt": "2026-09-09T15:27:30Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T153219Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:32:19.764474+00:00",
+      "completedAt": "2026-09-09T15:32:19.764474+00:00",
+      "summary": "Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T153222Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:32:22Z",
+      "completedAt": "2026-09-09T15:32:22Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T153412Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T15:25:57Z",
+      "completedAt": "2026-09-09T15:34:12.389334+00:00",
+      "summary": "Apify collection, benchmark-media archive, status reconciliation, fresh-queue rebuild, two image-model packages, and content validation completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker.",
+      "reason": "The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.",
+      "selectedPackageIds": [
+        "pkg-20260909-robinhood-public-shares-products",
+        "pkg-20260909-treasury-6b-long-term-buyback"
       ]
     }
   ],

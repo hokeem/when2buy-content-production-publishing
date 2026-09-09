@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T15:16:16.828917+00:00`
+- 状态更新：`2026-09-09T15:34:12.394312+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**441**
-- 待选选题：**397**
-- 待发布制作包：**3**
+- 对标帖子快照：**443**
+- 待选选题：**399**
+- 待发布制作包：**5**
 - 已验证发布：**186**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 15:13:34 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. https://t.co/lRz16If9ZE | [X](https://x.com/WhaleInsider/status/2097704978462671282) |
+| @StockMKTNewz | Wed Sep 09 15:25:03 +0000 2026 | Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial products built around their shares once they go public - CNBC https://t.co/TqEhhSnGau | [X](https://x.com/StockMKTNewz/status/2097707867981713833) |
 | @StockMKTNewz | Wed Sep 09 14:51:21 +0000 2026 | This is what $11.5 Million gets you in Utah  A house almost the size of the White House https://t.co/zcZn3mlSBk | [X](https://x.com/StockMKTNewz/status/2097699385257685314) |
 | @StockMKTNewz | Wed Sep 09 15:04:16 +0000 2026 | THE 🇺🇸 TREASURY DEPARTMENT PLANS TO BUY BACK UP TO $6B IN LONGER-DATED DEBT TOMORROW UP FROM THE PREVIOUS $4B OF BUY BACKS | [X](https://x.com/StockMKTNewz/status/2097702636287881694) |
 | @WhaleInsider | Wed Sep 09 15:08:19 +0000 2026 | JUST IN: $PENPE, the self-proclaimed “father of PEPE,” is set to launch on Robinhood Chain tomorrow at 3 PM UTC via fair launch. https://t.co/YME6rJSEPF | [X](https://x.com/WhaleInsider/status/2097703654966886534) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Wed Sep 09 10:10:10 +0000 2026 | JUST IN: 🇨🇳🇺🇸 China dismisses as “unfounded” a U.S. advisory accusing DeepSeek, Alibaba, Moonshot AI and three other firms of systematically distilling Claude, GPT, Gemini and Grok - and calls for more AI cooperation instead. https://t.co/vdCA91ownW | [X](https://x.com/WhaleInsider/status/2097628624551637052) |
 | @WhaleInsider | Wed Sep 09 09:31:02 +0000 2026 | JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil tankers near the Strait of Hormuz. https://t.co/QtpaOriimX | [X](https://x.com/WhaleInsider/status/2097618775214276775) |
 | @WhaleInsider | Wed Sep 09 08:26:07 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. https://t.co/qhRGaYgJJt | [X](https://x.com/WhaleInsider/status/2097602437716611141) |
-| @WhaleInsider | Wed Sep 09 07:47:57 +0000 2026 | JUST IN: $IQ (@iqtestrh) launches on Robinhood Chain, paired with Intel stock, as social-media users post “IQ TEST” references following the announcement of the Hunter Biden-linked crypto coin. https://t.co/6lJF7JwHmc | [X](https://x.com/WhaleInsider/status/2097592833087549800) |
-| @WhaleInsider | Wed Sep 09 07:54:24 +0000 2026 | JUST IN: 🇫🇮 $GOOGL to invest €13,000,000,000 in Finland AI infrastructure in 2027-28. https://t.co/sDGHD6XzVK | [X](https://x.com/WhaleInsider/status/2097594455742173387) |
 
 ## 选题推荐
 
@@ -147,6 +147,7 @@
 | 1 | JUST IN: Robinhood Chain $HOOD leads tokenized equity volume at 40% market share. https://t.… | WhaleInsider | 13460 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | EUROPE GAS PRICES RISE ABOVE €80 FOR FIRST TIME SINCE 2023 - Bloomberg | StockMKTNewz | 9329 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $PENPE, the self-proclaimed “father of PEPE,” is set to launch on Robinhood Chain t… | WhaleInsider | 9858 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial produc… | StockMKTNewz | 5767 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -197,6 +198,7 @@
 | 2 | Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ… | StockMKTNewz | 10662 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Michael Burry just said he is covering some of his shorts and reducing the size of his short… | StockMKTNewz | 14644 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | THE 🇺🇸 TREASURY DEPARTMENT PLANS TO BUY BACK UP TO $6B IN LONGER-DATED DEBT TOMORROW UP FROM… | StockMKTNewz | 4391 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. htt… | WhaleInsider | 20241 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2861,6 +2863,20 @@ $PENPE, the self-described “father of PEPE,” is set to launch on Robinhood C
 
 The U.S. Treasury plans to buy back up to $6B of longer-dated debt tomorrow, up from the previous $4B.
 
+### Robinhood CEO on products built around public shares
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-robinhood-public-shares-products/when2buy-image-model.png`
+
+Robinhood $HOOD CEO Vlad Tenev says public companies can’t control third-party financial products built around their shares once they go public.
+
+### Treasury plans up to $6B longer-term debt buyback
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260909-treasury-6b-long-term-buyback/when2buy-image-model.png`
+
+The U.S. Treasury plans to buy back up to $6B in longer-term debt tomorrow.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3055,6 +3071,13 @@ The U.S. Treasury plans to buy back up to $6B of longer-dated debt tomorrow, up 
 
 ## 最近运行
 
+- `2026-09-09T15:25:57Z` **full / partial** — Apify collection, benchmark-media archive, status reconciliation, fresh-queue rebuild, two image-model packages, and content validation completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker. The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.
+- `2026-09-09T15:32:22Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T15:32:19.764474+00:00` **produce / succeeded** — Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.
+- `2026-09-09T15:27:30Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T15:27:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 2 new post(s).
+- `2026-09-09T15:26:37Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T15:25:57Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T15:05:52Z` **full / partial** — Postiz-first hourly metrics, Apify collection, media archive, status reconciliation, fresh-queue rebuild, and two image-model packages completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker. The delivery-only guard found an X delivery in ERROR at 14:54 UTC without a public URL; the breaker remains active through 15:54 UTC.
 - `2026-09-09T15:15:11Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T15:14:32.144168+00:00` **produce / succeeded** — Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.
@@ -3068,10 +3091,3 @@ The U.S. Treasury plans to buy back up to $6B of longer-dated debt tomorrow, up 
 - `2026-09-09T14:46:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T14:46:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
 - `2026-09-09T14:34:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:26:06Z` **full / succeeded** — Apify collection, benchmark media archive, verified-status reconciliation, freshness queue rebuild, newest image-model package production, content validation, and two serial Postiz publications with verified public X URLs completed.
-- `2026-09-09T14:33:54.060176+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T14:31:50.125554+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T14:30:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:30:23.226775+00:00` **produce / succeeded** — Produced the newest fresh Robinhood Chain market-share package with an inspected image-model visual and one exact-logo composite.
-- `2026-09-09T14:27:04Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:26:52Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
