@@ -1,36 +1,124 @@
 {
-  "generatedAt": "2026-09-09T16:14:23Z",
+  "generatedAt": "2026-09-09T19:35:33Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2097703654966886534",
+      "benchmarkPostId": "2097753088132104409",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097753088132104409",
+      "originalText": "Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 47,
+        "replies": 158,
+        "reposts": 2,
+        "quotes": 2,
+        "views": 29114
+      },
+      "postedAt": "Wed Sep 09 18:24:45 +0000 2026",
+      "score": 36594,
+      "heatScore": 36594,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 70.8,
+        "expiresAt": "2026-09-09T19:54:45Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2097751693433680381",
       "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260909-penpe-robinhood-chain-launch",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097703654966886534",
-      "originalText": "JUST IN: $PENPE, the self-proclaimed “father of PEPE,” is set to launch on Robinhood Chain tomorrow at 3 PM UTC via fair launch. https://t.co/YME6rJSEPF",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097751693433680381",
+      "originalText": "JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 billion this month. https://t.co/BJU6xEmh5R",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRyKWv7WUAAKJM4.jpg"
+        "https://pbs.twimg.com/media/HRy2CyMaUAAFPr2.jpg",
+        "https://pbs.twimg.com/media/HRy2CxwXYAEAMa7.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HRyKWv7WUAAKJM4.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097703654966886534-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRy2CyMaUAAFPr2.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097751693433680381-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRy2CxwXYAEAMa7.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097751693433680381-2.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 9,
-        "replies": 9,
-        "reposts": 5,
-        "quotes": 0,
-        "views": 9068
+        "likes": 335,
+        "replies": 38,
+        "reposts": 26,
+        "quotes": 3,
+        "views": 23494
       },
-      "postedAt": "Wed Sep 09 15:08:19 +0000 2026",
-      "score": 9858,
-      "heatScore": 9858,
+      "postedAt": "Wed Sep 09 18:19:12 +0000 2026",
+      "score": 33194,
+      "heatScore": 33194,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 76.4,
+        "expiresAt": "2026-09-09T19:49:12Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2097751561380180420",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097751561380180420",
+      "originalText": "Here are the 4 new products Apple $AAPL announced today\n\n- New iPhone 18 Pro and Pro Max\n- Updated Airpods\n- Updated Apple Watch\n- First foldable Phone the iPhone Duo https://t.co/qitxoMrAAv",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRy1w4NW4AUWVJu.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRy1w4NW4AUWVJu.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097751561380180420-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 115,
+        "replies": 12,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 24846
+      },
+      "postedAt": "Wed Sep 09 18:18:41 +0000 2026",
+      "score": 28356,
+      "heatScore": 28356,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -42,90 +130,237 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 66.1,
-        "expiresAt": "2026-09-09T16:38:19Z",
+        "ageMinutes": 76.9,
+        "expiresAt": "2026-09-09T19:48:41Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
-      "benchmarkPostId": "2097702636287881694",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260909-treasury-6b-long-debt-buyback",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097702636287881694",
-      "originalText": "THE 🇺🇸 TREASURY DEPARTMENT PLANS TO BUY BACK UP TO $6B IN LONGER-DATED DEBT TOMORROW UP FROM THE PREVIOUS $4B OF BUY BACKS",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 34,
-        "replies": 9,
-        "reposts": 5,
-        "quotes": 2,
-        "views": 2981
-      },
-      "postedAt": "Wed Sep 09 15:04:16 +0000 2026",
-      "score": 4391,
-      "heatScore": 4391,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 70.1,
-        "expiresAt": "2026-09-09T16:34:16Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
-      "benchmarkPostId": "2097699385257685314",
+      "rank": 4,
+      "benchmarkPostId": "2097750987905597571",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097699385257685314",
-      "originalText": "This is what $11.5 Million gets you in Utah\n\nA house almost the size of the White House https://t.co/zcZn3mlSBk",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097750987905597571",
+      "originalText": "Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 and will be available on October 23rd https://t.co/lTUqiqJjnd",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRyGZ5ObsAAWuZC.jpg"
+        "https://pbs.twimg.com/media/HRy1SrzXAAA3333.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HRyGZ5ObsAAWuZC.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2097699385257685314-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HRy1SrzXAAA3333.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097750987905597571-1.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 51,
-        "replies": 11,
-        "reposts": 2,
-        "quotes": 0,
-        "views": 17851
+        "likes": 87,
+        "replies": 13,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 22836
       },
-      "postedAt": "Wed Sep 09 14:51:21 +0000 2026",
-      "score": 19411,
-      "heatScore": 19411,
+      "postedAt": "Wed Sep 09 18:16:24 +0000 2026",
+      "score": 25466,
+      "heatScore": 25466,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 79.2,
+        "expiresAt": "2026-09-09T19:46:24Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 5,
+      "benchmarkPostId": "2097750534165852336",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097750534165852336",
+      "originalText": "Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the phone  https://t.co/UgPsnie3AO",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2097747165288558592/img/6eRZQERCBuvC5asY.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097747165288558592/img/6eRZQERCBuvC5asY.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097750534165852336-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 161,
+        "replies": 11,
+        "reposts": 10,
+        "quotes": 3,
+        "views": 29386
+      },
+      "postedAt": "Wed Sep 09 18:14:36 +0000 2026",
+      "score": 33726,
+      "heatScore": 33726,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
-        "visualPotential": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 17,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 83.0,
-        "expiresAt": "2026-09-09T16:21:21Z",
+        "ageMinutes": 81.0,
+        "expiresAt": "2026-09-09T19:44:36Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 6,
+      "benchmarkPostId": "2097750228489134288",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097750228489134288",
+      "originalText": "APPLE $AAPL JUST SAID THE NEW FOLDABLE IPHONE DUO WILL HAVE UP TO 44 HOURS OF BATTERY LIFE WHEN USING THE OUTER DISPLAY",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 57,
+        "replies": 12,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 18674
+      },
+      "postedAt": "Wed Sep 09 18:13:23 +0000 2026",
+      "score": 20444,
+      "heatScore": 20444,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 82.2,
+        "expiresAt": "2026-09-09T19:43:23Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 7,
+      "benchmarkPostId": "2097749625360826613",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097749625360826613",
+      "originalText": "This is what the new foldable iPhone Duo looks like under the screen https://t.co/5MGJD0Vbj5",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRyz_t7bwAE6K-3.jpg",
+        "https://pbs.twimg.com/media/HRy0Jc7XgAIjKTz.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyz_t7bwAE6K-3.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097749625360826613-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRy0Jc7XgAIjKTz.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097749625360826613-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 36,
+        "replies": 4,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 18546
+      },
+      "postedAt": "Wed Sep 09 18:10:59 +0000 2026",
+      "score": 19676,
+      "heatScore": 19676,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 84.6,
+        "expiresAt": "2026-09-09T19:40:59Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 8,
+      "benchmarkPostId": "2097748837481709790",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097748837481709790",
+      "originalText": "Apple $AAPL said its new foldable iPhone Duo can act as a bedside clock/alarm https://t.co/ThYpHvBrW7",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HRyzUq1a4AAJSn3.jpg",
+        "https://pbs.twimg.com/media/HRyzWgOaQAA6SL9.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyzUq1a4AAJSn3.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097748837481709790-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyzWgOaQAA6SL9.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097748837481709790-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 460,
+        "replies": 62,
+        "reposts": 26,
+        "quotes": 22,
+        "views": 47412
+      },
+      "postedAt": "Wed Sep 09 18:07:51 +0000 2026",
+      "score": 61712,
+      "heatScore": 61712,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 87.7,
+        "expiresAt": "2026-09-09T19:37:51Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

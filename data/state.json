@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T16:14:23.723306+00:00",
+  "updatedAt": "2026-09-09T19:35:33.263841+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -12251,6 +12251,636 @@
       "isPinned": false,
       "capturedAt": "2026-09-09T16:08:06Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097753088132104409",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097753088132104409",
+      "postedAt": "Wed Sep 09 18:24:45 +0000 2026",
+      "text": "Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 47,
+        "replies": 158,
+        "reposts": 2,
+        "quotes": 2,
+        "views": 29114
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097751693433680381",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097751693433680381",
+      "postedAt": "Wed Sep 09 18:19:12 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 billion this month. https://t.co/BJU6xEmh5R",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRy2CyMaUAAFPr2.jpg",
+        "https://pbs.twimg.com/media/HRy2CxwXYAEAMa7.jpg"
+      ],
+      "engagement": {
+        "likes": 335,
+        "replies": 38,
+        "reposts": 26,
+        "quotes": 3,
+        "views": 23494
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRy2CyMaUAAFPr2.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097751693433680381-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRy2CxwXYAEAMa7.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097751693433680381-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097751561380180420",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097751561380180420",
+      "postedAt": "Wed Sep 09 18:18:41 +0000 2026",
+      "text": "Here are the 4 new products Apple $AAPL announced today\n\n- New iPhone 18 Pro and Pro Max\n- Updated Airpods\n- Updated Apple Watch\n- First foldable Phone the iPhone Duo https://t.co/qitxoMrAAv",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRy1w4NW4AUWVJu.jpg"
+      ],
+      "engagement": {
+        "likes": 115,
+        "replies": 12,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 24846
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRy1w4NW4AUWVJu.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097751561380180420-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097750987905597571",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097750987905597571",
+      "postedAt": "Wed Sep 09 18:16:24 +0000 2026",
+      "text": "Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 and will be available on October 23rd https://t.co/lTUqiqJjnd",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRy1SrzXAAA3333.jpg"
+      ],
+      "engagement": {
+        "likes": 87,
+        "replies": 13,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 22836
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRy1SrzXAAA3333.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097750987905597571-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097750534165852336",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097750534165852336",
+      "postedAt": "Wed Sep 09 18:14:36 +0000 2026",
+      "text": "Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the phone  https://t.co/UgPsnie3AO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2097747165288558592/img/6eRZQERCBuvC5asY.jpg"
+      ],
+      "engagement": {
+        "likes": 161,
+        "replies": 11,
+        "reposts": 10,
+        "quotes": 3,
+        "views": 29386
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097747165288558592/img/6eRZQERCBuvC5asY.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097750534165852336-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097750228489134288",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097750228489134288",
+      "postedAt": "Wed Sep 09 18:13:23 +0000 2026",
+      "text": "APPLE $AAPL JUST SAID THE NEW FOLDABLE IPHONE DUO WILL HAVE UP TO 44 HOURS OF BATTERY LIFE WHEN USING THE OUTER DISPLAY",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 57,
+        "replies": 12,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 18674
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097749625360826613",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097749625360826613",
+      "postedAt": "Wed Sep 09 18:10:59 +0000 2026",
+      "text": "This is what the new foldable iPhone Duo looks like under the screen https://t.co/5MGJD0Vbj5",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRyz_t7bwAE6K-3.jpg",
+        "https://pbs.twimg.com/media/HRy0Jc7XgAIjKTz.jpg"
+      ],
+      "engagement": {
+        "likes": 36,
+        "replies": 4,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 18546
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyz_t7bwAE6K-3.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097749625360826613-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRy0Jc7XgAIjKTz.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097749625360826613-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097748837481709790",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097748837481709790",
+      "postedAt": "Wed Sep 09 18:07:51 +0000 2026",
+      "text": "Apple $AAPL said its new foldable iPhone Duo can act as a bedside clock/alarm https://t.co/ThYpHvBrW7",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRyzUq1a4AAJSn3.jpg",
+        "https://pbs.twimg.com/media/HRyzWgOaQAA6SL9.jpg"
+      ],
+      "engagement": {
+        "likes": 460,
+        "replies": 62,
+        "reposts": 26,
+        "quotes": 22,
+        "views": 47412
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyzUq1a4AAJSn3.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097748837481709790-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyzWgOaQAA6SL9.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097748837481709790-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097747922532065293",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097747922532065293",
+      "postedAt": "Wed Sep 09 18:04:13 +0000 2026",
+      "text": "Here is a first look at Apple's new iPhone Duo its first-ever foldable phone\n\nThe iPhone Duo is now the largest display in iPhone history. Apple said the Duo's screen, when open is 50% larger than the iPhone 19 Pro Max",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 64,
+        "replies": 10,
+        "reposts": 2,
+        "quotes": 1,
+        "views": 44269
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097745853611987451",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097745853611987451",
+      "postedAt": "Wed Sep 09 17:56:00 +0000 2026",
+      "text": "This is what Apple's $AAPL first foldable iPhone looks like https://t.co/wMP05LT4HR",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRywuIuXoAAlCyS.jpg",
+        "https://pbs.twimg.com/media/HRywupTa0AAj3gg.jpg"
+      ],
+      "engagement": {
+        "likes": 282,
+        "replies": 26,
+        "reposts": 28,
+        "quotes": 9,
+        "views": 40168
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRywuIuXoAAlCyS.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097745853611987451-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRywupTa0AAj3gg.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097745853611987451-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097745456834965622",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097745456834965622",
+      "postedAt": "Wed Sep 09 17:54:25 +0000 2026",
+      "text": "APPLE $AAPL JUST ANNOUNCED ITS FIRST EVER FOLDABLE PHONE",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 93,
+        "replies": 18,
+        "reposts": 7,
+        "quotes": 4,
+        "views": 23310
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097745328556384396",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097745328556384396",
+      "postedAt": "Wed Sep 09 17:53:55 +0000 2026",
+      "text": "\"But actually there is 1 more thing\" - John Ternus",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 87,
+        "replies": 6,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 22224
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097744668016496967",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097744668016496967",
+      "postedAt": "Wed Sep 09 17:51:17 +0000 2026",
+      "text": "Apple $AAPL just announced Audio Intelligence \n\n“Just as visual intelligence makes sense of what you see, Audio intelligence makes sense of what you hear”  https://t.co/KL2403qpsK",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2097743452050251776/img/f5XmtGli5mZYL0sM.jpg"
+      ],
+      "engagement": {
+        "likes": 57,
+        "replies": 13,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 24758
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097743452050251776/img/f5XmtGli5mZYL0sM.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097744668016496967-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097743411621110173",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097743411621110173",
+      "postedAt": "Wed Sep 09 17:46:18 +0000 2026",
+      "text": "Apple $AAPL just announced a new redesigned AI powered Health app coming later this year to the United States 🇺🇸\n\nThe new Health app will have use Apple Intelligence built in to give you personalized guidance on all the data it collects https://t.co/GGHVByre9I",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRyuSzWaYAAFLso.jpg"
+      ],
+      "engagement": {
+        "likes": 152,
+        "replies": 19,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 26760
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyuSzWaYAAFLso.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097743411621110173-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097740756291108977",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097740756291108977",
+      "postedAt": "Wed Sep 09 17:35:45 +0000 2026",
+      "text": "Apple $AAPL just announced the new AirPods 5 which start at $129 https://t.co/KRAhTlh8ek",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRysFExaAAA2nuP.jpg"
+      ],
+      "engagement": {
+        "likes": 267,
+        "replies": 11,
+        "reposts": 12,
+        "quotes": 2,
+        "views": 34495
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRysFExaAAA2nuP.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097740756291108977-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097739863147642923",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097739863147642923",
+      "postedAt": "Wed Sep 09 17:32:12 +0000 2026",
+      "text": "APPLE $AAPL JUST ANNOUNCED THE NEW AIRPODS 5",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 75,
+        "replies": 11,
+        "reposts": 6,
+        "quotes": 2,
+        "views": 25016
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097739656531972302",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097739656531972302",
+      "postedAt": "Wed Sep 09 17:31:22 +0000 2026",
+      "text": "Apple $AAPL just announced Upgrade a new $34.99 per month subscription that lets you rent a new iPhone 18 Pro https://t.co/H7KooF6VXh",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRyq69NXMAEQ5S9.jpg"
+      ],
+      "engagement": {
+        "likes": 491,
+        "replies": 31,
+        "reposts": 18,
+        "quotes": 9,
+        "views": 72533
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyq69NXMAEQ5S9.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097739656531972302-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097739400603951368",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097739400603951368",
+      "postedAt": "Wed Sep 09 17:30:21 +0000 2026",
+      "text": "APPLE'S $AAPL NEW IPHONE 18 PRO MAX STARTS AT $1,299",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 41,
+        "replies": 5,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 20413
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097739361701736891",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097739361701736891",
+      "postedAt": "Wed Sep 09 17:30:12 +0000 2026",
+      "text": "APPLE'S $AAPL NEW IPHONE 18 PRO STARTS AT $1,199",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 53,
+        "replies": 4,
+        "reposts": 4,
+        "quotes": 2,
+        "views": 26278
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2097738109194514578",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097738109194514578",
+      "postedAt": "Wed Sep 09 17:25:13 +0000 2026",
+      "text": "JUST IN: Apple $AAPL unveils new iPhone 18 Pro &amp; Pro Max. https://t.co/Sw98zUv51U",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRypsNLXwAA4dO1.jpg",
+        "https://pbs.twimg.com/media/HRypsNLXcAABO9l.jpg"
+      ],
+      "engagement": {
+        "likes": 322,
+        "replies": 38,
+        "reposts": 9,
+        "quotes": 5,
+        "views": 46578
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRypsNLXwAA4dO1.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097738109194514578-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRypsNLXcAABO9l.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097738109194514578-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097731459935043753",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097731459935043753",
+      "postedAt": "Wed Sep 09 16:58:48 +0000 2026",
+      "text": "JUST IN: Copper hits fresh record of $14,802.50/ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. https://t.co/azHFdx7JLX",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRyjpGMaoAAxu2G.jpg",
+        "https://pbs.twimg.com/media/HRyjpFwXEAA_kTa.jpg"
+      ],
+      "engagement": {
+        "likes": 266,
+        "replies": 35,
+        "reposts": 11,
+        "quotes": 0,
+        "views": 25298
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyjpGMaoAAxu2G.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097731459935043753-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRyjpFwXEAA_kTa.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097731459935043753-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097729772079976501",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097729772079976501",
+      "postedAt": "Wed Sep 09 16:52:06 +0000 2026",
+      "text": "JUST IN: Lightfield raises $47 million Series A, led by a16z, to make customer context usable by A.I agents. https://t.co/MQT8C6r18G",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2097729716992282624/img/dv_9PzeFwbwvEUy5.jpg"
+      ],
+      "engagement": {
+        "likes": 110,
+        "replies": 16,
+        "reposts": 6,
+        "quotes": 2,
+        "views": 28633
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:10:11Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097729716992282624/img/dv_9PzeFwbwvEUy5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097729772079976501-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097767066170224987",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097767066170224987",
+      "postedAt": "Wed Sep 09 19:20:17 +0000 2026",
+      "text": "Here is a first look at Apple’s new foldable iPhone Duo  https://t.co/vLMMmP452S",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/ext_tw_video_thumb/2097760498888392706/pu/img/CZuBTT9ZPL89_3HH.jpg"
+      ],
+      "engagement": {
+        "likes": 34,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 8444
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:27:17Z"
+    },
+    {
+      "id": "2097766765937721570",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097766765937721570",
+      "postedAt": "Wed Sep 09 19:19:06 +0000 2026",
+      "text": "Meta Platforms' $ META's new AI app \"Muse from Meta\" is currently the 3rd most popular free app on the Apple App Store https://t.co/YXWhsxUk7e",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRzDwOrXIAUVuku.png"
+      ],
+      "engagement": {
+        "likes": 18,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 10796
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T19:27:17Z"
     }
   ],
   "radar": [
@@ -19846,6 +20476,310 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-09T16:08:10Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097753088132104409",
+      "rank": 1,
+      "title": "Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word",
+      "benchmarkPostId": "2097753088132104409",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097753088132104409",
+      "score": 36594,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097751693433680381",
+      "rank": 2,
+      "title": "JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 bil…",
+      "benchmarkPostId": "2097751693433680381",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097751693433680381",
+      "score": 33194,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097751561380180420",
+      "rank": 3,
+      "title": "Here are the 4 new products Apple $AAPL announced today - New iPhone 18 Pro and Pro Max - Up…",
+      "benchmarkPostId": "2097751561380180420",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097751561380180420",
+      "score": 28356,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097750987905597571",
+      "rank": 4,
+      "title": "Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 an…",
+      "benchmarkPostId": "2097750987905597571",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097750987905597571",
+      "score": 25466,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097750534165852336",
+      "rank": 5,
+      "title": "Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the pho…",
+      "benchmarkPostId": "2097750534165852336",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097750534165852336",
+      "score": 33726,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097750228489134288",
+      "rank": 6,
+      "title": "APPLE $AAPL JUST SAID THE NEW FOLDABLE IPHONE DUO WILL HAVE UP TO 44 HOURS OF BATTERY LIFE W…",
+      "benchmarkPostId": "2097750228489134288",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097750228489134288",
+      "score": 20444,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097749625360826613",
+      "rank": 7,
+      "title": "This is what the new foldable iPhone Duo looks like under the screen https://t.co/5MGJD0Vbj5",
+      "benchmarkPostId": "2097749625360826613",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097749625360826613",
+      "score": 19676,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097748837481709790",
+      "rank": 8,
+      "title": "Apple $AAPL said its new foldable iPhone Duo can act as a bedside clock/alarm https://t.co/T…",
+      "benchmarkPostId": "2097748837481709790",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097748837481709790",
+      "score": 61712,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097747922532065293",
+      "rank": 9,
+      "title": "Here is a first look at Apple's new iPhone Duo its first-ever foldable phone The iPhone Duo …",
+      "benchmarkPostId": "2097747922532065293",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097747922532065293",
+      "score": 46109,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097745853611987451",
+      "rank": 10,
+      "title": "This is what Apple's $AAPL first foldable iPhone looks like https://t.co/wMP05LT4HR",
+      "benchmarkPostId": "2097745853611987451",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097745853611987451",
+      "score": 48788,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097745456834965622",
+      "rank": 11,
+      "title": "APPLE $AAPL JUST ANNOUNCED ITS FIRST EVER FOLDABLE PHONE",
+      "benchmarkPostId": "2097745456834965622",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097745456834965622",
+      "score": 26480,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2097745328556384396",
+      "rank": 12,
+      "title": "\"But actually there is 1 more thing\" - John Ternus",
+      "benchmarkPostId": "2097745328556384396",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097745328556384396",
+      "score": 24504,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2097744668016496967",
+      "rank": 13,
+      "title": "Apple $AAPL just announced Audio Intelligence “Just as visual intelligence makes sense of wh…",
+      "benchmarkPostId": "2097744668016496967",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097744668016496967",
+      "score": 26778,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097743411621110173",
+      "rank": 14,
+      "title": "Apple $AAPL just announced a new redesigned AI powered Health app coming later this year to …",
+      "benchmarkPostId": "2097743411621110173",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097743411621110173",
+      "score": 30860,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:10:16Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097767066170224987",
+      "rank": 1,
+      "title": "Here is a first look at Apple’s new foldable iPhone Duo https://t.co/vLMMmP452S",
+      "benchmarkPostId": "2097767066170224987",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097767066170224987",
+      "score": 9244,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:27:21Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097766765937721570",
+      "rank": 2,
+      "title": "Meta Platforms' $ META's new AI app \"Muse from Meta\" is currently the 3rd most popular free …",
+      "benchmarkPostId": "2097766765937721570",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097766765937721570",
+      "score": 11366,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T19:27:21Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -29215,7 +30149,7 @@
       "benchmarkPostId": "2097703654966886534",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097703654966886534",
       "title": "$PENPE Robinhood Chain launch",
-      "status": "ready",
+      "status": "expired",
       "postText": "$PENPE, the self-described “father of PEPE,” is set to launch on Robinhood Chain tomorrow at 3 PM UTC via a fair launch.",
       "mirroredFacts": [
         "$PENPE is described by the source as the self-proclaimed father of PEPE.",
@@ -29245,14 +30179,16 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T19:09:26Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260909-treasury-6b-long-debt-buyback",
       "benchmarkPostId": "2097702636287881694",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097702636287881694",
       "title": "Treasury plans up to $6B longer-dated debt buyback",
-      "status": "ready",
+      "status": "expired",
       "postText": "The U.S. Treasury plans to buy back up to $6B of longer-dated debt tomorrow, up from the previous $4B.",
       "mirroredFacts": [
         "The U.S. Treasury plans to buy back up to $6 billion of longer-dated debt tomorrow.",
@@ -29282,7 +30218,9 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T19:09:26Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260909-robinhood-public-shares-products",
@@ -29400,6 +30338,80 @@
       },
       "postizPostId": "cmtuaphvy03galm0y5ypnswfv",
       "publishedAt": "2026-09-09T16:11:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-apple-iphone-duo-first-look",
+      "benchmarkPostId": "2097767066170224987",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097767066170224987",
+      "title": "Apple reveals foldable iPhone Duo",
+      "status": "published",
+      "postText": "Apple just revealed a first look at its new foldable iPhone Duo.",
+      "mirroredFacts": [
+        "Apple showed a first look at its new foldable iPhone Duo."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097767066170224987"
+      ],
+      "imagePath": "deliverables/pkg-20260909-apple-iphone-duo-first-look/when2buy-image-model.png",
+      "createdAt": "2026-09-09T19:31:23.001807+00:00",
+      "sourceExpiresAt": "2026-09-09T20:50:17Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square 1:1 premium X financial-news visual for Apple's newly revealed foldable iPhone Duo; near-black studio, photorealistic foldable smartphone hero, white rim light, restrained red glow, exact text IPHONE DUO and FIRST LOOK, lower-left logo-safe area; no source, attribution, disclaimer, CTA, tagline, watermark, or generated logo.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T19:31:23.001807+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led foldable-phone scene; exact IPHONE DUO and FIRST LOOK text",
+            "premium near-black, white, and restrained-red palette",
+            "no source or public sourcing boilerplate",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtuhwcy105rilm0yns6f0y4x",
+      "publishedAt": "2026-09-09T19:32:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-meta-muse-number-three-free-app",
+      "benchmarkPostId": "2097766765937721570",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097766765937721570",
+      "title": "Meta's Muse ranks No. 3 among free apps",
+      "status": "published",
+      "postText": "$META's new Muse app is now the No. 3 free app on Apple's App Store.",
+      "mirroredFacts": [
+        "Meta's new Muse app is currently the third most popular free app on Apple's App Store."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097766765937721570"
+      ],
+      "imagePath": "deliverables/pkg-20260909-meta-muse-number-three-free-app/when2buy-image-model.png",
+      "createdAt": "2026-09-09T19:31:24.363705+00:00",
+      "sourceExpiresAt": "2026-09-09T20:49:06Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square 1:1 premium X financial-news visual for Meta's Muse AI app ranking third among free apps in Apple's App Store; near-black studio, smartphone with generative-video interface and dominant ranking podium number 3, white highlights, restrained red glow, exact text MUSE FROM META and #3 FREE APP, lower-left logo-safe area; no source, attribution, disclaimer, CTA, tagline, watermark, or generated logo.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T19:31:24.363705+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led Muse app scene; exact MUSE FROM META and #3 FREE APP text",
+            "premium near-black, white, and restrained-red palette",
+            "no source or public sourcing boilerplate",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtuhz2jn04goqk0ywvn36iya",
+      "publishedAt": "2026-09-09T19:34:00.000Z"
     }
   ],
   "posts": [
@@ -32785,6 +33797,40 @@
         "status": "active",
         "windowStart": "2026-09-09T16:13:00.000Z",
         "windowEnd": "2026-09-12T16:13:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097770249135530085",
+      "packageId": "pkg-20260909-apple-iphone-duo-first-look",
+      "title": "Apple reveals foldable iPhone Duo",
+      "status": "published",
+      "publishedAt": "2026-09-09T19:32:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097770249135530085",
+      "postizPostId": "cmtuhwcy105rilm0yns6f0y4x",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T19:32:00.000Z",
+        "windowEnd": "2026-09-12T19:32:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097770760874135954",
+      "packageId": "pkg-20260909-meta-muse-number-three-free-app",
+      "title": "Meta's Muse ranks No. 3 among free apps",
+      "status": "published",
+      "publishedAt": "2026-09-09T19:34:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097770760874135954",
+      "postizPostId": "cmtuhz2jn04goqk0ywvn36iya",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T19:34:00.000Z",
+        "windowEnd": "2026-09-12T19:34:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -163078,6 +164124,126 @@
       "startedAt": "2026-09-09T16:14:23Z",
       "completedAt": "2026-09-09T16:14:23Z",
       "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T190929Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:09:29Z",
+      "completedAt": "2026-09-09T19:09:29Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 2 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T191011Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:10:11Z",
+      "completedAt": "2026-09-09T19:10:11Z",
+      "summary": "Apify scanned both benchmark accounts; captured 38 eligible originals and added 22 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T191016Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:10:16Z",
+      "completedAt": "2026-09-09T19:10:16Z",
+      "summary": "Prepared 14 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T192608Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:26:08Z",
+      "completedAt": "2026-09-09T19:26:08Z",
+      "summary": "Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T192717Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:27:17Z",
+      "completedAt": "2026-09-09T19:27:17Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T192721Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:27:21Z",
+      "completedAt": "2026-09-09T19:27:21Z",
+      "summary": "Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T193125Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:31:25.463525+00:00",
+      "completedAt": "2026-09-09T19:31:25.463525+00:00",
+      "summary": "Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260909-apple-iphone-duo-first-look",
+        "pkg-20260909-meta-muse-number-three-free-app"
+      ]
+    },
+    {
+      "id": "run-20260909T193128Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:31:28Z",
+      "completedAt": "2026-09-09T19:31:28Z",
+      "summary": "Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T193209Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:32:09Z",
+      "completedAt": "2026-09-09T19:32:09Z",
+      "summary": "Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T193259Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:32:59.414218+00:00",
+      "completedAt": "2026-09-09T19:32:59.414222+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T193500Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:35:00.494209+00:00",
+      "completedAt": "2026-09-09T19:35:00.494215+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T193533Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T19:35:33Z",
+      "completedAt": "2026-09-09T19:35:33Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
   ],

@@ -1,46 +1,46 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T16:14:23.723306+00:00`
+- 状态更新：`2026-09-09T19:35:33.263841+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**444**
-- 待选选题：**400**
-- 待发布制作包：**2**
-- 已验证发布：**189**
+- 对标帖子快照：**468**
+- 待选选题：**416**
+- 待发布制作包：**0**
+- 已验证发布：**191**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 19:19:06 +0000 2026 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free app on the Apple App Store https://t.co/YXWhsxUk7e | [X](https://x.com/StockMKTNewz/status/2097766765937721570) |
+| @StockMKTNewz | Wed Sep 09 19:20:17 +0000 2026 | Here is a first look at Apple’s new foldable iPhone Duo  https://t.co/vLMMmP452S | [X](https://x.com/StockMKTNewz/status/2097767066170224987) |
+| @WhaleInsider | Wed Sep 09 16:52:06 +0000 2026 | JUST IN: Lightfield raises $47 million Series A, led by a16z, to make customer context usable by A.I agents. https://t.co/MQT8C6r18G | [X](https://x.com/WhaleInsider/status/2097729772079976501) |
+| @WhaleInsider | Wed Sep 09 16:58:48 +0000 2026 | JUST IN: Copper hits fresh record of $14,802.50/ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. https://t.co/azHFdx7JLX | [X](https://x.com/WhaleInsider/status/2097731459935043753) |
+| @WhaleInsider | Wed Sep 09 17:25:13 +0000 2026 | JUST IN: Apple $AAPL unveils new iPhone 18 Pro &amp; Pro Max. https://t.co/Sw98zUv51U | [X](https://x.com/WhaleInsider/status/2097738109194514578) |
+| @StockMKTNewz | Wed Sep 09 17:30:12 +0000 2026 | APPLE'S $AAPL NEW IPHONE 18 PRO STARTS AT $1,199 | [X](https://x.com/StockMKTNewz/status/2097739361701736891) |
+| @StockMKTNewz | Wed Sep 09 17:30:21 +0000 2026 | APPLE'S $AAPL NEW IPHONE 18 PRO MAX STARTS AT $1,299 | [X](https://x.com/StockMKTNewz/status/2097739400603951368) |
+| @StockMKTNewz | Wed Sep 09 17:31:22 +0000 2026 | Apple $AAPL just announced Upgrade a new $34.99 per month subscription that lets you rent a new iPhone 18 Pro https://t.co/H7KooF6VXh | [X](https://x.com/StockMKTNewz/status/2097739656531972302) |
+| @StockMKTNewz | Wed Sep 09 17:32:12 +0000 2026 | APPLE $AAPL JUST ANNOUNCED THE NEW AIRPODS 5 | [X](https://x.com/StockMKTNewz/status/2097739863147642923) |
+| @StockMKTNewz | Wed Sep 09 17:35:45 +0000 2026 | Apple $AAPL just announced the new AirPods 5 which start at $129 https://t.co/KRAhTlh8ek | [X](https://x.com/StockMKTNewz/status/2097740756291108977) |
+| @StockMKTNewz | Wed Sep 09 17:46:18 +0000 2026 | Apple $AAPL just announced a new redesigned AI powered Health app coming later this year to the United States 🇺🇸  The new Health app will have use Apple Intelligence built in to give you personalized guidance on all the data it collects https://t.co/GGHVByre9I | [X](https://x.com/StockMKTNewz/status/2097743411621110173) |
+| @StockMKTNewz | Wed Sep 09 17:51:17 +0000 2026 | Apple $AAPL just announced Audio Intelligence   “Just as visual intelligence makes sense of what you see, Audio intelligence makes sense of what you hear”  https://t.co/KL2403qpsK | [X](https://x.com/StockMKTNewz/status/2097744668016496967) |
+| @StockMKTNewz | Wed Sep 09 17:53:55 +0000 2026 | "But actually there is 1 more thing" - John Ternus | [X](https://x.com/StockMKTNewz/status/2097745328556384396) |
+| @StockMKTNewz | Wed Sep 09 17:54:25 +0000 2026 | APPLE $AAPL JUST ANNOUNCED ITS FIRST EVER FOLDABLE PHONE | [X](https://x.com/StockMKTNewz/status/2097745456834965622) |
+| @StockMKTNewz | Wed Sep 09 17:56:00 +0000 2026 | This is what Apple's $AAPL first foldable iPhone looks like https://t.co/wMP05LT4HR | [X](https://x.com/StockMKTNewz/status/2097745853611987451) |
+| @StockMKTNewz | Wed Sep 09 18:04:13 +0000 2026 | Here is a first look at Apple's new iPhone Duo its first-ever foldable phone  The iPhone Duo is now the largest display in iPhone history. Apple said the Duo's screen, when open is 50% larger than the iPhone 19 Pro Max | [X](https://x.com/StockMKTNewz/status/2097747922532065293) |
+| @StockMKTNewz | Wed Sep 09 18:07:51 +0000 2026 | Apple $AAPL said its new foldable iPhone Duo can act as a bedside clock/alarm https://t.co/ThYpHvBrW7 | [X](https://x.com/StockMKTNewz/status/2097748837481709790) |
+| @StockMKTNewz | Wed Sep 09 18:10:59 +0000 2026 | This is what the new foldable iPhone Duo looks like under the screen https://t.co/5MGJD0Vbj5 | [X](https://x.com/StockMKTNewz/status/2097749625360826613) |
+| @StockMKTNewz | Wed Sep 09 18:13:23 +0000 2026 | APPLE $AAPL JUST SAID THE NEW FOLDABLE IPHONE DUO WILL HAVE UP TO 44 HOURS OF BATTERY LIFE WHEN USING THE OUTER DISPLAY | [X](https://x.com/StockMKTNewz/status/2097750228489134288) |
+| @StockMKTNewz | Wed Sep 09 18:14:36 +0000 2026 | Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the phone  https://t.co/UgPsnie3AO | [X](https://x.com/StockMKTNewz/status/2097750534165852336) |
+| @StockMKTNewz | Wed Sep 09 18:16:24 +0000 2026 | Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 and will be available on October 23rd https://t.co/lTUqiqJjnd | [X](https://x.com/StockMKTNewz/status/2097750987905597571) |
+| @StockMKTNewz | Wed Sep 09 18:18:41 +0000 2026 | Here are the 4 new products Apple $AAPL announced today  - New iPhone 18 Pro and Pro Max - Updated Airpods - Updated Apple Watch - First foldable Phone the iPhone Duo https://t.co/qitxoMrAAv | [X](https://x.com/StockMKTNewz/status/2097751561380180420) |
+| @WhaleInsider | Wed Sep 09 18:19:12 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 billion this month. https://t.co/BJU6xEmh5R | [X](https://x.com/WhaleInsider/status/2097751693433680381) |
+| @StockMKTNewz | Wed Sep 09 18:24:45 +0000 2026 | Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word | [X](https://x.com/StockMKTNewz/status/2097753088132104409) |
 | @StockMKTNewz | Wed Sep 09 15:57:31 +0000 2026 | $META is the only stock out of the top 10 largest companies in the world that is moving higher today  🟢🔴🔴🔴🔴🔴🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2097716037126951139) |
 | @WhaleInsider | Wed Sep 09 15:13:34 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. https://t.co/lRz16If9ZE | [X](https://x.com/WhaleInsider/status/2097704978462671282) |
 | @StockMKTNewz | Wed Sep 09 15:25:03 +0000 2026 | Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial products built around their shares once they go public - CNBC https://t.co/TqEhhSnGau | [X](https://x.com/StockMKTNewz/status/2097707867981713833) |
 | @StockMKTNewz | Wed Sep 09 14:51:21 +0000 2026 | This is what $11.5 Million gets you in Utah  A house almost the size of the White House https://t.co/zcZn3mlSBk | [X](https://x.com/StockMKTNewz/status/2097699385257685314) |
 | @StockMKTNewz | Wed Sep 09 15:04:16 +0000 2026 | THE 🇺🇸 TREASURY DEPARTMENT PLANS TO BUY BACK UP TO $6B IN LONGER-DATED DEBT TOMORROW UP FROM THE PREVIOUS $4B OF BUY BACKS | [X](https://x.com/StockMKTNewz/status/2097702636287881694) |
 | @WhaleInsider | Wed Sep 09 15:08:19 +0000 2026 | JUST IN: $PENPE, the self-proclaimed “father of PEPE,” is set to launch on Robinhood Chain tomorrow at 3 PM UTC via fair launch. https://t.co/YME6rJSEPF | [X](https://x.com/WhaleInsider/status/2097703654966886534) |
-| @StockMKTNewz | Wed Sep 09 14:33:57 +0000 2026 | Michael Burry just said he is covering some of his shorts and reducing the size of his short bets on Nvidia $NVDA and CoreWeave $CRWV https://t.co/F4CxghZTZK | [X](https://x.com/StockMKTNewz/status/2097695004827279430) |
-| @StockMKTNewz | Wed Sep 09 14:38:52 +0000 2026 | EUROPE GAS PRICES RISE ABOVE €80 FOR FIRST TIME SINCE 2023 - Bloomberg | [X](https://x.com/StockMKTNewz/status/2097696245359735104) |
-| @WhaleInsider | Wed Sep 09 14:22:07 +0000 2026 | JUST IN: Robinhood Chain $HOOD leads tokenized equity volume at 40% market share. https://t.co/v9BQFebewa | [X](https://x.com/WhaleInsider/status/2097692027802513720) |
-| @WhaleInsider | Wed Sep 09 14:06:44 +0000 2026 | JUST IN: The team behind $PENGUIN on Robinhood Chain has burned 200M tokens which is equivalent to $160,000 at all time high. https://t.co/TdY13eZjT1 | [X](https://x.com/WhaleInsider/status/2097688157370126338) |
-| @StockMKTNewz | Wed Sep 09 13:54:59 +0000 2026 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINNISH 🇫🇮 PLANT RUNNING TO 2050  Google agreed to buy up to 50% of the capacity from Fortum's Loviisa nuclear plant in Finland, guaranteeing it stays online through the end of its operating license in 2050.  The deal unlocks roughly $1.16 billion in investment Fortum needs to keep the plant running, decisions that would otherwise have been made year by year.  It's part of the broader $15.1 billion Google plan for AI infrastructure investment in Finland - Bloomberg | [X](https://x.com/StockMKTNewz/status/2097685199102316847) |
-| @StockMKTNewz | Wed Sep 09 13:28:17 +0000 2026 | Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ   "Alif’s microcontrollers and fusion processors enable real-time sensor fusion, low-latency inference and on-device AI, bringing advanced intelligence to demanding physical systems" https://t.co/5uQFbmoYDx | [X](https://x.com/StockMKTNewz/status/2097678479634395160) |
-| @StockMKTNewz | Wed Sep 09 13:32:59 +0000 2026 | The 🇺🇸 stock market just opened trading today Red  🔴🔴🔴🔴 https://t.co/Q0VYOw467M | [X](https://x.com/StockMKTNewz/status/2097679663678058507) |
-| @StockMKTNewz | Wed Sep 09 13:04:12 +0000 2026 | OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - CNBC | [X](https://x.com/StockMKTNewz/status/2097672421251645532) |
-| @WhaleInsider | Wed Sep 09 12:48:56 +0000 2026 | JUST IN: Hunter Biden's crypto memecoin $LAPTOP is down 90% from its peak. https://t.co/hA8Z53ts8S | [X](https://x.com/WhaleInsider/status/2097668576270315572) |
-| @StockMKTNewz | Wed Sep 09 11:50:40 +0000 2026 | There could be as much as $31.6 Trillion spent on data center CAPEX through 2050  Almost 50% of that spending is expected to come from the 🇺🇸  Next year alone estimates are that global data center AI CAPEX spend will be around $1T-$1.2 Trillion up from roughly $850B, which was spent this year  Of that spend next year, between 50%-70% is expected to be spent in the United States | [X](https://x.com/StockMKTNewz/status/2097653916750016898) |
-| @StockMKTNewz | Wed Sep 09 12:01:13 +0000 2026 | Meta Platforms $META Chief AI Officer Alexandr Wang posted:  "the early usage on muse has blown way past our projections. muse’s users today are using 10x more than our testing cohorts. enjoy!" | [X](https://x.com/StockMKTNewz/status/2097656569513013637) |
-| @StockMKTNewz | Wed Sep 09 11:39:39 +0000 2026 | Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4 | [X](https://x.com/StockMKTNewz/status/2097651141337100444) |
-| @StockMKTNewz | Wed Sep 09 11:25:33 +0000 2026 | FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS  At least a third of all Federal Reserve officials have said they would consider meeting less frequently to set interest rates - Bloomberg https://t.co/4OTapOa3kx | [X](https://x.com/StockMKTNewz/status/2097647592054075592) |
-| @WhaleInsider | Wed Sep 09 11:29:52 +0000 2026 | JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://t.co/7DHeHDHxWU | [X](https://x.com/WhaleInsider/status/2097648681054830622) |
-| @StockMKTNewz | Wed Sep 09 10:58:19 +0000 2026 | Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Finland 🇫🇮 over the next 2 years https://t.co/vmm84uXpva | [X](https://x.com/StockMKTNewz/status/2097640742176846317) |
-| @StockMKTNewz | Wed Sep 09 11:10:54 +0000 2026 | $LYFT is starting to offer robotaxi rides in Google $GOOGL owned Waymo cars in Nashville, Tennessee - Bloomberg https://t.co/TkiyUdiadK | [X](https://x.com/StockMKTNewz/status/2097643905885900979) |
-| @StockMKTNewz | Wed Sep 09 11:13:28 +0000 2026 | Meta Platforms $META stock is up by more than 5% in pre market trading   🟢🟢🟢🟢🟢 https://t.co/ZLXv0RqYK1 | [X](https://x.com/StockMKTNewz/status/2097644554820165827) |
-| @StockMKTNewz | Wed Sep 09 10:45:54 +0000 2026 | AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED KINGDOM 🇬🇧  $UBER WANTS TO RAISE ~€4 BILLION THROUGH ITS FIRST EUROPEAN 🇪🇺 BOND SALE | [X](https://x.com/StockMKTNewz/status/2097637616556392674) |
-| @StockMKTNewz | Wed Sep 09 10:21:00 +0000 2026 | HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of 7,650 | [X](https://x.com/StockMKTNewz/status/2097631348395479169) |
-| @WhaleInsider | Wed Sep 09 10:33:34 +0000 2026 | JUST IN: 🇮🇳 India’s Financial Intelligence Unit has issued non-compliance notices to 15 cryptocurrency platforms, among them Weex, Blofin, Bitunix, DigiFinex, and Toobit.   The regulator is also seeking the removal of their apps and websites over alleged breaches of anti-money laundering rules. | [X](https://x.com/WhaleInsider/status/2097634511366304052) |
-| @StockMKTNewz | Wed Sep 09 10:34:37 +0000 2026 | This is the FOMC meeting with the most uncertainty about what the Fed will do in more than a decade  There is currently a ~55% chance we get a 0.25% rate hike next week  Snce 2015 there have been 0 FOMC meetings where 2 days before, the market odds of the Fed taking action were between 38%-69%. Every time its been either less than a 38% chance or more than 69% | [X](https://x.com/StockMKTNewz/status/2097634775062184094) |
-| @StockMKTNewz | Wed Sep 09 10:09:37 +0000 2026 | SpaceX $SPCX is back to being valued at more than $2 Trillion https://t.co/ZqTRiJxdYo | [X](https://x.com/StockMKTNewz/status/2097628486454170011) |
-| @WhaleInsider | Wed Sep 09 10:10:10 +0000 2026 | JUST IN: 🇨🇳🇺🇸 China dismisses as “unfounded” a U.S. advisory accusing DeepSeek, Alibaba, Moonshot AI and three other firms of systematically distilling Claude, GPT, Gemini and Grok - and calls for more AI cooperation instead. https://t.co/vdCA91ownW | [X](https://x.com/WhaleInsider/status/2097628624551637052) |
-| @WhaleInsider | Wed Sep 09 09:31:02 +0000 2026 | JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil tankers near the Strait of Hormuz. https://t.co/QtpaOriimX | [X](https://x.com/WhaleInsider/status/2097618775214276775) |
 
 ## 选题推荐
 
@@ -149,6 +149,8 @@
 | 1 | JUST IN: $PENPE, the self-proclaimed “father of PEPE,” is set to launch on Robinhood Chain t… | WhaleInsider | 9858 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial produc… | StockMKTNewz | 5767 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | $META is the only stock out of the top 10 largest companies in the world that is moving high… | StockMKTNewz | 11337 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word | StockMKTNewz | 36594 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Here is a first look at Apple’s new foldable iPhone Duo https://t.co/vLMMmP452S | StockMKTNewz | 9244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -200,6 +202,8 @@
 | 2 | Michael Burry just said he is covering some of his shorts and reducing the size of his short… | StockMKTNewz | 14644 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | THE 🇺🇸 TREASURY DEPARTMENT PLANS TO BUY BACK UP TO $6B IN LONGER-DATED DEBT TOMORROW UP FROM… | StockMKTNewz | 4391 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. htt… | WhaleInsider | 20241 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 bil… | WhaleInsider | 33194 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free … | StockMKTNewz | 11366 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -224,6 +228,7 @@
 | 3 | HSBC now thinks the S&amp;P 500 will close the year at 8,100, up from its previous target of… | StockMKTNewz | 8554 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Fin… | StockMKTNewz | 10419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | This is what $11.5 Million gets you in Utah A house almost the size of the White House https… | StockMKTNewz | 19411 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | Here are the 4 new products Apple $AAPL announced today - New iPhone 18 Pro and Pro Max - Up… | StockMKTNewz | 28356 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -239,6 +244,7 @@
 | 4 | Moderna is currently the 2nd best performing stock in the S&amp;P 500 so far in 2026 🥈 Moder… | StockMKTNewz | 11200 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES: - RIGETTI $RGTI SIGNS PACT FOR $100M… | StockMKTNewz | 12735 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | QUALCOMM $QCOM JUST SAID: - THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE | StockMKTNewz | 15037 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 an… | StockMKTNewz | 25466 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -254,6 +260,7 @@
 | 5 | Robinhood $HOOD now makes more money from trading Prediction Markets on its platform than it… | StockMKTNewz | 20053 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | This is my 2nd largest ETF holding ... What do you think? | StockMKTNewz | 63973 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | This is what the most expensive house sold Massachusetts looks like https://t.co/fyMOyRWpQo | StockMKTNewz | 128997 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 5 | Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the pho… | StockMKTNewz | 33726 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 6 | This is how you go from being worth ~$250B to being worth $1.75T in just a couple of years h… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 6 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood br… | StockMKTNewz | 20 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 6 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $… | WhaleInsider | 89351 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -263,6 +270,7 @@
 | 6 | Someone bought this home in Miami for $1.4 Million off of Facebook Marketplace https://t.co/… | StockMKTNewz | 103659 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 6 | JUST IN: 🇺🇸 The Fed plans to purchase up to $2.122 billion in Treasury bills next week, part… | WhaleInsider | 47912 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 6 | Apple $AAPL stock is up by more than 10x over the last decade 🟢 https://t.co/EFgaFLKtIL | StockMKTNewz | 36275 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 6 | APPLE $AAPL JUST SAID THE NEW FOLDABLE IPHONE DUO WILL HAVE UP TO 44 HOURS OF BATTERY LIFE W… | StockMKTNewz | 20444 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 7 | JUST IN: 🇦🇪 $447 billion Standard Chartered is now offering spot crypto trading to instituti… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 7 | Tesla $TSLA just said its new self driving cars will have a theater mode and be equipped wit… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 7 | JUST IN: Oppenheimer raises SpaceX $SPCX price target to $280 from $250, maintaining an Outp… | WhaleInsider | 84283 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -271,6 +279,7 @@
 | 7 | JUST IN: $NVDA expected to triple its profit to nearly $595 billion by FY29. https://t.co/sl… | WhaleInsider | 42170 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 7 | JUST IN: 🇺🇸 The number of 401(k) millionaires has surged to a new all-time high of 769,000. … | WhaleInsider | 47350 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 7 | Nvidia $NVDA stock is up by more than 15,000% over the last decade 🤯 https://t.co/70yOI9LAqr | StockMKTNewz | 50729 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 7 | This is what the new foldable iPhone Duo looks like under the screen https://t.co/5MGJD0Vbj5 | StockMKTNewz | 19676 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 8 | JUST IN: $BTC forecasted to hit a high of $83,000 this month, per Kalshi traders. https://t.… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 8 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house… | StockMKTNewz | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 8 | Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena | StockMKTNewz | 75095 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
@@ -280,6 +289,7 @@
 | 8 | Here is every stock that has been added and removed from the S&amp;P 500 over the last decad… | StockMKTNewz | 51362 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 8 | JUST IN: @hooddomains $HD is building the ENS of Robinhood Chain - .hood names with seedless… | WhaleInsider | 38080 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 8 | HERE ARE ALL THE WEEKDAYS THAT THE 🇺🇸 STOCK MARKET WILL BE CLOSED FOR THE REST OF 2026 - Mon… | StockMKTNewz | 34568 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 8 | Apple $AAPL said its new foldable iPhone Duo can act as a bedside clock/alarm https://t.co/T… | StockMKTNewz | 61712 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 9 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via part… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 9 | Salesforce $CRM and Anthropic just released this new commercial together https://t.co/fnlLdN… | StockMKTNewz | 72214 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 9 | JUST IN: $AP, with over $20,000 in Nvidia holdings across its community vault and liquidity … | WhaleInsider | 33476 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
@@ -287,31 +297,37 @@
 | 9 | Here is the full history of Nvidia's $NVDA market cap every September since going public 199… | StockMKTNewz | 53035 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 9 | JUST IN: Robinhood Chain $HOOD assets are closing in on a combined market cap of $2,000,000,… | WhaleInsider | 46465 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 9 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was f… | WhaleInsider | 59152 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 9 | Here is a first look at Apple's new iPhone Duo its first-ever foldable phone The iPhone Duo … | StockMKTNewz | 46109 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 10 | Nvidia $NVDA CEO Jensen Huang just confirmed that Nvidia $NVDA has agreed to acquire Hugging… | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 10 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid grow… | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 10 | JUST IN: 🇨🇳 DeepSeek plans to install more than 160,000 Huawei AI chips in China. https://t.… | WhaleInsider | 34285 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 10 | McDonald's $MCD stock hit new 52 WEEK LOWS today https://t.co/clDChKH4DS | StockMKTNewz | 58960 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 10 | We are doing a free to enter NFL Pick em league, you pick every game throughout the season W… | StockMKTNewz | 42255 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 10 | This is what Apple's $AAPL first foldable iPhone looks like https://t.co/wMP05LT4HR | StockMKTNewz | 48788 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 11 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 bi… | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 11 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, … | WhaleInsider | 19 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 11 | JUST IN: Reports and rumours suggest some users may be moving toward a parody stock market l… | WhaleInsider | 40791 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 11 | What's the #1 worst performing stock in your portfolio so far today | StockMKTNewz | 46684 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 11 | Here is the full history of Apple's $AAPL market cap every September since 1984 1984: $1.6B … | StockMKTNewz | 49069 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 11 | *THIS IS THE LAST SUNDAY WITHOUT REGULAR SEASON NFL FOOTBALL | StockMKTNewz | 57524 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 11 | APPLE $AAPL JUST ANNOUNCED ITS FIRST EVER FOLDABLE PHONE | StockMKTNewz | 26480 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 12 | WATCH OUT FOR THIS MAJOR EVENT TONIGHT Tesla $TSLA will be hosting its Cybercab event tonigh… | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 12 | This is what $5.35 Million gets you in Cleveland Ohio https://t.co/eKMzT15I7R | StockMKTNewz | 67842 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 12 | What's the #1 best performing stock in your portfolio so far today | StockMKTNewz | 46597 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 12 | JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into … | WhaleInsider | 55087 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 12 | JUST IN: $BTC is 1% of global money - River. https://t.co/aCyp1v3Mr2 | WhaleInsider | 42993 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 12 | "But actually there is 1 more thing" - John Ternus | StockMKTNewz | 24504 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 13 | Scotiabank started coverage on $SOFI stock with a $25 price target and an Outperform rating | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 13 | Here is a day 1 look at the inside of Tesla’s $TSLA self driving car the Cybercab filmed by … | StockMKTNewz | 35314 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 13 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It … | StockMKTNewz | 65149 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 13 | JUST IN: Less than 16% chance of $BTC hitting $50,000 before $100,000, per Kalshi traders. h… | WhaleInsider | 53339 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 13 | Apple $AAPL just announced Audio Intelligence “Just as visual intelligence makes sense of wh… | StockMKTNewz | 26778 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 14 | JUST IN: 🇯🇵 Bank of Japan leans toward raising rates from 1% to 1.25% this month - Bloomberg… | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 14 | JUST IN: SpaceXAI $SPCX launches Grok bot for enterprises with two-week free trial for busin… | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 14 | Tesla $TSLA just said that paid rides to the public in its Cybercab will start today at 3PM … | StockMKTNewz | 42487 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 14 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY h… | StockMKTNewz | 33273 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 14 | NEW: VC-backed Pokémon gacha site https://t.co/LGPj99uimp just launched. They’re offering 20… | WhaleInsider | 39960 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 14 | Apple $AAPL just announced a new redesigned AI powered Health app coming later this year to … | StockMKTNewz | 30860 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 15 | JUST IN: BlackRock ETF clients buy $115.45 million worth of $BTC. https://t.co/gQHSIvjsHt | WhaleInsider | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 15 | Zscaler $ZS stock is up initially in after hours following its earnings https://t.co/aNyl92n… | StockMKTNewz | 18 | Fresh benchmark signal; create an original attributed market-radar or context post when independent verification is unavailable. |
 | 15 | Here are some of the events to watch out for this my from our partners below We still have C… | StockMKTNewz | 40489 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
@@ -2852,14 +2868,14 @@ Michael Burry says he is covering part of his short positions and reducing his b
 
 ### $PENPE Robinhood Chain launch
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260909-penpe-robinhood-chain-launch/when2buy-image-model.png`
 
 $PENPE, the self-described “father of PEPE,” is set to launch on Robinhood Chain tomorrow at 3 PM UTC via a fair launch.
 
 ### Treasury plans up to $6B longer-dated debt buyback
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260909-treasury-6b-long-debt-buyback/when2buy-image-model.png`
 
 The U.S. Treasury plans to buy back up to $6B of longer-dated debt tomorrow, up from the previous $4B.
@@ -2884,6 +2900,20 @@ The U.S. Treasury plans to buy back up to $6B in longer-term debt tomorrow.
 - 配图：`deliverables/pkg-20260909-meta-only-top-ten-higher/when2buy-image-model.png`
 
 $META is the only stock among the world's 10 largest companies trading higher today.
+
+### Apple reveals foldable iPhone Duo
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-apple-iphone-duo-first-look/when2buy-image-model.png`
+
+Apple just revealed a first look at its new foldable iPhone Duo.
+
+### Meta's Muse ranks No. 3 among free apps
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-meta-muse-number-three-free-app/when2buy-image-model.png`
+
+$META's new Muse app is now the No. 3 free app on Apple's App Store.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3079,9 +3109,23 @@ $META is the only stock among the world's 10 largest companies trading higher to
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097719576993968514) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097720108869361945) |
+| Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097770249135530085) |
+| Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097770760874135954) |
 
 ## 最近运行
 
+- `2026-09-09T19:35:33Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:35:00.494209+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T19:32:59.414218+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T19:32:09Z` **queue / succeeded** — Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:31:28Z` **queue / succeeded** — Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:31:25.463525+00:00` **produce / succeeded** — Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.
+- `2026-09-09T19:27:21Z` **queue / succeeded** — Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:27:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
+- `2026-09-09T19:26:08Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:10:16Z` **queue / succeeded** — Prepared 14 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:10:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 22 new post(s).
+- `2026-09-09T19:09:29Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 2 unsent stale package(s).
 - `2026-09-09T16:14:23Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T16:05:52Z` **full / succeeded** — Postiz-first hourly metrics, Apify collection, benchmark-media archive, package-status and publication reconciliation, fresh-queue rebuild, image-model production, and two sequential verified X publications completed.
 - `2026-09-09T16:13:45.789515+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -3090,15 +3134,3 @@ $META is the only stock among the world's 10 largest companies trading higher to
 - `2026-09-09T16:10:38.550383+00:00` **produce / succeeded** — Produced the newest fresh queue package with an inspected image-model visual and exact-logo composite.
 - `2026-09-09T16:08:10Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T16:08:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).
-- `2026-09-09T16:05:54Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-09T15:55:44Z` **full / succeeded** — Apify collection, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, validation, and one expired-breaker recovery publication completed with a verified public X URL. The second fresh queue item was intentionally not submitted because breaker recovery permits exactly one newest-fresh-package probe.
-- `2026-09-09T15:59:51Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T15:58:55.306771+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T15:56:41Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T15:56:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 48 eligible originals and added 0 new post(s).
-- `2026-09-09T15:55:47Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T15:45:50Z` **full / partial** — Apify collection, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, and validation of the first two queue packages completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker. The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.
-- `2026-09-09T15:47:02Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T15:46:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 39 eligible originals and added 0 new post(s).
-- `2026-09-09T15:45:54Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T15:25:57Z` **full / partial** — Apify collection, benchmark-media archive, status reconciliation, fresh-queue rebuild, two image-model packages, and content validation completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker. The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.
