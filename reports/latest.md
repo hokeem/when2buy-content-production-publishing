@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T23:52:45.021878+00:00`
+- 状态更新：`2026-09-09T23:57:15.740719+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**477**
 - 待选选题：**424**
@@ -3186,6 +3186,9 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 
 ## 最近运行
 
+- `2026-09-09T23:56:09Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status and Postiz publication reconciliation, hard-TTL queue rebuild, validation, and reporting completed; no fresh queue items remained, so no content was produced or published.
+- `2026-09-09T23:56:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T23:56:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-09T23:45:49Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status reconciliation, hard-TTL queue rebuild, one image-model package, and one serial verified X publication completed.
 - `2026-09-09T23:52:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:51:26.648020+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -3203,6 +3206,3 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 - `2026-09-09T23:26:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-09T23:25:52Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:15:56Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-09T23:17:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:17:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-09T23:16:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
