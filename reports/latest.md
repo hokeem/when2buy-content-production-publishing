@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T13:43:46.038961+00:00`
+- 状态更新：`2026-09-09T14:03:59.356273+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**433**
-- 待选选题：**389**
+- 对标帖子快照：**434**
+- 待选选题：**390**
 - 待发布制作包：**1**
 - 已验证发布：**181**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 13:54:59 +0000 2026 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINNISH 🇫🇮 PLANT RUNNING TO 2050  Google agreed to buy up to 50% of the capacity from Fortum's Loviisa nuclear plant in Finland, guaranteeing it stays online through the end of its operating license in 2050.  The deal unlocks roughly $1.16 billion in investment Fortum needs to keep the plant running, decisions that would otherwise have been made year by year.  It's part of the broader $15.1 billion Google plan for AI infrastructure investment in Finland - Bloomberg | [X](https://x.com/StockMKTNewz/status/2097685199102316847) |
 | @StockMKTNewz | Wed Sep 09 13:28:17 +0000 2026 | Analog Devices $ADI has agreed to acquire Alif Semiconductor for $1.35 billion in cash - WSJ   "Alif’s microcontrollers and fusion processors enable real-time sensor fusion, low-latency inference and on-device AI, bringing advanced intelligence to demanding physical systems" https://t.co/5uQFbmoYDx | [X](https://x.com/StockMKTNewz/status/2097678479634395160) |
 | @StockMKTNewz | Wed Sep 09 13:32:59 +0000 2026 | The 🇺🇸 stock market just opened trading today Red  🔴🔴🔴🔴 https://t.co/Q0VYOw467M | [X](https://x.com/StockMKTNewz/status/2097679663678058507) |
 | @StockMKTNewz | Wed Sep 09 13:04:12 +0000 2026 | OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - CNBC | [X](https://x.com/StockMKTNewz/status/2097672421251645532) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 01:07:56 +0000 2026 | WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW | [X](https://x.com/StockMKTNewz/status/2097492167849631928) |
 | @StockMKTNewz | Wed Sep 09 01:04:26 +0000 2026 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% rate it as good or excellent - WSJ https://t.co/Qa2hSXvUyQ | [X](https://x.com/StockMKTNewz/status/2097491285909151900) |
 | @StockMKTNewz | Tue Sep 08 22:13:15 +0000 2026 | This is what $7.2 Million gets you in Greece 🇬🇷 https://t.co/vXOcOSpsad | [X](https://x.com/StockMKTNewz/status/2097448206950928886) |
-| @WhaleInsider | Tue Sep 08 21:33:55 +0000 2026 | JUST IN: $MarsCat becomes the first ever AI coin on BNB Chain to distribute over over $100,000 in MarsCoin rewards to its holders. https://t.co/gjIwo9NbLf | [X](https://x.com/WhaleInsider/status/2097438308410241104) |
 
 ## 选题推荐
 
@@ -142,6 +142,7 @@
 | 1 | JUST IN: Hunter Biden's crypto memecoin $LAPTOP is down 90% from its peak. https://t.co/hA8Z… | WhaleInsider | 18738 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI said 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours - … | StockMKTNewz | 11631 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The 🇺🇸 stock market just opened trading today Red 🔴🔴🔴🔴 https://t.co/Q0VYOw467M | StockMKTNewz | 7519 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINN… | StockMKTNewz | 5026 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2804,6 +2805,13 @@ U.S. stocks opened lower today.
 
 $ADI agreed to acquire Alif Semiconductor for $1.35B in cash.  Alif's chips handle real-time sensor fusion, low-latency inference and on-device AI.
 
+### Google secures Loviisa nuclear power through 2050
+
+- 状态：`publishing`
+- 配图：`deliverables/pkg-20260909-google-fortum-nuclear-2050/when2buy-image-model.png`
+
+$GOOGL agreed to buy up to 50% of the power from Fortum's Loviisa nuclear plant through 2050.  The deal supports roughly $1.16B of investment to keep the Finnish plant operating.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2993,6 +3001,15 @@ $ADI agreed to acquire Alif Semiconductor for $1.35B in cash.  Alif's chips hand
 
 ## 最近运行
 
+- `2026-09-09T14:03:59Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:55:51Z` **full / partial** — Captured and produced the newest fresh item; Postiz accepted the first submission but no public X URL was available within the verification window, so the second item was not submitted. Pending Postiz delivery cmtu61lhl01s4lm0ylegpgg9m requires reconciliation before any retry.
+- `2026-09-09T14:02:23Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T14:00:05Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:57:16Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:57:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 0 new post(s).
+- `2026-09-09T13:56:36Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:56:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 1 new post(s).
+- `2026-09-09T13:55:51Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T13:43:46Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T13:43:21.104146+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T13:42:23Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3004,12 +3021,3 @@ $ADI agreed to acquire Alif Semiconductor for $1.35B in cash.  Alif's chips hand
 - `2026-09-09T13:26:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T13:26:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
 - `2026-09-09T13:22:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:16:00Z` **full / succeeded** — Collected both benchmark feeds, archived media, reconciled immutable publication statuses, rebuilt the hard-TTL queue, produced the sole fresh item, and published it through Postiz with a verified public X URL.
-- `2026-09-09T13:21:29.305780+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T13:20:40Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:20:37.395047+00:00` **produce / succeeded** — Produced the sole fresh queue item with an image-model visual and exact-logo composite.
-- `2026-09-09T13:17:18Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T13:17:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 1 new post(s).
-- `2026-09-09T13:06:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:55:55Z` **full / succeeded** — Collected both benchmark feeds, rebuilt the hard-TTL queue, produced and published the sole fresh item, verified its public X URL, and removed a redundant delayed Postiz queue item before release.
-- `2026-09-09T13:04:29.886223Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.

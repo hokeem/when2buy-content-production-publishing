@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T13:43:46.038961+00:00",
+  "updatedAt": "2026-09-09T14:03:59.356273+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11955,6 +11955,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097685199102316847",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097685199102316847",
+      "postedAt": "Wed Sep 09 13:54:59 +0000 2026",
+      "text": "GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINNISH 🇫🇮 PLANT RUNNING TO 2050\n\nGoogle agreed to buy up to 50% of the capacity from Fortum's Loviisa nuclear plant in Finland, guaranteeing it stays online through the end of its operating license in 2050.\n\nThe deal unlocks roughly $1.16 billion in investment Fortum needs to keep the plant running, decisions that would otherwise have been made year by year.\n\nIt's part of the broader $15.1 billion Google plan for AI infrastructure investment in Finland - Bloomberg",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRx5bJvbYAA4833.jpg"
+      ],
+      "engagement": {
+        "likes": 10,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 4696
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T13:56:33Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRx5bJvbYAA4833.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097685199102316847-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -19344,6 +19372,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097685199102316847",
+      "rank": 1,
+      "title": "GOOGLE $GOOGL JUST STRUCK EUROPE'S FIRST DEAL LIKE THIS: BUYING NUCLEAR POWER TO KEEP A FINN…",
+      "benchmarkPostId": "2097685199102316847",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097685199102316847",
+      "score": 5026,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T13:56:36Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
@@ -28502,6 +28549,45 @@
           "result": "passed"
         }
       }
+    },
+    {
+      "id": "pkg-20260909-google-fortum-nuclear-2050",
+      "benchmarkPostId": "2097685199102316847",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097685199102316847",
+      "title": "Google secures Loviisa nuclear power through 2050",
+      "status": "publishing",
+      "postText": "$GOOGL agreed to buy up to 50% of the power from Fortum's Loviisa nuclear plant through 2050.\n\nThe deal supports roughly $1.16B of investment to keep the Finnish plant operating.",
+      "mirroredFacts": [
+        "Google agreed to buy up to 50% of the capacity from Fortum's Loviisa nuclear plant in Finland through 2050.",
+        "The agreement supports roughly $1.16 billion of investment needed to keep the plant operating."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097685199102316847"
+      ],
+      "imagePath": "deliverables/pkg-20260909-google-fortum-nuclear-2050/when2buy-image-model.png",
+      "createdAt": "2026-09-09T13:59:28Z",
+      "sourceExpiresAt": "2026-09-09T15:24:59Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square premium entity-led visual for Google's agreement to buy nuclear power from Fortum's Loviisa plant in Finland through 2050; cinematic dusk Finnish coastal nuclear plant with an integrated AI data-center energy motif; near-black, white and restrained red; exact text GOOGLE SECURES NUCLEAR POWER and THROUGH 2050; clean bottom-right logo-safe area; no generated logo, source, attribution, disclaimer, CTA or watermark.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T13:59:28Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led Loviisa nuclear plant and AI-infrastructure scene",
+            "exact GOOGLE SECURES NUCLEAR POWER and THROUGH 2050 text",
+            "no source, URL, disclaimer or CTA",
+            "premium near-black, white and restrained-red palette",
+            "exact repository logo composited once"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmtu61lhl01s4lm0ylegpgg9m",
+      "deliveryState": "QUEUE",
+      "deliveryCheckedAt": "2026-09-09T14:03:55.968868Z"
     }
   ],
   "posts": [
@@ -151995,6 +152081,99 @@
       "status": "succeeded",
       "startedAt": "2026-09-09T13:43:46Z",
       "completedAt": "2026-09-09T13:43:46Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T135551Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:55:51Z",
+      "completedAt": "2026-09-09T13:55:51Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T135633Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:56:33Z",
+      "completedAt": "2026-09-09T13:56:33Z",
+      "summary": "Apify scanned both benchmark accounts; captured 42 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T135636Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:56:36Z",
+      "completedAt": "2026-09-09T13:56:36Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T135712Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:57:12Z",
+      "completedAt": "2026-09-09T13:57:12Z",
+      "summary": "Apify scanned both benchmark accounts; captured 42 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T135716Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:57:16Z",
+      "completedAt": "2026-09-09T13:57:16Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T140005Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:00:05Z",
+      "completedAt": "2026-09-09T14:00:05Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T140223Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:02:23Z",
+      "completedAt": "2026-09-09T14:02:23Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T140355Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T13:55:51Z",
+      "completedAt": "2026-09-09T14:03:55.968868Z",
+      "summary": "Captured and produced the newest fresh item; Postiz accepted the first submission but no public X URL was available within the verification window, so the second item was not submitted.",
+      "reason": "Pending Postiz delivery cmtu61lhl01s4lm0ylegpgg9m requires reconciliation before any retry.",
+      "selectedPackageIds": [
+        "pkg-20260909-google-fortum-nuclear-2050",
+        "pkg-20260909-adi-acquires-alif-1-35b"
+      ]
+    },
+    {
+      "id": "run-20260909T140359Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T14:03:59Z",
+      "completedAt": "2026-09-09T14:03:59Z",
       "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
