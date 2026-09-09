@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T15:34:12.394312+00:00",
+  "updatedAt": "2026-09-09T15:48:49.296172+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -158040,6 +158040,50 @@
       "startedAt": "2026-09-09T15:25:57Z",
       "completedAt": "2026-09-09T15:34:12.389334+00:00",
       "summary": "Apify collection, benchmark-media archive, status reconciliation, fresh-queue rebuild, two image-model packages, and content validation completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker.",
+      "reason": "The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.",
+      "selectedPackageIds": [
+        "pkg-20260909-robinhood-public-shares-products",
+        "pkg-20260909-treasury-6b-long-term-buyback"
+      ]
+    },
+    {
+      "id": "run-20260909T154554Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:45:54Z",
+      "completedAt": "2026-09-09T15:45:54Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T154658Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:46:58Z",
+      "completedAt": "2026-09-09T15:46:58Z",
+      "summary": "Apify scanned both benchmark accounts; captured 39 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T154702Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:47:02Z",
+      "completedAt": "2026-09-09T15:47:02Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T154823Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T15:45:50Z",
+      "completedAt": "2026-09-09T15:48:23Z",
+      "summary": "Apify collection, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, and validation of the first two queue packages completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker.",
       "reason": "The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.",
       "selectedPackageIds": [
         "pkg-20260909-robinhood-public-shares-products",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:32:22Z",
+  "generatedAt": "2026-09-09T15:47:02Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -42,7 +42,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 7.3,
+        "ageMinutes": 22.0,
         "expiresAt": "2026-09-09T16:55:03Z",
         "ttlMinutes": 90
       },
@@ -93,7 +93,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 18.8,
+        "ageMinutes": 33.5,
         "expiresAt": "2026-09-09T16:43:34Z",
         "ttlMinutes": 90
       },
@@ -138,7 +138,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 24.1,
+        "ageMinutes": 38.7,
         "expiresAt": "2026-09-09T16:38:19Z",
         "ttlMinutes": 90
       },
@@ -175,7 +175,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 28.1,
+        "ageMinutes": 42.8,
         "expiresAt": "2026-09-09T16:34:16Z",
         "ttlMinutes": 90
       },
@@ -220,7 +220,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 41.0,
+        "ageMinutes": 55.7,
         "expiresAt": "2026-09-09T16:21:21Z",
         "ttlMinutes": 90
       },
@@ -265,7 +265,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 58.4,
+        "ageMinutes": 73.1,
         "expiresAt": "2026-09-09T16:03:57Z",
         "ttlMinutes": 90
       },

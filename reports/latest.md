@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T15:34:12.394312+00:00`
+- 状态更新：`2026-09-09T15:48:49.296172+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**443**
 - 待选选题：**399**
@@ -3071,6 +3071,10 @@ The U.S. Treasury plans to buy back up to $6B in longer-term debt tomorrow.
 
 ## 最近运行
 
+- `2026-09-09T15:45:50Z` **full / partial** — Apify collection, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, and validation of the first two queue packages completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker. The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.
+- `2026-09-09T15:47:02Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T15:46:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 39 eligible originals and added 0 new post(s).
+- `2026-09-09T15:45:54Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T15:25:57Z` **full / partial** — Apify collection, benchmark-media archive, status reconciliation, fresh-queue rebuild, two image-model packages, and content validation completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker. The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.
 - `2026-09-09T15:32:22Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T15:32:19.764474+00:00` **produce / succeeded** — Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.
@@ -3087,7 +3091,3 @@ The U.S. Treasury plans to buy back up to $6B in longer-term debt tomorrow.
 - `2026-09-09T14:46:15Z` **full / partial** — Apify collection, media archive, status reconciliation, fresh-queue rebuild, two image-model packages, validation, and serial Postiz publication completed; the newest package published with a verified X URL and the second returned a delivery error without a release URL. Postiz returned ERROR for pkg-20260909-burry-reduces-nvda-crwv-shorts; no retry was attempted without a verified release URL.
 - `2026-09-09T14:52:45.790059+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T14:51:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:51:24.426684+00:00` **produce / succeeded** — Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.
-- `2026-09-09T14:46:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:46:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-09T14:34:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
