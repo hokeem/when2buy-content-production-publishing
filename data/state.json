@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T20:19:22.554618+00:00",
+  "updatedAt": "2026-09-09T20:33:06.191269+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -12929,6 +12929,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097783213863194739",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097783213863194739",
+      "postedAt": "Wed Sep 09 20:24:27 +0000 2026",
+      "text": "THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K\n\nYes ... being priced at $1,999 does count as the iPhone Duo being $2K",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 11,
+        "replies": 4,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 6785
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T20:27:27Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -20851,6 +20871,25 @@
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097783213863194739",
+      "rank": 1,
+      "title": "THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K Yes ... being priced at $1,999 does coun…",
+      "benchmarkPostId": "2097783213863194739",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097783213863194739",
+      "score": 7265,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T20:27:31Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -30522,7 +30561,7 @@
       "benchmarkPostId": "2097773989682909689",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097773989682909689",
       "title": "Bessent urges Senate passage of the CLARITY Act",
-      "status": "publishing",
+      "status": "published",
       "postText": "Treasury Secretary Scott Bessent is strongly urging the Senate to pass the CLARITY Act, warning that inaction would signal America is unwilling to lead on digital assets.",
       "mirroredFacts": [
         "Treasury Secretary Scott Bessent strongly urged the Senate to pass the CLARITY Act.",
@@ -30555,8 +30594,48 @@
         }
       },
       "postizPostId": "cmtuivo9o05zqlm0y4n62b90w",
-      "deliveryState": "QUEUE",
-      "deliveryCheckedAt": "2026-09-09T20:03:29.204085+00:00"
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-09T20:30:40.574854Z",
+      "publishedAt": "2026-09-09T19:59:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-iphone-duo-1999-starting-price",
+      "benchmarkPostId": "2097783213863194739",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097783213863194739",
+      "title": "iPhone Duo starts at $1,999",
+      "status": "published",
+      "postText": "Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to open at roughly $2,000.",
+      "mirroredFacts": [
+        "Apple's iPhone Duo starts at $1,999 in the United States.",
+        "It is the first iPhone with a starting price of roughly $2,000."
+      ],
+      "verificationSources": [
+        "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+      ],
+      "imagePath": "deliverables/pkg-20260909-iphone-duo-1999-starting-price/when2buy-image-model.png",
+      "createdAt": "2026-09-09T20:30:14.480178+00:00",
+      "sourceExpiresAt": "2026-09-09T21:54:27Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square 1:1 premium X financial-news visual for When2Buy\nPrimary request: Create a complete original entity-led editorial visual about Apple's iPhone Duo becoming the first iPhone model to start at roughly $2,000, with the exact U.S. starting price emphasized.\nScene/backdrop: near-black luxury product-launch studio with subtle architectural depth.\nSubject: a premium foldable smartphone inspired by the newly announced iPhone Duo, shown as a dimensional hero product; elegant dual-panel form, polished metal and glass, no extra brand marks.\nStyle/medium: cinematic photorealistic 3D financial-news campaign art, premium and high contrast.\nComposition/framing: exact square, dominant phone hero on the right/center, concise headline hierarchy, clean lower-left logo-safe area for later compositing.\nLighting/mood: dramatic white rim lighting and restrained red accents, urgent flagship-launch mood.\nColor palette: near-black, white, restrained red only.\nText (verbatim): \"IPHONE DUO\" and \"$1,999\" and \"FIRST $2K IPHONE\"\nConstraints: spell all visible text exactly; no generated logo; no Apple logo; no source, handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, or unrelated marks. Do not create a pure-text card or generic radar graphic. Leave lower-left clear for the exact repository logo to be added later.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T20:30:14.480178+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led foldable-phone product scene",
+            "exact IPHONE DUO, $1,999, and FIRST $2K IPHONE text",
+            "premium near-black, white, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtujztnt050oqk0ydwqlbd1e",
+      "publishedAt": "2026-09-09T20:31:00.000Z"
     }
   ],
   "posts": [
@@ -33996,6 +34075,39 @@
         "lastAttemptAt": "2026-09-09T20:16:13.078693Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2097777745279537626",
+      "packageId": "pkg-20260909-bessent-clarity-act-senate",
+      "title": "Bessent urges Senate passage of the CLARITY Act",
+      "text": "Treasury Secretary Scott Bessent is strongly urging the Senate to pass the CLARITY Act, warning that inaction would signal America is unwilling to lead on digital assets.",
+      "status": "published",
+      "publishedAt": "2026-09-09T19:59:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097777745279537626",
+      "postizPostId": "cmtuivo9o05zqlm0y4n62b90w",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T19:59:00.000Z",
+        "windowEnd": "2026-09-12T19:59:00Z"
+      },
+      "reconciledAt": "2026-09-09T20:30:40.574854Z"
+    },
+    {
+      "id": "2097785187346338125",
+      "packageId": "pkg-20260909-iphone-duo-1999-starting-price",
+      "title": "iPhone Duo starts at $1,999",
+      "status": "published",
+      "publishedAt": "2026-09-09T20:31:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097785187346338125",
+      "postizPostId": "cmtujztnt050oqk0ydwqlbd1e",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T20:31:00.000Z",
+        "windowEnd": "2026-09-12T20:31:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -169479,6 +169591,73 @@
       "status": "succeeded",
       "startedAt": "2026-09-09T20:19:22Z",
       "completedAt": "2026-09-09T20:19:22Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T202727Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:27:27Z",
+      "completedAt": "2026-09-09T20:27:27Z",
+      "summary": "Apify scanned both benchmark accounts; captured 13 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T202731Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:27:31Z",
+      "completedAt": "2026-09-09T20:27:31Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T203014Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:30:14.480178+00:00",
+      "completedAt": "2026-09-09T20:30:14.480178+00:00",
+      "summary": "Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T203040Z-reconcile",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:30:40.574854Z",
+      "completedAt": "2026-09-09T20:30:41.785268Z",
+      "summary": "Reconciled 1 published and 0 failed Postiz deliveries into state.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T203045Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:30:45Z",
+      "completedAt": "2026-09-09T20:30:45Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T203224Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:32:24.260694+00:00",
+      "completedAt": "2026-09-09T20:32:24.260700+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T203306Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:33:06Z",
+      "completedAt": "2026-09-09T20:33:06Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }

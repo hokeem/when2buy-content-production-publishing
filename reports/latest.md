@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T20:19:22.554618+00:00`
+- 状态更新：`2026-09-09T20:33:06.191269+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**469**
-- 待选选题：**417**
+- 对标帖子快照：**470**
+- 待选选题：**418**
 - 待发布制作包：**0**
-- 已验证发布：**192**
+- 已验证发布：**194**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 20:24:27 +0000 2026 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K  Yes ... being priced at $1,999 does count as the iPhone Duo being $2K | [X](https://x.com/StockMKTNewz/status/2097783213863194739) |
 | @WhaleInsider | Wed Sep 09 19:47:48 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pass the Clarity Act.  "Failing to do so would send a troubling signal to our allies and adversaries alike that America is unwilling to lead on the future of digital assets". https://t.co/hKkpK4fkj2 | [X](https://x.com/WhaleInsider/status/2097773989682909689) |
 | @StockMKTNewz | Wed Sep 09 19:19:06 +0000 2026 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free app on the Apple App Store https://t.co/YXWhsxUk7e | [X](https://x.com/StockMKTNewz/status/2097766765937721570) |
 | @StockMKTNewz | Wed Sep 09 19:20:17 +0000 2026 | Here is a first look at Apple’s new foldable iPhone Duo  https://t.co/vLMMmP452S | [X](https://x.com/StockMKTNewz/status/2097767066170224987) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Wed Sep 09 15:13:34 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. https://t.co/lRz16If9ZE | [X](https://x.com/WhaleInsider/status/2097704978462671282) |
 | @StockMKTNewz | Wed Sep 09 15:25:03 +0000 2026 | Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial products built around their shares once they go public - CNBC https://t.co/TqEhhSnGau | [X](https://x.com/StockMKTNewz/status/2097707867981713833) |
 | @StockMKTNewz | Wed Sep 09 14:51:21 +0000 2026 | This is what $11.5 Million gets you in Utah  A house almost the size of the White House https://t.co/zcZn3mlSBk | [X](https://x.com/StockMKTNewz/status/2097699385257685314) |
-| @StockMKTNewz | Wed Sep 09 15:04:16 +0000 2026 | THE 🇺🇸 TREASURY DEPARTMENT PLANS TO BUY BACK UP TO $6B IN LONGER-DATED DEBT TOMORROW UP FROM THE PREVIOUS $4B OF BUY BACKS | [X](https://x.com/StockMKTNewz/status/2097702636287881694) |
 
 ## 选题推荐
 
@@ -152,6 +152,7 @@
 | 1 | Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word | StockMKTNewz | 36594 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Here is a first look at Apple’s new foldable iPhone Duo https://t.co/vLMMmP452S | StockMKTNewz | 9244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pas… | WhaleInsider | 16783 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K Yes ... being priced at $1,999 does coun… | StockMKTNewz | 7265 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2925,10 +2926,17 @@ Apple's new foldable iPhone Duo has been revealed.
 
 ### Bessent urges Senate passage of the CLARITY Act
 
-- 状态：`publishing`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260909-bessent-clarity-act-senate/when2buy-image-model.png`
 
 Treasury Secretary Scott Bessent is strongly urging the Senate to pass the CLARITY Act, warning that inaction would signal America is unwilling to lead on digital assets.
+
+### iPhone Duo starts at $1,999
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-iphone-duo-1999-starting-price/when2buy-image-model.png`
+
+Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to open at roughly $2,000.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3127,9 +3135,18 @@ Treasury Secretary Scott Bessent is strongly urging the Senate to pass the CLARI
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
+| Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097777745279537626) |
+| iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097785187346338125) |
 
 ## 最近运行
 
+- `2026-09-09T20:33:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T20:32:24.260694+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T20:30:45Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T20:30:40.574854Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
+- `2026-09-09T20:30:14.480178+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
+- `2026-09-09T20:27:31Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T20:27:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 13 eligible originals and added 1 new post(s).
 - `2026-09-09T20:19:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:19:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
 - `2026-09-09T20:15:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3143,10 +3160,3 @@ Treasury Secretary Scott Bessent is strongly urging the Senate to pass the CLARI
 - `2026-09-09T19:52:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T19:51:25.086187+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T19:49:40.293440+00:00` **produce / succeeded** — Produced the newest still-fresh queue package with an inspected image-model visual and exact-logo composite; later queue items expired before production.
-- `2026-09-09T19:47:18Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T19:47:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-09T19:35:33Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T19:35:00.494209+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T19:32:59.414218+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T19:32:09Z` **queue / succeeded** — Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T19:31:28Z` **queue / succeeded** — Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).
