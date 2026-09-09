@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T20:37:00.719801+00:00",
+  "updatedAt": "2026-09-09T20:46:59.392027+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -12949,6 +12949,34 @@
       "isPinned": false,
       "capturedAt": "2026-09-09T20:27:27Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2097786675023778262",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097786675023778262",
+      "postedAt": "Wed Sep 09 20:38:12 +0000 2026",
+      "text": "This is how the 🇺🇸 stock market performed today \n\n https://t.co/SLTGZ57oNd",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/ext_tw_video_thumb/2097779501891760128/pu/img/jubdxl6cyVuTLQE5.jpg"
+      ],
+      "engagement": {
+        "likes": 10,
+        "replies": 10,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7916
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T20:46:54Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2097779501891760128/pu/img/jubdxl6cyVuTLQE5.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097786675023778262-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -169689,6 +169717,37 @@
       "status": "succeeded",
       "startedAt": "2026-09-09T20:37:00Z",
       "completedAt": "2026-09-09T20:37:00Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T204542Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:45:42Z",
+      "completedAt": "2026-09-09T20:45:42Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T204654Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:46:54Z",
+      "completedAt": "2026-09-09T20:46:54Z",
+      "summary": "Apify scanned both benchmark accounts; captured 37 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T204659Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:46:59Z",
+      "completedAt": "2026-09-09T20:46:59Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
