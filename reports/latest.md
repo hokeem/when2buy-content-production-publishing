@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T09:19:28.716013+00:00`
+- 状态更新：`2026-09-09T09:42:23.301804+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**414**
-- 待选选题：**370**
+- 对标帖子快照：**415**
+- 待选选题：**371**
 - 待发布制作包：**0**
-- 已验证发布：**169**
+- 已验证发布：**170**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 09:31:02 +0000 2026 | JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil tankers near the Strait of Hormuz. https://t.co/QtpaOriimX | [X](https://x.com/WhaleInsider/status/2097618775214276775) |
 | @WhaleInsider | Wed Sep 09 08:26:07 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. https://t.co/qhRGaYgJJt | [X](https://x.com/WhaleInsider/status/2097602437716611141) |
 | @WhaleInsider | Wed Sep 09 07:47:57 +0000 2026 | JUST IN: $IQ (@iqtestrh) launches on Robinhood Chain, paired with Intel stock, as social-media users post “IQ TEST” references following the announcement of the Hunter Biden-linked crypto coin. https://t.co/6lJF7JwHmc | [X](https://x.com/WhaleInsider/status/2097592833087549800) |
 | @WhaleInsider | Wed Sep 09 07:54:24 +0000 2026 | JUST IN: 🇫🇮 $GOOGL to invest €13,000,000,000 in Finland AI infrastructure in 2027-28. https://t.co/sDGHD6XzVK | [X](https://x.com/WhaleInsider/status/2097594455742173387) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Tue Sep 08 16:55:09 +0000 2026 | JUST IN: Cresta aims to make customer service easier with AI agents that solve problems and seamlessly hand conversations to human agents. | [X](https://x.com/WhaleInsider/status/2097368151558123921) |
 | @StockMKTNewz | Tue Sep 08 16:17:07 +0000 2026 | SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND | [X](https://x.com/StockMKTNewz/status/2097358581230121166) |
 | @StockMKTNewz | Tue Sep 08 16:23:24 +0000 2026 | I am ready for the NFL to be back  Our partners over at Polymarket just announced a new partnership with Lebron James and more | [X](https://x.com/StockMKTNewz/status/2097360162986066049) |
-| @WhaleInsider | Tue Sep 08 16:24:37 +0000 2026 | JUST IN: Dev behind billion-dollar PEPE on Ethereum joins Artificial Pepe $AP. https://t.co/dAzjEyECFl | [X](https://x.com/WhaleInsider/status/2097360470617244078) |
 
 ## 选题推荐
 
@@ -131,6 +131,7 @@
 | 1 | JUST IN: $ETH ETFs see an inflow of $24.29 million. https://t.co/mTLOvDAQSO | WhaleInsider | 15204 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇫🇮 $GOOGL to invest €13,000,000,000 in Finland AI infrastructure in 2027-28. https:… | WhaleInsider | 15795 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. h… | WhaleInsider | 2505 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil ta… | WhaleInsider | 13023 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2666,6 +2667,13 @@ Google will invest €13B in Finland's AI infrastructure over 2027–28.  When2B
 
 IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. stock partner.
 
+### Brent crude climbs above $100 a barrel
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-brent-crude-above-100/when2buy-image-model.png`
+
+Brent crude jumped above $100 a barrel after U.S. strikes on Iranian tankers intensified supply fears around the Strait of Hormuz.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2840,9 +2848,18 @@ IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. 
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097614505312506296) |
+| Brent crude climbs above $100 a barrel | 2026-09-09T09:40:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097621274306789488) |
 
 ## 最近运行
 
+- `2026-09-09T09:42:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T09:36:06Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; scanned both required Apify feeds; archived benchmark media; reconciled immutable package statuses; rebuilt the hard-TTL queue; produced and published the newest fresh Brent crude package with a verified public X URL; refreshed reporting.
+- `2026-09-09T09:41:00.144503+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T09:40:09Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T09:40:06.529289Z` **produce / succeeded** — Produced the newest fresh Brent crude package with an original model-generated square visual and exact-logo compositing.
+- `2026-09-09T09:37:00Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T09:36:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
+- `2026-09-09T09:36:17Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T09:19:28.653935Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; scanned both required Apify feeds; archived benchmark media; reconciled immutable package statuses; rebuilt the hard-TTL queue; found no fresh queue items and correctly skipped production and publication; refreshed reporting. No fresh current-queue items within the 90-minute source TTL.
 - `2026-09-09T09:18:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T09:18:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -2855,11 +2872,3 @@ IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. 
 - `2026-09-09T09:06:47Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T08:57:00Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T08:47:10Z` **full / succeeded** — Synchronized origin/main, validated preflight and state, scanned both required Apify feeds with no newly discovered originals, archived media, rebuilt the freshness queue, produced and QA-checked the first two fresh queue visuals, reconciled Postiz, and published the single newest fresh recovery probe with a verified public X URL. The second fresh queue item was not submitted because recovery after an expired X-delivery circuit breaker permits exactly one newest-package probe.
-- `2026-09-09T08:54:06.769288+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T08:48:38Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T08:48:24Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 5 unsent stale package(s).
-- `2026-09-09T08:48:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-09T08:47:37.990815+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
-- `2026-09-09T08:47:31Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T08:41:53Z` **full / partial** — Apify scanned both benchmark feeds, media archival and freshness-first queue rebuild completed, and the first two current-queue packages passed visual review; publication was withheld by the active X delivery circuit breaker. The delivery circuit breaker remains active until 2026-09-09T08:52:10Z after a prior Postiz X delivery entered ERROR without a public URL; no retry or backfill was submitted.
-- `2026-09-09T08:43:39Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 136 unsent stale package(s).

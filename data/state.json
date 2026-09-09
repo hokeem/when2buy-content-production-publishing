@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T09:19:28.716013+00:00",
+  "updatedAt": "2026-09-09T09:42:23.301804+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11423,6 +11423,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097618775214276775",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097618775214276775",
+      "postedAt": "Wed Sep 09 09:31:02 +0000 2026",
+      "text": "JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil tankers near the Strait of Hormuz. https://t.co/QtpaOriimX",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRw9GjpWYAAaZYs.jpg",
+        "https://pbs.twimg.com/media/HRw9J3AagAAy5zR.jpg"
+      ],
+      "engagement": {
+        "likes": 24,
+        "replies": 12,
+        "reposts": 7,
+        "quotes": 4,
+        "views": 11473
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T09:36:57Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRw9GjpWYAAaZYs.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097618775214276775-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRw9J3AagAAy5zR.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097618775214276775-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -18453,6 +18487,25 @@
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097618775214276775",
+      "rank": 1,
+      "title": "JUST IN: Brent crude oil prices rise above $100/barrel after the U.S. strikes Iranian oil ta…",
+      "benchmarkPostId": "2097618775214276775",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097618775214276775",
+      "score": 13023,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T09:37:00Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -27028,6 +27081,34 @@
       },
       "postizPostId": "cmttvsmft00ehqk0y4doap9b3",
       "publishedAt": "2026-09-09T09:13:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-brent-crude-above-100",
+      "benchmarkPostId": "2097618775214276775",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097618775214276775",
+      "title": "Brent crude climbs above $100 a barrel",
+      "status": "published",
+      "postText": "Brent crude jumped above $100 a barrel after U.S. strikes on Iranian tankers intensified supply fears around the Strait of Hormuz.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Brent crude moved above $100 per barrel.",
+        "The move followed U.S. strikes on Iranian oil tankers amid Strait of Hormuz supply concerns."
+      ],
+      "verificationSources": [
+        "https://apnews.com/article/7538e6386a819bcdc2547d530ec3472e",
+        "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829",
+        "https://x.com/WhaleInsider/status/2097618775214276775"
+      ],
+      "imagePath": "deliverables/pkg-20260909-brent-crude-above-100/when2buy-image-model.png",
+      "createdAt": "2026-09-09T09:40:06.529193Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square premium near-black financial-news scene dominated by a realistic crude tanker and oil terminal near a strategic shipping passage; exact text BRENT CRUDE and $100+ A BARREL; restrained red accents; clean lower-right logo-safe area; no generated logo, attribution, URL, disclaimer, CTA, watermark, or extra text.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaNotes": "Verified 1254x1254 square output; entity-led tanker scene; exact visible headline and number; supplied repository logo composited once in the reserved lower-right area; no source attribution, URL, disclaimer, CTA, watermark, or damaged branding."
+      },
+      "postizPostId": "cmttwr7eg0095lm0y7sr0nlh5",
+      "publishedAt": "2026-09-09T09:40:00.000Z"
     }
   ],
   "posts": [
@@ -30059,6 +30140,23 @@
         "status": "active",
         "windowStart": "2026-09-09T09:13:00.000Z",
         "windowEnd": "2026-09-12T09:13:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097621274306789488",
+      "packageId": "pkg-20260909-brent-crude-above-100",
+      "title": "Brent crude climbs above $100 a barrel",
+      "status": "published",
+      "publishedAt": "2026-09-09T09:40:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097621274306789488",
+      "postizPostId": "cmttwr7eg0095lm0y7sr0nlh5",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T09:40:00.000Z",
+        "windowEnd": "2026-09-12T09:40:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -140707,6 +140805,82 @@
       "completedAt": "2026-09-09T09:19:28.653935Z",
       "summary": "Synchronized origin/main; validated preflight and state; scanned both required Apify feeds; archived benchmark media; reconciled immutable package statuses; rebuilt the hard-TTL queue; found no fresh queue items and correctly skipped production and publication; refreshed reporting.",
       "reason": "No fresh current-queue items within the 90-minute source TTL."
+    },
+    {
+      "id": "run-20260909T093617Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:36:17Z",
+      "completedAt": "2026-09-09T09:36:17Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T093657Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:36:57Z",
+      "completedAt": "2026-09-09T09:36:57Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T093700Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:37:00Z",
+      "completedAt": "2026-09-09T09:37:00Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T094006Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:40:06.529289Z",
+      "completedAt": "2026-09-09T09:40:06.529291Z",
+      "summary": "Produced the newest fresh Brent crude package with an original model-generated square visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T094009Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:40:09Z",
+      "completedAt": "2026-09-09T09:40:09Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T094100Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:41:00.144503+00:00",
+      "completedAt": "2026-09-09T09:41:00.144507+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T094100Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:36:06Z",
+      "completedAt": "2026-09-09T09:41:00Z",
+      "summary": "Synchronized origin/main; validated preflight and state; scanned both required Apify feeds; archived benchmark media; reconciled immutable package statuses; rebuilt the hard-TTL queue; produced and published the newest fresh Brent crude package with a verified public X URL; refreshed reporting.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T094223Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T09:42:23Z",
+      "completedAt": "2026-09-09T09:42:23Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
