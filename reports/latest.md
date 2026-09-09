@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T07:07:51.760173+00:00`
+- 状态更新：`2026-09-09T07:39:46.774592+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**410**
-- 待选选题：**366**
+- 对标帖子快照：**411**
+- 待选选题：**367**
 - 待发布制作包：**133**
-- 已验证发布：**164**
+- 已验证发布：**165**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 07:13:51 +0000 2026 | JUST IN: $ETH ETFs see an inflow of $24.29 million. https://t.co/mTLOvDAQSO | [X](https://x.com/WhaleInsider/status/2097584250992111832) |
 | @WhaleInsider | Wed Sep 09 06:36:30 +0000 2026 | JUST IN: Robinhood Chain $HOOD takes the #1 spot for fees accrued in the past 24 hours, surpassing $2 million - Artemis. https://t.co/eVZ09hTcoy | [X](https://x.com/WhaleInsider/status/2097574853075226955) |
 | @WhaleInsider | Wed Sep 09 06:12:37 +0000 2026 | JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6 | [X](https://x.com/WhaleInsider/status/2097568840863428737) |
 | @WhaleInsider | Wed Sep 09 05:46:12 +0000 2026 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | [X](https://x.com/WhaleInsider/status/2097562195114520817) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 16:05:12 +0000 2026 | Lebron James is now working with our partners over at Polymarket | [X](https://x.com/StockMKTNewz/status/2097355583498113152) |
 | @WhaleInsider | Tue Sep 08 16:05:15 +0000 2026 | JUST IN: Dev behind billion-dollar PEPE on ETH joins Artificial Pepe $AP. https://t.co/G4ZbzBNKEL | [X](https://x.com/WhaleInsider/status/2097355596462690504) |
 | @StockMKTNewz | Tue Sep 08 15:32:54 +0000 2026 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | [X](https://x.com/StockMKTNewz/status/2097347451963289915) |
-| @WhaleInsider | Tue Sep 08 15:40:56 +0000 2026 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market pullback. https://t.co/Qv7swgBJYK | [X](https://x.com/WhaleInsider/status/2097349476302148002) |
 
 ## 选题推荐
 
@@ -128,6 +128,7 @@
 | 1 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6 | WhaleInsider | 16814 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD takes the #1 spot for fees accrued in the past 24 hours, surp… | WhaleInsider | 14544 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $ETH ETFs see an inflow of $24.29 million. https://t.co/mTLOvDAQSO | WhaleInsider | 15204 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2634,6 +2635,13 @@ Franklin ETF clients bought $1.55M worth of $XRP.  When2Buy — your U.S. stock 
 
 Robinhood Chain $HOOD ranked No. 1 for fees accrued over the past 24 hours, topping $2M.  When2Buy — your U.S. stock partner.
 
+### ETH ETFs record $24.29M in inflows
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-eth-etf-inflows-24-29m/when2buy-image-model.png`
+
+$ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partner.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2803,9 +2811,16 @@ Robinhood Chain $HOOD ranked No. 1 for fees accrued over the past 24 hours, topp
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
+| ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097590718340771958) |
 
 ## 最近运行
 
+- `2026-09-09T07:39:46.772847+00:00` **full / succeeded** — Apify collection, media archive, newest-first queue production, one image-model package, delivery recovery probe, and verified Postiz X publication completed.
+- `2026-09-09T07:39:34.831539+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T07:28:01Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
+- `2026-09-09T07:27:58.991588+00:00` **produce / succeeded** — Produced the newest eligible Apify benchmark package with an inspected entity-led image-model visual and exact-logo compositing.
+- `2026-09-09T07:26:01Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
+- `2026-09-09T07:25:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-09T07:05:00Z` **full / partial** — Scheduled run: Apify collection from both benchmark accounts, media archival, and timestamp-first queue rebuild completed; no new eligible originals were found. Publication was withheld by the active delivery circuit breaker. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.
 - `2026-09-09T07:06:49Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
 - `2026-09-09T07:06:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2820,9 +2835,3 @@ Robinhood Chain $HOOD ranked No. 1 for fees accrued over the past 24 hours, topp
 - `2026-09-09T06:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-09T06:25:00Z` **full / partial** — Asia/Shanghai :25 run: Apify collection, media archival, queue rebuild, one image-model package, and four serial verified X deliveries completed; final delivery failed and publishing stopped. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.
 - `2026-09-09T06:35:44.599837+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T06:33:41.023124+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T06:31:43.212600+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T06:29:44.135992+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T06:28:47Z` **queue / succeeded** — Prepared 57 one-to-one production candidate(s).
-- `2026-09-09T06:28:44.281706+00:00` **produce / succeeded** — Produced one new image-model XRP ETF package with exact-logo compositing and visual QA.
-- `2026-09-09T06:27:09Z` **queue / succeeded** — Prepared 57 one-to-one production candidate(s).

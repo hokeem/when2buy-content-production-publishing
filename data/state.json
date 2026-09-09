@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T07:07:51.760173+00:00",
+  "updatedAt": "2026-09-09T07:39:46.774592+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11287,6 +11287,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097584250992111832",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097584250992111832",
+      "postedAt": "Wed Sep 09 07:13:51 +0000 2026",
+      "text": "JUST IN: $ETH ETFs see an inflow of $24.29 million. https://t.co/mTLOvDAQSO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRwdwiDa0AAqIyQ.jpg",
+        "https://pbs.twimg.com/media/HRwdwiQakAArYqx.jpg"
+      ],
+      "engagement": {
+        "likes": 38,
+        "replies": 15,
+        "reposts": 9,
+        "quotes": 2,
+        "views": 13274
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T07:25:58Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwdwiDa0AAqIyQ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097584250992111832-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwdwiQakAArYqx.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097584250992111832-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -18239,6 +18273,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097584250992111832",
+      "rank": 1,
+      "title": "JUST IN: $ETH ETFs see an inflow of $24.29 million. https://t.co/mTLOvDAQSO",
+      "benchmarkPostId": "2097584250992111832",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097584250992111832",
+      "score": 15204,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T07:26:01Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
@@ -26290,6 +26343,41 @@
           "damageDetected": false
         }
       }
+    },
+    {
+      "id": "pkg-20260909-eth-etf-inflows-24-29m",
+      "benchmarkPostId": "2097584250992111832",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097584250992111832",
+      "title": "ETH ETFs record $24.29M in inflows",
+      "status": "published",
+      "postText": "$ETH ETFs pulled in $24.29M in net inflows.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Ethereum ETFs recorded $24.29 million in inflows."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097584250992111832"
+      ],
+      "imagePath": "deliverables/pkg-20260909-eth-etf-inflows-24-29m/when2buy-image-model.png",
+      "createdAt": "2026-09-09T07:27:58.991420+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: square X financial-news image, 1:1. Primary request: Create a complete entity-led premium editorial visual for Ethereum ETF inflows of exactly $24.29M. Scene: cinematic institutional Ethereum ETF trading desk at night, metallic Ethereum symbol, fund-flow ribbons and ETF ledger. Premium photorealistic 3D financial-news illustration, near-black base, white typography, restrained red accent. Center-left subject; clean empty near-black bottom-right logo-safe area. Text verbatim: ETH ETF INFLOWS and $24.29M. No source handle, URL, attribution, disclaimer, advice, CTA, logo, watermark, extra words. Avoid pure typography, generic radar, misspellings, damaged symbol, non-square output, clutter.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-09T07:27:58.991486+00:00",
+          "square": true,
+          "entityLed": true,
+          "textVerified": [
+            "ETH ETF INFLOWS",
+            "$24.29M"
+          ],
+          "logoCount": 1,
+          "rejectedConditions": []
+        }
+      },
+      "postizPostId": "cmttsf22x08xrlm0yg6aecugp",
+      "publishedAt": "2026-09-09T07:39:00.000Z"
     }
   ],
   "posts": [
@@ -29239,6 +29327,23 @@
         "lastAttemptAt": "2026-09-09T06:47:35.934994Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2097590718340771958",
+      "packageId": "pkg-20260909-eth-etf-inflows-24-29m",
+      "title": "ETH ETFs record $24.29M in inflows",
+      "status": "published",
+      "publishedAt": "2026-09-09T07:39:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097590718340771958",
+      "postizPostId": "cmttsf22x08xrlm0yg6aecugp",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T07:39:00.000Z",
+        "windowEnd": "2026-09-12T07:39:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -131414,12 +131519,75 @@
         "expiresAt": "2026-09-09T07:38:28.490076Z",
         "deliveryReason": "Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate."
       }
+    },
+    {
+      "id": "run-20260909T072558Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T07:25:58Z",
+      "completedAt": "2026-09-09T07:25:58Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T072601Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T07:26:01Z",
+      "completedAt": "2026-09-09T07:26:01Z",
+      "summary": "Prepared 55 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T072758Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T07:27:58.991588+00:00",
+      "completedAt": "2026-09-09T07:27:58.991588+00:00",
+      "summary": "Produced the newest eligible Apify benchmark package with an inspected entity-led image-model visual and exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T072801Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T07:28:01Z",
+      "completedAt": "2026-09-09T07:28:01Z",
+      "summary": "Prepared 55 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T073934Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T07:39:34.831539+00:00",
+      "completedAt": "2026-09-09T07:39:34.831544+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T073946Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T07:39:46.772847+00:00",
+      "completedAt": "2026-09-09T07:39:46.772847+00:00",
+      "summary": "Apify collection, media archive, newest-first queue production, one image-model package, delivery recovery probe, and verified Postiz X publication completed.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": true,
-    "startedAt": "2026-09-09T06:38:28.490076Z",
-    "expiresAt": "2026-09-09T07:38:28.490076Z",
-    "deliveryReason": "Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate."
+    "active": false,
+    "clearedAt": "2026-09-09T07:39:05.247542+00:00",
+    "previous": {
+      "active": true,
+      "startedAt": "2026-09-09T06:38:28.490076Z",
+      "expiresAt": "2026-09-09T07:38:28.490076Z",
+      "deliveryReason": "Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate."
+    },
+    "reason": "Expired delivery breaker cleared after scripts/postiz_publish.py --delivery-check-only returned safe."
   }
 }
