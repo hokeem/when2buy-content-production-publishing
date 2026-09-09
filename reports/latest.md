@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T19:52:22.572571+00:00`
+- 状态更新：`2026-09-09T20:03:31.770928+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**468**
-- 待选选题：**416**
+- 对标帖子快照：**469**
+- 待选选题：**417**
 - 待发布制作包：**0**
 - 已验证发布：**192**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 19:47:48 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pass the Clarity Act.  "Failing to do so would send a troubling signal to our allies and adversaries alike that America is unwilling to lead on the future of digital assets". https://t.co/hKkpK4fkj2 | [X](https://x.com/WhaleInsider/status/2097773989682909689) |
 | @StockMKTNewz | Wed Sep 09 19:19:06 +0000 2026 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free app on the Apple App Store https://t.co/YXWhsxUk7e | [X](https://x.com/StockMKTNewz/status/2097766765937721570) |
 | @StockMKTNewz | Wed Sep 09 19:20:17 +0000 2026 | Here is a first look at Apple’s new foldable iPhone Duo  https://t.co/vLMMmP452S | [X](https://x.com/StockMKTNewz/status/2097767066170224987) |
 | @WhaleInsider | Wed Sep 09 16:52:06 +0000 2026 | JUST IN: Lightfield raises $47 million Series A, led by a16z, to make customer context usable by A.I agents. https://t.co/MQT8C6r18G | [X](https://x.com/WhaleInsider/status/2097729772079976501) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 15:25:03 +0000 2026 | Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial products built around their shares once they go public - CNBC https://t.co/TqEhhSnGau | [X](https://x.com/StockMKTNewz/status/2097707867981713833) |
 | @StockMKTNewz | Wed Sep 09 14:51:21 +0000 2026 | This is what $11.5 Million gets you in Utah  A house almost the size of the White House https://t.co/zcZn3mlSBk | [X](https://x.com/StockMKTNewz/status/2097699385257685314) |
 | @StockMKTNewz | Wed Sep 09 15:04:16 +0000 2026 | THE 🇺🇸 TREASURY DEPARTMENT PLANS TO BUY BACK UP TO $6B IN LONGER-DATED DEBT TOMORROW UP FROM THE PREVIOUS $4B OF BUY BACKS | [X](https://x.com/StockMKTNewz/status/2097702636287881694) |
-| @WhaleInsider | Wed Sep 09 15:08:19 +0000 2026 | JUST IN: $PENPE, the self-proclaimed “father of PEPE,” is set to launch on Robinhood Chain tomorrow at 3 PM UTC via fair launch. https://t.co/YME6rJSEPF | [X](https://x.com/WhaleInsider/status/2097703654966886534) |
 
 ## 选题推荐
 
@@ -151,6 +151,7 @@
 | 1 | $META is the only stock out of the top 10 largest companies in the world that is moving high… | StockMKTNewz | 11337 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word | StockMKTNewz | 36594 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Here is a first look at Apple’s new foldable iPhone Duo https://t.co/vLMMmP452S | StockMKTNewz | 9244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pas… | WhaleInsider | 16783 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2922,6 +2923,13 @@ $META's new Muse app is now the No. 3 free app on Apple's App Store.
 
 Apple's new foldable iPhone Duo has been revealed.
 
+### Bessent urges Senate passage of the CLARITY Act
+
+- 状态：`publishing`
+- 配图：`deliverables/pkg-20260909-bessent-clarity-act-senate/when2buy-image-model.png`
+
+Treasury Secretary Scott Bessent is strongly urging the Senate to pass the CLARITY Act, warning that inaction would signal America is unwilling to lead on digital assets.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3122,6 +3130,12 @@ Apple's new foldable iPhone Duo has been revealed.
 
 ## 最近运行
 
+- `2026-09-09T20:03:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:55:48Z` **full / partial** — Apify collection, benchmark-media archive, status reconciliation, hard-TTL queue rebuild, and one fresh image-model package completed; Postiz accepted the delivery task but no public X URL was available within 90 seconds, so no retry or backfill was attempted. Postiz task cmtuivo9o05zqlm0y4n62b90w remains unverified without a public release URL.
+- `2026-09-09T19:59:31Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:59:28.177037+00:00` **produce / succeeded** — Produced the first and only fresh queue package with an inspected image-model visual and exact-logo composite.
+- `2026-09-09T19:56:27Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T19:56:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-09T19:45:55Z` **full / succeeded** — Apify collection, benchmark-media archive, package-status and publication reconciliation, hard-TTL queue rebuild, one fresh image-model package, and one verified X publication completed; later queue items expired without production.
 - `2026-09-09T19:52:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T19:51:25.086187+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -3136,9 +3150,3 @@ Apple's new foldable iPhone Duo has been revealed.
 - `2026-09-09T19:31:25.463525+00:00` **produce / succeeded** — Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.
 - `2026-09-09T19:27:21Z` **queue / succeeded** — Prepared 11 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T19:27:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
-- `2026-09-09T19:26:08Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T19:10:16Z` **queue / succeeded** — Prepared 14 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T19:10:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 38 eligible originals and added 22 new post(s).
-- `2026-09-09T19:09:29Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 2 unsent stale package(s).
-- `2026-09-09T16:14:23Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T16:05:52Z` **full / succeeded** — Postiz-first hourly metrics, Apify collection, benchmark-media archive, package-status and publication reconciliation, fresh-queue rebuild, image-model production, and two sequential verified X publications completed.
