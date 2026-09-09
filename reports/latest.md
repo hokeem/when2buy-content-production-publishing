@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T22:17:13.980909+00:00`
+- 状态更新：`2026-09-09T22:31:25.892217+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**474**
-- 待选选题：**421**
+- 对标帖子快照：**475**
+- 待选选题：**422**
 - 待发布制作包：**0**
 - 已验证发布：**196**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 22:18:43 +0000 2026 | 2026: the first foldable iPhone | [X](https://x.com/StockMKTNewz/status/2097811968245596582) |
 | @StockMKTNewz | Wed Sep 09 21:44:09 +0000 2026 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸 Air Force for the  "Joint Air-to-Surface Standoff Missile and Long Range Anti-Ship Missile Large Lot procurement." https://t.co/wnixi8e7mg | [X](https://x.com/StockMKTNewz/status/2097803271696011418) |
 | @StockMKTNewz | Wed Sep 09 21:02:21 +0000 2026 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomberg https://t.co/Wb153bsrEL | [X](https://x.com/StockMKTNewz/status/2097792751861440932) |
 | @StockMKTNewz | Wed Sep 09 20:54:05 +0000 2026 | Will you be getting the new foldable iPhone? | [X](https://x.com/StockMKTNewz/status/2097790671922872783) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 18:16:24 +0000 2026 | Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 and will be available on October 23rd https://t.co/lTUqiqJjnd | [X](https://x.com/StockMKTNewz/status/2097750987905597571) |
 | @StockMKTNewz | Wed Sep 09 18:18:41 +0000 2026 | Here are the 4 new products Apple $AAPL announced today  - New iPhone 18 Pro and Pro Max - Updated Airpods - Updated Apple Watch - First foldable Phone the iPhone Duo https://t.co/qitxoMrAAv | [X](https://x.com/StockMKTNewz/status/2097751561380180420) |
 | @WhaleInsider | Wed Sep 09 18:19:12 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 billion this month. https://t.co/BJU6xEmh5R | [X](https://x.com/WhaleInsider/status/2097751693433680381) |
-| @StockMKTNewz | Wed Sep 09 18:24:45 +0000 2026 | Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word | [X](https://x.com/StockMKTNewz/status/2097753088132104409) |
 
 ## 选题推荐
 
@@ -156,6 +156,7 @@
 | 1 | Will you be getting the new foldable iPhone? | StockMKTNewz | 7262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomb… | StockMKTNewz | 8148 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸… | StockMKTNewz | 4650 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | 2026: the first foldable iPhone | StockMKTNewz | 9116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3159,6 +3160,10 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 
 ## 最近运行
 
+- `2026-09-09T22:26:07Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, source verification, and semantic duplicate review completed; no content was published. The sole fresh source repeated the already published iPhone Duo reveal without adding a new factual payload.
+- `2026-09-09T22:27:47Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T22:27:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
+- `2026-09-09T22:26:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T22:15:58Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and fresh-queue rebuild completed; no new fresh queue items were available, so no package was produced or published.
 - `2026-09-09T22:16:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T22:16:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -3175,7 +3180,3 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 - `2026-09-09T21:46:39Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T21:46:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-09T21:36:06Z` **full / succeeded** — Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published. No fresh queue items within the 90-minute source TTL.
-- `2026-09-09T21:37:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T21:37:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).
-- `2026-09-09T21:35:51Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T21:25:51Z` **full / succeeded** — Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published. No fresh queue items within the 90-minute source TTL.

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T22:17:13.980909+00:00",
+  "updatedAt": "2026-09-09T22:31:25.892217+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13055,6 +13055,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097811968245596582",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097811968245596582",
+      "postedAt": "Wed Sep 09 22:18:43 +0000 2026",
+      "text": "2026: the first foldable iPhone",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 8696
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T22:27:20Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -21055,6 +21075,25 @@
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097811968245596582",
+      "rank": 1,
+      "title": "2026: the first foldable iPhone",
+      "benchmarkPostId": "2097811968245596582",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097811968245596582",
+      "score": 9116,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T22:27:47Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
       }
     }
   ],
@@ -180447,6 +180486,50 @@
       "summary": "Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and fresh-queue rebuild completed; no new fresh queue items were available, so no package was produced or published.",
       "reason": "",
       "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260909T222610Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:26:10Z",
+      "completedAt": "2026-09-09T22:26:10Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T222720Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:27:20Z",
+      "completedAt": "2026-09-09T22:27:20Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T222747Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:27:47Z",
+      "completedAt": "2026-09-09T22:27:47Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T223125Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T22:26:07Z",
+      "completedAt": "2026-09-09T22:31:25.890366+00:00",
+      "summary": "Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, source verification, and semantic duplicate review completed; no content was published.",
+      "reason": "The sole fresh source repeated the already published iPhone Duo reveal without adding a new factual payload.",
+      "selectedPackageIds": [],
+      "excludedBenchmarkPostIds": [
+        "2097811968245596582"
+      ]
     }
   ],
   "deliveryCircuitBreaker": {
