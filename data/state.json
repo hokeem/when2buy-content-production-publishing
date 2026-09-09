@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T15:48:49.296172+00:00",
+  "updatedAt": "2026-09-09T15:59:52.265701+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -29248,7 +29248,7 @@
       "benchmarkPostId": "2097707867981713833",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097707867981713833",
       "title": "Robinhood CEO on products built around public shares",
-      "status": "ready",
+      "status": "published",
       "postText": "Robinhood $HOOD CEO Vlad Tenev says public companies can’t control third-party financial products built around their shares once they go public.",
       "mirroredFacts": [
         "Robinhood CEO Vlad Tenev said public companies cannot control third-party financial products built around their shares once they go public."
@@ -29278,7 +29278,9 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmtua96f5021mqk0yiold58bi",
+      "publishedAt": "2026-09-09T15:58:00.000Z"
     },
     {
       "id": "pkg-20260909-treasury-6b-long-term-buyback",
@@ -32653,6 +32655,23 @@
         "lastAttemptAt": "2026-09-09T15:06:35.094403Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2097716375548772402",
+      "packageId": "pkg-20260909-robinhood-public-shares-products",
+      "title": "Robinhood CEO on products built around public shares",
+      "status": "published",
+      "publishedAt": "2026-09-09T15:58:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097716375548772402",
+      "postizPostId": "cmtua96f5021mqk0yiold58bi",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T15:58:00.000Z",
+        "windowEnd": "2026-09-12T15:58:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -158089,13 +158108,77 @@
         "pkg-20260909-robinhood-public-shares-products",
         "pkg-20260909-treasury-6b-long-term-buyback"
       ]
+    },
+    {
+      "id": "run-20260909T155547Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:55:47Z",
+      "completedAt": "2026-09-09T15:55:47Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T155638Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:56:38Z",
+      "completedAt": "2026-09-09T15:56:38Z",
+      "summary": "Apify scanned both benchmark accounts; captured 48 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T155641Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:56:41Z",
+      "completedAt": "2026-09-09T15:56:41Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T155855Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:58:55.306771+00:00",
+      "completedAt": "2026-09-09T15:58:55.306777+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T155951Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:59:51Z",
+      "completedAt": "2026-09-09T15:59:51Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T155952Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T15:55:44Z",
+      "completedAt": "2026-09-09T15:59:52.263728+00:00",
+      "summary": "Apify collection, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, validation, and one expired-breaker recovery publication completed with a verified public X URL.",
+      "reason": "The second fresh queue item was intentionally not submitted because breaker recovery permits exactly one newest-fresh-package probe.",
+      "selectedPackageIds": [
+        "pkg-20260909-robinhood-public-shares-products",
+        "pkg-20260909-treasury-6b-long-term-buyback"
+      ]
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": true,
+    "active": false,
     "startedAt": "2026-09-09T14:54:00Z",
     "expiresAt": "2026-09-09T15:54:00Z",
     "postizPostId": "cmtu7yoxn0159qk0y28yo48nq",
-    "deliveryReason": "Postiz X delivery cmtu7yoxn0159qk0y28yo48nq is ERROR without a public X URL; no new submission was made."
+    "deliveryReason": "Postiz X delivery cmtu7yoxn0159qk0y28yo48nq is ERROR without a public X URL; no new submission was made.",
+    "clearedAt": "2026-09-09T15:59:52.263728+00:00",
+    "clearReason": "Expired X-delivery breaker cleared after one newest-fresh-package probe returned PUBLISHED with a verified public X URL."
   }
 }

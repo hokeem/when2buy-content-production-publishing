@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T15:48:49.296172+00:00`
+- 状态更新：`2026-09-09T15:59:52.265701+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**443**
 - 待选选题：**399**
-- 待发布制作包：**5**
-- 已验证发布：**186**
+- 待发布制作包：**4**
+- 已验证发布：**187**
 
 ## 对标账号扫描
 
@@ -2865,7 +2865,7 @@ The U.S. Treasury plans to buy back up to $6B of longer-dated debt tomorrow, up 
 
 ### Robinhood CEO on products built around public shares
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260909-robinhood-public-shares-products/when2buy-image-model.png`
 
 Robinhood $HOOD CEO Vlad Tenev says public companies can’t control third-party financial products built around their shares once they go public.
@@ -3068,9 +3068,16 @@ The U.S. Treasury plans to buy back up to $6B in longer-term debt tomorrow.
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097716375548772402) |
 
 ## 最近运行
 
+- `2026-09-09T15:55:44Z` **full / succeeded** — Apify collection, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, validation, and one expired-breaker recovery publication completed with a verified public X URL. The second fresh queue item was intentionally not submitted because breaker recovery permits exactly one newest-fresh-package probe.
+- `2026-09-09T15:59:51Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T15:58:55.306771+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T15:56:41Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T15:56:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 48 eligible originals and added 0 new post(s).
+- `2026-09-09T15:55:47Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T15:45:50Z` **full / partial** — Apify collection, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, and validation of the first two queue packages completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker. The Postiz delivery guard found a recent unsafe X delivery; no new API submission was made and no older queue package was substituted.
 - `2026-09-09T15:47:02Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T15:46:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 39 eligible originals and added 0 new post(s).
@@ -3085,9 +3092,3 @@ The U.S. Treasury plans to buy back up to $6B in longer-term debt tomorrow.
 - `2026-09-09T15:05:52Z` **full / partial** — Postiz-first hourly metrics, Apify collection, media archive, status reconciliation, fresh-queue rebuild, and two image-model packages completed; publication was withheld before submission by the active 60-minute X-delivery circuit breaker. The delivery-only guard found an X delivery in ERROR at 14:54 UTC without a public URL; the breaker remains active through 15:54 UTC.
 - `2026-09-09T15:15:11Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T15:14:32.144168+00:00` **produce / succeeded** — Produced 2 newest fresh queue package(s) with inspected image-model visuals and exact-logo composites.
-- `2026-09-09T15:10:01Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T15:09:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
-- `2026-09-09T15:06:08Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T14:46:15Z` **full / partial** — Apify collection, media archive, status reconciliation, fresh-queue rebuild, two image-model packages, validation, and serial Postiz publication completed; the newest package published with a verified X URL and the second returned a delivery error without a release URL. Postiz returned ERROR for pkg-20260909-burry-reduces-nvda-crwv-shorts; no retry was attempted without a verified release URL.
-- `2026-09-09T14:52:45.790059+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T14:51:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).

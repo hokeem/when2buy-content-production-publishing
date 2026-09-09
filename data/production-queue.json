@@ -1,55 +1,10 @@
 {
-  "generatedAt": "2026-09-09T15:47:02Z",
+  "generatedAt": "2026-09-09T15:59:51Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2097707867981713833",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260909-robinhood-public-shares-products",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097707867981713833",
-      "originalText": "Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial products built around their shares once they go public - CNBC https://t.co/TqEhhSnGau",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRyOBTkXkAAUV_5.png"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRyOBTkXkAAUV_5.png",
-          "path": "output/benchmark-media/StockMKTNewz/2097707867981713833-1.png",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 10,
-        "replies": 5,
-        "reposts": 1,
-        "quotes": 1,
-        "views": 5257
-      },
-      "postedAt": "Wed Sep 09 15:25:03 +0000 2026",
-      "score": 5767,
-      "heatScore": 5767,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 22.0,
-        "expiresAt": "2026-09-09T16:55:03Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2097704978462671282",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260909-treasury-6b-long-term-buyback",
@@ -93,14 +48,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 33.5,
+        "ageMinutes": 46.3,
         "expiresAt": "2026-09-09T16:43:34Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "benchmarkPostId": "2097703654966886534",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260909-penpe-robinhood-chain-launch",
@@ -138,14 +93,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 38.7,
+        "ageMinutes": 51.5,
         "expiresAt": "2026-09-09T16:38:19Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 3,
       "benchmarkPostId": "2097702636287881694",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260909-treasury-6b-long-debt-buyback",
@@ -175,14 +130,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 42.8,
+        "ageMinutes": 55.6,
         "expiresAt": "2026-09-09T16:34:16Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 4,
       "benchmarkPostId": "2097699385257685314",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -220,14 +175,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 55.7,
+        "ageMinutes": 68.5,
         "expiresAt": "2026-09-09T16:21:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 5,
       "benchmarkPostId": "2097695004827279430",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260909-burry-reduces-nvda-crwv-shorts",
@@ -265,7 +220,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 73.1,
+        "ageMinutes": 85.9,
         "expiresAt": "2026-09-09T16:03:57Z",
         "ttlMinutes": 90
       },
