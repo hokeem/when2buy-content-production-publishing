@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T06:50:38.853319+00:00`
+- 状态更新：`2026-09-09T07:07:51.760173+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**410**
 - 待选选题：**366**
@@ -2806,6 +2806,9 @@ Robinhood Chain $HOOD ranked No. 1 for fees accrued over the past 24 hours, topp
 
 ## 最近运行
 
+- `2026-09-09T07:05:00Z` **full / partial** — Scheduled run: Apify collection from both benchmark accounts, media archival, and timestamp-first queue rebuild completed; no new eligible originals were found. Publication was withheld by the active delivery circuit breaker. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.
+- `2026-09-09T07:06:49Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
+- `2026-09-09T07:06:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-09T06:45:00Z` **full / partial** — Asia/Shanghai :45 run: Apify collection, media archive, timestamp-first queue rebuild, numeric 72-hour metrics, and newest-package image production completed; publication was withheld by the active delivery circuit breaker. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.
 - `2026-09-09T06:50:18Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
 - `2026-09-09T06:50:15.353210Z` **produce / succeeded** — Produced the newest Apify benchmark package with an inspected entity-led image-model visual and exact-logo compositing.
@@ -2823,6 +2826,3 @@ Robinhood Chain $HOOD ranked No. 1 for fees accrued over the past 24 hours, topp
 - `2026-09-09T06:28:47Z` **queue / succeeded** — Prepared 57 one-to-one production candidate(s).
 - `2026-09-09T06:28:44.281706+00:00` **produce / succeeded** — Produced one new image-model XRP ETF package with exact-logo compositing and visual QA.
 - `2026-09-09T06:27:09Z` **queue / succeeded** — Prepared 57 one-to-one production candidate(s).
-- `2026-09-09T06:26:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
-- `2026-09-09T06:26:31Z` **queue / succeeded** — Prepared 57 one-to-one production candidate(s).
-- `2026-09-09T06:26:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
