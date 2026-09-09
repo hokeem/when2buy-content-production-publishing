@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T22:38:52.172095+00:00`
+- 状态更新：`2026-09-09T22:51:36.884403+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**475**
 - 待选选题：**422**
 - 待发布制作包：**0**
-- 已验证发布：**196**
+- 已验证发布：**197**
 
 ## 对标账号扫描
 
@@ -2956,6 +2956,13 @@ Apple's $AAPL foldable iPhone Duo costs $3,199 in its highest-end configuration.
 
 Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modification for JASSM and LRASM large-lot procurement.
 
+### Apple introduces its first foldable iPhone
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-first-foldable-iphone-2026/when2buy-image-model.png`
+
+Apple just introduced iPhone Duo, its first foldable iPhone.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3157,9 +3164,15 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
+| Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097820023805141266) |
 
 ## 最近运行
 
+- `2026-09-09T22:45:52Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status and Postiz reconciliation, hard-TTL queue rebuild, primary-source verification, image-model production, and one verified X publication completed.
+- `2026-09-09T22:50:47.556333+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T22:49:54Z` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual, primary-source verification, and exact-logo compositing.
+- `2026-09-09T22:46:50Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T22:46:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-09T22:36:06Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status and Postiz publication reconciliation, fresh-queue rebuild, and semantic duplicate review completed; no content was published. The sole fresh queue item repeated the already published iPhone Duo reveal without adding a new factual payload.
 - `2026-09-09T22:37:21Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T22:37:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
@@ -3175,8 +3188,3 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 - `2026-09-09T22:08:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-09T22:05:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T21:56:40Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T21:56:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-09T21:51:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T21:50:43.472619+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T21:49:45Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T21:49:25Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
