@@ -1,61 +1,10 @@
 {
-  "generatedAt": "2026-09-09T08:43:39Z",
+  "generatedAt": "2026-09-09T08:57:00Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2097602437716611141",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260909-robinhood-chain-tokenized-stocks-160m",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097602437716611141",
-      "originalText": "JUST IN: Robinhood Chain $HOOD tokenized stocks hit $160 million in total value - Arbdata. https://t.co/qhRGaYgJJt",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRwuTB0WcAAAeE3.jpg",
-        "https://pbs.twimg.com/media/HRwuTBxWgAAaZFM.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRwuTB0WcAAAeE3.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097602437716611141-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRwuTBxWgAAaZFM.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097602437716611141-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "views": 2505
-      },
-      "postedAt": "Wed Sep 09 08:26:07 +0000 2026",
-      "score": 2505,
-      "heatScore": 2505,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 21,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 17.5,
-        "expiresAt": "2026-09-09T09:56:07Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2097594455742173387",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260909-google-finland-ai-infrastructure-13b",
@@ -99,14 +48,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 49.3,
+        "ageMinutes": 62.6,
         "expiresAt": "2026-09-09T09:24:24Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "benchmarkPostId": "2097592833087549800",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260909-iq-robinhood-chain-intel-pairing",
@@ -150,7 +99,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 55.7,
+        "ageMinutes": 69.1,
         "expiresAt": "2026-09-09T09:17:57Z",
         "ttlMinutes": 90
       },

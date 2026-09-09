@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T08:44:45.243028+00:00`
+- 状态更新：`2026-09-09T08:57:00.490922+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**414**
 - 待选选题：**370**
-- 待发布制作包：**3**
-- 已验证发布：**166**
+- 待发布制作包：**2**
+- 已验证发布：**167**
 
 ## 对标账号扫描
 
@@ -1800,14 +1800,14 @@ Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang just said: �
 
 ### Amazon cargo jet overruns Miami runway
 
-- 状态：`published`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png`
 
 An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.  When2Buy — your U.S. stock partner.
 
 ### Nvidia chips in Armenia-Azerbaijan talks
 
-- 状态：`published`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png`
 
 Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.  When2Buy — your U.S. stock partner.
@@ -1821,7 +1821,7 @@ Market radar: @StockMKTNewz reports: This is my 2nd largest ETF holding ... What
 
 ### Apple gains more than 10x in a decade
 
-- 状态：`published`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png`
 
 $AAPL stock is up more than 10x over the last decade.  When2Buy — your U.S. stock partner.
@@ -2647,15 +2647,15 @@ $ETH ETFs pulled in $24.29M in net inflows.  When2Buy — your U.S. stock partne
 
 ### Robinhood Chain tokenized stocks reach $160M
 
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260909-robinhood-chain-tokenized-stocks-160m/when2buy-image-model.png`
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-robinhood-chain-tokenized-stocks-160m/when2buy-image-model-v2.png`
 
 Robinhood Chain tokenized stocks have reached $160M in total value.  When2Buy — your U.S. stock partner.
 
 ### Google commits €13B to Finland AI infrastructure
 
 - 状态：`ready`
-- 配图：`deliverables/pkg-20260909-google-finland-ai-infrastructure-13b/when2buy-image-model.png`
+- 配图：`deliverables/pkg-20260909-google-finland-ai-infrastructure-13b/when2buy-image-model-v2.png`
 
 Google will invest €13B in Finland's AI infrastructure over 2027–28.  When2Buy — your U.S. stock partner.
 
@@ -2837,9 +2837,18 @@ IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. 
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097593108846579977) |
+| Robinhood Chain tokenized stocks reach $160M | 2026-09-09T08:53:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097609478095110200) |
 
 ## 最近运行
 
+- `2026-09-09T08:57:00Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T08:47:10Z` **full / succeeded** — Synchronized origin/main, validated preflight and state, scanned both required Apify feeds with no newly discovered originals, archived media, rebuilt the freshness queue, produced and QA-checked the first two fresh queue visuals, reconciled Postiz, and published the single newest fresh recovery probe with a verified public X URL. The second fresh queue item was not submitted because recovery after an expired X-delivery circuit breaker permits exactly one newest-package probe.
+- `2026-09-09T08:54:06.769288+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T08:48:38Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T08:48:24Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 5 unsent stale package(s).
+- `2026-09-09T08:48:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-09T08:47:37.990815+00:00` **produce / succeeded** — Produced five timestamp-first image-model packages with exact-logo compositing.
+- `2026-09-09T08:47:31Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T08:41:53Z` **full / partial** — Apify scanned both benchmark feeds, media archival and freshness-first queue rebuild completed, and the first two current-queue packages passed visual review; publication was withheld by the active X delivery circuit breaker. The delivery circuit breaker remains active until 2026-09-09T08:52:10Z after a prior Postiz X delivery entered ERROR without a public URL; no retry or backfill was submitted.
 - `2026-09-09T08:43:39Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 136 unsent stale package(s).
 - `2026-09-09T08:43:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
@@ -2852,11 +2861,3 @@ IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. 
 - `2026-09-09T08:26:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-09T08:06:39Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
 - `2026-09-09T08:06:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 2 new post(s).
-- `2026-09-09T07:52:10Z` **full / partial** — Apify collection, media archive, timestamp-first queue rebuild, :45 public metrics, one verified Postiz X publication, and reporting completed; remaining submissions were stopped by the delivery circuit breaker. Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.
-- `2026-09-09T07:49:05.807302+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T07:46:49Z` **queue / succeeded** — Prepared 54 one-to-one production candidate(s).
-- `2026-09-09T07:46:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-09T07:39:46.772847+00:00` **full / succeeded** — Apify collection, media archive, newest-first queue production, one image-model package, delivery recovery probe, and verified Postiz X publication completed.
-- `2026-09-09T07:39:34.831539+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T07:28:01Z` **queue / succeeded** — Prepared 55 one-to-one production candidate(s).
-- `2026-09-09T07:27:58.991588+00:00` **produce / succeeded** — Produced the newest eligible Apify benchmark package with an inspected entity-led image-model visual and exact-logo compositing.

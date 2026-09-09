@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T08:44:45.243028+00:00",
+  "updatedAt": "2026-09-09T08:57:00.490922+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -22735,14 +22735,14 @@
         "https://x.com/StockMKTNewz/status/2096718702703935494"
       ],
       "imagePath": "deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png",
-      "createdAt": "2026-09-07T22:06:33.511022+00:00",
+      "createdAt": "2026-09-09T08:47:34.574815+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: dark Robinhood Chain transaction data center and fee dashboard, exact headline Robinhood Chain and $8M+ Friday Fees; premium black financial-news palette, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiredAt": "2026-09-09T08:48:21Z",
       "expiryReason": "source_ttl_exceeded",
       "sourceExpiresAt": "2026-09-06T23:24:28Z"
     },
@@ -22771,7 +22771,7 @@
       "benchmarkPostId": "2096694211605147791",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096694211605147791",
       "title": "Amazon cargo jet overruns Miami runway",
-      "status": "published",
+      "status": "expired",
       "postText": "An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "An Amazon cargo plane overshot a runway at Miami International Airport.",
@@ -22782,24 +22782,23 @@
         "https://x.com/StockMKTNewz/status/2096694211605147791"
       ],
       "imagePath": "deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png",
-      "createdAt": "2026-09-07T22:06:34.405247+00:00",
+      "createdAt": "2026-09-09T08:47:35.516418+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: serious Miami airport runway overrun involving an unbranded Amazon-style cargo jet and emergency vehicles, exact headline Amazon Cargo Jet / Miami Runway Overrun; black premium financial-news styling, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "postizPostId": "cmtqt169x078vlm0ye64sycjg",
-      "publishedAt": "2026-09-07T05:33:00.000Z",
-      "deliveryState": "PUBLISHED",
-      "deliveryCheckedAt": "2026-09-09T05:14:10.902461Z"
+      "expiredAt": "2026-09-09T08:48:21Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-06T21:47:09Z"
     },
     {
       "id": "pkg-20260907-nvidia-chips-peace-talks",
       "benchmarkPostId": "2096691430164938804",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096691430164938804",
       "title": "Nvidia chips in Armenia-Azerbaijan talks",
-      "status": "published",
+      "status": "expired",
       "postText": "Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "American negotiators used the prospect of access to Nvidia AI chips in talks around a preliminary Armenia-Azerbaijan peace deal."
@@ -22809,17 +22808,16 @@
         "https://x.com/StockMKTNewz/status/2096691430164938804"
       ],
       "imagePath": "deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png",
-      "createdAt": "2026-09-07T22:06:35.256006+00:00",
+      "createdAt": "2026-09-09T08:47:36.777446+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: advanced AI chip on a diplomacy table with restrained Armenia and Azerbaijan flags; exact headline Nvidia Chips / Peace Talks; black premium financial-news styling, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "postizPostId": "cmtqt1tjn0793lm0yd8t9rgyq",
-      "publishedAt": "2026-09-07T05:33:00.000Z",
-      "deliveryState": "PUBLISHED",
-      "deliveryCheckedAt": "2026-09-09T05:14:10.902461Z"
+      "expiredAt": "2026-09-09T08:48:21Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-06T21:36:06Z"
     },
     {
       "id": "pkg-20260907-this-is-my-2nd-largest-etf-holding-what-do-you-t-52021",
@@ -22846,7 +22844,7 @@
       "benchmarkPostId": "2096679920785125677",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096679920785125677",
       "title": "Apple gains more than 10x in a decade",
-      "status": "published",
+      "status": "expired",
       "postText": "$AAPL stock is up more than 10x over the last decade.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Apple $AAPL stock is up by more than 10x over the last decade."
@@ -22856,17 +22854,16 @@
         "https://x.com/StockMKTNewz/status/2096679920785125677"
       ],
       "imagePath": "deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png",
-      "createdAt": "2026-09-07T22:06:36.156077+00:00",
+      "createdAt": "2026-09-09T08:47:37.990708+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: sleek smartphone and upward decade-long chart, exact headline Apple $AAPL / 10X+ in a Decade; premium black financial-news styling, white type, controlled green performance accent, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "postizPostId": "cmtqt2mym0ej5qk0yz5omzxdr",
-      "publishedAt": "2026-09-07T05:34:00.000Z",
-      "deliveryState": "PUBLISHED",
-      "deliveryCheckedAt": "2026-09-09T05:14:10.902461Z"
+      "expiredAt": "2026-09-09T08:48:21Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-06T20:50:22Z"
     },
     {
       "id": "pkg-20260907-nvidia-decade-gain",
@@ -23106,14 +23103,14 @@
         "https://x.com/StockMKTNewz/status/2096762652995248280"
       ],
       "imagePath": "deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png",
-      "createdAt": "2026-09-07T22:06:32.689308+00:00",
+      "createdAt": "2026-09-09T08:47:33.511472+00:00",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Square image-model visual: New York Stock Exchange exterior with a Monday market-closure headline; black premium financial-news palette, white type, controlled red accents, and a bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
       },
-      "expiredAt": "2026-09-09T08:43:37Z",
+      "expiredAt": "2026-09-09T08:48:21Z",
       "expiryReason": "source_ttl_exceeded",
       "sourceExpiresAt": "2026-09-07T02:19:07Z"
     },
@@ -26953,7 +26950,7 @@
       "benchmarkPostId": "2097602437716611141",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097602437716611141",
       "title": "Robinhood Chain tokenized stocks reach $160M",
-      "status": "ready",
+      "status": "published",
       "postText": "Robinhood Chain tokenized stocks have reached $160M in total value.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Robinhood Chain tokenized stocks reached $160 million in total value."
@@ -26961,14 +26958,28 @@
       "verificationSources": [
         "https://x.com/WhaleInsider/status/2097602437716611141"
       ],
-      "imagePath": "deliverables/pkg-20260909-robinhood-chain-tokenized-stocks-160m/when2buy-image-model.png",
+      "imagePath": "deliverables/pkg-20260909-robinhood-chain-tokenized-stocks-160m/when2buy-image-model-v2.png",
       "createdAt": "2026-09-09T08:31:28.448315+00:00",
       "visualProduction": {
         "method": "image_model",
-        "prompt": "Square premium near-black entity-led image-model visual of tokenized-equities infrastructure with a clear $160M marker, restrained green/red signals, and bottom-right clear space for the exact When2Buy logo; no source or third-party branding.",
+        "prompt": "Square premium near-black entity-led visual of Robinhood Chain tokenized-equities infrastructure with transparent stock certificates, a precise $160M marker, restrained green/red signals, and lower-right clear space for the exact repository logo; no source attribution, URL, disclaimer, CTA, watermark, or generated When2Buy logo.",
         "logoApplied": true,
-        "qaStatus": "passed"
-      }
+        "qaStatus": "passed",
+        "qa": {
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led tokenized-equities scene",
+            "dominant $160M figure and supporting TOKENIZED STOCKS label proofread",
+            "near-black premium financial-news palette",
+            "not a pure-text card or generic radar visual",
+            "exact repository logo composited once in lower-right safe area",
+            "no source attribution, URL, disclaimer, CTA, or damaged logo"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmttv2xra002nqk0y7fvawz9z",
+      "publishedAt": "2026-09-09T08:53:00.000Z"
     },
     {
       "id": "pkg-20260909-google-finland-ai-infrastructure-13b",
@@ -26985,13 +26996,25 @@
         "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
         "https://x.com/WhaleInsider/status/2097594455742173387"
       ],
-      "imagePath": "deliverables/pkg-20260909-google-finland-ai-infrastructure-13b/when2buy-image-model.png",
+      "imagePath": "deliverables/pkg-20260909-google-finland-ai-infrastructure-13b/when2buy-image-model-v2.png",
       "createdAt": "2026-09-09T08:31:29.437798+00:00",
       "visualProduction": {
         "method": "image_model",
-        "prompt": "Square premium near-black entity-led image-model visual of a Nordic AI data-center campus, a precise €13B marker, restrained red accents, and bottom-right clear space for the exact When2Buy logo; no source or third-party branding.",
+        "prompt": "Square premium near-black entity-led visual of a Google-scale Nordic AI data-center campus in Finland with a precise €13B marker, restrained red accents, aurora atmosphere, and lower-right clear space for the exact repository logo; no source attribution, URL, disclaimer, CTA, watermark, or generated When2Buy logo.",
         "logoApplied": true,
-        "qaStatus": "passed"
+        "qaStatus": "passed",
+        "qa": {
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led Finland AI infrastructure scene",
+            "dominant €13B figure and supporting FINLAND AI label proofread",
+            "near-black premium financial-news palette with restrained red accents",
+            "not a pure-text card or generic server-room visual",
+            "exact repository logo composited once in lower-right safe area",
+            "no source attribution, URL, disclaimer, CTA, or damaged logo"
+          ],
+          "result": "passed"
+        }
       }
     },
     {
@@ -29996,6 +30019,23 @@
         "status": "active",
         "windowStart": "2026-09-09T07:48:00.000Z",
         "windowEnd": "2026-09-12T07:48:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097609478095110200",
+      "packageId": "pkg-20260909-robinhood-chain-tokenized-stocks-160m",
+      "title": "Robinhood Chain tokenized stocks reach $160M",
+      "status": "published",
+      "publishedAt": "2026-09-09T08:53:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097609478095110200",
+      "postizPostId": "cmttv2xra002nqk0y7fvawz9z",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T08:53:00.000Z",
+        "windowEnd": "2026-09-12T08:53:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -136396,12 +136436,90 @@
       "completedAt": "2026-09-09T08:44:30Z",
       "summary": "Apify scanned both benchmark feeds, media archival and freshness-first queue rebuild completed, and the first two current-queue packages passed visual review; publication was withheld by the active X delivery circuit breaker.",
       "reason": "The delivery circuit breaker remains active until 2026-09-09T08:52:10Z after a prior Postiz X delivery entered ERROR without a public URL; no retry or backfill was submitted."
+    },
+    {
+      "id": "run-20260909T084731Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:47:31Z",
+      "completedAt": "2026-09-09T08:47:31Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T084737Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:47:37.990815+00:00",
+      "completedAt": "2026-09-09T08:47:37.990819+00:00",
+      "summary": "Produced five timestamp-first image-model packages with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T084821Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:48:21Z",
+      "completedAt": "2026-09-09T08:48:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T084824Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:48:24Z",
+      "completedAt": "2026-09-09T08:48:24Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 5 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T084838Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:48:38Z",
+      "completedAt": "2026-09-09T08:48:38Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T085406Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:54:06.769288+00:00",
+      "completedAt": "2026-09-09T08:54:06.769293+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T085525Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:47:10Z",
+      "completedAt": "2026-09-09T08:55:25Z",
+      "summary": "Synchronized origin/main, validated preflight and state, scanned both required Apify feeds with no newly discovered originals, archived media, rebuilt the freshness queue, produced and QA-checked the first two fresh queue visuals, reconciled Postiz, and published the single newest fresh recovery probe with a verified public X URL.",
+      "reason": "The second fresh queue item was not submitted because recovery after an expired X-delivery circuit breaker permits exactly one newest-package probe."
+    },
+    {
+      "id": "run-20260909T085700Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T08:57:00Z",
+      "completedAt": "2026-09-09T08:57:00Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": true,
+    "active": false,
     "startedAt": "2026-09-09T07:52:10Z",
     "expiresAt": "2026-09-09T08:52:10Z",
-    "deliveryReason": "Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate."
+    "deliveryReason": "Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.",
+    "clearedAt": "2026-09-09T08:55:25Z",
+    "clearanceReason": "The expired breaker recovery probe published the newest fresh package and returned a verified public X URL."
   }
 }
