@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T02:06:48.920183+00:00`
+- 状态更新：`2026-09-09T02:26:46.704861+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**407**
 - 待选选题：**363**
@@ -2756,6 +2756,9 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 
 ## 最近运行
 
+- `2026-09-09T02:26:46.702724Z` **full / partial** — Apify collected both required benchmark feeds and rebuilt the newest-first queue. No new eligible originals required production. Publication was withheld after the required Postiz 60-minute X delivery-status safety check failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-09T02:26:14Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
+- `2026-09-09T02:26:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-09T02:06:48Z` **full / partial** — Apify collected both required benchmark feeds and rebuilt the newest-first queue. No new eligible originals required production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-09T02:06:18Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
 - `2026-09-09T02:06:13Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
@@ -2773,6 +2776,3 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 - `2026-09-09T01:06:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-09T00:50:05Z` **full / partial** — Apify collected both required benchmark feeds, media archive completed, the production queue was rebuilt newest-first, and the :45 72-hour metrics pass completed without all-null snapshots. No new eligible benchmark posts required package production; publication was withheld by the required Postiz delivery safety check. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
 - `2026-09-09T00:46:59Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
-- `2026-09-09T00:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-09T00:46:32Z` **queue / succeeded** — Prepared 73 one-to-one production candidate(s).
-- `2026-09-09T00:46:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
