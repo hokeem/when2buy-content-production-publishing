@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T05:16:14.197640+00:00",
+  "updatedAt": "2026-09-09T05:23:19.740332+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -126028,6 +126028,53 @@
       "completedAt": "2026-09-09T05:15:46.783175+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260909T052214Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:22:14Z",
+      "completedAt": "2026-09-09T05:22:14Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T052217Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:22:17Z",
+      "completedAt": "2026-09-09T05:22:17Z",
+      "summary": "Prepared 70 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T052400Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T05:21:02Z",
+      "completedAt": "2026-09-09T05:24:00Z",
+      "summary": "Apify collection, media archive, timestamp-first queue rebuild, validation, and reporting completed; publication was withheld by the active Postiz delivery circuit breaker.",
+      "reason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "newEligiblePosts": 0
+      },
+      "deliveryCheck": {
+        "result": "not queried: active circuit breaker until 2026-09-09T05:28:49Z"
+      },
+      "circuitBreaker": {
+        "active": true,
+        "expiresAt": "2026-09-09T05:28:49Z",
+        "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+      }
     }
   ],
   "deliveryCircuitBreaker": {
