@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T06:16:38.103678+00:00`
+- 状态更新：`2026-09-09T06:38:28.525060+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**408**
-- 待选选题：**364**
-- 待发布制作包：**135**
-- 已验证发布：**160**
+- 对标帖子快照：**409**
+- 待选选题：**365**
+- 待发布制作包：**132**
+- 已验证发布：**164**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 06:12:37 +0000 2026 | JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6 | [X](https://x.com/WhaleInsider/status/2097568840863428737) |
 | @WhaleInsider | Wed Sep 09 05:46:12 +0000 2026 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | [X](https://x.com/WhaleInsider/status/2097562195114520817) |
 | @StockMKTNewz | Wed Sep 09 01:07:56 +0000 2026 | WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW | [X](https://x.com/StockMKTNewz/status/2097492167849631928) |
 | @StockMKTNewz | Wed Sep 09 01:04:26 +0000 2026 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% rate it as good or excellent - WSJ https://t.co/Qa2hSXvUyQ | [X](https://x.com/StockMKTNewz/status/2097491285909151900) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 15:32:54 +0000 2026 | This is what $15.4 Million gets you in Montana https://t.co/tUD3geGsKm | [X](https://x.com/StockMKTNewz/status/2097347451963289915) |
 | @WhaleInsider | Tue Sep 08 15:40:56 +0000 2026 | JUST IN: $XRP becomes the best performing top 10 crypto in the past 7 days, despite market pullback. https://t.co/Qv7swgBJYK | [X](https://x.com/WhaleInsider/status/2097349476302148002) |
 | @StockMKTNewz | Tue Sep 08 15:44:24 +0000 2026 | THIS IS WHO GAVE THE KEYNOTE AT EVERY APPLE $AAPL IPHONE LAUNCH EVENT  2007: Steve Jobs 2008: Steve Jobs 2009: Steve Jobs 2010: Steve Jobs 2011: Tim Cook  2012: Tim Cook 2013: Tim Cook 2014: Tim Cook 2015: Tim Cook 2016: Tim Cook 2017: Tim Cook 2018: Tim Cook 2019: Tim Cook 2020: Tim Cook 2021: Tim Cook 2022: Tim Cook 2023: Tim Cook 2024: Tim Cook 2025: Tim Cook 2026: John Ternus | [X](https://x.com/StockMKTNewz/status/2097350348318933244) |
-| @WhaleInsider | Tue Sep 08 15:20:43 +0000 2026 | JUST IN: $PENGUIN is now live on Robinhood Chain, prompting speculation that it could emerge as the chain’s native PENGUIN. 19% of the supply has been burned. https://t.co/43Pf0eDuGo | [X](https://x.com/WhaleInsider/status/2097344386354802890) |
 
 ## 选题推荐
 
@@ -126,6 +126,7 @@
 | 1 | In a monthly Gallup survey, 45% of people now rate the economy poor, while a combined 19% ra… | StockMKTNewz | 4533 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | WATCH OUT FOR APPLE'S $AAPL IPHONE EVENT AT 1PM ET TOMORROW | StockMKTNewz | 11475 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $BTC ETF’s see an inflow of $46.65 million. https://t.co/YvVIxA4h8q | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6 | WhaleInsider | 16814 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2487,7 +2488,7 @@ LeBron James is now working with Polymarket.  When2Buy — your U.S. stock partn
 
 ### Samsung leads Mistral AI's €3B Series D
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-samsung-mistral-ai-equity/when2buy-image-model.png`
 
 Samsung led Mistral AI's €3B Series D at a valuation above €21B.  The funding round also includes Scaleup Europe Fund and PSG Equity.  When2Buy — your U.S. stock partner.
@@ -2501,14 +2502,14 @@ Tesla $TSLA is preparing to deploy 1,000 Cybercabs.  When2Buy — your U.S. stoc
 
 ### UNIPCS6900 launches on Robinhood Chain
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-unipcs6900-robinhood-chain-launch/when2buy-image-model.png`
 
 UNIPCS6900 ($UPS) launches on Robinhood Chain, tied to UniPcs FOMO holdings amid BONK insider speculation.  It includes automated portfolio rotation and cross-chain rewards for holders.  When2Buy — your U.S. stock partner.
 
 ### Qualcomm flags smartphone-cycle low
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260908-qualcomm-smartphone-cycle-low/when2buy-image-model.png`
 
 Qualcomm $QCOM says the smartphone market is at the low point of its cycle.  When2Buy — your U.S. stock partner.
@@ -2617,6 +2618,13 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 - 配图：`deliverables/pkg-20260909-bitcoin-etf-inflows/when2buy-image-model.png`
 
 Bitcoin ETFs logged $46.65M in net inflows.  When2Buy — your U.S. stock partner.
+
+### Franklin ETF clients buy $1.55M of XRP
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-franklin-etf-xrp-155m/when2buy-image-model.png`
+
+Franklin ETF clients bought $1.55M worth of $XRP.  When2Buy — your U.S. stock partner.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -2783,9 +2791,24 @@ Bitcoin ETFs logged $46.65M in net inflows.  When2Buy — your U.S. stock partne
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097569842102706604) |
+| Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097573139383472499) |
+| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097573644444823640) |
+| Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097574132317897127) |
+| Samsung leads Mistral AI's €3B Series D | 2026-09-09T06:35:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097574655683166484) |
 
 ## 最近运行
 
+- `2026-09-09T06:25:00Z` **full / partial** — Asia/Shanghai :25 run: Apify collection, media archival, queue rebuild, one image-model package, and four serial verified X deliveries completed; final delivery failed and publishing stopped. Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.
+- `2026-09-09T06:35:44.599837+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:33:41.023124+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:31:43.212600+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:29:44.135992+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T06:28:47Z` **queue / succeeded** — Prepared 57 one-to-one production candidate(s).
+- `2026-09-09T06:28:44.281706+00:00` **produce / succeeded** — Produced one new image-model XRP ETF package with exact-logo compositing and visual QA.
+- `2026-09-09T06:27:09Z` **queue / succeeded** — Prepared 57 one-to-one production candidate(s).
+- `2026-09-09T06:26:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
+- `2026-09-09T06:26:31Z` **queue / succeeded** — Prepared 57 one-to-one production candidate(s).
+- `2026-09-09T06:26:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
 - `2026-09-09T06:16:38.102167+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T06:14:40.140909+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T06:12:42.350374+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2795,14 +2818,3 @@ Bitcoin ETFs logged $46.65M in net inflows.  When2Buy — your U.S. stock partne
 - `2026-09-09T06:07:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-09T05:45:00Z` **full / succeeded** — Asia/Shanghai :45 run: Postiz-first 72-hour metrics, Apify benchmark collection and archival, newest-first queue rebuild, one image-model package, and five serial verified X deliveries completed.
 - `2026-09-09T05:58:14.654995+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:56:16.612833+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:54:18.984233+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:52:21.329245+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:50:23.697322+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:49:33Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
-- `2026-09-09T05:49:30.947738+00:00` **produce / succeeded** — Produced the newest Bitcoin ETF inflow package with an image-model visual and exact-logo composite.
-- `2026-09-09T05:47:09Z` **queue / succeeded** — Prepared 66 one-to-one production candidate(s).
-- `2026-09-09T05:47:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-09T05:28:00Z` **full / succeeded** — Apify collection, media archive, newest-first queue rebuild, Postiz reconciliation, and five serial public X deliveries completed.
-- `2026-09-09T05:38:49.585156+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T05:36:47.818066+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T06:16:38.103678+00:00",
+  "updatedAt": "2026-09-09T06:38:28.525060+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11219,6 +11219,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097568840863428737",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097568840863428737",
+      "postedAt": "Wed Sep 09 06:12:37 +0000 2026",
+      "text": "JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRwPviQawAAof1j.jpg",
+        "https://pbs.twimg.com/media/HRwPvhwWkAAyabn.jpg"
+      ],
+      "engagement": {
+        "likes": 74,
+        "replies": 20,
+        "reposts": 9,
+        "quotes": 4,
+        "views": 13844
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T06:26:28Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwPviQawAAof1j.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097568840863428737-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRwPvhwWkAAyabn.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097568840863428737-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -18130,6 +18164,25 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-09T05:47:09Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097568840863428737",
+      "rank": 1,
+      "title": "JUST IN: Franklin ETF clients buy $1.55 million worth of $XRP. https://t.co/iwwzzCyfy6",
+      "benchmarkPostId": "2097568840863428737",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097568840863428737",
+      "score": 16814,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T06:26:31Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
@@ -25410,7 +25463,7 @@
       "benchmarkPostId": "2097358581230121166",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097358581230121166",
       "title": "Samsung leads Mistral AI's €3B Series D",
-      "status": "ready",
+      "status": "published",
       "postText": "Samsung led Mistral AI's €3B Series D at a valuation above €21B.\n\nThe funding round also includes Scaleup Europe Fund and PSG Equity.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Samsung Electronics led Mistral AI's Series D funding round.",
@@ -25428,7 +25481,9 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Inspected final 1254px square composite: entity-led near-black scene, no generated text or damaged branding, exact supplied logo composited once in the lower-right safe area."
-      }
+      },
+      "postizPostId": "cmttq4uky08crlm0y9evhwllr",
+      "publishedAt": "2026-09-09T06:35:00.000Z"
     },
     {
       "id": "pkg-20260908-tesla-1000-cybercabs",
@@ -25471,7 +25526,7 @@
       "benchmarkPostId": "2097363532727611898",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097363532727611898",
       "title": "UNIPCS6900 launches on Robinhood Chain",
-      "status": "ready",
+      "status": "published",
       "postText": "UNIPCS6900 ($UPS) launches on Robinhood Chain, tied to UniPcs FOMO holdings amid BONK insider speculation.\n\nIt includes automated portfolio rotation and cross-chain rewards for holders.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "UNIPCS6900 ($UPS) launches on Robinhood Chain.",
@@ -25500,14 +25555,16 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttpzs4s08gjqk0y0wzgsxwo",
+      "publishedAt": "2026-09-09T06:31:00.000Z"
     },
     {
       "id": "pkg-20260908-qualcomm-smartphone-cycle-low",
       "benchmarkPostId": "2097361064912449586",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097361064912449586",
       "title": "Qualcomm flags smartphone-cycle low",
-      "status": "ready",
+      "status": "published",
       "postText": "Qualcomm $QCOM says the smartphone market is at the low point of its cycle.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Qualcomm $QCOM says the smartphone market is at the low point of its cycle."
@@ -25534,7 +25591,9 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmttq2b6608hoqk0ymin9uxey",
+      "publishedAt": "2026-09-09T06:33:00.000Z"
     },
     {
       "id": "pkg-20260908-iran-us-negotiation-conditions",
@@ -26110,6 +26169,40 @@
       },
       "postizPostId": "cmttoij4l07xmlm0yvs8o4qld",
       "publishedAt": "2026-09-09T05:49:00.000Z"
+    },
+    {
+      "id": "pkg-20260909-franklin-etf-xrp-155m",
+      "benchmarkPostId": "2097568840863428737",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097568840863428737",
+      "title": "Franklin ETF clients buy $1.55M of XRP",
+      "status": "published",
+      "postText": "Franklin ETF clients bought $1.55M worth of $XRP.\n\nWhen2Buy — your U.S. stock partner.",
+      "mirroredFacts": [
+        "Franklin ETF clients bought $1.55 million worth of XRP."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2097568840863428737"
+      ],
+      "imagePath": "deliverables/pkg-20260909-franklin-etf-xrp-155m/when2buy-image-model.png",
+      "createdAt": "2026-09-09T06:28:44.281598+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: infographic-diagram; premium square X market-news visual on Franklin ETF client buying activity in XRP, centered on $1.55M. Hero XRP coin, institutional ETF trading flows, near-black market terminal scene, crisp exact “$1.55M XRP ETF BUY” headline, restrained red accent, bottom-right logo-safe area; no source attribution, URL, disclaimer, watermark, or logos.",
+        "logoApplied": true,
+        "logoAsset": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "qaStatus": "passed",
+        "qaChecks": [
+          "square 1:1 raster",
+          "entity-led XRP/ETF visual",
+          "headline matches decisive amount",
+          "not pure text or generic background",
+          "exact repository logo composited once",
+          "no source attribution or URL"
+        ]
+      },
+      "postizPostId": "cmttpx8fv0894lm0yzcjo1naw",
+      "publishedAt": "2026-09-09T06:29:00.000Z"
     }
   ],
   "posts": [
@@ -28978,6 +29071,74 @@
         "status": "active",
         "windowStart": "2026-09-09T06:16:00.000Z",
         "windowEnd": "2026-09-12T06:16:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097573139383472499",
+      "packageId": "pkg-20260909-franklin-etf-xrp-155m",
+      "title": "Franklin ETF clients buy $1.55M of XRP",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:29:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097573139383472499",
+      "postizPostId": "cmttpx8fv0894lm0yzcjo1naw",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:29:00.000Z",
+        "windowEnd": "2026-09-12T06:29:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097573644444823640",
+      "packageId": "pkg-20260908-unipcs6900-robinhood-chain-launch",
+      "title": "UNIPCS6900 launches on Robinhood Chain",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:31:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097573644444823640",
+      "postizPostId": "cmttpzs4s08gjqk0y0wzgsxwo",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:31:00.000Z",
+        "windowEnd": "2026-09-12T06:31:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097574132317897127",
+      "packageId": "pkg-20260908-qualcomm-smartphone-cycle-low",
+      "title": "Qualcomm flags smartphone-cycle low",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:33:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097574132317897127",
+      "postizPostId": "cmttq2b6608hoqk0ymin9uxey",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:33:00.000Z",
+        "windowEnd": "2026-09-12T06:33:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097574655683166484",
+      "packageId": "pkg-20260908-samsung-mistral-ai-equity",
+      "title": "Samsung leads Mistral AI's €3B Series D",
+      "status": "published",
+      "publishedAt": "2026-09-09T06:35:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097574655683166484",
+      "postizPostId": "cmttq4uky08crlm0y9evhwllr",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T06:35:00.000Z",
+        "windowEnd": "2026-09-12T06:35:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -126940,14 +127101,138 @@
       "completedAt": "2026-09-09T06:16:38.102172+00:00",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260909T062628Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:26:28Z",
+      "completedAt": "2026-09-09T06:26:28Z",
+      "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T062631Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:26:31Z",
+      "completedAt": "2026-09-09T06:26:31Z",
+      "summary": "Prepared 57 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T062658Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:26:58Z",
+      "completedAt": "2026-09-09T06:26:58Z",
+      "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T062709Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:27:09Z",
+      "completedAt": "2026-09-09T06:27:09Z",
+      "summary": "Prepared 57 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T062844Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:28:44.281706+00:00",
+      "completedAt": "2026-09-09T06:28:44.281706+00:00",
+      "summary": "Produced one new image-model XRP ETF package with exact-logo compositing and visual QA.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T062847Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:28:47Z",
+      "completedAt": "2026-09-09T06:28:47Z",
+      "summary": "Prepared 57 one-to-one production candidate(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T062944Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:29:44.135992+00:00",
+      "completedAt": "2026-09-09T06:29:44.136004+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T063143Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:31:43.212600+00:00",
+      "completedAt": "2026-09-09T06:31:43.212605+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T063341Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:33:41.023124+00:00",
+      "completedAt": "2026-09-09T06:33:41.023129+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T063544Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T06:35:44.599837+00:00",
+      "completedAt": "2026-09-09T06:35:44.599843+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T063828Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T06:25:00Z",
+      "completedAt": "2026-09-09T06:38:28.490076Z",
+      "summary": "Asia/Shanghai :25 run: Apify collection, media archival, queue rebuild, one image-model package, and four serial verified X deliveries completed; final delivery failed and publishing stopped.",
+      "reason": "Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "newEligiblePosts": 1
+      },
+      "deliveryCheck": {
+        "result": "unsafe",
+        "postizPostId": "cmttq7hqb08d8lm0yho425wr6",
+        "state": "ERROR"
+      },
+      "publishedPackageIds": [
+        "pkg-20260909-franklin-etf-xrp-155m",
+        "pkg-20260908-unipcs6900-robinhood-chain-launch",
+        "pkg-20260908-qualcomm-smartphone-cycle-low",
+        "pkg-20260908-samsung-mistral-ai-equity"
+      ]
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": false,
-    "startedAt": "2026-09-09T04:28:49Z",
-    "expiresAt": "2026-09-09T05:28:49Z",
-    "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
-    "clearedAt": "2026-09-09T05:26:32.823224+00:00",
-    "clearanceReason": "Postiz browser-compatible delivery check returned safe and a verified X publication succeeded after the client fix."
+    "active": true,
+    "startedAt": "2026-09-09T06:38:28.490076Z",
+    "expiresAt": "2026-09-09T07:38:28.490076Z",
+    "deliveryReason": "Postiz X delivery cmttq7hqb08d8lm0yho425wr6 entered ERROR at 2026-09-09T06:37:00Z without a public release URL; no retry submitted to prevent a duplicate."
   }
 }
