@@ -48,6 +48,10 @@ def validate(state):
             errors.append(f"package {item.get('id', '<unknown>')} has invalid status: {item.get('status')}")
         if not item.get("benchmarkPostId") or not item.get("benchmarkPostUrl") or not item.get("mirroredFacts"):
             errors.append(f"package {item.get('id', '<unknown>')} lacks benchmark mapping or mirroredFacts")
+    published_package_ids = {post.get("packageId") for post in state.get("posts", []) if post.get("status") == "published"}
+    for item in state.get("packages", []):
+        if item.get("id") in published_package_ids and item.get("status") != "published":
+            errors.append(f"package {item.get('id', '<unknown>')} has a verified public post but status is not published")
     for post in state.get("posts", []):
         if post.get("status") == "published" and not re.fullmatch(r"https://x\.com/[^/]+/status/\d+", post.get("url", "")):
             errors.append(f"published post {post.get('id', '<unknown>')} lacks a valid X status URL")

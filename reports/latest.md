@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T08:57:00.490922+00:00`
+- 状态更新：`2026-09-09T09:02:54.598632+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**414**
 - 待选选题：**370**
@@ -1373,7 +1373,7 @@ September still has CPI, an FOMC meeting and Micron $MU earnings ahead.  When2Bu
 
 ### Howard Lutnick disclosed $250M+ income
 
-- 状态：`failed`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260905-howard-lutnick-disclosed-making-at-least-250m-in-80358/when2buy-image-model-v3.png`
 
 Howard Lutnick disclosed at least $250M in income last year, mostly tied to prior Cantor Fitzgerald ownership.  When2Buy — your U.S. stock partner.
@@ -1786,7 +1786,7 @@ Robinhood Chain $HOOD assets are closing in on a combined market cap of $2B.  Wh
 
 ### Robinhood Chain tops $8M in Friday fees
 
-- 状态：`expired`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-robinhood-chain-friday-fees/when2buy-image-model.png`
 
 $HOOD's Robinhood Chain generated more than $8M in fees Friday.  When2Buy — your U.S. stock partner.
@@ -1800,14 +1800,14 @@ Market radar: @StockMKTNewz reports: Nvidia $NVDA CEO Jensen Huang just said: �
 
 ### Amazon cargo jet overruns Miami runway
 
-- 状态：`expired`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-amazon-cargo-miami-runway-overrun/when2buy-image-model.png`
 
 An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.  When2Buy — your U.S. stock partner.
 
 ### Nvidia chips in Armenia-Azerbaijan talks
 
-- 状态：`expired`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-nvidia-chips-peace-talks/when2buy-image-model.png`
 
 Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.  When2Buy — your U.S. stock partner.
@@ -1821,7 +1821,7 @@ Market radar: @StockMKTNewz reports: This is my 2nd largest ETF holding ... What
 
 ### Apple gains more than 10x in a decade
 
-- 状态：`expired`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-apple-tenfold-decade-return/when2buy-image-model.png`
 
 $AAPL stock is up more than 10x over the last decade.  When2Buy — your U.S. stock partner.
@@ -1898,7 +1898,7 @@ Market radar: @WhaleInsider reports: JUST IN: Altcoins flip $BTC in open interes
 
 ### U.S. stock market closed Monday
 
-- 状态：`expired`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model.png`
 
 The U.S. stock market is closed Monday.  When2Buy — your U.S. stock partner.

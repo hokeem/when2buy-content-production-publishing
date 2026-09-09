@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T08:57:00.490922+00:00",
+  "updatedAt": "2026-09-09T09:02:54.598632+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -21403,7 +21403,7 @@
       "benchmarkPostId": "2095918547742380358",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2095918547742380358",
       "title": "Howard Lutnick disclosed $250M+ income",
-      "status": "failed",
+      "status": "published",
       "postText": "Howard Lutnick disclosed at least $250M in income last year, mostly tied to prior Cantor Fitzgerald ownership.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Howard Lutnick disclosed at least $250 million in income last year.",
@@ -22725,7 +22725,7 @@
       "benchmarkPostId": "2096718702703935494",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096718702703935494",
       "title": "Robinhood Chain tops $8M in Friday fees",
-      "status": "expired",
+      "status": "published",
       "postText": "$HOOD's Robinhood Chain generated more than $8M in fees Friday.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Robinhood Chain $HOOD generated more than $8 million in fees on Friday."
@@ -22741,10 +22741,7 @@
         "prompt": "Square image-model visual: dark Robinhood Chain transaction data center and fee dashboard, exact headline Robinhood Chain and $8M+ Friday Fees; premium black financial-news palette, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      },
-      "expiredAt": "2026-09-09T08:48:21Z",
-      "expiryReason": "source_ttl_exceeded",
-      "sourceExpiresAt": "2026-09-06T23:24:28Z"
+      }
     },
     {
       "id": "pkg-20260907-nvidia-nvda-ceo-jensen-huang-just-said-agi-has-a-41575",
@@ -22771,7 +22768,7 @@
       "benchmarkPostId": "2096694211605147791",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096694211605147791",
       "title": "Amazon cargo jet overruns Miami runway",
-      "status": "expired",
+      "status": "published",
       "postText": "An Amazon $AMZN cargo plane overshot a runway at Miami International Airport and hit nearby vehicles.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "An Amazon cargo plane overshot a runway at Miami International Airport.",
@@ -22788,17 +22785,14 @@
         "prompt": "Square image-model visual: serious Miami airport runway overrun involving an unbranded Amazon-style cargo jet and emergency vehicles, exact headline Amazon Cargo Jet / Miami Runway Overrun; black premium financial-news styling, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      },
-      "expiredAt": "2026-09-09T08:48:21Z",
-      "expiryReason": "source_ttl_exceeded",
-      "sourceExpiresAt": "2026-09-06T21:47:09Z"
+      }
     },
     {
       "id": "pkg-20260907-nvidia-chips-peace-talks",
       "benchmarkPostId": "2096691430164938804",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096691430164938804",
       "title": "Nvidia chips in Armenia-Azerbaijan talks",
-      "status": "expired",
+      "status": "published",
       "postText": "Nvidia AI-chip access was used to help secure a preliminary Armenia-Azerbaijan peace deal.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "American negotiators used the prospect of access to Nvidia AI chips in talks around a preliminary Armenia-Azerbaijan peace deal."
@@ -22814,10 +22808,7 @@
         "prompt": "Square image-model visual: advanced AI chip on a diplomacy table with restrained Armenia and Azerbaijan flags; exact headline Nvidia Chips / Peace Talks; black premium financial-news styling, white type, red accents, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      },
-      "expiredAt": "2026-09-09T08:48:21Z",
-      "expiryReason": "source_ttl_exceeded",
-      "sourceExpiresAt": "2026-09-06T21:36:06Z"
+      }
     },
     {
       "id": "pkg-20260907-this-is-my-2nd-largest-etf-holding-what-do-you-t-52021",
@@ -22844,7 +22835,7 @@
       "benchmarkPostId": "2096679920785125677",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096679920785125677",
       "title": "Apple gains more than 10x in a decade",
-      "status": "expired",
+      "status": "published",
       "postText": "$AAPL stock is up more than 10x over the last decade.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "Apple $AAPL stock is up by more than 10x over the last decade."
@@ -22860,10 +22851,7 @@
         "prompt": "Square image-model visual: sleek smartphone and upward decade-long chart, exact headline Apple $AAPL / 10X+ in a Decade; premium black financial-news styling, white type, controlled green performance accent, bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      },
-      "expiredAt": "2026-09-09T08:48:21Z",
-      "expiryReason": "source_ttl_exceeded",
-      "sourceExpiresAt": "2026-09-06T20:50:22Z"
+      }
     },
     {
       "id": "pkg-20260907-nvidia-decade-gain",
@@ -23093,7 +23081,7 @@
       "benchmarkPostId": "2096762652995248280",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2096762652995248280",
       "title": "U.S. stock market closed Monday",
-      "status": "expired",
+      "status": "published",
       "postText": "The U.S. stock market is closed Monday.\n\nWhen2Buy — your U.S. stock partner.",
       "mirroredFacts": [
         "The source post says the stock market is not open Monday."
@@ -23109,10 +23097,7 @@
         "prompt": "Square image-model visual: New York Stock Exchange exterior with a Monday market-closure headline; black premium financial-news palette, white type, controlled red accents, and a bottom-right logo-safe area.",
         "logoApplied": true,
         "qaStatus": "passed"
-      },
-      "expiredAt": "2026-09-09T08:48:21Z",
-      "expiryReason": "source_ttl_exceeded",
-      "sourceExpiresAt": "2026-09-07T02:19:07Z"
+      }
     },
     {
       "id": "pkg-20260907-japan-foreign-securities-754540",
