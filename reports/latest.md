@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T09:15:17.199217+00:00`
+- 状态更新：`2026-09-09T09:19:28.716013+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**414**
 - 待选选题：**370**
@@ -2843,6 +2843,9 @@ IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. 
 
 ## 最近运行
 
+- `2026-09-09T09:19:28.653935Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; scanned both required Apify feeds; archived benchmark media; reconciled immutable package statuses; rebuilt the hard-TTL queue; found no fresh queue items and correctly skipped production and publication; refreshed reporting. No fresh current-queue items within the 90-minute source TTL.
+- `2026-09-09T09:18:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T09:18:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-09T09:06:44Z` **full / succeeded** — Synchronized origin/main; validated preflight and state; collected hourly Postiz-first public metrics; scanned both required Apify feeds; archived benchmark media; reconciled immutable package statuses; rebuilt the hard-TTL queue; validated and sequentially published the first two current fresh queue packages with verified public X URLs; then refreshed reporting.
 - `2026-09-09T09:15:16Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T09:14:12.002633+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2860,6 +2863,3 @@ IQ launched on Robinhood Chain paired with Intel stock.  When2Buy — your U.S. 
 - `2026-09-09T08:47:31Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T08:41:53Z` **full / partial** — Apify scanned both benchmark feeds, media archival and freshness-first queue rebuild completed, and the first two current-queue packages passed visual review; publication was withheld by the active X delivery circuit breaker. The delivery circuit breaker remains active until 2026-09-09T08:52:10Z after a prior Postiz X delivery entered ERROR without a public URL; no retry or backfill was submitted.
 - `2026-09-09T08:43:39Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 136 unsent stale package(s).
-- `2026-09-09T08:43:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
-- `2026-09-09T08:32:25Z` **full / partial** — Apify collection, media archiving, newest-first queue rebuild, and three image-model packages completed; no Postiz submission was made while the active delivery circuit breaker remained in force. Postiz X delivery cmttstv950997qk0yayyh2dv0 entered ERROR at 2026-09-09T07:50:00Z without a public release URL; no retry submitted to prevent a duplicate.
-- `2026-09-09T08:31:33Z` **queue / succeeded** — Prepared 56 one-to-one production candidate(s).
