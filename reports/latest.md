@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T20:33:06.191269+00:00`
+- 状态更新：`2026-09-09T20:37:00.719801+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**470**
 - 待选选题：**418**
@@ -3140,6 +3140,9 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 
 ## 最近运行
 
+- `2026-09-09T20:37:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T20:36:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 0 new post(s).
+- `2026-09-09T20:36:12Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:33:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:32:24.260694+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T20:30:45Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3157,6 +3160,3 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 - `2026-09-09T19:56:27Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T19:56:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-09T19:45:55Z` **full / succeeded** — Apify collection, benchmark-media archive, package-status and publication reconciliation, hard-TTL queue rebuild, one fresh image-model package, and one verified X publication completed; later queue items expired without production.
-- `2026-09-09T19:52:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T19:51:25.086187+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T19:49:40.293440+00:00` **produce / succeeded** — Produced the newest still-fresh queue package with an inspected image-model visual and exact-logo composite; later queue items expired before production.
