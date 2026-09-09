@@ -1,61 +1,10 @@
 {
-  "generatedAt": "2026-09-09T15:59:51Z",
+  "generatedAt": "2026-09-09T16:14:23Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2097704978462671282",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260909-treasury-6b-long-term-buyback",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097704978462671282",
-      "originalText": "JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. https://t.co/lRz16If9ZE",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRyLjo6WoAAI3t3.jpg",
-        "https://pbs.twimg.com/media/HRyLjpbakAAgbsX.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRyLjo6WoAAI3t3.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097704978462671282-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRyLjpbakAAgbsX.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097704978462671282-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 69,
-        "replies": 29,
-        "reposts": 14,
-        "quotes": 2,
-        "views": 16881
-      },
-      "postedAt": "Wed Sep 09 15:13:34 +0000 2026",
-      "score": 20241,
-      "heatScore": 20241,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 46.3,
-        "expiresAt": "2026-09-09T16:43:34Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2097703654966886534",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260909-penpe-robinhood-chain-launch",
@@ -93,14 +42,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 51.5,
+        "ageMinutes": 66.1,
         "expiresAt": "2026-09-09T16:38:19Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "benchmarkPostId": "2097702636287881694",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260909-treasury-6b-long-debt-buyback",
@@ -130,14 +79,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 55.6,
+        "ageMinutes": 70.1,
         "expiresAt": "2026-09-09T16:34:16Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 3,
       "benchmarkPostId": "2097699385257685314",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -175,53 +124,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 68.5,
+        "ageMinutes": 83.0,
         "expiresAt": "2026-09-09T16:21:21Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2097695004827279430",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260909-burry-reduces-nvda-crwv-shorts",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097695004827279430",
-      "originalText": "Michael Burry just said he is covering some of his shorts and reducing the size of his short bets on Nvidia $NVDA and CoreWeave $CRWV https://t.co/F4CxghZTZK",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HRyBGDsbwAAfLu7.png"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HRyBGDsbwAAfLu7.png",
-          "path": "output/benchmark-media/StockMKTNewz/2097695004827279430-1.png",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 63,
-        "replies": 25,
-        "reposts": 5,
-        "quotes": 3,
-        "views": 11954
-      },
-      "postedAt": "Wed Sep 09 14:33:57 +0000 2026",
-      "score": 14644,
-      "heatScore": 14644,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 85.9,
-        "expiresAt": "2026-09-09T16:03:57Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
