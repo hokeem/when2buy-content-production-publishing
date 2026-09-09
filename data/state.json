@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T20:46:59.392027+00:00",
+  "updatedAt": "2026-09-09T20:58:37.587382+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -12977,6 +12977,28 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097790671922872783",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097790671922872783",
+      "postedAt": "Wed Sep 09 20:54:05 +0000 2026",
+      "text": "Will you be getting the new foldable iPhone?",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 10,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 6762
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T20:57:05Z",
+      "mediaArchive": [],
+      "duplicateOf": "2097753088132104409",
+      "duplicateReason": "Same Apple foldable iPhone reveal already covered by published package pkg-20260909-apple-iphone-duo-reveal; no new event or decisive fact."
     }
   ],
   "radar": [
@@ -20920,6 +20942,25 @@
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097790671922872783",
+      "rank": 1,
+      "title": "Will you be getting the new foldable iPhone?",
+      "benchmarkPostId": "2097790671922872783",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097790671922872783",
+      "score": 7262,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T20:57:09Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
       }
     }
   ],
@@ -169750,6 +169791,64 @@
       "completedAt": "2026-09-09T20:46:59Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260909T205607Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:56:07Z",
+      "completedAt": "2026-09-09T20:56:07Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T205706Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:57:06Z",
+      "completedAt": "2026-09-09T20:57:06Z",
+      "summary": "Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T205709Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:57:09Z",
+      "completedAt": "2026-09-09T20:57:09Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T205746Z-dedupe",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:57:46Z",
+      "completedAt": "2026-09-09T20:57:46Z",
+      "summary": "Excluded one fresh semantic duplicate of the already published iPhone Duo reveal.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T205749Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:57:49Z",
+      "completedAt": "2026-09-09T20:57:49Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T205837Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T20:55:51Z",
+      "completedAt": "2026-09-09T20:58:37Z",
+      "summary": "Completed Apify freshness scan, media archive, status reconciliation, TTL queue rebuild, semantic deduplication, and no-publish reporting workflow.",
+      "reason": "No unique fresh queue items remained after excluding a duplicate of the already published iPhone Duo reveal."
     }
   ],
   "deliveryCircuitBreaker": {

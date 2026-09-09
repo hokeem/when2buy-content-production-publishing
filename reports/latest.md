@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T20:46:59.392027+00:00`
+- 状态更新：`2026-09-09T20:58:37.587382+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**471**
-- 待选选题：**418**
+- 对标帖子快照：**472**
+- 待选选题：**419**
 - 待发布制作包：**0**
 - 已验证发布：**194**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 20:54:05 +0000 2026 | Will you be getting the new foldable iPhone? | [X](https://x.com/StockMKTNewz/status/2097790671922872783) |
 | @StockMKTNewz | Wed Sep 09 20:38:12 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/SLTGZ57oNd | [X](https://x.com/StockMKTNewz/status/2097786675023778262) |
 | @StockMKTNewz | Wed Sep 09 20:24:27 +0000 2026 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K  Yes ... being priced at $1,999 does count as the iPhone Duo being $2K | [X](https://x.com/StockMKTNewz/status/2097783213863194739) |
 | @WhaleInsider | Wed Sep 09 19:47:48 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pass the Clarity Act.  "Failing to do so would send a troubling signal to our allies and adversaries alike that America is unwilling to lead on the future of digital assets". https://t.co/hKkpK4fkj2 | [X](https://x.com/WhaleInsider/status/2097773989682909689) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 18:24:45 +0000 2026 | Describe your thoughts on Apple's new foldable iPhone Duo using JUST 1 word | [X](https://x.com/StockMKTNewz/status/2097753088132104409) |
 | @StockMKTNewz | Wed Sep 09 15:57:31 +0000 2026 | $META is the only stock out of the top 10 largest companies in the world that is moving higher today  🟢🔴🔴🔴🔴🔴🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2097716037126951139) |
 | @WhaleInsider | Wed Sep 09 15:13:34 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. https://t.co/lRz16If9ZE | [X](https://x.com/WhaleInsider/status/2097704978462671282) |
-| @StockMKTNewz | Wed Sep 09 15:25:03 +0000 2026 | Robinhood $HOOD CEO Vlad Tenev said that public companies can’t control the financial products built around their shares once they go public - CNBC https://t.co/TqEhhSnGau | [X](https://x.com/StockMKTNewz/status/2097707867981713833) |
 
 ## 选题推荐
 
@@ -153,6 +153,7 @@
 | 1 | Here is a first look at Apple’s new foldable iPhone Duo https://t.co/vLMMmP452S | StockMKTNewz | 9244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pas… | WhaleInsider | 16783 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K Yes ... being priced at $1,999 does coun… | StockMKTNewz | 7265 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Will you be getting the new foldable iPhone? | StockMKTNewz | 7262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3140,6 +3141,12 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 
 ## 最近运行
 
+- `2026-09-09T20:55:51Z` **full / succeeded** — Completed Apify freshness scan, media archive, status reconciliation, TTL queue rebuild, semantic deduplication, and no-publish reporting workflow. No unique fresh queue items remained after excluding a duplicate of the already published iPhone Duo reveal.
+- `2026-09-09T20:57:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T20:57:46Z` **radar / succeeded** — Excluded one fresh semantic duplicate of the already published iPhone Duo reveal.
+- `2026-09-09T20:57:09Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T20:57:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
+- `2026-09-09T20:56:07Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:46:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:46:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 1 new post(s).
 - `2026-09-09T20:45:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3154,9 +3161,3 @@ Apple's iPhone Duo starts at $1,999 in the U.S., making it the first iPhone to o
 - `2026-09-09T20:27:31Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:27:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 13 eligible originals and added 1 new post(s).
 - `2026-09-09T20:19:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:19:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
-- `2026-09-09T20:15:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:03:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T19:55:48Z` **full / partial** — Apify collection, benchmark-media archive, status reconciliation, hard-TTL queue rebuild, and one fresh image-model package completed; Postiz accepted the delivery task but no public X URL was available within 90 seconds, so no retry or backfill was attempted. Postiz task cmtuivo9o05zqlm0y4n62b90w remains unverified without a public release URL.
-- `2026-09-09T19:59:31Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T19:59:28.177037+00:00` **produce / succeeded** — Produced the first and only fresh queue package with an inspected image-model visual and exact-logo composite.
