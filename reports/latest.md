@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T02:49:28.418292+00:00`
+- 状态更新：`2026-09-09T03:06:50.782380+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**407**
 - 待选选题：**363**
@@ -2756,6 +2756,9 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 
 ## 最近运行
 
+- `2026-09-09T03:06:50Z` **full / partial** — Apify collected both required benchmark feeds, rebuilt the newest-first queue, and retained all ready packages. No new eligible benchmark posts required production. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
+- `2026-09-09T03:06:17Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
+- `2026-09-09T03:06:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
 - `2026-09-09T02:49:28Z` **full / partial** — Apify collected both required benchmark feeds, archived available media, rebuilt the newest-first queue, and refreshed eligible 72-hour metrics. The one-post publication throttle was deferred after the required Postiz delivery-status safety check failed. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.
 - `2026-09-09T02:49:00Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
 - `2026-09-09T02:48:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
@@ -2773,6 +2776,3 @@ Apple's $AAPL special event begins at 1 PM ET today.  When2Buy — your U.S. sto
 - `2026-09-09T01:46:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-09T01:29:17Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
 - `2026-09-09T01:29:00Z` **full / partial** — Apify collected both required benchmark feeds, archived media, rebuilt the queue newest-first, and produced one verified Apple package with an image-model visual and exact-logo compositing. Publication was not submitted because the existing delivery circuit breaker is active. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; active circuit breaker expires at 2026-09-09T01:50:05Z.
-- `2026-09-09T01:26:38Z` **queue / succeeded** — Prepared 75 one-to-one production candidate(s).
-- `2026-09-09T01:26:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-09T01:05:00Z` **full / partial** — Apify collected both required benchmark feeds, archived the new source media, rebuilt the production queue newest-first, and produced one complete image-model package with exact-logo compositing and content validation. Publication was withheld by the active Postiz delivery circuit breaker. Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010
