@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T22:57:57.394346+00:00`
+- 状态更新：`2026-09-09T23:13:23.916024+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**475**
-- 待选选题：**422**
+- 对标帖子快照：**476**
+- 待选选题：**423**
 - 待发布制作包：**0**
-- 已验证发布：**197**
+- 已验证发布：**198**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 23:00:17 +0000 2026 | The future of trading https://t.co/ERAAAlafWK | [X](https://x.com/StockMKTNewz/status/2097822431306027059) |
 | @StockMKTNewz | Wed Sep 09 22:18:43 +0000 2026 | 2026: the first foldable iPhone | [X](https://x.com/StockMKTNewz/status/2097811968245596582) |
 | @StockMKTNewz | Wed Sep 09 21:44:09 +0000 2026 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸 Air Force for the  "Joint Air-to-Surface Standoff Missile and Long Range Anti-Ship Missile Large Lot procurement." https://t.co/wnixi8e7mg | [X](https://x.com/StockMKTNewz/status/2097803271696011418) |
 | @StockMKTNewz | Wed Sep 09 21:02:21 +0000 2026 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomberg https://t.co/Wb153bsrEL | [X](https://x.com/StockMKTNewz/status/2097792751861440932) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 18:14:36 +0000 2026 | Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the phone  https://t.co/UgPsnie3AO | [X](https://x.com/StockMKTNewz/status/2097750534165852336) |
 | @StockMKTNewz | Wed Sep 09 18:16:24 +0000 2026 | Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 and will be available on October 23rd https://t.co/lTUqiqJjnd | [X](https://x.com/StockMKTNewz/status/2097750987905597571) |
 | @StockMKTNewz | Wed Sep 09 18:18:41 +0000 2026 | Here are the 4 new products Apple $AAPL announced today  - New iPhone 18 Pro and Pro Max - Updated Airpods - Updated Apple Watch - First foldable Phone the iPhone Duo https://t.co/qitxoMrAAv | [X](https://x.com/StockMKTNewz/status/2097751561380180420) |
-| @WhaleInsider | Wed Sep 09 18:19:12 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 billion this month. https://t.co/BJU6xEmh5R | [X](https://x.com/WhaleInsider/status/2097751693433680381) |
 
 ## 选题推荐
 
@@ -157,6 +157,7 @@
 | 1 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomb… | StockMKTNewz | 8148 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸… | StockMKTNewz | 4650 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 2026: the first foldable iPhone | StockMKTNewz | 9116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The future of trading https://t.co/ERAAAlafWK | StockMKTNewz | 9441 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2963,6 +2964,13 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 
 Apple just introduced iPhone Duo, its first foldable iPhone.
 
+### Foldable dual-screen trading
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-foldable-dual-screen-trading/when2buy-image-model.png`
+
+A foldable dual-screen setup puts video up top and a market chart below.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2995,8 +3003,8 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
+| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
-| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 42 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
@@ -3004,8 +3012,8 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 40 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
+| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
-| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:50:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097774892167156048) |
 | Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 33 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
@@ -3032,6 +3040,7 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
 | Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
+| Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
@@ -3043,11 +3052,11 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
 | Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097663884169728471) |
+| Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
 | Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 17 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
-| Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
@@ -3074,6 +3083,7 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Brent crude climbs above $100 a barrel | 2026-09-09T09:40:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097621274306789488) |
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
+| Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
 | Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
@@ -3082,7 +3092,6 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
-| Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -3108,6 +3117,7 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097593108846579977) |
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
+| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3115,8 +3125,8 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Regular NFL season starts | 2026-09-07T06:15:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845001351393501) |
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
+| RAMP in $60B valuation fundraising talks | 2026-09-09T05:57:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097565213319107067) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
-| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3135,7 +3145,6 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Data centers and state approvals | 2026-09-07T07:54:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869765671428557) |
 | Portfolio's biggest winner today | 2026-09-07T08:14:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874871292936488) |
 | Tether freezes 39.27M USDT across 10 Tron addresses | 2026-09-09T05:55:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564723030135241) |
-| RAMP in $60B valuation fundraising talks | 2026-09-09T05:57:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097565213319107067) |
 | Robinhood Chain tokenized stocks reach $160M | 2026-09-09T08:53:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097609478095110200) |
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
@@ -3164,10 +3173,17 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
-| Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097820023805141266) |
+| Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097825543597256803) |
 
 ## 最近运行
 
+- `2026-09-09T23:13:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T23:05:49Z` **full / succeeded** — Hourly public metrics, Apify collection from both benchmark accounts, media archive, package-status and publication reconciliation, hard-TTL queue rebuild, image-model production, and one verified X publication completed.
+- `2026-09-09T23:12:43.737616+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T23:11:08.904623+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
+- `2026-09-09T23:11:08Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T23:10:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
+- `2026-09-09T23:05:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T22:57:11Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-09T22:57:15Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T22:57:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
@@ -3181,10 +3197,3 @@ Apple just introduced iPhone Duo, its first foldable iPhone.
 - `2026-09-09T22:37:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-09T22:26:07Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, fresh-queue rebuild, source verification, and semantic duplicate review completed; no content was published. The sole fresh source repeated the already published iPhone Duo reveal without adding a new factual payload.
 - `2026-09-09T22:27:47Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T22:27:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
-- `2026-09-09T22:26:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T22:15:58Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and fresh-queue rebuild completed; no new fresh queue items were available, so no package was produced or published.
-- `2026-09-09T22:16:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T22:16:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-09T22:05:55Z` **full / succeeded** — Postiz-first 72-hour metrics, Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and fresh-queue rebuild completed; no new fresh queue items were available, so no package was produced or published.
-- `2026-09-09T22:08:51Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
