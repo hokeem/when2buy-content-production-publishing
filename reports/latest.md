@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T21:28:16.184689+00:00`
+- 状态更新：`2026-09-09T21:37:55.624135+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**473**
 - 待选选题：**420**
@@ -3150,6 +3150,10 @@ Apple's $AAPL foldable iPhone Duo costs $3,199 in its highest-end configuration.
 
 ## 最近运行
 
+- `2026-09-09T21:36:06Z` **full / succeeded** — Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published. No fresh queue items within the 90-minute source TTL.
+- `2026-09-09T21:37:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T21:37:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).
+- `2026-09-09T21:35:51Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T21:25:51Z` **full / succeeded** — Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published. No fresh queue items within the 90-minute source TTL.
 - `2026-09-09T21:27:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T21:27:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
@@ -3166,7 +3170,3 @@ Apple's $AAPL foldable iPhone Duo costs $3,199 in its highest-end configuration.
 - `2026-09-09T20:57:46Z` **radar / succeeded** — Excluded one fresh semantic duplicate of the already published iPhone Duo reveal.
 - `2026-09-09T20:57:09Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T20:57:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
-- `2026-09-09T20:56:07Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:46:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T20:46:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 1 new post(s).
-- `2026-09-09T20:45:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

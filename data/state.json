@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T21:28:16.184689+00:00",
+  "updatedAt": "2026-09-09T21:37:55.624135+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -175065,6 +175065,47 @@
       "status": "succeeded",
       "startedAt": "2026-09-09T21:25:51Z",
       "completedAt": "2026-09-09T21:28:00Z",
+      "summary": "Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published.",
+      "reason": "No fresh queue items within the 90-minute source TTL.",
+      "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260909T213551Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:35:51Z",
+      "completedAt": "2026-09-09T21:35:51Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T213705Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:37:05Z",
+      "completedAt": "2026-09-09T21:37:05Z",
+      "summary": "Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T213709Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:37:09Z",
+      "completedAt": "2026-09-09T21:37:09Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T213606Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T21:36:06Z",
+      "completedAt": "2026-09-09T21:38:00Z",
       "summary": "Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published.",
       "reason": "No fresh queue items within the 90-minute source TTL.",
       "selectedPackageIds": []
