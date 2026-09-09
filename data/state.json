@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T05:23:19.740332+00:00",
+  "updatedAt": "2026-09-09T05:26:32.825044+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -126075,12 +126075,23 @@
         "expiresAt": "2026-09-09T05:28:49Z",
         "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
       }
+    },
+    {
+      "id": "run-20260909T052632823273Z-recovery",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T05:26:32.823224+00:00",
+      "completedAt": "2026-09-09T05:26:32.823224+00:00",
+      "summary": "Cleared the stale HTTP 403/1010 circuit breaker after a healthy Postiz check and verified X publication.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
-    "active": true,
+    "active": false,
     "startedAt": "2026-09-09T04:28:49Z",
     "expiresAt": "2026-09-09T05:28:49Z",
-    "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed."
+    "deliveryReason": "Postiz 60-minute X delivery-status query returned HTTP 403: error code: 1010; no publication was submitted because the required duplicate-delivery safety check could not be completed.",
+    "clearedAt": "2026-09-09T05:26:32.823224+00:00",
+    "clearanceReason": "Postiz browser-compatible delivery check returned safe and a verified X publication succeeded after the client fix."
   }
 }
