@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T13:22:24.811480+00:00`
+- 状态更新：`2026-09-09T13:27:04.687386+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**431**
 - 待选选题：**387**
@@ -2976,6 +2976,9 @@ OpenAI used roughly 10,000 AI agents to produce a proposed solution to the Navie
 
 ## 最近运行
 
+- `2026-09-09T13:27:04.619764+00:00` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled immutable publication statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published. No newly eligible benchmark source remained in the current fresh queue within the 90-minute TTL.
+- `2026-09-09T13:26:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T13:26:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
 - `2026-09-09T13:22:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T13:16:00Z` **full / succeeded** — Collected both benchmark feeds, archived media, reconciled immutable publication statuses, rebuilt the hard-TTL queue, produced the sole fresh item, and published it through Postiz with a verified public X URL.
 - `2026-09-09T13:21:29.305780+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2993,6 +2996,3 @@ OpenAI used roughly 10,000 AI agents to produce a proposed solution to the Navie
 - `2026-09-09T12:56:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:45:58Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled verified package statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published. No eligible benchmark source remained within the 90-minute TTL after the fresh scan.
 - `2026-09-09T12:46:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:46:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
-- `2026-09-09T12:46:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 2 unsent stale package(s).
-- `2026-09-09T12:35:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).

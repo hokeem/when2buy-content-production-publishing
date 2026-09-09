@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T13:22:24.811480+00:00",
+  "updatedAt": "2026-09-09T13:27:04.687386+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -151708,6 +151708,38 @@
       "completedAt": "2026-09-09T13:22:24Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260909T132622Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:26:22Z",
+      "completedAt": "2026-09-09T13:26:22Z",
+      "summary": "Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T132626Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:26:26Z",
+      "completedAt": "2026-09-09T13:26:26Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T132704Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T13:27:04.619764+00:00",
+      "completedAt": "2026-09-09T13:27:04.619764+00:00",
+      "summary": "Collected both benchmark feeds through Apify, archived media, reconciled immutable publication statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published.",
+      "reason": "No newly eligible benchmark source remained in the current fresh queue within the 90-minute TTL.",
+      "selectedPackageIds": []
     }
   ],
   "deliveryCircuitBreaker": {
