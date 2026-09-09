@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T12:18:05.303739+00:00`
+- 状态更新：`2026-09-09T12:33:26.192025+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**429**
 - 待选选题：**385**
-- 待发布制作包：**4**
-- 已验证发布：**176**
+- 待发布制作包：**2**
+- 已验证发布：**178**
 
 ## 对标账号扫描
 
@@ -2746,14 +2746,14 @@ $LYFT is starting robotaxi rides in Nashville using Waymo vehicles from Google $
 
 ### Fidelity expects CLARITY Act delay
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260909-fidelity-clarity-act-september-15/when2buy-image-model.png`
 
 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15.
 
 ### Fed officials consider fewer policy meetings
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260909-fed-officials-fewer-policy-meetings/when2buy-image-model.png`
 
 At least one-third of Federal Reserve officials would consider meeting less often to set interest rates.
@@ -2953,9 +2953,19 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097660614202257592) |
+| Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097663884169728471) |
+| Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097664411699958174) |
 
 ## 最近运行
 
+- `2026-09-09T12:25:55Z` **full / succeeded** — Collected both benchmark feeds through Apify, excluded promotional content, archived media, reconciled package statuses, rebuilt the freshness queue, and published its first two eligible items through Postiz with verified public X URLs.
+- `2026-09-09T12:32:53Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:32:27.009868+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T12:30:26.237750+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-09T12:28:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:27:47Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:27:30Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 68 eligible originals after promotion filtering and added 0 new post(s).
+- `2026-09-09T12:25:59Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:18:05Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-09T12:05:54Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, refreshed hourly metrics, rebuilt the freshness queue, produced its first two items, and published both through Postiz with verified public X URLs.
 - `2026-09-09T12:17:23.857253+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -2968,11 +2978,3 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 - `2026-09-09T11:54:58.654778+00:00` **full / partial** — Apify collection, media archive, duplicate exclusion, freshness queue rebuild, validation, and reporting completed; publication was withheld before submission by the active 60-minute delivery circuit breaker. The Postiz delivery guard found a recent verified X release inside the 60-minute safety window; no API submission was attempted.
 - `2026-09-09T11:53:12Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-09T11:53:08.927340+00:00` **radar / succeeded** — Excluded one newly captured Brent-above-$100 duplicate from fresh production. The same event already has a verified public when2buy release.
-- `2026-09-09T11:47:29Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:47:06Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:47:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
-- `2026-09-09T11:46:04Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:35:59Z` **full / partial** — Synchronized origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable package statuses; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; content validation passed; publication was withheld by the active X delivery circuit breaker. Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; the active circuit breaker expires at 2026-09-09T12:02:00Z, so no new submission or backlog retry was made.
-- `2026-09-09T11:41:08Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:41:05.939189+00:00` **produce / succeeded** — Produced the first two newly rebuilt fresh queue items with image-model visuals and exact-logo compositing.
-- `2026-09-09T11:36:41Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).

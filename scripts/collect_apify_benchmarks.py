@@ -21,6 +21,12 @@ import state  # noqa: E402
 
 ACTOR_DEFAULT = "apidojo/twitter-profile-scraper"
 BENCHMARKS = ("WhaleInsider", "StockMKTNewz")
+PROMOTION_MARKERS = (
+    "free to enter", "deposit bonus", "deposit bonuses", "cash prize",
+    "send me a dm", "join my", "sign up", "use code", "giveaway",
+    "airdrop announcement", "our partners", "partner over at",
+    "you should be following", "new account we've been working on",
+)
 
 
 def utc_now():
@@ -114,7 +120,7 @@ def normalize(item):
     if bool(value(item, "isReply", "is_reply")) or bool(value(item, "isRetweet", "is_retweet", "retweeted")):
         return None
     text = str(value(item, "text", "fullText", "full_text") or "").strip()
-    if not text:
+    if not text or any(marker in text.lower() for marker in PROMOTION_MARKERS):
         return None
     url = str(value(item, "url", "tweetUrl", "tweet_url") or f"https://x.com/{handle}/status/{post_id}")
     if not url.startswith("https://x.com/") or "/status/" not in url:

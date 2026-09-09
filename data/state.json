@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T12:18:05.303739+00:00",
+  "updatedAt": "2026-09-09T12:33:26.192025+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -28033,7 +28033,7 @@
       "benchmarkPostId": "2097648681054830622",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097648681054830622",
       "title": "Fidelity expects CLARITY Act delay",
-      "status": "ready",
+      "status": "published",
       "postText": "Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15.",
       "mirroredFacts": [
         "Fidelity does not expect the crypto CLARITY Act to advance on September 15."
@@ -28050,14 +28050,16 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Square entity-led model output inspected; visible wording and date passed; exact repository logo composited once with clear space."
-      }
+      },
+      "postizPostId": "cmtu2sptu00r0qk0yhnglln4q",
+      "publishedAt": "2026-09-09T12:29:00.000Z"
     },
     {
       "id": "pkg-20260909-fed-officials-fewer-policy-meetings",
       "benchmarkPostId": "2097647592054075592",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097647592054075592",
       "title": "Fed officials consider fewer policy meetings",
-      "status": "ready",
+      "status": "published",
       "postText": "At least one-third of Federal Reserve officials would consider meeting less often to set interest rates.",
       "mirroredFacts": [
         "At least one-third of Federal Reserve officials said they would consider meeting less frequently to set interest rates.",
@@ -28075,7 +28077,9 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Square entity-led model output inspected; visible wording and date passed; exact repository logo composited once with clear space."
-      }
+      },
+      "postizPostId": "cmtu2vme900lplm0yjt502a9d",
+      "publishedAt": "2026-09-09T12:31:00.000Z"
     },
     {
       "id": "pkg-20260909-meta-muse-tenfold-usage",
@@ -31302,6 +31306,40 @@
         "status": "active",
         "windowStart": "2026-09-09T12:16:00.000Z",
         "windowEnd": "2026-09-12T12:16:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097663884169728471",
+      "packageId": "pkg-20260909-fidelity-clarity-act-september-15",
+      "title": "Fidelity expects CLARITY Act delay",
+      "status": "published",
+      "publishedAt": "2026-09-09T12:29:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097663884169728471",
+      "postizPostId": "cmtu2sptu00r0qk0yhnglln4q",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T12:29:00.000Z",
+        "windowEnd": "2026-09-12T12:29:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
+    },
+    {
+      "id": "2097664411699958174",
+      "packageId": "pkg-20260909-fed-officials-fewer-policy-meetings",
+      "title": "Fed officials consider fewer policy meetings",
+      "status": "published",
+      "publishedAt": "2026-09-09T12:31:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097664411699958174",
+      "postizPostId": "cmtu2vme900lplm0yjt502a9d",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-09T12:31:00.000Z",
+        "windowEnd": "2026-09-12T12:31:00Z",
         "lastAttemptAt": null,
         "lastAttemptSource": null,
         "lastAttemptResult": null
@@ -151178,6 +151216,82 @@
       "startedAt": "2026-09-09T12:18:05Z",
       "completedAt": "2026-09-09T12:18:05Z",
       "summary": "Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T122559Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:25:59Z",
+      "completedAt": "2026-09-09T12:25:59Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T122730Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:27:30Z",
+      "completedAt": "2026-09-09T12:27:30Z",
+      "summary": "Apify scanned both benchmark accounts; captured 68 eligible originals after promotion filtering and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T122747Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:27:47Z",
+      "completedAt": "2026-09-09T12:27:47Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T122841Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:28:41Z",
+      "completedAt": "2026-09-09T12:28:41Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T123026Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:30:26.237750+00:00",
+      "completedAt": "2026-09-09T12:30:26.237756+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T123227Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:32:27.009868+00:00",
+      "completedAt": "2026-09-09T12:32:27.009871+00:00",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T123253Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:32:53Z",
+      "completedAt": "2026-09-09T12:32:53Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T123400Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T12:25:55Z",
+      "completedAt": "2026-09-09T12:34:00Z",
+      "summary": "Collected both benchmark feeds through Apify, excluded promotional content, archived media, reconciled package statuses, rebuilt the freshness queue, and published its first two eligible items through Postiz with verified public X URLs.",
       "reason": ""
     }
   ],
