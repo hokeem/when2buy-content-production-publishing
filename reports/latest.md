@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T12:47:49.516690+00:00`
+- 状态更新：`2026-09-09T13:06:01.888632+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**429**
-- 待选选题：**385**
+- 对标帖子快照：**430**
+- 待选选题：**386**
 - 待发布制作包：**0**
-- 已验证发布：**178**
+- 已验证发布：**179**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Wed Sep 09 12:48:56 +0000 2026 | JUST IN: Hunter Biden's crypto memecoin $LAPTOP is down 90% from its peak. https://t.co/hA8Z53ts8S | [X](https://x.com/WhaleInsider/status/2097668576270315572) |
 | @StockMKTNewz | Wed Sep 09 11:50:40 +0000 2026 | There could be as much as $31.6 Trillion spent on data center CAPEX through 2050  Almost 50% of that spending is expected to come from the 🇺🇸  Next year alone estimates are that global data center AI CAPEX spend will be around $1T-$1.2 Trillion up from roughly $850B, which was spent this year  Of that spend next year, between 50%-70% is expected to be spent in the United States | [X](https://x.com/StockMKTNewz/status/2097653916750016898) |
 | @StockMKTNewz | Wed Sep 09 12:01:13 +0000 2026 | Meta Platforms $META Chief AI Officer Alexandr Wang posted:  "the early usage on muse has blown way past our projections. muse’s users today are using 10x more than our testing cohorts. enjoy!" | [X](https://x.com/StockMKTNewz/status/2097656569513013637) |
 | @StockMKTNewz | Wed Sep 09 11:39:39 +0000 2026 | Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4 | [X](https://x.com/StockMKTNewz/status/2097651141337100444) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 21:37:29 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/fOMjncdIw5 | [X](https://x.com/StockMKTNewz/status/2097439204133273723) |
 | @StockMKTNewz | Tue Sep 08 20:30:47 +0000 2026 | Nike $NKE stock hit new decade plus lows again today | [X](https://x.com/StockMKTNewz/status/2097422417794650113) |
 | @StockMKTNewz | Tue Sep 08 20:43:18 +0000 2026 | LIV GOLF FILES FOR CHAPTER 11 BANKRUPTCY | [X](https://x.com/StockMKTNewz/status/2097425569688297925) |
-| @StockMKTNewz | Tue Sep 08 20:16:37 +0000 2026 | $DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc | [X](https://x.com/StockMKTNewz/status/2097418855249252608) |
 
 ## 选题推荐
 
@@ -139,6 +139,7 @@
 | 1 | JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://… | WhaleInsider | 14761 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4 | StockMKTNewz | 7622 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Meta Platforms $META Chief AI Officer Alexandr Wang posted: "the early usage on muse has blo… | StockMKTNewz | 8249 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Hunter Biden's crypto memecoin $LAPTOP is down 90% from its peak. https://t.co/hA8Z… | WhaleInsider | 18738 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2772,6 +2773,13 @@ Meta’s Muse is seeing early usage far above projections, with users consuming 
 
 Global data-center capex could reach $31.6T through 2050, with the U.S. expected to capture 48%—$15.1T.
 
+### $LAPTOP memecoin falls 90% from peak
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260909-laptop-memecoin-down-90/when2buy-image-model.png`
+
+Hunter Biden’s $LAPTOP memecoin is down 90% from its peak.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -2955,9 +2963,18 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097663884169728471) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097664411699958174) |
+| $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097672115789128095) |
 
 ## 最近运行
 
+- `2026-09-09T13:06:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:55:55Z` **full / succeeded** — Collected both benchmark feeds, rebuilt the hard-TTL queue, produced and published the sole fresh item, verified its public X URL, and removed a redundant delayed Postiz queue item before release.
+- `2026-09-09T13:04:29.886223Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
+- `2026-09-09T12:59:59Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:59:56.635003+00:00` **produce / succeeded** — Produced the newest fresh queue item with an image-model visual and exact-logo composite.
+- `2026-09-09T12:57:02Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T12:56:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 49 eligible originals and added 1 new post(s).
+- `2026-09-09T12:56:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:45:58Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled verified package statuses, expired stale unsent packages, and rebuilt an empty freshness queue; no filler was created and nothing was published. No eligible benchmark source remained within the 90-minute TTL after the fresh scan.
 - `2026-09-09T12:46:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:46:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
@@ -2970,11 +2987,3 @@ Global data-center capex could reach $31.6T through 2050, with the U.S. expected
 - `2026-09-09T12:30:26.237750+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T12:28:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T12:27:47Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:27:30Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 68 eligible originals after promotion filtering and added 0 new post(s).
-- `2026-09-09T12:25:59Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:18:05Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-09T12:05:54Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, refreshed hourly metrics, rebuilt the freshness queue, produced its first two items, and published both through Postiz with verified public X URLs.
-- `2026-09-09T12:17:23.857253+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T12:15:17.594424+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T12:13:58Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T12:13:55.624915+00:00` **produce / succeeded** — Produced the first two items from the newly rebuilt fresh queue with image-model visuals and exact-logo compositing.
