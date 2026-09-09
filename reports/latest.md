@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T22:09:49.111725+00:00`
+- 状态更新：`2026-09-09T22:17:13.980909+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**474**
 - 待选选题：**421**
@@ -3159,6 +3159,9 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 
 ## 最近运行
 
+- `2026-09-09T22:15:58Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and fresh-queue rebuild completed; no new fresh queue items were available, so no package was produced or published.
+- `2026-09-09T22:16:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T22:16:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-09T22:05:55Z` **full / succeeded** — Postiz-first 72-hour metrics, Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and fresh-queue rebuild completed; no new fresh queue items were available, so no package was produced or published.
 - `2026-09-09T22:08:51Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T22:08:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -3176,6 +3179,3 @@ Lockheed Martin $LMT was awarded an $826 million U.S. Air Force contract modific
 - `2026-09-09T21:37:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 53 eligible originals and added 0 new post(s).
 - `2026-09-09T21:35:51Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T21:25:51Z` **full / succeeded** — Apify scanned both benchmark accounts, benchmark media and verified package statuses were reconciled, and the hard-TTL production queue was rebuilt with 0 fresh items; no content was produced or published. No fresh queue items within the 90-minute source TTL.
-- `2026-09-09T21:27:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T21:27:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
-- `2026-09-09T21:26:03Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
