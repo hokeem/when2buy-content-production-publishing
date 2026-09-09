@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:27:04Z",
+  "generatedAt": "2026-09-09T04:47:18Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "newest unpinned eligible first; engagement breaks timestamp ties",
   "items": [
@@ -527,13 +527,13 @@
       "score": 12410,
       "heatScore": 12410,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
@@ -571,13 +571,13 @@
       "score": 20902,
       "heatScore": 20902,
       "scoreBreakdown": {
-        "freshness": 4,
+        "freshness": 3,
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 16,
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
