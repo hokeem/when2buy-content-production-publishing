@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:43:06.049018+00:00",
+  "updatedAt": "2026-09-09T11:54:58.656893+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -11767,6 +11767,36 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097651141337100444",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097651141337100444",
+      "postedAt": "Wed Sep 09 11:39:39 +0000 2026",
+      "text": "Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HRxZVSTWkAAVXzj.jpg"
+      ],
+      "engagement": {
+        "likes": 22,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 6882
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-09T11:47:03Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HRxZVSTWkAAVXzj.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2097651141337100444-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "duplicateOf": "2097618775214276775",
+      "duplicateReason": "Same Brent-above-$100 event already covered by verified release 2097621274306789488."
     }
   ],
   "radar": [
@@ -19023,6 +19053,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097651141337100444",
+      "rank": 1,
+      "title": "Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4",
+      "benchmarkPostId": "2097651141337100444",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097651141337100444",
+      "score": 7622,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-09T11:47:06Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -27804,7 +27853,7 @@
       "benchmarkPostId": "2097631348395479169",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097631348395479169",
       "title": "HSBC lifts S&P 500 target to 8,100",
-      "status": "ready",
+      "status": "expired",
       "postText": "HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650, citing stronger corporate earnings and sustained AI-infrastructure spending.",
       "mirroredFacts": [
         "HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650.",
@@ -27835,7 +27884,10 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-09T11:53:09Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-09T11:51:00Z"
     },
     {
       "id": "pkg-20260909-meta-up-five-percent-premarket",
@@ -146404,6 +146456,77 @@
         "expiresAt": "2026-09-09T12:02:00Z",
         "deliveryReason": "Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; no retry or new submission was made."
       }
+    },
+    {
+      "id": "run-20260909T114604Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:46:04Z",
+      "completedAt": "2026-09-09T11:46:04Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T114703Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:47:03Z",
+      "completedAt": "2026-09-09T11:47:03Z",
+      "summary": "Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260909T114706Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:47:06Z",
+      "completedAt": "2026-09-09T11:47:06Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T114729Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:47:29Z",
+      "completedAt": "2026-09-09T11:47:29Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T115308Z-dedupe",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:53:08.927340+00:00",
+      "completedAt": "2026-09-09T11:53:08.927356+00:00",
+      "summary": "Excluded one newly captured Brent-above-$100 duplicate from fresh production.",
+      "reason": "The same event already has a verified public when2buy release."
+    },
+    {
+      "id": "run-20260909T115312Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-09T11:53:12Z",
+      "completedAt": "2026-09-09T11:53:12Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260909T115458Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-09T11:54:58.654778+00:00",
+      "completedAt": "2026-09-09T11:54:58.654798+00:00",
+      "summary": "Apify collection, media archive, duplicate exclusion, freshness queue rebuild, validation, and reporting completed; publication was withheld before submission by the active 60-minute delivery circuit breaker.",
+      "reason": "The Postiz delivery guard found a recent verified X release inside the 60-minute safety window; no API submission was attempted.",
+      "selectedPackageIds": [
+        "pkg-20260909-fidelity-clarity-act-september-15",
+        "pkg-20260909-fed-officials-fewer-policy-meetings"
+      ]
     }
   ],
   "deliveryCircuitBreaker": {

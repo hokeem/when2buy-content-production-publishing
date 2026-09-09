@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T11:43:06.049018+00:00`
+- 状态更新：`2026-09-09T11:54:58.656893+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**426**
-- 待选选题：**382**
-- 待发布制作包：**6**
+- 对标帖子快照：**427**
+- 待选选题：**383**
+- 待发布制作包：**5**
 - 已验证发布：**174**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 11:39:39 +0000 2026 | Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4 | [X](https://x.com/StockMKTNewz/status/2097651141337100444) |
 | @StockMKTNewz | Wed Sep 09 11:25:33 +0000 2026 | FED OFFICIALS SIGNAL OPENNESS TO WARSH PROPOSAL FOR FEWER POLICY MEETINGS  At least a third of all Federal Reserve officials have said they would consider meeting less frequently to set interest rates - Bloomberg https://t.co/4OTapOa3kx | [X](https://x.com/StockMKTNewz/status/2097647592054075592) |
 | @WhaleInsider | Wed Sep 09 11:29:52 +0000 2026 | JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://t.co/7DHeHDHxWU | [X](https://x.com/WhaleInsider/status/2097648681054830622) |
 | @StockMKTNewz | Wed Sep 09 10:58:19 +0000 2026 | Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Finland 🇫🇮 over the next 2 years https://t.co/vmm84uXpva | [X](https://x.com/StockMKTNewz/status/2097640742176846317) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Tue Sep 08 20:16:37 +0000 2026 | $DELL stock hit new 52 WEEK HIGHS today https://t.co/fYoc7EGfWc | [X](https://x.com/StockMKTNewz/status/2097418855249252608) |
 | @StockMKTNewz | Tue Sep 08 19:59:11 +0000 2026 | 🇺🇸 Transportation Secretary Sean Duffy blasted Ford $F for the automaker’s business ties to major players in China’s 🇨🇳 auto industry - Bloomberg https://t.co/kjVkItqUXI | [X](https://x.com/StockMKTNewz/status/2097414465733955650) |
 | @StockMKTNewz | Tue Sep 08 19:12:27 +0000 2026 | Meta Platforms $META just posted this:  “today we're rolling out Muse, our new personal ai assistant. Muse is always-on, wicked fast, can use a browser, connect to your apps, and is designed to be secure.” https://t.co/tZGkKgesKh | [X](https://x.com/StockMKTNewz/status/2097402706411278438) |
-| @WhaleInsider | Tue Sep 08 18:59:38 +0000 2026 | JUST IN: Tether froze approximately 39.27 million USDT across 10 addresses linked to the escrow platform Xinbi Guarantee on the Tron network. https://t.co/GpzLtXPcZ3 | [X](https://x.com/WhaleInsider/status/2097399478881837141) |
 
 ## 选题推荐
 
@@ -137,6 +137,7 @@
 | 1 | AMAZON $AMZN IS LOOKING TO RAISE AT LEAST £3 BILLION FROM ITS FIRST DEBT RAISE IN THE UNITED… | StockMKTNewz | 7964 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Meta Platforms $META stock is up by more than 5% in pre market trading 🟢🟢🟢🟢🟢 https://t.co/ZL… | StockMKTNewz | 5394 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Fidelity does not expect the crypto CLARITY Act to advance on Sept. 15. https://… | WhaleInsider | 14761 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Brent Crude oil prices have jumped back over $100 per barrel https://t.co/kWGjYP0Dp4 | StockMKTNewz | 7622 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2722,7 +2723,7 @@ $AMZN launched its first sterling bond sale, targeting at least £3 billion.  $U
 
 ### HSBC lifts S&P 500 target to 8,100
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260909-hsbc-sp500-8100/when2buy-image-model.png`
 
 HSBC raised its 2026 year-end S&P 500 target to 8,100 from 7,650, citing stronger corporate earnings and sustained AI-infrastructure spending.
@@ -2937,6 +2938,13 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 
 ## 最近运行
 
+- `2026-09-09T11:54:58.654778+00:00` **full / partial** — Apify collection, media archive, duplicate exclusion, freshness queue rebuild, validation, and reporting completed; publication was withheld before submission by the active 60-minute delivery circuit breaker. The Postiz delivery guard found a recent verified X release inside the 60-minute safety window; no API submission was attempted.
+- `2026-09-09T11:53:12Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-09T11:53:08.927340+00:00` **radar / succeeded** — Excluded one newly captured Brent-above-$100 duplicate from fresh production. The same event already has a verified public when2buy release.
+- `2026-09-09T11:47:29Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T11:47:06Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-09T11:47:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
+- `2026-09-09T11:46:04Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T11:35:59Z` **full / partial** — Synchronized origin/main; validated preflight and state; scanned only WhaleInsider and StockMKTNewz through Apify; captured two new eligible originals and archived three source images; reconciled immutable package statuses; rebuilt the hard-TTL queue; produced and visually inspected the first two newest fresh packages with image-model visuals and exact-logo composites; content validation passed; publication was withheld by the active X delivery circuit breaker. Postiz X delivery cmttzol6a01m0qk0y21ivx7ec remains ERROR without a public X URL; the active circuit breaker expires at 2026-09-09T12:02:00Z, so no new submission or backlog retry was made.
 - `2026-09-09T11:41:08Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T11:41:05.939189+00:00` **produce / succeeded** — Produced the first two newly rebuilt fresh queue items with image-model visuals and exact-logo compositing.
@@ -2950,10 +2958,3 @@ At least one-third of Federal Reserve officials would consider meeting less ofte
 - `2026-09-09T11:16:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 3 new post(s).
 - `2026-09-09T10:56:01Z` **full / partial** — Apify collection, media archive, newest-first queue rebuild, and two image-model packages completed; the first Postiz submission returned ERROR without a public X URL, so the serial batch stopped before the second submission. Postiz delivery cmttzol6a01m0qk0y21ivx7ec returned ERROR with no release URL; no package was recorded as published and no retry was attempted.
 - `2026-09-09T11:03:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T11:01:56Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:56:34Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:56:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 1 new post(s).
-- `2026-09-09T10:44:31Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T10:44:03.037007+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T10:41:58.069422+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T10:40:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).

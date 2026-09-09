@@ -101,7 +101,7 @@ def main():
         text = str(post.get("text") or "").lower()
         is_promotion = any(marker in text for marker in PROMOTION_MARKERS)
         freshness_check = freshness(post.get("postedAt"))
-        if post.get("isPinned") or is_promotion or duplicates_covered_event(post, packages, current.get("benchmarkPosts", [])) or (package and package.get("status") in {"published", "publishing", "expired", "failed"}) or not freshness_check["eligible"]:
+        if post.get("isPinned") or post.get("duplicateOf") or is_promotion or duplicates_covered_event(post, packages, current.get("benchmarkPosts", [])) or (package and package.get("status") in {"published", "publishing", "expired", "failed"}) or not freshness_check["eligible"]:
             continue
         editorial_total, breakdown = score(post)
         total = heat_score(post)
