@@ -118,7 +118,7 @@ def main():
     def sections_for(kind):
         sections = []
         for captured_day in sorted(grouped, reverse=True):
-            items = [post for post in grouped[captured_day] if (packages.get(post.get('id'), {}).get('status') == 'published') == (kind == 'completed')]
+            items = [post for post in grouped[captured_day] if packages.get(post.get('id'), {}).get('status') == ('published' if kind == 'completed' else 'ready')]
             if not items: continue
             body = ''.join(row(post, packages, releases, snapshots) for post in sorted(items, key=lambda post: str(post.get('capturedAt', '')), reverse=True))
             sections.append(f'<section class="day-card"><h2>{e(captured_day)}</h2><div class="table-wrap"><table><thead><tr><th>Crawl time</th><th>Original source</th><th>when2buy output</th><th>Post data · hourly</th></tr></thead><tbody>{body}</tbody></table></div></section>')

@@ -21,18 +21,18 @@ A report is always rebuilt from GitHub-backed state and then published to its fi
 
 ## Unified production schedule
 
-The only state-writing recurring task runs at `5,25,45 * * * *` in `Asia/Shanghai`.
+The only state-writing recurring task runs every 10 minutes at `5,15,25,35,45,55 * * * *` in `Asia/Shanghai`.
 
 Every run:
 
 1. Fetch/rebase `main`, load protected credentials without printing them, and validate state/preflight.
-2. On the third benchmark scan of each hour (the `:45` run), run `python3 scripts/collect_public_metrics.py`. The collector is idempotent within each UTC hour and only queries posts published during their first 72 hours; it never performs a full-history metrics crawl.
+2. On the first benchmark scan of each hour (the `:05` run), run `python3 scripts/collect_public_metrics.py`. The collector is idempotent within each UTC hour and only queries posts published during their first 72 hours; it never performs a full-history metrics crawl.
 3. Collect only `@WhaleInsider` and `@StockMKTNewz` through Apify.
 4. Exclude pinned posts, replies, repost-only entries, promotions, and duplicates; archive original media.
-5. Preserve newest-first queue order and process up to five unpublished items.
-6. Produce concise original copy and a complete entity-led generated square image; add the exact logo once and run QA.
-7. Run `python3 scripts/reconcile_postiz_publications.py --lookback-hours 72`, then validate and publish up to five queue-ordered packages with `scripts/postiz_publish_batch.py`. Publish strictly serially with at least 90 seconds between items; never run multiple publishers concurrently. Require `PUBLISHED` and a public X URL.
-8. Validate state/security and commit only canonical data, media, packages, and `reports/latest.md`.
+5. Run `python3 scripts/build_production_queue.py`, which enforces a hard 90-minute source TTL and marks stale unsent packages `expired`. Process at most two queue items, newest first. Never publish backlog, and never revive an `expired` package.
+6. Before spending time on each item, recalculate its source age and skip it if it is no longer fresh. Produce concise original copy and a complete entity-led generated square image; add the exact logo once and run QA.
+7. Run `python3 scripts/reconcile_postiz_publications.py --lookback-hours 72`, then validate and publish up to two queue-ordered fresh packages with `scripts/postiz_publish_batch.py`. Publish strictly serially with at least 90 seconds between items; never run multiple publishers concurrently. Require `PUBLISHED` and a public X URL.
+8. Immediately before each Postiz submission, rely on the publisher hard gate to recheck the 90-minute TTL. A stale item is skipped without an API submission and does not block a newer item. Validate state/security and commit only canonical data, media, packages, and `reports/latest.md`.
 9. Render and publish the content and performance surfaces explicitly:
    - `python3 scripts/publish_run_panel.py --target content`
    - `python3 scripts/publish_run_panel.py --target performance`

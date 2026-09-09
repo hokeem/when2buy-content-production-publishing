@@ -3,12 +3,13 @@
 import json
 import re
 import sys
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "skills" / "when2buy-content-publisher" / "scripts"))
 import state  # noqa: E402
+from freshness_policy import expire_stale_packages, freshness
 QUEUE_PATH = ROOT / "data" / "production-queue.json"
 KEYWORDS = ("earnings", "guidance", "revenue", "nvidia", "chip", "semiconductor", "ai", "robot", "ipo", "funding", "valuation", "fed", "cpi", "ppi", "jobs", "tariff", "stock", "shares", "nasdaq", "s&p", "tesla", "xpeng", "rocket lab")
 PROMOTION_MARKERS = (
@@ -90,6 +91,7 @@ def duplicates_covered_event(post, packages, benchmark_posts):
 
 def main():
     current = state.load_state()
+    expired_package_ids = expire_stale_packages(current)
     packages = {str(x.get("benchmarkPostId")): x for x in current.get("packages", [])}
     known_radar = {str(x.get("benchmarkPostId")) for x in current.get("radar", [])}
     candidates = []
@@ -98,7 +100,8 @@ def main():
         package = packages.get(str(post.get("id")))
         text = str(post.get("text") or "").lower()
         is_promotion = any(marker in text for marker in PROMOTION_MARKERS)
-        if post.get("isPinned") or is_promotion or duplicates_covered_event(post, packages, current.get("benchmarkPosts", [])) or (package and package.get("status") in {"published", "blocked", "failed"}) or (posted and now() - posted > timedelta(hours=72)):
+        freshness_check = freshness(post.get("postedAt"))
+        if post.get("isPinned") or is_promotion or duplicates_covered_event(post, packages, current.get("benchmarkPosts", [])) or (package and package.get("status") in {"published", "publishing", "expired", "failed"}) or not freshness_check["eligible"]:
             continue
         editorial_total, breakdown = score(post)
         total = heat_score(post)
@@ -124,11 +127,14 @@ def main():
          "engagement": post.get("engagement", {}), "postedAt": post.get("postedAt", ""),
          "score": total, "heatScore": total, "scoreBreakdown": breakdown,
          "editorialScore": editorial_total,
+         "freshness": freshness(post.get("postedAt")),
          "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."}
         for rank, (total, post, breakdown, package, editorial_total) in enumerate(candidates, start=1)
     ]}
+    queue["sourceTtlMinutes"] = freshness(iso())["ttlMinutes"]
+    queue["selectionPolicy"] = "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished"
     QUEUE_PATH.write_text(json.dumps(queue, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    current["runs"].append({"id": f"run-{now().strftime('%Y%m%dT%H%M%SZ')}-queue", "mode": "queue", "status": "succeeded", "startedAt": iso(), "completedAt": iso(), "summary": f"Prepared {len(queue['items'])} one-to-one production candidate(s).", "reason": ""})
+    current["runs"].append({"id": f"run-{now().strftime('%Y%m%dT%H%M%SZ')}-queue", "mode": "queue", "status": "succeeded", "startedAt": iso(), "completedAt": iso(), "summary": f"Prepared {len(queue['items'])} fresh candidate(s); expired {len(expired_package_ids)} unsent stale package(s).", "reason": ""})
     errors = state.validate(current)
     if errors: raise SystemExit("\n".join(errors))
     state.atomic_write(current)

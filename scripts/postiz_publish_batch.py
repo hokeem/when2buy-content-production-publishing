@@ -37,7 +37,11 @@ def main():
     for index, package_id in enumerate(package_ids):
         completed = run([sys.executable, 'scripts/postiz_publish.py', '--package-id', package_id, '--confirm'])
         if completed.returncode:
-            results.append({'packageId': package_id, 'status': 'failed', 'error': completed.stderr[-800:]})
+            error = completed.stderr[-800:]
+            if 'STALE_PACKAGE:' in error:
+                results.append({'packageId': package_id, 'status': 'expired', 'reason': error.strip()})
+                continue
+            results.append({'packageId': package_id, 'status': 'failed', 'error': error})
             break
         try:
             payload = json.loads(completed.stdout.strip().splitlines()[-1])
@@ -48,7 +52,7 @@ def main():
             time.sleep(max(30, args.interval_seconds))
 
     print(json.dumps({'requested': len(package_ids), 'results': results}, ensure_ascii=False))
-    if len(results) != len(package_ids) or any(item['status'] != 'published' for item in results):
+    if len(results) != len(package_ids) or any(item['status'] not in {'published', 'expired'} for item in results):
         raise SystemExit(1)
 
 

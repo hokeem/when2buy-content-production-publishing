@@ -42,7 +42,10 @@ def validate(state):
     for item in state.get("radar", []):
         if not item.get("benchmarkPostId") or not item.get("sourceAccount") or not item.get("sourcePostUrl"):
             errors.append(f"radar item {item.get('id', '<unknown>')} lacks benchmark mapping")
+    allowed_package_statuses = {"draft", "ready", "publishing", "published", "blocked", "failed", "expired"}
     for item in state.get("packages", []):
+        if item.get("status") not in allowed_package_statuses:
+            errors.append(f"package {item.get('id', '<unknown>')} has invalid status: {item.get('status')}")
         if not item.get("benchmarkPostId") or not item.get("benchmarkPostUrl") or not item.get("mirroredFacts"):
             errors.append(f"package {item.get('id', '<unknown>')} lacks benchmark mapping or mirroredFacts")
     for post in state.get("posts", []):

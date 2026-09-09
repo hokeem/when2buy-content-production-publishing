@@ -6,7 +6,7 @@ from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request,urlopen
 ROOT=Path(__file__).resolve().parents[1]; sys.path.insert(0,str(ROOT/'skills/when2buy-content-publisher/scripts')); import state
-sys.path.insert(0,str(ROOT/'scripts')); from validate_content_standard import validate_package; from postiz_api import DEFAULT_USER_AGENT
+sys.path.insert(0,str(ROOT/'scripts')); from validate_content_standard import validate_package; from postiz_api import DEFAULT_USER_AGENT; from freshness_policy import freshness
 BASE=os.getenv('POSTIZ_BASE_URL','https://api.postiz.com/public/v1').rstrip('/'); EXPECTED=os.getenv('WHEN2BUY_POSTIZ_HANDLE','_When2buy')
 def request(path, method='GET', data=None, content_type='application/json'):
  key=os.getenv('POSTIZ_API_KEY');
@@ -44,6 +44,14 @@ def main():
  if not a.confirm: raise SystemExit('Refusing to publish without --confirm.')
  s=state.load_state(); pkg=next((x for x in s['packages'] if x.get('id')==a.package_id),None)
  if not pkg or pkg.get('status')!='ready': raise SystemExit('Package must exist and be status=ready.')
+ source=next((x for x in s['benchmarkPosts'] if str(x.get('id'))==str(pkg.get('benchmarkPostId'))),None)
+ source_freshness=freshness(source.get('postedAt') if source else None)
+ if not source_freshness['eligible']:
+  stamp=datetime.now(timezone.utc).isoformat(timespec='seconds').replace('+00:00','Z')
+  pkg.update({'status':'expired','expiredAt':stamp,'expiryReason':source_freshness['reason'],'sourceExpiresAt':source_freshness['expiresAt']})
+  s['runs'].append({'id':f"run-{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}-expire",'mode':'publish','status':'succeeded','startedAt':stamp,'completedAt':stamp,'summary':f"Skipped stale package {pkg['id']}; no Postiz request was made.",'reason':source_freshness['reason']})
+  state.atomic_write(s)
+  raise SystemExit(f"STALE_PACKAGE: source age {source_freshness['ageMinutes']}m exceeds {source_freshness['ttlMinutes']}m TTL")
  standard_errors=validate_package(pkg)
  if standard_errors: raise SystemExit('Content standard failed before Postiz call: ' + '; '.join(standard_errors))
  image=ROOT/pkg.get('imagePath','')

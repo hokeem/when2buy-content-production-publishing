@@ -18,7 +18,7 @@
 
 ## Status vocabulary
 
-- Package: `draft`, `ready`, `publishing`, `published`, `blocked`, `failed`.
+- Package: `draft`, `ready`, `publishing`, `published`, `blocked`, `failed`, `expired`.
 - Run: `started`, `succeeded`, `partial`, `blocked`, `failed`.
 
 ## Stable IDs
@@ -35,3 +35,5 @@
 Use `skills/when2buy-content-publisher/scripts/state.py` for validation and append operations. Write atomically. Preserve unknown fields for forward compatibility. Never record secrets or copied third-party commentary.
 
 Every radar record requires `benchmarkPostId`, `sourceAccount`, and `sourcePostUrl`. Every generated package requires `benchmarkPostId`, `benchmarkPostUrl`, and a non-empty `mirroredFacts` array.
+
+An unsent package becomes `expired` once its benchmark post exceeds the configured source TTL (90 minutes by default). Expired packages are audit records only: they must never return to `ready`, enter the production queue, or be submitted to Postiz.
