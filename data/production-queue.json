@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:47:18Z",
+  "generatedAt": "2026-09-10T21:01:18Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -48,7 +48,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 5.2,
+        "ageMinutes": 19.2,
         "expiresAt": "2026-09-10T22:12:09Z",
         "ttlMinutes": 90
       },
@@ -58,8 +58,8 @@
       "rank": 2,
       "benchmarkPostId": "2098145162689937869",
       "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260910-sbf-supreme-court",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2098145162689937869",
       "originalText": "JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud conviction. https://t.co/E2bRRGK8L9",
       "originalMediaUrls": [
@@ -93,7 +93,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 24.6,
+        "ageMinutes": 38.6,
         "expiresAt": "2026-09-10T21:52:43Z",
         "ttlMinutes": 90
       },
@@ -138,7 +138,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 26.9,
+        "ageMinutes": 40.9,
         "expiresAt": "2026-09-10T21:50:25Z",
         "ttlMinutes": 90
       },
@@ -183,7 +183,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 36.0,
+        "ageMinutes": 50.0,
         "expiresAt": "2026-09-10T21:41:21Z",
         "ttlMinutes": 90
       },
@@ -220,7 +220,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 40.6,
+        "ageMinutes": 54.6,
         "expiresAt": "2026-09-10T21:36:45Z",
         "ttlMinutes": 90
       },
@@ -265,104 +265,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 68.2,
+        "ageMinutes": 82.2,
         "expiresAt": "2026-09-10T21:09:09Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2098131771296489490",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098131771296489490",
-      "originalText": "JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZAADpWsg",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4Pt7sXcAEtQXK.jpg",
-        "https://pbs.twimg.com/media/HR4Pt76XkA0FLfG.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4Pt7sXcAEtQXK.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098131771296489490-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4Pt76XkA0FLfG.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098131771296489490-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 19,
-        "replies": 6,
-        "reposts": 5,
-        "quotes": 2,
-        "views": 8518
-      },
-      "postedAt": "Thu Sep 10 19:29:30 +0000 2026",
-      "score": 9508,
-      "heatScore": 9508,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 77.8,
-        "expiresAt": "2026-09-10T20:59:30Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2098129395588173991",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098129395588173991",
-      "originalText": "Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4Njt3aIAAA8Rb.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4Njt3aIAAA8Rb.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098129395588173991-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 31,
-        "replies": 13,
-        "reposts": 5,
-        "quotes": 1,
-        "views": 9801
-      },
-      "postedAt": "Thu Sep 10 19:20:03 +0000 2026",
-      "score": 11251,
-      "heatScore": 11251,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 87.3,
-        "expiresAt": "2026-09-10T20:50:03Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

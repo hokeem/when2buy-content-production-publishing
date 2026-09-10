@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T20:49:23.556840+00:00`
+- 状态更新：`2026-09-10T21:04:42.948348+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**560**
 - 待选选题：**486**
-- 待发布制作包：**1**
+- 待发布制作包：**2**
 - 已验证发布：**217**
 
 ## 对标账号扫描
@@ -3335,6 +3335,13 @@ Oracle $ORCL now has a $664B AI backlog, up from $455.3B in the same quarter las
 
 Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The former FTX founder is seeking review after a federal appeals court upheld the conviction.
 
+### Bitwise shuts down its DOGE ETF less than a year after launch
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-bitwise-doge-etf-shutdown/when2buy-image-model.png`
+
+Bitwise is shutting down its DOGE ETF less than a year after launch.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3348,6 +3355,7 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 | JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 103 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 90 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
+| Oracle just reported earnings | 2026-09-10T20:19:00.000Z | 90 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098144463050944775) |
 | $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 85 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena | 2026-09-04T06:43:00.000Z | 84 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764647991488660) |
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
@@ -3365,6 +3373,7 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 | Google secures Loviisa nuclear power through 2050 | 2026-09-09T14:00:00.000Z | 49 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097687737923178946) |
 | Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
+| Oracle AI backlog reaches $664B | 2026-09-10T20:35:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098148490069344673) |
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
@@ -3376,7 +3385,7 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
-| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 38 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
+| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
@@ -3421,11 +3430,11 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
 | Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097663884169728471) |
+| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 17 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
-| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
@@ -3532,13 +3541,13 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
+| SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
-| SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -3551,15 +3560,17 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
+| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
+| Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
-| Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
-| Oracle just reported earnings | 2026-09-10T20:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098144463050944775) |
-| Oracle AI backlog reaches $664B | 2026-09-10T20:35:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098148490069344673) |
 
 ## 最近运行
 
+- `2026-09-10T21:04:42Z` **publish / succeeded** — The sole newest fresh DOGE ETF package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T21:13:00Z
+- `2026-09-10T21:03:27Z` **produce / succeeded** — Produced one newest fresh Bitwise DOGE ETF package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T21:01:18Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T21:01:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T20:49:23Z` **publish / succeeded** — Newest fresh SBF Supreme Court package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was not open. minimum_interval; retryAt=2026-09-10T20:50:31Z; no retry made
 - `2026-09-10T20:48:37Z` **produce / succeeded** — Produced one newest fresh SBF Supreme Court package with exact-logo compositing.
 - `2026-09-10T20:47:18Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3576,7 +3587,3 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 - `2026-09-10T20:19:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T20:19:22.718656+00:00` **produce / succeeded** — Produced one newest fresh Oracle earnings package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T20:16:51Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T20:16:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 3 new post(s).
-- `2026-09-10T20:15:26Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T20:04:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T20:03:35Z` **produce / succeeded** — Produced one newest fresh SpaceX Starship revenue-generating package with exact-logo compositing.
