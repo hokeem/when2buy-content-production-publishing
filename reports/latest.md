@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T23:03:31.029815+00:00`
+- 状态更新：`2026-09-10T23:18:26.335844+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**567**
 - 待选选题：**493**
-- 待发布制作包：**1**
-- 已验证发布：**220**
+- 待发布制作包：**0**
+- 已验证发布：**221**
 
 ## 对标账号扫描
 
@@ -3379,7 +3379,7 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 
 ### Ryan Cohen buys $20.4M of GameStop stock
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260910-gme-ryan-cohen-20m-purchase/when2buy-image-model.png`
 
 GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase covered 1,000,000 shares at a weighted average price of $20.3759.
@@ -3609,9 +3609,14 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
+| Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
 
 ## 最近运行
 
+- `2026-09-10T23:18:08Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T23:17:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
+- `2026-09-10T23:16:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T23:15:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:03:31Z` **publish / succeeded** — Safe deferred outcome: delivery policy minimum interval blocked submission; no Postiz task was accepted and no retry is authorized. minimum_interval
 - `2026-09-10T23:02:21Z` **produce / succeeded** — Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.
 - `2026-09-10T23:01:38Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3628,7 +3633,3 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 - `2026-09-10T22:30:38Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T22:19:17Z` **produce / succeeded** — Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.
 - `2026-09-10T22:17:16Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T22:16:35Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T22:16:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 1 new post(s).
-- `2026-09-10T22:15:32Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T22:02:51Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.

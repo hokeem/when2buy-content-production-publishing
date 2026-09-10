@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T23:03:31.029815+00:00",
+  "updatedAt": "2026-09-10T23:18:26.335844+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -36817,7 +36817,7 @@
       "benchmarkPostId": "2098169986414006375",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098169986414006375",
       "title": "Ryan Cohen buys $20.4M of GameStop stock",
-      "status": "ready",
+      "status": "published",
       "postText": "GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.\n\nThe purchase covered 1,000,000 shares at a weighted average price of $20.3759.",
       "mirroredFacts": [
         "Ryan Cohen is GameStop's CEO, President and Chairman.",
@@ -36848,7 +36848,12 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "postizPostId": "cmtw5dvy80lp3qk0y5u69fhqx",
+      "postizSubmissionAt": "2026-09-10T23:17:41Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T23:18:08Z",
+      "publishedAt": "2026-09-10T23:17:00.000Z"
     }
   ],
   "posts": [
@@ -40911,6 +40916,24 @@
         "windowStart": "2026-09-10T22:50:00Z",
         "windowEnd": "2026-09-13T22:50:00Z",
         "lastAttemptAt": "2026-09-10T23:02:58.776814Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098189298495570024",
+      "packageId": "pkg-20260910-gme-ryan-cohen-20m-purchase",
+      "title": "Ryan Cohen buys $20.4M of GameStop stock",
+      "text": "GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.\n\nThe purchase covered 1,000,000 shares at a weighted average price of $20.3759.",
+      "status": "published",
+      "publishedAt": "2026-09-10T23:17:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098189298495570024",
+      "postizPostId": "cmtw5dvy80lp3qk0y5u69fhqx",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T23:17:00Z",
+        "windowEnd": "2026-09-13T23:17:00Z",
+        "lastAttemptAt": "2026-09-10T23:18:26.049311Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -259838,6 +259861,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-10T23:02:58.776814Z"
       }
+    },
+    {
+      "id": "metric-2098189298495570024-20260910T231826Z",
+      "postId": "2098189298495570024",
+      "observedAt": "2026-09-10T23:18:26.049311Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtw5dvy80lp3qk0y5u69fhqx",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtw5dvy80lp3qk0y5u69fhqx",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T23:18:26.049311Z"
+      }
     }
   ],
   "experiments": [],
@@ -278160,6 +278225,46 @@
       "outcome": "deferred",
       "packageId": "pkg-20260910-gme-ryan-cohen-20m-purchase",
       "retryAt": "2026-09-10T23:05:28Z"
+    },
+    {
+      "id": "run-20260910T231535Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:15:35Z",
+      "completedAt": "2026-09-10T23:15:35Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T231649Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:16:49Z",
+      "completedAt": "2026-09-10T23:16:49Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T231708Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:17:08Z",
+      "completedAt": "2026-09-10T23:17:08Z",
+      "summary": "Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T231808Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:18:08Z",
+      "completedAt": "2026-09-10T23:18:08Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
