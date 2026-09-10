@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T12:05:52.432185+00:00`
+- 状态更新：`2026-09-10T12:17:20.305644+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**515**
 - 待选选题：**442**
-- 待发布制作包：**5**
+- 待发布制作包：**4**
 - 已验证发布：**202**
 
 ## 对标账号扫描
@@ -3055,7 +3055,7 @@ Prediction markets price a 72% chance of XRP trading above $1.50 in September.
 
 ### Nasdaq invests $100M in Payward at $21B valuation
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-nasdaq-payward-21b-valuation/when2buy-image-model.png`
 
 Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 billion valuation.
@@ -3298,6 +3298,9 @@ TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached a
 
 ## 最近运行
 
+- `2026-09-10T12:17:20Z` **full / succeeded** — Completed mandated Postiz reconciliation, both-feed Apify scan, media archive, package reconciliation, hard 90-minute queue rebuild, one-package QA, hourly metrics pass, and safe delivery throttle check. daily_limit; no submission accepted; ready package remains recoverable for the next eligible cycle.
+- `2026-09-10T12:16:08Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T12:15:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T12:05:52Z` **publish / succeeded** — The sole fresh TSMC package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T12:14:00Z
 - `2026-09-10T12:04:32Z` **produce / succeeded** — Produced the sole newest fresh TSMC package with an inspected image-model visual and exact-logo composite.
 - `2026-09-10T12:02:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
@@ -3315,6 +3318,3 @@ TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached a
 - `2026-09-10T11:31:39Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T11:30:34Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T11:19:35Z` **publish / succeeded** — The single newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable before source expiry. daily_limit; retryAt=2026-09-10T12:14:00Z
-- `2026-09-10T11:18:47Z` **produce / succeeded** — Produced one newest fresh square entity-led package with exact-logo compositing.
-- `2026-09-10T11:16:36Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T11:16:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).

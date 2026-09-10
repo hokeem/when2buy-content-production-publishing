@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T12:05:52.432185+00:00",
+  "updatedAt": "2026-09-10T12:17:20.305644+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -32836,7 +32836,7 @@
       "benchmarkPostId": "2097999228006023573",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097999228006023573",
       "title": "Nasdaq invests $100M in Payward at $21B valuation",
-      "status": "ready",
+      "status": "expired",
       "postText": "Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 billion valuation.",
       "mirroredFacts": [
         "Nasdaq is investing $100 million in Payward.",
@@ -32867,7 +32867,9 @@
             "exact repository logo composited once"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T12:16:04Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260910-single-letter-stock-tickers",
@@ -237481,6 +237483,39 @@
       "completedAt": "2026-09-10T12:05:52Z",
       "summary": "The sole fresh TSMC package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle.",
       "reason": "daily_limit; retryAt=2026-09-10T12:14:00Z",
+      "packageId": "pkg-20260910-tsmc-august-sales",
+      "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T121558Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:15:58Z",
+      "completedAt": "2026-09-10T12:15:58Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T121608Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:16:08Z",
+      "completedAt": "2026-09-10T12:16:08Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T121720Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:17:20Z",
+      "completedAt": "2026-09-10T12:17:20Z",
+      "summary": "Completed mandated Postiz reconciliation, both-feed Apify scan, media archive, package reconciliation, hard 90-minute queue rebuild, one-package QA, hourly metrics pass, and safe delivery throttle check.",
+      "reason": "daily_limit; no submission accepted; ready package remains recoverable for the next eligible cycle.",
       "packageId": "pkg-20260910-tsmc-august-sales",
       "outcome": "deferred"
     }
