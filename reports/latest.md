@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T20:20:23.572626+00:00`
+- 状态更新：`2026-09-10T20:36:17.883205+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**556**
-- 待选选题：**482**
-- 待发布制作包：**1**
-- 已验证发布：**216**
+- 对标帖子快照：**559**
+- 待选选题：**485**
+- 待发布制作包：**0**
+- 已验证发布：**217**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 20:20:25 +0000 2026 | JUST IN: $NINJACAT holders on Robinhood Chain are now automatically eligible for MSFT stock rewards through a fully autonomous process, with a multi-chain integrated bridge and swap feature also coming soon. https://t.co/oqMoRSwq4i | [X](https://x.com/WhaleInsider/status/2098144587617308944) |
+| @WhaleInsider | Thu Sep 10 20:22:43 +0000 2026 | JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud conviction. https://t.co/E2bRRGK8L9 | [X](https://x.com/WhaleInsider/status/2098145162689937869) |
+| @StockMKTNewz | Thu Sep 10 20:31:04 +0000 2026 | Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last year https://t.co/TxbuH77HCg | [X](https://x.com/StockMKTNewz/status/2098147267538559075) |
 | @StockMKTNewz | Thu Sep 10 20:06:45 +0000 2026 | ADOBE $ADBE JUST REPORTED EARNINGS | [X](https://x.com/StockMKTNewz/status/2098141145029104029) |
 | @StockMKTNewz | Thu Sep 10 20:11:21 +0000 2026 | ROBINHOOD $HOOD JUST REPORTED ITS AUGUST 2026 MONTHLY METRICS  - Event Contracts Traded: 4.7B (+15x YoY) - Funded Customers: 28.6M (+1.90M YoY) - Total Platform Assets: $384B (+26% YoY) - et Deposits: $4.0B (24% LTM growth) - Select Interest Earning Assets: $72.3B (+19% YoY) - Equity Notional Volumes: $335B (+68% YoY) - Options Contracts Traded: 293M (+50% YoY) - Crypto Notional Volumes: $17.5B (+38% YoY) | [X](https://x.com/StockMKTNewz/status/2098142302745055277) |
 | @StockMKTNewz | Thu Sep 10 20:12:44 +0000 2026 | ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt | [X](https://x.com/StockMKTNewz/status/2098142649915990353) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 15:31:56 +0000 2026 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the $BLK shares he owns https://t.co/5RHz0Zbk0v | [X](https://x.com/StockMKTNewz/status/2098071985452441657) |
 | @StockMKTNewz | Thu Sep 10 15:39:55 +0000 2026 | Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform Listen Labs for ~$2 Billion | [X](https://x.com/StockMKTNewz/status/2098073996868648986) |
 | @StockMKTNewz | Thu Sep 10 15:21:02 +0000 2026 | OpenAI said today that it will provide 🇺🇸 Government agencies with free access to its ChatGPT licenses and 50% discounts on usage costs https://t.co/OvNGtNCHlV | [X](https://x.com/StockMKTNewz/status/2098069243799515422) |
-| @WhaleInsider | Thu Sep 10 15:04:12 +0000 2026 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all of the concerns over the crypto CLARITY Act.  "I'm feelin pretty good about it." https://t.co/DhpAySuQBN | [X](https://x.com/WhaleInsider/status/2098065005400723747) |
-| @StockMKTNewz | Thu Sep 10 15:06:37 +0000 2026 | The Trump administration said it would issue $500 payments to nearly 1 million Americans, citing what it called “overcharges” of people who purchased health insurance through federal Affordable Care Act exchanges.  The checks are expected to be sent in October - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098065613763543262) |
-| @WhaleInsider | Thu Sep 10 14:35:27 +0000 2026 | JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9ITFfI5y | [X](https://x.com/WhaleInsider/status/2098057773099430149) |
 
 ## 选题推荐
 
@@ -198,6 +198,7 @@
 | 1 | The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/… | StockMKTNewz | 4940 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING | StockMKTNewz | 16418 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt | StockMKTNewz | 9418 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last y… | StockMKTNewz | 20 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -265,6 +266,7 @@
 | 2 | JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZ… | WhaleInsider | 9508 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Lululemon $LULU stock hit new 52 WEEK LOWS again today https://t.co/17hWbaNrBV | StockMKTNewz | 16949 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | ROBINHOOD $HOOD JUST REPORTED ITS AUGUST 2026 MONTHLY METRICS - Event Contracts Traded: 4.7B… | StockMKTNewz | 9651 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud convictio… | WhaleInsider | 13948 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -294,6 +296,7 @@
 | 3 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first … | WhaleInsider | 16803 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw | StockMKTNewz | 11251 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | ADOBE $ADBE JUST REPORTED EARNINGS | StockMKTNewz | 17782 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: $NINJACAT holders on Robinhood Chain are now automatically eligible for MSFT stock … | WhaleInsider | 15603 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3284,7 +3287,7 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 
 ### $ROBLOXIANS gains traction on Roblox-themed posts
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-robloxians-traction/when2buy-image-model.png`
 
 The official PNUT and Gigachad X accounts both posted Roblox-themed tweets.  $ROBLOXIANS is gaining traction.
@@ -3316,6 +3319,13 @@ SpaceX’s next Starship flight will be revenue-generating.
 - 配图：`deliverables/pkg-20260910-oracle-earnings/when2buy-image-model.png`
 
 $ORCL just reported earnings.
+
+### Oracle AI backlog reaches $664B
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-oracle-ai-backlog/when2buy-image-model.png`
+
+Oracle $ORCL now has a $664B AI backlog, up from $455.3B in the same quarter last year.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3538,9 +3548,18 @@ $ORCL just reported earnings.
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Oracle just reported earnings | 2026-09-10T20:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098144463050944775) |
+| Oracle AI backlog reaches $664B | 2026-09-10T20:35:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098148490069344673) |
 
 ## 最近运行
 
+- `2026-09-10T20:35:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T20:35:17.456014+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
+- `2026-09-10T20:35:01.452113+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
+- `2026-09-10T20:34:41.574788+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
+- `2026-09-10T20:32:45Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T20:32:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 4 eligible originals and added 0 new post(s).
+- `2026-09-10T20:31:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
+- `2026-09-10T20:31:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 3 new post(s).
 - `2026-09-10T20:19:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T20:19:22.718656+00:00` **produce / succeeded** — Produced one newest fresh Oracle earnings package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T20:16:51Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3553,11 +3572,3 @@ $ORCL just reported earnings.
 - `2026-09-10T20:00:34Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T19:48:23Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T19:47:41.498812+00:00` **produce / succeeded** — Produced one newest fresh Vanguard ETF package with exact-logo compositing.
-- `2026-09-10T19:45:35Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T19:32:32Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T19:31:36Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T19:31:32Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
-- `2026-09-10T19:30:41Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T19:20:00Z` **publish / succeeded** — Newest Nu USDC package was safely deferred before Postiz acceptance by the rolling 24-hour account limit. daily_limit
-- `2026-09-10T19:18:52Z` **produce / succeeded** — Produced the single newest fresh Nu USDC package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T19:16:20Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).

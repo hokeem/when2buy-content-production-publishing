@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T20:20:23.572626+00:00",
+  "updatedAt": "2026-09-10T20:36:17.883205+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15327,6 +15327,90 @@
       "isPinned": false,
       "capturedAt": "2026-09-10T20:16:46Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098147267538559075",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098147267538559075",
+      "postedAt": "Thu Sep 10 20:31:04 +0000 2026",
+      "text": "Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last year https://t.co/TxbuH77HCg",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4dsSdXEAMp81-.jpg"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T20:31:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4dsSdXEAMp81-.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098147267538559075-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098145162689937869",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098145162689937869",
+      "postedAt": "Thu Sep 10 20:22:43 +0000 2026",
+      "text": "JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud conviction. https://t.co/E2bRRGK8L9",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4b5syXsAQ49cZ.jpg"
+      ],
+      "engagement": {
+        "likes": 25,
+        "replies": 14,
+        "reposts": 8,
+        "quotes": 0,
+        "views": 12488
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T20:31:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4b5syXsAQ49cZ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098145162689937869-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098144587617308944",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098144587617308944",
+      "postedAt": "Thu Sep 10 20:20:25 +0000 2026",
+      "text": "JUST IN: $NINJACAT holders on Robinhood Chain are now automatically eligible for MSFT stock rewards through a fully autonomous process, with a multi-chain integrated bridge and swap feature also coming soon. https://t.co/oqMoRSwq4i",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4bYPuakAAfOrt.jpg"
+      ],
+      "engagement": {
+        "likes": 33,
+        "replies": 22,
+        "reposts": 19,
+        "quotes": 5,
+        "views": 12813
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T20:31:23Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4bYPuakAAfOrt.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098144587617308944-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -24486,6 +24570,63 @@
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2098147267538559075",
+      "rank": 1,
+      "title": "Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last y…",
+      "benchmarkPostId": "2098147267538559075",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098147267538559075",
+      "score": 20,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T20:32:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098145162689937869",
+      "rank": 2,
+      "title": "JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud convictio…",
+      "benchmarkPostId": "2098145162689937869",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098145162689937869",
+      "score": 13948,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T20:32:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098144587617308944",
+      "rank": 3,
+      "title": "JUST IN: $NINJACAT holders on Robinhood Chain are now automatically eligible for MSFT stock …",
+      "benchmarkPostId": "2098144587617308944",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098144587617308944",
+      "score": 15603,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T20:32:45Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
       }
     }
   ],
@@ -35806,7 +35947,7 @@
       "benchmarkPostId": "2098122034635038838",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098122034635038838",
       "title": "$ROBLOXIANS gains traction on Roblox-themed posts",
-      "status": "ready",
+      "status": "expired",
       "postText": "The official PNUT and Gigachad X accounts both posted Roblox-themed tweets.\n\n$ROBLOXIANS is gaining traction.",
       "mirroredFacts": [
         "The official PNUT X account posted a Roblox-themed tweet.",
@@ -35838,7 +35979,10 @@
             "exact repository logo composited once"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T20:32:41Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-10T20:20:48Z"
     },
     {
       "id": "pkg-20260910-nu-usdc-multicurrency",
@@ -35996,6 +36140,46 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T20:19:58Z",
       "publishedAt": "2026-09-10T20:19:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-oracle-ai-backlog",
+      "benchmarkPostId": "2098147267538559075",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098147267538559075",
+      "title": "Oracle AI backlog reaches $664B",
+      "status": "published",
+      "postText": "Oracle $ORCL now has a $664B AI backlog, up from $455.3B in the same quarter last year.",
+      "mirroredFacts": [
+        "Oracle's AI backlog is $664 billion.",
+        "The comparable figure in the same quarter last year was $455.3 billion."
+      ],
+      "verificationSources": [
+        "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx",
+        "https://www.oracle.com/news/announcement/q4fy26-earnings-release-2026-06-10/",
+        "https://x.com/StockMKTNewz/status/2098147267538559075"
+      ],
+      "imagePath": "deliverables/pkg-20260910-oracle-ai-backlog/when2buy-image-model.png",
+      "createdAt": "2026-09-10T20:35:17.455859+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Photorealistic square Oracle AI cloud data-center visual with near-black servers and restrained red accents; no generated text or branding; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "factual headline and supporting number proofread",
+            "no source attribution or CTA",
+            "exact repository logo composited once",
+            "logo clear space"
+          ]
+        }
+      },
+      "postizPostId": "cmtvzlc8o0cv6lm0y4hm9zg4u",
+      "postizSubmissionAt": "2026-09-10T20:35:31Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T20:35:58Z",
+      "publishedAt": "2026-09-10T20:35:00.000Z"
     }
   ],
   "posts": [
@@ -39986,6 +40170,24 @@
         "windowStart": "2026-09-10T20:19:00Z",
         "windowEnd": "2026-09-13T20:19:00Z",
         "lastAttemptAt": "2026-09-10T20:20:13.786083Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098148490069344673",
+      "packageId": "pkg-20260910-oracle-ai-backlog",
+      "title": "Oracle AI backlog reaches $664B",
+      "text": "Oracle $ORCL now has a $664B AI backlog, up from $455.3B in the same quarter last year.",
+      "status": "published",
+      "publishedAt": "2026-09-10T20:35:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098148490069344673",
+      "postizPostId": "cmtvzlc8o0cv6lm0y4hm9zg4u",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T20:35:00Z",
+        "windowEnd": "2026-09-13T20:35:00Z",
+        "lastAttemptAt": "2026-09-10T20:36:09.745350Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -248707,6 +248909,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-10T20:20:13.786083Z"
       }
+    },
+    {
+      "id": "metric-2098148490069344673-20260910T203609Z",
+      "postId": "2098148490069344673",
+      "observedAt": "2026-09-10T20:36:09.745350Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvzlc8o0cv6lm0y4hm9zg4u",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvzlc8o0cv6lm0y4hm9zg4u",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T20:36:09.745350Z"
+      }
     }
   ],
   "experiments": [],
@@ -266452,6 +266696,90 @@
       "status": "succeeded",
       "startedAt": "2026-09-10T20:19:58Z",
       "completedAt": "2026-09-10T20:19:58Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T203123Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:31:23Z",
+      "completedAt": "2026-09-10T20:31:23Z",
+      "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T203149Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:31:49Z",
+      "completedAt": "2026-09-10T20:31:49Z",
+      "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T203235Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:32:35Z",
+      "completedAt": "2026-09-10T20:32:35Z",
+      "summary": "Apify scanned both benchmark accounts; captured 4 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T203245Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:32:45Z",
+      "completedAt": "2026-09-10T20:32:45Z",
+      "summary": "Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T203441Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:34:41.574788+00:00",
+      "completedAt": "2026-09-10T20:34:41.574800+00:00",
+      "summary": "Produced one newest fresh Oracle backlog package with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T203501Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:35:01.452113+00:00",
+      "completedAt": "2026-09-10T20:35:01.452117+00:00",
+      "summary": "Produced one newest fresh Oracle backlog package with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T203517Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:35:17.456014+00:00",
+      "completedAt": "2026-09-10T20:35:17.456019+00:00",
+      "summary": "Produced one newest fresh Oracle backlog package with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T203558Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:35:58Z",
+      "completedAt": "2026-09-10T20:35:58Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

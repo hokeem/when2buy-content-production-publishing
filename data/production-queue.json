@@ -1,55 +1,145 @@
 {
-  "generatedAt": "2026-09-10T20:16:51Z",
+  "generatedAt": "2026-09-10T20:32:45Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098142649915990353",
+      "benchmarkPostId": "2098147267538559075",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098142649915990353",
-      "originalText": "ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098147267538559075",
+      "originalText": "Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last year https://t.co/TxbuH77HCg",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4Znb9a4AA8PbS.jpg"
+        "https://pbs.twimg.com/media/HR4dsSdXEAMp81-.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4Znb9a4AA8PbS.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098142649915990353-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HR4dsSdXEAMp81-.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098147267538559075-1.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 23,
-        "replies": 2,
-        "reposts": 1,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
         "quotes": 0,
-        "views": 8828
+        "views": 0
       },
-      "postedAt": "Thu Sep 10 20:12:44 +0000 2026",
-      "score": 9418,
-      "heatScore": 9418,
+      "postedAt": "Thu Sep 10 20:31:04 +0000 2026",
+      "score": 20,
+      "heatScore": 20,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 3
+        "visualPotential": 5,
+        "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 20,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 4.1,
-        "expiresAt": "2026-09-10T21:42:44Z",
+        "ageMinutes": 1.7,
+        "expiresAt": "2026-09-10T22:01:04Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
       "rank": 2,
+      "benchmarkPostId": "2098145162689937869",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098145162689937869",
+      "originalText": "JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud conviction. https://t.co/E2bRRGK8L9",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR4b5syXsAQ49cZ.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4b5syXsAQ49cZ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098145162689937869-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 25,
+        "replies": 14,
+        "reposts": 8,
+        "quotes": 0,
+        "views": 12488
+      },
+      "postedAt": "Thu Sep 10 20:22:43 +0000 2026",
+      "score": 13948,
+      "heatScore": 13948,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 10.0,
+        "expiresAt": "2026-09-10T21:52:43Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098144587617308944",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098144587617308944",
+      "originalText": "JUST IN: $NINJACAT holders on Robinhood Chain are now automatically eligible for MSFT stock rewards through a fully autonomous process, with a multi-chain integrated bridge and swap feature also coming soon. https://t.co/oqMoRSwq4i",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR4bYPuakAAfOrt.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4bYPuakAAfOrt.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098144587617308944-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 33,
+        "replies": 22,
+        "reposts": 19,
+        "quotes": 5,
+        "views": 12813
+      },
+      "postedAt": "Thu Sep 10 20:20:25 +0000 2026",
+      "score": 15603,
+      "heatScore": 15603,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 12.3,
+        "expiresAt": "2026-09-10T21:50:25Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
       "benchmarkPostId": "2098142302745055277",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -87,14 +177,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 5.5,
+        "ageMinutes": 21.4,
         "expiresAt": "2026-09-10T21:41:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098141145029104029",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -124,14 +214,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 10.1,
+        "ageMinutes": 26.0,
         "expiresAt": "2026-09-10T21:36:45Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2098134199727251462",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -169,14 +259,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 37.7,
+        "ageMinutes": 53.6,
         "expiresAt": "2026-09-10T21:09:09Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 7,
       "benchmarkPostId": "2098131771296489490",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -220,14 +310,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 47.4,
+        "ageMinutes": 63.3,
         "expiresAt": "2026-09-10T20:59:30Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 8,
       "benchmarkPostId": "2098129395588173991",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -265,14 +355,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 56.8,
+        "ageMinutes": 72.7,
         "expiresAt": "2026-09-10T20:50:03Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 7,
+      "rank": 9,
       "benchmarkPostId": "2098125939636871240",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -316,59 +406,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 70.5,
+        "ageMinutes": 86.4,
         "expiresAt": "2026-09-10T20:36:19Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2098122034635038838",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-robloxians-traction",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098122034635038838",
-      "originalText": "JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing $ROBLOXIANS to gain traction. https://t.co/SEUuII622O",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4G3k9aIAA_k9S.jpg",
-        "https://pbs.twimg.com/media/HR4G3jsbIAA-_nO.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4G3k9aIAA_k9S.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098122034635038838-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4G3jsbIAA-_nO.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098122034635038838-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 30,
-        "replies": 19,
-        "reposts": 9,
-        "quotes": 2,
-        "views": 13655
-      },
-      "postedAt": "Thu Sep 10 18:50:48 +0000 2026",
-      "score": 15585,
-      "heatScore": 15585,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 86.1,
-        "expiresAt": "2026-09-10T20:20:48Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
