@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T15:22:10.180022+00:00",
+  "updatedAt": "2026-09-10T15:34:15.773922+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14571,6 +14571,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098069243799515422",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098069243799515422",
+      "postedAt": "Thu Sep 10 15:21:02 +0000 2026",
+      "text": "OpenAI said today that it will provide 🇺🇸 Government agencies with free access to its ChatGPT licenses and 50% discounts on usage costs https://t.co/OvNGtNCHlV",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3W2vvWIAMd_9v.png"
+      ],
+      "engagement": {
+        "likes": 20,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 9358
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T15:30:46Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3W2vvWIAMd_9v.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098069243799515422-1.png",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -23216,6 +23244,25 @@
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098069243799515422",
+      "rank": 1,
+      "title": "OpenAI said today that it will provide 🇺🇸 Government agencies with free access to its ChatGP…",
+      "benchmarkPostId": "2098069243799515422",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098069243799515422",
+      "score": 10028,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T15:30:50Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -33932,7 +33979,7 @@
       "benchmarkPostId": "2098046112305119263",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098046112305119263",
       "title": "Powell sells Maryland waterfront mansion for $7.2 million",
-      "status": "ready",
+      "status": "expired",
       "postText": "Jerome Powell sold his Gibson Island waterfront mansion in Maryland for $7.2 million.\n\nThe sale came less than three months after his term as Federal Reserve chair ended.",
       "mirroredFacts": [
         "Jerome Powell sold a waterfront mansion on Maryland's Gibson Island for $7.2 million.",
@@ -33962,7 +34009,9 @@
             "no damaged or malformed subject"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T15:30:47Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260910-walmart-papa-johns-delivery",
@@ -34003,7 +34052,7 @@
       "postizPostId": "cmtvnadbn0fh0qk0yliuv5j6j",
       "postizSubmissionAt": "2026-09-10T14:51:04Z",
       "deliveryState": "ERROR",
-      "deliveryCheckedAt": "2026-09-10T15:19:56Z",
+      "deliveryCheckedAt": "2026-09-10T15:33:41Z",
       "deliveryGraceUntil": "2026-09-10T15:51:04Z",
       "deliveryError": "Postiz reported a downstream delivery error; delayed-success reconciliation remains active.",
       "firstDeliveryErrorAt": "2026-09-10T14:51:35Z"
@@ -34075,6 +34124,44 @@
             "complete entity-led Washington, healthcare, and rebate-check scene",
             "visible factual text is limited to $500 rebate, ~1M ACA enrollees, and expected in October",
             "premium near-black, white, steel-blue, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-openai-government-access",
+      "benchmarkPostId": "2098069243799515422",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098069243799515422",
+      "title": "OpenAI expands ChatGPT access for U.S. government agencies",
+      "status": "ready",
+      "postText": "OpenAI said U.S. government agencies will get free ChatGPT licenses and 50% lower usage costs.",
+      "mirroredFacts": [
+        "OpenAI said U.S. government agencies will get free access to ChatGPT licenses.",
+        "OpenAI said usage costs will be reduced by 50%."
+      ],
+      "verificationSources": [
+        "https://openai.com/solutions/industries/government/",
+        "https://x.com/StockMKTNewz/status/2098069243799515422"
+      ],
+      "imagePath": "deliverables/pkg-20260910-openai-government-access/when2buy-image-model.png",
+      "createdAt": "2026-09-10T15:33:17.694987+00:00",
+      "sourceExpiresAt": "2026-09-10T16:51:02Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: complete square 1:1 premium X financial-news editorial visual for When2Buy\nPrimary request: a complete original entity-led editorial scene about OpenAI expanding ChatGPT access for U.S. government agencies.\nScene/backdrop: a secure modern civic technology operations center with a subtle U.S. government building silhouette through glass, monitored AI workstations, and a clear service-access flow represented by luminous interface panels; no recognizable third-party logos, no flags with readable text, no watermark.\nSubject: the secure government technology workspace and OpenAI-style AI service infrastructure are the dominant concrete subjects, communicating public-sector software access and reduced usage cost without relying on a generic abstract background.\nStyle/medium: cinematic photorealistic financial-news editorial image, sharp detail, premium market-news aesthetic.\nComposition/framing: exact 1:1 square; near-black base; central entity-led scene; leave generous clean upper-left space for factual typography to be composited later and clean lower-right space for the supplied circular when2buy logo.\nLighting/mood: high-contrast studio lighting, urgent but factual, cool blue-white monitor glow with restrained red accent.\nColor palette: black, charcoal, white, muted blue, controlled red; no decorative green.\nText (verbatim): none; all typography will be composited later.\nConstraints: no readable words or numbers, no logos, no source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, generated logo, pure typography card, generic radar graphic, or extra brand marks; make the image visually complete before the logo and text are added.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T15:33:17.694987+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete civic technology and AI infrastructure entity scene",
+            "exact factual text composited once",
+            "premium near-black, white, blue, and restrained-red palette",
             "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
             "not a pure-text card or generic-radar visual",
             "exact repository logo composited once"
@@ -247729,6 +247816,51 @@
       "reason": "pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.",
       "selectedPackageIds": [
         "pkg-20260910-aca-500-rebates"
+      ],
+      "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T153046Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:30:46Z",
+      "completedAt": "2026-09-10T15:30:46Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T153050Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:30:50Z",
+      "completedAt": "2026-09-10T15:30:50Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T153317Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:33:17.694987+00:00",
+      "completedAt": "2026-09-10T15:33:17.695076+00:00",
+      "summary": "Produced the single newest fresh OpenAI government-access package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "packageId": "pkg-20260910-openai-government-access"
+    },
+    {
+      "id": "run-20260910T153415Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:34:15Z",
+      "completedAt": "2026-09-10T15:34:15Z",
+      "summary": "The newest fresh OpenAI government-access package was safely deferred because an accepted Postiz task remains within delayed-success reconciliation grace; no submission was accepted and the package remains recoverable.",
+      "reason": "pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.",
+      "selectedPackageIds": [
+        "pkg-20260910-openai-government-access"
       ],
       "outcome": "deferred"
     }
