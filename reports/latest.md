@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T14:04:04.701436+00:00`
+- 状态更新：`2026-09-10T14:19:53.168807+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**523**
-- 待选选题：**450**
+- 对标帖子快照：**524**
+- 待选选题：**451**
 - 待发布制作包：**1**
-- 已验证发布：**205**
+- 已验证发布：**206**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 14:03:16 +0000 2026 | JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Kalshi traders. https://t.co/m0tx3iAliN | [X](https://x.com/WhaleInsider/status/2098049673999065518) |
 | @StockMKTNewz | Thu Sep 10 13:49:07 +0000 2026 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPngoIJya | [X](https://x.com/StockMKTNewz/status/2098046112305119263) |
 | @StockMKTNewz | Thu Sep 10 13:16:50 +0000 2026 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, according to code uncovered in iOS 27 - MacRumors https://t.co/TALODstWfN | [X](https://x.com/StockMKTNewz/status/2098037988483563998) |
 | @StockMKTNewz | Thu Sep 10 13:24:24 +0000 2026 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | [X](https://x.com/StockMKTNewz/status/2098039891233833362) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 10:34:21 +0000 2026 | For my ETF fans out there check out this new tool below made by my partner ... you can also follow the X page @etfiq | [X](https://x.com/StockMKTNewz/status/2097997097345679418) |
 | @StockMKTNewz | Thu Sep 10 10:42:49 +0000 2026 | The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken at a valuation of $21 Billion - Bloomberg https://t.co/pteuXcmSIu | [X](https://x.com/StockMKTNewz/status/2097999228006023573) |
 | @WhaleInsider | Thu Sep 10 10:30:50 +0000 2026 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. https://t.co/t5C4t76Uw9 | [X](https://x.com/WhaleInsider/status/2097996211127033977) |
-| @StockMKTNewz | Thu Sep 10 10:14:41 +0000 2026 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price target | [X](https://x.com/StockMKTNewz/status/2097992147404308500) |
 
 ## 选题推荐
 
@@ -179,6 +179,7 @@
 | 1 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show: “We've now stacked 845,00… | StockMKTNewz | 11405 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | StockMKTNewz | 10973 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPng… | StockMKTNewz | 14927 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Ka… | WhaleInsider | 18897 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3138,6 +3139,13 @@ Apple $AAPL may be exploring ads inside Visual Intelligence features.  The possi
 
 The Boring Company is now valued at $23 billion after raising $3 billion in a new funding round.
 
+### Fed 25 bp hike odds reach 63%
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-fed-hike-odds-63/when2buy-image-model.png`
+
+Odds of a 25 bps Fed rate hike this month just hit 63%.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3348,9 +3356,14 @@ The Boring Company is now valued at $23 billion after raising $3 billion in a ne
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098049818765721963) |
+| Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098053832127480145) |
 
 ## 最近运行
 
+- `2026-09-10T14:19:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T14:18:43Z` **produce / succeeded** — Produced the sole newest fresh Fed-hike-odds package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T14:16:17Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T14:15:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-10T14:04:04Z` **publish / succeeded** — Reconciled 1 published, 0 pending, and 0 terminal Postiz deliveries.
 - `2026-09-10T14:02:14Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T14:01:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3367,7 +3380,3 @@ The Boring Company is now valued at $23 billion after raising $3 billion in a ne
 - `2026-09-10T13:33:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 0 new post(s).
 - `2026-09-10T13:32:57Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T13:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 2 new post(s).
-- `2026-09-10T13:31:00Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T13:21:33Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced minimum Postiz interval; no submission was accepted and the ready package remains recoverable before source expiry. minimum_interval; retryAt=2026-09-10T13:20:38Z
-- `2026-09-10T13:19:41Z` **produce / succeeded** — Produced the sole newest fresh Strategy Bitcoin treasury package with an inspected image-model visual and exact-logo composite.
-- `2026-09-10T13:16:49Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).

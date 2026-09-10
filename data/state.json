@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T14:04:04.701436+00:00",
+  "updatedAt": "2026-09-10T14:19:53.168807+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14385,7 +14385,48 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-10T14:01:03Z"
+      "capturedAt": "2026-09-10T14:01:03Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3Bg-5WoAEbSXC.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098046112305119263-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098049673999065518",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098049673999065518",
+      "postedAt": "Thu Sep 10 14:03:16 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Kalshi traders. https://t.co/m0tx3iAliN",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3FDdAbAAAI7UO.jpg",
+        "https://pbs.twimg.com/media/HR3FDcQWwAEOlc_.jpg"
+      ],
+      "engagement": {
+        "likes": 64,
+        "replies": 29,
+        "reposts": 12,
+        "quotes": 2,
+        "views": 15737
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T14:15:58Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3FDdAbAAAI7UO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098049673999065518-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3FDcQWwAEOlc_.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098049673999065518-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -22935,6 +22976,25 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098049673999065518",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Ka…",
+      "benchmarkPostId": "2098049673999065518",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098049673999065518",
+      "score": 18897,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T14:16:17Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -33602,6 +33662,48 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T14:04:04Z",
       "publishedAt": "2026-09-10T14:02:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-fed-hike-odds-63",
+      "benchmarkPostId": "2098049673999065518",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098049673999065518",
+      "title": "Fed 25 bp hike odds reach 63%",
+      "status": "published",
+      "postText": "Odds of a 25 bps Fed rate hike this month just hit 63%.",
+      "mirroredFacts": [
+        "Odds of a 25 basis point Federal Reserve rate hike this month rose to 63% in market pricing."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098049673999065518",
+        "https://finance.yahoo.com/economy/policy/articles/fomc-september-2026-odds-rate-163505675.html"
+      ],
+      "imagePath": "deliverables/pkg-20260910-fed-hike-odds-63/when2buy-image-model.png",
+      "createdAt": "2026-09-10T14:18:43Z",
+      "sourceExpiresAt": "2026-09-10T15:33:16Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual\nAsset type: square X financial-news visual for When2Buy\nPrimary request: one complete original entity-led editorial visual about the probability of a 25 basis point U.S. Federal Reserve rate hike rising to 63 percent.\nScene/backdrop: a premium realistic Federal Reserve building at dusk with a subtle market-pricing atmosphere and luminous upward probability arc, no recognizable third-party logos.\nSubject: the Federal Reserve building is the dominant unmistakable subject, with a restrained upward market signal integrated into the scene.\nStyle/medium: cinematic photorealistic financial-news editorial image, sharp architectural detail, premium market-news aesthetic.\nComposition/framing: exact 1:1 square; building dominant in the lower two-thirds; generous clean dark upper-left space for later factual typography and clean lower-right space for the supplied circular when2buy logo.\nLighting/mood: high-contrast blue-black dusk with controlled red market glow, urgent but factual.\nColor palette: black, charcoal, white, restrained red; no decorative green.\nText (verbatim): none; typography is composited later.\nConstraints: complete meaningful entity-led visual before branding; no pure typography card; no generic abstract background; no readable text, numbers, logos, source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, or extra people.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T14:18:43Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete Federal Reserve entity-led visual",
+            "visible factual text is limited to FED RATE DECISION, 63%, and 25 bps hike odds",
+            "premium near-black, white, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtvm5l0j07pilm0yqld382ir",
+      "postizSubmissionAt": "2026-09-10T14:19:21Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T14:19:53Z",
+      "publishedAt": "2026-09-10T14:19:00.000Z"
     }
   ],
   "posts": [
@@ -37394,6 +37496,24 @@
         "windowEnd": "2026-09-13T14:02:00Z"
       },
       "reconciledAt": "2026-09-10T14:04:04Z"
+    },
+    {
+      "id": "2098053832127480145",
+      "packageId": "pkg-20260910-fed-hike-odds-63",
+      "title": "Fed 25 bp hike odds reach 63%",
+      "text": "Odds of a 25 bps Fed rate hike this month just hit 63%.",
+      "status": "published",
+      "publishedAt": "2026-09-10T14:19:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098053832127480145",
+      "postizPostId": "cmtvm5l0j07pilm0yqld382ir",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T14:19:00.000Z",
+        "windowEnd": "2026-09-13T14:19:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
     }
   ],
   "metricSnapshots": [
@@ -244065,6 +244185,46 @@
       "startedAt": "2026-09-10T14:04:04Z",
       "completedAt": "2026-09-10T14:04:04Z",
       "summary": "Reconciled 1 published, 0 pending, and 0 terminal Postiz deliveries.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T141558Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:15:58Z",
+      "completedAt": "2026-09-10T14:15:58Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T141617Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:16:17Z",
+      "completedAt": "2026-09-10T14:16:17Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T141842Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:18:43Z",
+      "completedAt": "2026-09-10T14:18:43Z",
+      "summary": "Produced the sole newest fresh Fed-hike-odds package with an inspected entity-led image and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T141953Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:19:53Z",
+      "completedAt": "2026-09-10T14:19:53Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ],
