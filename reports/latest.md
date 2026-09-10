@@ -1,16 +1,20 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T16:47:52.923768+00:00`
+- 状态更新：`2026-09-10T17:05:19.612470+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**536**
-- 待选选题：**462**
-- 待发布制作包：**2**
-- 已验证发布：**209**
+- 对标帖子快照：**540**
+- 待选选题：**466**
+- 待发布制作包：**1**
+- 已验证发布：**210**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 16:47:02 +0000 2026 | JUST IN: Another @MetaWin player just turned $2 into $10,000.  They currently have the best rewards of any crypto casino by a large margin.  They just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP | [X](https://x.com/WhaleInsider/status/2098090884558401767) |
+| @WhaleInsider | Thu Sep 10 16:51:42 +0000 2026 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first critical hires.  To celebrate the launch, Elly is providing a list of top candidates to hiring managers. https://t.co/fezoOJhBv5 | [X](https://x.com/WhaleInsider/status/2098092061643747622) |
+| @StockMKTNewz | Thu Sep 10 16:56:36 +0000 2026 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock at an average price of $70.96 per share https://t.co/m4HoT8i2I5 | [X](https://x.com/StockMKTNewz/status/2098093294899110204) |
+| @WhaleInsider | Thu Sep 10 17:00:13 +0000 2026 | JUST IN: 🇺🇸 Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” https://t.co/uymoDzq4Pf | [X](https://x.com/WhaleInsider/status/2098094202848448781) |
 | @WhaleInsider | Thu Sep 10 16:24:47 +0000 2026 | JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock. https://t.co/MjmPQDdxq5 | [X](https://x.com/WhaleInsider/status/2098085286198604002) |
 | @WhaleInsider | Thu Sep 10 16:30:08 +0000 2026 | JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting, liquidity, risk, reconciliation and reporting. https://t.co/wiiBZ6WMf8 | [X](https://x.com/WhaleInsider/status/2098086633262199066) |
 | @StockMKTNewz | Thu Sep 10 16:14:59 +0000 2026 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID:  Cybersecurity is the next major use case of AI https://t.co/vg6jEDaAgW | [X](https://x.com/StockMKTNewz/status/2098082819452833956) |
@@ -37,10 +41,6 @@
 | @WhaleInsider | Sat Jan 18 12:05:29 +0000 2025 | $TRUMP to $100.  Be ready. | [X](https://x.com/WhaleInsider/status/1880587310405967993) |
 | @StockMKTNewz | Sat Jul 08 18:59:08 +0000 2023 | Gross Income vs Net Income  https://t.co/7fSvNyYr6M | [X](https://x.com/StockMKTNewz/status/1677754205086392320) |
 | @StockMKTNewz | Sun Aug 30 22:21:03 +0000 2026 | This is what you need to watch out for this week in the stock market https://t.co/8DUvyS89Wq | [X](https://x.com/StockMKTNewz/status/2094188677463146533) |
-| @StockMKTNewz | Sun Jan 29 02:51:03 +0000 2023 | People that locked in a 30-year fixed mortgage at 2.7% in 2021 https://t.co/sWvlWIGKX9 | [X](https://x.com/StockMKTNewz/status/1619528522086875136) |
-| @StockMKTNewz | Sun Nov 03 13:26:40 +0000 2024 | I feel like we stopped talking about this too quickly … SpaceX literally caught a rocket a couple of weeks ago https://t.co/BXMcMmLJZE | [X](https://x.com/StockMKTNewz/status/1853066264563834973) |
-| @WhaleInsider | Thu Aug 07 21:58:21 +0000 2025 | JUST IN: 🇺🇸 SEC vs Ripple $XRP case is officially over. https://t.co/i0WCoWf1tX | [X](https://x.com/WhaleInsider/status/1953576472243065035) |
-| @WhaleInsider | Wed Apr 16 09:08:14 +0000 2025 | JUST IN: 🇨🇳 China's local governments sell 15,000 Bitcoin worth $1.25 billion via offshore private entities: Reuters. https://t.co/N7L5b8PxNi | [X](https://x.com/WhaleInsider/status/1912432838030364678) |
 
 ## 选题推荐
 
@@ -187,6 +187,7 @@
 | 1 | The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first tim… | StockMKTNewz | 7938 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID: Cybersecurity is the next major use case of AI http… | StockMKTNewz | 5708 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting… | WhaleInsider | 9085 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy h… | WhaleInsider | 7996 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -249,6 +250,7 @@
 | 2 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all … | WhaleInsider | 19196 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the … | StockMKTNewz | 14023 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock.… | WhaleInsider | 14992 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock a… | StockMKTNewz | 8105 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -275,6 +277,7 @@
 | 3 | This is what $11.5 Million gets you in Utah A house almost the size of the White House https… | StockMKTNewz | 19411 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Here are the 4 new products Apple $AAPL announced today - New iPhone 18 Pro and Pro Max - Up… | StockMKTNewz | 28356 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. http… | WhaleInsider | 16360 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first … | WhaleInsider | 16803 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -291,6 +294,7 @@
 | 4 | WE JUST GOT A COUPLE OF DIFFERENT QUANTUM NEWS UPDATES: - RIGETTI $RGTI SIGNS PACT FOR $100M… | StockMKTNewz | 12735 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | QUALCOMM $QCOM JUST SAID: - THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE | StockMKTNewz | 15037 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 an… | StockMKTNewz | 25466 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | JUST IN: Another @MetaWin player just turned $2 into $10,000. They currently have the best r… | WhaleInsider | 16926 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3187,7 +3191,7 @@ The Trump administration is proposing $500 payments for nearly 1 million ACA exc
 
 ### OpenAI expands ChatGPT access for U.S. government agencies
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-openai-government-access/when2buy-image-model.png`
 
 OpenAI said U.S. government agencies will get free ChatGPT licenses and 50% lower usage costs.
@@ -3219,6 +3223,13 @@ NVIDIA CEO Jensen Huang said cybersecurity is the next major use case of AI.
 - 配图：`deliverables/pkg-20260910-ripple-gsmart-ai/when2buy-image-model.png`
 
 Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk, reconciliation and reporting.
+
+### Pentagon AI chief pushes back on AI doom warnings
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-pentagon-ai-doom-loop/when2buy-image-model.png`
+
+Pentagon AI chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI a growing ‘doom loop.’
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3259,10 +3270,11 @@ Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
-| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
+| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
+| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:50:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097774892167156048) |
@@ -3271,7 +3283,6 @@ Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk
 | JUST IN: Altcoins flip $BTC in open interest. | 2026-09-07T00:43:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761333488513480) |
 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste | 2026-09-06T00:43:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398921539199051) |
 | Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
-| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | Salesforce $CRM and Anthropic just released this new commercial together | 2026-09-04T04:51:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736656079008137) |
 | Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: | 2026-09-04T12:45:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855783753953496) |
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
@@ -3298,6 +3309,7 @@ Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk
 | IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097614505312506296) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
+| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
 | Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
@@ -3424,19 +3436,23 @@ Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
+| Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
+| S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
+| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
-| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
-| Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 
 ## 最近运行
 
+- `2026-09-10T17:04:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T17:03:21Z` **produce / succeeded** — Produced one newest fresh Pentagon AI package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T17:01:12Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T17:01:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 4 new post(s).
 - `2026-09-10T16:47:36Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T16:46:33Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T16:46:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
@@ -3453,7 +3469,3 @@ Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk
 - `2026-09-10T16:15:51Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T16:05:39Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T16:04:30Z` **produce / succeeded** — Produced the single newest fresh S&P 500 package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T16:01:52Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T16:01:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-10T16:00:46Z` **publish / succeeded** — Reconciled 0 published, 0 pending, and 1 terminal Postiz deliveries.
-- `2026-09-10T15:50:16Z` **publish / succeeded** — Newest Salesforce/Listen Labs package remained ready; Postiz batch safely deferred because an accepted task remains within delayed-success reconciliation. pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.
