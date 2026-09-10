@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-09T23:57:15.740719+00:00`
+- 状态更新：`2026-09-10T00:12:39.087064+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**477**
-- 待选选题：**424**
+- 对标帖子快照：**478**
+- 待选选题：**425**
 - 待发布制作包：**0**
-- 已验证发布：**199**
+- 已验证发布：**200**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 00:05:58 +0000 2026 | Cathie Wood and Ark Invest bought 43,091 more shares of Meta Platforms $META today https://t.co/3PDdyCesNp | [X](https://x.com/StockMKTNewz/status/2097838961213190179) |
 | @StockMKTNewz | Wed Sep 09 23:46:15 +0000 2026 | ZYN IS EXPANDING ITS LINEUP  Philip Morris $PM owned Zyn announced today it will begin selling its flagship Zyn dry pouches in 1.5mg and 8mg strengths, adding to existing offerings at 3mg and 6mg  It is also launching Zyn Ultra, a pouch with a higher moisture content than the flagship product, at 9mg and 11mg.  Philip Morris also said that it will transition to having 20 pouches per can for its 3mg and 6mg products during Q4, up from the 15 pouches in a typical can - WSJ | [X](https://x.com/StockMKTNewz/status/2097833995828338937) |
 | @StockMKTNewz | Wed Sep 09 23:00:17 +0000 2026 | The future of trading https://t.co/ERAAAlafWK | [X](https://x.com/StockMKTNewz/status/2097822431306027059) |
 | @StockMKTNewz | Wed Sep 09 22:18:43 +0000 2026 | 2026: the first foldable iPhone | [X](https://x.com/StockMKTNewz/status/2097811968245596582) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 18:10:59 +0000 2026 | This is what the new foldable iPhone Duo looks like under the screen https://t.co/5MGJD0Vbj5 | [X](https://x.com/StockMKTNewz/status/2097749625360826613) |
 | @StockMKTNewz | Wed Sep 09 18:13:23 +0000 2026 | APPLE $AAPL JUST SAID THE NEW FOLDABLE IPHONE DUO WILL HAVE UP TO 44 HOURS OF BATTERY LIFE WHEN USING THE OUTER DISPLAY | [X](https://x.com/StockMKTNewz/status/2097750228489134288) |
 | @StockMKTNewz | Wed Sep 09 18:14:36 +0000 2026 | Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the phone  https://t.co/UgPsnie3AO | [X](https://x.com/StockMKTNewz/status/2097750534165852336) |
-| @StockMKTNewz | Wed Sep 09 18:16:24 +0000 2026 | Apple $AAPL just announced that its first foldable iPhone the iPhone Duo starts at $1,999 and will be available on October 23rd https://t.co/lTUqiqJjnd | [X](https://x.com/StockMKTNewz/status/2097750987905597571) |
 
 ## 选题推荐
 
@@ -159,6 +159,7 @@
 | 1 | 2026: the first foldable iPhone | StockMKTNewz | 9116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The future of trading https://t.co/ERAAAlafWK | StockMKTNewz | 9441 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | ZYN IS EXPANDING ITS LINEUP Philip Morris $PM owned Zyn announced today it will begin sellin… | StockMKTNewz | 2421 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Cathie Wood and Ark Invest bought 43,091 more shares of Meta Platforms $META today https://t… | StockMKTNewz | 4776 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2979,6 +2980,13 @@ A foldable dual-screen setup puts video up top and a market chart below.
 
 $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9mg and 11mg.  Its 3mg and 6mg cans will move from 15 to 20 pouches in Q4.
 
+### ARK adds 43,091 Meta shares
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-ark-meta-43091-shares/when2buy-image-model.png`
+
+Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3017,7 +3025,7 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 40 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 41 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
@@ -3044,11 +3052,11 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770249135530085) |
+| Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
 | Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
-| Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
@@ -3100,6 +3108,7 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
+| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -3125,7 +3134,6 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 | Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097593108846579977) |
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
-| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3175,17 +3183,26 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
+| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
+| Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
-| Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097825543597256803) |
-| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097835292837462250) |
+| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097840407136833587) |
 
 ## 最近运行
 
+- `2026-09-10T00:12:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:05:43Z` **full / succeeded** — Postiz-first hourly metrics, Apify collection from both benchmark accounts, benchmark-media archive, verified-status reconciliation, hard-TTL queue rebuild, one fresh image-model package, and one verified X publication completed.
+- `2026-09-10T00:11:46.943260+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T00:10:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:08:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:08:20Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:08:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
+- `2026-09-10T00:05:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:56:09Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status and Postiz publication reconciliation, hard-TTL queue rebuild, validation, and reporting completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-09T23:56:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:56:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -3198,11 +3215,3 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 - `2026-09-09T23:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
 - `2026-09-09T23:45:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:35:53Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-09T23:36:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:36:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-09T23:35:57Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:25:49Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-09T23:27:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:26:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-09T23:25:52Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:15:56Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
