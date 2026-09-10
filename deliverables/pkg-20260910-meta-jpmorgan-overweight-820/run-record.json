@@ -1,0 +1,13 @@
+{
+  "id": "run-20260910T102530Z-full",
+  "mode": "full",
+  "status": "partial",
+  "startedAt": "2026-09-10T10:16:33Z",
+  "completedAt": "2026-09-10T10:25:30Z",
+  "summary": "Scanned both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, produced and QA-checked the newest Meta package, and withheld submission because the financial claim lacked current authoritative verification.",
+  "reason": "pkg-20260910-meta-jpmorgan-overweight-820 marked failed as a recoverable safety stop; no Postiz task was accepted.",
+  "selectedPackageIds": [
+    "pkg-20260910-meta-jpmorgan-overweight-820"
+  ],
+  "externalOutcome": "not_submitted"
+}

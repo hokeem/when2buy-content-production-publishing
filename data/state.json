@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T10:07:32.797419+00:00",
+  "updatedAt": "2026-09-10T10:25:50.607108+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13579,6 +13579,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097992147404308500",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097992147404308500",
+      "postedAt": "Thu Sep 10 10:14:41 +0000 2026",
+      "text": "JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price target",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 4698
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T10:18:26Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -21749,6 +21769,25 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097992147404308500",
+      "rank": 1,
+      "title": "JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price…",
+      "benchmarkPostId": "2097992147404308500",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097992147404308500",
+      "score": 4978,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T10:18:30Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -31920,6 +31959,45 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260910-meta-jpmorgan-overweight-820",
+      "benchmarkPostId": "2097992147404308500",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097992147404308500",
+      "title": "JPMorgan upgrades Meta to Overweight with $820 target",
+      "status": "failed",
+      "postText": "JPMorgan just upgraded Meta Platforms $META to Overweight from Neutral with an $820 price target.",
+      "mirroredFacts": [
+        "JPMorgan upgraded Meta Platforms $META to Overweight from Neutral.",
+        "The price target is $820."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2097992147404308500"
+      ],
+      "verificationStatus": "blocked_unverified_financial_claim",
+      "imagePath": "deliverables/pkg-20260910-meta-jpmorgan-overweight-820/when2buy-image-model.png",
+      "createdAt": "2026-09-10T10:23:00Z",
+      "sourceExpiresAt": "2026-09-10T11:44:41Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square 1:1 premium financial-news visual about Meta Platforms receiving a bullish analyst upgrade; entity-led smartphone and abstract social-network sphere with an upward market line; near-black base, white type, controlled green accent, exact visible text META, UPGRADED TO, OVERWEIGHT, $820 PRICE TARGET, FROM NEUTRAL added in post-generation typography; no generated logo or source/attribution/disclaimer/commentary/CTA/tagline/watermark; exact repository logo composited once in the lower-right clear-space area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T10:23:00Z",
+          "result": "passed",
+          "checks": [
+            "square 1024x1024",
+            "complete entity-led Meta/social-network visual with upward market line",
+            "exact META, UPGRADED TO, OVERWEIGHT, $820 PRICE TARGET, and FROM NEUTRAL text",
+            "premium near-black, white, blue, and restrained-green palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "failureReason": "The benchmark claim was not confirmed by a current primary source or authoritative financial report during this run; no Postiz submission was made."
     }
   ],
   "posts": [
@@ -230136,6 +230214,81 @@
       "reason": "daily_limit; retryAt=2026-09-10T10:21:00Z",
       "packageId": "pkg-20260910-schwab-xrp-etf-collateral-48m",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T101826Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:18:26Z",
+      "completedAt": "2026-09-10T10:18:26Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T101830Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:18:30Z",
+      "completedAt": "2026-09-10T10:18:30Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T101914Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:19:14Z",
+      "completedAt": "2026-09-10T10:19:14Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T101943Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:19:43Z",
+      "completedAt": "2026-09-10T10:19:43Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T102448Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:24:48Z",
+      "completedAt": "2026-09-10T10:24:48Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T102522Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:25:22Z",
+      "completedAt": "2026-09-10T10:25:22Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T102530Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-10T10:16:33Z",
+      "completedAt": "2026-09-10T10:25:30Z",
+      "summary": "Scanned both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, produced and QA-checked the newest Meta package, and withheld submission because the financial claim lacked current authoritative verification.",
+      "reason": "pkg-20260910-meta-jpmorgan-overweight-820 marked failed as a recoverable safety stop; no Postiz task was accepted.",
+      "selectedPackageIds": [
+        "pkg-20260910-meta-jpmorgan-overweight-820"
+      ],
+      "externalOutcome": "not_submitted"
     }
   ],
   "deliveryCircuitBreaker": {

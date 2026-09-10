@@ -1,0 +1,39 @@
+{
+  "id": "pkg-20260910-meta-jpmorgan-overweight-820",
+  "benchmarkPostId": "2097992147404308500",
+  "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097992147404308500",
+  "title": "JPMorgan upgrades Meta to Overweight with $820 target",
+  "status": "blocked",
+  "postText": "JPMorgan just upgraded Meta Platforms $META to Overweight from Neutral with an $820 price target.",
+  "mirroredFacts": [
+    "JPMorgan upgraded Meta Platforms $META to Overweight from Neutral.",
+    "The price target is $820."
+  ],
+  "verificationSources": [
+    "https://x.com/StockMKTNewz/status/2097992147404308500"
+  ],
+  "verificationStatus": "blocked_unverified_financial_claim",
+  "blockingReason": "The benchmark claim was not confirmed by a current primary source or authoritative financial report during this run; no Postiz submission was made.",
+  "imagePath": "deliverables/pkg-20260910-meta-jpmorgan-overweight-820/when2buy-image-model.png",
+  "createdAt": "2026-09-10T10:23:00Z",
+  "sourceExpiresAt": "2026-09-10T11:44:41Z",
+  "visualProduction": {
+    "method": "image_model",
+    "prompt": "Square 1:1 premium financial-news visual about Meta Platforms receiving a bullish analyst upgrade; entity-led smartphone and abstract social-network sphere with an upward market line; near-black base, white type, controlled green accent, exact visible text META, UPGRADED TO, OVERWEIGHT, $820 PRICE TARGET, FROM NEUTRAL added in post-generation typography; no generated logo or source/attribution/disclaimer/commentary/CTA/tagline/watermark; exact repository logo composited once in the lower-right clear-space area.",
+    "logoApplied": true,
+    "qaStatus": "passed",
+    "qa": {
+      "inspectedAt": "2026-09-10T10:23:00Z",
+      "result": "passed",
+      "checks": [
+        "square 1024x1024",
+        "complete entity-led Meta/social-network visual with upward market line",
+        "exact META, UPGRADED TO, OVERWEIGHT, $820 PRICE TARGET, and FROM NEUTRAL text",
+        "premium near-black, white, blue, and restrained-green palette",
+        "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+        "not a pure-text card or generic-radar visual",
+        "exact repository logo composited once"
+      ]
+    }
+  }
+}

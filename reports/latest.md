@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T10:07:32.797419+00:00`
+- 状态更新：`2026-09-10T10:25:50.607108+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**493**
-- 待选选题：**430**
+- 对标帖子快照：**494**
+- 待选选题：**431**
 - 待发布制作包：**2**
 - 已验证发布：**202**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 10:14:41 +0000 2026 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price target | [X](https://x.com/StockMKTNewz/status/2097992147404308500) |
 | @WhaleInsider | Thu Sep 10 09:51:14 +0000 2026 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs - SEC filing. https://t.co/UMgll4t94M | [X](https://x.com/WhaleInsider/status/2097986246509314464) |
 | @WhaleInsider | Thu Sep 10 09:20:07 +0000 2026 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6 | [X](https://x.com/WhaleInsider/status/2097978417425592472) |
 | @WhaleInsider | Thu Sep 10 08:11:05 +0000 2026 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/WvRbXfAQYF | [X](https://x.com/WhaleInsider/status/2097961042886189444) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 19:20:17 +0000 2026 | Here is a first look at Apple’s new foldable iPhone Duo  https://t.co/vLMMmP452S | [X](https://x.com/StockMKTNewz/status/2097767066170224987) |
 | @WhaleInsider | Wed Sep 09 16:52:06 +0000 2026 | JUST IN: Lightfield raises $47 million Series A, led by a16z, to make customer context usable by A.I agents. https://t.co/MQT8C6r18G | [X](https://x.com/WhaleInsider/status/2097729772079976501) |
 | @WhaleInsider | Wed Sep 09 16:58:48 +0000 2026 | JUST IN: Copper hits fresh record of $14,802.50/ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. https://t.co/azHFdx7JLX | [X](https://x.com/WhaleInsider/status/2097731459935043753) |
-| @WhaleInsider | Wed Sep 09 17:25:13 +0000 2026 | JUST IN: Apple $AAPL unveils new iPhone 18 Pro &amp; Pro Max. https://t.co/Sw98zUv51U | [X](https://x.com/WhaleInsider/status/2097738109194514578) |
 
 ## 选题推荐
 
@@ -165,6 +165,7 @@
 | 1 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/W… | WhaleInsider | 28485 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical… | WhaleInsider | 16489 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral acros… | WhaleInsider | 15292 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price… | StockMKTNewz | 4978 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3027,6 +3028,13 @@ Palantir and NVIDIA are partnering to bring AI capabilities to critical supply c
 
 Charles Schwab's fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs.
 
+### JPMorgan upgrades Meta to Overweight with $820 target
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260910-meta-jpmorgan-overweight-820/when2buy-image-model.png`
+
+JPMorgan just upgraded Meta Platforms $META to Overweight from Neutral with an $820 price target.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3237,6 +3245,13 @@ Charles Schwab's fund family disclosed $4.8M in $XRP ETF shares as collateral ac
 
 ## 最近运行
 
+- `2026-09-10T10:16:33Z` **full / partial** — Scanned both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, produced and QA-checked the newest Meta package, and withheld submission because the financial claim lacked current authoritative verification. pkg-20260910-meta-jpmorgan-overweight-820 marked failed as a recoverable safety stop; no Postiz task was accepted.
+- `2026-09-10T10:25:22Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:24:48Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:19:43Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:19:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-10T10:18:30Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:18:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T10:07:16Z` **publish / succeeded** — The newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable. daily_limit; retryAt=2026-09-10T10:21:00Z
 - `2026-09-10T10:06:10.620858+00:00` **produce / succeeded** — Produced the sole newest fresh XRP collateral package with an inspected image-model visual and exact-logo composite.
 - `2026-09-10T10:02:56Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3250,10 +3265,3 @@ Charles Schwab's fund family disclosed $4.8M in $XRP ETF shares as collateral ac
 - `2026-09-10T09:33:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T09:33:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).
 - `2026-09-10T09:32:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:32:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
-- `2026-09-10T09:30:58Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:18:18Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:18:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-10T09:17:25Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:14:55Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:14:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
