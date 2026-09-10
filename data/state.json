@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T15:04:45.156847+00:00",
+  "updatedAt": "2026-09-10T15:06:12.288969+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -247530,6 +247530,17 @@
       "completedAt": "2026-09-10T15:03:40Z",
       "summary": "Produced the sole newest fresh ECB-rate-hikes package with an inspected entity-led image and exact-logo composite.",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T150340Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:06:12Z",
+      "completedAt": "2026-09-10T15:06:12Z",
+      "summary": "The sole newest ECB package was safely deferred during the existing 60-minute Postiz reconciliation window; no task was accepted and the fresh package remains recoverable.",
+      "reason": "pending_delivery_reconciliation; retryAt=2026-09-10T15:51:04Z",
+      "packageId": "pkg-20260910-ecb-three-rate-hikes",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

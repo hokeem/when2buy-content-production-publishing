@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T15:04:45.156847+00:00`
+- 状态更新：`2026-09-10T15:06:12.288969+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**527**
 - 待选选题：**453**
@@ -3383,6 +3383,7 @@ Traders are fully pricing three more ECB rate hikes by mid-2027.
 
 ## 最近运行
 
+- `2026-09-10T15:06:12Z` **publish / succeeded** — The sole newest ECB package was safely deferred during the existing 60-minute Postiz reconciliation window; no task was accepted and the fresh package remains recoverable. pending_delivery_reconciliation; retryAt=2026-09-10T15:51:04Z
 - `2026-09-10T15:03:40Z` **produce / succeeded** — Produced the sole newest fresh ECB-rate-hikes package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T15:01:38Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T15:01:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -3402,4 +3403,3 @@ Traders are fully pricing three more ECB rate hikes by mid-2027.
 - `2026-09-10T14:02:14Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T14:01:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T14:01:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
-- `2026-09-10T14:00:37Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
