@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-09-10T11:47:14Z",
+  "generatedAt": "2026-09-10T12:02:02Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098014522216730854",
-      "benchmarkAccount": "WhaleInsider",
+      "benchmarkPostId": "2098015628158259276",
+      "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098015628158259276",
+      "originalText": "Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY\n\nTSMC has now brought in a total of ~$107.1 Billion of revenue so far in 2026 up 39% YoY https://t.co/07c4r7sWEN",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR2mFseXYAoUK2T.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2mFseXYAoUK2T.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098015628158259276-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 5,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 8735
+      },
+      "postedAt": "Thu Sep 10 11:47:59 +0000 2026",
+      "score": 9925,
+      "heatScore": 9925,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 3,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 22,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 14.1,
+        "expiresAt": "2026-09-10T13:17:59Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098014522216730854",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260910-robinhood-chain-volume",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2098014522216730854",
       "originalText": "JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 days - Token Terminal. https://t.co/k8GPrc7Tpz",
       "originalMediaUrls": [
@@ -42,14 +87,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 3.7,
+        "ageMinutes": 18.5,
         "expiresAt": "2026-09-10T13:13:35Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098012610838835655",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -87,14 +132,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 11.2,
+        "ageMinutes": 26.0,
         "expiresAt": "2026-09-10T13:06:00Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098009124122345551",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-palantir-nvidia-supply-chains",
@@ -138,14 +183,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 25.1,
+        "ageMinutes": 39.9,
         "expiresAt": "2026-09-10T12:52:08Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "benchmarkPostId": "2098005603591307474",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-single-letter-stock-tickers",
@@ -175,14 +220,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 39.1,
+        "ageMinutes": 53.9,
         "expiresAt": "2026-09-10T12:38:09Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "benchmarkPostId": "2098003348997697583",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -220,14 +265,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 48.0,
+        "ageMinutes": 62.8,
         "expiresAt": "2026-09-10T12:29:12Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 7,
       "benchmarkPostId": "2098002593259593965",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -265,14 +310,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 51.1,
+        "ageMinutes": 65.9,
         "expiresAt": "2026-09-10T12:26:11Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 7,
+      "rank": 8,
       "benchmarkPostId": "2098000894960742588",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -310,14 +355,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 57.8,
+        "ageMinutes": 72.6,
         "expiresAt": "2026-09-10T12:19:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 8,
+      "rank": 9,
       "benchmarkPostId": "2097999228006023573",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-nasdaq-payward-21b-valuation",
@@ -355,14 +400,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 64.4,
+        "ageMinutes": 79.2,
         "expiresAt": "2026-09-10T12:12:49Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 9,
+      "rank": 10,
       "benchmarkPostId": "2097997097345679418",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -392,59 +437,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 72.9,
+        "ageMinutes": 87.7,
         "expiresAt": "2026-09-10T12:04:21Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 10,
-      "benchmarkPostId": "2097996211127033977",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-xrp-above-150-september",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097996211127033977",
-      "originalText": "JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. https://t.co/t5C4t76Uw9",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2UbnuWQAUNjeA.jpg",
-        "https://pbs.twimg.com/media/HR2UboObcAAi3gn.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2UbnuWQAUNjeA.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097996211127033977-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2UboObcAAi3gn.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097996211127033977-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "views": 0
-      },
-      "postedAt": "Thu Sep 10 10:30:50 +0000 2026",
-      "score": 0,
-      "heatScore": 0,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 76.4,
-        "expiresAt": "2026-09-10T12:00:50Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

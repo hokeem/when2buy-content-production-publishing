@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T11:53:00.473959+00:00`
+- 状态更新：`2026-09-10T12:05:52.432185+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**504**
-- 待选选题：**441**
+- 对标帖子快照：**515**
+- 待选选题：**442**
 - 待发布制作包：**5**
 - 已验证发布：**202**
 
@@ -11,6 +11,17 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Apr 19 18:13:53 +0000 2024 | BREAKING : The first official centralized exchange on Solana $SOLCEX (@SolCex_Exchange) releases demo video. https://t.co/fduhzg9TUk | [X](https://x.com/WhaleInsider/status/1781385748106580171) |
+| @StockMKTNewz | Sat Feb 24 19:13:16 +0000 2024 | Nvidia $NVDA vs Intel $INTC: 2014 to today  https://t.co/NqUFZpQMjE | [X](https://x.com/StockMKTNewz/status/1761469357815652791) |
+| @WhaleInsider | Sat Jan 18 12:05:29 +0000 2025 | $TRUMP to $100.  Be ready. | [X](https://x.com/WhaleInsider/status/1880587310405967993) |
+| @StockMKTNewz | Sat Jul 08 18:59:08 +0000 2023 | Gross Income vs Net Income  https://t.co/7fSvNyYr6M | [X](https://x.com/StockMKTNewz/status/1677754205086392320) |
+| @StockMKTNewz | Sun Aug 30 22:21:03 +0000 2026 | This is what you need to watch out for this week in the stock market https://t.co/8DUvyS89Wq | [X](https://x.com/StockMKTNewz/status/2094188677463146533) |
+| @StockMKTNewz | Sun Jan 29 02:51:03 +0000 2023 | People that locked in a 30-year fixed mortgage at 2.7% in 2021 https://t.co/sWvlWIGKX9 | [X](https://x.com/StockMKTNewz/status/1619528522086875136) |
+| @StockMKTNewz | Sun Nov 03 13:26:40 +0000 2024 | I feel like we stopped talking about this too quickly … SpaceX literally caught a rocket a couple of weeks ago https://t.co/BXMcMmLJZE | [X](https://x.com/StockMKTNewz/status/1853066264563834973) |
+| @WhaleInsider | Thu Aug 07 21:58:21 +0000 2025 | JUST IN: 🇺🇸 SEC vs Ripple $XRP case is officially over. https://t.co/i0WCoWf1tX | [X](https://x.com/WhaleInsider/status/1953576472243065035) |
+| @WhaleInsider | Wed Apr 16 09:08:14 +0000 2025 | JUST IN: 🇨🇳 China's local governments sell 15,000 Bitcoin worth $1.25 billion via offshore private entities: Reuters. https://t.co/N7L5b8PxNi | [X](https://x.com/WhaleInsider/status/1912432838030364678) |
+| @WhaleInsider | Wed Jan 15 17:24:04 +0000 2025 | You will be a millionaire. | [X](https://x.com/WhaleInsider/status/1879580320695214120) |
+| @StockMKTNewz | Thu Sep 10 11:47:59 +0000 2026 | Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY  TSMC has now brought in a total of ~$107.1 Billion of revenue so far in 2026 up 39% YoY https://t.co/07c4r7sWEN | [X](https://x.com/StockMKTNewz/status/2098015628158259276) |
 | @StockMKTNewz | Thu Sep 10 11:36:00 +0000 2026 | PALANTIR EVENT TODAY  Palantir $PLTR just confirmed that its AIPCon 11 event will be taking place today  "Some of the world’s most consequential institutions across aviation, technology, media, insurance, defense, healthcare, and manufacturing take the stage.   Acrisure. Cisco. Eaton. The FAA. Hexion. L3Harris. Novartis. NVIDIA. Ondas Sentinel. USA TODAY. Zeta. And more" | [X](https://x.com/StockMKTNewz/status/2098012610838835655) |
 | @WhaleInsider | Thu Sep 10 11:43:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 days - Token Terminal. https://t.co/k8GPrc7Tpz | [X](https://x.com/WhaleInsider/status/2098014522216730854) |
 | @StockMKTNewz | Thu Sep 10 11:22:08 +0000 2026 | NVIDIA AND PALANTIR PARTNERSHIP  Palantir $PLTR and Nvidia $NVDA just announced a new partnership to "bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations."  The two companies built an AI stack combining NVIDIA's open Nemotron models with Palantir's Foundry, AIP, and Ontology, aimed at giving NVIDIA's supply chain teams real-time visibility into constraints and faster materials allocation decisions across a network of millions of parts and thousands of suppliers | [X](https://x.com/StockMKTNewz/status/2098009124122345551) |
@@ -30,17 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 00:31:29 +0000 2026 | Nvidia $NVDA just posted this:  “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are expanding land, power and shell capacity to host AI factories, supporting the nation’s growing demand for AI compute.” https://t.co/mWTRafIczS | [X](https://x.com/StockMKTNewz/status/2097845382281662509) |
 | @StockMKTNewz | Wed Sep 09 16:59:20 +0000 2026 | Apple $AAPL is about to release its brand new iPhone 📱   The event is starting right now … expect to see a lot of Apple tweets from me over the next hour | [X](https://x.com/StockMKTNewz/status/2097731592013684977) |
 | @StockMKTNewz | Wed Sep 09 17:08:01 +0000 2026 | Apple $AAPL just started its first iPhone keynote with John Ternus leading the company  https://t.co/Nm0bf66hfy | [X](https://x.com/StockMKTNewz/status/2097733776902107414) |
-| @StockMKTNewz | Wed Sep 09 17:10:51 +0000 2026 | APPLE $AAPL JUST ANNOUNCED THE NEW IPHONE 18 AND 18 PRO WITH A NEW BURGUNDY COLOR https://t.co/2EMtIsw05y | [X](https://x.com/StockMKTNewz/status/2097734489677992051) |
-| @StockMKTNewz | Wed Sep 09 17:12:21 +0000 2026 | Apple $AAPL just announced the new iPhone 18 and 18 Pro in 4 new colors   Black, Silver, Blue, and Burgundy https://t.co/P1aqJIbPaV | [X](https://x.com/StockMKTNewz/status/2097734869950345367) |
-| @StockMKTNewz | Wed Sep 09 17:15:09 +0000 2026 | Apple $AAPL just said its new updated Siri will not be available in the European Union 🇪🇺 and China 🇨🇳 at the start | [X](https://x.com/StockMKTNewz/status/2097735573570023832) |
-| @StockMKTNewz | Wed Sep 09 17:18:40 +0000 2026 | Apple $AAPL just announced a new upgraded version of Siri https://t.co/5GlIF9PUZ3 | [X](https://x.com/StockMKTNewz/status/2097736460166193390) |
-| @StockMKTNewz | Wed Sep 09 17:21:13 +0000 2026 | APPLE $AAPL JUST SAID THE IPHONE 18 PRO MAX HAS THE LARGEST INCREASE IN BATTERY LIFE EVER ON A NEW IPHONE https://t.co/Y8XvCsmgUa | [X](https://x.com/StockMKTNewz/status/2097737101089423573) |
-| @StockMKTNewz | Wed Sep 09 17:27:25 +0000 2026 | APPLE $AAPL SAYS THE IPHONE PRO MAX HAS A BATTERY LIFE OF UP TO 45 HOURS | [X](https://x.com/StockMKTNewz/status/2097738660875571439) |
-| @StockMKTNewz | Wed Sep 09 17:29:50 +0000 2026 | THE NEW APPLE IPHONE 18 PRO https://t.co/ct2pvtScMe | [X](https://x.com/StockMKTNewz/status/2097739267380261017) |
-| @StockMKTNewz | Thu Sep 10 00:05:58 +0000 2026 | Cathie Wood and Ark Invest bought 43,091 more shares of Meta Platforms $META today https://t.co/3PDdyCesNp | [X](https://x.com/StockMKTNewz/status/2097838961213190179) |
-| @StockMKTNewz | Wed Sep 09 23:46:15 +0000 2026 | ZYN IS EXPANDING ITS LINEUP  Philip Morris $PM owned Zyn announced today it will begin selling its flagship Zyn dry pouches in 1.5mg and 8mg strengths, adding to existing offerings at 3mg and 6mg  It is also launching Zyn Ultra, a pouch with a higher moisture content than the flagship product, at 9mg and 11mg.  Philip Morris also said that it will transition to having 20 pouches per can for its 3mg and 6mg products during Q4, up from the 15 pouches in a typical can - WSJ | [X](https://x.com/StockMKTNewz/status/2097833995828338937) |
-| @StockMKTNewz | Wed Sep 09 23:00:17 +0000 2026 | The future of trading https://t.co/ERAAAlafWK | [X](https://x.com/StockMKTNewz/status/2097822431306027059) |
-| @StockMKTNewz | Wed Sep 09 22:18:43 +0000 2026 | 2026: the first foldable iPhone | [X](https://x.com/StockMKTNewz/status/2097811968245596582) |
 
 ## 选题推荐
 
@@ -172,6 +172,7 @@
 | 1 | Here is every stock with a single letter stock ticker $A - Agilent $B - Barrick Mining $C - … | StockMKTNewz | 8180 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | NVIDIA AND PALANTIR PARTNERSHIP Palantir $PLTR and Nvidia $NVDA just announced a new partner… | StockMKTNewz | 8709 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 day… | WhaleInsider | 11308 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY TSMC has… | StockMKTNewz | 9925 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3047,7 +3048,7 @@ JPMorgan just upgraded Meta Platforms $META to Overweight from Neutral with an $
 
 ### XRP prediction markets price 72% chance above $1.50 in September
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-xrp-above-150-september/when2buy-image-model.png`
 
 Prediction markets price a 72% chance of XRP trading above $1.50 in September.
@@ -3080,6 +3081,13 @@ Palantir and NVIDIA are partnering to bring sovereign AI to critical supply chai
 
 Robinhood Chain stock tokens generated more than $4B in DEX volume over the past 30 days.
 
+### TSMC August sales jump 53.3%
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-tsmc-august-sales/when2buy-image-model.png`
+
+TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached about $107.1B, up 39% YoY.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3111,9 +3119,9 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 45 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 44 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 42 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
@@ -3147,10 +3155,10 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770249135530085) |
+| Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
-| Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
@@ -3173,12 +3181,12 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
+| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
-| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
@@ -3226,6 +3234,7 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 | S&P 500 membership changes over a decade | 2026-09-07T07:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859560149647529) |
 | Trump links inflation to policy failures, not growth | 2026-09-07T08:13:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874586663186450) |
 | Portfolio's biggest loser today | 2026-09-07T08:14:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874726715162931) |
+| RAMP in $60B valuation fundraising talks | 2026-09-09T05:57:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097565213319107067) |
 | Samsung leads Mistral AI's €3B Series D | 2026-09-09T06:35:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574655683166484) |
 | Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097593108846579977) |
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
@@ -3238,7 +3247,6 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 | Regular NFL season starts | 2026-09-07T06:15:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845001351393501) |
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
-| RAMP in $60B valuation fundraising talks | 2026-09-09T05:57:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097565213319107067) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
@@ -3270,10 +3278,10 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 | U.S. stock market performance today | 2026-09-07T07:52:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869428151611677) |
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
+| Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
-| Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -3290,6 +3298,14 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 
 ## 最近运行
 
+- `2026-09-10T12:05:52Z` **publish / succeeded** — The sole fresh TSMC package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T12:14:00Z
+- `2026-09-10T12:04:32Z` **produce / succeeded** — Produced the sole newest fresh TSMC package with an inspected image-model visual and exact-logo composite.
+- `2026-09-10T12:02:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
+- `2026-09-10T12:02:02Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T12:01:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 10 new post(s).
+- `2026-09-10T12:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-10T12:01:08Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T12:01:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-10T11:52:06Z` **publish / succeeded** — The newest fresh Robinhood Chain package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-10T12:14:00Z
 - `2026-09-10T11:47:14Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T11:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
@@ -3302,11 +3318,3 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 - `2026-09-10T11:18:47Z` **produce / succeeded** — Produced one newest fresh square entity-led package with exact-logo compositing.
 - `2026-09-10T11:16:36Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T11:16:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-10T11:02:06Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T11:02:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 3 new post(s).
-- `2026-09-10T11:00:35Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T10:51:11Z` **publish / succeeded** — The single newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable before source expiry. daily_limit; retryAt=2026-09-10T12:14:00Z
-- `2026-09-10T10:50:32.867384+00:00` **produce / succeeded** — Produced the single newest fresh Nasdaq/Payward package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T10:47:09Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T10:47:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-10T10:46:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
