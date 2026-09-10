@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T06:08:30.484859+00:00",
+  "updatedAt": "2026-09-10T06:29:30.683589+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -223330,6 +223330,45 @@
       "startedAt": "2026-09-10T06:05:54Z",
       "completedAt": "2026-09-10T06:09:00Z",
       "summary": "Apify collection from both benchmark accounts, hourly public-metrics collection, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published."
+    },
+    {
+      "id": "run-20260910T062701Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T06:27:01Z",
+      "completedAt": "2026-09-10T06:27:01Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T062825Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T06:28:25Z",
+      "completedAt": "2026-09-10T06:28:25Z",
+      "summary": "Apify scanned both benchmark accounts; captured 117 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T062845Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T06:28:45Z",
+      "completedAt": "2026-09-10T06:28:45Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T062950Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T06:26:31Z",
+      "completedAt": "2026-09-10T06:29:50Z",
+      "summary": "Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, Postiz publication reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published."
     }
   ],
   "deliveryCircuitBreaker": {
