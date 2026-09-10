@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T11:35:39.846936+00:00",
+  "updatedAt": "2026-09-10T11:53:00.473959+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13806,7 +13806,75 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-10T11:31:55Z"
+      "capturedAt": "2026-09-10T11:31:55Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2fFV5bYAEkS92.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098009124122345551-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2fKVeWwAEsAS_.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098009124122345551-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098014522216730854",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098014522216730854",
+      "postedAt": "Thu Sep 10 11:43:35 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 days - Token Terminal. https://t.co/k8GPrc7Tpz",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR2lFkcW4A07MZZ.jpg"
+      ],
+      "engagement": {
+        "likes": 13,
+        "replies": 11,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 10198
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T11:47:09Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2lFkcW4A07MZZ.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098014522216730854-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098012610838835655",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098012610838835655",
+      "postedAt": "Thu Sep 10 11:36:00 +0000 2026",
+      "text": "PALANTIR EVENT TODAY\n\nPalantir $PLTR just confirmed that its AIPCon 11 event will be taking place today\n\n\"Some of the world’s most consequential institutions across aviation, technology, media, insurance, defense, healthcare, and manufacturing take the stage. \n\nAcrisure. Cisco. Eaton. The FAA. Hexion. L3Harris. Novartis. NVIDIA. Ondas Sentinel. USA TODAY. Zeta. And more\"",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR2hix8WgAgtCLX.jpg"
+      ],
+      "engagement": {
+        "likes": 27,
+        "replies": 1,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 7901
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T11:47:09Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2hix8WgAgtCLX.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098012610838835655-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -22143,6 +22211,44 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-10T11:33:08Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098014522216730854",
+      "rank": 1,
+      "title": "JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 day…",
+      "benchmarkPostId": "2098014522216730854",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098014522216730854",
+      "score": 11308,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T11:47:14Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098012610838835655",
+      "rank": 2,
+      "title": "PALANTIR EVENT TODAY Palantir $PLTR just confirmed that its AIPCon 11 event will be taking p…",
+      "benchmarkPostId": "2098012610838835655",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098012610838835655",
+      "score": 8731,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T11:47:14Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
@@ -32508,6 +32614,46 @@
             "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
             "not a pure-text card or generic-radar visual",
             "exact repository logo composited once"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-robinhood-chain-volume",
+      "benchmarkPostId": "2098014522216730854",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098014522216730854",
+      "title": "Robinhood Chain stock tokens top $4B in DEX volume",
+      "status": "ready",
+      "postText": "Robinhood Chain stock tokens generated more than $4B in DEX volume over the past 30 days.",
+      "mirroredFacts": [
+        "Tokenized stocks associated with Robinhood Chain generated more than $4 billion in decentralized-exchange volume over the past 30 days.",
+        "The benchmark alert identified the figure as $4.5 billion and attributed the measurement to Token Terminal."
+      ],
+      "verificationSources": [
+        "https://crypto-economy.com/tokenized-stocks-surge-as-spy-google-and-robinhood-drive-7-1b-in-dex-volume/",
+        "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
+        "https://docs.robinhood.com/chain/stock-tokens/",
+        "https://x.com/WhaleInsider/status/2098014522216730854"
+      ],
+      "imagePath": "deliverables/pkg-20260910-robinhood-chain-volume/when2buy-image-model.png",
+      "createdAt": "2026-09-10T11:50:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Premium square entity-led editorial visual about tokenized-equity blockchain and decentralized-exchange liquidity flows: near-black institutional market infrastructure room, central abstract glass ledger tower made of blank geometric blocks and unbranded generic market charts, green transaction nodes and liquidity connections, abstract world map of light points, exact 1:1 composition, lower-right clean and dark for later exact logo composite, no readable text, numbers, logos, trademarks, brand marks, source handles, URLs, attribution, watermark, disclaimer, CTA, generic radar background, or pure-text card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T11:52:00Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led tokenized-equity ledger and liquidity visual",
+            "no recognizable third-party logos or trademarks",
+            "no generated readable public copy, source handle, URL, attribution, disclaimer, or CTA",
+            "premium near-black palette with restrained green positive-volume accents",
+            "not a pure-text card or generic radar visual",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged or malformed dominant subject"
           ]
         }
       }
@@ -233944,6 +234090,48 @@
       "completedAt": "2026-09-10T11:33:08Z",
       "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T114537Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:45:37Z",
+      "completedAt": "2026-09-10T11:45:37Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T114709Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:47:09Z",
+      "completedAt": "2026-09-10T11:47:09Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T114714Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:47:14Z",
+      "completedAt": "2026-09-10T11:47:14Z",
+      "summary": "Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T115206Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:52:06Z",
+      "completedAt": "2026-09-10T11:52:06Z",
+      "summary": "The newest fresh Robinhood Chain package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable.",
+      "reason": "daily_limit; retryAt=2026-09-10T12:14:00Z",
+      "packageId": "pkg-20260910-robinhood-chain-volume",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

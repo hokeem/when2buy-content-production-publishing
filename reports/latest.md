@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T11:35:39.846936+00:00`
+- 状态更新：`2026-09-10T11:53:00.473959+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**502**
-- 待选选题：**439**
-- 待发布制作包：**4**
+- 对标帖子快照：**504**
+- 待选选题：**441**
+- 待发布制作包：**5**
 - 已验证发布：**202**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 11:36:00 +0000 2026 | PALANTIR EVENT TODAY  Palantir $PLTR just confirmed that its AIPCon 11 event will be taking place today  "Some of the world’s most consequential institutions across aviation, technology, media, insurance, defense, healthcare, and manufacturing take the stage.   Acrisure. Cisco. Eaton. The FAA. Hexion. L3Harris. Novartis. NVIDIA. Ondas Sentinel. USA TODAY. Zeta. And more" | [X](https://x.com/StockMKTNewz/status/2098012610838835655) |
+| @WhaleInsider | Thu Sep 10 11:43:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 days - Token Terminal. https://t.co/k8GPrc7Tpz | [X](https://x.com/WhaleInsider/status/2098014522216730854) |
 | @StockMKTNewz | Thu Sep 10 11:22:08 +0000 2026 | NVIDIA AND PALANTIR PARTNERSHIP  Palantir $PLTR and Nvidia $NVDA just announced a new partnership to "bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations."  The two companies built an AI stack combining NVIDIA's open Nemotron models with Palantir's Foundry, AIP, and Ontology, aimed at giving NVIDIA's supply chain teams real-time visibility into constraints and faster materials allocation decisions across a network of millions of parts and thousands of suppliers | [X](https://x.com/StockMKTNewz/status/2098009124122345551) |
 | @StockMKTNewz | Thu Sep 10 11:08:09 +0000 2026 | Here is every stock with a single letter stock ticker  $A - Agilent  $B - Barrick Mining $C - Citi $D - Dominion Energy $E - Eni $F - Ford $G - Genpact $H - Hyatt Hotel $I  $J - Jacobs Solutions $K  $L - Lowes $M - Macy's $N   $O - Realty Income $P - Everpure $Q - Qnity $R - Ryder $S - SentinelOne $T - AT&T $U - Unity Software $V - Visa $W - Wayfair $X  solana:BksqjaKyJqHV5qqbKyAgwZ66JhGKZc33rGkMyKjApump  $Z - Zillow | [X](https://x.com/StockMKTNewz/status/2098005603591307474) |
 | @WhaleInsider | Thu Sep 10 10:49:26 +0000 2026 | JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. https://t.co/TR3alumzk7 | [X](https://x.com/WhaleInsider/status/2098000894960742588) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 23:46:15 +0000 2026 | ZYN IS EXPANDING ITS LINEUP  Philip Morris $PM owned Zyn announced today it will begin selling its flagship Zyn dry pouches in 1.5mg and 8mg strengths, adding to existing offerings at 3mg and 6mg  It is also launching Zyn Ultra, a pouch with a higher moisture content than the flagship product, at 9mg and 11mg.  Philip Morris also said that it will transition to having 20 pouches per can for its 3mg and 6mg products during Q4, up from the 15 pouches in a typical can - WSJ | [X](https://x.com/StockMKTNewz/status/2097833995828338937) |
 | @StockMKTNewz | Wed Sep 09 23:00:17 +0000 2026 | The future of trading https://t.co/ERAAAlafWK | [X](https://x.com/StockMKTNewz/status/2097822431306027059) |
 | @StockMKTNewz | Wed Sep 09 22:18:43 +0000 2026 | 2026: the first foldable iPhone | [X](https://x.com/StockMKTNewz/status/2097811968245596582) |
-| @StockMKTNewz | Wed Sep 09 21:44:09 +0000 2026 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸 Air Force for the  "Joint Air-to-Surface Standoff Missile and Long Range Anti-Ship Missile Large Lot procurement." https://t.co/wnixi8e7mg | [X](https://x.com/StockMKTNewz/status/2097803271696011418) |
-| @StockMKTNewz | Wed Sep 09 21:02:21 +0000 2026 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomberg https://t.co/Wb153bsrEL | [X](https://x.com/StockMKTNewz/status/2097792751861440932) |
 
 ## 选题推荐
 
@@ -171,6 +171,7 @@
 | 1 | Macy's $M stock is up by 5% in pre market trading after reporting earnings 🟢🟢🟢🟢🟢 https://t.c… | StockMKTNewz | 4427 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Here is every stock with a single letter stock ticker $A - Agilent $B - Barrick Mining $C - … | StockMKTNewz | 8180 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | NVIDIA AND PALANTIR PARTNERSHIP Palantir $PLTR and Nvidia $NVDA just announced a new partner… | StockMKTNewz | 8709 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 day… | WhaleInsider | 11308 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -226,6 +227,7 @@
 | 2 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free … | StockMKTNewz | 11366 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | For my ETF fans out there check out this new tool below made by my partner ... you can also … | StockMKTNewz | 7767 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2… | StockMKTNewz | 5448 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | PALANTIR EVENT TODAY Palantir $PLTR just confirmed that its AIPCon 11 event will be taking p… | StockMKTNewz | 8731 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3071,6 +3073,13 @@ Single-letter stock tickers are a rare club: $A, $B, $C, $D, $E, $F, $G, $H, $J,
 
 Palantir and NVIDIA are partnering to bring sovereign AI to critical supply chains, starting with NVIDIA's own operations.
 
+### Robinhood Chain stock tokens top $4B in DEX volume
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-robinhood-chain-volume/when2buy-image-model.png`
+
+Robinhood Chain stock tokens generated more than $4B in DEX volume over the past 30 days.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3281,6 +3290,10 @@ Palantir and NVIDIA are partnering to bring sovereign AI to critical supply chai
 
 ## 最近运行
 
+- `2026-09-10T11:52:06Z` **publish / succeeded** — The newest fresh Robinhood Chain package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-10T12:14:00Z
+- `2026-09-10T11:47:14Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T11:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
+- `2026-09-10T11:45:37Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T11:33:08Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T11:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 1 new post(s).
 - `2026-09-10T11:31:39Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3297,7 +3310,3 @@ Palantir and NVIDIA are partnering to bring sovereign AI to critical supply chai
 - `2026-09-10T10:47:09Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T10:47:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T10:46:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-10T10:46:32Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T10:46:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-10T10:34:06Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T10:33:58.514215+00:00` **produce / succeeded** — Produced the newest fresh XRP package with a verified prediction-market fact and exact-logo composite.
