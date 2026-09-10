@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T22:19:17.101408+00:00",
+  "updatedAt": "2026-09-10T22:31:57.264257+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15625,6 +15625,27 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098174494493773975",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098174494493773975",
+      "postedAt": "Thu Sep 10 22:19:16 +0000 2026",
+      "text": "SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month\n\nSpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR40UKQWYAoNIJZ.jpg"
+      ],
+      "engagement": {
+        "likes": 42,
+        "replies": 10,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 8813
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T22:31:57Z"
     }
   ],
   "radar": [
@@ -274461,6 +274482,37 @@
       "summary": "Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.",
       "reason": "",
       "packageId": "pkg-20260910-gme-ryan-cohen-20m-purchase"
+    },
+    {
+      "id": "run-20260910T223038Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:30:38Z",
+      "completedAt": "2026-09-10T22:30:38Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T223131Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:31:31Z",
+      "completedAt": "2026-09-10T22:31:31Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T223157Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:31:57Z",
+      "completedAt": "2026-09-10T22:31:57Z",
+      "summary": "Apify scanned both benchmark accounts; captured 127 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,8 +1,8 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T22:19:17.101408+00:00`
+- 状态更新：`2026-09-10T22:31:57.264257+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**566**
+- 对标帖子快照：**567**
 - 待选选题：**492**
 - 待发布制作包：**2**
 - 已验证发布：**219**
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 22:19:16 +0000 2026 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month  SpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R | [X](https://x.com/StockMKTNewz/status/2098174494493773975) |
 | @StockMKTNewz | Thu Sep 10 22:01:21 +0000 2026 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK  GameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc | [X](https://x.com/StockMKTNewz/status/2098169986414006375) |
 | @WhaleInsider | Thu Sep 10 21:22:36 +0000 2026 | JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/U1tThtOuDy | [X](https://x.com/WhaleInsider/status/2098160236225798614) |
 | @StockMKTNewz | Thu Sep 10 21:24:26 +0000 2026 | MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032  The company's data center network will reach more than 38 gigawatts, up from about 12 gigawatts now - Bloomberg https://t.co/TqjM0HyNCI | [X](https://x.com/StockMKTNewz/status/2098160694038298889) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 16:47:02 +0000 2026 | JUST IN: Another @MetaWin player just turned $2 into $10,000.  They currently have the best rewards of any crypto casino by a large margin.  They just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP | [X](https://x.com/WhaleInsider/status/2098090884558401767) |
 | @WhaleInsider | Thu Sep 10 16:51:42 +0000 2026 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first critical hires.  To celebrate the launch, Elly is providing a list of top candidates to hiring managers. https://t.co/fezoOJhBv5 | [X](https://x.com/WhaleInsider/status/2098092061643747622) |
 | @StockMKTNewz | Thu Sep 10 16:56:36 +0000 2026 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock at an average price of $70.96 per share https://t.co/m4HoT8i2I5 | [X](https://x.com/StockMKTNewz/status/2098093294899110204) |
-| @WhaleInsider | Thu Sep 10 17:00:13 +0000 2026 | JUST IN: 🇺🇸 Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” https://t.co/uymoDzq4Pf | [X](https://x.com/WhaleInsider/status/2098094202848448781) |
 
 ## 选题推荐
 
@@ -3603,6 +3603,9 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 
 ## 最近运行
 
+- `2026-09-10T22:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 127 eligible originals and added 1 new post(s).
+- `2026-09-10T22:31:31Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T22:30:38Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T22:19:17Z` **produce / succeeded** — Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.
 - `2026-09-10T22:17:16Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T22:16:35Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3620,6 +3623,3 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 - `2026-09-10T21:35:35Z` **publish / succeeded** — Newest fresh KERMIT package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour limit is exhausted. daily_limit; retryAt=2026-09-10T21:50:00Z
 - `2026-09-10T21:34:22Z` **produce / succeeded** — Produced the sole newest fresh KERMIT/Robinhood Chain package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T21:32:38Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T21:30:51Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T21:19:41Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T21:18:47Z` **produce / succeeded** — Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.
