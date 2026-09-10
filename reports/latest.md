@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T10:51:11.993381+00:00`
+- 状态更新：`2026-09-10T11:02:40.543672+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**497**
-- 待选选题：**434**
-- 待发布制作包：**4**
+- 对标帖子快照：**500**
+- 待选选题：**437**
+- 待发布制作包：**3**
 - 已验证发布：**202**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 10:49:26 +0000 2026 | JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. https://t.co/TR3alumzk7 | [X](https://x.com/WhaleInsider/status/2098000894960742588) |
+| @StockMKTNewz | Thu Sep 10 10:56:11 +0000 2026 | China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2019 - Bloomberg https://t.co/tQ4Q6GaEZB | [X](https://x.com/StockMKTNewz/status/2098002593259593965) |
+| @StockMKTNewz | Thu Sep 10 10:59:12 +0000 2026 | Macy's $M stock is up by 5% in pre market trading after reporting earnings  🟢🟢🟢🟢🟢 https://t.co/eriQWyJnII | [X](https://x.com/StockMKTNewz/status/2098003348997697583) |
 | @StockMKTNewz | Thu Sep 10 10:34:21 +0000 2026 | For my ETF fans out there check out this new tool below made by my partner ... you can also follow the X page @etfiq | [X](https://x.com/StockMKTNewz/status/2097997097345679418) |
 | @StockMKTNewz | Thu Sep 10 10:42:49 +0000 2026 | The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken at a valuation of $21 Billion - Bloomberg https://t.co/pteuXcmSIu | [X](https://x.com/StockMKTNewz/status/2097999228006023573) |
 | @WhaleInsider | Thu Sep 10 10:30:50 +0000 2026 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. https://t.co/t5C4t76Uw9 | [X](https://x.com/WhaleInsider/status/2097996211127033977) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 21:02:21 +0000 2026 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomberg https://t.co/Wb153bsrEL | [X](https://x.com/StockMKTNewz/status/2097792751861440932) |
 | @StockMKTNewz | Wed Sep 09 20:54:05 +0000 2026 | Will you be getting the new foldable iPhone? | [X](https://x.com/StockMKTNewz/status/2097790671922872783) |
 | @StockMKTNewz | Wed Sep 09 20:38:12 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/SLTGZ57oNd | [X](https://x.com/StockMKTNewz/status/2097786675023778262) |
-| @StockMKTNewz | Wed Sep 09 20:24:27 +0000 2026 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K  Yes ... being priced at $1,999 does count as the iPhone Duo being $2K | [X](https://x.com/StockMKTNewz/status/2097783213863194739) |
-| @WhaleInsider | Wed Sep 09 19:47:48 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pass the Clarity Act.  "Failing to do so would send a troubling signal to our allies and adversaries alike that America is unwilling to lead on the future of digital assets". https://t.co/hKkpK4fkj2 | [X](https://x.com/WhaleInsider/status/2097773989682909689) |
-| @StockMKTNewz | Wed Sep 09 19:19:06 +0000 2026 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free app on the Apple App Store https://t.co/YXWhsxUk7e | [X](https://x.com/StockMKTNewz/status/2097766765937721570) |
 
 ## 选题推荐
 
@@ -168,6 +168,7 @@
 | 1 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price… | StockMKTNewz | 4978 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. ht… | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryp… | StockMKTNewz | 4672 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Macy's $M stock is up by 5% in pre market trading after reporting earnings 🟢🟢🟢🟢🟢 https://t.c… | StockMKTNewz | 4427 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -222,6 +223,7 @@
 | 2 | JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 bil… | WhaleInsider | 33194 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free … | StockMKTNewz | 11366 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | For my ETF fans out there check out this new tool below made by my partner ... you can also … | StockMKTNewz | 7767 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2… | StockMKTNewz | 5448 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -247,6 +249,7 @@
 | 3 | Google $GOOGL today said it would invest more than $15 billion into AI infrastructure in Fin… | StockMKTNewz | 10419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | This is what $11.5 Million gets you in Utah A house almost the size of the White House https… | StockMKTNewz | 19411 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Here are the 4 new products Apple $AAPL announced today - New iPhone 18 Pro and Pro Max - Up… | StockMKTNewz | 28356 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. http… | WhaleInsider | 16360 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3019,7 +3022,7 @@ Prediction-market traders now price a 75% chance of the next Fed rate hike arriv
 
 ### Palantir and NVIDIA partner on critical supply chains
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-palantir-nvidia-critical-supply-chains/when2buy-image-model.png`
 
 Palantir and NVIDIA are partnering to bring AI capabilities to critical supply chains, starting with NVIDIA's own operations.
@@ -3065,8 +3068,8 @@ Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 bill
 | JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 103 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 90 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
+| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 85 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena | 2026-09-04T06:43:00.000Z | 84 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764647991488660) |
-| $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 84 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
 | JUST IN: $BTC currently forecasted to go as high as $82,000 this month, per Kalshi traders. | 2026-09-04T12:44:00.000Z | 69 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855640375922725) |
 | HOPE token launch reported | 2026-09-03T08:24:00.000Z | 67 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427868683829570) |
@@ -3262,6 +3265,9 @@ Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 bill
 
 ## 最近运行
 
+- `2026-09-10T11:02:06Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T11:02:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 3 new post(s).
+- `2026-09-10T11:00:35Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T10:51:11Z` **publish / succeeded** — The single newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable before source expiry. daily_limit; retryAt=2026-09-10T12:14:00Z
 - `2026-09-10T10:50:32.867384+00:00` **produce / succeeded** — Produced the single newest fresh Nasdaq/Payward package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T10:47:09Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3279,6 +3285,3 @@ Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 bill
 - `2026-09-10T10:24:48Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T10:19:43Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T10:19:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-10T10:18:30Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T10:18:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-10T10:07:16Z` **publish / succeeded** — The newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable. daily_limit; retryAt=2026-09-10T10:21:00Z

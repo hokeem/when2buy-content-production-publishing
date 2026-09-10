@@ -1,14 +1,149 @@
 {
-  "generatedAt": "2026-09-10T10:47:09Z",
+  "generatedAt": "2026-09-10T11:02:06Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2097999228006023573",
+      "benchmarkPostId": "2098003348997697583",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098003348997697583",
+      "originalText": "Macy's $M stock is up by 5% in pre market trading after reporting earnings\n\n🟢🟢🟢🟢🟢 https://t.co/eriQWyJnII",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR2a6dEWkAYnImb.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2a6dEWkAYnImb.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098003348997697583-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 4267
+      },
+      "postedAt": "Thu Sep 10 10:59:12 +0000 2026",
+      "score": 4427,
+      "heatScore": 4427,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 21,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 2.9,
+        "expiresAt": "2026-09-10T12:29:12Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098002593259593965",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098002593259593965",
+      "originalText": "China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2019 - Bloomberg https://t.co/tQ4Q6GaEZB",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR2YcevbsAAhwfh.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2YcevbsAAhwfh.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098002593259593965-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 5258
+      },
+      "postedAt": "Thu Sep 10 10:56:11 +0000 2026",
+      "score": 5448,
+      "heatScore": 5448,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 5.9,
+        "expiresAt": "2026-09-10T12:26:11Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098000894960742588",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098000894960742588",
+      "originalText": "JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. https://t.co/TR3alumzk7",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR2YsX6WsAcIF7P.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2YsX6WsAcIF7P.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098000894960742588-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 42,
+        "replies": 16,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 14520
+      },
+      "postedAt": "Thu Sep 10 10:49:26 +0000 2026",
+      "score": 16360,
+      "heatScore": 16360,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 21,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 12.7,
+        "expiresAt": "2026-09-10T12:19:26Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
+      "benchmarkPostId": "2097999228006023573",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260910-nasdaq-payward-21b-valuation",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2097999228006023573",
       "originalText": "The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken at a valuation of $21 Billion - Bloomberg https://t.co/pteuXcmSIu",
       "originalMediaUrls": [
@@ -42,14 +177,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 4.3,
+        "ageMinutes": 19.3,
         "expiresAt": "2026-09-10T12:12:49Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 5,
       "benchmarkPostId": "2097997097345679418",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -79,14 +214,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 12.8,
+        "ageMinutes": 27.8,
         "expiresAt": "2026-09-10T12:04:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 6,
       "benchmarkPostId": "2097996211127033977",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-xrp-above-150-september",
@@ -130,14 +265,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 16.3,
+        "ageMinutes": 31.3,
         "expiresAt": "2026-09-10T12:00:50Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 7,
       "benchmarkPostId": "2097986246509314464",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-schwab-xrp-etf-collateral-48m",
@@ -181,53 +316,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 55.9,
+        "ageMinutes": 70.9,
         "expiresAt": "2026-09-10T11:21:14Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2097978417425592472",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-palantir-nvidia-critical-supply-chains",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097978417425592472",
-      "originalText": "JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2EP__acAAsM7J.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2EP__acAAsM7J.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097978417425592472-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 35,
-        "replies": 20,
-        "reposts": 11,
-        "quotes": 11,
-        "views": 13779
-      },
-      "postedAt": "Thu Sep 10 09:20:07 +0000 2026",
-      "score": 16489,
-      "heatScore": 16489,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 87.0,
-        "expiresAt": "2026-09-10T10:50:07Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
