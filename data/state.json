@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T01:47:41.829218+00:00",
+  "updatedAt": "2026-09-10T01:57:51.280166+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -197482,6 +197482,46 @@
       "startedAt": "2026-09-10T01:46:05Z",
       "completedAt": "2026-09-10T01:48:00Z",
       "summary": "Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T015605Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T01:56:05Z",
+      "completedAt": "2026-09-10T01:56:05Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T015656Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T01:56:56Z",
+      "completedAt": "2026-09-10T01:56:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T015710Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T01:57:10Z",
+      "completedAt": "2026-09-10T01:57:10Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T015751Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T01:57:51Z",
+      "completedAt": "2026-09-10T01:57:51Z",
+      "summary": "Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, Postiz publication reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.",
       "reason": ""
     }
   ],
