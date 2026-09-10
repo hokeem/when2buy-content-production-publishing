@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T13:32:57Z",
+  "generatedAt": "2026-09-10T13:48:06Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -42,7 +42,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 8.6,
+        "ageMinutes": 23.7,
         "expiresAt": "2026-09-10T14:54:24Z",
         "ttlMinutes": 90
       },
@@ -50,51 +50,6 @@
     },
     {
       "rank": 2,
-      "benchmarkPostId": "2098037988483563998",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098037988483563998",
-      "originalText": "Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, according to code uncovered in iOS 27 - MacRumors https://t.co/TALODstWfN",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2170XXsAM_0NB.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2170XXsAM_0NB.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098037988483563998-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 20,
-        "replies": 8,
-        "reposts": 4,
-        "quotes": 0,
-        "views": 12978
-      },
-      "postedAt": "Thu Sep 10 13:16:50 +0000 2026",
-      "score": 13898,
-      "heatScore": 13898,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 16.1,
-        "expiresAt": "2026-09-10T14:46:50Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
       "benchmarkPostId": "2098034748694188056",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-strategy-bitcoin-treasury",
@@ -132,14 +87,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 29.0,
+        "ageMinutes": 44.1,
         "expiresAt": "2026-09-10T14:33:58Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 3,
       "benchmarkPostId": "2098026596380639714",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-ppi-54-yoy",
@@ -169,14 +124,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 61.4,
+        "ageMinutes": 76.5,
         "expiresAt": "2026-09-10T14:01:34Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 4,
       "benchmarkPostId": "2098025091581747413",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-ecb-rate-hike",
@@ -220,45 +175,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 67.4,
+        "ageMinutes": 82.5,
         "expiresAt": "2026-09-10T13:55:35Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098023164152369238",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098023164152369238",
-      "originalText": "THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5%",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 42,
-        "replies": 7,
-        "reposts": 8,
-        "quotes": 3,
-        "views": 10191
-      },
-      "postedAt": "Thu Sep 10 12:17:56 +0000 2026",
-      "score": 11891,
-      "heatScore": 11891,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 75.0,
-        "expiresAt": "2026-09-10T13:47:56Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

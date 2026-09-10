@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T13:37:14.738554+00:00`
+- 状态更新：`2026-09-10T13:51:45.134834+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**522**
 - 待选选题：**449**
-- 待发布制作包：**3**
+- 待发布制作包：**4**
 - 已验证发布：**204**
 
 ## 对标账号扫描
@@ -3130,6 +3130,13 @@ Strategy $MSTR now holds approximately 845,050 Bitcoin — about 4% of all Bitco
 
 Apple $AAPL may be exploring ads inside Visual Intelligence features.  The possibility comes from code uncovered in iOS 27.
 
+### The Boring Company reaches $23B valuation
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-boring-company-23b-valuation/when2buy-image.png`
+
+The Boring Company is now valued at $23 billion after raising $3 billion in a new funding round.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3342,6 +3349,12 @@ Apple $AAPL may be exploring ads inside Visual Intelligence features.  The possi
 
 ## 最近运行
 
+- `2026-09-10T13:51:45Z` **full / succeeded** — Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, status reconciliation, hard 90-minute queue rebuild, one-package production and QA, metrics check, report rendering, and bounded Postiz delivery check. Deferred safely: minimum 15-minute submission interval; package remains ready and must not be retried before the next eligible cycle.
+- `2026-09-10T13:50:42Z` **produce / succeeded** — Produced the one newest fresh Boring Company package with image-model visual, factual overlay, and exact-logo composite.
+- `2026-09-10T13:48:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T13:47:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
+- `2026-09-10T13:46:43Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T13:46:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T13:37:01Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T13:35:40.852574+00:00` **produce / succeeded** — Produced one newest fresh Apple Visual Intelligence package with generated entity visual and exact-logo compositing.
 - `2026-09-10T13:33:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 0 new post(s).
@@ -3356,9 +3369,3 @@ Apple $AAPL may be exploring ads inside Visual Intelligence features.  The possi
 - `2026-09-10T13:02:27Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T13:01:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T12:49:00Z` **full / succeeded** — Completed mandated reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, metrics pass, and bounded Postiz delivery check. daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.
-- `2026-09-10T12:46:52Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T12:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-10T12:45:41Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T12:35:26Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T12:34:39.537576+00:00` **full / succeeded** — Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, and bounded Postiz delivery check. daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.
-- `2026-09-10T12:33:52.187932+00:00` **produce / succeeded** — Produced one newest fresh ECB rate-hike package with verified facts, generated square entity visual, exact-logo composite, and passed visual QA.

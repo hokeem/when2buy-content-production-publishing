@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T13:37:14.738554+00:00",
+  "updatedAt": "2026-09-10T13:51:45.134834+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -33515,6 +33515,44 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T13:37:01Z",
       "publishedAt": "2026-09-10T13:36:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-boring-company-23b-valuation",
+      "benchmarkPostId": "2098039891233833362",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098039891233833362",
+      "title": "The Boring Company reaches $23B valuation",
+      "status": "ready",
+      "postText": "The Boring Company is now valued at $23 billion after raising $3 billion in a new funding round.",
+      "mirroredFacts": [
+        "The Boring Company is valued at $23 billion.",
+        "The company raised $3 billion in a new funding round."
+      ],
+      "verificationSources": [
+        "https://www.bloomberght.com/muskin-boring-sirketi-23-milyar-dolarlik-degerlemeyle-sermaye-artirdi-3787772",
+        "https://x.com/StockMKTNewz/status/2098039891233833362"
+      ],
+      "imagePath": "deliverables/pkg-20260910-boring-company-23b-valuation/when2buy-image.png",
+      "createdAt": "2026-09-10T13:50:42Z",
+      "sourceExpiresAt": "2026-09-10T14:54:24Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square 1:1 premium entity-led editorial visual of a tunnel-boring machine in a dark underground tunnel; near-black, white and restrained-red palette; no generated text or logos; leave upper-left and lower-left clear for factual overlay and exact repository logo.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T13:50:42Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led tunnel-boring machine visual",
+            "exact visible text THE BORING COMPANY and $23B",
+            "premium near-black, white, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -241069,6 +241107,79 @@
       "completedAt": "2026-09-10T13:37:01Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T134639Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T13:46:39Z",
+      "completedAt": "2026-09-10T13:46:39Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T134643Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T13:46:43Z",
+      "completedAt": "2026-09-10T13:46:43Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T134758Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T13:47:58Z",
+      "completedAt": "2026-09-10T13:47:58Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T134806Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T13:48:06Z",
+      "completedAt": "2026-09-10T13:48:06Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T135042Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T13:50:42Z",
+      "completedAt": "2026-09-10T13:50:42Z",
+      "summary": "Produced the one newest fresh Boring Company package with image-model visual, factual overlay, and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260910-boring-company-23b-valuation"
+      ]
+    },
+    {
+      "id": "run-20260910T135145Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T13:51:45Z",
+      "completedAt": "2026-09-10T13:51:45Z",
+      "summary": "Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, status reconciliation, hard 90-minute queue rebuild, one-package production and QA, metrics check, report rendering, and bounded Postiz delivery check.",
+      "reason": "Deferred safely: minimum 15-minute submission interval; package remains ready and must not be retried before the next eligible cycle.",
+      "selectedPackageIds": [
+        "pkg-20260910-boring-company-23b-valuation"
+      ],
+      "delivery": {
+        "status": "deferred",
+        "retryAt": "2026-09-10T13:51:34Z",
+        "safe": true
+      }
     }
   ],
   "deliveryCircuitBreaker": {
