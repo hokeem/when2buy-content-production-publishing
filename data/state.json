@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T23:32:24.736347+00:00",
+  "updatedAt": "2026-09-10T23:52:10.428082+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15653,6 +15653,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098193139685040156",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098193139685040156",
+      "postedAt": "Thu Sep 10 23:33:21 +0000 2026",
+      "text": "Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's adding six new Ariane 6 launches, expanding its total Arianespace commitment from 18 to 24 launches.\n\nArianespace has delivered 100 Amazon Leo satellites to orbit across three missions https://t.co/jcHlMrcKut",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR5HX6wbwAECi4z.jpg"
+      ],
+      "engagement": {
+        "likes": 35,
+        "replies": 10,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 8916
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T23:46:19Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR5HX6wbwAECi4z.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098193139685040156-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -25020,6 +25048,25 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098193139685040156",
+      "rank": 1,
+      "title": "Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's add…",
+      "benchmarkPostId": "2098193139685040156",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098193139685040156",
+      "score": 10116,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T23:46:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -36854,6 +36901,47 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T23:18:08Z",
       "publishedAt": "2026-09-10T23:17:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-amazon-leo-24-launches",
+      "benchmarkPostId": "2098193139685040156",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098193139685040156",
+      "title": "Amazon Leo expands to 24 launches",
+      "status": "published",
+      "postText": "Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitment from 18 to 24.\n\nArianespace has already placed 100 Amazon Leo satellites into orbit across three missions in 2026.",
+      "mirroredFacts": [
+        "Amazon Leo added six Ariane 64 launches, expanding its Arianespace commitment from 18 to 24.",
+        "Arianespace placed 100 Amazon Leo satellites into orbit across three missions in 2026."
+      ],
+      "verificationSources": [
+        "https://newsroom.arianespace.com/amazon-leo-and-arianespace-strengthen-partnership-with-six-additional-ariane-64-launches/"
+      ],
+      "imagePath": "deliverables/pkg-20260910-amazon-leo-24-launches/when2buy-image-model.png",
+      "createdAt": "2026-09-10T23:48:44.597229+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Asset type: complete square 1:1 premium financial-news editorial visual for When2Buy. Primary request: an original entity-led visual about Amazon Leo's low-Earth-orbit satellite internet network adding six Ariane 64 launches, expanding the Arianespace commitment from 18 to 24, with 100 satellites already placed across three missions. Scene/backdrop: cinematic near-black space above a curved blue Earth. Subject: one detailed communications satellite in low Earth orbit, several smaller satellites on orbital arcs, and an Ariane 6 rocket launching in the distance. Style/medium: polished realistic editorial space art, high contrast, restrained red and amber launch glow. Composition/framing: exact square, dominant satellite across the center, clean upper-left area for factual typography, clean lower-right area for the exact repository logo. Text: all factual typography added after generation. Constraints: no generated readable text, logos, source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, generic radar graphic, or pure-text card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T23:48:44.597246+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led Amazon Leo satellite and Ariane 6 launch visual",
+            "factual typography limited to 18 to 24 launches and 100 satellites across 3 missions",
+            "premium near-black, white, blue, and restrained red/amber palette",
+            "not a pure-text card or generic radar",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtw6kdy70lydqk0yzm337qqp",
+      "postizSubmissionAt": "2026-09-10T23:50:44Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T23:51:10Z",
+      "publishedAt": "2026-09-10T23:50:00.000Z"
     }
   ],
   "posts": [
@@ -40936,6 +41024,24 @@
         "lastAttemptAt": "2026-09-10T23:18:26.049311Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098197615901024660",
+      "packageId": "pkg-20260910-amazon-leo-24-launches",
+      "title": "Amazon Leo expands to 24 launches",
+      "text": "Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitment from 18 to 24.\n\nArianespace has already placed 100 Amazon Leo satellites into orbit across three missions in 2026.",
+      "status": "published",
+      "publishedAt": "2026-09-10T23:50:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098197615901024660",
+      "postizPostId": "cmtw6kdy70lydqk0yzm337qqp",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T23:50:00.000Z",
+        "windowEnd": "2026-09-13T23:50:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -278281,6 +278387,58 @@
       "status": "succeeded",
       "startedAt": "2026-09-10T23:32:24Z",
       "completedAt": "2026-09-10T23:32:24Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T234619Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:46:19Z",
+      "completedAt": "2026-09-10T23:46:19Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T234623Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:46:23Z",
+      "completedAt": "2026-09-10T23:46:23Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T234844Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:48:44.597275+00:00",
+      "completedAt": "2026-09-10T23:48:44.597278+00:00",
+      "summary": "Produced the single newest Amazon Leo package with an inspected image-model visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260910-amazon-leo-24-launches"
+      ]
+    },
+    {
+      "id": "run-20260910T235110Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:51:10Z",
+      "completedAt": "2026-09-10T23:51:10Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T235210Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T23:52:10Z",
+      "completedAt": "2026-09-10T23:52:10Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }

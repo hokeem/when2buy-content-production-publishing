@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T23:32:24.736347+00:00`
+- 状态更新：`2026-09-10T23:52:10.428082+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**567**
-- 待选选题：**493**
+- 对标帖子快照：**568**
+- 待选选题：**494**
 - 待发布制作包：**0**
-- 已验证发布：**221**
+- 已验证发布：**222**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 23:33:21 +0000 2026 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's adding six new Ariane 6 launches, expanding its total Arianespace commitment from 18 to 24 launches.  Arianespace has delivered 100 Amazon Leo satellites to orbit across three missions https://t.co/jcHlMrcKut | [X](https://x.com/StockMKTNewz/status/2098193139685040156) |
 | @StockMKTNewz | Thu Sep 10 22:19:16 +0000 2026 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month  SpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R | [X](https://x.com/StockMKTNewz/status/2098174494493773975) |
 | @StockMKTNewz | Thu Sep 10 22:01:21 +0000 2026 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK  GameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc | [X](https://x.com/StockMKTNewz/status/2098169986414006375) |
 | @WhaleInsider | Thu Sep 10 21:22:36 +0000 2026 | JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/U1tThtOuDy | [X](https://x.com/WhaleInsider/status/2098160236225798614) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 17:07:02 +0000 2026 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9 | [X](https://x.com/StockMKTNewz/status/2098095920927707212) |
 | @WhaleInsider | Thu Sep 10 16:47:02 +0000 2026 | JUST IN: Another @MetaWin player just turned $2 into $10,000.  They currently have the best rewards of any crypto casino by a large margin.  They just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP | [X](https://x.com/WhaleInsider/status/2098090884558401767) |
 | @WhaleInsider | Thu Sep 10 16:51:42 +0000 2026 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first critical hires.  To celebrate the launch, Elly is providing a list of top candidates to hiring managers. https://t.co/fezoOJhBv5 | [X](https://x.com/WhaleInsider/status/2098092061643747622) |
-| @StockMKTNewz | Thu Sep 10 16:56:36 +0000 2026 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock at an average price of $70.96 per share https://t.co/m4HoT8i2I5 | [X](https://x.com/StockMKTNewz/status/2098093294899110204) |
 
 ## 选题推荐
 
@@ -204,6 +204,7 @@
 | 1 | THE US MILITARY NOW FUNDING THE AI BUILD OUT? The Pentagon is in talks to lend roughly $5 bi… | StockMKTNewz | 7331 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK GameStop $GME CEO Ryan Cohen just file… | StockMKTNewz | 13968 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion… | StockMKTNewz | 10413 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's add… | StockMKTNewz | 10116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3384,6 +3385,13 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 
 GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase covered 1,000,000 shares at a weighted average price of $20.3759.
 
+### Amazon Leo expands to 24 launches
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-amazon-leo-24-launches/when2buy-image-model.png`
+
+Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitment from 18 to 24.  Arianespace has already placed 100 Amazon Leo satellites into orbit across three missions in 2026.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3610,9 +3618,15 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 | Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
+| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098197615901024660) |
 
 ## 最近运行
 
+- `2026-09-10T23:52:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T23:51:10Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T23:48:44.597275+00:00` **produce / succeeded** — Produced the single newest Amazon Leo package with an inspected image-model visual and exact-logo composite.
+- `2026-09-10T23:46:23Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T23:46:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T23:32:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:30:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:18:08Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -3628,8 +3642,3 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 - `2026-09-10T22:50:26.008532+00:00` **produce / succeeded** — Produced the single newest fresh SpaceX AI-hosting package with inspected entity visual and exact-logo composite.
 - `2026-09-10T22:47:50Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T22:47:13Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T22:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-10T22:33:48Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T22:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 127 eligible originals and added 1 new post(s).
-- `2026-09-10T22:31:31Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T22:30:38Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
