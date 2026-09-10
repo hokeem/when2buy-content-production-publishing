@@ -21,7 +21,7 @@ The canonical Paseo task runs at minute `00,15,30,45` of every hour in Asia/Shan
 
 Before every submission, reconcile existing Postiz tasks. Postiz acceptance is not publication: persist the accepted task immediately as `publishing`, then reconcile it until `PUBLISHED` plus a public X URL. A temporary `ERROR` remains pending during the 60-minute delayed-success grace period. Never retry an accepted task.
 
-Enforce the account-level safety limits in [postiz-delivery-policy.md](references/postiz-delivery-policy.md): at least 15 minutes between accepted submissions, no more than four per rolling hour, no more than twenty per rolling 24 hours, and one per scheduled cycle.
+Enforce the account-level safety limits in [postiz-delivery-policy.md](references/postiz-delivery-policy.md): at least 15 minutes between accepted submissions, no more than four per rolling hour, no more than twenty-four per rolling 24 hours, and one per scheduled cycle.
 
 ## Run modes and required references
 

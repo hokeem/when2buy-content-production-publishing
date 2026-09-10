@@ -3,7 +3,7 @@
 Postiz acceptance and X publication are separate events. Persist the Postiz task ID immediately after the create request returns and set the package to `publishing` before polling.
 
 - Minimum gap between accepted submissions: 15 minutes.
-- Rolling maximum: 4 submissions per hour and 20 per 24 hours.
+- Rolling maximum: 4 submissions per hour and 24 per 24 hours.
 - Scheduled cycle maximum: 1 submission.
 - Delayed-success grace: 60 minutes.
 - An accepted task in `QUEUE`, `ERROR`, or `FAILED` remains `publishing` during the grace window.

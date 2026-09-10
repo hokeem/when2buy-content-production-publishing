@@ -10,7 +10,7 @@ class PostizDeliveryPolicyTests(unittest.TestCase):
         self.limits = {
             "minIntervalSeconds": 900,
             "hourlyLimit": 4,
-            "dailyLimit": 20,
+            "dailyLimit": 24,
             "errorGraceMinutes": 60,
         }
 
@@ -39,8 +39,8 @@ class PostizDeliveryPolicyTests(unittest.TestCase):
         self.assertFalse(decision["allowed"])
         self.assertEqual(decision["reason"], "hourly_limit")
 
-    def test_blocks_twenty_submissions_in_previous_day(self):
-        packages = [self.package(16 + index * 60) for index in range(20)]
+    def test_blocks_twenty_four_submissions_in_previous_day(self):
+        packages = [self.package(16 + index * 40) for index in range(24)]
         decision = rate_limit_decision({"packages": packages}, at=self.now, limits=self.limits)
         self.assertFalse(decision["allowed"])
         self.assertEqual(decision["reason"], "daily_limit")

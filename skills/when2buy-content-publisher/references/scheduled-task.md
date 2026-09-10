@@ -18,7 +18,7 @@ Every run:
 4. Collect only `@WhaleInsider` and `@StockMKTNewz` through Apify. Exclude pinned posts, replies, repost-only entries, promotions, duplicates, and expired items; archive original media.
 5. Build the hard-90-minute-TTL queue. Process at most one newest fresh item per run. Never revive or publish backlog.
 6. Produce concise original copy and one complete entity-led square generated image, then composite the exact repository logo once.
-7. Publish through `scripts/postiz_publish_batch.py`. The hard account-level limits are one accepted submission every 15 minutes, no more than four in a rolling hour, and no more than twenty in a rolling 24 hours. A `deferred` or `pending_reconciliation` result is a successful safety outcome, not a reason to retry.
+7. Publish through `scripts/postiz_publish_batch.py`. The hard account-level limits are one accepted submission every 15 minutes, no more than four in a rolling hour, and no more than twenty-four in a rolling 24 hours. A `deferred` or `pending_reconciliation` result is a successful safety outcome, not a reason to retry.
 8. Count publication only after reconciliation obtains `PUBLISHED` and a public `x.com` URL. A persistent `ERROR` becomes terminal only after the 60-minute grace window.
 9. Validate state/security, render reports, commit canonical files, push `HEAD:main`, verify the remote commit, and update the fixed content and performance report slugs.
 
