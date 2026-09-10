@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T14:51:35.438198+00:00`
+- 状态更新：`2026-09-10T15:04:45.156847+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**527**
 - 待选选题：**453**
-- 待发布制作包：**1**
+- 待发布制作包：**2**
 - 已验证发布：**206**
 
 ## 对标账号扫描
@@ -3162,6 +3162,13 @@ Jerome Powell sold his Gibson Island waterfront mansion in Maryland for $7.2 mil
 
 Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into restaurant delivery.
 
+### Traders price three more ECB rate hikes
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-ecb-three-rate-hikes/when2buy-image-model.png`
+
+Traders are fully pricing three more ECB rate hikes by mid-2027.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3192,8 +3199,8 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 | Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 47 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 46 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
@@ -3201,8 +3208,8 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
+| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
-| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
@@ -3216,6 +3223,7 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 | Salesforce $CRM and Anthropic just released this new commercial together | 2026-09-04T04:51:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736656079008137) |
 | Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: | 2026-09-04T12:45:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855783753953496) |
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
+| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 28 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569842102706604) |
 | SpaceX returns above $2 trillion | 2026-09-09T10:23:00.000Z | 28 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097632198967099767) |
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
@@ -3233,7 +3241,6 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
-| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
@@ -3257,12 +3264,12 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
+| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
-| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
@@ -3344,6 +3351,7 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 | Robinhood Chain tokenized stocks reach $160M | 2026-09-09T08:53:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097609478095110200) |
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
+| The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -3354,10 +3362,10 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
-| The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
+| Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -3365,7 +3373,6 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
-| Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -3376,6 +3383,9 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 
 ## 最近运行
 
+- `2026-09-10T15:03:40Z` **produce / succeeded** — Produced the sole newest fresh ECB-rate-hikes package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T15:01:38Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T15:01:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T14:50:39.300764+00:00` **produce / succeeded** — Produced the sole newest Walmart/Papa John's fresh package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T14:46:41Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T14:46:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 117 eligible originals and added 3 new post(s).
@@ -3393,6 +3403,3 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 - `2026-09-10T14:01:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T14:01:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
 - `2026-09-10T14:00:37Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T13:51:45Z` **full / succeeded** — Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, status reconciliation, hard 90-minute queue rebuild, one-package production and QA, metrics check, report rendering, and bounded Postiz delivery check. Deferred safely: minimum 15-minute submission interval; package remains ready and must not be retried before the next eligible cycle.
-- `2026-09-10T13:50:42Z` **produce / succeeded** — Produced the one newest fresh Boring Company package with image-model visual, factual overlay, and exact-logo composite.
-- `2026-09-10T13:48:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
