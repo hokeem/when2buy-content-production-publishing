@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T07:28:33.874127+00:00`
+- 状态更新：`2026-09-10T07:32:41.826881+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**490**
 - 待选选题：**427**
@@ -3213,6 +3213,9 @@ U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
 
 ## 最近运行
 
+- `2026-09-10T07:30:54Z` **full / succeeded** — Apify scanned both benchmark accounts, archived benchmark media, reconciled package statuses, rebuilt the hard-TTL queue, and completed the no-publish freshness workflow; no fresh queue items were available, so no package was produced or submitted. No fresh eligible queue items were available inside the 90-minute source TTL.
+- `2026-09-10T07:31:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T07:31:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T07:26:06Z` **full / succeeded** — Apify scanned both benchmark accounts, archived benchmark media, reconciled package statuses, rebuilt the hard-TTL queue, and completed the no-publish freshness workflow; no fresh queue items were available, so no package was produced or submitted. No fresh eligible queue items were available inside the 90-minute source TTL.
 - `2026-09-10T07:27:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T07:27:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
@@ -3230,6 +3233,3 @@ U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
 - `2026-09-10T06:56:56Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T06:56:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-10T06:26:31Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, Postiz publication reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-10T06:28:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T06:28:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 117 eligible originals and added 0 new post(s).
-- `2026-09-10T06:27:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

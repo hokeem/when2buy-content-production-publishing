@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T07:28:33.874127+00:00",
+  "updatedAt": "2026-09-10T07:32:41.826881+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -223666,6 +223666,38 @@
       "status": "succeeded",
       "startedAt": "2026-09-10T07:26:06Z",
       "completedAt": "2026-09-10T07:28:33Z",
+      "summary": "Apify scanned both benchmark accounts, archived benchmark media, reconciled package statuses, rebuilt the hard-TTL queue, and completed the no-publish freshness workflow; no fresh queue items were available, so no package was produced or submitted.",
+      "reason": "No fresh eligible queue items were available inside the 90-minute source TTL.",
+      "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260910T073151Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:31:51Z",
+      "completedAt": "2026-09-10T07:31:51Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T073155Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:31:55Z",
+      "completedAt": "2026-09-10T07:31:55Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T073226Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:30:54Z",
+      "completedAt": "2026-09-10T07:32:26Z",
       "summary": "Apify scanned both benchmark accounts, archived benchmark media, reconciled package statuses, rebuilt the hard-TTL queue, and completed the no-publish freshness workflow; no fresh queue items were available, so no package was produced or submitted.",
       "reason": "No fresh eligible queue items were available inside the 90-minute source TTL.",
       "selectedPackageIds": []
