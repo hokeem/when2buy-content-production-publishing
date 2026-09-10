@@ -1,8 +1,8 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T00:12:39.087064+00:00`
+- 状态更新：`2026-09-10T00:18:25.260039+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**478**
+- 对标帖子快照：**487**
 - 待选选题：**425**
 - 待发布制作包：**0**
 - 已验证发布：**200**
@@ -11,6 +11,15 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Wed Sep 09 16:59:20 +0000 2026 | Apple $AAPL is about to release its brand new iPhone 📱   The event is starting right now … expect to see a lot of Apple tweets from me over the next hour | [X](https://x.com/StockMKTNewz/status/2097731592013684977) |
+| @StockMKTNewz | Wed Sep 09 17:08:01 +0000 2026 | Apple $AAPL just started its first iPhone keynote with John Ternus leading the company  https://t.co/Nm0bf66hfy | [X](https://x.com/StockMKTNewz/status/2097733776902107414) |
+| @StockMKTNewz | Wed Sep 09 17:10:51 +0000 2026 | APPLE $AAPL JUST ANNOUNCED THE NEW IPHONE 18 AND 18 PRO WITH A NEW BURGUNDY COLOR https://t.co/2EMtIsw05y | [X](https://x.com/StockMKTNewz/status/2097734489677992051) |
+| @StockMKTNewz | Wed Sep 09 17:12:21 +0000 2026 | Apple $AAPL just announced the new iPhone 18 and 18 Pro in 4 new colors   Black, Silver, Blue, and Burgundy https://t.co/P1aqJIbPaV | [X](https://x.com/StockMKTNewz/status/2097734869950345367) |
+| @StockMKTNewz | Wed Sep 09 17:15:09 +0000 2026 | Apple $AAPL just said its new updated Siri will not be available in the European Union 🇪🇺 and China 🇨🇳 at the start | [X](https://x.com/StockMKTNewz/status/2097735573570023832) |
+| @StockMKTNewz | Wed Sep 09 17:18:40 +0000 2026 | Apple $AAPL just announced a new upgraded version of Siri https://t.co/5GlIF9PUZ3 | [X](https://x.com/StockMKTNewz/status/2097736460166193390) |
+| @StockMKTNewz | Wed Sep 09 17:21:13 +0000 2026 | APPLE $AAPL JUST SAID THE IPHONE 18 PRO MAX HAS THE LARGEST INCREASE IN BATTERY LIFE EVER ON A NEW IPHONE https://t.co/Y8XvCsmgUa | [X](https://x.com/StockMKTNewz/status/2097737101089423573) |
+| @StockMKTNewz | Wed Sep 09 17:27:25 +0000 2026 | APPLE $AAPL SAYS THE IPHONE PRO MAX HAS A BATTERY LIFE OF UP TO 45 HOURS | [X](https://x.com/StockMKTNewz/status/2097738660875571439) |
+| @StockMKTNewz | Wed Sep 09 17:29:50 +0000 2026 | THE NEW APPLE IPHONE 18 PRO https://t.co/ct2pvtScMe | [X](https://x.com/StockMKTNewz/status/2097739267380261017) |
 | @StockMKTNewz | Thu Sep 10 00:05:58 +0000 2026 | Cathie Wood and Ark Invest bought 43,091 more shares of Meta Platforms $META today https://t.co/3PDdyCesNp | [X](https://x.com/StockMKTNewz/status/2097838961213190179) |
 | @StockMKTNewz | Wed Sep 09 23:46:15 +0000 2026 | ZYN IS EXPANDING ITS LINEUP  Philip Morris $PM owned Zyn announced today it will begin selling its flagship Zyn dry pouches in 1.5mg and 8mg strengths, adding to existing offerings at 3mg and 6mg  It is also launching Zyn Ultra, a pouch with a higher moisture content than the flagship product, at 9mg and 11mg.  Philip Morris also said that it will transition to having 20 pouches per can for its 3mg and 6mg products during Q4, up from the 15 pouches in a typical can - WSJ | [X](https://x.com/StockMKTNewz/status/2097833995828338937) |
 | @StockMKTNewz | Wed Sep 09 23:00:17 +0000 2026 | The future of trading https://t.co/ERAAAlafWK | [X](https://x.com/StockMKTNewz/status/2097822431306027059) |
@@ -32,15 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 17:32:12 +0000 2026 | APPLE $AAPL JUST ANNOUNCED THE NEW AIRPODS 5 | [X](https://x.com/StockMKTNewz/status/2097739863147642923) |
 | @StockMKTNewz | Wed Sep 09 17:35:45 +0000 2026 | Apple $AAPL just announced the new AirPods 5 which start at $129 https://t.co/KRAhTlh8ek | [X](https://x.com/StockMKTNewz/status/2097740756291108977) |
 | @StockMKTNewz | Wed Sep 09 17:46:18 +0000 2026 | Apple $AAPL just announced a new redesigned AI powered Health app coming later this year to the United States 🇺🇸  The new Health app will have use Apple Intelligence built in to give you personalized guidance on all the data it collects https://t.co/GGHVByre9I | [X](https://x.com/StockMKTNewz/status/2097743411621110173) |
-| @StockMKTNewz | Wed Sep 09 17:51:17 +0000 2026 | Apple $AAPL just announced Audio Intelligence   “Just as visual intelligence makes sense of what you see, Audio intelligence makes sense of what you hear”  https://t.co/KL2403qpsK | [X](https://x.com/StockMKTNewz/status/2097744668016496967) |
-| @StockMKTNewz | Wed Sep 09 17:53:55 +0000 2026 | "But actually there is 1 more thing" - John Ternus | [X](https://x.com/StockMKTNewz/status/2097745328556384396) |
-| @StockMKTNewz | Wed Sep 09 17:54:25 +0000 2026 | APPLE $AAPL JUST ANNOUNCED ITS FIRST EVER FOLDABLE PHONE | [X](https://x.com/StockMKTNewz/status/2097745456834965622) |
-| @StockMKTNewz | Wed Sep 09 17:56:00 +0000 2026 | This is what Apple's $AAPL first foldable iPhone looks like https://t.co/wMP05LT4HR | [X](https://x.com/StockMKTNewz/status/2097745853611987451) |
-| @StockMKTNewz | Wed Sep 09 18:04:13 +0000 2026 | Here is a first look at Apple's new iPhone Duo its first-ever foldable phone  The iPhone Duo is now the largest display in iPhone history. Apple said the Duo's screen, when open is 50% larger than the iPhone 19 Pro Max | [X](https://x.com/StockMKTNewz/status/2097747922532065293) |
-| @StockMKTNewz | Wed Sep 09 18:07:51 +0000 2026 | Apple $AAPL said its new foldable iPhone Duo can act as a bedside clock/alarm https://t.co/ThYpHvBrW7 | [X](https://x.com/StockMKTNewz/status/2097748837481709790) |
-| @StockMKTNewz | Wed Sep 09 18:10:59 +0000 2026 | This is what the new foldable iPhone Duo looks like under the screen https://t.co/5MGJD0Vbj5 | [X](https://x.com/StockMKTNewz/status/2097749625360826613) |
-| @StockMKTNewz | Wed Sep 09 18:13:23 +0000 2026 | APPLE $AAPL JUST SAID THE NEW FOLDABLE IPHONE DUO WILL HAVE UP TO 44 HOURS OF BATTERY LIFE WHEN USING THE OUTER DISPLAY | [X](https://x.com/StockMKTNewz/status/2097750228489134288) |
-| @StockMKTNewz | Wed Sep 09 18:14:36 +0000 2026 | Apple $AAPL just announced that its new foldable iPhone will have Touch ID to unlock the phone  https://t.co/UgPsnie3AO | [X](https://x.com/StockMKTNewz/status/2097750534165852336) |
 
 ## 选题推荐
 
@@ -3195,6 +3195,10 @@ Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today
 
 ## 最近运行
 
+- `2026-09-10T00:17:05Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
+- `2026-09-10T00:17:21Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:17:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 82 eligible originals and added 9 new post(s).
+- `2026-09-10T00:15:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:12:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:05:43Z` **full / succeeded** — Postiz-first hourly metrics, Apify collection from both benchmark accounts, benchmark-media archive, verified-status reconciliation, hard-TTL queue rebuild, one fresh image-model package, and one verified X publication completed.
 - `2026-09-10T00:11:46.943260+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -3211,7 +3215,3 @@ Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today
 - `2026-09-09T23:51:26.648020+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-09T23:50:27Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-09T23:50:23.164674+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
-- `2026-09-09T23:46:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
-- `2026-09-09T23:45:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:35:53Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
