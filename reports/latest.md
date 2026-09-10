@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T00:57:39.495209+00:00`
+- 状态更新：`2026-09-10T01:08:08.360823+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**488**
 - 待选选题：**426**
@@ -3053,6 +3053,7 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” | 2026-09-07T00:42:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761201938375037) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
+| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
 | iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097785187346338125) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
@@ -3109,6 +3110,8 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
 | Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
+| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
+| NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097847871278293375) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -3116,7 +3119,6 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Isar Aerospace reaches orbit from western Europe | 2026-09-08T01:48:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097139963221708976) |
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
-| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -3124,13 +3126,13 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
+| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
 | Bitcoin ETFs take in $46.65M | 2026-09-09T05:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097563223033843954) |
-| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3184,6 +3186,7 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
+| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -3191,7 +3194,6 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
-| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -3199,11 +3201,12 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
-| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097840407136833587) |
-| NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097847871278293375) |
 
 ## 最近运行
 
+- `2026-09-10T01:08:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T01:08:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-10T01:06:07Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:57:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:57:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-10T00:56:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3221,6 +3224,3 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 - `2026-09-10T00:17:05Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-10T00:17:21Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:17:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 82 eligible originals and added 9 new post(s).
-- `2026-09-10T00:15:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T00:12:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T00:05:43Z` **full / succeeded** — Postiz-first hourly metrics, Apify collection from both benchmark accounts, benchmark-media archive, verified-status reconciliation, hard-TTL queue rebuild, one fresh image-model package, and one verified X publication completed.
