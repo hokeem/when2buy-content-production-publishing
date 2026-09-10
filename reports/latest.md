@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T19:06:28.041749+00:00`
+- 状态更新：`2026-09-10T19:20:00.123472+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**546**
-- 待选选题：**472**
-- 待发布制作包：**4**
+- 对标帖子快照：**548**
+- 待选选题：**474**
+- 待发布制作包：**5**
 - 已验证发布：**212**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 19:06:19 +0000 2026 | JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, fully supported by the launchpad. Hold $STONKCHAD and earn RWA rewards directly to your wallet. https://t.co/YUZYxpvn1V | [X](https://x.com/WhaleInsider/status/2098125939636871240) |
+| @WhaleInsider | Thu Sep 10 19:15:12 +0000 2026 | JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M customers, is integrating $CRCL stablecoins into its new multi-currency digital account. https://t.co/gLFzGwpu9Q | [X](https://x.com/WhaleInsider/status/2098128172797530309) |
 | @WhaleInsider | Thu Sep 10 18:50:48 +0000 2026 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing $ROBLOXIANS to gain traction. https://t.co/SEUuII622O | [X](https://x.com/WhaleInsider/status/2098122034635038838) |
 | @StockMKTNewz | Thu Sep 10 18:17:11 +0000 2026 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week | [X](https://x.com/StockMKTNewz/status/2098113572123394403) |
 | @WhaleInsider | Thu Sep 10 18:06:35 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM | [X](https://x.com/WhaleInsider/status/2098110906240553240) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 13:24:24 +0000 2026 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | [X](https://x.com/StockMKTNewz/status/2098039891233833362) |
 | @StockMKTNewz | Thu Sep 10 13:03:58 +0000 2026 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show:  “We've now stacked 845,000 Bitcoin on our balance sheet, 4% of all the Bitcoin that will ever exist. So we're also the largest holder of Bitcoin in the world at this point in time” https://t.co/IxU9KPBtyc | [X](https://x.com/StockMKTNewz/status/2098034748694188056) |
 | @StockMKTNewz | Thu Sep 10 12:48:54 +0000 2026 | I AM NOW DOWN ON MY TRADE BELOW  There is now just a 39% chance that the 🇺🇸 Fed will leave rates unchanged next week and a 61% chance they raise by 0.25% https://t.co/4iixsUEG5h | [X](https://x.com/StockMKTNewz/status/2098030957466988614) |
-| @StockMKTNewz | Thu Sep 10 12:31:34 +0000 2026 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | [X](https://x.com/StockMKTNewz/status/2098026596380639714) |
-| @StockMKTNewz | Thu Sep 10 12:17:56 +0000 2026 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | [X](https://x.com/StockMKTNewz/status/2098023164152369238) |
 
 ## 选题推荐
 
@@ -194,6 +194,7 @@
 | 1 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this w… | WhaleInsider | 15827 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $… | StockMKTNewz | 11465 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing… | WhaleInsider | 15585 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M c… | WhaleInsider | 8464 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -257,6 +258,7 @@
 | 2 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the … | StockMKTNewz | 14023 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock.… | WhaleInsider | 14992 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock a… | StockMKTNewz | 8105 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, … | WhaleInsider | 17262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3279,6 +3281,13 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 
 The official PNUT and Gigachad X accounts both posted Roblox-themed tweets.  $ROBLOXIANS is gaining traction.
 
+### Nu integrates USDC into new multi-currency account
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-nu-usdc-multicurrency/when2buy-image-model.png`
+
+Nu is integrating USDC into a new multi-currency digital account.  Nu serves more than 140M customers.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3499,6 +3508,10 @@ The official PNUT and Gigachad X accounts both posted Roblox-themed tweets.  $RO
 
 ## 最近运行
 
+- `2026-09-10T19:20:00Z` **publish / succeeded** — Newest Nu USDC package was safely deferred before Postiz acceptance by the rolling 24-hour account limit. daily_limit
+- `2026-09-10T19:18:52Z` **produce / succeeded** — Produced the single newest fresh Nu USDC package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T19:16:20Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T19:16:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 13 eligible originals and added 2 new post(s).
 - `2026-09-10T19:06:28.039883+00:00` **publish / succeeded** — Safely deferred the newest fresh Roblox-themed package because the rolling 24-hour Postiz limit was exhausted; no submission was accepted. daily_limit; retryAt=2026-09-10T19:32:00Z
 - `2026-09-10T19:05:07.400591+00:00` **produce / succeeded** — Produced the single newest fresh Roblox-themed $ROBLOXIANS package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T19:03:26Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3515,7 +3528,3 @@ The official PNUT and Gigachad X accounts both posted Roblox-themed tweets.  $RO
 - `2026-09-10T18:30:44Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:15:00Z` **full / succeeded** — Scanned both benchmark feeds, archived media, produced one newest fresh package, and safely deferred Postiz submission because the rolling daily limit was exhausted. daily_limit; retryAt 2026-09-10T19:32:00Z; package remains ready and must not be retried before a future scheduled run.
 - `2026-09-10T18:16:48Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:16:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 50 eligible originals and added 0 new post(s).
-- `2026-09-10T18:16:31Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:16:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 50 eligible originals and added 1 new post(s).
-- `2026-09-10T18:15:33Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).

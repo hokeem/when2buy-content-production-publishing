@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T19:06:28.041749+00:00",
+  "updatedAt": "2026-09-10T19:20:00.123472+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15059,6 +15059,68 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098128172797530309",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098128172797530309",
+      "postedAt": "Thu Sep 10 19:15:12 +0000 2026",
+      "text": "JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M customers, is integrating $CRCL stablecoins into its new multi-currency digital account. https://t.co/gLFzGwpu9Q",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4McQRXoAQSvi4.jpg"
+      ],
+      "engagement": {
+        "likes": 8,
+        "replies": 5,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 7844
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T19:16:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4McQRXoAQSvi4.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098128172797530309-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098125939636871240",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098125939636871240",
+      "postedAt": "Thu Sep 10 19:06:19 +0000 2026",
+      "text": "JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, fully supported by the launchpad. Hold $STONKCHAD and earn RWA rewards directly to your wallet. https://t.co/YUZYxpvn1V",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4KazSasAEGsbf.jpg",
+        "https://pbs.twimg.com/media/HR4KazKaIAAiOJq.jpg"
+      ],
+      "engagement": {
+        "likes": 119,
+        "replies": 12,
+        "reposts": 13,
+        "quotes": 2,
+        "views": 13632
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T19:16:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4KazSasAEGsbf.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098125939636871240-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4KazKaIAAiOJq.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098125939636871240-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -24025,6 +24087,44 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098128172797530309",
+      "rank": 1,
+      "title": "JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M c…",
+      "benchmarkPostId": "2098128172797530309",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098128172797530309",
+      "score": 8464,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T19:16:20Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098125939636871240",
+      "rank": 2,
+      "title": "JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, …",
+      "benchmarkPostId": "2098125939636871240",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098125939636871240",
+      "score": 17262,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T19:16:20Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -35371,6 +35471,45 @@
             "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
             "not a pure-text card or generic-radar visual",
             "exact repository logo composited once"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-nu-usdc-multicurrency",
+      "benchmarkPostId": "2098128172797530309",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098128172797530309",
+      "title": "Nu integrates USDC into new multi-currency account",
+      "status": "ready",
+      "postText": "Nu is integrating USDC into a new multi-currency digital account.\n\nNu serves more than 140M customers.",
+      "mirroredFacts": [
+        "Nu is integrating USDC into a new multi-currency digital account.",
+        "Nu serves more than 140 million customers."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098128172797530309",
+        "https://nu.com/en/about",
+        "https://www.circle.com/case-studies/nubank",
+        "https://www.sec.gov/Archives/edgar/data/1691493/000129281426002166/nuform20f_2025.htm"
+      ],
+      "imagePath": "deliverables/pkg-20260910-nu-usdc-multicurrency/when2buy-image-model.png",
+      "createdAt": "2026-09-10T19:18:52Z",
+      "sourceExpiresAt": "2026-09-10T20:45:12Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led fintech scene: Nu digital banking phone, digital-dollar stablecoin, multi-currency payment rails, near-black premium financial-news styling, clear lower-right logo-safe area; no readable base text, logos, source, disclaimer, CTA, tagline, watermark, or pure-text card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T19:18:52Z",
+          "result": "passed",
+          "checks": [
+            "square 1536x1536 PNG",
+            "complete Nu/USDC entity-led scene",
+            "factual headline and support line composited",
+            "exact repository logo composited once",
+            "no attribution, source, disclaimer, commentary, CTA, or fixed tagline",
+            "not a pure-text card"
           ]
         }
       }
@@ -262186,6 +262325,51 @@
         "pkg-20260910-robloxians-traction"
       ],
       "publishOutcome": "deferred",
+      "retryAt": "2026-09-10T19:32:00Z"
+    },
+    {
+      "id": "run-20260910T191616Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:16:16Z",
+      "completedAt": "2026-09-10T19:16:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 13 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T191620Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:16:20Z",
+      "completedAt": "2026-09-10T19:16:20Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T191852Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:18:52Z",
+      "completedAt": "2026-09-10T19:18:52Z",
+      "summary": "Produced the single newest fresh Nu USDC package with an inspected entity-led image and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T192000Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:20:00Z",
+      "completedAt": "2026-09-10T19:20:00Z",
+      "summary": "Newest Nu USDC package was safely deferred before Postiz acceptance by the rolling 24-hour account limit.",
+      "reason": "daily_limit",
+      "packageIds": [
+        "pkg-20260910-nu-usdc-multicurrency"
+      ],
+      "outcome": "deferred",
       "retryAt": "2026-09-10T19:32:00Z"
     }
   ],
