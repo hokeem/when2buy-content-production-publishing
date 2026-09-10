@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T21:04:42.948348+00:00",
+  "updatedAt": "2026-09-10T21:19:41.377995+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15445,6 +15445,68 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098156812818067547",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098156812818067547",
+      "postedAt": "Thu Sep 10 21:09:00 +0000 2026",
+      "text": "JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem and $94 billion in circulating $USDT to millions of users. https://t.co/Lspc6QSjx3",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4mfyCbgAAqa6W.jpg"
+      ],
+      "engagement": {
+        "likes": 17,
+        "replies": 13,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 11108
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T21:16:20Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4mfyCbgAAqa6W.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098156812818067547-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098154982411305155",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098154982411305155",
+      "postedAt": "Thu Sep 10 21:01:44 +0000 2026",
+      "text": "JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Grok. https://t.co/vLsRaHtlLw",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4k1LdXQA8o2z6.jpg",
+        "https://pbs.twimg.com/media/HR4k1LQWIAcoIUO.jpg"
+      ],
+      "engagement": {
+        "likes": 81,
+        "replies": 38,
+        "reposts": 31,
+        "quotes": 6,
+        "views": 13934
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T21:16:20Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4k1LdXQA8o2z6.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098154982411305155-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4k1LQWIAcoIUO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098154982411305155-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -24677,6 +24739,44 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098156812818067547",
+      "rank": 1,
+      "title": "JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem…",
+      "benchmarkPostId": "2098156812818067547",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098156812818067547",
+      "score": 12698,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T21:16:25Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098154982411305155",
+      "rank": 2,
+      "title": "JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Gr…",
+      "benchmarkPostId": "2098154982411305155",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098154982411305155",
+      "score": 18984,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T21:16:25Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -36296,6 +36396,50 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260910-metamask-tron-connectivity",
+      "benchmarkPostId": "2098156812818067547",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098156812818067547",
+      "title": "MetaMask expands TRON connectivity",
+      "status": "published",
+      "postText": "MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its multichain wallet.\n\nTRON’s ecosystem includes roughly $94B in circulating USDT.",
+      "mirroredFacts": [
+        "MetaMask supports TRON accounts, TRX, and TRC-20 USDT in its multichain wallet.",
+        "The benchmark alert described the move as broadening access to TRON’s DeFi ecosystem and roughly $94 billion in circulating USDT."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098156812818067547",
+        "https://metamask.io/news/tron-on-metamask-trx-wallet",
+        "https://tether.to/en/transparency/",
+        "https://tether.to/en/tether-and-rhinofi-forge-strategic-alliance-to-enhance-usdt-utility-within-defi-prioritizing-user-experience/"
+      ],
+      "imagePath": "deliverables/pkg-20260910-metamask-tron-connectivity/when2buy-image-model.png",
+      "createdAt": "2026-09-10T21:18:47Z",
+      "sourceExpiresAt": "2026-09-10T22:39:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Complete square 1:1 premium financial-news editorial visual about MetaMask expanding connectivity to the TRON network, with a self-custody wallet, TRON blockchain network, and stablecoin liquidity flow as the entity-led subject. Near-black base, white typography and controlled red accents added later, clean upper-left typography space and lower-right logo-safe space. No readable text, source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, generated branding, or pure-text card; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T21:18:47Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete wallet, TRON network, and stablecoin entity scene",
+            "exact factual text composited once",
+            "exact repository logo composited once in lower-right clear space",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtw15ke00dd9lm0yfvyor36b",
+      "postizSubmissionAt": "2026-09-10T21:19:14Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T21:19:41Z",
+      "publishedAt": "2026-09-10T21:19:00.000Z"
     }
   ],
   "posts": [
@@ -40306,6 +40450,24 @@
         "lastAttemptAt": "2026-09-10T21:04:09.304274Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098159492718641248",
+      "packageId": "pkg-20260910-metamask-tron-connectivity",
+      "title": "MetaMask expands TRON connectivity",
+      "text": "MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its multichain wallet.\n\nTRON’s ecosystem includes roughly $94B in circulating USDT.",
+      "status": "published",
+      "publishedAt": "2026-09-10T21:19:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098159492718641248",
+      "postizPostId": "cmtw15ke00dd9lm0yfvyor36b",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T21:19:00.000Z",
+        "windowEnd": "2026-09-13T21:19:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -270314,6 +270476,66 @@
       "reason": "daily_limit; retryAt=2026-09-10T21:13:00Z",
       "packageId": "pkg-20260910-bitwise-doge-etf-shutdown",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T211557Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:15:57Z",
+      "completedAt": "2026-09-10T21:15:57Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T211620Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:16:20Z",
+      "completedAt": "2026-09-10T21:16:20Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T211625Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:16:25Z",
+      "completedAt": "2026-09-10T21:16:25Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T211829Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:18:29Z",
+      "completedAt": "2026-09-10T21:18:29Z",
+      "summary": "Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "packageId": "pkg-20260910-metamask-tron-connectivity"
+    },
+    {
+      "id": "run-20260910T211847Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:18:47Z",
+      "completedAt": "2026-09-10T21:18:47Z",
+      "summary": "Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "packageId": "pkg-20260910-metamask-tron-connectivity"
+    },
+    {
+      "id": "run-20260910T211941Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:19:41Z",
+      "completedAt": "2026-09-10T21:19:41Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

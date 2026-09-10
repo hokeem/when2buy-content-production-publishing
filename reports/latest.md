@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T21:04:42.948348+00:00`
+- 状态更新：`2026-09-10T21:19:41.377995+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**560**
-- 待选选题：**486**
+- 对标帖子快照：**562**
+- 待选选题：**488**
 - 待发布制作包：**2**
-- 已验证发布：**217**
+- 已验证发布：**218**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 21:01:44 +0000 2026 | JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Grok. https://t.co/vLsRaHtlLw | [X](https://x.com/WhaleInsider/status/2098154982411305155) |
+| @WhaleInsider | Thu Sep 10 21:09:00 +0000 2026 | JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem and $94 billion in circulating $USDT to millions of users. https://t.co/Lspc6QSjx3 | [X](https://x.com/WhaleInsider/status/2098156812818067547) |
 | @WhaleInsider | Thu Sep 10 20:42:09 +0000 2026 | JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JYtO | [X](https://x.com/WhaleInsider/status/2098150053177102560) |
 | @WhaleInsider | Thu Sep 10 20:20:25 +0000 2026 | JUST IN: $NINJACAT holders on Robinhood Chain are now automatically eligible for MSFT stock rewards through a fully autonomous process, with a multi-chain integrated bridge and swap feature also coming soon. https://t.co/oqMoRSwq4i | [X](https://x.com/WhaleInsider/status/2098144587617308944) |
 | @WhaleInsider | Thu Sep 10 20:22:43 +0000 2026 | JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud conviction. https://t.co/E2bRRGK8L9 | [X](https://x.com/WhaleInsider/status/2098145162689937869) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Thu Sep 10 16:30:08 +0000 2026 | JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting, liquidity, risk, reconciliation and reporting. https://t.co/wiiBZ6WMf8 | [X](https://x.com/WhaleInsider/status/2098086633262199066) |
 | @StockMKTNewz | Thu Sep 10 16:14:59 +0000 2026 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID:  Cybersecurity is the next major use case of AI https://t.co/vg6jEDaAgW | [X](https://x.com/StockMKTNewz/status/2098082819452833956) |
 | @StockMKTNewz | Thu Sep 10 15:56:12 +0000 2026 | The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first time since June  🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2098078093286031846) |
-| @StockMKTNewz | Thu Sep 10 15:31:56 +0000 2026 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the $BLK shares he owns https://t.co/5RHz0Zbk0v | [X](https://x.com/StockMKTNewz/status/2098071985452441657) |
-| @StockMKTNewz | Thu Sep 10 15:39:55 +0000 2026 | Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform Listen Labs for ~$2 Billion | [X](https://x.com/StockMKTNewz/status/2098073996868648986) |
 
 ## 选题推荐
 
@@ -200,6 +200,7 @@
 | 1 | ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt | StockMKTNewz | 9418 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last y… | StockMKTNewz | 20 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JY… | WhaleInsider | 12231 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem… | WhaleInsider | 12698 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -268,6 +269,7 @@
 | 2 | Lululemon $LULU stock hit new 52 WEEK LOWS again today https://t.co/17hWbaNrBV | StockMKTNewz | 16949 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | ROBINHOOD $HOOD JUST REPORTED ITS AUGUST 2026 MONTHLY METRICS - Event Contracts Traded: 4.7B… | StockMKTNewz | 9651 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud convictio… | WhaleInsider | 13948 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Gr… | WhaleInsider | 18984 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3342,6 +3344,13 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 
 Bitwise is shutting down its DOGE ETF less than a year after launch.
 
+### MetaMask expands TRON connectivity
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-metamask-tron-connectivity/when2buy-image-model.png`
+
+MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its multichain wallet.  TRON’s ecosystem includes roughly $94B in circulating USDT.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3564,9 +3573,16 @@ Bitwise is shutting down its DOGE ETF less than a year after launch.
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098159492718641248) |
 
 ## 最近运行
 
+- `2026-09-10T21:19:41Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T21:18:47Z` **produce / succeeded** — Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T21:18:29Z` **produce / succeeded** — Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T21:16:25Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T21:16:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
+- `2026-09-10T21:15:57Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T21:04:42Z` **publish / succeeded** — The sole newest fresh DOGE ETF package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T21:13:00Z
 - `2026-09-10T21:03:27Z` **produce / succeeded** — Produced one newest fresh Bitwise DOGE ETF package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T21:01:18Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3581,9 +3597,3 @@ Bitwise is shutting down its DOGE ETF less than a year after launch.
 - `2026-09-10T20:35:01.452113+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
 - `2026-09-10T20:34:41.574788+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
 - `2026-09-10T20:32:45Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T20:32:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 4 eligible originals and added 0 new post(s).
-- `2026-09-10T20:31:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
-- `2026-09-10T20:31:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 3 new post(s).
-- `2026-09-10T20:19:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T20:19:22.718656+00:00` **produce / succeeded** — Produced one newest fresh Oracle earnings package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T20:16:51Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).

@@ -1,14 +1,110 @@
 {
-  "generatedAt": "2026-09-10T21:01:18Z",
+  "generatedAt": "2026-09-10T21:16:25Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098150053177102560",
+      "benchmarkPostId": "2098156812818067547",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098156812818067547",
+      "originalText": "JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem and $94 billion in circulating $USDT to millions of users. https://t.co/Lspc6QSjx3",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR4mfyCbgAAqa6W.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4mfyCbgAAqa6W.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098156812818067547-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 17,
+        "replies": 13,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 11108
+      },
+      "postedAt": "Thu Sep 10 21:09:00 +0000 2026",
+      "score": 12698,
+      "heatScore": 12698,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 7.4,
+        "expiresAt": "2026-09-10T22:39:00Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098154982411305155",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098154982411305155",
+      "originalText": "JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Grok. https://t.co/vLsRaHtlLw",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR4k1LdXQA8o2z6.jpg",
+        "https://pbs.twimg.com/media/HR4k1LQWIAcoIUO.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4k1LdXQA8o2z6.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098154982411305155-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4k1LQWIAcoIUO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098154982411305155-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 81,
+        "replies": 38,
+        "reposts": 31,
+        "quotes": 6,
+        "views": 13934
+      },
+      "postedAt": "Thu Sep 10 21:01:44 +0000 2026",
+      "score": 18984,
+      "heatScore": 18984,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 14.7,
+        "expiresAt": "2026-09-10T22:31:44Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098150053177102560",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260910-bitwise-doge-etf-shutdown",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2098150053177102560",
       "originalText": "JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JYtO",
       "originalMediaUrls": [
@@ -48,14 +144,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 19.2,
+        "ageMinutes": 34.3,
         "expiresAt": "2026-09-10T22:12:09Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 4,
       "benchmarkPostId": "2098145162689937869",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-sbf-supreme-court",
@@ -93,14 +189,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 38.6,
+        "ageMinutes": 53.7,
         "expiresAt": "2026-09-10T21:52:43Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098144587617308944",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -138,14 +234,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 40.9,
+        "ageMinutes": 56.0,
         "expiresAt": "2026-09-10T21:50:25Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2098142302745055277",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -183,14 +279,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 50.0,
+        "ageMinutes": 65.1,
         "expiresAt": "2026-09-10T21:41:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 7,
       "benchmarkPostId": "2098141145029104029",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -220,53 +316,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 54.6,
+        "ageMinutes": 69.7,
         "expiresAt": "2026-09-10T21:36:45Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098134199727251462",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098134199727251462",
-      "originalText": "Lululemon $LULU stock hit new 52 WEEK LOWS again today https://t.co/17hWbaNrBV",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4R7r8XcAE67Bv.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4R7r8XcAE67Bv.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098134199727251462-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 60,
-        "replies": 13,
-        "reposts": 5,
-        "quotes": 7,
-        "views": 14559
-      },
-      "postedAt": "Thu Sep 10 19:39:09 +0000 2026",
-      "score": 16949,
-      "heatScore": 16949,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 82.2,
-        "expiresAt": "2026-09-10T21:09:09Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
