@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T19:31:36Z",
+  "generatedAt": "2026-09-10T19:45:35Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -34,7 +34,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 1.8,
+        "ageMinutes": 15.8,
         "expiresAt": "2026-09-10T20:59:47Z",
         "ttlMinutes": 90
       },
@@ -85,7 +85,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 2.1,
+        "ageMinutes": 16.1,
         "expiresAt": "2026-09-10T20:59:30Z",
         "ttlMinutes": 90
       },
@@ -130,7 +130,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 11.6,
+        "ageMinutes": 25.5,
         "expiresAt": "2026-09-10T20:50:03Z",
         "ttlMinutes": 90
       },
@@ -138,51 +138,6 @@
     },
     {
       "rank": 4,
-      "benchmarkPostId": "2098128172797530309",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-nu-usdc-multicurrency",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098128172797530309",
-      "originalText": "JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M customers, is integrating $CRCL stablecoins into its new multi-currency digital account. https://t.co/gLFzGwpu9Q",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4McQRXoAQSvi4.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4McQRXoAQSvi4.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098128172797530309-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 8,
-        "replies": 5,
-        "reposts": 4,
-        "quotes": 1,
-        "views": 7844
-      },
-      "postedAt": "Thu Sep 10 19:15:12 +0000 2026",
-      "score": 8464,
-      "heatScore": 8464,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 16.4,
-        "expiresAt": "2026-09-10T20:45:12Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
       "benchmarkPostId": "2098125939636871240",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -226,14 +181,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 25.3,
+        "ageMinutes": 39.3,
         "expiresAt": "2026-09-10T20:36:19Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 5,
       "benchmarkPostId": "2098122034635038838",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-robloxians-traction",
@@ -277,14 +232,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 40.8,
+        "ageMinutes": 54.8,
         "expiresAt": "2026-09-10T20:20:48Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 7,
+      "rank": 6,
       "benchmarkPostId": "2098113572123394403",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-us-gas-428",
@@ -314,59 +269,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 74.4,
+        "ageMinutes": 88.4,
         "expiresAt": "2026-09-10T19:47:11Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2098110906240553240",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-treasury-debt-buyback",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098110906240553240",
-      "originalText": "JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR38tv2W8AU05Fe.jpg",
-        "https://pbs.twimg.com/media/HR38uPBasAAX7jd.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR38tv2W8AU05Fe.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098110906240553240-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR38uPBasAAX7jd.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098110906240553240-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 40,
-        "replies": 19,
-        "reposts": 14,
-        "quotes": 1,
-        "views": 13507
-      },
-      "postedAt": "Thu Sep 10 18:06:35 +0000 2026",
-      "score": 15827,
-      "heatScore": 15827,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 85.0,
-        "expiresAt": "2026-09-10T19:36:35Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T19:32:32.790369+00:00",
+  "updatedAt": "2026-09-10T19:48:37.997147+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -35518,7 +35518,7 @@
       "benchmarkPostId": "2098110906240553240",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098110906240553240",
       "title": "U.S. Treasury $6B debt buyback",
-      "status": "ready",
+      "status": "expired",
       "postText": "U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 operation.\n\nThat is triple the size of its last long-dated buyback.",
       "mirroredFacts": [
         "The U.S. Treasury's September 10 operation is set to buy back up to $6 billion of 10- to 20-year Treasury bonds.",
@@ -35539,7 +35539,10 @@
         "qaStatus": "passed",
         "generatedBasePath": "deliverables/pkg-20260910-treasury-debt-buyback/generated-base.png",
         "finalImagePath": "deliverables/pkg-20260910-treasury-debt-buyback/when2buy-image.png"
-      }
+      },
+      "expiredAt": "2026-09-10T19:45:32Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-10T19:36:35Z"
     },
     {
       "id": "pkg-20260910-us-gas-428",
@@ -35659,6 +35662,35 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T19:32:32Z",
       "publishedAt": "2026-09-10T19:32:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-vanguard-decade-etfs",
+      "benchmarkPostId": "2098131841609871395",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098131841609871395",
+      "title": "Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade",
+      "status": "published",
+      "postText": "At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last decade.",
+      "mirroredFacts": [
+        "Vanguard growth and large/mega-cap ETFs were the only ETFs beating the S&P 500 over the last decade."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098131841609871395",
+        "https://advisors.vanguard.com/investments/products/VOOG/vanguard-s%26p-500-growth-etf",
+        "https://advisors.vanguard.com/investments/products/mgk/vanguard-morningstar-mega-cap-growth-etf"
+      ],
+      "imagePath": "deliverables/pkg-20260910-vanguard-decade-etfs/when2buy-image-model.png",
+      "createdAt": "2026-09-10T19:47:41.498676+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led editorial visual of Vanguard growth and large/mega-cap funds outperforming an S&P 500 benchmark; no generated text or logos; exact repository logo composited once.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtvxw4z80c6nlm0ydqvcs09h",
+      "postizSubmissionAt": "2026-09-10T19:47:55Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T19:48:23Z",
+      "publishedAt": "2026-09-10T19:47:00.000Z"
     }
   ],
   "posts": [
@@ -39592,11 +39624,29 @@
       "postizPostId": "cmtvxbpa70j3iqk0yx2e2ykqe",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-10T19:32:00.000Z",
+        "windowStart": "2026-09-10T19:32:00Z",
         "windowEnd": "2026-09-13T19:32:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-10T19:48:37.400523Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098136515163627648",
+      "packageId": "pkg-20260910-vanguard-decade-etfs",
+      "title": "Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade",
+      "text": "At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last decade.",
+      "status": "published",
+      "publishedAt": "2026-09-10T19:47:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098136515163627648",
+      "postizPostId": "cmtvxw4z80c6nlm0ydqvcs09h",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T19:47:00Z",
+        "windowEnd": "2026-09-13T19:47:00Z",
+        "lastAttemptAt": "2026-09-10T19:48:37.400523Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     }
   ],
@@ -244956,6 +245006,90 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-10T19:05:32.228379Z"
       }
+    },
+    {
+      "id": "metric-2098132516674892282-20260910T194837Z",
+      "postId": "2098132516674892282",
+      "observedAt": "2026-09-10T19:48:37.400523Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvxbpa70j3iqk0yx2e2ykqe",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvxbpa70j3iqk0yx2e2ykqe",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T19:48:37.400523Z"
+      }
+    },
+    {
+      "id": "metric-2098136515163627648-20260910T194837Z",
+      "postId": "2098136515163627648",
+      "observedAt": "2026-09-10T19:48:37.400523Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvxw4z80c6nlm0ydqvcs09h",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvxw4z80c6nlm0ydqvcs09h",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T19:48:37.400523Z"
+      }
     }
   ],
   "experiments": [],
@@ -262573,6 +262707,33 @@
       "status": "succeeded",
       "startedAt": "2026-09-10T19:32:32Z",
       "completedAt": "2026-09-10T19:32:32Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T194535Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:45:35Z",
+      "completedAt": "2026-09-10T19:45:35Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T194741Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:47:41.498812+00:00",
+      "completedAt": "2026-09-10T19:47:41.498819+00:00",
+      "summary": "Produced one newest fresh Vanguard ETF package with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T194823Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:48:23Z",
+      "completedAt": "2026-09-10T19:48:23Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

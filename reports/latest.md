@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T19:32:32.790369+00:00`
+- 状态更新：`2026-09-10T19:48:37.997147+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**551**
 - 待选选题：**477**
-- 待发布制作包：**3**
-- 已验证发布：**213**
+- 待发布制作包：**2**
+- 已验证发布：**214**
 
 ## 对标账号扫描
 
@@ -3265,7 +3265,7 @@ OpenAI just announced ChatGPT for Financial Services.  The tailored ChatGPT Work
 
 ### U.S. Treasury $6B debt buyback
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-treasury-debt-buyback/when2buy-image.png`
 
 U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 operation.  That is triple the size of its last long-dated buyback.
@@ -3290,6 +3290,13 @@ The official PNUT and Gigachad X accounts both posted Roblox-themed tweets.  $RO
 - 配图：`deliverables/pkg-20260910-nu-usdc-multicurrency/when2buy-image-model.png`
 
 Nu is integrating USDC into a new multi-currency digital account.  Nu serves more than 140M customers.
+
+### Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-vanguard-decade-etfs/when2buy-image-model.png`
+
+At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last decade.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3508,10 +3515,14 @@ Nu is integrating USDC into a new multi-currency digital account.  Nu serves mor
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098132516674892282) |
+| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
+| Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 
 ## 最近运行
 
+- `2026-09-10T19:48:23Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T19:47:41.498812+00:00` **produce / succeeded** — Produced one newest fresh Vanguard ETF package with exact-logo compositing.
+- `2026-09-10T19:45:35Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T19:32:32Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T19:31:36Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T19:31:32Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
@@ -3529,6 +3540,3 @@ Nu is integrating USDC into a new multi-currency digital account.  Nu serves mor
 - `2026-09-10T19:00:31Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:46:40Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:46:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 40 eligible originals and added 0 new post(s).
-- `2026-09-10T18:30:00Z` **full / partial** — Reconciled Postiz, collected both benchmark feeds through Apify, archived media, rebuilt the hard 90-minute queue, produced the newest fresh gasoline package, collected hourly metrics idempotently, and safely deferred publication. Apify required a bounded retry before completing; Postiz accepted no new task because the rolling 24-hour daily limit was exhausted. No backlog or expired item was published.
-- `2026-09-10T18:35:05Z` **produce / succeeded** — Produced one newest fresh U.S. gasoline package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T18:33:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
