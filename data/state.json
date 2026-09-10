@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T12:35:26.945725+00:00",
+  "updatedAt": "2026-09-10T12:50:12.020558+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14233,6 +14233,26 @@
       "isPinned": false,
       "capturedAt": "2026-09-10T12:30:57Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098026596380639714",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098026596380639714",
+      "postedAt": "Thu Sep 10 12:31:34 +0000 2026",
+      "text": "🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 50,
+        "replies": 4,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 17916
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T12:46:48Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -22667,6 +22687,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098026596380639714",
+      "rank": 1,
+      "title": "🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY",
+      "benchmarkPostId": "2098026596380639714",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098026596380639714",
+      "score": 19446,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T12:46:52Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
@@ -32968,7 +33007,7 @@
       "benchmarkPostId": "2098005603591307474",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098005603591307474",
       "title": "Single-letter stock tickers",
-      "status": "ready",
+      "status": "expired",
       "postText": "Single-letter stock tickers are a rare club: $A, $B, $C, $D, $E, $F, $G, $H, $J, $L, $M, $O, $P, $Q, $R, $S, $T, $U, $V and $W.",
       "mirroredFacts": [
         "The captured benchmark post lists U.S. stock tickers represented by a single letter.",
@@ -32995,7 +33034,10 @@
           "logoCompositedOnce": "passed",
           "copyProofread": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-10T12:45:37Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-10T12:38:09Z"
     },
     {
       "id": "pkg-20260910-palantir-nvidia-supply-chains",
@@ -33141,6 +33183,44 @@
         "logoCount": 1,
         "qaStatus": "passed",
         "qaNotes": "Inspected final rendered PNG; square 1254x1254; factual typography legible; exact logo composited once in lower-right."
+      }
+    },
+    {
+      "id": "pkg-20260910-ppi-54-yoy",
+      "benchmarkPostId": "2098026596380639714",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098026596380639714",
+      "title": "U.S. PPI rises 5.4% year over year",
+      "status": "ready",
+      "postText": "U.S. producer prices rose 5.4% year over year in August.\n\nThe reading came in above the 5.3% expectation.",
+      "mirroredFacts": [
+        "The U.S. Producer Price Index for final demand increased 5.4% over the 12 months ended in August 2026.",
+        "The benchmark post stated that the 5.4% year-over-year reading was above the 5.3% expectation."
+      ],
+      "verificationSources": [
+        "https://www.bls.gov/news.release/ppi.nr0.htm",
+        "https://x.com/StockMKTNewz/status/2098026596380639714"
+      ],
+      "imagePath": "deliverables/pkg-20260910-ppi-54-yoy/when2buy-image-model.png",
+      "createdAt": "2026-09-10T12:48:00Z",
+      "sourcePostedAt": "Thu Sep 10 12:31:34 +0000 2026",
+      "sourceExpiresAt": "2026-09-10T14:01:34Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Asset type: complete square 1:1 X financial-news visual for When2Buy. Primary request: original premium editorial scene about hotter-than-expected U.S. producer-price inflation. Scene/backdrop: near-black macroeconomic data newsroom with a physical industrial producer-price gauge, hot metal coils, and a sharp red upward pressure line reflected in dark glass; entity-led, not generic radar art. Subject: dominant industrial price gauge and glowing heated steel material; abstract data panels contain no readable text. Style/medium: high-end photorealistic financial-news editorial photography. Composition/framing: exact square 1:1; subject center-left; lower-right 20 percent clean and near-black for the supplied exact logo. Lighting/mood: dramatic, urgent, premium white rim light with restrained red accents. Text: none. Constraints: no readable or pseudo-text, numbers, tickers, company logos, brand marks, watermark, source names, URLs, attribution, disclaimer, commentary, CTA, tagline, recommendation, people, pure-text card, generic abstract background, or malformed objects.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T12:49:00Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led industrial gauge and heated steel visual",
+            "no generated readable text, attribution, source handle, or URL",
+            "near-black premium palette with white and restrained-red accents",
+            "not a pure-text card or generic-radar image",
+            "exact repository logo composited once in lower-right clear space",
+            "no malformed or damaged subject"
+          ]
+        }
       }
     }
   ],
@@ -237700,6 +237780,49 @@
       "completedAt": "2026-09-10T12:35:26Z",
       "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T124541Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:45:41Z",
+      "completedAt": "2026-09-10T12:45:41Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T124648Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:46:48Z",
+      "completedAt": "2026-09-10T12:46:48Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T124652Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:46:52Z",
+      "completedAt": "2026-09-10T12:46:52Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T1249Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:49:00Z",
+      "completedAt": "2026-09-10T12:50:00Z",
+      "summary": "Completed mandated reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, metrics pass, and bounded Postiz delivery check.",
+      "reason": "daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.",
+      "packageId": "pkg-20260910-ppi-54-yoy",
+      "outcome": "deferred",
+      "retryAt": "2026-09-10T13:00:00Z"
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T12:35:26.945725+00:00`
+- 状态更新：`2026-09-10T12:50:12.020558+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**517**
-- 待选选题：**444**
+- 对标帖子快照：**518**
+- 待选选题：**445**
 - 待发布制作包：**5**
 - 已验证发布：**202**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 12:31:34 +0000 2026 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | [X](https://x.com/StockMKTNewz/status/2098026596380639714) |
 | @StockMKTNewz | Thu Sep 10 12:17:56 +0000 2026 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | [X](https://x.com/StockMKTNewz/status/2098023164152369238) |
 | @WhaleInsider | Thu Sep 10 12:25:35 +0000 2026 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42 | [X](https://x.com/WhaleInsider/status/2098025091581747413) |
 | @WhaleInsider | Fri Apr 19 18:13:53 +0000 2024 | BREAKING : The first official centralized exchange on Solana $SOLCEX (@SolCex_Exchange) releases demo video. https://t.co/fduhzg9TUk | [X](https://x.com/WhaleInsider/status/1781385748106580171) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 08:11:05 +0000 2026 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/WvRbXfAQYF | [X](https://x.com/WhaleInsider/status/2097961042886189444) |
 | @WhaleInsider | Thu Sep 10 07:18:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $166.5M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/4heRqjVsCx | [X](https://x.com/WhaleInsider/status/2097947832070115711) |
 | @WhaleInsider | Thu Sep 10 06:36:47 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | [X](https://x.com/WhaleInsider/status/2097937311249949144) |
-| @StockMKTNewz | Thu Sep 10 00:31:29 +0000 2026 | Nvidia $NVDA just posted this:  “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are expanding land, power and shell capacity to host AI factories, supporting the nation’s growing demand for AI compute.” https://t.co/mWTRafIczS | [X](https://x.com/StockMKTNewz/status/2097845382281662509) |
 
 ## 选题推荐
 
@@ -174,6 +174,7 @@
 | 1 | JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 day… | WhaleInsider | 11308 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY TSMC has… | StockMKTNewz | 9925 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike th… | WhaleInsider | 14436 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | StockMKTNewz | 19446 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3064,7 +3065,7 @@ Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 bill
 
 ### Single-letter stock tickers
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-single-letter-stock-tickers/when2buy-image-model.png`
 
 Single-letter stock tickers are a rare club: $A, $B, $C, $D, $E, $F, $G, $H, $J, $L, $M, $O, $P, $Q, $R, $S, $T, $U, $V and $W.
@@ -3096,6 +3097,13 @@ TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached a
 - 配图：`deliverables/pkg-20260910-ecb-rate-hike/when2buy-image.png`
 
 The ECB just hiked its deposit rate by 25 bps to 2.50%.  It is the second rate hike this year as oil prices fuel inflation.
+
+### U.S. PPI rises 5.4% year over year
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-ppi-54-yoy/when2buy-image-model.png`
+
+U.S. producer prices rose 5.4% year over year in August.  The reading came in above the 5.3% expectation.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3307,6 +3315,10 @@ The ECB just hiked its deposit rate by 25 bps to 2.50%.  It is the second rate h
 
 ## 最近运行
 
+- `2026-09-10T12:49:00Z` **full / succeeded** — Completed mandated reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, metrics pass, and bounded Postiz delivery check. daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.
+- `2026-09-10T12:46:52Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T12:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
+- `2026-09-10T12:45:41Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T12:35:26Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T12:34:39.537576+00:00` **full / succeeded** — Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, and bounded Postiz delivery check. daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.
 - `2026-09-10T12:33:52.187932+00:00` **produce / succeeded** — Produced one newest fresh ECB rate-hike package with verified facts, generated square entity visual, exact-logo composite, and passed visual QA.
@@ -3323,7 +3335,3 @@ The ECB just hiked its deposit rate by 25 bps to 2.50%.  It is the second rate h
 - `2026-09-10T12:01:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 10 new post(s).
 - `2026-09-10T12:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T12:01:08Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T12:01:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
-- `2026-09-10T11:52:06Z` **publish / succeeded** — The newest fresh Robinhood Chain package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-10T12:14:00Z
-- `2026-09-10T11:47:14Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T11:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
