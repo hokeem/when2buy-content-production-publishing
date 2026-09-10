@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T18:36:37.035724+00:00`
+- 状态更新：`2026-09-10T18:46:40.581372+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**545**
 - 待选选题：**471**
@@ -3491,6 +3491,8 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 
 ## 最近运行
 
+- `2026-09-10T18:46:40Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T18:46:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 40 eligible originals and added 0 new post(s).
 - `2026-09-10T18:30:00Z` **full / partial** — Reconciled Postiz, collected both benchmark feeds through Apify, archived media, rebuilt the hard 90-minute queue, produced the newest fresh gasoline package, collected hourly metrics idempotently, and safely deferred publication. Apify required a bounded retry before completing; Postiz accepted no new task because the rolling 24-hour daily limit was exhausted. No backlog or expired item was published.
 - `2026-09-10T18:35:05Z` **produce / succeeded** — Produced one newest fresh U.S. gasoline package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T18:33:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3509,5 +3511,3 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 - `2026-09-10T18:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T17:49:23Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T17:48:36Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T17:47:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T17:47:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).

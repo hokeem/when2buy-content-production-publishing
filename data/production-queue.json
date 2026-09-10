@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:33:35Z",
+  "generatedAt": "2026-09-10T18:46:40Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -7,8 +7,8 @@
       "rank": 1,
       "benchmarkPostId": "2098113572123394403",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260910-us-gas-428",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098113572123394403",
       "originalText": "The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week",
       "originalMediaUrls": [],
@@ -34,7 +34,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 16.4,
+        "ageMinutes": 29.5,
         "expiresAt": "2026-09-10T19:47:11Z",
         "ttlMinutes": 90
       },
@@ -85,7 +85,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 27.0,
+        "ageMinutes": 40.1,
         "expiresAt": "2026-09-10T19:36:35Z",
         "ttlMinutes": 90
       },
@@ -130,7 +130,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 41.2,
+        "ageMinutes": 54.2,
         "expiresAt": "2026-09-10T19:22:26Z",
         "ttlMinutes": 90
       },
