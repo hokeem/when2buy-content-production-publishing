@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T22:50:55.849143+00:00",
+  "updatedAt": "2026-09-10T22:53:02.626191+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -274662,6 +274662,15 @@
       "startedAt": "2026-09-10T22:50:55Z",
       "completedAt": "2026-09-10T22:50:55Z",
       "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T225302Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:53:02Z",
+      "completedAt": "2026-09-10T22:53:02Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
   ],

@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T22:50:55.849143+00:00`
+- 状态更新：`2026-09-10T22:53:02.626191+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**567**
 - 待选选题：**493**
@@ -3612,6 +3612,7 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 
 ## 最近运行
 
+- `2026-09-10T22:53:02Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T22:50:55Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T22:50:26.008532+00:00` **produce / succeeded** — Produced the single newest fresh SpaceX AI-hosting package with inspected entity visual and exact-logo composite.
 - `2026-09-10T22:47:50Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3631,4 +3632,3 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 - `2026-09-10T22:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T21:50:00Z` **publish / succeeded** — Newest fresh Fluidstack/Pentagon package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour account limit was reached. daily_limit
 - `2026-09-10T21:49:35Z` **produce / succeeded** — Produced the sole newest fresh Fluidstack/Pentagon package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T21:46:58Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
