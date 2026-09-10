@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T00:42:25.237267+00:00`
+- 状态更新：`2026-09-10T00:46:44.540399+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**488**
 - 待选选题：**426**
@@ -3204,6 +3204,8 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 
 ## 最近运行
 
+- `2026-09-10T00:46:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:46:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T00:42:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:41:24.010111+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T00:40:22.691895+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
@@ -3222,5 +3224,3 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 - `2026-09-10T00:11:46.943260+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T00:10:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:08:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T00:08:20Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T00:08:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
