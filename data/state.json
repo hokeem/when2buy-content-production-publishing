@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T12:17:20.305644+00:00",
+  "updatedAt": "2026-09-10T12:35:26.945725+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14179,6 +14179,60 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098025091581747413",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098025091581747413",
+      "postedAt": "Thu Sep 10 12:25:35 +0000 2026",
+      "text": "JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR2usp4W8AMRHLe.jpg",
+        "https://pbs.twimg.com/media/HR2usorXIAMFuVF.jpg"
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 13,
+        "reposts": 8,
+        "quotes": 0,
+        "views": 12776
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T12:30:57Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2usp4W8AMRHLe.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098025091581747413-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2usorXIAMFuVF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098025091581747413-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098023164152369238",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098023164152369238",
+      "postedAt": "Thu Sep 10 12:17:56 +0000 2026",
+      "text": "THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5%",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 42,
+        "replies": 7,
+        "reposts": 8,
+        "quotes": 3,
+        "views": 10191
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T12:30:57Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -22576,6 +22630,44 @@
         "freshness": 5,
         "when2buyFit": 3,
         "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098025091581747413",
+      "rank": 1,
+      "title": "JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike th…",
+      "benchmarkPostId": "2098025091581747413",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098025091581747413",
+      "score": 14436,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T12:31:01Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098023164152369238",
+      "rank": 2,
+      "title": "THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5%",
+      "benchmarkPostId": "2098023164152369238",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098023164152369238",
+      "score": 11891,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T12:31:01Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -33021,6 +33113,34 @@
             "exact repository logo composited once"
           ]
         }
+      }
+    },
+    {
+      "id": "pkg-20260910-ecb-rate-hike",
+      "benchmarkPostId": "2098025091581747413",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098025091581747413",
+      "title": "ECB hikes rates by 25 bps",
+      "status": "ready",
+      "postText": "The ECB just hiked its deposit rate by 25 bps to 2.50%.\n\nIt is the second rate hike this year as oil prices fuel inflation.",
+      "mirroredFacts": [
+        "The ECB raised its deposit rate by 25 basis points to 2.50%.",
+        "The move is the ECB’s second rate hike this year amid oil-fueled inflation."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098025091581747413",
+        "https://apnews.com/article/de62b59fba535fccaf6f75e52d037c63",
+        "https://www.ecb.europa.eu/press/press_conference/html/index.en.html"
+      ],
+      "imagePath": "deliverables/pkg-20260910-ecb-rate-hike/when2buy-image.png",
+      "createdAt": "2026-09-10T12:33:52.187779+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square entity-led European Central Bank headquarters, euro symbol, oil barrels and upward rate curve; near-black premium financial-news visual with clean upper-left negative space; no embedded logo or readable text.",
+        "logoApplied": true,
+        "logoAsset": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "qaStatus": "passed",
+        "qaNotes": "Inspected final rendered PNG; square 1254x1254; factual typography legible; exact logo composited once in lower-right."
       }
     }
   ],
@@ -237518,6 +237638,68 @@
       "reason": "daily_limit; no submission accepted; ready package remains recoverable for the next eligible cycle.",
       "packageId": "pkg-20260910-tsmc-august-sales",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T123027Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:30:27Z",
+      "completedAt": "2026-09-10T12:30:27Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T123057Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:30:57Z",
+      "completedAt": "2026-09-10T12:30:57Z",
+      "summary": "Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T123101Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:31:01Z",
+      "completedAt": "2026-09-10T12:31:01Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T123352Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:33:52.187932+00:00",
+      "completedAt": "2026-09-10T12:33:52.187938+00:00",
+      "summary": "Produced one newest fresh ECB rate-hike package with verified facts, generated square entity visual, exact-logo composite, and passed visual QA.",
+      "reason": "",
+      "packageId": "pkg-20260910-ecb-rate-hike"
+    },
+    {
+      "id": "run-20260910T123439Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:34:39.537576+00:00",
+      "completedAt": "2026-09-10T12:34:39.537576+00:00",
+      "summary": "Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, and bounded Postiz delivery check.",
+      "reason": "daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.",
+      "packageId": "pkg-20260910-ecb-rate-hike",
+      "outcome": "deferred",
+      "retryAt": "2026-09-10T13:00:00Z"
+    },
+    {
+      "id": "run-20260910T123526Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T12:35:26Z",
+      "completedAt": "2026-09-10T12:35:26Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

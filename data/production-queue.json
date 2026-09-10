@@ -1,10 +1,98 @@
 {
-  "generatedAt": "2026-09-10T12:16:08Z",
+  "generatedAt": "2026-09-10T12:35:26Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098025091581747413",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260910-ecb-rate-hike",
+      "packageStatus": "ready",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098025091581747413",
+      "originalText": "JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR2usp4W8AMRHLe.jpg",
+        "https://pbs.twimg.com/media/HR2usorXIAMFuVF.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2usp4W8AMRHLe.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098025091581747413-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2usorXIAMFuVF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098025091581747413-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 13,
+        "reposts": 8,
+        "quotes": 0,
+        "views": 12776
+      },
+      "postedAt": "Thu Sep 10 12:25:35 +0000 2026",
+      "score": 14436,
+      "heatScore": 14436,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 9.9,
+        "expiresAt": "2026-09-10T13:55:35Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098023164152369238",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098023164152369238",
+      "originalText": "THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5%",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 42,
+        "replies": 7,
+        "reposts": 8,
+        "quotes": 3,
+        "views": 10191
+      },
+      "postedAt": "Thu Sep 10 12:17:56 +0000 2026",
+      "score": 11891,
+      "heatScore": 11891,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 17.5,
+        "expiresAt": "2026-09-10T13:47:56Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
       "benchmarkPostId": "2098015628158259276",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-tsmc-august-sales",
@@ -42,14 +130,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 28.2,
+        "ageMinutes": 47.5,
         "expiresAt": "2026-09-10T13:17:59Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 4,
       "benchmarkPostId": "2098014522216730854",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-robinhood-chain-volume",
@@ -87,14 +175,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 32.6,
+        "ageMinutes": 51.9,
         "expiresAt": "2026-09-10T13:13:35Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098012610838835655",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -132,14 +220,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 40.1,
+        "ageMinutes": 59.4,
         "expiresAt": "2026-09-10T13:06:00Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2098009124122345551",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-palantir-nvidia-supply-chains",
@@ -183,14 +271,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 54.0,
+        "ageMinutes": 73.3,
         "expiresAt": "2026-09-10T12:52:08Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 7,
       "benchmarkPostId": "2098005603591307474",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-single-letter-stock-tickers",
@@ -220,143 +308,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 68.0,
+        "ageMinutes": 87.3,
         "expiresAt": "2026-09-10T12:38:09Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098003348997697583",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098003348997697583",
-      "originalText": "Macy's $M stock is up by 5% in pre market trading after reporting earnings\n\n🟢🟢🟢🟢🟢 https://t.co/eriQWyJnII",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2a6dEWkAYnImb.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2a6dEWkAYnImb.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098003348997697583-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 4,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "views": 4267
-      },
-      "postedAt": "Thu Sep 10 10:59:12 +0000 2026",
-      "score": 4427,
-      "heatScore": 4427,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 21,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 76.9,
-        "expiresAt": "2026-09-10T12:29:12Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2098002593259593965",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098002593259593965",
-      "originalText": "China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2019 - Bloomberg https://t.co/tQ4Q6GaEZB",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2YcevbsAAhwfh.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2YcevbsAAhwfh.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098002593259593965-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 2,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 1,
-        "views": 5258
-      },
-      "postedAt": "Thu Sep 10 10:56:11 +0000 2026",
-      "score": 5448,
-      "heatScore": 5448,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 80.0,
-        "expiresAt": "2026-09-10T12:26:11Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2098000894960742588",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098000894960742588",
-      "originalText": "JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. https://t.co/TR3alumzk7",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2YsX6WsAcIF7P.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2YsX6WsAcIF7P.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098000894960742588-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 42,
-        "replies": 16,
-        "reposts": 6,
-        "quotes": 1,
-        "views": 14520
-      },
-      "postedAt": "Thu Sep 10 10:49:26 +0000 2026",
-      "score": 16360,
-      "heatScore": 16360,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 21,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 86.7,
-        "expiresAt": "2026-09-10T12:19:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

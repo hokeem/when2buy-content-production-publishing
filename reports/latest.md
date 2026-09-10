@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T12:17:20.305644+00:00`
+- 状态更新：`2026-09-10T12:35:26.945725+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**515**
-- 待选选题：**442**
-- 待发布制作包：**4**
+- 对标帖子快照：**517**
+- 待选选题：**444**
+- 待发布制作包：**5**
 - 已验证发布：**202**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 12:17:56 +0000 2026 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | [X](https://x.com/StockMKTNewz/status/2098023164152369238) |
+| @WhaleInsider | Thu Sep 10 12:25:35 +0000 2026 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42 | [X](https://x.com/WhaleInsider/status/2098025091581747413) |
 | @WhaleInsider | Fri Apr 19 18:13:53 +0000 2024 | BREAKING : The first official centralized exchange on Solana $SOLCEX (@SolCex_Exchange) releases demo video. https://t.co/fduhzg9TUk | [X](https://x.com/WhaleInsider/status/1781385748106580171) |
 | @StockMKTNewz | Sat Feb 24 19:13:16 +0000 2024 | Nvidia $NVDA vs Intel $INTC: 2014 to today  https://t.co/NqUFZpQMjE | [X](https://x.com/StockMKTNewz/status/1761469357815652791) |
 | @WhaleInsider | Sat Jan 18 12:05:29 +0000 2025 | $TRUMP to $100.  Be ready. | [X](https://x.com/WhaleInsider/status/1880587310405967993) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Thu Sep 10 07:18:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $166.5M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/4heRqjVsCx | [X](https://x.com/WhaleInsider/status/2097947832070115711) |
 | @WhaleInsider | Thu Sep 10 06:36:47 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | [X](https://x.com/WhaleInsider/status/2097937311249949144) |
 | @StockMKTNewz | Thu Sep 10 00:31:29 +0000 2026 | Nvidia $NVDA just posted this:  “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are expanding land, power and shell capacity to host AI factories, supporting the nation’s growing demand for AI compute.” https://t.co/mWTRafIczS | [X](https://x.com/StockMKTNewz/status/2097845382281662509) |
-| @StockMKTNewz | Wed Sep 09 16:59:20 +0000 2026 | Apple $AAPL is about to release its brand new iPhone 📱   The event is starting right now … expect to see a lot of Apple tweets from me over the next hour | [X](https://x.com/StockMKTNewz/status/2097731592013684977) |
-| @StockMKTNewz | Wed Sep 09 17:08:01 +0000 2026 | Apple $AAPL just started its first iPhone keynote with John Ternus leading the company  https://t.co/Nm0bf66hfy | [X](https://x.com/StockMKTNewz/status/2097733776902107414) |
 
 ## 选题推荐
 
@@ -173,6 +173,7 @@
 | 1 | NVIDIA AND PALANTIR PARTNERSHIP Palantir $PLTR and Nvidia $NVDA just announced a new partner… | StockMKTNewz | 8709 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 day… | WhaleInsider | 11308 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY TSMC has… | StockMKTNewz | 9925 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike th… | WhaleInsider | 14436 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -229,6 +230,7 @@
 | 2 | For my ETF fans out there check out this new tool below made by my partner ... you can also … | StockMKTNewz | 7767 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2… | StockMKTNewz | 5448 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | PALANTIR EVENT TODAY Palantir $PLTR just confirmed that its AIPCon 11 event will be taking p… | StockMKTNewz | 8731 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | StockMKTNewz | 11891 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3088,6 +3090,13 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 
 TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached about $107.1B, up 39% YoY.
 
+### ECB hikes rates by 25 bps
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-ecb-rate-hike/when2buy-image.png`
+
+The ECB just hiked its deposit rate by 25 bps to 2.50%.  It is the second rate hike this year as oil prices fuel inflation.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3298,6 +3307,12 @@ TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached a
 
 ## 最近运行
 
+- `2026-09-10T12:35:26Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T12:34:39.537576+00:00` **full / succeeded** — Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, and bounded Postiz delivery check. daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.
+- `2026-09-10T12:33:52.187932+00:00` **produce / succeeded** — Produced one newest fresh ECB rate-hike package with verified facts, generated square entity visual, exact-logo composite, and passed visual QA.
+- `2026-09-10T12:31:01Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T12:30:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).
+- `2026-09-10T12:30:27Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T12:17:20Z` **full / succeeded** — Completed mandated Postiz reconciliation, both-feed Apify scan, media archive, package reconciliation, hard 90-minute queue rebuild, one-package QA, hourly metrics pass, and safe delivery throttle check. daily_limit; no submission accepted; ready package remains recoverable for the next eligible cycle.
 - `2026-09-10T12:16:08Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T12:15:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -3312,9 +3327,3 @@ TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached a
 - `2026-09-10T11:52:06Z` **publish / succeeded** — The newest fresh Robinhood Chain package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-10T12:14:00Z
 - `2026-09-10T11:47:14Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T11:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 2 new post(s).
-- `2026-09-10T11:45:37Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T11:33:08Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T11:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 1 new post(s).
-- `2026-09-10T11:31:39Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T11:30:34Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T11:19:35Z` **publish / succeeded** — The single newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable before source expiry. daily_limit; retryAt=2026-09-10T12:14:00Z
