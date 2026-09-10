@@ -4,49 +4,30 @@ Paseo owns recurring production. GitHub Actions is manual recovery and CI only; 
 
 ## Ownership model
 
-GitHub is the canonical store for source data, delivery state, code, and media:
-
-- `data/state.json`
-- `data/production-queue.json`
-- `deliverables/`
-- renderer and workflow code
-
-Report Hub is the canonical presentation layer. The live generated files below are local build artifacts and are not committed to Git:
-
-- `reports/run-panel.html`
-- `reports/metrics-dashboard.html`
-- `reports/weekly/*.html`
-
-A report is always rebuilt from GitHub-backed state and then published to its fixed Report Hub slug. Nothing reads data back from Report Hub.
+GitHub is the canonical store for source data, delivery state, code, and media. Report Hub is presentation-only and is rebuilt from `data/state.json`; nothing reads data back from Report Hub.
 
 ## Unified production schedule
 
-The only state-writing recurring task runs every 10 minutes at `5,15,25,35,45,55 * * * *` in `Asia/Shanghai`.
+The only state-writing recurring task runs every 15 minutes at `0,15,30,45 * * * *` in `Asia/Shanghai`. The 15-minute cadence is also the minimum account-level gap between accepted X submissions, so one slow publication cannot create a burst in the following cycle.
 
 Every run:
 
-1. Fetch/rebase `main`, load protected credentials without printing them, and validate state/preflight.
-2. On the first benchmark scan of each hour (the `:05` run), run `python3 scripts/collect_public_metrics.py`. The collector is idempotent within each UTC hour and only queries posts published during their first 72 hours; it never performs a full-history metrics crawl.
-3. Collect only `@WhaleInsider` and `@StockMKTNewz` through Apify.
-4. Exclude pinned posts, replies, repost-only entries, promotions, and duplicates; archive original media.
-5. Run `python3 scripts/build_production_queue.py`, which enforces a hard 90-minute source TTL and marks stale unsent packages `expired`. Process at most two queue items, newest first. Never publish backlog, and never revive an `expired` package.
-6. Before spending time on each item, recalculate its source age and skip it if it is no longer fresh. Produce concise original copy that ends after the factual payload, with no retired When2Buy partner line, replacement fixed tagline, or CTA. Produce a complete entity-led generated square image; add the exact logo once and run QA.
-7. Run `python3 scripts/reconcile_postiz_publications.py --lookback-hours 72`, then validate and publish up to two queue-ordered fresh packages with `scripts/postiz_publish_batch.py`. Publish strictly serially with at least 90 seconds between items; never run multiple publishers concurrently. Require `PUBLISHED` and a public X URL.
-8. Immediately before each Postiz submission, rely on the publisher hard gate to recheck the 90-minute TTL. A stale item is skipped without an API submission and does not block a newer item. Validate state/security and commit only canonical data, media, packages, and `reports/latest.md`.
-9. Render and publish the content and performance surfaces explicitly:
-   - `python3 scripts/publish_run_panel.py --target content`
-   - `python3 scripts/publish_run_panel.py --target performance`
+1. Fetch `main`, load protected credentials without printing them, and validate state/preflight. Do not dump the full state file or entire repository listing into agent context.
+2. Run `python3 scripts/reconcile_postiz_publications.py --lookback-hours 72` before any new delivery. An accepted Postiz task stays `publishing` during its 60-minute delayed-success grace period, including when Postiz temporarily reports `ERROR`. Never submit it again.
+3. On the first run of each hour, collect public metrics idempotently for posts published during their first 72 hours.
+4. Collect only `@WhaleInsider` and `@StockMKTNewz` through Apify. Exclude pinned posts, replies, repost-only entries, promotions, duplicates, and expired items; archive original media.
+5. Build the hard-90-minute-TTL queue. Process at most one newest fresh item per run. Never revive or publish backlog.
+6. Produce concise original copy and one complete entity-led square generated image, then composite the exact repository logo once.
+7. Publish through `scripts/postiz_publish_batch.py`. The hard account-level limits are one accepted submission every 15 minutes, no more than four in a rolling hour, and no more than twenty in a rolling 24 hours. A `deferred` or `pending_reconciliation` result is a successful safety outcome, not a reason to retry.
+8. Count publication only after reconciliation obtains `PUBLISHED` and a public `x.com` URL. A persistent `ERROR` becomes terminal only after the 60-minute grace window.
+9. Validate state/security, render reports, commit canonical files, push `HEAD:main`, verify the remote commit, and update the fixed content and performance report slugs.
 
-This task is the sole recurring writer of `data/state.json`, preventing concurrent state and Git conflicts.
+The task must finish within its 15-minute slot. External commands use bounded timeouts. If image generation or an API call cannot finish safely, persist the current state and exit; the next run resumes through state rather than keeping an agent alive indefinitely.
 
 ## Weekly analysis schedule
 
-Every Monday at 10:00 Asia/Shanghai, a separate read-only worktree renders and publishes only the weekly surface:
-
-`python3 scripts/publish_run_panel.py --target weekly`
-
-It does not collect data, publish social content, modify state, or push generated HTML to Git. The report covers the latest seven calendar days versus the preceding seven, Top 10 by latest attributable views, observable strengths, topic/time-window medians, coverage, and next actions. Missing metrics are never invented.
+Every Monday at 10:00 Asia/Shanghai, a separate read-only task publishes only the weekly report. It does not collect content, publish social posts, modify state, or write generated HTML to Git.
 
 ## Retired schedules
 
-The standalone daily performance task and stable report-sync task are paused. Their responsibilities are now owned by the unified production task. Do not re-enable them unless the ownership model changes.
+The standalone daily performance and stable report-sync tasks stay paused. Their responsibilities belong to the unified production task.

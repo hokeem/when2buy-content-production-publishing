@@ -1,6 +1,6 @@
 ---
 name: when2buy-content-publisher
-description: "Run the freshness-first when2buy U.S.-market X workflow end to end. Every 10 minutes, inspect new original posts from @WhaleInsider and @StockMKTNewz, process the newest eligible non-pinned posts first, create concise when2buy English posts and entity-led generated images, publish through Postiz, collect metrics, and update the report."
+description: "Run the freshness-first when2buy U.S.-market X workflow end to end. Every 15 minutes, inspect new original posts from @WhaleInsider and @StockMKTNewz, process the newest eligible non-pinned post, create concise when2buy English copy and an entity-led generated image, publish safely through Postiz, collect metrics, and update the report."
 ---
 
 # when2buy Content Publisher
@@ -9,63 +9,52 @@ Operate from the repository root. Treat `data/state.json` as the durable handoff
 
 ## Non-negotiable operating model
 
-Run a **benchmark-first mirror desk**, not a general finance idea generator.
-
-1. Begin every `radar`, `produce`, or `full` run by opening both exact feeds:
-   - `https://x.com/WhaleInsider`
-   - `https://x.com/StockMKTNewz`
-2. Capture every new original post since the previous successful scan. Exclude pinned posts, replies, repost-only entries, and promotions.
-3. Apply a hard 90-minute source TTL. If neither account has a new eligible post inside that window, finish successfully without publishing. Older captures remain audit history only; never backfill them.
-4. Make when2buy cover the **same news event, company/ticker, key disclosed facts, decisive numbers, and urgency window** as the selected benchmark post. Keep the topic even when the claim cannot be independently confirmed; use the narrowest accurate wording without adding public attribution or a disclaimer.
-5. Do not copy the benchmark's distinctive sentences, jokes, commentary, or artwork. `Same content` means the same verified topic and factual payload expressed in original when2buy wording and visuals.
-6. Store the benchmark status URL and mapping before producing. A package without a `benchmarkPostId`, benchmark URL, and mirrored-facts list is invalid.
+1. Begin every `radar`, `produce`, or `full` run with both exact feeds: `@WhaleInsider` and `@StockMKTNewz`.
+2. Capture every new original since the previous successful scan. Exclude pinned posts, replies, repost-only entries, and promotions.
+3. Apply a hard 90-minute source TTL. If neither account has a new eligible post in that window, finish successfully without publishing. Never backfill.
+4. Cover the same event, company/ticker, decisive numbers, and urgency as the selected benchmark. Use original When2Buy wording and artwork.
+5. Keep source provenance internally. Every package requires `benchmarkPostId`, benchmark URL, and mirrored facts.
 
 ## Scheduled fast-follow mode
 
-The canonical Paseo schedule runs at minute **05, 15, 25, 35, 45, and 55 of every hour** in Asia/Shanghai. It retains the benchmark account, status URL, captured text, and media provenance internally, but never prints the source account, source URL, `according to`, `reported by`, `Market radar`, an unverified disclaimer, or investment-advice boilerplate in public copy or artwork.
+The canonical Paseo task runs at minute `00,15,30,45` of every hour in Asia/Shanghai. Process at most one newest eligible post per run.
 
-Publication order is the order in `data/production-queue.json`: newest eligible non-pinned source first, with engagement used only to break an identical timestamp. Process and publish at most two fresh items per run. Never replace a newer topic with an older hotter one, and never backfill an expired item.
+Before every submission, reconcile existing Postiz tasks. Postiz acceptance is not publication: persist the accepted task immediately as `publishing`, then reconcile it until `PUBLISHED` plus a public X URL. A temporary `ERROR` remains pending during the 60-minute delayed-success grace period. Never retry an accepted task.
 
-## Select the run mode
+Enforce the account-level safety limits in [postiz-delivery-policy.md](references/postiz-delivery-policy.md): at least 15 minutes between accepted submissions, no more than four per rolling hour, no more than twenty per rolling 24 hours, and one per scheduled cycle.
 
-- `radar`: inspect sources and populate the ranked production queue.
-- `produce`: turn every newly eligible opportunity into a complete text-and-image package.
-- `publish`: publish a ready package through Postiz.
-- `metrics`: refresh public metrics for published posts.
-- `review`: compare performance and record an evidence-backed next experiment.
-- `full`: run radar, produce, publish, and record the initial snapshot.
+## Run modes and required references
 
-Read only the references needed for the selected mode:
+- `radar`: capture and rank fresh sources.
+- `produce`: create a complete text-and-image package.
+- `publish`: safely submit or reconcile one ready package.
+- `metrics`: refresh public metrics.
+- `review`: record an evidence-backed experiment.
+- `full`: run the complete freshness-first cycle.
 
-- For every `radar`, `produce`, or `full` run, read [editorial-system.md](references/editorial-system.md), [brand-and-style.md](references/brand-and-style.md), and [cases.md](references/cases.md). These are mandatory inputs, not optional inspiration.
-- Read [browser-execution.md](references/browser-execution.md) for publish or metrics.
-- Read [data-contract.md](references/data-contract.md) before modifying state.
-- Read [scheduled-task.md](references/scheduled-task.md) when setting up recurring runs.
+For radar, produce, or full runs, read `editorial-system.md`, `brand-and-style.md`, and `cases.md`. For publishing or metrics, also read `browser-execution.md`, `data-contract.md`, and `postiz-delivery-policy.md`. For recurring execution, read `scheduled-task.md`.
 
 ## Core workflow
 
-1. Run `python3 skills/when2buy-content-publisher/scripts/preflight.py` and `python3 skills/when2buy-content-publisher/scripts/state.py validate`.
-2. Inspect `data/state.json`; determine the last successful benchmark scan time and avoid duplicate topics.
-3. Scan both benchmark feeds first. Append the discovered source posts to `benchmarkPosts` with exact status URL, timestamp, visible text, and account.
-4. Retain the source mapping internally. Verification may improve wording, but it is not a gate and never causes the workflow to skip a newer captured topic.
-5. Process `data/production-queue.json` in listed order. The first item is the newest eligible non-pinned source; engagement cannot promote an older source over it.
-6. Preserve the source core event, company/ticker, decisive number, factual order, and information density. Reorder wording lightly. Put the event first and end immediately after the factual content. Do not add the retired When2Buy partner line, any replacement fixed tagline, attribution, sourcing, disclaimers, commentary paragraphs, or a CTA.
-7. Use the image-generation model to create a complete 1:1 entity-led scene in one generation. A pure typography card, generic radar background, or programmatically drawn template is invalid. Leave a clean logo-safe area, then composite the exact `assets/when2buy-logo-reference.png` logo once. Record `visualProduction.method=image_model`, the generation prompt, `logoApplied=true`, and `qaStatus=passed` in the package.
-8. Immediately before image work and again before Postiz submission, require the mapped source to remain inside the 90-minute TTL. Mark stale unsent packages `expired` and continue with newer candidates. Complete research, copy, and image production autonomously. First run `python3 scripts/reconcile_postiz_publications.py --lookback-hours 72`, then publish up to two queue-ordered fresh packages with one `python3 scripts/postiz_publish_batch.py --package-id <id> ... --confirm` call. The batch runner is strictly serial, waits between posts, verifies the Postiz integration is `@_When2buy`, and requires `PUBLISHED` plus a public X URL for each item. With standing authorization, publish without interactive confirmation.
-9. Only record `published` after Postiz returns `PUBLISHED` and a public X release URL. Then refresh the run panel.
-10. Before any external publish call run `python3 scripts/validate_content_standard.py --package-id <id>`. Record the run and metric snapshot with `state.py`; run validation and `python3 scripts/render_report.py` again.
+1. Run preflight and state validation. Read targeted state summaries; never dump the full state file or repository listing into the agent context.
+2. Scan both benchmark feeds through Apify and append new originals with exact URL, timestamp, text, account, and media provenance.
+3. Run `scripts/reconcile_postiz_publications.py --lookback-hours 72`, then build the hard-TTL queue.
+4. Process only the first item. Recheck source age before image generation and immediately before Postiz submission.
+5. Preserve the source event, entity/ticker, decisive number, factual order, urgency, and information density. End after the facts. Do not add a fixed tagline, attribution, source handle/URL, disclaimer, commentary, or CTA.
+6. Generate one complete 1:1 entity-led visual; reject pure-text or generic cards. Composite the exact repository logo once and save prompt/QA metadata.
+7. Validate content, then invoke `scripts/postiz_publish_batch.py` with exactly one package ID. `deferred` and `pending_reconciliation` are safe non-error outcomes and must not be bypassed.
+8. Only write `published` after a public URL is verified. Refresh metrics and reports, validate state/security, commit canonical files, push `HEAD:main`, verify the remote commit, and publish only the fixed report slugs.
+9. Finish within the schedule slot. Persist recoverable state and exit on a bounded timeout so one run cannot suppress later Cron cycles.
 
 ## Publishing invariants
 
-- Use the intended `when2buy` X account; verify the visible handle before composing.
-- Never import, print, commit, or transmit cookies, passwords, personal access tokens, API keys, or browser profiles.
-- Do not send DMs, reply to unrelated users, follow accounts, or mass-engage unless the current user request separately authorizes that exact action.
-- Do not mark a post published based only on clicking the button. Require its public URL.
-- Do not label generated media as AI unless the user or platform requires it. Never remove a platform-required provenance label.
-- Do not make investment guarantees, fabricate quotes, or imply inside information.
-- Do not replace the two benchmark accounts with a generic news search. Upstream sources verify facts; they do not replace benchmark-first topic selection.
-- Source provenance remains internal. Public copy and artwork contain no source handle, source URL, `according to`, `reported by`, verification disclaimer, or investment-advice boilerplate.
+- Verify the enabled integration is `@_When2buy`.
+- Never expose credentials, cookies, tokens, or browser profiles.
+- Never duplicate an accepted Postiz delivery.
+- Never mark publication from a click or accepted task alone; require a public X URL.
+- Never publish expired backlog or bypass the account-level limiter.
+- Do not fabricate facts, quotes, guarantees, or inside information.
 
 ## Completion
 
-Return a compact run summary: selected topic, published URL or blocker, image path, sources used, report path, and next scheduled action.
+Return a compact summary: selected topic, `published`/`pending_reconciliation`/`deferred` outcome, public URL when available, image path, report link, and next scheduled action.
