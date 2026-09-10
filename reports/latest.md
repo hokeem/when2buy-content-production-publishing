@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T15:19:56.607947+00:00`
+- 状态更新：`2026-09-10T15:22:10.180022+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**529**
 - 待选选题：**455**
@@ -3392,6 +3392,7 @@ The Trump administration is proposing $500 payments for nearly 1 million ACA exc
 
 ## 最近运行
 
+- `2026-09-10T15:22:10Z` **publish / succeeded** — Newest fresh ACA-rebate package remained ready; Postiz batch safely deferred without an accepted submission. pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.
 - `2026-09-10T15:19:38Z` **produce / succeeded** — Produced one newest fresh ACA-rebate package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T15:17:27Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T15:17:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -3411,4 +3412,3 @@ The Trump administration is proposing $500 payments for nearly 1 million ACA exc
 - `2026-09-10T14:19:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T14:18:43Z` **produce / succeeded** — Produced the sole newest fresh Fed-hike-odds package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T14:16:17Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T14:15:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).

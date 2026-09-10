@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T15:19:56.607947+00:00",
+  "updatedAt": "2026-09-10T15:22:10.180022+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -247718,6 +247718,19 @@
       "selectedPackageIds": [
         "pkg-20260910-aca-500-rebates"
       ]
+    },
+    {
+      "id": "run-20260910T152210Z-publish-deferred",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:22:10Z",
+      "completedAt": "2026-09-10T15:22:10Z",
+      "summary": "Newest fresh ACA-rebate package remained ready; Postiz batch safely deferred without an accepted submission.",
+      "reason": "pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.",
+      "selectedPackageIds": [
+        "pkg-20260910-aca-500-rebates"
+      ],
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
