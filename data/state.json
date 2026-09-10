@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T17:05:19.612470+00:00",
+  "updatedAt": "2026-09-10T17:20:07.141051+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14887,6 +14887,27 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098095920927707212",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098095920927707212",
+      "postedAt": "Thu Sep 10 17:07:02 +0000 2026",
+      "text": "Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3vA58bIAA8KVu.png"
+      ],
+      "engagement": {
+        "likes": 28,
+        "replies": 8,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 8016
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T17:16:22Z"
     }
   ],
   "radar": [
@@ -23741,6 +23762,25 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098095920927707212",
+      "rank": 1,
+      "title": "Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests…",
+      "benchmarkPostId": "2098095920927707212",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098095920927707212",
+      "score": 9156,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T17:16:37Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -34659,7 +34699,7 @@
       "benchmarkPostId": "2098073996868648986",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098073996868648986",
       "title": "Salesforce in talks for Listen Labs acquisition",
-      "status": "ready",
+      "status": "expired",
       "postText": "Salesforce has reportedly held talks to acquire AI-powered customer research platform Listen Labs for around $2 billion.",
       "mirroredFacts": [
         "Salesforce has reportedly held talks to acquire Listen Labs.",
@@ -34692,7 +34732,9 @@
             "exact repository logo composited once"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T17:16:34Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260910-sp500-fourth-red-day",
@@ -34864,6 +34906,48 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T17:04:16Z",
       "publishedAt": "2026-09-10T17:03:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-anthropic-moonshot-claude-routing",
+      "benchmarkPostId": "2098095920927707212",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098095920927707212",
+      "title": "Anthropic accuses Moonshot AI of routing requests to Claude",
+      "status": "published",
+      "postText": "Anthropic accused China’s Moonshot AI of secretly routing thousands of user requests to Claude models and passing off the responses as its own.",
+      "mirroredFacts": [
+        "Anthropic accused China’s Moonshot AI of secretly routing thousands of user requests to Claude models.",
+        "The accusation says Moonshot AI passed off Claude responses as its own."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098095920927707212",
+        "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a"
+      ],
+      "imagePath": "deliverables/pkg-20260910-anthropic-moonshot-claude-routing/when2buy-image-model.png",
+      "createdAt": "2026-09-10T17:19:15Z",
+      "sourceExpiresAt": "2026-09-10T18:37:02Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led AI model-security operations room with frontier AI servers, secure model gateway, split-path request routing, and a China-linked AI lab motif; near-black premium financial-news editorial style, white type, restrained red accents, no readable base text; factual typography and exact repository logo composited afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T17:19:15Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led AI server and request-routing scene",
+            "exact factual headline composited once",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtvsl53k0hc0qk0yw6wdl4h6",
+      "postizSubmissionAt": "2026-09-10T17:19:24Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T17:19:51Z",
+      "publishedAt": "2026-09-10T17:19:00.000Z"
     }
   ],
   "posts": [
@@ -38746,6 +38830,24 @@
         "windowStart": "2026-09-10T17:03:00Z",
         "windowEnd": "2026-09-13T17:03:00Z",
         "lastAttemptAt": "2026-09-10T17:04:47.439809Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098099141377421621",
+      "packageId": "pkg-20260910-anthropic-moonshot-claude-routing",
+      "title": "Anthropic accuses Moonshot AI of routing requests to Claude",
+      "text": "Anthropic accused China’s Moonshot AI of secretly routing thousands of user requests to Claude models and passing off the responses as its own.",
+      "status": "published",
+      "publishedAt": "2026-09-10T17:19:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098099141377421621",
+      "postizPostId": "cmtvsl53k0hc0qk0yw6wdl4h6",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T17:19:00Z",
+        "windowEnd": "2026-09-13T17:19:00Z",
+        "lastAttemptAt": "2026-09-10T17:20:06.862039Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -237807,6 +237909,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-10T17:04:47.439809Z"
       }
+    },
+    {
+      "id": "metric-2098099141377421621-20260910T172006Z",
+      "postId": "2098099141377421621",
+      "observedAt": "2026-09-10T17:20:06.862039Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvsl53k0hc0qk0yw6wdl4h6",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvsl53k0hc0qk0yw6wdl4h6",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T17:20:06.862039Z"
+      }
     }
   ],
   "experiments": [],
@@ -254928,6 +255072,49 @@
       "status": "succeeded",
       "startedAt": "2026-09-10T17:04:16Z",
       "completedAt": "2026-09-10T17:04:16Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T171622Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:16:22Z",
+      "completedAt": "2026-09-10T17:16:22Z",
+      "summary": "Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T171637Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:16:37Z",
+      "completedAt": "2026-09-10T17:16:37Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T171916Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:19:15Z",
+      "completedAt": "2026-09-10T17:19:15Z",
+      "summary": "Produced one newest fresh Anthropic/Moonshot package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260910-anthropic-moonshot-claude-routing"
+      ]
+    },
+    {
+      "id": "run-20260910T171951Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:19:51Z",
+      "completedAt": "2026-09-10T17:19:51Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

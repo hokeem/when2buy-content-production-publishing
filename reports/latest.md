@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T17:05:19.612470+00:00`
+- 状态更新：`2026-09-10T17:20:07.141051+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**540**
-- 待选选题：**466**
-- 待发布制作包：**1**
-- 已验证发布：**210**
+- 对标帖子快照：**541**
+- 待选选题：**467**
+- 待发布制作包：**0**
+- 已验证发布：**211**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 17:07:02 +0000 2026 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9 | [X](https://x.com/StockMKTNewz/status/2098095920927707212) |
 | @WhaleInsider | Thu Sep 10 16:47:02 +0000 2026 | JUST IN: Another @MetaWin player just turned $2 into $10,000.  They currently have the best rewards of any crypto casino by a large margin.  They just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP | [X](https://x.com/WhaleInsider/status/2098090884558401767) |
 | @WhaleInsider | Thu Sep 10 16:51:42 +0000 2026 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first critical hires.  To celebrate the launch, Elly is providing a list of top candidates to hiring managers. https://t.co/fezoOJhBv5 | [X](https://x.com/WhaleInsider/status/2098092061643747622) |
 | @StockMKTNewz | Thu Sep 10 16:56:36 +0000 2026 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock at an average price of $70.96 per share https://t.co/m4HoT8i2I5 | [X](https://x.com/StockMKTNewz/status/2098093294899110204) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Sat Feb 24 19:13:16 +0000 2024 | Nvidia $NVDA vs Intel $INTC: 2014 to today  https://t.co/NqUFZpQMjE | [X](https://x.com/StockMKTNewz/status/1761469357815652791) |
 | @WhaleInsider | Sat Jan 18 12:05:29 +0000 2025 | $TRUMP to $100.  Be ready. | [X](https://x.com/WhaleInsider/status/1880587310405967993) |
 | @StockMKTNewz | Sat Jul 08 18:59:08 +0000 2023 | Gross Income vs Net Income  https://t.co/7fSvNyYr6M | [X](https://x.com/StockMKTNewz/status/1677754205086392320) |
-| @StockMKTNewz | Sun Aug 30 22:21:03 +0000 2026 | This is what you need to watch out for this week in the stock market https://t.co/8DUvyS89Wq | [X](https://x.com/StockMKTNewz/status/2094188677463146533) |
 
 ## 选题推荐
 
@@ -188,6 +188,7 @@
 | 1 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID: Cybersecurity is the next major use case of AI http… | StockMKTNewz | 5708 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting… | WhaleInsider | 9085 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy h… | WhaleInsider | 7996 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests… | StockMKTNewz | 9156 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3198,7 +3199,7 @@ OpenAI said U.S. government agencies will get free ChatGPT licenses and 50% lowe
 
 ### Salesforce in talks for Listen Labs acquisition
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-salesforce-listen-labs/when2buy-image-model.png`
 
 Salesforce has reportedly held talks to acquire AI-powered customer research platform Listen Labs for around $2 billion.
@@ -3230,6 +3231,13 @@ Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk
 - 配图：`deliverables/pkg-20260910-pentagon-ai-doom-loop/when2buy-image-model.png`
 
 Pentagon AI chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI a growing ‘doom loop.’
+
+### Anthropic accuses Moonshot AI of routing requests to Claude
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-anthropic-moonshot-claude-routing/when2buy-image-model.png`
+
+Anthropic accused China’s Moonshot AI of secretly routing thousands of user requests to Claude models and passing off the responses as its own.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3446,9 +3454,14 @@ Pentagon AI chief Emil Michael pushed back on warnings that AI could destroy hum
 | Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
 
 ## 最近运行
 
+- `2026-09-10T17:19:51Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T17:19:15Z` **produce / succeeded** — Produced one newest fresh Anthropic/Moonshot package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T17:16:37Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T17:16:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).
 - `2026-09-10T17:04:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T17:03:21Z` **produce / succeeded** — Produced one newest fresh Pentagon AI package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T17:01:12Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3465,7 +3478,3 @@ Pentagon AI chief Emil Michael pushed back on warnings that AI could destroy hum
 - `2026-09-10T16:20:23Z` **produce / succeeded** — Produced the single newest fresh NVIDIA cybersecurity package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T16:18:11Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T16:18:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 115 eligible originals and added 0 new post(s).
-- `2026-09-10T16:17:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 115 eligible originals and added 1 new post(s).
-- `2026-09-10T16:15:51Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T16:05:39Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T16:04:30Z` **produce / succeeded** — Produced the single newest fresh S&P 500 package with an inspected entity-led image and exact-logo composite.
