@@ -1,49 +1,55 @@
 {
-  "generatedAt": "2026-09-10T20:32:45Z",
+  "generatedAt": "2026-09-10T20:47:18Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098147267538559075",
-      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkPostId": "2098150053177102560",
+      "benchmarkAccount": "WhaleInsider",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098147267538559075",
-      "originalText": "Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last year https://t.co/TxbuH77HCg",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098150053177102560",
+      "originalText": "JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JYtO",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4dsSdXEAMp81-.jpg"
+        "https://pbs.twimg.com/media/HR4gWhYa4AAykDR.jpg",
+        "https://pbs.twimg.com/media/HR4gWhjW0AUccZ3.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4dsSdXEAMp81-.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098147267538559075-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HR4gWhYa4AAykDR.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098150053177102560-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4gWhjW0AUccZ3.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098150053177102560-2.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "views": 0
+        "likes": 23,
+        "replies": 19,
+        "reposts": 8,
+        "quotes": 2,
+        "views": 10491
       },
-      "postedAt": "Thu Sep 10 20:31:04 +0000 2026",
-      "score": 20,
-      "heatScore": 20,
+      "postedAt": "Thu Sep 10 20:42:09 +0000 2026",
+      "score": 12231,
+      "heatScore": 12231,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 1,
+        "when2buyFit": 0,
         "marketImpact": 5,
-        "visualPotential": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 20,
+      "editorialScore": 17,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 1.7,
-        "expiresAt": "2026-09-10T22:01:04Z",
+        "ageMinutes": 5.2,
+        "expiresAt": "2026-09-10T22:12:09Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -87,7 +93,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 10.0,
+        "ageMinutes": 24.6,
         "expiresAt": "2026-09-10T21:52:43Z",
         "ttlMinutes": 90
       },
@@ -132,7 +138,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 12.3,
+        "ageMinutes": 26.9,
         "expiresAt": "2026-09-10T21:50:25Z",
         "ttlMinutes": 90
       },
@@ -177,7 +183,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 21.4,
+        "ageMinutes": 36.0,
         "expiresAt": "2026-09-10T21:41:21Z",
         "ttlMinutes": 90
       },
@@ -214,7 +220,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 26.0,
+        "ageMinutes": 40.6,
         "expiresAt": "2026-09-10T21:36:45Z",
         "ttlMinutes": 90
       },
@@ -259,7 +265,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 53.6,
+        "ageMinutes": 68.2,
         "expiresAt": "2026-09-10T21:09:09Z",
         "ttlMinutes": 90
       },
@@ -310,7 +316,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 63.3,
+        "ageMinutes": 77.8,
         "expiresAt": "2026-09-10T20:59:30Z",
         "ttlMinutes": 90
       },
@@ -355,59 +361,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 72.7,
+        "ageMinutes": 87.3,
         "expiresAt": "2026-09-10T20:50:03Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 9,
-      "benchmarkPostId": "2098125939636871240",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098125939636871240",
-      "originalText": "JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, fully supported by the launchpad. Hold $STONKCHAD and earn RWA rewards directly to your wallet. https://t.co/YUZYxpvn1V",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4KazSasAEGsbf.jpg",
-        "https://pbs.twimg.com/media/HR4KazKaIAAiOJq.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4KazSasAEGsbf.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098125939636871240-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4KazKaIAAiOJq.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098125939636871240-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 119,
-        "replies": 12,
-        "reposts": 13,
-        "quotes": 2,
-        "views": 13632
-      },
-      "postedAt": "Thu Sep 10 19:06:19 +0000 2026",
-      "score": 17262,
-      "heatScore": 17262,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 86.4,
-        "expiresAt": "2026-09-10T20:36:19Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

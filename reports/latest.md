@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T20:36:17.883205+00:00`
+- 状态更新：`2026-09-10T20:49:23.556840+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**559**
-- 待选选题：**485**
-- 待发布制作包：**0**
+- 对标帖子快照：**560**
+- 待选选题：**486**
+- 待发布制作包：**1**
 - 已验证发布：**217**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 20:42:09 +0000 2026 | JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JYtO | [X](https://x.com/WhaleInsider/status/2098150053177102560) |
 | @WhaleInsider | Thu Sep 10 20:20:25 +0000 2026 | JUST IN: $NINJACAT holders on Robinhood Chain are now automatically eligible for MSFT stock rewards through a fully autonomous process, with a multi-chain integrated bridge and swap feature also coming soon. https://t.co/oqMoRSwq4i | [X](https://x.com/WhaleInsider/status/2098144587617308944) |
 | @WhaleInsider | Thu Sep 10 20:22:43 +0000 2026 | JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud conviction. https://t.co/E2bRRGK8L9 | [X](https://x.com/WhaleInsider/status/2098145162689937869) |
 | @StockMKTNewz | Thu Sep 10 20:31:04 +0000 2026 | Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last year https://t.co/TxbuH77HCg | [X](https://x.com/StockMKTNewz/status/2098147267538559075) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 15:56:12 +0000 2026 | The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first time since June  🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2098078093286031846) |
 | @StockMKTNewz | Thu Sep 10 15:31:56 +0000 2026 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the $BLK shares he owns https://t.co/5RHz0Zbk0v | [X](https://x.com/StockMKTNewz/status/2098071985452441657) |
 | @StockMKTNewz | Thu Sep 10 15:39:55 +0000 2026 | Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform Listen Labs for ~$2 Billion | [X](https://x.com/StockMKTNewz/status/2098073996868648986) |
-| @StockMKTNewz | Thu Sep 10 15:21:02 +0000 2026 | OpenAI said today that it will provide 🇺🇸 Government agencies with free access to its ChatGPT licenses and 50% discounts on usage costs https://t.co/OvNGtNCHlV | [X](https://x.com/StockMKTNewz/status/2098069243799515422) |
 
 ## 选题推荐
 
@@ -199,6 +199,7 @@
 | 1 | SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING | StockMKTNewz | 16418 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt | StockMKTNewz | 9418 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last y… | StockMKTNewz | 20 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JY… | WhaleInsider | 12231 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3327,6 +3328,13 @@ $ORCL just reported earnings.
 
 Oracle $ORCL now has a $664B AI backlog, up from $455.3B in the same quarter last year.
 
+### Sam Bankman-Fried seeks Supreme Court review
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-sbf-supreme-court/when2buy-image-model.png`
+
+Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The former FTX founder is seeking review after a federal appeals court upheld the conviction.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3552,6 +3560,11 @@ Oracle $ORCL now has a $664B AI backlog, up from $455.3B in the same quarter las
 
 ## 最近运行
 
+- `2026-09-10T20:49:23Z` **publish / succeeded** — Newest fresh SBF Supreme Court package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was not open. minimum_interval; retryAt=2026-09-10T20:50:31Z; no retry made
+- `2026-09-10T20:48:37Z` **produce / succeeded** — Produced one newest fresh SBF Supreme Court package with exact-logo compositing.
+- `2026-09-10T20:47:18Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T20:47:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
+- `2026-09-10T20:46:29Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T20:35:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T20:35:17.456014+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
 - `2026-09-10T20:35:01.452113+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
@@ -3567,8 +3580,3 @@ Oracle $ORCL now has a $664B AI backlog, up from $455.3B in the same quarter las
 - `2026-09-10T20:15:26Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T20:04:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T20:03:35Z` **produce / succeeded** — Produced one newest fresh SpaceX Starship revenue-generating package with exact-logo compositing.
-- `2026-09-10T20:01:28Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T20:01:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 121 eligible originals and added 2 new post(s).
-- `2026-09-10T20:00:34Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T19:48:23Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T19:47:41.498812+00:00` **produce / succeeded** — Produced one newest fresh Vanguard ETF package with exact-logo compositing.

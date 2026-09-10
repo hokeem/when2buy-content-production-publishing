@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T20:36:17.883205+00:00",
+  "updatedAt": "2026-09-10T20:49:23.556840+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15411,6 +15411,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098150053177102560",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098150053177102560",
+      "postedAt": "Thu Sep 10 20:42:09 +0000 2026",
+      "text": "JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JYtO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4gWhYa4AAykDR.jpg",
+        "https://pbs.twimg.com/media/HR4gWhjW0AUccZ3.jpg"
+      ],
+      "engagement": {
+        "likes": 23,
+        "replies": 19,
+        "reposts": 8,
+        "quotes": 2,
+        "views": 10491
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T20:47:14Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4gWhYa4AAykDR.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098150053177102560-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4gWhjW0AUccZ3.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098150053177102560-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -24624,6 +24658,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098150053177102560",
+      "rank": 1,
+      "title": "JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JY…",
+      "benchmarkPostId": "2098150053177102560",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098150053177102560",
+      "score": 12231,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T20:47:18Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -36180,6 +36233,31 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T20:35:58Z",
       "publishedAt": "2026-09-10T20:35:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-sbf-supreme-court",
+      "benchmarkPostId": "2098145162689937869",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098145162689937869",
+      "title": "Sam Bankman-Fried seeks Supreme Court review",
+      "status": "ready",
+      "postText": "Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.\n\nThe former FTX founder is seeking review after a federal appeals court upheld the conviction.",
+      "mirroredFacts": [
+        "Sam Bankman-Fried is asking the U.S. Supreme Court to overturn his fraud conviction.",
+        "A federal appeals court upheld the conviction in June 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098145162689937869",
+        "https://www.supremecourt.gov/",
+        "https://apnews.com/article/e709df4a152e9b3b52a266dd81eb44cc"
+      ],
+      "imagePath": "deliverables/pkg-20260910-sbf-supreme-court/when2buy-image-model.png",
+      "createdAt": "2026-09-10T20:48:37Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square premium financial-news editorial visual: serious Supreme Court-inspired civic architecture, scales of justice, subtle digital-asset cue, near-black slate palette, no text, no logos, no watermark, clean lower-right logo-safe area; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      }
     }
   ],
   "posts": [
@@ -266782,6 +266860,59 @@
       "completedAt": "2026-09-10T20:35:58Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T204629Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:46:29Z",
+      "completedAt": "2026-09-10T20:46:29Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T204714Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:47:14Z",
+      "completedAt": "2026-09-10T20:47:14Z",
+      "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T204718Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:47:18Z",
+      "completedAt": "2026-09-10T20:47:18Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T204837Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:48:37Z",
+      "completedAt": "2026-09-10T20:48:37Z",
+      "summary": "Produced one newest fresh SBF Supreme Court package with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T204923Z-publish-deferred",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:49:23Z",
+      "completedAt": "2026-09-10T20:49:23Z",
+      "summary": "Newest fresh SBF Supreme Court package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was not open.",
+      "reason": "minimum_interval; retryAt=2026-09-10T20:50:31Z; no retry made",
+      "selectedPackageIds": [
+        "pkg-20260910-sbf-supreme-court"
+      ],
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
