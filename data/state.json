@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T19:20:00.123472+00:00",
+  "updatedAt": "2026-09-10T19:32:32.790369+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15121,6 +15121,88 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098131841609871395",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098131841609871395",
+      "postedAt": "Thu Sep 10 19:29:47 +0000 2026",
+      "text": "The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/Mega cap funds",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 4700
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T19:31:32Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2098131771296489490",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098131771296489490",
+      "postedAt": "Thu Sep 10 19:29:30 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZAADpWsg",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4Pt7sXcAEtQXK.jpg",
+        "https://pbs.twimg.com/media/HR4Pt76XkA0FLfG.jpg"
+      ],
+      "engagement": {
+        "likes": 19,
+        "replies": 6,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 8518
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T19:31:32Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4Pt7sXcAEtQXK.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098131771296489490-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4Pt76XkA0FLfG.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098131771296489490-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098129395588173991",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098129395588173991",
+      "postedAt": "Thu Sep 10 19:20:03 +0000 2026",
+      "text": "Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4Njt3aIAAA8Rb.jpg"
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 13,
+        "reposts": 5,
+        "quotes": 1,
+        "views": 9801
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T19:31:32Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4Njt3aIAAA8Rb.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098129395588173991-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -24125,6 +24207,63 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098131841609871395",
+      "rank": 1,
+      "title": "The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/…",
+      "benchmarkPostId": "2098131841609871395",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098131841609871395",
+      "score": 4940,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T19:31:36Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098131771296489490",
+      "rank": 2,
+      "title": "JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZ…",
+      "benchmarkPostId": "2098131771296489490",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098131771296489490",
+      "score": 9508,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T19:31:36Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098129395588173991",
+      "rank": 3,
+      "title": "Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw",
+      "benchmarkPostId": "2098129395588173991",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098129395588173991",
+      "score": 11251,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T19:31:36Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -35341,7 +35480,7 @@
       "benchmarkPostId": "2098107342378119604",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098107342378119604",
       "title": "OpenAI launches ChatGPT for Financial Services",
-      "status": "ready",
+      "status": "expired",
       "postText": "OpenAI just announced ChatGPT for Financial Services.\n\nThe tailored ChatGPT Work experience combines built-in financial data with GPT-6 Astra reasoning for research, financial models, and customized client materials.",
       "mirroredFacts": [
         "OpenAI announced the launch of ChatGPT for Financial Services.",
@@ -35370,7 +35509,9 @@
             "not a pure-text card or generic radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T19:30:38Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260910-treasury-debt-buyback",
@@ -35480,7 +35621,7 @@
       "benchmarkPostId": "2098128172797530309",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098128172797530309",
       "title": "Nu integrates USDC into new multi-currency account",
-      "status": "ready",
+      "status": "published",
       "postText": "Nu is integrating USDC into a new multi-currency digital account.\n\nNu serves more than 140M customers.",
       "mirroredFacts": [
         "Nu is integrating USDC into a new multi-currency digital account.",
@@ -35512,7 +35653,12 @@
             "not a pure-text card"
           ]
         }
-      }
+      },
+      "postizPostId": "cmtvxbpa70j3iqk0yx2e2ykqe",
+      "postizSubmissionAt": "2026-09-10T19:32:02Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T19:32:32Z",
+      "publishedAt": "2026-09-10T19:32:00.000Z"
     }
   ],
   "posts": [
@@ -39433,6 +39579,24 @@
         "lastAttemptAt": "2026-09-10T19:05:32.228379Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098132516674892282",
+      "packageId": "pkg-20260910-nu-usdc-multicurrency",
+      "title": "Nu integrates USDC into new multi-currency account",
+      "text": "Nu is integrating USDC into a new multi-currency digital account.\n\nNu serves more than 140M customers.",
+      "status": "published",
+      "publishedAt": "2026-09-10T19:32:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098132516674892282",
+      "postizPostId": "cmtvxbpa70j3iqk0yx2e2ykqe",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T19:32:00.000Z",
+        "windowEnd": "2026-09-13T19:32:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -262371,6 +262535,46 @@
       ],
       "outcome": "deferred",
       "retryAt": "2026-09-10T19:32:00Z"
+    },
+    {
+      "id": "run-20260910T193041Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:30:41Z",
+      "completedAt": "2026-09-10T19:30:41Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T193132Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:31:32Z",
+      "completedAt": "2026-09-10T19:31:32Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T193136Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:31:36Z",
+      "completedAt": "2026-09-10T19:31:36Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T193232Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T19:32:32Z",
+      "completedAt": "2026-09-10T19:32:32Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

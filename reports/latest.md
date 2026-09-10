@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T19:20:00.123472+00:00`
+- 状态更新：`2026-09-10T19:32:32.790369+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**548**
-- 待选选题：**474**
-- 待发布制作包：**5**
-- 已验证发布：**212**
+- 对标帖子快照：**551**
+- 待选选题：**477**
+- 待发布制作包：**3**
+- 已验证发布：**213**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 19:20:03 +0000 2026 | Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw | [X](https://x.com/StockMKTNewz/status/2098129395588173991) |
+| @WhaleInsider | Thu Sep 10 19:29:30 +0000 2026 | JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZAADpWsg | [X](https://x.com/WhaleInsider/status/2098131771296489490) |
+| @StockMKTNewz | Thu Sep 10 19:29:47 +0000 2026 | The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/Mega cap funds | [X](https://x.com/StockMKTNewz/status/2098131841609871395) |
 | @WhaleInsider | Thu Sep 10 19:06:19 +0000 2026 | JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, fully supported by the launchpad. Hold $STONKCHAD and earn RWA rewards directly to your wallet. https://t.co/YUZYxpvn1V | [X](https://x.com/WhaleInsider/status/2098125939636871240) |
 | @WhaleInsider | Thu Sep 10 19:15:12 +0000 2026 | JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M customers, is integrating $CRCL stablecoins into its new multi-currency digital account. https://t.co/gLFzGwpu9Q | [X](https://x.com/WhaleInsider/status/2098128172797530309) |
 | @WhaleInsider | Thu Sep 10 18:50:48 +0000 2026 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing $ROBLOXIANS to gain traction. https://t.co/SEUuII622O | [X](https://x.com/WhaleInsider/status/2098122034635038838) |
@@ -38,9 +41,6 @@
 | @WhaleInsider | Thu Sep 10 14:03:16 +0000 2026 | JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Kalshi traders. https://t.co/m0tx3iAliN | [X](https://x.com/WhaleInsider/status/2098049673999065518) |
 | @StockMKTNewz | Thu Sep 10 13:49:07 +0000 2026 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPngoIJya | [X](https://x.com/StockMKTNewz/status/2098046112305119263) |
 | @StockMKTNewz | Thu Sep 10 13:16:50 +0000 2026 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, according to code uncovered in iOS 27 - MacRumors https://t.co/TALODstWfN | [X](https://x.com/StockMKTNewz/status/2098037988483563998) |
-| @StockMKTNewz | Thu Sep 10 13:24:24 +0000 2026 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | [X](https://x.com/StockMKTNewz/status/2098039891233833362) |
-| @StockMKTNewz | Thu Sep 10 13:03:58 +0000 2026 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show:  “We've now stacked 845,000 Bitcoin on our balance sheet, 4% of all the Bitcoin that will ever exist. So we're also the largest holder of Bitcoin in the world at this point in time” https://t.co/IxU9KPBtyc | [X](https://x.com/StockMKTNewz/status/2098034748694188056) |
-| @StockMKTNewz | Thu Sep 10 12:48:54 +0000 2026 | I AM NOW DOWN ON MY TRADE BELOW  There is now just a 39% chance that the 🇺🇸 Fed will leave rates unchanged next week and a 61% chance they raise by 0.25% https://t.co/4iixsUEG5h | [X](https://x.com/StockMKTNewz/status/2098030957466988614) |
 
 ## 选题推荐
 
@@ -195,6 +195,7 @@
 | 1 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $… | StockMKTNewz | 11465 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing… | WhaleInsider | 15585 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M c… | WhaleInsider | 8464 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/… | StockMKTNewz | 4940 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -259,6 +260,7 @@
 | 2 | JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock.… | WhaleInsider | 14992 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock a… | StockMKTNewz | 8105 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, … | WhaleInsider | 17262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZ… | WhaleInsider | 9508 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -286,6 +288,7 @@
 | 3 | Here are the 4 new products Apple $AAPL announced today - New iPhone 18 Pro and Pro Max - Up… | StockMKTNewz | 28356 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. http… | WhaleInsider | 16360 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first … | WhaleInsider | 16803 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw | StockMKTNewz | 11251 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3255,7 +3258,7 @@ Whole Foods store workers now make more than $21 an hour on average.
 
 ### OpenAI launches ChatGPT for Financial Services
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-chatgpt-financial-services/when2buy-image-model.png`
 
 OpenAI just announced ChatGPT for Financial Services.  The tailored ChatGPT Work experience combines built-in financial data with GPT-6 Astra reasoning for research, financial models, and customized client materials.
@@ -3283,7 +3286,7 @@ The official PNUT and Gigachad X accounts both posted Roblox-themed tweets.  $RO
 
 ### Nu integrates USDC into new multi-currency account
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260910-nu-usdc-multicurrency/when2buy-image-model.png`
 
 Nu is integrating USDC into a new multi-currency digital account.  Nu serves more than 140M customers.
@@ -3505,9 +3508,14 @@ Nu is integrating USDC into a new multi-currency digital account.  Nu serves mor
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098132516674892282) |
 
 ## 最近运行
 
+- `2026-09-10T19:32:32Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T19:31:36Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T19:31:32Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
+- `2026-09-10T19:30:41Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T19:20:00Z` **publish / succeeded** — Newest Nu USDC package was safely deferred before Postiz acceptance by the rolling 24-hour account limit. daily_limit
 - `2026-09-10T19:18:52Z` **produce / succeeded** — Produced the single newest fresh Nu USDC package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T19:16:20Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3524,7 +3532,3 @@ Nu is integrating USDC into a new multi-currency digital account.  Nu serves mor
 - `2026-09-10T18:30:00Z` **full / partial** — Reconciled Postiz, collected both benchmark feeds through Apify, archived media, rebuilt the hard 90-minute queue, produced the newest fresh gasoline package, collected hourly metrics idempotently, and safely deferred publication. Apify required a bounded retry before completing; Postiz accepted no new task because the rolling 24-hour daily limit was exhausted. No backlog or expired item was published.
 - `2026-09-10T18:35:05Z` **produce / succeeded** — Produced one newest fresh U.S. gasoline package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T18:33:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
-- `2026-09-10T18:30:44Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:15:00Z` **full / succeeded** — Scanned both benchmark feeds, archived media, produced one newest fresh package, and safely deferred Postiz submission because the rolling daily limit was exhausted. daily_limit; retryAt 2026-09-10T19:32:00Z; package remains ready and must not be retried before a future scheduled run.
-- `2026-09-10T18:16:48Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
