@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T06:29:30.683589+00:00`
+- 状态更新：`2026-09-10T07:04:54.088277+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**488**
-- 待选选题：**426**
+- 对标帖子快照：**489**
+- 待选选题：**427**
 - 待发布制作包：**0**
 - 已验证发布：**201**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 06:36:47 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | [X](https://x.com/WhaleInsider/status/2097937311249949144) |
 | @StockMKTNewz | Thu Sep 10 00:31:29 +0000 2026 | Nvidia $NVDA just posted this:  “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are expanding land, power and shell capacity to host AI factories, supporting the nation’s growing demand for AI compute.” https://t.co/mWTRafIczS | [X](https://x.com/StockMKTNewz/status/2097845382281662509) |
 | @StockMKTNewz | Wed Sep 09 16:59:20 +0000 2026 | Apple $AAPL is about to release its brand new iPhone 📱   The event is starting right now … expect to see a lot of Apple tweets from me over the next hour | [X](https://x.com/StockMKTNewz/status/2097731592013684977) |
 | @StockMKTNewz | Wed Sep 09 17:08:01 +0000 2026 | Apple $AAPL just started its first iPhone keynote with John Ternus leading the company  https://t.co/Nm0bf66hfy | [X](https://x.com/StockMKTNewz/status/2097733776902107414) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 17:30:21 +0000 2026 | APPLE'S $AAPL NEW IPHONE 18 PRO MAX STARTS AT $1,299 | [X](https://x.com/StockMKTNewz/status/2097739400603951368) |
 | @StockMKTNewz | Wed Sep 09 17:31:22 +0000 2026 | Apple $AAPL just announced Upgrade a new $34.99 per month subscription that lets you rent a new iPhone 18 Pro https://t.co/H7KooF6VXh | [X](https://x.com/StockMKTNewz/status/2097739656531972302) |
 | @StockMKTNewz | Wed Sep 09 17:32:12 +0000 2026 | APPLE $AAPL JUST ANNOUNCED THE NEW AIRPODS 5 | [X](https://x.com/StockMKTNewz/status/2097739863147642923) |
-| @StockMKTNewz | Wed Sep 09 17:35:45 +0000 2026 | Apple $AAPL just announced the new AirPods 5 which start at $129 https://t.co/KRAhTlh8ek | [X](https://x.com/StockMKTNewz/status/2097740756291108977) |
 
 ## 选题推荐
 
@@ -161,6 +161,7 @@
 | 1 | ZYN IS EXPANDING ITS LINEUP Philip Morris $PM owned Zyn announced today it will begin sellin… | StockMKTNewz | 2421 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Cathie Wood and Ark Invest bought 43,091 more shares of Meta Platforms $META today https://t… | StockMKTNewz | 4776 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Nvidia $NVDA just posted this: “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are ex… | StockMKTNewz | 6442 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | WhaleInsider | 17234 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2995,6 +2996,13 @@ Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today
 
 $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power and shell capacity for AI factories.  The buildout supports growing national demand for AI compute.
 
+### Spot Bitcoin ETFs show $120.24M early net outflow
+
+- 状态：`failed`
+- 配图：`deliverables/pkg-20260910-btc-spot-etf-120m-early-outflow/when2buy-image-model.png`
+
+U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3204,6 +3212,12 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 
 ## 最近运行
 
+- `2026-09-10T06:56:10Z` **full / partial** — Apify collection from both benchmark accounts, media archive, verified-package reconciliation, hard-TTL queue rebuild, one image-model package, Postiz submission, and reporting completed; the accepted delivery produced no verified public X URL and was not retried. Postiz accepted cmtv6horn0360lm0ys12yk6lb but did not return PUBLISHED plus a public x.com release URL within the verification window.
+- `2026-09-10T07:03:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T07:03:30.004818+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtv6horn0360lm0ys12yk6lb but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.
+- `2026-09-10T06:59:00Z` **produce / succeeded** — Produced the sole fresh queue package with narrow early-flow wording, an inspected image-model visual, and exact-logo compositing.
+- `2026-09-10T06:56:56Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T06:56:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-10T06:26:31Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, Postiz publication reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-10T06:28:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T06:28:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 117 eligible originals and added 0 new post(s).
@@ -3218,9 +3232,3 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 - `2026-09-10T05:45:59Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
 - `2026-09-10T05:47:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T05:47:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 117 eligible originals and added 0 new post(s).
-- `2026-09-10T05:46:12Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T05:35:50Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
-- `2026-09-10T05:38:18Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T05:37:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 83 eligible originals and added 0 new post(s).
-- `2026-09-10T05:35:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T05:26:01Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, publication and package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
