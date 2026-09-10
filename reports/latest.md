@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T04:57:42.834728+00:00`
+- 状态更新：`2026-09-10T05:08:41.550968+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**488**
 - 待选选题：**426**
@@ -3034,8 +3034,8 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
+| iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
-| iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
@@ -3054,8 +3054,8 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” | 2026-09-07T00:42:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761201938375037) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
+| iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097785187346338125) |
 | Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
-| iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097785187346338125) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 25 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
@@ -3082,11 +3082,11 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 17 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
+| NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097847871278293375) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
-| NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097847871278293375) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
@@ -3119,6 +3119,7 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
+| India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
@@ -3127,7 +3128,6 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849491324551540) |
 | UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
-| India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
@@ -3204,6 +3204,10 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 
 ## 最近运行
 
+- `2026-09-10T05:06:12Z` **full / succeeded** — Hourly metrics check, Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
+- `2026-09-10T05:08:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T05:07:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
+- `2026-09-10T05:06:17Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T04:57:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T04:57:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T04:46:01Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No fresh eligible benchmark posts remained inside the 90-minute source TTL.
@@ -3220,7 +3224,3 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 - `2026-09-10T04:16:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
 - `2026-09-10T04:16:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T04:05:53Z` **full / succeeded** — Hourly public-metrics collection, Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-10T04:08:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T04:07:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-10T04:05:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T03:56:00Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
