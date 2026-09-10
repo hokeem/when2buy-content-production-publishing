@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T21:50:28.291152+00:00`
+- 状态更新：`2026-09-10T22:02:51.016184+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**565**
 - 待选选题：**491**
-- 待发布制作包：**4**
-- 已验证发布：**218**
+- 待发布制作包：**2**
+- 已验证发布：**219**
 
 ## 对标账号扫描
 
@@ -3335,7 +3335,7 @@ Oracle $ORCL now has a $664B AI backlog, up from $455.3B in the same quarter las
 
 ### Sam Bankman-Fried seeks Supreme Court review
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-sbf-supreme-court/when2buy-image-model.png`
 
 Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The former FTX founder is seeking review after a federal appeals court upheld the conviction.
@@ -3363,7 +3363,7 @@ $KERMIT is the first project on Robinhood Chain to integrate Grok.
 
 ### Pentagon in talks to lend roughly $5B to Fluidstack
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260910-fluidstack-pentagon-5b-loan-talks/when2buy-image-model.png`
 
 The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  The money would come through the Pentagon's Office of Strategic Capital.
@@ -3397,9 +3397,9 @@ The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  Th
 | Tesla starts paid Cybercab rides | 2026-09-07T08:32:00.000Z | 49 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879420590149937) |
 | Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 49 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Google secures Loviisa nuclear power through 2050 | 2026-09-09T14:00:00.000Z | 49 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097687737923178946) |
+| Oracle AI backlog reaches $664B | 2026-09-10T20:35:00.000Z | 49 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098148490069344673) |
 | Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
-| Oracle AI backlog reaches $664B | 2026-09-10T20:35:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098148490069344673) |
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
@@ -3411,7 +3411,7 @@ The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  Th
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
-| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
+| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
@@ -3507,13 +3507,13 @@ The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  Th
 | Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849491324551540) |
 | UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
+| Whole Foods store workers average more than $21 an hour | 2026-09-10T17:48:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098106569653473354) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
 | Bitcoin ETFs take in $46.65M | 2026-09-09T05:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097563223033843954) |
-| Whole Foods store workers average more than $21 an hour | 2026-09-10T17:48:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098106569653473354) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3591,9 +3591,13 @@ The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  Th
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098170354678341984) |
 
 ## 最近运行
 
+- `2026-09-10T22:02:51Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T22:01:18Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T22:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T21:50:00Z` **publish / succeeded** — Newest fresh Fluidstack/Pentagon package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour account limit was reached. daily_limit
 - `2026-09-10T21:49:35Z` **produce / succeeded** — Produced the sole newest fresh Fluidstack/Pentagon package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T21:46:58Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3611,6 +3615,3 @@ The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  Th
 - `2026-09-10T21:16:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
 - `2026-09-10T21:15:57Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T21:04:42Z` **publish / succeeded** — The sole newest fresh DOGE ETF package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T21:13:00Z
-- `2026-09-10T21:03:27Z` **produce / succeeded** — Produced one newest fresh Bitwise DOGE ETF package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T21:01:18Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T21:01:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
