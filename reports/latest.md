@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T05:57:53.711149+00:00`
+- 状态更新：`2026-09-10T06:08:30.484859+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**488**
 - 待选选题：**426**
@@ -3026,10 +3026,10 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
+| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
-| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 44 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 43 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 42 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
@@ -3043,9 +3043,9 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 33 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
 | JUST IN: $XRP price rallies 4.8% in the past 24 hours. | 2026-09-04T04:52:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736785712341242) |
 | JUST IN: Altcoins flip $BTC in open interest. | 2026-09-07T00:43:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761333488513480) |
+| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 33 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | Tesla $TSLA has now officially started offering rides in its fully self driving Cybercab with no ste | 2026-09-06T00:43:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398921539199051) |
 | Moderna ranks second among S&P 500 stocks so far in 2026, with $MRNA up 394% | 2026-09-07T12:53:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945002169675872) |
-| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 32 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | Salesforce $CRM and Anthropic just released this new commercial together | 2026-09-04T04:51:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736656079008137) |
 | Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: | 2026-09-04T12:45:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855783753953496) |
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
@@ -3113,6 +3113,7 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | Brent crude climbs above $100 a barrel | 2026-09-09T09:40:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097621274306789488) |
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
+| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -3121,7 +3122,6 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
-| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -3204,6 +3204,10 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 
 ## 最近运行
 
+- `2026-09-10T06:05:54Z` **full / succeeded** — Apify collection from both benchmark accounts, hourly public-metrics collection, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
+- `2026-09-10T06:07:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T06:07:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
+- `2026-09-10T06:05:57Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T05:57:53.630169Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
 - `2026-09-10T05:56:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T05:56:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -3220,7 +3224,3 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 - `2026-09-10T05:26:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T05:15:48Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
 - `2026-09-10T05:17:07Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T05:17:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
-- `2026-09-10T05:15:51Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T05:06:12Z` **full / succeeded** — Hourly metrics check, Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
-- `2026-09-10T05:08:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
