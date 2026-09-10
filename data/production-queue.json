@@ -1,14 +1,102 @@
 {
-  "generatedAt": "2026-09-10T15:01:38Z",
+  "generatedAt": "2026-09-10T15:17:27Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098057773099430149",
+      "benchmarkPostId": "2098065613763543262",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098065613763543262",
+      "originalText": "The Trump administration said it would issue $500 payments to nearly 1 million Americans, citing what it called “overcharges” of people who purchased health insurance through federal Affordable Care Act exchanges.\n\nThe checks are expected to be sent in October - Bloomberg",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 18,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 10122
+      },
+      "postedAt": "Thu Sep 10 15:06:37 +0000 2026",
+      "score": 11092,
+      "heatScore": 11092,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 21,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 10.8,
+        "expiresAt": "2026-09-10T16:36:37Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098065005400723747",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098065005400723747",
+      "originalText": "JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all of the concerns over the crypto CLARITY Act.\n\n\"I'm feelin pretty good about it.\" https://t.co/DhpAySuQBN",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR3S_d6WsAMsYJj.jpg",
+        "https://pbs.twimg.com/media/HR3S_eBWsAI8OU9.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3S_d6WsAMsYJj.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098065005400723747-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3S_eBWsAI8OU9.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098065005400723747-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 84,
+        "replies": 21,
+        "reposts": 18,
+        "quotes": 4,
+        "views": 15536
+      },
+      "postedAt": "Thu Sep 10 15:04:12 +0000 2026",
+      "score": 19196,
+      "heatScore": 19196,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 13.3,
+        "expiresAt": "2026-09-10T16:34:12Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098057773099430149",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260910-ecb-three-rate-hikes",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2098057773099430149",
       "originalText": "JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9ITFfI5y",
       "originalMediaUrls": [
@@ -48,14 +136,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 26.2,
+        "ageMinutes": 42.0,
         "expiresAt": "2026-09-10T16:05:27Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 4,
       "benchmarkPostId": "2098046112305119263",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-powell-maryland-waterfront-home",
@@ -93,7 +181,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 72.5,
+        "ageMinutes": 88.3,
         "expiresAt": "2026-09-10T15:19:07Z",
         "ttlMinutes": 90
       },

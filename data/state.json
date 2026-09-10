@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T15:06:12.288969+00:00",
+  "updatedAt": "2026-09-10T15:19:56.607947+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14517,6 +14517,60 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098065613763543262",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098065613763543262",
+      "postedAt": "Thu Sep 10 15:06:37 +0000 2026",
+      "text": "The Trump administration said it would issue $500 payments to nearly 1 million Americans, citing what it called “overcharges” of people who purchased health insurance through federal Affordable Care Act exchanges.\n\nThe checks are expected to be sent in October - Bloomberg",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 18,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 10122
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T15:17:07Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2098065005400723747",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098065005400723747",
+      "postedAt": "Thu Sep 10 15:04:12 +0000 2026",
+      "text": "JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all of the concerns over the crypto CLARITY Act.\n\n\"I'm feelin pretty good about it.\" https://t.co/DhpAySuQBN",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3S_d6WsAMsYJj.jpg",
+        "https://pbs.twimg.com/media/HR3S_eBWsAI8OU9.jpg"
+      ],
+      "engagement": {
+        "likes": 84,
+        "replies": 21,
+        "reposts": 18,
+        "quotes": 4,
+        "views": 15536
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T15:17:07Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3S_d6WsAMsYJj.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098065005400723747-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3S_eBWsAI8OU9.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098065005400723747-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -23119,6 +23173,44 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-10T14:46:41Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098065613763543262",
+      "rank": 1,
+      "title": "The Trump administration said it would issue $500 payments to nearly 1 million Americans, ci…",
+      "benchmarkPostId": "2098065613763543262",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098065613763543262",
+      "score": 11092,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T15:17:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098065005400723747",
+      "rank": 2,
+      "title": "JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all …",
+      "benchmarkPostId": "2098065005400723747",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098065005400723747",
+      "score": 19196,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T15:17:27Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
@@ -33911,7 +34003,7 @@
       "postizPostId": "cmtvnadbn0fh0qk0yliuv5j6j",
       "postizSubmissionAt": "2026-09-10T14:51:04Z",
       "deliveryState": "ERROR",
-      "deliveryCheckedAt": "2026-09-10T15:04:05Z",
+      "deliveryCheckedAt": "2026-09-10T15:19:56Z",
       "deliveryGraceUntil": "2026-09-10T15:51:04Z",
       "deliveryError": "Postiz reported a downstream delivery error; delayed-success reconciliation remains active.",
       "firstDeliveryErrorAt": "2026-09-10T14:51:35Z"
@@ -33944,6 +34036,44 @@
             "square 1254x1254 PNG",
             "complete entity-led central-bank, euro, and three-step rate scene",
             "visible factual text is limited to ECB, three more rate hikes, and mid-2027",
+            "premium near-black, white, steel-blue, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-aca-500-rebates",
+      "benchmarkPostId": "2098065613763543262",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098065613763543262",
+      "title": "$500 ACA rebate payments proposed for nearly 1 million enrollees",
+      "status": "ready",
+      "postText": "The Trump administration is proposing $500 payments for nearly 1 million ACA exchange enrollees.\n\nThe checks are expected to go out in October.",
+      "mirroredFacts": [
+        "The administration is proposing $500 payments for nearly 1 million ACA exchange enrollees.",
+        "The checks are expected to go out in October."
+      ],
+      "verificationSources": [
+        "https://apnews.com/article/5fea0b182d64b4d7966e0ec7af276e92",
+        "https://www.axios.com/2026/09/09/trump-obamacare-rebates-election"
+      ],
+      "imagePath": "deliverables/pkg-20260910-aca-500-rebates/when2buy-image-model.png",
+      "createdAt": "2026-09-10T15:19:38Z",
+      "sourceExpiresAt": "2026-09-10T16:36:37Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Asset type: complete square 1:1 premium financial-news editorial visual for When2Buy. Primary request: an original entity-led visual about proposed $500 rebate checks for roughly one million Affordable Care Act marketplace enrollees. Scene/backdrop: cinematic near-black Washington policy setting blended with a modern health-insurance exchange interface motif and a stack of clean government-style rebate checks, no readable signage. Subject: one prominent physical rebate check marked only with a simple dollar symbol shape, subtle healthcare enrollment cards, and a restrained outline of the United States; communicate a large consumer rebate program, not a generic money graphic. Style/medium: high-end photorealistic editorial financial-news photography, realistic paper and glass materials, premium and factual. Composition/framing: exact 1:1 square; dominant check and enrollment-card subject; reserve lower-right negative space for the supplied circular when2buy logo; leave upper-left clean space for factual typography composited later. Lighting/mood: high-contrast night lighting, crisp white rim light, restrained red accent, urgent but factual. Color palette: near-black, charcoal, white, muted steel-blue, restrained red. Text: none; all typography will be composited later. Constraints: no generated readable text, logos, source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, generic radar graphic, pure-text card, or extra brand marks.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T15:19:38Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led Washington, healthcare, and rebate-check scene",
+            "visible factual text is limited to $500 rebate, ~1M ACA enrollees, and expected in October",
             "premium near-black, white, steel-blue, and restrained-red palette",
             "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
             "not a pure-text card or generic-radar visual",
@@ -247541,6 +247671,53 @@
       "reason": "pending_delivery_reconciliation; retryAt=2026-09-10T15:51:04Z",
       "packageId": "pkg-20260910-ecb-three-rate-hikes",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T151707Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:17:07Z",
+      "completedAt": "2026-09-10T15:17:07Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T151723Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:17:23Z",
+      "completedAt": "2026-09-10T15:17:23Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T151727Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:17:27Z",
+      "completedAt": "2026-09-10T15:17:27Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T151938Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:19:38Z",
+      "completedAt": "2026-09-10T15:19:38Z",
+      "summary": "Produced one newest fresh ACA-rebate package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260910-aca-500-rebates"
+      ]
     }
   ],
   "deliveryCircuitBreaker": {

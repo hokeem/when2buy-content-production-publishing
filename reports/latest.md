@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T15:06:12.288969+00:00`
+- 状态更新：`2026-09-10T15:19:56.607947+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**527**
-- 待选选题：**453**
-- 待发布制作包：**2**
+- 对标帖子快照：**529**
+- 待选选题：**455**
+- 待发布制作包：**3**
 - 已验证发布：**206**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 15:04:12 +0000 2026 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all of the concerns over the crypto CLARITY Act.  "I'm feelin pretty good about it." https://t.co/DhpAySuQBN | [X](https://x.com/WhaleInsider/status/2098065005400723747) |
+| @StockMKTNewz | Thu Sep 10 15:06:37 +0000 2026 | The Trump administration said it would issue $500 payments to nearly 1 million Americans, citing what it called “overcharges” of people who purchased health insurance through federal Affordable Care Act exchanges.  The checks are expected to be sent in October - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098065613763543262) |
 | @WhaleInsider | Thu Sep 10 14:35:27 +0000 2026 | JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9ITFfI5y | [X](https://x.com/WhaleInsider/status/2098057773099430149) |
 | @StockMKTNewz | Thu Sep 10 14:37:03 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/IxAtm1BwL9 | [X](https://x.com/StockMKTNewz/status/2098058173802287518) |
 | @StockMKTNewz | Thu Sep 10 14:45:27 +0000 2026 | Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into restaurant delivery - Bloomberg https://t.co/Id89GGILxp | [X](https://x.com/StockMKTNewz/status/2098060288830459918) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 11:22:08 +0000 2026 | NVIDIA AND PALANTIR PARTNERSHIP  Palantir $PLTR and Nvidia $NVDA just announced a new partnership to "bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations."  The two companies built an AI stack combining NVIDIA's open Nemotron models with Palantir's Foundry, AIP, and Ontology, aimed at giving NVIDIA's supply chain teams real-time visibility into constraints and faster materials allocation decisions across a network of millions of parts and thousands of suppliers | [X](https://x.com/StockMKTNewz/status/2098009124122345551) |
 | @StockMKTNewz | Thu Sep 10 11:08:09 +0000 2026 | Here is every stock with a single letter stock ticker  $A - Agilent  $B - Barrick Mining $C - Citi $D - Dominion Energy $E - Eni $F - Ford $G - Genpact $H - Hyatt Hotel $I  $J - Jacobs Solutions $K  $L - Lowes $M - Macy's $N   $O - Realty Income $P - Everpure $Q - Qnity $R - Ryder $S - SentinelOne $T - AT&T $U - Unity Software $V - Visa $W - Wayfair $X  solana:BksqjaKyJqHV5qqbKyAgwZ66JhGKZc33rGkMyKjApump  $Z - Zillow | [X](https://x.com/StockMKTNewz/status/2098005603591307474) |
 | @WhaleInsider | Thu Sep 10 10:49:26 +0000 2026 | JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. https://t.co/TR3alumzk7 | [X](https://x.com/WhaleInsider/status/2098000894960742588) |
-| @StockMKTNewz | Thu Sep 10 10:56:11 +0000 2026 | China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2019 - Bloomberg https://t.co/tQ4Q6GaEZB | [X](https://x.com/StockMKTNewz/status/2098002593259593965) |
-| @StockMKTNewz | Thu Sep 10 10:59:12 +0000 2026 | Macy's $M stock is up by 5% in pre market trading after reporting earnings  🟢🟢🟢🟢🟢 https://t.co/eriQWyJnII | [X](https://x.com/StockMKTNewz/status/2098003348997697583) |
 
 ## 选题推荐
 
@@ -181,6 +181,7 @@
 | 1 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPng… | StockMKTNewz | 14927 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Ka… | WhaleInsider | 18897 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into res… | StockMKTNewz | 3451 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The Trump administration said it would issue $500 payments to nearly 1 million Americans, ci… | StockMKTNewz | 11092 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -240,6 +241,7 @@
 | 2 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | StockMKTNewz | 11891 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, acco… | StockMKTNewz | 13898 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9IT… | WhaleInsider | 16741 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all … | WhaleInsider | 19196 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3169,6 +3171,13 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 
 Traders are fully pricing three more ECB rate hikes by mid-2027.
 
+### $500 ACA rebate payments proposed for nearly 1 million enrollees
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-aca-500-rebates/when2buy-image-model.png`
+
+The Trump administration is proposing $500 payments for nearly 1 million ACA exchange enrollees.  The checks are expected to go out in October.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3383,6 +3392,10 @@ Traders are fully pricing three more ECB rate hikes by mid-2027.
 
 ## 最近运行
 
+- `2026-09-10T15:19:38Z` **produce / succeeded** — Produced one newest fresh ACA-rebate package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T15:17:27Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T15:17:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
+- `2026-09-10T15:17:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
 - `2026-09-10T15:06:12Z` **publish / succeeded** — The sole newest ECB package was safely deferred during the existing 60-minute Postiz reconciliation window; no task was accepted and the fresh package remains recoverable. pending_delivery_reconciliation; retryAt=2026-09-10T15:51:04Z
 - `2026-09-10T15:03:40Z` **produce / succeeded** — Produced the sole newest fresh ECB-rate-hikes package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T15:01:38Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3399,7 +3412,3 @@ Traders are fully pricing three more ECB rate hikes by mid-2027.
 - `2026-09-10T14:18:43Z` **produce / succeeded** — Produced the sole newest fresh Fed-hike-odds package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T14:16:17Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T14:15:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-10T14:04:04Z` **publish / succeeded** — Reconciled 1 published, 0 pending, and 0 terminal Postiz deliveries.
-- `2026-09-10T14:02:14Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T14:01:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T14:01:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
