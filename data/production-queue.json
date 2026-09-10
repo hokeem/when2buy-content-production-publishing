@@ -1,10 +1,61 @@
 {
-  "generatedAt": "2026-09-10T18:46:40Z",
+  "generatedAt": "2026-09-10T19:03:26Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098122034635038838",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098122034635038838",
+      "originalText": "JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing $ROBLOXIANS to gain traction. https://t.co/SEUuII622O",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR4G3k9aIAA_k9S.jpg",
+        "https://pbs.twimg.com/media/HR4G3jsbIAA-_nO.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4G3k9aIAA_k9S.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098122034635038838-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4G3jsbIAA-_nO.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098122034635038838-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 30,
+        "replies": 19,
+        "reposts": 9,
+        "quotes": 2,
+        "views": 13655
+      },
+      "postedAt": "Thu Sep 10 18:50:48 +0000 2026",
+      "score": 15585,
+      "heatScore": 15585,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 12.6,
+        "expiresAt": "2026-09-10T20:20:48Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
       "benchmarkPostId": "2098113572123394403",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-us-gas-428",
@@ -34,14 +85,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 29.5,
+        "ageMinutes": 46.3,
         "expiresAt": "2026-09-10T19:47:11Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098110906240553240",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-treasury-debt-buyback",
@@ -85,14 +136,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 40.1,
+        "ageMinutes": 56.9,
         "expiresAt": "2026-09-10T19:36:35Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098107342378119604",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-chatgpt-financial-services",
@@ -130,7 +181,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 54.2,
+        "ageMinutes": 71.0,
         "expiresAt": "2026-09-10T19:22:26Z",
         "ttlMinutes": 90
       },

@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T18:46:40.581372+00:00`
+- 状态更新：`2026-09-10T19:06:28.041749+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**545**
-- 待选选题：**471**
-- 待发布制作包：**3**
+- 对标帖子快照：**546**
+- 待选选题：**472**
+- 待发布制作包：**4**
 - 已验证发布：**212**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 18:50:48 +0000 2026 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing $ROBLOXIANS to gain traction. https://t.co/SEUuII622O | [X](https://x.com/WhaleInsider/status/2098122034635038838) |
 | @StockMKTNewz | Thu Sep 10 18:17:11 +0000 2026 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week | [X](https://x.com/StockMKTNewz/status/2098113572123394403) |
 | @WhaleInsider | Thu Sep 10 18:06:35 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM | [X](https://x.com/WhaleInsider/status/2098110906240553240) |
 | @StockMKTNewz | Thu Sep 10 17:52:26 +0000 2026 | OpenAI just announced the launch of ChatGPT for Financial Services  “a tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.” https://t.co/XWQpidcI3r | [X](https://x.com/StockMKTNewz/status/2098107342378119604) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 12:48:54 +0000 2026 | I AM NOW DOWN ON MY TRADE BELOW  There is now just a 39% chance that the 🇺🇸 Fed will leave rates unchanged next week and a 61% chance they raise by 0.25% https://t.co/4iixsUEG5h | [X](https://x.com/StockMKTNewz/status/2098030957466988614) |
 | @StockMKTNewz | Thu Sep 10 12:31:34 +0000 2026 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | [X](https://x.com/StockMKTNewz/status/2098026596380639714) |
 | @StockMKTNewz | Thu Sep 10 12:17:56 +0000 2026 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | [X](https://x.com/StockMKTNewz/status/2098023164152369238) |
-| @WhaleInsider | Thu Sep 10 12:25:35 +0000 2026 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42 | [X](https://x.com/WhaleInsider/status/2098025091581747413) |
 
 ## 选题推荐
 
@@ -193,6 +193,7 @@
 | 1 | OpenAI just announced the launch of ChatGPT for Financial Services “a tailored ChatGPT Work … | StockMKTNewz | 9342 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this w… | WhaleInsider | 15827 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $… | StockMKTNewz | 11465 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing… | WhaleInsider | 15585 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3271,6 +3272,13 @@ U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 
 
 U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 
+### $ROBLOXIANS gains traction on Roblox-themed posts
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-robloxians-traction/when2buy-image-model.png`
+
+The official PNUT and Gigachad X accounts both posted Roblox-themed tweets.  $ROBLOXIANS is gaining traction.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3312,9 +3320,9 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
 | UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
+| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 38 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
-| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:50:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097774892167156048) |
@@ -3343,10 +3351,10 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
+| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
-| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 | IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097614505312506296) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
@@ -3376,6 +3384,7 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
+| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
@@ -3393,7 +3402,6 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
-| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -3407,12 +3415,14 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 | Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849491324551540) |
 | UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
+| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
 | Bitcoin ETFs take in $46.65M | 2026-09-09T05:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097563223033843954) |
+| Whole Foods store workers average more than $21 an hour | 2026-09-10T17:48:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098106569653473354) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3426,7 +3436,6 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 7 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
-| Whole Foods store workers average more than $21 an hour | 2026-09-10T17:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098106569653473354) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3435,7 +3444,6 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
-| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3491,6 +3499,13 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 
 ## 最近运行
 
+- `2026-09-10T19:06:28.039883+00:00` **publish / succeeded** — Safely deferred the newest fresh Roblox-themed package because the rolling 24-hour Postiz limit was exhausted; no submission was accepted. daily_limit; retryAt=2026-09-10T19:32:00Z
+- `2026-09-10T19:05:07.400591+00:00` **produce / succeeded** — Produced the single newest fresh Roblox-themed $ROBLOXIANS package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T19:03:26Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T19:02:59Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T19:02:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
+- `2026-09-10T19:00:43Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T19:00:31Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:46:40Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:46:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 40 eligible originals and added 0 new post(s).
 - `2026-09-10T18:30:00Z` **full / partial** — Reconciled Postiz, collected both benchmark feeds through Apify, archived media, rebuilt the hard 90-minute queue, produced the newest fresh gasoline package, collected hourly metrics idempotently, and safely deferred publication. Apify required a bounded retry before completing; Postiz accepted no new task because the rolling 24-hour daily limit was exhausted. No backlog or expired item was published.
@@ -3504,10 +3519,3 @@ U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
 - `2026-09-10T18:16:31Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:16:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 50 eligible originals and added 1 new post(s).
 - `2026-09-10T18:15:33Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:03:57Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-10T19:32:00Z
-- `2026-09-10T18:03:48.896255Z` **produce / succeeded** — Produced one newest fresh ChatGPT for Financial Services package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T18:01:26Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:01:18Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-10T17:49:23Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T17:48:36Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
