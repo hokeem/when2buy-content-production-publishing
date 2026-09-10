@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T16:35:19.674278+00:00`
+- 状态更新：`2026-09-10T16:47:52.923768+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**536**
 - 待选选题：**462**
-- 待发布制作包：**4**
-- 已验证发布：**208**
+- 待发布制作包：**2**
+- 已验证发布：**209**
 
 ## 对标账号扫描
 
@@ -3180,7 +3180,7 @@ Traders are fully pricing three more ECB rate hikes by mid-2027.
 
 ### $500 ACA rebate payments proposed for nearly 1 million enrollees
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-aca-500-rebates/when2buy-image-model.png`
 
 The Trump administration is proposing $500 payments for nearly 1 million ACA exchange enrollees.  The checks are expected to go out in October.
@@ -3215,7 +3215,7 @@ NVIDIA CEO Jensen Huang said cybersecurity is the next major use case of AI.
 
 ### Ripple expands GSmart AI across treasury operations
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260910-ripple-gsmart-ai/when2buy-image-model.png`
 
 Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk, reconciliation and reporting.
@@ -3433,9 +3433,14 @@ Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
 | NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
+| Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 
 ## 最近运行
 
+- `2026-09-10T16:47:36Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T16:46:33Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T16:46:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
+- `2026-09-10T16:45:25Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T16:35:19Z` **publish / succeeded** — Postiz delivery safely deferred before acceptance because the 15-minute minimum submission interval was active. minimum_interval; retryAt=2026-09-10T16:35:49Z; package remains ready and must not be retried before the next scheduled cycle.
 - `2026-09-10T16:34:06Z` **produce / succeeded** — Produced one newest fresh Ripple GSmart package with generated entity visual and exact-logo composite.
 - `2026-09-10T16:31:41Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3452,7 +3457,3 @@ Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk
 - `2026-09-10T16:01:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-10T16:00:46Z` **publish / succeeded** — Reconciled 0 published, 0 pending, and 1 terminal Postiz deliveries.
 - `2026-09-10T15:50:16Z` **publish / succeeded** — Newest Salesforce/Listen Labs package remained ready; Postiz batch safely deferred because an accepted task remains within delayed-success reconciliation. pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.
-- `2026-09-10T15:49:36Z` **produce / succeeded** — Produced the single newest fresh Salesforce/Listen Labs package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T15:46:59Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T15:46:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).
-- `2026-09-10T15:45:40Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
