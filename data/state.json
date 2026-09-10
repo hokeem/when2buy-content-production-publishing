@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T15:34:15.773922+00:00",
+  "updatedAt": "2026-09-10T15:50:16.040167+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14599,6 +14599,54 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098073996868648986",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098073996868648986",
+      "postedAt": "Thu Sep 10 15:39:55 +0000 2026",
+      "text": "Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform Listen Labs for ~$2 Billion",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 5,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 9031
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T15:46:55Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2098071985452441657",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098071985452441657",
+      "postedAt": "Thu Sep 10 15:31:56 +0000 2026",
+      "text": "Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the $BLK shares he owns https://t.co/5RHz0Zbk0v",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3ZWSmbcAE0of6.png"
+      ],
+      "engagement": {
+        "likes": 24,
+        "replies": 8,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 13013
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T15:46:55Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3ZWSmbcAE0of6.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098071985452441657-1.png",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -23262,6 +23310,44 @@
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098073996868648986",
+      "rank": 1,
+      "title": "Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform L…",
+      "benchmarkPostId": "2098073996868648986",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098073996868648986",
+      "score": 9331,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T15:46:59Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098071985452441657",
+      "rank": 2,
+      "title": "Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the …",
+      "benchmarkPostId": "2098071985452441657",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098071985452441657",
+      "score": 14023,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T15:46:59Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -34052,7 +34138,7 @@
       "postizPostId": "cmtvnadbn0fh0qk0yliuv5j6j",
       "postizSubmissionAt": "2026-09-10T14:51:04Z",
       "deliveryState": "ERROR",
-      "deliveryCheckedAt": "2026-09-10T15:33:41Z",
+      "deliveryCheckedAt": "2026-09-10T15:49:54Z",
       "deliveryGraceUntil": "2026-09-10T15:51:04Z",
       "deliveryError": "Postiz reported a downstream delivery error; delayed-success reconciliation remains active.",
       "firstDeliveryErrorAt": "2026-09-10T14:51:35Z"
@@ -34160,6 +34246,46 @@
           "checks": [
             "square 1254x1254 PNG",
             "complete civic technology and AI infrastructure entity scene",
+            "exact factual text composited once",
+            "premium near-black, white, blue, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-salesforce-listen-labs",
+      "benchmarkPostId": "2098073996868648986",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098073996868648986",
+      "title": "Salesforce in talks for Listen Labs acquisition",
+      "status": "ready",
+      "postText": "Salesforce has reportedly held talks to acquire AI-powered customer research platform Listen Labs for around $2 billion.",
+      "mirroredFacts": [
+        "Salesforce has reportedly held talks to acquire Listen Labs.",
+        "Listen Labs is an AI-powered customer research platform.",
+        "The potential acquisition is valued at around $2 billion."
+      ],
+      "verificationSources": [
+        "https://www.businessinsider.com/salesforce-listen-labs-acquisition-talks-2-billion-2026-9",
+        "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "https://x.com/StockMKTNewz/status/2098073996868648986"
+      ],
+      "imagePath": "deliverables/pkg-20260910-salesforce-listen-labs/when2buy-image-model.png",
+      "createdAt": "2026-09-10T15:49:36Z",
+      "sourceExpiresAt": "2026-09-10T17:09:55Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: complete square 1:1 premium X financial-news editorial visual for When2Buy\nPrimary request: a complete original entity-led editorial scene about Salesforce discussing a possible acquisition of Listen Labs, an AI-powered customer research platform, for approximately $2 billion.\nScene/backdrop: premium dark enterprise technology strategy room with a sophisticated customer-research operations setup, glass interface panels, audio interview equipment and a subtle cloud CRM workflow motif without any recognizable logo or readable signage; no people.\nSubject: one dominant unbranded AI customer-research workstation with microphone, abstract unreadable interview transcript lines, and polished enterprise data console; make the research platform and acquisition theme concrete and visually clear.\nStyle/medium: cinematic photorealistic financial-news editorial image, sharp detail, premium market-news aesthetic.\nComposition/framing: exact 1:1 square; near-black base; dominant workstation centered slightly right; generous clean upper-left space for factual typography later and clean lower-right space for the supplied circular when2buy logo.\nLighting/mood: high-contrast studio lighting, urgent but factual, cool blue-white interface glow with one restrained red accent.\nColor palette: black, charcoal, white, steel blue, controlled red.\nText: none; all typography was composited later.\nConstraints: no readable words or numbers, no logos, no source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, generated logo, pure typography card, generic radar graphic, watermark, or extra brand marks; visually complete before the logo and text were added.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T15:49:36Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led customer-research workstation scene",
             "exact factual text composited once",
             "premium near-black, white, blue, and restrained-red palette",
             "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
@@ -247861,6 +247987,60 @@
       "reason": "pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.",
       "selectedPackageIds": [
         "pkg-20260910-openai-government-access"
+      ],
+      "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T154540Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:45:40Z",
+      "completedAt": "2026-09-10T15:45:40Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T154655Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:46:55Z",
+      "completedAt": "2026-09-10T15:46:55Z",
+      "summary": "Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T154659Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:46:59Z",
+      "completedAt": "2026-09-10T15:46:59Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T154936Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:49:36Z",
+      "completedAt": "2026-09-10T15:49:37Z",
+      "summary": "Produced the single newest fresh Salesforce/Listen Labs package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "packageId": "pkg-20260910-salesforce-listen-labs"
+    },
+    {
+      "id": "run-20260910T155016Z-publish-deferred",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T15:50:16Z",
+      "completedAt": "2026-09-10T15:50:16Z",
+      "summary": "Newest Salesforce/Listen Labs package remained ready; Postiz batch safely deferred because an accepted task remains within delayed-success reconciliation.",
+      "reason": "pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.",
+      "selectedPackageIds": [
+        "pkg-20260910-salesforce-listen-labs"
       ],
       "outcome": "deferred"
     }

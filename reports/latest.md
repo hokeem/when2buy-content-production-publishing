@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T15:34:15.773922+00:00`
+- 状态更新：`2026-09-10T15:50:16.040167+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**530**
-- 待选选题：**456**
-- 待发布制作包：**3**
+- 对标帖子快照：**532**
+- 待选选题：**458**
+- 待发布制作包：**4**
 - 已验证发布：**206**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 15:31:56 +0000 2026 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the $BLK shares he owns https://t.co/5RHz0Zbk0v | [X](https://x.com/StockMKTNewz/status/2098071985452441657) |
+| @StockMKTNewz | Thu Sep 10 15:39:55 +0000 2026 | Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform Listen Labs for ~$2 Billion | [X](https://x.com/StockMKTNewz/status/2098073996868648986) |
 | @StockMKTNewz | Thu Sep 10 15:21:02 +0000 2026 | OpenAI said today that it will provide 🇺🇸 Government agencies with free access to its ChatGPT licenses and 50% discounts on usage costs https://t.co/OvNGtNCHlV | [X](https://x.com/StockMKTNewz/status/2098069243799515422) |
 | @WhaleInsider | Thu Sep 10 15:04:12 +0000 2026 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all of the concerns over the crypto CLARITY Act.  "I'm feelin pretty good about it." https://t.co/DhpAySuQBN | [X](https://x.com/WhaleInsider/status/2098065005400723747) |
 | @StockMKTNewz | Thu Sep 10 15:06:37 +0000 2026 | The Trump administration said it would issue $500 payments to nearly 1 million Americans, citing what it called “overcharges” of people who purchased health insurance through federal Affordable Care Act exchanges.  The checks are expected to be sent in October - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098065613763543262) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 11:47:59 +0000 2026 | Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY  TSMC has now brought in a total of ~$107.1 Billion of revenue so far in 2026 up 39% YoY https://t.co/07c4r7sWEN | [X](https://x.com/StockMKTNewz/status/2098015628158259276) |
 | @StockMKTNewz | Thu Sep 10 11:36:00 +0000 2026 | PALANTIR EVENT TODAY  Palantir $PLTR just confirmed that its AIPCon 11 event will be taking place today  "Some of the world’s most consequential institutions across aviation, technology, media, insurance, defense, healthcare, and manufacturing take the stage.   Acrisure. Cisco. Eaton. The FAA. Hexion. L3Harris. Novartis. NVIDIA. Ondas Sentinel. USA TODAY. Zeta. And more" | [X](https://x.com/StockMKTNewz/status/2098012610838835655) |
 | @WhaleInsider | Thu Sep 10 11:43:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 days - Token Terminal. https://t.co/k8GPrc7Tpz | [X](https://x.com/WhaleInsider/status/2098014522216730854) |
-| @StockMKTNewz | Thu Sep 10 11:22:08 +0000 2026 | NVIDIA AND PALANTIR PARTNERSHIP  Palantir $PLTR and Nvidia $NVDA just announced a new partnership to "bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations."  The two companies built an AI stack combining NVIDIA's open Nemotron models with Palantir's Foundry, AIP, and Ontology, aimed at giving NVIDIA's supply chain teams real-time visibility into constraints and faster materials allocation decisions across a network of millions of parts and thousands of suppliers | [X](https://x.com/StockMKTNewz/status/2098009124122345551) |
-| @StockMKTNewz | Thu Sep 10 11:08:09 +0000 2026 | Here is every stock with a single letter stock ticker  $A - Agilent  $B - Barrick Mining $C - Citi $D - Dominion Energy $E - Eni $F - Ford $G - Genpact $H - Hyatt Hotel $I  $J - Jacobs Solutions $K  $L - Lowes $M - Macy's $N   $O - Realty Income $P - Everpure $Q - Qnity $R - Ryder $S - SentinelOne $T - AT&T $U - Unity Software $V - Visa $W - Wayfair $X  solana:BksqjaKyJqHV5qqbKyAgwZ66JhGKZc33rGkMyKjApump  $Z - Zillow | [X](https://x.com/StockMKTNewz/status/2098005603591307474) |
 
 ## 选题推荐
 
@@ -183,6 +183,7 @@
 | 1 | Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into res… | StockMKTNewz | 3451 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The Trump administration said it would issue $500 payments to nearly 1 million Americans, ci… | StockMKTNewz | 11092 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI said today that it will provide 🇺🇸 Government agencies with free access to its ChatGP… | StockMKTNewz | 10028 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform L… | StockMKTNewz | 9331 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -243,6 +244,7 @@
 | 2 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, acco… | StockMKTNewz | 13898 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9IT… | WhaleInsider | 16741 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all … | WhaleInsider | 19196 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the … | StockMKTNewz | 14023 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3186,6 +3188,13 @@ The Trump administration is proposing $500 payments for nearly 1 million ACA exc
 
 OpenAI said U.S. government agencies will get free ChatGPT licenses and 50% lower usage costs.
 
+### Salesforce in talks for Listen Labs acquisition
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-salesforce-listen-labs/when2buy-image-model.png`
+
+Salesforce has reportedly held talks to acquire AI-powered customer research platform Listen Labs for around $2 billion.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3400,6 +3409,11 @@ OpenAI said U.S. government agencies will get free ChatGPT licenses and 50% lowe
 
 ## 最近运行
 
+- `2026-09-10T15:50:16Z` **publish / succeeded** — Newest Salesforce/Listen Labs package remained ready; Postiz batch safely deferred because an accepted task remains within delayed-success reconciliation. pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.
+- `2026-09-10T15:49:36Z` **produce / succeeded** — Produced the single newest fresh Salesforce/Listen Labs package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T15:46:59Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T15:46:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).
+- `2026-09-10T15:45:40Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T15:34:15Z` **publish / succeeded** — The newest fresh OpenAI government-access package was safely deferred because an accepted Postiz task remains within delayed-success reconciliation grace; no submission was accepted and the package remains recoverable. pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.
 - `2026-09-10T15:33:17.694987+00:00` **produce / succeeded** — Produced the single newest fresh OpenAI government-access package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T15:30:50Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3415,8 +3429,3 @@ OpenAI said U.S. government agencies will get free ChatGPT licenses and 50% lowe
 - `2026-09-10T15:01:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T14:50:39.300764+00:00` **produce / succeeded** — Produced the sole newest Walmart/Papa John's fresh package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T14:46:41Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T14:46:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 117 eligible originals and added 3 new post(s).
-- `2026-09-10T14:45:42Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T14:34:32Z` **publish / succeeded** — The newest fresh package was safely deferred by the enforced minimum submission interval; no Postiz task was accepted and the ready package remains recoverable. minimum_interval; retryAt=2026-09-10T14:34:21Z
-- `2026-09-10T14:33:32Z` **produce / succeeded** — Produced the sole newest fresh Powell waterfront-home package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T14:31:31Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
