@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T13:06:14.781495+00:00`
+- 状态更新：`2026-09-10T13:21:33.303990+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**519**
-- 待选选题：**446**
+- 对标帖子快照：**520**
+- 待选选题：**447**
 - 待发布制作包：**4**
 - 已验证发布：**203**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 13:03:58 +0000 2026 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show:  “We've now stacked 845,000 Bitcoin on our balance sheet, 4% of all the Bitcoin that will ever exist. So we're also the largest holder of Bitcoin in the world at this point in time” https://t.co/IxU9KPBtyc | [X](https://x.com/StockMKTNewz/status/2098034748694188056) |
 | @StockMKTNewz | Thu Sep 10 12:48:54 +0000 2026 | I AM NOW DOWN ON MY TRADE BELOW  There is now just a 39% chance that the 🇺🇸 Fed will leave rates unchanged next week and a 61% chance they raise by 0.25% https://t.co/4iixsUEG5h | [X](https://x.com/StockMKTNewz/status/2098030957466988614) |
 | @StockMKTNewz | Thu Sep 10 12:31:34 +0000 2026 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | [X](https://x.com/StockMKTNewz/status/2098026596380639714) |
 | @StockMKTNewz | Thu Sep 10 12:17:56 +0000 2026 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | [X](https://x.com/StockMKTNewz/status/2098023164152369238) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 09:51:14 +0000 2026 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs - SEC filing. https://t.co/UMgll4t94M | [X](https://x.com/WhaleInsider/status/2097986246509314464) |
 | @WhaleInsider | Thu Sep 10 09:20:07 +0000 2026 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6 | [X](https://x.com/WhaleInsider/status/2097978417425592472) |
 | @WhaleInsider | Thu Sep 10 08:11:05 +0000 2026 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/WvRbXfAQYF | [X](https://x.com/WhaleInsider/status/2097961042886189444) |
-| @WhaleInsider | Thu Sep 10 07:18:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $166.5M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/4heRqjVsCx | [X](https://x.com/WhaleInsider/status/2097947832070115711) |
 
 ## 选题推荐
 
@@ -176,6 +176,7 @@
 | 1 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike th… | WhaleInsider | 14436 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | StockMKTNewz | 19446 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | I AM NOW DOWN ON MY TRADE BELOW There is now just a 39% chance that the 🇺🇸 Fed will leave ra… | StockMKTNewz | 16340 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show: “We've now stacked 845,00… | StockMKTNewz | 11405 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3080,7 +3081,7 @@ Palantir and NVIDIA are partnering to bring sovereign AI to critical supply chai
 
 ### Robinhood Chain stock tokens top $4B in DEX volume
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-robinhood-chain-volume/when2buy-image-model.png`
 
 Robinhood Chain stock tokens generated more than $4B in DEX volume over the past 30 days.
@@ -3112,6 +3113,13 @@ U.S. producer prices rose 5.4% year over year in August.  The reading came in ab
 - 配图：`deliverables/pkg-20260910-fed-hike-odds/when2buy-image-model.png`
 
 Markets now price a 61% chance of a 25 bp Fed hike at next week’s September 15–16 meeting.  Only 39% see rates staying unchanged.
+
+### Strategy now holds about 845,050 Bitcoin
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-strategy-bitcoin-treasury/when2buy-image-model.png`
+
+Strategy $MSTR now holds approximately 845,050 Bitcoin — about 4% of all Bitcoin that will ever exist.  It is the world's largest corporate Bitcoin holder.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3324,6 +3332,10 @@ Markets now price a 61% chance of a 25 bp Fed hike at next week’s September 15
 
 ## 最近运行
 
+- `2026-09-10T13:21:33Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced minimum Postiz interval; no submission was accepted and the ready package remains recoverable before source expiry. minimum_interval; retryAt=2026-09-10T13:20:38Z
+- `2026-09-10T13:19:41Z` **produce / succeeded** — Produced the sole newest fresh Strategy Bitcoin treasury package with an inspected image-model visual and exact-logo composite.
+- `2026-09-10T13:16:49Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T13:16:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-10T13:06:14Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T13:02:27Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T13:01:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
@@ -3340,7 +3352,3 @@ Markets now price a 61% chance of a 25 bp Fed hike at next week’s September 15
 - `2026-09-10T12:17:20Z` **full / succeeded** — Completed mandated Postiz reconciliation, both-feed Apify scan, media archive, package reconciliation, hard 90-minute queue rebuild, one-package QA, hourly metrics pass, and safe delivery throttle check. daily_limit; no submission accepted; ready package remains recoverable for the next eligible cycle.
 - `2026-09-10T12:16:08Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T12:15:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-10T12:05:52Z` **publish / succeeded** — The sole fresh TSMC package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T12:14:00Z
-- `2026-09-10T12:04:32Z` **produce / succeeded** — Produced the sole newest fresh TSMC package with an inspected image-model visual and exact-logo composite.
-- `2026-09-10T12:02:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
-- `2026-09-10T12:02:02Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).

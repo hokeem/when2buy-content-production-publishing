@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-09-10T13:02:27Z",
+  "generatedAt": "2026-09-10T13:16:49Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098030957466988614",
+      "benchmarkPostId": "2098034748694188056",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098030957466988614",
-      "originalText": "I AM NOW DOWN ON MY TRADE BELOW\n\nThere is now just a 39% chance that the 🇺🇸 Fed will leave rates unchanged next week and a 61% chance they raise by 0.25% https://t.co/4iixsUEG5h",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098034748694188056",
+      "originalText": "Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show:\n\n“We've now stacked 845,000 Bitcoin on our balance sheet, 4% of all the Bitcoin that will ever exist. So we're also the largest holder of Bitcoin in the world at this point in time” https://t.co/IxU9KPBtyc",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2zzumXoAI3N0n.jpg"
+        "https://pbs.twimg.com/amplify_video_thumb/2097446341899177984/img/LZd6dPkaPTKGaMFk.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2zzumXoAI3N0n.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098030957466988614-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097446341899177984/img/LZd6dPkaPTKGaMFk.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098034748694188056-1.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 24,
-        "replies": 10,
-        "reposts": 3,
+        "likes": 11,
+        "replies": 5,
+        "reposts": 4,
         "quotes": 0,
-        "views": 15310
+        "views": 10785
       },
-      "postedAt": "Thu Sep 10 12:48:54 +0000 2026",
-      "score": 16340,
-      "heatScore": 16340,
+      "postedAt": "Thu Sep 10 13:03:58 +0000 2026",
+      "score": 11405,
+      "heatScore": 11405,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 2,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 21,
+      "editorialScore": 20,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 13.6,
-        "expiresAt": "2026-09-10T14:18:54Z",
+        "ageMinutes": 12.9,
+        "expiresAt": "2026-09-10T14:33:58Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -79,7 +79,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 30.9,
+        "ageMinutes": 45.3,
         "expiresAt": "2026-09-10T14:01:34Z",
         "ttlMinutes": 90
       },
@@ -130,7 +130,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 36.9,
+        "ageMinutes": 51.2,
         "expiresAt": "2026-09-10T13:55:35Z",
         "ttlMinutes": 90
       },
@@ -167,7 +167,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 44.5,
+        "ageMinutes": 58.9,
         "expiresAt": "2026-09-10T13:47:56Z",
         "ttlMinutes": 90
       },
@@ -212,98 +212,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 74.5,
+        "ageMinutes": 88.8,
         "expiresAt": "2026-09-10T13:17:59Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098014522216730854",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-robinhood-chain-volume",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098014522216730854",
-      "originalText": "JUST IN: Robinhood Chain $HOOD stock tokens generated $4.5 billion in DEX volume over 30 days - Token Terminal. https://t.co/k8GPrc7Tpz",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2lFkcW4A07MZZ.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2lFkcW4A07MZZ.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098014522216730854-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 13,
-        "replies": 11,
-        "reposts": 7,
-        "quotes": 1,
-        "views": 10198
-      },
-      "postedAt": "Thu Sep 10 11:43:35 +0000 2026",
-      "score": 11308,
-      "heatScore": 11308,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 21,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 78.9,
-        "expiresAt": "2026-09-10T13:13:35Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2098012610838835655",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098012610838835655",
-      "originalText": "PALANTIR EVENT TODAY\n\nPalantir $PLTR just confirmed that its AIPCon 11 event will be taking place today\n\n\"Some of the world’s most consequential institutions across aviation, technology, media, insurance, defense, healthcare, and manufacturing take the stage. \n\nAcrisure. Cisco. Eaton. The FAA. Hexion. L3Harris. Novartis. NVIDIA. Ondas Sentinel. USA TODAY. Zeta. And more\"",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2hix8WgAgtCLX.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2hix8WgAgtCLX.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098012610838835655-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 27,
-        "replies": 1,
-        "reposts": 5,
-        "quotes": 0,
-        "views": 7901
-      },
-      "postedAt": "Thu Sep 10 11:36:00 +0000 2026",
-      "score": 8731,
-      "heatScore": 8731,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 86.5,
-        "expiresAt": "2026-09-10T13:06:00Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
