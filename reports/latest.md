@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T09:04:55.988587+00:00`
+- 状态更新：`2026-09-10T09:14:55.123684+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**491**
 - 待选选题：**428**
@@ -3221,6 +3221,12 @@ Prediction-market traders now price a 75% chance of the next Fed rate hike arriv
 
 ## 最近运行
 
+- `2026-09-10T09:14:55Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T09:14:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-10T09:07:00Z` **full / succeeded** — Reconciled Postiz, completed the hourly metrics check, scanned both benchmark accounts through Apify, rebuilt the hard-TTL queue, validated the sole fresh package, and safely deferred delivery at the account limit. Postiz delivery policy deferred the sole package until 2026-09-10T09:13:00Z at the rolling daily limit; no submission was accepted and no retry was attempted.
+- `2026-09-10T09:10:02Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T09:09:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
+- `2026-09-10T09:07:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T08:56:47Z` **full / succeeded** — Reconciled Postiz, scanned both benchmark accounts through Apify, archived media, rebuilt the hard-TTL queue, produced the newest fresh item, and safely deferred delivery at the daily account limit. Postiz batch limiter deferred the sole package until 2026-09-10T09:11:00Z; no submission was accepted and no retry was attempted. Repository preflight also reported stale literal-token expectations inconsistent with the current scheduled skill.
 - `2026-09-10T09:03:05.876058+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T08:58:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3235,9 +3241,3 @@ Prediction-market traders now price a 75% chance of the next Fed rate hike arriv
 - `2026-09-10T07:15:55Z` **full / succeeded** — Apify scanned both benchmark accounts, archived media, reconciled package and Postiz delivery state, rebuilt the hard-TTL queue, and completed reporting; no new eligible benchmark posts or fresh queue items were available, so no new package was produced or submitted. The current freshness-first production queue was empty. One previously accepted Postiz delivery was reconciled to its verified public X URL without retrying it.
 - `2026-09-10T07:19:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T07:19:09.146813Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
-- `2026-09-10T07:17:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T07:17:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 54 eligible originals and added 0 new post(s).
-- `2026-09-10T07:15:58Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T06:56:10Z` **full / partial** — Apify collection from both benchmark accounts, media archive, verified-package reconciliation, hard-TTL queue rebuild, one image-model package, Postiz submission, and reporting completed; the accepted delivery produced no verified public X URL and was not retried. Postiz accepted cmtv6horn0360lm0ys12yk6lb but did not return PUBLISHED plus a public x.com release URL within the verification window.
-- `2026-09-10T07:03:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T07:03:30.004818+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtv6horn0360lm0ys12yk6lb but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T08:58:57Z",
+  "generatedAt": "2026-09-10T09:14:55Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -7,8 +7,8 @@
       "rank": 1,
       "benchmarkPostId": "2097961042886189444",
       "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260910-fed-hike-75-before-2027",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2097961042886189444",
       "originalText": "JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/WvRbXfAQYF",
       "originalMediaUrls": [
@@ -48,7 +48,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 47.9,
+        "ageMinutes": 63.8,
         "expiresAt": "2026-09-10T09:41:05Z",
         "ttlMinutes": 90
       },

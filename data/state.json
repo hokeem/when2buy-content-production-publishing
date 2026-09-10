@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T09:04:55.988587+00:00",
+  "updatedAt": "2026-09-10T09:14:55.123684+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -226811,6 +226811,68 @@
       "completedAt": "2026-09-10T09:04:08Z",
       "summary": "Reconciled Postiz, scanned both benchmark accounts through Apify, archived media, rebuilt the hard-TTL queue, produced the newest fresh item, and safely deferred delivery at the daily account limit.",
       "reason": "Postiz batch limiter deferred the sole package until 2026-09-10T09:11:00Z; no submission was accepted and no retry was attempted. Repository preflight also reported stale literal-token expectations inconsistent with the current scheduled skill."
+    },
+    {
+      "id": "run-20260910T090735Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:07:35Z",
+      "completedAt": "2026-09-10T09:07:35Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T090958Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:09:58Z",
+      "completedAt": "2026-09-10T09:09:58Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T091002Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:10:02Z",
+      "completedAt": "2026-09-10T09:10:02Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T091201Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:07:00Z",
+      "completedAt": "2026-09-10T09:12:01Z",
+      "summary": "Reconciled Postiz, completed the hourly metrics check, scanned both benchmark accounts through Apify, rebuilt the hard-TTL queue, validated the sole fresh package, and safely deferred delivery at the account limit.",
+      "reason": "Postiz delivery policy deferred the sole package until 2026-09-10T09:13:00Z at the rolling daily limit; no submission was accepted and no retry was attempted."
+    },
+    {
+      "id": "run-20260910T091451Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:14:51Z",
+      "completedAt": "2026-09-10T09:14:51Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T091455Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:14:55Z",
+      "completedAt": "2026-09-10T09:14:55Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
