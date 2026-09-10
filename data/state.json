@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T22:31:57.264257+00:00",
+  "updatedAt": "2026-09-10T22:33:48.853306+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15645,7 +15645,14 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-10T22:31:57Z"
+      "capturedAt": "2026-09-10T22:31:57Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR40UKQWYAoNIJZ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098174494493773975-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -24992,6 +24999,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098174494493773975",
+      "rank": 1,
+      "title": "SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion…",
+      "benchmarkPostId": "2098174494493773975",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098174494493773975",
+      "score": 10413,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T22:33:48Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
@@ -36666,7 +36692,7 @@
       "benchmarkPostId": "2098154982411305155",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098154982411305155",
       "title": "$KERMIT integrates Grok on Robinhood Chain",
-      "status": "ready",
+      "status": "expired",
       "postText": "$KERMIT is the first project on Robinhood Chain to integrate Grok.",
       "mirroredFacts": [
         "The benchmark alert said $KERMIT became the first project on Robinhood Chain to integrate Grok.",
@@ -36696,7 +36722,9 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T22:33:45Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260910-fluidstack-pentagon-5b-loan-talks",
@@ -274513,6 +274541,15 @@
         "provider": "Apify",
         "actor": "apidojo/twitter-profile-scraper"
       }
+    },
+    {
+      "id": "run-20260910T223348Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:33:48Z",
+      "completedAt": "2026-09-10T22:33:48Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

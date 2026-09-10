@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-09-10T22:31:31Z",
+  "generatedAt": "2026-09-10T22:33:48Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098174494493773975",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098174494493773975",
+      "originalText": "SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month\n\nSpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR40UKQWYAoNIJZ.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR40UKQWYAoNIJZ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098174494493773975-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 42,
+        "replies": 10,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 8813
+      },
+      "postedAt": "Thu Sep 10 22:19:16 +0000 2026",
+      "score": 10413,
+      "heatScore": 10413,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 20,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 14.5,
+        "expiresAt": "2026-09-10T23:49:16Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
       "benchmarkPostId": "2098169986414006375",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-gme-ryan-cohen-20m-purchase",
@@ -42,14 +87,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 30.2,
+        "ageMinutes": 32.5,
         "expiresAt": "2026-09-10T23:31:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098160694038298889",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -87,14 +132,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 67.1,
+        "ageMinutes": 69.4,
         "expiresAt": "2026-09-10T22:54:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098160236225798614",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -138,59 +183,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 68.9,
+        "ageMinutes": 71.2,
         "expiresAt": "2026-09-10T22:52:36Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2098154982411305155",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-kermit-grok-robinhood-chain",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098154982411305155",
-      "originalText": "JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Grok. https://t.co/vLsRaHtlLw",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4k1LdXQA8o2z6.jpg",
-        "https://pbs.twimg.com/media/HR4k1LQWIAcoIUO.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4k1LdXQA8o2z6.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098154982411305155-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4k1LQWIAcoIUO.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098154982411305155-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 81,
-        "replies": 38,
-        "reposts": 31,
-        "quotes": 6,
-        "views": 13934
-      },
-      "postedAt": "Thu Sep 10 21:01:44 +0000 2026",
-      "score": 18984,
-      "heatScore": 18984,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 89.8,
-        "expiresAt": "2026-09-10T22:31:44Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

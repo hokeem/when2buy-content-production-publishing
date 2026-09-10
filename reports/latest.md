@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T22:31:57.264257+00:00`
+- 状态更新：`2026-09-10T22:33:48.853306+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**567**
-- 待选选题：**492**
-- 待发布制作包：**2**
+- 待选选题：**493**
+- 待发布制作包：**1**
 - 已验证发布：**219**
 
 ## 对标账号扫描
@@ -203,6 +203,7 @@
 | 1 | JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem… | WhaleInsider | 12698 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | THE US MILITARY NOW FUNDING THE AI BUILD OUT? The Pentagon is in talks to lend roughly $5 bi… | StockMKTNewz | 7331 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK GameStop $GME CEO Ryan Cohen just file… | StockMKTNewz | 13968 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion… | StockMKTNewz | 10413 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3357,7 +3358,7 @@ MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its m
 
 ### $KERMIT integrates Grok on Robinhood Chain
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-kermit-grok-robinhood-chain/when2buy-image-model.png`
 
 $KERMIT is the first project on Robinhood Chain to integrate Grok.
@@ -3603,6 +3604,7 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 
 ## 最近运行
 
+- `2026-09-10T22:33:48Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T22:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 127 eligible originals and added 1 new post(s).
 - `2026-09-10T22:31:31Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T22:30:38Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3622,4 +3624,3 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 - `2026-09-10T21:45:34Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T21:35:35Z` **publish / succeeded** — Newest fresh KERMIT package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour limit is exhausted. daily_limit; retryAt=2026-09-10T21:50:00Z
 - `2026-09-10T21:34:22Z` **produce / succeeded** — Produced the sole newest fresh KERMIT/Robinhood Chain package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T21:32:38Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
