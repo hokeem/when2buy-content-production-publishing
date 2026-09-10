@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T09:14:55.123684+00:00`
+- 状态更新：`2026-09-10T09:18:18.145566+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**491**
 - 待选选题：**428**
@@ -3221,6 +3221,9 @@ Prediction-market traders now price a 75% chance of the next Fed rate hike arriv
 
 ## 最近运行
 
+- `2026-09-10T09:18:18Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T09:18:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
+- `2026-09-10T09:17:25Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T09:14:55Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T09:14:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T09:07:00Z` **full / succeeded** — Reconciled Postiz, completed the hourly metrics check, scanned both benchmark accounts through Apify, rebuilt the hard-TTL queue, validated the sole fresh package, and safely deferred delivery at the account limit. Postiz delivery policy deferred the sole package until 2026-09-10T09:13:00Z at the rolling daily limit; no submission was accepted and no retry was attempted.
@@ -3238,6 +3241,3 @@ Prediction-market traders now price a 75% chance of the next Fed rate hike arriv
 - `2026-09-10T07:27:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T07:27:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
 - `2026-09-10T07:26:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T07:15:55Z` **full / succeeded** — Apify scanned both benchmark accounts, archived media, reconciled package and Postiz delivery state, rebuilt the hard-TTL queue, and completed reporting; no new eligible benchmark posts or fresh queue items were available, so no new package was produced or submitted. The current freshness-first production queue was empty. One previously accepted Postiz delivery was reconciled to its verified public X URL without retrying it.
-- `2026-09-10T07:19:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T07:19:09.146813Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.

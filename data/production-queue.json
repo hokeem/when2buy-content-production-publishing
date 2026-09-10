@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T09:14:55Z",
+  "generatedAt": "2026-09-10T09:18:18Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -48,7 +48,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 63.8,
+        "ageMinutes": 67.2,
         "expiresAt": "2026-09-10T09:41:05Z",
         "ttlMinutes": 90
       },
