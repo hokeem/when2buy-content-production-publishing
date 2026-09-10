@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T17:20:07.141051+00:00`
+- 状态更新：`2026-09-10T17:33:56.881036+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**541**
-- 待选选题：**467**
-- 待发布制作包：**0**
+- 对标帖子快照：**542**
+- 待选选题：**468**
+- 待发布制作包：**1**
 - 已验证发布：**211**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 17:30:28 +0000 2026 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT | [X](https://x.com/StockMKTNewz/status/2098101816231616887) |
 | @StockMKTNewz | Thu Sep 10 17:07:02 +0000 2026 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9 | [X](https://x.com/StockMKTNewz/status/2098095920927707212) |
 | @WhaleInsider | Thu Sep 10 16:47:02 +0000 2026 | JUST IN: Another @MetaWin player just turned $2 into $10,000.  They currently have the best rewards of any crypto casino by a large margin.  They just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP | [X](https://x.com/WhaleInsider/status/2098090884558401767) |
 | @WhaleInsider | Thu Sep 10 16:51:42 +0000 2026 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first critical hires.  To celebrate the launch, Elly is providing a list of top candidates to hiring managers. https://t.co/fezoOJhBv5 | [X](https://x.com/WhaleInsider/status/2098092061643747622) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Apr 19 18:13:53 +0000 2024 | BREAKING : The first official centralized exchange on Solana $SOLCEX (@SolCex_Exchange) releases demo video. https://t.co/fduhzg9TUk | [X](https://x.com/WhaleInsider/status/1781385748106580171) |
 | @StockMKTNewz | Sat Feb 24 19:13:16 +0000 2024 | Nvidia $NVDA vs Intel $INTC: 2014 to today  https://t.co/NqUFZpQMjE | [X](https://x.com/StockMKTNewz/status/1761469357815652791) |
 | @WhaleInsider | Sat Jan 18 12:05:29 +0000 2025 | $TRUMP to $100.  Be ready. | [X](https://x.com/WhaleInsider/status/1880587310405967993) |
-| @StockMKTNewz | Sat Jul 08 18:59:08 +0000 2023 | Gross Income vs Net Income  https://t.co/7fSvNyYr6M | [X](https://x.com/StockMKTNewz/status/1677754205086392320) |
 
 ## 选题推荐
 
@@ -189,6 +189,7 @@
 | 1 | JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting… | WhaleInsider | 9085 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy h… | WhaleInsider | 7996 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests… | StockMKTNewz | 9156 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0… | StockMKTNewz | 3135 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3239,6 +3240,13 @@ Pentagon AI chief Emil Michael pushed back on warnings that AI could destroy hum
 
 Anthropic accused China’s Moonshot AI of secretly routing thousands of user requests to Claude models and passing off the responses as its own.
 
+### Whole Foods store workers average more than $21 an hour
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-whole-foods-21-hour-wage/when2buy-image-model.png`
+
+Whole Foods store workers now make more than $21 an hour on average.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3458,6 +3466,10 @@ Anthropic accused China’s Moonshot AI of secretly routing thousands of user re
 
 ## 最近运行
 
+- `2026-09-10T17:31:00Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced minimum interval; no Postiz submission was accepted and the ready package remains recoverable. minimum_interval; retryAt=2026-09-10T17:34:24Z
+- `2026-09-10T17:33:24Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T17:31:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T17:31:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-10T17:19:51Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T17:19:15Z` **produce / succeeded** — Produced one newest fresh Anthropic/Moonshot package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T17:16:37Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3474,7 +3486,3 @@ Anthropic accused China’s Moonshot AI of secretly routing thousands of user re
 - `2026-09-10T16:34:06Z` **produce / succeeded** — Produced one newest fresh Ripple GSmart package with generated entity visual and exact-logo composite.
 - `2026-09-10T16:31:41Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T16:31:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-10T16:21:19Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T16:20:23Z` **produce / succeeded** — Produced the single newest fresh NVIDIA cybersecurity package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T16:18:11Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T16:18:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 115 eligible originals and added 0 new post(s).

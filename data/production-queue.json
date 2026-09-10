@@ -1,43 +1,49 @@
 {
-  "generatedAt": "2026-09-10T17:16:37Z",
+  "generatedAt": "2026-09-10T17:31:23Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098095920927707212",
+      "benchmarkPostId": "2098101816231616887",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098095920927707212",
-      "originalText": "Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098101816231616887",
+      "originalText": "The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR3vA58bIAA8KVu.png"
+        "https://pbs.twimg.com/media/HR3xC1EXwA0mnN0.png"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3xC1EXwA0mnN0.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098101816231616887-1.png",
+          "status": "archived"
+        }
+      ],
       "engagement": {
-        "likes": 28,
-        "replies": 8,
-        "reposts": 4,
-        "quotes": 1,
-        "views": 8016
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 3015
       },
-      "postedAt": "Thu Sep 10 17:07:02 +0000 2026",
-      "score": 9156,
-      "heatScore": 9156,
+      "postedAt": "Thu Sep 10 17:30:28 +0000 2026",
+      "score": 3135,
+      "heatScore": 3135,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 3,
+        "when2buyFit": 0,
+        "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 17,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 9.6,
-        "expiresAt": "2026-09-10T18:37:02Z",
+        "ageMinutes": 0.9,
+        "expiresAt": "2026-09-10T19:00:28Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -81,7 +87,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 20.0,
+        "ageMinutes": 34.8,
         "expiresAt": "2026-09-10T18:26:36Z",
         "ttlMinutes": 90
       },
@@ -126,7 +132,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 24.9,
+        "ageMinutes": 39.7,
         "expiresAt": "2026-09-10T18:21:42Z",
         "ttlMinutes": 90
       },
@@ -177,7 +183,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 29.6,
+        "ageMinutes": 44.4,
         "expiresAt": "2026-09-10T18:17:02Z",
         "ttlMinutes": 90
       },
@@ -228,7 +234,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 51.8,
+        "ageMinutes": 66.6,
         "expiresAt": "2026-09-10T17:54:47Z",
         "ttlMinutes": 90
       },

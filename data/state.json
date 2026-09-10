@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T17:20:07.141051+00:00",
+  "updatedAt": "2026-09-10T17:33:56.881036+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14907,7 +14907,42 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-10T17:16:22Z"
+      "capturedAt": "2026-09-10T17:16:22Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3vA58bIAA8KVu.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098095920927707212-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098101816231616887",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098101816231616887",
+      "postedAt": "Thu Sep 10 17:30:28 +0000 2026",
+      "text": "The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3xC1EXwA0mnN0.png"
+      ],
+      "engagement": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 3015
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T17:31:18Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3xC1EXwA0mnN0.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098101816231616887-1.png",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -23780,6 +23815,25 @@
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098101816231616887",
+      "rank": 1,
+      "title": "The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0…",
+      "benchmarkPostId": "2098101816231616887",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098101816231616887",
+      "score": 3135,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T17:31:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -34948,6 +35002,42 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T17:19:51Z",
       "publishedAt": "2026-09-10T17:19:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-whole-foods-21-hour-wage",
+      "benchmarkPostId": "2098101816231616887",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098101816231616887",
+      "title": "Whole Foods store workers average more than $21 an hour",
+      "status": "ready",
+      "postText": "Whole Foods store workers now make more than $21 an hour on average.",
+      "mirroredFacts": [
+        "The average Whole Foods store worker now makes more than $21 an hour."
+      ],
+      "verificationSources": [
+        "https://www.aboutamazon.com/about-us/public-policy/workforce"
+      ],
+      "imagePath": "deliverables/pkg-20260910-whole-foods-21-hour-wage/when2buy-image-model.png",
+      "createdAt": "2026-09-10T17:33:24Z",
+      "sourceExpiresAt": "2026-09-10T19:00:28Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium square X financial-news editorial visual for When2Buy\nPrimary request: an original entity-led visual about Whole Foods Market store workers averaging more than $21 per hour.\nScene/backdrop: a modern upscale grocery store aisle with fresh produce and warm overhead lighting, subtle Amazon-owned grocery retail atmosphere without readable brand signage.\nSubject: one grocery store employee in a dark green apron arranging produce, with a polished shopping cart and abundant shelves as supporting context.\nStyle/medium: premium realistic editorial photography, high-end business and labor-market news look, crisp natural textures, restrained red accent light, near-black shadows.\nComposition/framing: exact 1:1 square; employee and produce display center-left; reserve lower-right negative space for the supplied circular when2buy logo.\nText: none in generated base; factual typography added during final compositing.\nConstraints: no generated readable text, logos, watermarks, source names, handles, URLs, attribution, disclaimer, commentary, CTA, tagline, generic radar graphic, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T17:33:24Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led grocery worker and produce scene",
+            "visible text limited to the factual headline and wage figure",
+            "premium near-black, white, green, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once in lower-right clear space"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -255117,6 +255207,51 @@
       "completedAt": "2026-09-10T17:19:51Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T173118Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:31:18Z",
+      "completedAt": "2026-09-10T17:31:18Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T173123Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:31:23Z",
+      "completedAt": "2026-09-10T17:31:23Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T173324Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:33:24Z",
+      "completedAt": "2026-09-10T17:33:24Z",
+      "summary": "Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260910-whole-foods-21-hour-wage"
+      ]
+    },
+    {
+      "id": "run-20260910T1731Z-publish-deferred",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:31:00Z",
+      "completedAt": "2026-09-10T17:31:00Z",
+      "summary": "The sole newest fresh package was safely deferred by the enforced minimum interval; no Postiz submission was accepted and the ready package remains recoverable.",
+      "reason": "minimum_interval; retryAt=2026-09-10T17:34:24Z",
+      "packageId": "pkg-20260910-whole-foods-21-hour-wage",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
