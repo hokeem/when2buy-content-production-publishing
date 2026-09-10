@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T14:34:33.919310+00:00`
+- 状态更新：`2026-09-10T14:51:35.438198+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**524**
-- 待选选题：**451**
-- 待发布制作包：**2**
+- 对标帖子快照：**527**
+- 待选选题：**453**
+- 待发布制作包：**1**
 - 已验证发布：**206**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 14:35:27 +0000 2026 | JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9ITFfI5y | [X](https://x.com/WhaleInsider/status/2098057773099430149) |
+| @StockMKTNewz | Thu Sep 10 14:37:03 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/IxAtm1BwL9 | [X](https://x.com/StockMKTNewz/status/2098058173802287518) |
+| @StockMKTNewz | Thu Sep 10 14:45:27 +0000 2026 | Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into restaurant delivery - Bloomberg https://t.co/Id89GGILxp | [X](https://x.com/StockMKTNewz/status/2098060288830459918) |
 | @WhaleInsider | Thu Sep 10 14:03:16 +0000 2026 | JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Kalshi traders. https://t.co/m0tx3iAliN | [X](https://x.com/WhaleInsider/status/2098049673999065518) |
 | @StockMKTNewz | Thu Sep 10 13:49:07 +0000 2026 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPngoIJya | [X](https://x.com/StockMKTNewz/status/2098046112305119263) |
 | @StockMKTNewz | Thu Sep 10 13:16:50 +0000 2026 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, according to code uncovered in iOS 27 - MacRumors https://t.co/TALODstWfN | [X](https://x.com/StockMKTNewz/status/2098037988483563998) |
@@ -38,9 +41,6 @@
 | @WhaleInsider | Thu Sep 10 10:49:26 +0000 2026 | JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. https://t.co/TR3alumzk7 | [X](https://x.com/WhaleInsider/status/2098000894960742588) |
 | @StockMKTNewz | Thu Sep 10 10:56:11 +0000 2026 | China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2019 - Bloomberg https://t.co/tQ4Q6GaEZB | [X](https://x.com/StockMKTNewz/status/2098002593259593965) |
 | @StockMKTNewz | Thu Sep 10 10:59:12 +0000 2026 | Macy's $M stock is up by 5% in pre market trading after reporting earnings  🟢🟢🟢🟢🟢 https://t.co/eriQWyJnII | [X](https://x.com/StockMKTNewz/status/2098003348997697583) |
-| @StockMKTNewz | Thu Sep 10 10:34:21 +0000 2026 | For my ETF fans out there check out this new tool below made by my partner ... you can also follow the X page @etfiq | [X](https://x.com/StockMKTNewz/status/2097997097345679418) |
-| @StockMKTNewz | Thu Sep 10 10:42:49 +0000 2026 | The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken at a valuation of $21 Billion - Bloomberg https://t.co/pteuXcmSIu | [X](https://x.com/StockMKTNewz/status/2097999228006023573) |
-| @WhaleInsider | Thu Sep 10 10:30:50 +0000 2026 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. https://t.co/t5C4t76Uw9 | [X](https://x.com/WhaleInsider/status/2097996211127033977) |
 
 ## 选题推荐
 
@@ -180,6 +180,7 @@
 | 1 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | StockMKTNewz | 10973 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPng… | StockMKTNewz | 14927 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Ka… | WhaleInsider | 18897 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into res… | StockMKTNewz | 3451 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -238,6 +239,7 @@
 | 2 | PALANTIR EVENT TODAY Palantir $PLTR just confirmed that its AIPCon 11 event will be taking p… | StockMKTNewz | 8731 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | StockMKTNewz | 11891 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, acco… | StockMKTNewz | 13898 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9IT… | WhaleInsider | 16741 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3120,7 +3122,7 @@ Markets now price a 61% chance of a 25 bp Fed hike at next week’s September 15
 
 ### Strategy now holds about 845,050 Bitcoin
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-strategy-bitcoin-treasury/when2buy-image-model.png`
 
 Strategy $MSTR now holds approximately 845,050 Bitcoin — about 4% of all Bitcoin that will ever exist.  It is the world's largest corporate Bitcoin holder.
@@ -3152,6 +3154,13 @@ Odds of a 25 bps Fed rate hike this month just hit 63%.
 - 配图：`deliverables/pkg-20260910-powell-maryland-waterfront-home/when2buy-image-model.png`
 
 Jerome Powell sold his Gibson Island waterfront mansion in Maryland for $7.2 million.  The sale came less than three months after his term as Federal Reserve chair ended.
+
+### Walmart expands restaurant delivery to Papa John's
+
+- 状态：`publishing`
+- 配图：`deliverables/pkg-20260910-walmart-papa-johns-delivery/when2buy-image-model.png`
+
+Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into restaurant delivery.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3367,6 +3376,10 @@ Jerome Powell sold his Gibson Island waterfront mansion in Maryland for $7.2 mil
 
 ## 最近运行
 
+- `2026-09-10T14:50:39.300764+00:00` **produce / succeeded** — Produced the sole newest Walmart/Papa John's fresh package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T14:46:41Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T14:46:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 117 eligible originals and added 3 new post(s).
+- `2026-09-10T14:45:42Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T14:34:32Z` **publish / succeeded** — The newest fresh package was safely deferred by the enforced minimum submission interval; no Postiz task was accepted and the ready package remains recoverable. minimum_interval; retryAt=2026-09-10T14:34:21Z
 - `2026-09-10T14:33:32Z` **produce / succeeded** — Produced the sole newest fresh Powell waterfront-home package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T14:31:31Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3383,7 +3396,3 @@ Jerome Powell sold his Gibson Island waterfront mansion in Maryland for $7.2 mil
 - `2026-09-10T13:51:45Z` **full / succeeded** — Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, status reconciliation, hard 90-minute queue rebuild, one-package production and QA, metrics check, report rendering, and bounded Postiz delivery check. Deferred safely: minimum 15-minute submission interval; package remains ready and must not be retried before the next eligible cycle.
 - `2026-09-10T13:50:42Z` **produce / succeeded** — Produced the one newest fresh Boring Company package with image-model visual, factual overlay, and exact-logo composite.
 - `2026-09-10T13:48:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T13:47:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-10T13:46:43Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T13:46:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-10T13:37:01Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.

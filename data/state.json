@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T14:34:33.919310+00:00",
+  "updatedAt": "2026-09-10T14:51:35.438198+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14427,6 +14427,96 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098060288830459918",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098060288830459918",
+      "postedAt": "Thu Sep 10 14:45:27 +0000 2026",
+      "text": "Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into restaurant delivery - Bloomberg https://t.co/Id89GGILxp",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3NtP-WkAAv-aq.jpg"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 3391
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T14:46:36Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3NtP-WkAAv-aq.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098060288830459918-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098058173802287518",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098058173802287518",
+      "postedAt": "Thu Sep 10 14:37:03 +0000 2026",
+      "text": "This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/IxAtm1BwL9",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3MwCTasAAHHed.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 13,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 9609
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T14:46:36Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3MwCTasAAHHed.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098058173802287518-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098057773099430149",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098057773099430149",
+      "postedAt": "Thu Sep 10 14:35:27 +0000 2026",
+      "text": "JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9ITFfI5y",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3Ma-5XkAUOC5U.jpg",
+        "https://pbs.twimg.com/media/HR3Ma-6WsAESNv-.jpg"
+      ],
+      "engagement": {
+        "likes": 49,
+        "replies": 17,
+        "reposts": 6,
+        "quotes": 2,
+        "views": 14661
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T14:46:36Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3Ma-5XkAUOC5U.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098057773099430149-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3Ma-6WsAESNv-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098057773099430149-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -22996,6 +23086,44 @@
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098060288830459918",
+      "rank": 1,
+      "title": "Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into res…",
+      "benchmarkPostId": "2098060288830459918",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098060288830459918",
+      "score": 3451,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T14:46:41Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098057773099430149",
+      "rank": 2,
+      "title": "JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9IT…",
+      "benchmarkPostId": "2098057773099430149",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098057773099430149",
+      "score": 16741,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T14:46:41Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -33557,7 +33685,7 @@
       "benchmarkPostId": "2098034748694188056",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098034748694188056",
       "title": "Strategy now holds about 845,050 Bitcoin",
-      "status": "ready",
+      "status": "expired",
       "postText": "Strategy $MSTR now holds approximately 845,050 Bitcoin — about 4% of all Bitcoin that will ever exist.\n\nIt is the world's largest corporate Bitcoin holder.",
       "mirroredFacts": [
         "Strategy holds approximately 845,050 bitcoin as of September 7, 2026.",
@@ -33589,7 +33717,9 @@
             "exact repository logo composited once"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T14:45:39Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260910-apple-visual-intelligence-ads",
@@ -33741,6 +33871,50 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260910-walmart-papa-johns-delivery",
+      "benchmarkPostId": "2098060288830459918",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098060288830459918",
+      "title": "Walmart expands restaurant delivery to Papa John's",
+      "status": "publishing",
+      "postText": "Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into restaurant delivery.",
+      "mirroredFacts": [
+        "Walmart will start delivering food orders from Papa John's as it expands into restaurant delivery."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098060288830459918",
+        "https://corporate.walmart.com/news/2026/09/walmart-expands-restaurant-delivery-with-dunkin"
+      ],
+      "imagePath": "deliverables/pkg-20260910-walmart-papa-johns-delivery/when2buy-image-model.png",
+      "createdAt": "2026-09-10T14:50:39.300764+00:00",
+      "sourceExpiresAt": "2026-09-10T16:15:27Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: complete square 1:1 premium X financial-news editorial visual for When2Buy\nPrimary request: one complete original entity-led visual about Walmart ($WMT) expanding restaurant delivery to Papa John's ($PZZA) food orders.\nScene/backdrop: cinematic near-black evening outside a generic large U.S. retail superstore storefront with blue-and-white architectural colors but absolutely no logo, no emblem, no readable signage, and no brand marks; a neutral red-and-white pizza delivery box and a grocery delivery tote move together along a polished delivery route.\nSubject: the generic retail superstore facade and distinct pizza delivery package are the dominant concrete subjects, clearly communicating retail-plus-restaurant delivery without any third-party branding.\nStyle/medium: high-end photorealistic financial-news editorial photography, premium realistic materials and sharp detail.\nComposition/framing: exact 1:1 square; storefront and delivery package occupy the center and lower two-thirds; reserve the lower-right 20 percent as clean near-black negative space for later placement of the supplied circular when2buy logo; leave clean upper-left space for factual typography to be composited later.\nLighting/mood: high-contrast dusk lighting, crisp white rim light, controlled red accent, urgent but factual.\nColor palette: near-black, charcoal, white, restrained red and muted blue; no decorative green.\nText (verbatim): none; all typography was composited later.\nConstraints: no readable text, numbers, logos, emblems, source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, generic radar graphic, pure typography card, or extra people.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T14:50:39.300764+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete unbranded retail-store and pizza-delivery entity scene",
+            "visible factual text is limited to Walmart, Papa John's, tickers, and event wording",
+            "premium near-black, white, blue, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtvnadbn0fh0qk0yliuv5j6j",
+      "postizSubmissionAt": "2026-09-10T14:51:04Z",
+      "deliveryState": "ERROR",
+      "deliveryCheckedAt": "2026-09-10T14:51:35Z",
+      "deliveryGraceUntil": "2026-09-10T15:51:04Z",
+      "deliveryError": "Postiz reported a downstream delivery error; delayed-success reconciliation remains active.",
+      "firstDeliveryErrorAt": "2026-09-10T14:51:35Z"
     }
   ],
   "posts": [
@@ -244392,6 +244566,47 @@
       "reason": "minimum_interval; retryAt=2026-09-10T14:34:21Z",
       "packageId": "pkg-20260910-powell-maryland-waterfront-home",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T144542Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:45:42Z",
+      "completedAt": "2026-09-10T14:45:42Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T144636Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:46:36Z",
+      "completedAt": "2026-09-10T14:46:36Z",
+      "summary": "Apify scanned both benchmark accounts; captured 117 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T144641Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:46:41Z",
+      "completedAt": "2026-09-10T14:46:41Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T145039Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:50:39.300764+00:00",
+      "completedAt": "2026-09-10T14:50:39.300857+00:00",
+      "summary": "Produced the sole newest Walmart/Papa John's fresh package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "packageId": "pkg-20260910-walmart-papa-johns-delivery"
     }
   ],
   "deliveryCircuitBreaker": {

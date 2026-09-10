@@ -1,14 +1,110 @@
 {
-  "generatedAt": "2026-09-10T14:31:31Z",
+  "generatedAt": "2026-09-10T14:46:41Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098046112305119263",
+      "benchmarkPostId": "2098060288830459918",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098060288830459918",
+      "originalText": "Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into restaurant delivery - Bloomberg https://t.co/Id89GGILxp",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR3NtP-WkAAv-aq.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3NtP-WkAAv-aq.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098060288830459918-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 3391
+      },
+      "postedAt": "Thu Sep 10 14:45:27 +0000 2026",
+      "score": 3451,
+      "heatScore": 3451,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 1.2,
+        "expiresAt": "2026-09-10T16:15:27Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098057773099430149",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098057773099430149",
+      "originalText": "JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9ITFfI5y",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR3Ma-5XkAUOC5U.jpg",
+        "https://pbs.twimg.com/media/HR3Ma-6WsAESNv-.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3Ma-5XkAUOC5U.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098057773099430149-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3Ma-6WsAESNv-.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098057773099430149-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 49,
+        "replies": 17,
+        "reposts": 6,
+        "quotes": 2,
+        "views": 14661
+      },
+      "postedAt": "Thu Sep 10 14:35:27 +0000 2026",
+      "score": 16741,
+      "heatScore": 16741,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 11.2,
+        "expiresAt": "2026-09-10T16:05:27Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098046112305119263",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260910-powell-maryland-waterfront-home",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098046112305119263",
       "originalText": "Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPngoIJya",
       "originalMediaUrls": [
@@ -42,53 +138,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 42.4,
+        "ageMinutes": 57.6,
         "expiresAt": "2026-09-10T15:19:07Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
-      "benchmarkPostId": "2098034748694188056",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260910-strategy-bitcoin-treasury",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098034748694188056",
-      "originalText": "Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show:\n\n“We've now stacked 845,000 Bitcoin on our balance sheet, 4% of all the Bitcoin that will ever exist. So we're also the largest holder of Bitcoin in the world at this point in time” https://t.co/IxU9KPBtyc",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2097446341899177984/img/LZd6dPkaPTKGaMFk.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097446341899177984/img/LZd6dPkaPTKGaMFk.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098034748694188056-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 11,
-        "replies": 5,
-        "reposts": 4,
-        "quotes": 0,
-        "views": 10785
-      },
-      "postedAt": "Thu Sep 10 13:03:58 +0000 2026",
-      "score": 11405,
-      "heatScore": 11405,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 87.6,
-        "expiresAt": "2026-09-10T14:33:58Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
