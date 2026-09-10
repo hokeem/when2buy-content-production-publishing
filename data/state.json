@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T09:18:18.145566+00:00",
+  "updatedAt": "2026-09-10T09:50:24.079700+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13517,6 +13517,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097978417425592472",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097978417425592472",
+      "postedAt": "Thu Sep 10 09:20:07 +0000 2026",
+      "text": "JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR2EP__acAAsM7J.jpg"
+      ],
+      "engagement": {
+        "likes": 35,
+        "replies": 20,
+        "reposts": 11,
+        "quotes": 11,
+        "views": 13779
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T09:32:28Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2EP__acAAsM7J.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097978417425592472-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -21649,6 +21677,25 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097978417425592472",
+      "rank": 1,
+      "title": "JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical…",
+      "benchmarkPostId": "2097978417425592472",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2097978417425592472",
+      "score": 16489,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T09:32:32Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -31714,7 +31761,7 @@
       "benchmarkPostId": "2097961042886189444",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097961042886189444",
       "title": "Fed hike priced at 75% before 2027",
-      "status": "ready",
+      "status": "expired",
       "postText": "Prediction-market traders now price a 75% chance of the next Fed rate hike arriving before 2027.",
       "mirroredFacts": [
         "Prediction-market traders price a 75% chance of the next Federal Reserve rate hike occurring before 2027."
@@ -31738,6 +31785,45 @@
             "entity-led Federal Reserve building scene",
             "exact FED HIKE, 75%, and BEFORE 2027 text",
             "no public source, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "expiredAt": "2026-09-10T09:45:32Z",
+      "expiryReason": "source_ttl_exceeded"
+    },
+    {
+      "id": "pkg-20260910-palantir-nvidia-critical-supply-chains",
+      "benchmarkPostId": "2097978417425592472",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097978417425592472",
+      "title": "Palantir and NVIDIA partner on critical supply chains",
+      "status": "ready",
+      "postText": "Palantir and NVIDIA are partnering to bring AI capabilities to critical supply chains, starting with NVIDIA's own operations.",
+      "mirroredFacts": [
+        "Palantir and NVIDIA are partnering to bring AI capabilities to critical supply chains.",
+        "The collaboration starts with NVIDIA's own operations."
+      ],
+      "verificationSources": [
+        "https://investor.nvidia.com/news/press-release-details/2025/Palantir-and-NVIDIA-Team-Up-to-Operationalize-AI--Turning-Enterprise-Data-Into-Dynamic-Decision-Intelligence/default.aspx"
+      ],
+      "imagePath": "deliverables/pkg-20260910-palantir-nvidia-critical-supply-chains/when2buy-image-model.png",
+      "createdAt": "2026-09-10T09:48:41.638760+00:00",
+      "sourceExpiresAt": "2026-09-10T10:50:07Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual for When2Buy\nPrimary request: Create one complete original entity-led editorial visual about Palantir and NVIDIA partnering to bring AI capabilities to critical supply chains, starting with NVIDIA's own operations.\nScene/backdrop: a premium, realistic AI data-center and industrial supply-chain control environment with NVIDIA-style GPU server racks, a subtle global logistics map, and Palantir-style operational data overlays; no recognizable third-party logos.\nSubject: a dominant illuminated GPU server module connected to a physical supply-chain network of factories, cargo routes, and inventory nodes.\nStyle/medium: cinematic photorealistic financial-news editorial image, sharp detail, premium market-news aesthetic.\nComposition/framing: exact 1:1 square; near-black base; dominant central entity-led scene; bold white typography with one restrained red accent; reserve clean lower-left space for later compositing of the supplied circular when2buy logo.\nLighting/mood: high-contrast studio lighting, urgent but factual.\nColor palette: black, charcoal, white, controlled red accents; no green unless semantically necessary.\nText (verbatim): \"PALANTIR + NVIDIA\" and \"AI FOR CRITICAL SUPPLY CHAINS\"\nConstraints: render the exact phrases legibly; no other readable words or numbers; no source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, or generated logo; no pure typography card; no generic abstract background; do not imitate any existing brand logo; keep the image complete and visually meaningful before the logo is added.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T09:48:41.638760+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led GPU server and supply-chain control scene",
+            "exact PALANTIR + NVIDIA and AI FOR CRITICAL SUPPLY CHAINS text",
+            "premium near-black, white, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
             "exact repository logo composited once"
           ]
         }
@@ -226904,6 +226990,110 @@
       "completedAt": "2026-09-10T09:18:18Z",
       "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T093058Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:30:58Z",
+      "completedAt": "2026-09-10T09:30:58Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T093228Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:32:28Z",
+      "completedAt": "2026-09-10T09:32:28Z",
+      "summary": "Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T093232Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:32:32Z",
+      "completedAt": "2026-09-10T09:32:32Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T093325Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:33:25Z",
+      "completedAt": "2026-09-10T09:33:25Z",
+      "summary": "Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T093337Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:33:37Z",
+      "completedAt": "2026-09-10T09:33:37Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T094534Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:45:34Z",
+      "completedAt": "2026-09-10T09:45:34Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T094629Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:46:29Z",
+      "completedAt": "2026-09-10T09:46:29Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T094709Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:47:09Z",
+      "completedAt": "2026-09-10T09:47:09Z",
+      "summary": "Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T094841Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:48:41.638760+00:00",
+      "completedAt": "2026-09-10T09:48:41.638760+00:00",
+      "summary": "Produced the sole newest fresh queue package with an inspected image-model visual and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T094951Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T09:50:24Z",
+      "completedAt": "2026-09-10T09:50:24Z",
+      "summary": "The sole fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle.",
+      "reason": "daily_limit; retryAt=2026-09-10T10:21:00Z",
+      "packageId": "pkg-20260910-palantir-nvidia-critical-supply-chains",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

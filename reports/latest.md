@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T09:18:18.145566+00:00`
+- 状态更新：`2026-09-10T09:50:24.079700+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**491**
-- 待选选题：**428**
+- 对标帖子快照：**492**
+- 待选选题：**429**
 - 待发布制作包：**1**
 - 已验证发布：**202**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 09:20:07 +0000 2026 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6 | [X](https://x.com/WhaleInsider/status/2097978417425592472) |
 | @WhaleInsider | Thu Sep 10 08:11:05 +0000 2026 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/WvRbXfAQYF | [X](https://x.com/WhaleInsider/status/2097961042886189444) |
 | @WhaleInsider | Thu Sep 10 07:18:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $166.5M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/4heRqjVsCx | [X](https://x.com/WhaleInsider/status/2097947832070115711) |
 | @WhaleInsider | Thu Sep 10 06:36:47 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | [X](https://x.com/WhaleInsider/status/2097937311249949144) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Wed Sep 09 16:58:48 +0000 2026 | JUST IN: Copper hits fresh record of $14,802.50/ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. https://t.co/azHFdx7JLX | [X](https://x.com/WhaleInsider/status/2097731459935043753) |
 | @WhaleInsider | Wed Sep 09 17:25:13 +0000 2026 | JUST IN: Apple $AAPL unveils new iPhone 18 Pro &amp; Pro Max. https://t.co/Sw98zUv51U | [X](https://x.com/WhaleInsider/status/2097738109194514578) |
 | @StockMKTNewz | Wed Sep 09 17:30:12 +0000 2026 | APPLE'S $AAPL NEW IPHONE 18 PRO STARTS AT $1,199 | [X](https://x.com/StockMKTNewz/status/2097739361701736891) |
-| @StockMKTNewz | Wed Sep 09 17:30:21 +0000 2026 | APPLE'S $AAPL NEW IPHONE 18 PRO MAX STARTS AT $1,299 | [X](https://x.com/StockMKTNewz/status/2097739400603951368) |
 
 ## 选题推荐
 
@@ -163,6 +163,7 @@
 | 1 | Nvidia $NVDA just posted this: “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are ex… | StockMKTNewz | 6442 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | WhaleInsider | 17234 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/W… | WhaleInsider | 28485 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical… | WhaleInsider | 16489 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3006,10 +3007,17 @@ U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
 
 ### Fed hike priced at 75% before 2027
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-fed-hike-75-before-2027/when2buy-image-model.png`
 
 Prediction-market traders now price a 75% chance of the next Fed rate hike arriving before 2027.
+
+### Palantir and NVIDIA partner on critical supply chains
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-palantir-nvidia-critical-supply-chains/when2buy-image-model.png`
+
+Palantir and NVIDIA are partnering to bring AI capabilities to critical supply chains, starting with NVIDIA's own operations.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3221,6 +3229,16 @@ Prediction-market traders now price a 75% chance of the next Fed rate hike arriv
 
 ## 最近运行
 
+- `2026-09-10T09:50:24Z` **publish / succeeded** — The sole fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T10:21:00Z
+- `2026-09-10T09:48:41.638760+00:00` **produce / succeeded** — Produced the sole newest fresh queue package with an inspected image-model visual and exact-logo composite.
+- `2026-09-10T09:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).
+- `2026-09-10T09:46:29Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T09:45:34Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T09:33:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T09:33:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).
+- `2026-09-10T09:32:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T09:32:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
+- `2026-09-10T09:30:58Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T09:18:18Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T09:18:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-10T09:17:25Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3231,13 +3249,3 @@ Prediction-market traders now price a 75% chance of the next Fed rate hike arriv
 - `2026-09-10T09:09:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-10T09:07:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T08:56:47Z` **full / succeeded** — Reconciled Postiz, scanned both benchmark accounts through Apify, archived media, rebuilt the hard-TTL queue, produced the newest fresh item, and safely deferred delivery at the daily account limit. Postiz batch limiter deferred the sole package until 2026-09-10T09:11:00Z; no submission was accepted and no retry was attempted. Repository preflight also reported stale literal-token expectations inconsistent with the current scheduled skill.
-- `2026-09-10T09:03:05.876058+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T08:58:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T08:58:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 14 eligible originals and added 1 new post(s).
-- `2026-09-10T07:30:54Z` **full / succeeded** — Apify scanned both benchmark accounts, archived benchmark media, reconciled package statuses, rebuilt the hard-TTL queue, and completed the no-publish freshness workflow; no fresh queue items were available, so no package was produced or submitted. No fresh eligible queue items were available inside the 90-minute source TTL.
-- `2026-09-10T07:31:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T07:31:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-10T07:26:06Z` **full / succeeded** — Apify scanned both benchmark accounts, archived benchmark media, reconciled package statuses, rebuilt the hard-TTL queue, and completed the no-publish freshness workflow; no fresh queue items were available, so no package was produced or submitted. No fresh eligible queue items were available inside the 90-minute source TTL.
-- `2026-09-10T07:27:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T07:27:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
-- `2026-09-10T07:26:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
