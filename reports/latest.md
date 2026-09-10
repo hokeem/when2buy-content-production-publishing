@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T16:06:18.622705+00:00`
+- 状态更新：`2026-09-10T16:21:40.756503+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**533**
-- 待选选题：**459**
-- 待发布制作包：**4**
-- 已验证发布：**207**
+- 对标帖子快照：**534**
+- 待选选题：**460**
+- 待发布制作包：**3**
+- 已验证发布：**208**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 16:14:59 +0000 2026 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID:  Cybersecurity is the next major use case of AI https://t.co/vg6jEDaAgW | [X](https://x.com/StockMKTNewz/status/2098082819452833956) |
 | @StockMKTNewz | Thu Sep 10 15:56:12 +0000 2026 | The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first time since June  🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2098078093286031846) |
 | @StockMKTNewz | Thu Sep 10 15:31:56 +0000 2026 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the $BLK shares he owns https://t.co/5RHz0Zbk0v | [X](https://x.com/StockMKTNewz/status/2098071985452441657) |
 | @StockMKTNewz | Thu Sep 10 15:39:55 +0000 2026 | Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform Listen Labs for ~$2 Billion | [X](https://x.com/StockMKTNewz/status/2098073996868648986) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Wed Apr 16 09:08:14 +0000 2025 | JUST IN: 🇨🇳 China's local governments sell 15,000 Bitcoin worth $1.25 billion via offshore private entities: Reuters. https://t.co/N7L5b8PxNi | [X](https://x.com/WhaleInsider/status/1912432838030364678) |
 | @WhaleInsider | Wed Jan 15 17:24:04 +0000 2025 | You will be a millionaire. | [X](https://x.com/WhaleInsider/status/1879580320695214120) |
 | @StockMKTNewz | Thu Sep 10 11:47:59 +0000 2026 | Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY  TSMC has now brought in a total of ~$107.1 Billion of revenue so far in 2026 up 39% YoY https://t.co/07c4r7sWEN | [X](https://x.com/StockMKTNewz/status/2098015628158259276) |
-| @StockMKTNewz | Thu Sep 10 11:36:00 +0000 2026 | PALANTIR EVENT TODAY  Palantir $PLTR just confirmed that its AIPCon 11 event will be taking place today  "Some of the world’s most consequential institutions across aviation, technology, media, insurance, defense, healthcare, and manufacturing take the stage.   Acrisure. Cisco. Eaton. The FAA. Hexion. L3Harris. Novartis. NVIDIA. Ondas Sentinel. USA TODAY. Zeta. And more" | [X](https://x.com/StockMKTNewz/status/2098012610838835655) |
 
 ## 选题推荐
 
@@ -185,6 +185,7 @@
 | 1 | OpenAI said today that it will provide 🇺🇸 Government agencies with free access to its ChatGP… | StockMKTNewz | 10028 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform L… | StockMKTNewz | 9331 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first tim… | StockMKTNewz | 7938 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID: Cybersecurity is the next major use case of AI http… | StockMKTNewz | 5708 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3170,7 +3171,7 @@ Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expa
 
 ### Traders price three more ECB rate hikes
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-ecb-three-rate-hikes/when2buy-image-model.png`
 
 Traders are fully pricing three more ECB rate hikes by mid-2027.
@@ -3202,6 +3203,13 @@ Salesforce has reportedly held talks to acquire AI-powered customer research pla
 - 配图：`deliverables/pkg-20260910-sp500-fourth-red-day/when2buy-image-model.png`
 
 The S&P 500 is on pace for its 4th straight red day, the first such streak since June.
+
+### NVIDIA CEO calls cybersecurity the next major AI use case
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-nvidia-cybersecurity-ai/when2buy-image-model.png`
+
+NVIDIA CEO Jensen Huang said cybersecurity is the next major use case of AI.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3415,9 +3423,16 @@ The S&P 500 is on pace for its 4th straight red day, the first such streak since
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
+| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 
 ## 最近运行
 
+- `2026-09-10T16:21:19Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T16:20:23Z` **produce / succeeded** — Produced the single newest fresh NVIDIA cybersecurity package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T16:18:11Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T16:18:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 115 eligible originals and added 0 new post(s).
+- `2026-09-10T16:17:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 115 eligible originals and added 1 new post(s).
+- `2026-09-10T16:15:51Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T16:05:39Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T16:04:30Z` **produce / succeeded** — Produced the single newest fresh S&P 500 package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T16:01:52Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3432,9 +3447,3 @@ The S&P 500 is on pace for its 4th straight red day, the first such streak since
 - `2026-09-10T15:33:17.694987+00:00` **produce / succeeded** — Produced the single newest fresh OpenAI government-access package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T15:30:50Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T15:30:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-10T15:22:10Z` **publish / succeeded** — Newest fresh ACA-rebate package remained ready; Postiz batch safely deferred without an accepted submission. pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.
-- `2026-09-10T15:19:38Z` **produce / succeeded** — Produced one newest fresh ACA-rebate package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T15:17:27Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T15:17:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-10T15:17:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-10T15:06:12Z` **publish / succeeded** — The sole newest ECB package was safely deferred during the existing 60-minute Postiz reconciliation window; no task was accepted and the fresh package remains recoverable. pending_delivery_reconciliation; retryAt=2026-09-10T15:51:04Z

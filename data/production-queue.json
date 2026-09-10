@@ -1,41 +1,49 @@
 {
-  "generatedAt": "2026-09-10T16:01:52Z",
+  "generatedAt": "2026-09-10T16:18:11Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098078093286031846",
+      "benchmarkPostId": "2098082819452833956",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098078093286031846",
-      "originalText": "The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first time since June\n\n🔴🔴🔴🔴",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098082819452833956",
+      "originalText": "NVIDIA $NVDA CEO JENSEN HUANG JUST SAID:\n\nCybersecurity is the next major use case of AI https://t.co/vg6jEDaAgW",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR3jMWQW8Ak0bF3.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3jMWQW8Ak0bF3.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098082819452833956-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
-        "likes": 18,
-        "replies": 8,
-        "reposts": 4,
+        "likes": 20,
+        "replies": 4,
+        "reposts": 2,
         "quotes": 0,
-        "views": 7058
+        "views": 5048
       },
-      "postedAt": "Thu Sep 10 15:56:12 +0000 2026",
-      "score": 7938,
-      "heatScore": 7938,
+      "postedAt": "Thu Sep 10 16:14:59 +0000 2026",
+      "score": 5708,
+      "heatScore": 5708,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 16,
+      "editorialScore": 19,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 5.7,
-        "expiresAt": "2026-09-10T17:26:12Z",
+        "ageMinutes": 3.2,
+        "expiresAt": "2026-09-10T17:44:59Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -71,7 +79,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 22.0,
+        "ageMinutes": 38.3,
         "expiresAt": "2026-09-10T17:09:55Z",
         "ttlMinutes": 90
       },
@@ -116,7 +124,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 29.9,
+        "ageMinutes": 46.3,
         "expiresAt": "2026-09-10T17:01:56Z",
         "ttlMinutes": 90
       },
@@ -161,7 +169,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 40.8,
+        "ageMinutes": 57.2,
         "expiresAt": "2026-09-10T16:51:02Z",
         "ttlMinutes": 90
       },
@@ -198,7 +206,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 55.3,
+        "ageMinutes": 71.6,
         "expiresAt": "2026-09-10T16:36:37Z",
         "ttlMinutes": 90
       },
@@ -249,59 +257,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 57.7,
+        "ageMinutes": 74.0,
         "expiresAt": "2026-09-10T16:34:12Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2098057773099430149",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-ecb-three-rate-hikes",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098057773099430149",
-      "originalText": "JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9ITFfI5y",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR3Ma-5XkAUOC5U.jpg",
-        "https://pbs.twimg.com/media/HR3Ma-6WsAESNv-.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR3Ma-5XkAUOC5U.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098057773099430149-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR3Ma-6WsAESNv-.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098057773099430149-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 49,
-        "replies": 17,
-        "reposts": 6,
-        "quotes": 2,
-        "views": 14661
-      },
-      "postedAt": "Thu Sep 10 14:35:27 +0000 2026",
-      "score": 16741,
-      "heatScore": 16741,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 86.4,
-        "expiresAt": "2026-09-10T16:05:27Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
