@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T00:18:25.260039+00:00`
+- 状态更新：`2026-09-10T00:26:54.706778+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**487**
 - 待选选题：**425**
@@ -3195,6 +3195,9 @@ Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today
 
 ## 最近运行
 
+- `2026-09-10T00:26:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:26:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
+- `2026-09-10T00:25:52Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:17:05Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-10T00:17:21Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:17:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 82 eligible originals and added 9 new post(s).
@@ -3212,6 +3215,3 @@ Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today
 - `2026-09-09T23:56:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-09T23:45:49Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status reconciliation, hard-TTL queue rebuild, one image-model package, and one serial verified X publication completed.
 - `2026-09-09T23:52:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:51:26.648020+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-09T23:50:27Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:50:23.164674+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
