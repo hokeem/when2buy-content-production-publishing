@@ -1,47 +1,137 @@
 {
-  "generatedAt": "2026-09-10T20:01:28Z",
+  "generatedAt": "2026-09-10T20:16:51Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098135120980898075",
+      "benchmarkPostId": "2098142649915990353",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098135120980898075",
-      "originalText": "SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098142649915990353",
+      "originalText": "ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR4Znb9a4AA8PbS.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4Znb9a4AA8PbS.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098142649915990353-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
-        "likes": 76,
-        "replies": 8,
-        "reposts": 7,
-        "quotes": 1,
-        "views": 14168
+        "likes": 23,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 8828
       },
-      "postedAt": "Thu Sep 10 19:42:48 +0000 2026",
-      "score": 16418,
-      "heatScore": 16418,
+      "postedAt": "Thu Sep 10 20:12:44 +0000 2026",
+      "score": 9418,
+      "heatScore": 9418,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 2,
+        "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
-        "factualClarity": 4
+        "factualClarity": 3
       },
-      "editorialScore": 19,
+      "editorialScore": 17,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 18.7,
-        "expiresAt": "2026-09-10T21:12:48Z",
+        "ageMinutes": 4.1,
+        "expiresAt": "2026-09-10T21:42:44Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
       "rank": 2,
+      "benchmarkPostId": "2098142302745055277",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098142302745055277",
+      "originalText": "ROBINHOOD $HOOD JUST REPORTED ITS AUGUST 2026 MONTHLY METRICS\n\n- Event Contracts Traded: 4.7B (+15x YoY)\n- Funded Customers: 28.6M (+1.90M YoY)\n- Total Platform Assets: $384B (+26% YoY)\n- et Deposits: $4.0B (24% LTM growth)\n- Select Interest Earning Assets: $72.3B (+19% YoY)\n- Equity Notional Volumes: $335B (+68% YoY)\n- Options Contracts Traded: 293M (+50% YoY)\n- Crypto Notional Volumes: $17.5B (+38% YoY)",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR4ZM50bAAAAHLa.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4ZM50bAAAAHLa.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098142302745055277-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 24,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 1,
+        "views": 8501
+      },
+      "postedAt": "Thu Sep 10 20:11:21 +0000 2026",
+      "score": 9651,
+      "heatScore": 9651,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 5.5,
+        "expiresAt": "2026-09-10T21:41:21Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098141145029104029",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098141145029104029",
+      "originalText": "ADOBE $ADBE JUST REPORTED EARNINGS",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 35,
+        "replies": 5,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 16632
+      },
+      "postedAt": "Thu Sep 10 20:06:45 +0000 2026",
+      "score": 17782,
+      "heatScore": 17782,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 10.1,
+        "expiresAt": "2026-09-10T21:36:45Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
       "benchmarkPostId": "2098134199727251462",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -79,14 +169,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 22.3,
+        "ageMinutes": 37.7,
         "expiresAt": "2026-09-10T21:09:09Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098131771296489490",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -130,14 +220,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 32.0,
+        "ageMinutes": 47.4,
         "expiresAt": "2026-09-10T20:59:30Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2098129395588173991",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -175,14 +265,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 41.4,
+        "ageMinutes": 56.8,
         "expiresAt": "2026-09-10T20:50:03Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 7,
       "benchmarkPostId": "2098125939636871240",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -226,14 +316,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 55.2,
+        "ageMinutes": 70.5,
         "expiresAt": "2026-09-10T20:36:19Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 8,
       "benchmarkPostId": "2098122034635038838",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-robloxians-traction",
@@ -277,7 +367,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 70.7,
+        "ageMinutes": 86.1,
         "expiresAt": "2026-09-10T20:20:48Z",
         "ttlMinutes": 90
       },

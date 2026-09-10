@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T20:04:56.196801+00:00",
+  "updatedAt": "2026-09-10T20:20:23.572626+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15251,6 +15251,82 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098142649915990353",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098142649915990353",
+      "postedAt": "Thu Sep 10 20:12:44 +0000 2026",
+      "text": "ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4Znb9a4AA8PbS.jpg"
+      ],
+      "engagement": {
+        "likes": 23,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 8828
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T20:16:46Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4Znb9a4AA8PbS.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098142649915990353-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098142302745055277",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098142302745055277",
+      "postedAt": "Thu Sep 10 20:11:21 +0000 2026",
+      "text": "ROBINHOOD $HOOD JUST REPORTED ITS AUGUST 2026 MONTHLY METRICS\n\n- Event Contracts Traded: 4.7B (+15x YoY)\n- Funded Customers: 28.6M (+1.90M YoY)\n- Total Platform Assets: $384B (+26% YoY)\n- et Deposits: $4.0B (24% LTM growth)\n- Select Interest Earning Assets: $72.3B (+19% YoY)\n- Equity Notional Volumes: $335B (+68% YoY)\n- Options Contracts Traded: 293M (+50% YoY)\n- Crypto Notional Volumes: $17.5B (+38% YoY)",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4ZM50bAAAAHLa.jpg"
+      ],
+      "engagement": {
+        "likes": 24,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 1,
+        "views": 8501
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T20:16:46Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4ZM50bAAAAHLa.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098142302745055277-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098141145029104029",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098141145029104029",
+      "postedAt": "Thu Sep 10 20:06:45 +0000 2026",
+      "text": "ADOBE $ADBE JUST REPORTED EARNINGS",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 35,
+        "replies": 5,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 16632
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T20:16:46Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -24353,6 +24429,63 @@
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098142649915990353",
+      "rank": 1,
+      "title": "ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt",
+      "benchmarkPostId": "2098142649915990353",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098142649915990353",
+      "score": 9418,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T20:16:51Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2098142302745055277",
+      "rank": 2,
+      "title": "ROBINHOOD $HOOD JUST REPORTED ITS AUGUST 2026 MONTHLY METRICS - Event Contracts Traded: 4.7B…",
+      "benchmarkPostId": "2098142302745055277",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098142302745055277",
+      "score": 9651,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T20:16:51Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098141145029104029",
+      "rank": 3,
+      "title": "ADOBE $ADBE JUST REPORTED EARNINGS",
+      "benchmarkPostId": "2098141145029104029",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098141145029104029",
+      "score": 17782,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T20:16:51Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 3
       }
     }
   ],
@@ -35820,6 +35953,49 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T20:04:56Z",
       "publishedAt": "2026-09-10T20:04:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-oracle-earnings",
+      "benchmarkPostId": "2098142649915990353",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098142649915990353",
+      "title": "Oracle just reported earnings",
+      "status": "published",
+      "postText": "$ORCL just reported earnings.",
+      "mirroredFacts": [
+        "Oracle reported earnings in a fresh market alert.",
+        "The company trades under the ticker ORCL."
+      ],
+      "verificationSources": [
+        "https://investor.oracle.com/faq/default.aspx",
+        "https://x.com/StockMKTNewz/status/2098142649915990353"
+      ],
+      "imagePath": "deliverables/pkg-20260910-oracle-earnings/when2buy-image-model.png",
+      "createdAt": "2026-09-10T20:19:22.718656+00:00",
+      "sourceExpiresAt": "2026-09-10T21:42:44Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual for When2Buy\nPrimary request: one complete original entity-led editorial visual about Oracle reporting earnings.\nScene/backdrop: premium photorealistic Oracle corporate and cloud-infrastructure environment with illuminated data-center racks and a subtle financial-results display motif.\nSubject: Oracle as the dominant subject through an enterprise cloud infrastructure scene; clearly an earnings-report moment, not a generic stock chart.\nStyle/medium: cinematic photorealistic financial-news editorial image, sharp detail, premium market-news aesthetic.\nComposition/framing: exact 1:1 square; central entity-led scene; bold white typography with one controlled red accent; reserve clean lower-right space for later compositing of the supplied circular when2buy logo.\nLighting/mood: high-contrast studio lighting, urgent but factual.\nColor palette: near-black, charcoal, white, controlled Oracle-red accent.\nText (verbatim): \"ORACLE JUST REPORTED EARNINGS\" and \"$ORCL\"\nConstraints: no other readable words or numbers; no source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, or generated logo; no pure typography card; no generic abstract background; keep the image complete and meaningful before the logo is added.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T20:19:22.718656+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete Oracle cloud-infrastructure entity scene",
+            "exact ORACLE JUST REPORTED EARNINGS and $ORCL text",
+            "near-black, white, and controlled-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      },
+      "postizPostId": "cmtvz0rzf0jqbqk0ygilgspwj",
+      "postizSubmissionAt": "2026-09-10T20:19:31Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T20:19:58Z",
+      "publishedAt": "2026-09-10T20:19:00.000Z"
     }
   ],
   "posts": [
@@ -39789,11 +39965,29 @@
       "postizPostId": "cmtvyhf7k0jhaqk0yqgkv18jv",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-10T20:04:00.000Z",
+        "windowStart": "2026-09-10T20:04:00Z",
         "windowEnd": "2026-09-13T20:04:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-10T20:20:13.786083Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098144463050944775",
+      "packageId": "pkg-20260910-oracle-earnings",
+      "title": "Oracle just reported earnings",
+      "text": "$ORCL just reported earnings.",
+      "status": "published",
+      "publishedAt": "2026-09-10T20:19:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098144463050944775",
+      "postizPostId": "cmtvz0rzf0jqbqk0ygilgspwj",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T20:19:00Z",
+        "windowEnd": "2026-09-13T20:19:00Z",
+        "lastAttemptAt": "2026-09-10T20:20:13.786083Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     }
   ],
@@ -248429,6 +248623,90 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-10T20:03:51.143999Z"
       }
+    },
+    {
+      "id": "metric-2098140676957569227-20260910T202013Z",
+      "postId": "2098140676957569227",
+      "observedAt": "2026-09-10T20:20:13.786083Z",
+      "views": 3,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvyhf7k0jhaqk0yqgkv18jv",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvyhf7k0jhaqk0yqgkv18jv",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T20:20:13.786083Z"
+      }
+    },
+    {
+      "id": "metric-2098144463050944775-20260910T202013Z",
+      "postId": "2098144463050944775",
+      "observedAt": "2026-09-10T20:20:13.786083Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvz0rzf0jqbqk0ygilgspwj",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvz0rzf0jqbqk0ygilgspwj",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T20:20:13.786083Z"
+      }
     }
   ],
   "experiments": [],
@@ -266125,6 +266403,55 @@
       "status": "succeeded",
       "startedAt": "2026-09-10T20:04:56Z",
       "completedAt": "2026-09-10T20:04:56Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T201526Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:15:26Z",
+      "completedAt": "2026-09-10T20:15:26Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T201646Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:16:46Z",
+      "completedAt": "2026-09-10T20:16:46Z",
+      "summary": "Apify scanned both benchmark accounts; captured 120 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T201651Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:16:51Z",
+      "completedAt": "2026-09-10T20:16:51Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T201922Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:19:22.718656+00:00",
+      "completedAt": "2026-09-10T20:19:22.718746+00:00",
+      "summary": "Produced one newest fresh Oracle earnings package with an inspected entity-led image and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T201958Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T20:19:58Z",
+      "completedAt": "2026-09-10T20:19:58Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
