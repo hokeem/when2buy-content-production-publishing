@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T21:19:41.377995+00:00`
+- 状态更新：`2026-09-10T21:35:35.244194+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**562**
 - 待选选题：**488**
-- 待发布制作包：**2**
+- 待发布制作包：**3**
 - 已验证发布：**218**
 
 ## 对标账号扫描
@@ -3351,6 +3351,13 @@ Bitwise is shutting down its DOGE ETF less than a year after launch.
 
 MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its multichain wallet.  TRON’s ecosystem includes roughly $94B in circulating USDT.
 
+### $KERMIT integrates Grok on Robinhood Chain
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-kermit-grok-robinhood-chain/when2buy-image-model.png`
+
+$KERMIT is the first project on Robinhood Chain to integrate Grok.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3551,6 +3558,7 @@ MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its m
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
+| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -3573,10 +3581,13 @@ MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its m
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098159492718641248) |
 
 ## 最近运行
 
+- `2026-09-10T21:35:35Z` **publish / succeeded** — Newest fresh KERMIT package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour limit is exhausted. daily_limit; retryAt=2026-09-10T21:50:00Z
+- `2026-09-10T21:34:22Z` **produce / succeeded** — Produced the sole newest fresh KERMIT/Robinhood Chain package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T21:32:38Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T21:30:51Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T21:19:41Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T21:18:47Z` **produce / succeeded** — Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T21:18:29Z` **produce / succeeded** — Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.
@@ -3593,7 +3604,3 @@ MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its m
 - `2026-09-10T20:47:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
 - `2026-09-10T20:46:29Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T20:35:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T20:35:17.456014+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
-- `2026-09-10T20:35:01.452113+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
-- `2026-09-10T20:34:41.574788+00:00` **produce / succeeded** — Produced one newest fresh Oracle backlog package with exact-logo compositing.
-- `2026-09-10T20:32:45Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).

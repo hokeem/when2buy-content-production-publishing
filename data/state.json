@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T21:19:41.377995+00:00",
+  "updatedAt": "2026-09-10T21:35:35.244194+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -36440,6 +36440,43 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T21:19:41Z",
       "publishedAt": "2026-09-10T21:19:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-kermit-grok-robinhood-chain",
+      "benchmarkPostId": "2098154982411305155",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098154982411305155",
+      "title": "$KERMIT integrates Grok on Robinhood Chain",
+      "status": "ready",
+      "postText": "$KERMIT is the first project on Robinhood Chain to integrate Grok.",
+      "mirroredFacts": [
+        "The benchmark alert said $KERMIT became the first project on Robinhood Chain to integrate Grok.",
+        "$KERMIT rallied after the integration alert."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098154982411305155",
+        "https://docs.robinhood.com/chain/"
+      ],
+      "imagePath": "deliverables/pkg-20260910-kermit-grok-robinhood-chain/when2buy-image-model.png",
+      "createdAt": "2026-09-10T21:34:22Z",
+      "sourceExpiresAt": "2026-09-10T22:31:44Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Complete square 1:1 premium financial-news editorial visual about $KERMIT becoming the first project on Robinhood Chain to integrate Grok, with a frog-themed crypto token, blockchain network, and AI assistant as the entity-led subject; near-black base, crisp white typography and restrained red accents added later; clean upper-left typography space and lower-right logo-safe space; no generated text, source, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, generated branding, or pure-text card; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T21:34:22Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete KERMIT token, Robinhood Chain, and AI entity scene",
+            "exact factual text composited once",
+            "exact repository logo composited once in lower-right clear space",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -40463,11 +40500,11 @@
       "postizPostId": "cmtw15ke00dd9lm0yfvyor36b",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-10T21:19:00.000Z",
+        "windowStart": "2026-09-10T21:19:00Z",
         "windowEnd": "2026-09-13T21:19:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-10T21:34:52.897456Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     }
   ],
@@ -252547,6 +252584,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-10T21:04:09.304274Z"
       }
+    },
+    {
+      "id": "metric-2098159492718641248-20260910T213452Z",
+      "postId": "2098159492718641248",
+      "observedAt": "2026-09-10T21:34:52.897456Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtw15ke00dd9lm0yfvyor36b",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtw15ke00dd9lm0yfvyor36b",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T21:34:52.897456Z"
+      }
     }
   ],
   "experiments": [],
@@ -270536,6 +270615,48 @@
       "completedAt": "2026-09-10T21:19:41Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T213051Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:30:51Z",
+      "completedAt": "2026-09-10T21:30:51Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T213238Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:32:38Z",
+      "completedAt": "2026-09-10T21:32:38Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T213422Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:34:22Z",
+      "completedAt": "2026-09-10T21:34:22Z",
+      "summary": "Produced the sole newest fresh KERMIT/Robinhood Chain package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "packageId": "pkg-20260910-kermit-grok-robinhood-chain"
+    },
+    {
+      "id": "run-20260910T213535Z-publish-deferred",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:35:35Z",
+      "completedAt": "2026-09-10T21:35:35Z",
+      "summary": "Newest fresh KERMIT package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour limit is exhausted.",
+      "reason": "daily_limit; retryAt=2026-09-10T21:50:00Z",
+      "packageId": "pkg-20260910-kermit-grok-robinhood-chain",
+      "outcome": "deferred",
+      "selectedPackageIds": [
+        "pkg-20260910-kermit-grok-robinhood-chain"
+      ]
     }
   ],
   "deliveryCircuitBreaker": {
