@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T09:50:24.079700+00:00`
+- 状态更新：`2026-09-10T10:07:32.797419+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**492**
-- 待选选题：**429**
-- 待发布制作包：**1**
+- 对标帖子快照：**493**
+- 待选选题：**430**
+- 待发布制作包：**2**
 - 已验证发布：**202**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 09:51:14 +0000 2026 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs - SEC filing. https://t.co/UMgll4t94M | [X](https://x.com/WhaleInsider/status/2097986246509314464) |
 | @WhaleInsider | Thu Sep 10 09:20:07 +0000 2026 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6 | [X](https://x.com/WhaleInsider/status/2097978417425592472) |
 | @WhaleInsider | Thu Sep 10 08:11:05 +0000 2026 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/WvRbXfAQYF | [X](https://x.com/WhaleInsider/status/2097961042886189444) |
 | @WhaleInsider | Thu Sep 10 07:18:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $166.5M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/4heRqjVsCx | [X](https://x.com/WhaleInsider/status/2097947832070115711) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Wed Sep 09 16:52:06 +0000 2026 | JUST IN: Lightfield raises $47 million Series A, led by a16z, to make customer context usable by A.I agents. https://t.co/MQT8C6r18G | [X](https://x.com/WhaleInsider/status/2097729772079976501) |
 | @WhaleInsider | Wed Sep 09 16:58:48 +0000 2026 | JUST IN: Copper hits fresh record of $14,802.50/ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. https://t.co/azHFdx7JLX | [X](https://x.com/WhaleInsider/status/2097731459935043753) |
 | @WhaleInsider | Wed Sep 09 17:25:13 +0000 2026 | JUST IN: Apple $AAPL unveils new iPhone 18 Pro &amp; Pro Max. https://t.co/Sw98zUv51U | [X](https://x.com/WhaleInsider/status/2097738109194514578) |
-| @StockMKTNewz | Wed Sep 09 17:30:12 +0000 2026 | APPLE'S $AAPL NEW IPHONE 18 PRO STARTS AT $1,199 | [X](https://x.com/StockMKTNewz/status/2097739361701736891) |
 
 ## 选题推荐
 
@@ -164,6 +164,7 @@
 | 1 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | WhaleInsider | 17234 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/W… | WhaleInsider | 28485 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical… | WhaleInsider | 16489 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral acros… | WhaleInsider | 15292 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3019,6 +3020,13 @@ Prediction-market traders now price a 75% chance of the next Fed rate hike arriv
 
 Palantir and NVIDIA are partnering to bring AI capabilities to critical supply chains, starting with NVIDIA's own operations.
 
+### Charles Schwab fund family discloses $4.8M in XRP ETF collateral
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-schwab-xrp-etf-collateral-48m/when2buy-image-model.png`
+
+Charles Schwab's fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3117,11 +3125,11 @@ Palantir and NVIDIA are partnering to bring AI capabilities to critical supply c
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
+| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
-| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
@@ -3229,6 +3237,11 @@ Palantir and NVIDIA are partnering to bring AI capabilities to critical supply c
 
 ## 最近运行
 
+- `2026-09-10T10:07:16Z` **publish / succeeded** — The newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable. daily_limit; retryAt=2026-09-10T10:21:00Z
+- `2026-09-10T10:06:10.620858+00:00` **produce / succeeded** — Produced the sole newest fresh XRP collateral package with an inspected image-model visual and exact-logo composite.
+- `2026-09-10T10:02:56Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:01:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
+- `2026-09-10T10:01:01Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T09:50:24Z` **publish / succeeded** — The sole fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T10:21:00Z
 - `2026-09-10T09:48:41.638760+00:00` **produce / succeeded** — Produced the sole newest fresh queue package with an inspected image-model visual and exact-logo composite.
 - `2026-09-10T09:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).
@@ -3244,8 +3257,3 @@ Palantir and NVIDIA are partnering to bring AI capabilities to critical supply c
 - `2026-09-10T09:17:25Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T09:14:55Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T09:14:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-10T09:07:00Z` **full / succeeded** — Reconciled Postiz, completed the hourly metrics check, scanned both benchmark accounts through Apify, rebuilt the hard-TTL queue, validated the sole fresh package, and safely deferred delivery at the account limit. Postiz delivery policy deferred the sole package until 2026-09-10T09:13:00Z at the rolling daily limit; no submission was accepted and no retry was attempted.
-- `2026-09-10T09:10:02Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:09:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-10T09:07:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T08:56:47Z` **full / succeeded** — Reconciled Postiz, scanned both benchmark accounts through Apify, archived media, rebuilt the hard-TTL queue, produced the newest fresh item, and safely deferred delivery at the daily account limit. Postiz batch limiter deferred the sole package until 2026-09-10T09:11:00Z; no submission was accepted and no retry was attempted. Repository preflight also reported stale literal-token expectations inconsistent with the current scheduled skill.
