@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T22:02:51.016184+00:00`
+- 状态更新：`2026-09-10T22:19:17.101408+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**565**
-- 待选选题：**491**
+- 对标帖子快照：**566**
+- 待选选题：**492**
 - 待发布制作包：**2**
 - 已验证发布：**219**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 22:01:21 +0000 2026 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK  GameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc | [X](https://x.com/StockMKTNewz/status/2098169986414006375) |
 | @WhaleInsider | Thu Sep 10 21:22:36 +0000 2026 | JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/U1tThtOuDy | [X](https://x.com/WhaleInsider/status/2098160236225798614) |
 | @StockMKTNewz | Thu Sep 10 21:24:26 +0000 2026 | MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032  The company's data center network will reach more than 38 gigawatts, up from about 12 gigawatts now - Bloomberg https://t.co/TqjM0HyNCI | [X](https://x.com/StockMKTNewz/status/2098160694038298889) |
 | @StockMKTNewz | Thu Sep 10 21:41:24 +0000 2026 | THE US MILITARY NOW FUNDING THE AI BUILD OUT?  The Pentagon is in talks to lend roughly $5 billion to AI cloud-computing startup Fluidstack  The money would come from the Pentagon’s Office of Strategic Capital, which provides loans to companies working in areas deemed critical to U.S. national security. A $5B loan would be, by far, the office’s largest to date - WSJ | [X](https://x.com/StockMKTNewz/status/2098164965123236185) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 16:51:42 +0000 2026 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first critical hires.  To celebrate the launch, Elly is providing a list of top candidates to hiring managers. https://t.co/fezoOJhBv5 | [X](https://x.com/WhaleInsider/status/2098092061643747622) |
 | @StockMKTNewz | Thu Sep 10 16:56:36 +0000 2026 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock at an average price of $70.96 per share https://t.co/m4HoT8i2I5 | [X](https://x.com/StockMKTNewz/status/2098093294899110204) |
 | @WhaleInsider | Thu Sep 10 17:00:13 +0000 2026 | JUST IN: 🇺🇸 Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” https://t.co/uymoDzq4Pf | [X](https://x.com/WhaleInsider/status/2098094202848448781) |
-| @WhaleInsider | Thu Sep 10 16:24:47 +0000 2026 | JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock. https://t.co/MjmPQDdxq5 | [X](https://x.com/WhaleInsider/status/2098085286198604002) |
 
 ## 选题推荐
 
@@ -202,6 +202,7 @@
 | 1 | JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JY… | WhaleInsider | 12231 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem… | WhaleInsider | 12698 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | THE US MILITARY NOW FUNDING THE AI BUILD OUT? The Pentagon is in talks to lend roughly $5 bi… | StockMKTNewz | 7331 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK GameStop $GME CEO Ryan Cohen just file… | StockMKTNewz | 13968 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3342,7 +3343,7 @@ Sam Bankman-Fried asks the Supreme Court to overturn his fraud conviction.  The 
 
 ### Bitwise shuts down its DOGE ETF less than a year after launch
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-bitwise-doge-etf-shutdown/when2buy-image-model.png`
 
 Bitwise is shutting down its DOGE ETF less than a year after launch.
@@ -3367,6 +3368,13 @@ $KERMIT is the first project on Robinhood Chain to integrate Grok.
 - 配图：`deliverables/pkg-20260910-fluidstack-pentagon-5b-loan-talks/when2buy-image-model.png`
 
 The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  The money would come through the Pentagon's Office of Strategic Capital.
+
+### Ryan Cohen buys $20.4M of GameStop stock
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-gme-ryan-cohen-20m-purchase/when2buy-image-model.png`
+
+GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase covered 1,000,000 shares at a weighted average price of $20.3759.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3595,6 +3603,11 @@ The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  Th
 
 ## 最近运行
 
+- `2026-09-10T22:19:17Z` **produce / succeeded** — Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.
+- `2026-09-10T22:17:16Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T22:16:35Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T22:16:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 1 new post(s).
+- `2026-09-10T22:15:32Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T22:02:51Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T22:01:18Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T22:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -3610,8 +3623,3 @@ The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  Th
 - `2026-09-10T21:30:51Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T21:19:41Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T21:18:47Z` **produce / succeeded** — Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T21:18:29Z` **produce / succeeded** — Produced the sole newest fresh MetaMask/TRON package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T21:16:25Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T21:16:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-10T21:15:57Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T21:04:42Z` **publish / succeeded** — The sole newest fresh DOGE ETF package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T21:13:00Z

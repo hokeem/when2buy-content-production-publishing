@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T22:02:51.016184+00:00",
+  "updatedAt": "2026-09-10T22:19:17.101408+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15597,6 +15597,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098169986414006375",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098169986414006375",
+      "postedAt": "Thu Sep 10 22:01:21 +0000 2026",
+      "text": "RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK\n\nGameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4yZx-a4AAs_Qt.png"
+      ],
+      "engagement": {
+        "likes": 67,
+        "replies": 12,
+        "reposts": 13,
+        "quotes": 5,
+        "views": 11198
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T22:16:31Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4yZx-a4AAs_Qt.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098169986414006375-1.png",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -24926,6 +24954,25 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098169986414006375",
+      "rank": 1,
+      "title": "RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK GameStop $GME CEO Ryan Cohen just file…",
+      "benchmarkPostId": "2098169986414006375",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098169986414006375",
+      "score": 13968,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T22:16:35Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -36514,7 +36561,7 @@
       "benchmarkPostId": "2098150053177102560",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098150053177102560",
       "title": "Bitwise shuts down its DOGE ETF less than a year after launch",
-      "status": "ready",
+      "status": "expired",
       "postText": "Bitwise is shutting down its DOGE ETF less than a year after launch.",
       "mirroredFacts": [
         "Bitwise is shutting down its Dogecoin ETF, ticker BWOW.",
@@ -36545,7 +36592,9 @@
             "exact repository logo composited once in lower-right clear space"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T22:15:29Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260910-metamask-tron-connectivity",
@@ -36670,6 +36719,44 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T22:02:51Z",
       "publishedAt": "2026-09-10T22:02:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-gme-ryan-cohen-20m-purchase",
+      "benchmarkPostId": "2098169986414006375",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098169986414006375",
+      "title": "Ryan Cohen buys $20.4M of GameStop stock",
+      "status": "ready",
+      "postText": "GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.\n\nThe purchase covered 1,000,000 shares at a weighted average price of $20.3759.",
+      "mirroredFacts": [
+        "Ryan Cohen is GameStop's CEO, President and Chairman.",
+        "He purchased 1,000,000 GameStop Class A shares on September 10, 2026.",
+        "The SEC filing lists a weighted average price of $20.3759 per share, approximately $20.4 million."
+      ],
+      "verificationSources": [
+        "https://www.sec.gov/Archives/edgar/data/1767470/000092189526002531/xslF345X06/form413177gme_09102026.xml",
+        "https://x.com/StockMKTNewz/status/2098169986414006375"
+      ],
+      "imagePath": "deliverables/pkg-20260910-gme-ryan-cohen-20m-purchase/when2buy-image-model.png",
+      "createdAt": "2026-09-10T22:19:17Z",
+      "sourceExpiresAt": "2026-09-10T23:31:21Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square GameStop entity-led editorial scene: GameStop storefront, filing pages, market atmosphere, near-black and red palette, no generated text or logo; reserve upper-left for factual typography and lower-right for exact repository logo.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T22:19:17Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete GameStop entity-led scene with filing and market context",
+            "factual text limited to Ryan Cohen, $20.4M, $GME, 1,000,000 shares, and September 10",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -274324,6 +274411,56 @@
       "completedAt": "2026-09-10T22:02:51Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T221532Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:15:32Z",
+      "completedAt": "2026-09-10T22:15:32Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T221631Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:16:31Z",
+      "completedAt": "2026-09-10T22:16:31Z",
+      "summary": "Apify scanned both benchmark accounts; captured 43 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T221635Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:16:35Z",
+      "completedAt": "2026-09-10T22:16:35Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T221716Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:17:16Z",
+      "completedAt": "2026-09-10T22:17:16Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T221917Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T22:19:17Z",
+      "completedAt": "2026-09-10T22:19:17Z",
+      "summary": "Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.",
+      "reason": "",
+      "packageId": "pkg-20260910-gme-ryan-cohen-20m-purchase"
     }
   ],
   "deliveryCircuitBreaker": {

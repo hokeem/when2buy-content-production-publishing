@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-09-10T22:01:18Z",
+  "generatedAt": "2026-09-10T22:17:16Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098164965123236185",
+      "benchmarkPostId": "2098169986414006375",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260910-fluidstack-pentagon-5b-loan-talks",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098164965123236185",
-      "originalText": "THE US MILITARY NOW FUNDING THE AI BUILD OUT?\n\nThe Pentagon is in talks to lend roughly $5 billion to AI cloud-computing startup Fluidstack\n\nThe money would come from the Pentagon’s Office of Strategic Capital, which provides loans to companies working in areas deemed critical to U.S. national security. A $5B loan would be, by far, the office’s largest to date - WSJ",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098169986414006375",
+      "originalText": "RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK\n\nGameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4tx86bEAAD6GZ.jpg"
+        "https://pbs.twimg.com/media/HR4yZx-a4AAs_Qt.png"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4tx86bEAAD6GZ.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098164965123236185-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HR4yZx-a4AAs_Qt.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098169986414006375-1.png",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 22,
-        "replies": 5,
-        "reposts": 4,
-        "quotes": 0,
-        "views": 6491
+        "likes": 67,
+        "replies": 12,
+        "reposts": 13,
+        "quotes": 5,
+        "views": 11198
       },
-      "postedAt": "Thu Sep 10 21:41:24 +0000 2026",
-      "score": 7331,
-      "heatScore": 7331,
+      "postedAt": "Thu Sep 10 22:01:21 +0000 2026",
+      "score": 13968,
+      "heatScore": 13968,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
@@ -42,8 +42,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 19.9,
-        "expiresAt": "2026-09-10T23:11:24Z",
+        "ageMinutes": 15.9,
+        "expiresAt": "2026-09-10T23:31:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -87,7 +87,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 36.9,
+        "ageMinutes": 52.8,
         "expiresAt": "2026-09-10T22:54:26Z",
         "ttlMinutes": 90
       },
@@ -138,7 +138,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 38.7,
+        "ageMinutes": 54.7,
         "expiresAt": "2026-09-10T22:52:36Z",
         "ttlMinutes": 90
       },
@@ -189,59 +189,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 59.6,
+        "ageMinutes": 75.5,
         "expiresAt": "2026-09-10T22:31:44Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2098150053177102560",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-bitwise-doge-etf-shutdown",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098150053177102560",
-      "originalText": "JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JYtO",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4gWhYa4AAykDR.jpg",
-        "https://pbs.twimg.com/media/HR4gWhjW0AUccZ3.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4gWhYa4AAykDR.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098150053177102560-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4gWhjW0AUccZ3.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098150053177102560-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 23,
-        "replies": 19,
-        "reposts": 8,
-        "quotes": 2,
-        "views": 10491
-      },
-      "postedAt": "Thu Sep 10 20:42:09 +0000 2026",
-      "score": 12231,
-      "heatScore": 12231,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 79.2,
-        "expiresAt": "2026-09-10T22:12:09Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
