@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T05:39:31.030916+00:00",
+  "updatedAt": "2026-09-10T05:48:44.960946+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -218614,6 +218614,47 @@
       "startedAt": "2026-09-10T05:35:50Z",
       "completedAt": "2026-09-10T05:39:02Z",
       "summary": "Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.",
+      "reason": "No eligible source post remained inside the 90-minute TTL.",
+      "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260910T054612Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T05:46:12Z",
+      "completedAt": "2026-09-10T05:46:12Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T054743Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T05:47:43Z",
+      "completedAt": "2026-09-10T05:47:43Z",
+      "summary": "Apify scanned both benchmark accounts; captured 117 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T054748Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T05:47:48Z",
+      "completedAt": "2026-09-10T05:47:48Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T054826Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T05:45:59Z",
+      "completedAt": "2026-09-10T05:48:26Z",
+      "summary": "Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.",
       "reason": "No eligible source post remained inside the 90-minute TTL.",
       "selectedPackageIds": []
     }
