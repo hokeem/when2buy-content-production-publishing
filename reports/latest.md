@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T10:25:50.607108+00:00`
+- 状态更新：`2026-09-10T10:34:06.807585+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**494**
-- 待选选题：**431**
-- 待发布制作包：**2**
+- 对标帖子快照：**495**
+- 待选选题：**432**
+- 待发布制作包：**3**
 - 已验证发布：**202**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 10:30:50 +0000 2026 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. https://t.co/t5C4t76Uw9 | [X](https://x.com/WhaleInsider/status/2097996211127033977) |
 | @StockMKTNewz | Thu Sep 10 10:14:41 +0000 2026 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price target | [X](https://x.com/StockMKTNewz/status/2097992147404308500) |
 | @WhaleInsider | Thu Sep 10 09:51:14 +0000 2026 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs - SEC filing. https://t.co/UMgll4t94M | [X](https://x.com/WhaleInsider/status/2097986246509314464) |
 | @WhaleInsider | Thu Sep 10 09:20:07 +0000 2026 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6 | [X](https://x.com/WhaleInsider/status/2097978417425592472) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 19:19:06 +0000 2026 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free app on the Apple App Store https://t.co/YXWhsxUk7e | [X](https://x.com/StockMKTNewz/status/2097766765937721570) |
 | @StockMKTNewz | Wed Sep 09 19:20:17 +0000 2026 | Here is a first look at Apple’s new foldable iPhone Duo  https://t.co/vLMMmP452S | [X](https://x.com/StockMKTNewz/status/2097767066170224987) |
 | @WhaleInsider | Wed Sep 09 16:52:06 +0000 2026 | JUST IN: Lightfield raises $47 million Series A, led by a16z, to make customer context usable by A.I agents. https://t.co/MQT8C6r18G | [X](https://x.com/WhaleInsider/status/2097729772079976501) |
-| @WhaleInsider | Wed Sep 09 16:58:48 +0000 2026 | JUST IN: Copper hits fresh record of $14,802.50/ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. https://t.co/azHFdx7JLX | [X](https://x.com/WhaleInsider/status/2097731459935043753) |
 
 ## 选题推荐
 
@@ -166,6 +166,7 @@
 | 1 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical… | WhaleInsider | 16489 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral acros… | WhaleInsider | 15292 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price… | StockMKTNewz | 4978 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. ht… | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3035,6 +3036,13 @@ Charles Schwab's fund family disclosed $4.8M in $XRP ETF shares as collateral ac
 
 JPMorgan just upgraded Meta Platforms $META to Overweight from Neutral with an $820 price target.
 
+### XRP prediction markets price 72% chance above $1.50 in September
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-xrp-above-150-september/when2buy-image-model.png`
+
+Prediction markets price a 72% chance of XRP trading above $1.50 in September.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3245,6 +3253,11 @@ JPMorgan just upgraded Meta Platforms $META to Overweight from Neutral with an $
 
 ## 最近运行
 
+- `2026-09-10T10:34:06Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:33:58.514215+00:00` **produce / succeeded** — Produced the newest fresh XRP package with a verified prediction-market fact and exact-logo composite.
+- `2026-09-10T10:32:02Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
+- `2026-09-10T10:30:28Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T10:16:33Z` **full / partial** — Scanned both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, produced and QA-checked the newest Meta package, and withheld submission because the financial claim lacked current authoritative verification. pkg-20260910-meta-jpmorgan-overweight-820 marked failed as a recoverable safety stop; no Postiz task was accepted.
 - `2026-09-10T10:25:22Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T10:24:48Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3260,8 +3273,3 @@ JPMorgan just upgraded Meta Platforms $META to Overweight from Neutral with an $
 - `2026-09-10T09:50:24Z` **publish / succeeded** — The sole fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T10:21:00Z
 - `2026-09-10T09:48:41.638760+00:00` **produce / succeeded** — Produced the sole newest fresh queue package with an inspected image-model visual and exact-logo composite.
 - `2026-09-10T09:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).
-- `2026-09-10T09:46:29Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:45:34Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T09:33:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:33:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).
-- `2026-09-10T09:32:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
