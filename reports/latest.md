@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T13:21:33.303990+00:00`
+- 状态更新：`2026-09-10T13:37:14.738554+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**520**
-- 待选选题：**447**
-- 待发布制作包：**4**
-- 已验证发布：**203**
+- 对标帖子快照：**522**
+- 待选选题：**449**
+- 待发布制作包：**3**
+- 已验证发布：**204**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 13:16:50 +0000 2026 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, according to code uncovered in iOS 27 - MacRumors https://t.co/TALODstWfN | [X](https://x.com/StockMKTNewz/status/2098037988483563998) |
+| @StockMKTNewz | Thu Sep 10 13:24:24 +0000 2026 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | [X](https://x.com/StockMKTNewz/status/2098039891233833362) |
 | @StockMKTNewz | Thu Sep 10 13:03:58 +0000 2026 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show:  “We've now stacked 845,000 Bitcoin on our balance sheet, 4% of all the Bitcoin that will ever exist. So we're also the largest holder of Bitcoin in the world at this point in time” https://t.co/IxU9KPBtyc | [X](https://x.com/StockMKTNewz/status/2098034748694188056) |
 | @StockMKTNewz | Thu Sep 10 12:48:54 +0000 2026 | I AM NOW DOWN ON MY TRADE BELOW  There is now just a 39% chance that the 🇺🇸 Fed will leave rates unchanged next week and a 61% chance they raise by 0.25% https://t.co/4iixsUEG5h | [X](https://x.com/StockMKTNewz/status/2098030957466988614) |
 | @StockMKTNewz | Thu Sep 10 12:31:34 +0000 2026 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | [X](https://x.com/StockMKTNewz/status/2098026596380639714) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Thu Sep 10 10:30:50 +0000 2026 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. https://t.co/t5C4t76Uw9 | [X](https://x.com/WhaleInsider/status/2097996211127033977) |
 | @StockMKTNewz | Thu Sep 10 10:14:41 +0000 2026 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price target | [X](https://x.com/StockMKTNewz/status/2097992147404308500) |
 | @WhaleInsider | Thu Sep 10 09:51:14 +0000 2026 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs - SEC filing. https://t.co/UMgll4t94M | [X](https://x.com/WhaleInsider/status/2097986246509314464) |
-| @WhaleInsider | Thu Sep 10 09:20:07 +0000 2026 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6 | [X](https://x.com/WhaleInsider/status/2097978417425592472) |
-| @WhaleInsider | Thu Sep 10 08:11:05 +0000 2026 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/WvRbXfAQYF | [X](https://x.com/WhaleInsider/status/2097961042886189444) |
 
 ## 选题推荐
 
@@ -177,6 +177,7 @@
 | 1 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | StockMKTNewz | 19446 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | I AM NOW DOWN ON MY TRADE BELOW There is now just a 39% chance that the 🇺🇸 Fed will leave ra… | StockMKTNewz | 16340 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show: “We've now stacked 845,00… | StockMKTNewz | 11405 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | StockMKTNewz | 10973 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -234,6 +235,7 @@
 | 2 | China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2… | StockMKTNewz | 5448 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | PALANTIR EVENT TODAY Palantir $PLTR just confirmed that its AIPCon 11 event will be taking p… | StockMKTNewz | 8731 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | StockMKTNewz | 11891 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, acco… | StockMKTNewz | 13898 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3088,7 +3090,7 @@ Robinhood Chain stock tokens generated more than $4B in DEX volume over the past
 
 ### TSMC August sales jump 53.3%
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-tsmc-august-sales/when2buy-image-model.png`
 
 TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached about $107.1B, up 39% YoY.
@@ -3120,6 +3122,13 @@ Markets now price a 61% chance of a 25 bp Fed hike at next week’s September 15
 - 配图：`deliverables/pkg-20260910-strategy-bitcoin-treasury/when2buy-image-model.png`
 
 Strategy $MSTR now holds approximately 845,050 Bitcoin — about 4% of all Bitcoin that will ever exist.  It is the world's largest corporate Bitcoin holder.
+
+### Apple Visual Intelligence ads
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-apple-visual-intelligence-ads/when2buy-image.png`
+
+Apple $AAPL may be exploring ads inside Visual Intelligence features.  The possibility comes from code uncovered in iOS 27.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3326,12 +3335,19 @@ Strategy $MSTR now holds approximately 845,050 Bitcoin — about 4% of all Bitco
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
+| Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098035293232500991) |
+| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 
 ## 最近运行
 
+- `2026-09-10T13:37:01Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T13:35:40.852574+00:00` **produce / succeeded** — Produced one newest fresh Apple Visual Intelligence package with generated entity visual and exact-logo compositing.
+- `2026-09-10T13:33:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 0 new post(s).
+- `2026-09-10T13:32:57Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T13:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 2 new post(s).
+- `2026-09-10T13:31:00Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T13:21:33Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced minimum Postiz interval; no submission was accepted and the ready package remains recoverable before source expiry. minimum_interval; retryAt=2026-09-10T13:20:38Z
 - `2026-09-10T13:19:41Z` **produce / succeeded** — Produced the sole newest fresh Strategy Bitcoin treasury package with an inspected image-model visual and exact-logo composite.
 - `2026-09-10T13:16:49Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3346,9 +3362,3 @@ Strategy $MSTR now holds approximately 845,050 Bitcoin — about 4% of all Bitco
 - `2026-09-10T12:35:26Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T12:34:39.537576+00:00` **full / succeeded** — Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, and bounded Postiz delivery check. daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.
 - `2026-09-10T12:33:52.187932+00:00` **produce / succeeded** — Produced one newest fresh ECB rate-hike package with verified facts, generated square entity visual, exact-logo composite, and passed visual QA.
-- `2026-09-10T12:31:01Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T12:30:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 2 new post(s).
-- `2026-09-10T12:30:27Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T12:17:20Z` **full / succeeded** — Completed mandated Postiz reconciliation, both-feed Apify scan, media archive, package reconciliation, hard 90-minute queue rebuild, one-package QA, hourly metrics pass, and safe delivery throttle check. daily_limit; no submission accepted; ready package remains recoverable for the next eligible cycle.
-- `2026-09-10T12:16:08Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T12:15:58Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
