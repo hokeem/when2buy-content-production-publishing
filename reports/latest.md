@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T17:49:33.857804+00:00`
+- 状态更新：`2026-09-10T18:05:06.126257+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**542**
-- 待选选题：**468**
-- 待发布制作包：**0**
+- 对标帖子快照：**543**
+- 待选选题：**469**
+- 待发布制作包：**1**
 - 已验证发布：**212**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 17:52:26 +0000 2026 | OpenAI just announced the launch of ChatGPT for Financial Services  “a tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.” https://t.co/XWQpidcI3r | [X](https://x.com/StockMKTNewz/status/2098107342378119604) |
 | @StockMKTNewz | Thu Sep 10 17:30:28 +0000 2026 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT | [X](https://x.com/StockMKTNewz/status/2098101816231616887) |
 | @StockMKTNewz | Thu Sep 10 17:07:02 +0000 2026 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9 | [X](https://x.com/StockMKTNewz/status/2098095920927707212) |
 | @WhaleInsider | Thu Sep 10 16:47:02 +0000 2026 | JUST IN: Another @MetaWin player just turned $2 into $10,000.  They currently have the best rewards of any crypto casino by a large margin.  They just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP | [X](https://x.com/WhaleInsider/status/2098090884558401767) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 12:25:35 +0000 2026 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42 | [X](https://x.com/WhaleInsider/status/2098025091581747413) |
 | @WhaleInsider | Fri Apr 19 18:13:53 +0000 2024 | BREAKING : The first official centralized exchange on Solana $SOLCEX (@SolCex_Exchange) releases demo video. https://t.co/fduhzg9TUk | [X](https://x.com/WhaleInsider/status/1781385748106580171) |
 | @StockMKTNewz | Sat Feb 24 19:13:16 +0000 2024 | Nvidia $NVDA vs Intel $INTC: 2014 to today  https://t.co/NqUFZpQMjE | [X](https://x.com/StockMKTNewz/status/1761469357815652791) |
-| @WhaleInsider | Sat Jan 18 12:05:29 +0000 2025 | $TRUMP to $100.  Be ready. | [X](https://x.com/WhaleInsider/status/1880587310405967993) |
 
 ## 选题推荐
 
@@ -190,6 +190,7 @@
 | 1 | JUST IN: 🇺🇸 Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy h… | WhaleInsider | 7996 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests… | StockMKTNewz | 9156 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0… | StockMKTNewz | 3135 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | OpenAI just announced the launch of ChatGPT for Financial Services “a tailored ChatGPT Work … | StockMKTNewz | 9342 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3247,6 +3248,13 @@ Anthropic accused China’s Moonshot AI of secretly routing thousands of user re
 
 Whole Foods store workers now make more than $21 an hour on average.
 
+### OpenAI launches ChatGPT for Financial Services
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-chatgpt-financial-services/when2buy-image-model.png`
+
+OpenAI just announced ChatGPT for Financial Services.  The tailored ChatGPT Work experience combines built-in financial data with GPT-6 Astra reasoning for research, financial models, and customized client materials.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3273,10 +3281,10 @@ Whole Foods store workers now make more than $21 an hour on average.
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 50 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834296762011792) |
 | Amazon cargo jet overruns Miami runway | 2026-09-07T05:33:00.000Z | 49 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834207557525961) |
 | Tesla starts paid Cybercab rides | 2026-09-07T08:32:00.000Z | 49 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879420590149937) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 49 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Google secures Loviisa nuclear power through 2050 | 2026-09-09T14:00:00.000Z | 49 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097687737923178946) |
 | Ford Fathom: reported 100K+ first-year sales target | 2026-09-03T08:12:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095424711853584893) |
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 48 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
@@ -3289,8 +3297,8 @@ Whole Foods store workers now make more than $21 an hour on average.
 | UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
-| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
-| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
+| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
+| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:50:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097774892167156048) |
@@ -3322,10 +3330,10 @@ Whole Foods store workers now make more than $21 an hour on average.
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
+| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 | IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097614505312506296) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
-| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
 | Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
@@ -3369,13 +3377,14 @@ Whole Foods store workers now make more than $21 an hour on average.
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
+| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
 | Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
-| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
+| Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -3401,6 +3410,7 @@ Whole Foods store workers now make more than $21 an hour on average.
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 7 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
+| Whole Foods store workers average more than $21 an hour | 2026-09-10T17:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098106569653473354) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3409,6 +3419,7 @@ Whole Foods store workers now make more than $21 an hour on average.
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
+| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3444,29 +3455,31 @@ Whole Foods store workers now make more than $21 an hour on average.
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
+| Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
+| Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Robinhood Chain generates 17,171 ETH in revenue | 2026-09-09T06:10:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568335147962382) |
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
-| Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
-| Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
-| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
-| Whole Foods store workers average more than $21 an hour | 2026-09-10T17:48:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098106569653473354) |
 
 ## 最近运行
 
+- `2026-09-10T18:03:57Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-10T19:32:00Z
+- `2026-09-10T18:03:48.896255Z` **produce / succeeded** — Produced one newest fresh ChatGPT for Financial Services package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T18:01:26Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T18:01:18Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T18:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T17:49:23Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T17:48:36Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T17:47:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3482,8 +3495,3 @@ Whole Foods store workers now make more than $21 an hour on average.
 - `2026-09-10T17:16:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).
 - `2026-09-10T17:04:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T17:03:21Z` **produce / succeeded** — Produced one newest fresh Pentagon AI package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T17:01:12Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T17:01:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 4 new post(s).
-- `2026-09-10T16:47:36Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T16:46:33Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T16:46:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
