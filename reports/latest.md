@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T03:08:22.138071+00:00`
+- 状态更新：`2026-09-10T03:16:56.968335+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**488**
 - 待选选题：**426**
@@ -3204,6 +3204,8 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 
 ## 最近运行
 
+- `2026-09-10T03:16:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T03:16:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T03:08:22Z` **full / succeeded** — Hourly metrics collection, Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-10T03:07:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T03:07:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
@@ -3222,5 +3224,3 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 - `2026-09-10T02:26:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
 - `2026-09-10T02:26:05Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T02:16:23Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-10T02:16:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T02:16:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
