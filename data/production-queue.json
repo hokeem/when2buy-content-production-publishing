@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T17:31:23Z",
+  "generatedAt": "2026-09-10T17:47:23Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -7,8 +7,8 @@
       "rank": 1,
       "benchmarkPostId": "2098101816231616887",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260910-whole-foods-21-hour-wage",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098101816231616887",
       "originalText": "The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT",
       "originalMediaUrls": [
@@ -42,7 +42,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 0.9,
+        "ageMinutes": 16.9,
         "expiresAt": "2026-09-10T19:00:28Z",
         "ttlMinutes": 90
       },
@@ -87,7 +87,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 34.8,
+        "ageMinutes": 50.8,
         "expiresAt": "2026-09-10T18:26:36Z",
         "ttlMinutes": 90
       },
@@ -132,7 +132,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 39.7,
+        "ageMinutes": 55.7,
         "expiresAt": "2026-09-10T18:21:42Z",
         "ttlMinutes": 90
       },
@@ -183,7 +183,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 44.4,
+        "ageMinutes": 60.4,
         "expiresAt": "2026-09-10T18:17:02Z",
         "ttlMinutes": 90
       },
@@ -234,7 +234,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 66.6,
+        "ageMinutes": 82.6,
         "expiresAt": "2026-09-10T17:54:47Z",
         "ttlMinutes": 90
       },

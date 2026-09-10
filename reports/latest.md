@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T17:33:56.881036+00:00`
+- 状态更新：`2026-09-10T17:49:33.857804+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**542**
 - 待选选题：**468**
-- 待发布制作包：**1**
-- 已验证发布：**211**
+- 待发布制作包：**0**
+- 已验证发布：**212**
 
 ## 对标账号扫描
 
@@ -3242,7 +3242,7 @@ Anthropic accused China’s Moonshot AI of secretly routing thousands of user re
 
 ### Whole Foods store workers average more than $21 an hour
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260910-whole-foods-21-hour-wage/when2buy-image-model.png`
 
 Whole Foods store workers now make more than $21 an hour on average.
@@ -3463,9 +3463,15 @@ Whole Foods store workers now make more than $21 an hour on average.
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
+| Whole Foods store workers average more than $21 an hour | 2026-09-10T17:48:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098106569653473354) |
 
 ## 最近运行
 
+- `2026-09-10T17:49:23Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T17:48:36Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T17:47:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T17:47:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
+- `2026-09-10T17:46:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 12 eligible originals and added 0 new post(s).
 - `2026-09-10T17:31:00Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced minimum interval; no Postiz submission was accepted and the ready package remains recoverable. minimum_interval; retryAt=2026-09-10T17:34:24Z
 - `2026-09-10T17:33:24Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T17:31:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3481,8 +3487,3 @@ Whole Foods store workers now make more than $21 an hour on average.
 - `2026-09-10T16:47:36Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T16:46:33Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T16:46:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
-- `2026-09-10T16:45:25Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T16:35:19Z` **publish / succeeded** — Postiz delivery safely deferred before acceptance because the 15-minute minimum submission interval was active. minimum_interval; retryAt=2026-09-10T16:35:49Z; package remains ready and must not be retried before the next scheduled cycle.
-- `2026-09-10T16:34:06Z` **produce / succeeded** — Produced one newest fresh Ripple GSmart package with generated entity visual and exact-logo composite.
-- `2026-09-10T16:31:41Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T16:31:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).

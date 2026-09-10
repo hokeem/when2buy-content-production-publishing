@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T17:33:56.881036+00:00",
+  "updatedAt": "2026-09-10T17:49:33.857804+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -35008,7 +35008,7 @@
       "benchmarkPostId": "2098101816231616887",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098101816231616887",
       "title": "Whole Foods store workers average more than $21 an hour",
-      "status": "ready",
+      "status": "published",
       "postText": "Whole Foods store workers now make more than $21 an hour on average.",
       "mirroredFacts": [
         "The average Whole Foods store worker now makes more than $21 an hour."
@@ -35017,7 +35017,7 @@
         "https://www.aboutamazon.com/about-us/public-policy/workforce"
       ],
       "imagePath": "deliverables/pkg-20260910-whole-foods-21-hour-wage/when2buy-image-model.png",
-      "createdAt": "2026-09-10T17:33:24Z",
+      "createdAt": "2026-09-10T17:48:36Z",
       "sourceExpiresAt": "2026-09-10T19:00:28Z",
       "visualProduction": {
         "method": "image_model",
@@ -35025,7 +35025,7 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qa": {
-          "inspectedAt": "2026-09-10T17:33:24Z",
+          "inspectedAt": "2026-09-10T17:48:36Z",
           "result": "passed",
           "checks": [
             "square 1254x1254 PNG",
@@ -35037,7 +35037,12 @@
             "exact repository logo composited once in lower-right clear space"
           ]
         }
-      }
+      },
+      "postizPostId": "cmtvtn3vx0agmlm0y1mgfybok",
+      "postizSubmissionAt": "2026-09-10T17:48:56Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T17:49:23Z",
+      "publishedAt": "2026-09-10T17:48:00.000Z"
     }
   ],
   "posts": [
@@ -38938,6 +38943,24 @@
         "windowStart": "2026-09-10T17:19:00Z",
         "windowEnd": "2026-09-13T17:19:00Z",
         "lastAttemptAt": "2026-09-10T17:20:06.862039Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098106569653473354",
+      "packageId": "pkg-20260910-whole-foods-21-hour-wage",
+      "title": "Whole Foods store workers average more than $21 an hour",
+      "text": "Whole Foods store workers now make more than $21 an hour on average.",
+      "status": "published",
+      "publishedAt": "2026-09-10T17:48:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098106569653473354",
+      "postizPostId": "cmtvtn3vx0agmlm0y1mgfybok",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T17:48:00Z",
+        "windowEnd": "2026-09-13T17:48:00Z",
+        "lastAttemptAt": "2026-09-10T17:49:33.345051Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -238041,6 +238064,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-10T17:20:06.862039Z"
       }
+    },
+    {
+      "id": "metric-2098106569653473354-20260910T174933Z",
+      "postId": "2098106569653473354",
+      "observedAt": "2026-09-10T17:49:33.345051Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvtn3vx0agmlm0y1mgfybok",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvtn3vx0agmlm0y1mgfybok",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T17:49:33.345051Z"
+      }
     }
   ],
   "experiments": [],
@@ -255252,6 +255317,62 @@
       "reason": "minimum_interval; retryAt=2026-09-10T17:34:24Z",
       "packageId": "pkg-20260910-whole-foods-21-hour-wage",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T174634Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:46:34Z",
+      "completedAt": "2026-09-10T17:46:34Z",
+      "summary": "Apify scanned both benchmark accounts; captured 12 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T174711Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:47:11Z",
+      "completedAt": "2026-09-10T17:47:11Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T174723Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:47:23Z",
+      "completedAt": "2026-09-10T17:47:23Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T174836Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:48:36Z",
+      "completedAt": "2026-09-10T17:48:36Z",
+      "summary": "Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260910-whole-foods-21-hour-wage"
+      ]
+    },
+    {
+      "id": "run-20260910T174923Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T17:49:23Z",
+      "completedAt": "2026-09-10T17:49:23Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
