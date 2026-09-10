@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T07:04:54.088277+00:00`
+- 状态更新：`2026-09-10T07:20:04.644932+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**489**
 - 待选选题：**427**
 - 待发布制作包：**0**
-- 已验证发布：**201**
+- 已验证发布：**202**
 
 ## 对标账号扫描
 
@@ -2998,7 +2998,7 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 
 ### Spot Bitcoin ETFs show $120.24M early net outflow
 
-- 状态：`failed`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260910-btc-spot-etf-120m-early-outflow/when2buy-image-model.png`
 
 U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
@@ -3209,9 +3209,16 @@ U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
+| Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097943932235853884) |
 
 ## 最近运行
 
+- `2026-09-10T07:15:55Z` **full / succeeded** — Apify scanned both benchmark accounts, archived media, reconciled package and Postiz delivery state, rebuilt the hard-TTL queue, and completed reporting; no new eligible benchmark posts or fresh queue items were available, so no new package was produced or submitted. The current freshness-first production queue was empty. One previously accepted Postiz delivery was reconciled to its verified public X URL without retrying it.
+- `2026-09-10T07:19:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T07:19:09.146813Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
+- `2026-09-10T07:17:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T07:17:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 54 eligible originals and added 0 new post(s).
+- `2026-09-10T07:15:58Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T06:56:10Z` **full / partial** — Apify collection from both benchmark accounts, media archive, verified-package reconciliation, hard-TTL queue rebuild, one image-model package, Postiz submission, and reporting completed; the accepted delivery produced no verified public X URL and was not retried. Postiz accepted cmtv6horn0360lm0ys12yk6lb but did not return PUBLISHED plus a public x.com release URL within the verification window.
 - `2026-09-10T07:03:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T07:03:30.004818+00:00` **publish / partial** — Postiz delivery reached a terminal error after safe retries. Postiz accepted delivery cmtv6horn0360lm0ys12yk6lb but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission.
@@ -3226,9 +3233,3 @@ U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
 - `2026-09-10T06:07:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T06:07:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-10T06:05:57Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T05:57:53.630169Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
-- `2026-09-10T05:56:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T05:56:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-10T05:45:59Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
-- `2026-09-10T05:47:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T05:47:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 117 eligible originals and added 0 new post(s).

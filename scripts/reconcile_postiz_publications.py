@@ -77,8 +77,12 @@ def main():
             published = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
             window_end = iso(published + timedelta(hours=72))
             public_url = item['releaseURL'].replace('twitter.com', 'x.com')
-            if package and package.get('status') in ('ready', 'publishing'):
+            if package and package.get('status') != 'published':
                 package.update({'status': 'published', 'postizPostId': postiz_id, 'publishedAt': published_at, 'deliveryState': 'PUBLISHED', 'deliveryCheckedAt': iso(now)})
+                package.pop('deliveryError', None)
+                package.pop('expiredAt', None)
+                package.pop('expiryReason', None)
+                package.pop('sourceExpiresAt', None)
             duplicate_of = None
             if package:
                 sibling = next((p for p in document.get('posts', []) if p.get('packageId') == package.get('id')), None)

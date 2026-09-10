@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T07:04:54.088277+00:00",
+  "updatedAt": "2026-09-10T07:20:04.644932+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -31587,7 +31587,7 @@
       "benchmarkPostId": "2097937311249949144",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097937311249949144",
       "title": "Spot Bitcoin ETFs show $120.24M early net outflow",
-      "status": "failed",
+      "status": "published",
       "postText": "U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.",
       "mirroredFacts": [
         "U.S. spot Bitcoin ETFs are showing $120.24 million in total net outflows in early flow data."
@@ -31598,7 +31598,6 @@
       ],
       "imagePath": "deliverables/pkg-20260910-btc-spot-etf-120m-early-outflow/when2buy-image-model.png",
       "createdAt": "2026-09-10T06:59:00Z",
-      "sourceExpiresAt": "2026-09-10T08:06:47Z",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Use case: ads-marketing; square 1:1 premium X financial-news visual about U.S. spot Bitcoin ETFs showing $120.24 million in early net outflow data; cinematic near-black institutional ETF trading floor with a luminous physical Bitcoin coin, fund-flow terminals and restrained red capital-flow visualization; exact text $120.24M, BTC ETF OUTFLOWS, EARLY FLOW DATA; no generated logo, source, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark or extra numbers; lower-left logo-safe area.",
@@ -31618,7 +31617,10 @@
           ]
         }
       },
-      "deliveryError": "Postiz accepted delivery cmtv6horn0360lm0ys12yk6lb but did not reach PUBLISHED with a public x.com release URL within the verification window; retry is unsafe because it could duplicate an accepted submission."
+      "postizPostId": "cmtv6horn0360lm0ys12yk6lb",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-10T07:19:09.146813Z"
     }
   ],
   "posts": [
@@ -35248,6 +35250,22 @@
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
+    },
+    {
+      "id": "2097943932235853884",
+      "packageId": "pkg-20260910-btc-spot-etf-120m-early-outflow",
+      "title": "Spot Bitcoin ETFs show $120.24M early net outflow",
+      "text": "U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.",
+      "status": "published",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "url": "https://x.com/_When2buy/status/2097943932235853884",
+      "postizPostId": "cmtv6horn0360lm0ys12yk6lb",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-10T07:00:00.000Z",
+        "windowEnd": "2026-09-13T07:00:00Z"
+      },
+      "reconciledAt": "2026-09-10T07:19:09.146813Z"
     }
   ],
   "metricSnapshots": [
@@ -223518,6 +223536,64 @@
       "completedAt": "2026-09-10T07:05:00Z",
       "summary": "Apify collection from both benchmark accounts, media archive, verified-package reconciliation, hard-TTL queue rebuild, one image-model package, Postiz submission, and reporting completed; the accepted delivery produced no verified public X URL and was not retried.",
       "reason": "Postiz accepted cmtv6horn0360lm0ys12yk6lb but did not return PUBLISHED plus a public x.com release URL within the verification window."
+    },
+    {
+      "id": "run-20260910T071558Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:15:58Z",
+      "completedAt": "2026-09-10T07:15:58Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T071724Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:17:24Z",
+      "completedAt": "2026-09-10T07:17:24Z",
+      "summary": "Apify scanned both benchmark accounts; captured 54 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T071728Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:17:28Z",
+      "completedAt": "2026-09-10T07:17:28Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T071909Z-reconcile",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:19:09.146813Z",
+      "completedAt": "2026-09-10T07:19:09.445658Z",
+      "summary": "Reconciled 1 published and 0 failed Postiz deliveries into state.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T071913Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:19:13Z",
+      "completedAt": "2026-09-10T07:19:13Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T071938Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:15:55Z",
+      "completedAt": "2026-09-10T07:19:38Z",
+      "summary": "Apify scanned both benchmark accounts, archived media, reconciled package and Postiz delivery state, rebuilt the hard-TTL queue, and completed reporting; no new eligible benchmark posts or fresh queue items were available, so no new package was produced or submitted.",
+      "reason": "The current freshness-first production queue was empty. One previously accepted Postiz delivery was reconciled to its verified public X URL without retrying it."
     }
   ],
   "deliveryCircuitBreaker": {
