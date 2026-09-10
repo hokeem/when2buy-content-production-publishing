@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T11:02:40.543672+00:00",
+  "updatedAt": "2026-09-10T11:19:35.032097+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13765,6 +13765,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098005603591307474",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098005603591307474",
+      "postedAt": "Thu Sep 10 11:08:09 +0000 2026",
+      "text": "Here is every stock with a single letter stock ticker\n\n$A - Agilent \n$B - Barrick Mining\n$C - Citi\n$D - Dominion Energy\n$E - Eni\n$F - Ford\n$G - Genpact\n$H - Hyatt Hotel\n$I \n$J - Jacobs Solutions\n$K \n$L - Lowes\n$M - Macy's\n$N  \n$O - Realty Income\n$P - Everpure\n$Q - Qnity\n$R - Ryder\n$S - SentinelOne\n$T - AT&T\n$U - Unity Software\n$V - Visa\n$W - Wayfair\n$X \nsolana:BksqjaKyJqHV5qqbKyAgwZ66JhGKZc33rGkMyKjApump \n$Z - Zillow",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 12,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7690
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T11:16:33Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -22068,6 +22088,25 @@
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098005603591307474",
+      "rank": 1,
+      "title": "Here is every stock with a single letter stock ticker $A - Agilent $B - Barrick Mining $C - …",
+      "benchmarkPostId": "2098005603591307474",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098005603591307474",
+      "score": 8180,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T11:16:36Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -32353,6 +32392,40 @@
             "not a pure-text card or generic-radar visual",
             "exact repository logo composited once"
           ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-single-letter-stock-tickers",
+      "benchmarkPostId": "2098005603591307474",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098005603591307474",
+      "title": "Single-letter stock tickers",
+      "status": "ready",
+      "postText": "Single-letter stock tickers are a rare club: $A, $B, $C, $D, $E, $F, $G, $H, $J, $L, $M, $O, $P, $Q, $R, $S, $T, $U, $V and $W.",
+      "mirroredFacts": [
+        "The captured benchmark post lists U.S. stock tickers represented by a single letter.",
+        "Exchange-maintained symbol directories confirm the one-letter symbols $A, $B, $C, $D, $E, $F, $G, $H, $J, $L, $M, $O, $P, $Q, $R, $S, $T, $U, $V and $W."
+      ],
+      "verificationSources": [
+        "https://www.nasdaqtrader.com/Trader.aspx?id=symboldirdefs",
+        "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqtraded.txt",
+        "https://www.nasdaqtrader.com/dynamic/symdir/otherlisted.txt",
+        "https://x.com/StockMKTNewz/status/2098005603591307474"
+      ],
+      "imagePath": "deliverables/pkg-20260910-single-letter-stock-tickers/when2buy-image-model.png",
+      "createdAt": "2026-09-10T11:18:47Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square entity-led financial-news visual of a dark U.S. stock exchange trading floor with illuminated single-letter ticker panels A, B, C, D, E, F, G, H, J, L, M, O, P, Q, R, S, T, U, V and W represented through a premium market-data display; black near-black base, white type, controlled red accents, phone-feed readability, no headline text, no watermark, no logo because the exact repository logo is composited afterward once.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "qaStatus": "passed",
+        "qaChecks": {
+          "square": "passed",
+          "minimumSize": "passed",
+          "entityLed": "passed",
+          "logoCompositedOnce": "passed",
+          "copyProofread": "passed"
         }
       }
     }
@@ -233701,6 +233774,53 @@
       "completedAt": "2026-09-10T11:02:06Z",
       "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T111633Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:16:33Z",
+      "completedAt": "2026-09-10T11:16:33Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T111636Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:16:36Z",
+      "completedAt": "2026-09-10T11:16:36Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T111847Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:18:47Z",
+      "completedAt": "2026-09-10T11:18:47Z",
+      "summary": "Produced one newest fresh square entity-led package with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T111935Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:19:35Z",
+      "completedAt": "2026-09-10T11:19:35Z",
+      "summary": "The single newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable before source expiry.",
+      "reason": "daily_limit; retryAt=2026-09-10T12:14:00Z",
+      "delivery": {
+        "packageId": "pkg-20260910-single-letter-stock-tickers",
+        "outcome": "deferred",
+        "accepted": false,
+        "publicUrl": null,
+        "retryAt": "2026-09-10T12:14:00Z"
+      }
     }
   ],
   "deliveryCircuitBreaker": {

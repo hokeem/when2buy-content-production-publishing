@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T11:02:40.543672+00:00`
+- 状态更新：`2026-09-10T11:19:35.032097+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**500**
-- 待选选题：**437**
-- 待发布制作包：**3**
+- 对标帖子快照：**501**
+- 待选选题：**438**
+- 待发布制作包：**4**
 - 已验证发布：**202**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 11:08:09 +0000 2026 | Here is every stock with a single letter stock ticker  $A - Agilent  $B - Barrick Mining $C - Citi $D - Dominion Energy $E - Eni $F - Ford $G - Genpact $H - Hyatt Hotel $I  $J - Jacobs Solutions $K  $L - Lowes $M - Macy's $N   $O - Realty Income $P - Everpure $Q - Qnity $R - Ryder $S - SentinelOne $T - AT&T $U - Unity Software $V - Visa $W - Wayfair $X  solana:BksqjaKyJqHV5qqbKyAgwZ66JhGKZc33rGkMyKjApump  $Z - Zillow | [X](https://x.com/StockMKTNewz/status/2098005603591307474) |
 | @WhaleInsider | Thu Sep 10 10:49:26 +0000 2026 | JUST IN: Nasdaq invests $100 million in Kraken parent Payward at $21 billion valuation. https://t.co/TR3alumzk7 | [X](https://x.com/WhaleInsider/status/2098000894960742588) |
 | @StockMKTNewz | Thu Sep 10 10:56:11 +0000 2026 | China 🇨🇳 leader Xi Jinping will be visiting India 🇮🇳 this weekend for the first time since 2019 - Bloomberg https://t.co/tQ4Q6GaEZB | [X](https://x.com/StockMKTNewz/status/2098002593259593965) |
 | @StockMKTNewz | Thu Sep 10 10:59:12 +0000 2026 | Macy's $M stock is up by 5% in pre market trading after reporting earnings  🟢🟢🟢🟢🟢 https://t.co/eriQWyJnII | [X](https://x.com/StockMKTNewz/status/2098003348997697583) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 21:44:09 +0000 2026 | Lockheed Martin $LMT today was awarded a $826 Million modification to a contract with the 🇺🇸 Air Force for the  "Joint Air-to-Surface Standoff Missile and Long Range Anti-Ship Missile Large Lot procurement." https://t.co/wnixi8e7mg | [X](https://x.com/StockMKTNewz/status/2097803271696011418) |
 | @StockMKTNewz | Wed Sep 09 21:02:21 +0000 2026 | The highest end configuration of Apple's $AAPL new foldable iPhone Duo costs $3,199 - Bloomberg https://t.co/Wb153bsrEL | [X](https://x.com/StockMKTNewz/status/2097792751861440932) |
 | @StockMKTNewz | Wed Sep 09 20:54:05 +0000 2026 | Will you be getting the new foldable iPhone? | [X](https://x.com/StockMKTNewz/status/2097790671922872783) |
-| @StockMKTNewz | Wed Sep 09 20:38:12 +0000 2026 | This is how the 🇺🇸 stock market performed today    https://t.co/SLTGZ57oNd | [X](https://x.com/StockMKTNewz/status/2097786675023778262) |
 
 ## 选题推荐
 
@@ -169,6 +169,7 @@
 | 1 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. ht… | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryp… | StockMKTNewz | 4672 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Macy's $M stock is up by 5% in pre market trading after reporting earnings 🟢🟢🟢🟢🟢 https://t.c… | StockMKTNewz | 4427 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Here is every stock with a single letter stock ticker $A - Agilent $B - Barrick Mining $C - … | StockMKTNewz | 8180 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3055,6 +3056,13 @@ Prediction markets price a 72% chance of XRP trading above $1.50 in September.
 
 Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 billion valuation.
 
+### Single-letter stock tickers
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-single-letter-stock-tickers/when2buy-image-model.png`
+
+Single-letter stock tickers are a rare club: $A, $B, $C, $D, $E, $F, $G, $H, $J, $L, $M, $O, $P, $Q, $R, $S, $T, $U, $V and $W.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3265,6 +3273,10 @@ Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 bill
 
 ## 最近运行
 
+- `2026-09-10T11:19:35Z` **publish / succeeded** — The single newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable before source expiry. daily_limit; retryAt=2026-09-10T12:14:00Z
+- `2026-09-10T11:18:47Z` **produce / succeeded** — Produced one newest fresh square entity-led package with exact-logo compositing.
+- `2026-09-10T11:16:36Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T11:16:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-10T11:02:06Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T11:02:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 42 eligible originals and added 3 new post(s).
 - `2026-09-10T11:00:35Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3281,7 +3293,3 @@ Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 bill
 - `2026-09-10T10:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T10:30:28Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T10:16:33Z` **full / partial** — Scanned both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, produced and QA-checked the newest Meta package, and withheld submission because the financial claim lacked current authoritative verification. pkg-20260910-meta-jpmorgan-overweight-820 marked failed as a recoverable safety stop; no Postiz task was accepted.
-- `2026-09-10T10:25:22Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T10:24:48Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T10:19:43Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T10:19:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
