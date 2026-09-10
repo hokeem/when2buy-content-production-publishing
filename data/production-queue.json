@@ -1,47 +1,92 @@
 {
-  "generatedAt": "2026-09-10T19:45:35Z",
+  "generatedAt": "2026-09-10T20:01:28Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098131841609871395",
+      "benchmarkPostId": "2098135120980898075",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098131841609871395",
-      "originalText": "The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/Mega cap funds",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098135120980898075",
+      "originalText": "SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING",
       "originalMediaUrls": [],
       "archivedMedia": [],
       "engagement": {
-        "likes": 5,
-        "replies": 1,
-        "reposts": 2,
-        "quotes": 0,
-        "views": 4700
+        "likes": 76,
+        "replies": 8,
+        "reposts": 7,
+        "quotes": 1,
+        "views": 14168
       },
-      "postedAt": "Thu Sep 10 19:29:47 +0000 2026",
-      "score": 4940,
-      "heatScore": 4940,
+      "postedAt": "Thu Sep 10 19:42:48 +0000 2026",
+      "score": 16418,
+      "heatScore": 16418,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
+        "when2buyFit": 2,
+        "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 19,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 15.8,
-        "expiresAt": "2026-09-10T20:59:47Z",
+        "ageMinutes": 18.7,
+        "expiresAt": "2026-09-10T21:12:48Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
       "rank": 2,
+      "benchmarkPostId": "2098134199727251462",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098134199727251462",
+      "originalText": "Lululemon $LULU stock hit new 52 WEEK LOWS again today https://t.co/17hWbaNrBV",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR4R7r8XcAE67Bv.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4R7r8XcAE67Bv.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098134199727251462-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 60,
+        "replies": 13,
+        "reposts": 5,
+        "quotes": 7,
+        "views": 14559
+      },
+      "postedAt": "Thu Sep 10 19:39:09 +0000 2026",
+      "score": 16949,
+      "heatScore": 16949,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 22.3,
+        "expiresAt": "2026-09-10T21:09:09Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
       "benchmarkPostId": "2098131771296489490",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -85,14 +130,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 16.1,
+        "ageMinutes": 32.0,
         "expiresAt": "2026-09-10T20:59:30Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098129395588173991",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -130,14 +175,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 25.5,
+        "ageMinutes": 41.4,
         "expiresAt": "2026-09-10T20:50:03Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "benchmarkPostId": "2098125939636871240",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -181,14 +226,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 39.3,
+        "ageMinutes": 55.2,
         "expiresAt": "2026-09-10T20:36:19Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "benchmarkPostId": "2098122034635038838",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-robloxians-traction",
@@ -232,45 +277,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 54.8,
+        "ageMinutes": 70.7,
         "expiresAt": "2026-09-10T20:20:48Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098113572123394403",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260910-us-gas-428",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098113572123394403",
-      "originalText": "The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 25,
-        "replies": 16,
-        "reposts": 3,
-        "quotes": 0,
-        "views": 10175
-      },
-      "postedAt": "Thu Sep 10 18:17:11 +0000 2026",
-      "score": 11465,
-      "heatScore": 11465,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 88.4,
-        "expiresAt": "2026-09-10T19:47:11Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

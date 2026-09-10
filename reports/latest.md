@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T19:48:37.997147+00:00`
+- 状态更新：`2026-09-10T20:04:56.196801+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**551**
-- 待选选题：**477**
-- 待发布制作包：**2**
-- 已验证发布：**214**
+- 对标帖子快照：**553**
+- 待选选题：**479**
+- 待发布制作包：**1**
+- 已验证发布：**215**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 19:39:09 +0000 2026 | Lululemon $LULU stock hit new 52 WEEK LOWS again today https://t.co/17hWbaNrBV | [X](https://x.com/StockMKTNewz/status/2098134199727251462) |
+| @StockMKTNewz | Thu Sep 10 19:42:48 +0000 2026 | SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING | [X](https://x.com/StockMKTNewz/status/2098135120980898075) |
 | @StockMKTNewz | Thu Sep 10 19:20:03 +0000 2026 | Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw | [X](https://x.com/StockMKTNewz/status/2098129395588173991) |
 | @WhaleInsider | Thu Sep 10 19:29:30 +0000 2026 | JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZAADpWsg | [X](https://x.com/WhaleInsider/status/2098131771296489490) |
 | @StockMKTNewz | Thu Sep 10 19:29:47 +0000 2026 | The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/Mega cap funds | [X](https://x.com/StockMKTNewz/status/2098131841609871395) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 14:37:03 +0000 2026 | This is how every stock in the S&amp;P 500 has performed so far in today's early trading https://t.co/IxAtm1BwL9 | [X](https://x.com/StockMKTNewz/status/2098058173802287518) |
 | @StockMKTNewz | Thu Sep 10 14:45:27 +0000 2026 | Walmart $WMT will start delivering food orders from Papa John's $PZZA as it expands into restaurant delivery - Bloomberg https://t.co/Id89GGILxp | [X](https://x.com/StockMKTNewz/status/2098060288830459918) |
 | @WhaleInsider | Thu Sep 10 14:03:16 +0000 2026 | JUST IN: 🇺🇸 Odds of a 25 bps rate hike this month rise to a new all-time high of 63%, per Kalshi traders. https://t.co/m0tx3iAliN | [X](https://x.com/WhaleInsider/status/2098049673999065518) |
-| @StockMKTNewz | Thu Sep 10 13:49:07 +0000 2026 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPngoIJya | [X](https://x.com/StockMKTNewz/status/2098046112305119263) |
-| @StockMKTNewz | Thu Sep 10 13:16:50 +0000 2026 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, according to code uncovered in iOS 27 - MacRumors https://t.co/TALODstWfN | [X](https://x.com/StockMKTNewz/status/2098037988483563998) |
 
 ## 选题推荐
 
@@ -196,6 +196,7 @@
 | 1 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing… | WhaleInsider | 15585 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M c… | WhaleInsider | 8464 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/… | StockMKTNewz | 4940 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING | StockMKTNewz | 16418 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -261,6 +262,7 @@
 | 2 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock a… | StockMKTNewz | 8105 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, … | WhaleInsider | 17262 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZ… | WhaleInsider | 9508 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Lululemon $LULU stock hit new 52 WEEK LOWS again today https://t.co/17hWbaNrBV | StockMKTNewz | 16949 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3272,7 +3274,7 @@ U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 
 
 ### U.S. regular gasoline reaches $4.28 per gallon
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-us-gas-428/when2buy-image-model.png`
 
 U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
@@ -3297,6 +3299,13 @@ Nu is integrating USDC into a new multi-currency digital account.  Nu serves mor
 - 配图：`deliverables/pkg-20260910-vanguard-decade-etfs/when2buy-image-model.png`
 
 At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last decade.
+
+### SpaceX says its next Starship flight will be revenue-generating
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-starship-revenue-flight/when2buy-image-model.png`
+
+SpaceX’s next Starship flight will be revenue-generating.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3332,12 +3341,12 @@ At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last 
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
+| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 42 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
-| UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 38 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
@@ -3427,6 +3436,7 @@ At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last 
 | Dell Technologies ranks third among S&P 500 stocks so far in 2026, with $DELL up 316% | 2026-09-07T12:51:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944502418387234) |
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
+| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
@@ -3434,7 +3444,6 @@ At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last 
 | Robinhood prediction markets overtake stock trading | 2026-09-07T06:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849491324551540) |
 | UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
-| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
@@ -3517,9 +3526,15 @@ At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last 
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
+| SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098140676957569227) |
 
 ## 最近运行
 
+- `2026-09-10T20:04:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T20:03:35Z` **produce / succeeded** — Produced one newest fresh SpaceX Starship revenue-generating package with exact-logo compositing.
+- `2026-09-10T20:01:28Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T20:01:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 121 eligible originals and added 2 new post(s).
+- `2026-09-10T20:00:34Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T19:48:23Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T19:47:41.498812+00:00` **produce / succeeded** — Produced one newest fresh Vanguard ETF package with exact-logo compositing.
 - `2026-09-10T19:45:35Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3535,8 +3550,3 @@ At Vanguard, only growth and large/mega-cap ETFs beat the S&P 500 over the last 
 - `2026-09-10T19:05:07.400591+00:00` **produce / succeeded** — Produced the single newest fresh Roblox-themed $ROBLOXIANS package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T19:03:26Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T19:02:59Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T19:02:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
-- `2026-09-10T19:00:43Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T19:00:31Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:46:40Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T18:46:20Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 40 eligible originals and added 0 new post(s).
