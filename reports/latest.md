@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T13:51:45.134834+00:00`
+- 状态更新：`2026-09-10T14:04:04.701436+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**522**
-- 待选选题：**449**
-- 待发布制作包：**4**
-- 已验证发布：**204**
+- 对标帖子快照：**523**
+- 待选选题：**450**
+- 待发布制作包：**1**
+- 已验证发布：**205**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 13:49:07 +0000 2026 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPngoIJya | [X](https://x.com/StockMKTNewz/status/2098046112305119263) |
 | @StockMKTNewz | Thu Sep 10 13:16:50 +0000 2026 | Apple $AAPL may be exploring a way to show ads inside its Visual Intelligence features, according to code uncovered in iOS 27 - MacRumors https://t.co/TALODstWfN | [X](https://x.com/StockMKTNewz/status/2098037988483563998) |
 | @StockMKTNewz | Thu Sep 10 13:24:24 +0000 2026 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | [X](https://x.com/StockMKTNewz/status/2098039891233833362) |
 | @StockMKTNewz | Thu Sep 10 13:03:58 +0000 2026 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show:  “We've now stacked 845,000 Bitcoin on our balance sheet, 4% of all the Bitcoin that will ever exist. So we're also the largest holder of Bitcoin in the world at this point in time” https://t.co/IxU9KPBtyc | [X](https://x.com/StockMKTNewz/status/2098034748694188056) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 10:42:49 +0000 2026 | The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken at a valuation of $21 Billion - Bloomberg https://t.co/pteuXcmSIu | [X](https://x.com/StockMKTNewz/status/2097999228006023573) |
 | @WhaleInsider | Thu Sep 10 10:30:50 +0000 2026 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. https://t.co/t5C4t76Uw9 | [X](https://x.com/WhaleInsider/status/2097996211127033977) |
 | @StockMKTNewz | Thu Sep 10 10:14:41 +0000 2026 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price target | [X](https://x.com/StockMKTNewz/status/2097992147404308500) |
-| @WhaleInsider | Thu Sep 10 09:51:14 +0000 2026 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs - SEC filing. https://t.co/UMgll4t94M | [X](https://x.com/WhaleInsider/status/2097986246509314464) |
 
 ## 选题推荐
 
@@ -178,6 +178,7 @@
 | 1 | I AM NOW DOWN ON MY TRADE BELOW There is now just a 39% chance that the 🇺🇸 Fed will leave ra… | StockMKTNewz | 16340 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Strategy $MSTR CEO Phong Le said this on the @WOLF_Financial show: “We've now stacked 845,00… | StockMKTNewz | 11405 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Elon Musk owned The Boring Company is now worth $23 Billion https://t.co/r4z0kuv10A | StockMKTNewz | 10973 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Jerome Powell just sold his waterfront house in Maryland for $7.2 Million https://t.co/TXPng… | StockMKTNewz | 14927 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3097,14 +3098,14 @@ TSMC reported August sales of $16.35B, up 53.3% YoY.  2026 revenue has reached a
 
 ### ECB hikes rates by 25 bps
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-ecb-rate-hike/when2buy-image.png`
 
 The ECB just hiked its deposit rate by 25 bps to 2.50%.  It is the second rate hike this year as oil prices fuel inflation.
 
 ### U.S. PPI rises 5.4% year over year
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-ppi-54-yoy/when2buy-image-model.png`
 
 U.S. producer prices rose 5.4% year over year in August.  The reading came in above the 5.3% expectation.
@@ -3132,7 +3133,7 @@ Apple $AAPL may be exploring ads inside Visual Intelligence features.  The possi
 
 ### The Boring Company reaches $23B valuation
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260910-boring-company-23b-valuation/when2buy-image.png`
 
 The Boring Company is now valued at $23 billion after raising $3 billion in a new funding round.
@@ -3168,7 +3169,7 @@ The Boring Company is now valued at $23 billion after raising $3 billion in a ne
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
-| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 45 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
+| Ford faces fresh scrutiny over China partnerships | 2026-09-09T05:51:00.000Z | 46 | 1 | 0 | 1 | [X](https://x.com/_When2buy/status/2097563734508245248) |
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
@@ -3201,13 +3202,14 @@ The Boring Company is now valued at $23 billion after raising $3 billion in a ne
 | Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 25 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
+| Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770249135530085) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
-| Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770249135530085) |
 | Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
+| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
@@ -3225,12 +3227,12 @@ The Boring Company is now valued at $23 billion after raising $3 billion in a ne
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 17 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
+| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
-| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
@@ -3338,17 +3340,22 @@ The Boring Company is now valued at $23 billion after raising $3 billion in a ne
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
+| Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
-| Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
+| The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098049818765721963) |
 
 ## 最近运行
 
+- `2026-09-10T14:04:04Z` **publish / succeeded** — Reconciled 1 published, 0 pending, and 0 terminal Postiz deliveries.
+- `2026-09-10T14:02:14Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T14:01:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T14:01:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
+- `2026-09-10T14:00:37Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T13:51:45Z` **full / succeeded** — Completed preflight, Postiz reconciliation, both-feed Apify scan, media archive, status reconciliation, hard 90-minute queue rebuild, one-package production and QA, metrics check, report rendering, and bounded Postiz delivery check. Deferred safely: minimum 15-minute submission interval; package remains ready and must not be retried before the next eligible cycle.
 - `2026-09-10T13:50:42Z` **produce / succeeded** — Produced the one newest fresh Boring Company package with image-model visual, factual overlay, and exact-logo composite.
 - `2026-09-10T13:48:06Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3364,8 +3371,3 @@ The Boring Company is now valued at $23 billion after raising $3 billion in a ne
 - `2026-09-10T13:21:33Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced minimum Postiz interval; no submission was accepted and the ready package remains recoverable before source expiry. minimum_interval; retryAt=2026-09-10T13:20:38Z
 - `2026-09-10T13:19:41Z` **produce / succeeded** — Produced the sole newest fresh Strategy Bitcoin treasury package with an inspected image-model visual and exact-logo composite.
 - `2026-09-10T13:16:49Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T13:16:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-10T13:06:14Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T13:02:27Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T13:01:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-10T12:49:00Z` **full / succeeded** — Completed mandated reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, metrics pass, and bounded Postiz delivery check. daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.
