@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T21:35:35.244194+00:00`
+- 状态更新：`2026-09-10T21:50:28.291152+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**562**
-- 待选选题：**488**
-- 待发布制作包：**3**
+- 对标帖子快照：**565**
+- 待选选题：**491**
+- 待发布制作包：**4**
 - 已验证发布：**218**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 21:22:36 +0000 2026 | JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/U1tThtOuDy | [X](https://x.com/WhaleInsider/status/2098160236225798614) |
+| @StockMKTNewz | Thu Sep 10 21:24:26 +0000 2026 | MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032  The company's data center network will reach more than 38 gigawatts, up from about 12 gigawatts now - Bloomberg https://t.co/TqjM0HyNCI | [X](https://x.com/StockMKTNewz/status/2098160694038298889) |
+| @StockMKTNewz | Thu Sep 10 21:41:24 +0000 2026 | THE US MILITARY NOW FUNDING THE AI BUILD OUT?  The Pentagon is in talks to lend roughly $5 billion to AI cloud-computing startup Fluidstack  The money would come from the Pentagon’s Office of Strategic Capital, which provides loans to companies working in areas deemed critical to U.S. national security. A $5B loan would be, by far, the office’s largest to date - WSJ | [X](https://x.com/StockMKTNewz/status/2098164965123236185) |
 | @WhaleInsider | Thu Sep 10 21:01:44 +0000 2026 | JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Grok. https://t.co/vLsRaHtlLw | [X](https://x.com/WhaleInsider/status/2098154982411305155) |
 | @WhaleInsider | Thu Sep 10 21:09:00 +0000 2026 | JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem and $94 billion in circulating $USDT to millions of users. https://t.co/Lspc6QSjx3 | [X](https://x.com/WhaleInsider/status/2098156812818067547) |
 | @WhaleInsider | Thu Sep 10 20:42:09 +0000 2026 | JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JYtO | [X](https://x.com/WhaleInsider/status/2098150053177102560) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 16:56:36 +0000 2026 | Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock at an average price of $70.96 per share https://t.co/m4HoT8i2I5 | [X](https://x.com/StockMKTNewz/status/2098093294899110204) |
 | @WhaleInsider | Thu Sep 10 17:00:13 +0000 2026 | JUST IN: 🇺🇸 Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” https://t.co/uymoDzq4Pf | [X](https://x.com/WhaleInsider/status/2098094202848448781) |
 | @WhaleInsider | Thu Sep 10 16:24:47 +0000 2026 | JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock. https://t.co/MjmPQDdxq5 | [X](https://x.com/WhaleInsider/status/2098085286198604002) |
-| @WhaleInsider | Thu Sep 10 16:30:08 +0000 2026 | JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting, liquidity, risk, reconciliation and reporting. https://t.co/wiiBZ6WMf8 | [X](https://x.com/WhaleInsider/status/2098086633262199066) |
-| @StockMKTNewz | Thu Sep 10 16:14:59 +0000 2026 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID:  Cybersecurity is the next major use case of AI https://t.co/vg6jEDaAgW | [X](https://x.com/StockMKTNewz/status/2098082819452833956) |
-| @StockMKTNewz | Thu Sep 10 15:56:12 +0000 2026 | The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first time since June  🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2098078093286031846) |
 
 ## 选题推荐
 
@@ -201,6 +201,7 @@
 | 1 | Oracle $ORCL now has a AI backlog of $664 Billion up from $455.3B in the same quarter last y… | StockMKTNewz | 20 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Bitwise shuts down $DOGE ETF less than one year after launch. https://t.co/oQ7zf9JY… | WhaleInsider | 12231 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Metamask expands TRON connectivity, broadening access to TRON’s vast defi ecosystem… | WhaleInsider | 12698 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | THE US MILITARY NOW FUNDING THE AI BUILD OUT? The Pentagon is in talks to lend roughly $5 bi… | StockMKTNewz | 7331 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -270,6 +271,7 @@
 | 2 | ROBINHOOD $HOOD JUST REPORTED ITS AUGUST 2026 MONTHLY METRICS - Event Contracts Traded: 4.7B… | StockMKTNewz | 9651 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud convictio… | WhaleInsider | 13948 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Gr… | WhaleInsider | 18984 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032 The company's dat… | StockMKTNewz | 15573 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -300,6 +302,7 @@
 | 3 | Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw | StockMKTNewz | 11251 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | ADOBE $ADBE JUST REPORTED EARNINGS | StockMKTNewz | 17782 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: $NINJACAT holders on Robinhood Chain are now automatically eligible for MSFT stock … | WhaleInsider | 15603 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/… | WhaleInsider | 20918 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3358,6 +3361,13 @@ MetaMask is expanding TRON connectivity, bringing TRX and TRC-20 USDT into its m
 
 $KERMIT is the first project on Robinhood Chain to integrate Grok.
 
+### Pentagon in talks to lend roughly $5B to Fluidstack
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-fluidstack-pentagon-5b-loan-talks/when2buy-image-model.png`
+
+The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  The money would come through the Pentagon's Office of Strategic Capital.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3584,6 +3594,12 @@ $KERMIT is the first project on Robinhood Chain to integrate Grok.
 
 ## 最近运行
 
+- `2026-09-10T21:50:00Z` **publish / succeeded** — Newest fresh Fluidstack/Pentagon package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour account limit was reached. daily_limit
+- `2026-09-10T21:49:35Z` **produce / succeeded** — Produced the sole newest fresh Fluidstack/Pentagon package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T21:46:58Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T21:46:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
+- `2026-09-10T21:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 3 new post(s).
+- `2026-09-10T21:45:34Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T21:35:35Z` **publish / succeeded** — Newest fresh KERMIT package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour limit is exhausted. daily_limit; retryAt=2026-09-10T21:50:00Z
 - `2026-09-10T21:34:22Z` **produce / succeeded** — Produced the sole newest fresh KERMIT/Robinhood Chain package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T21:32:38Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3598,9 +3614,3 @@ $KERMIT is the first project on Robinhood Chain to integrate Grok.
 - `2026-09-10T21:03:27Z` **produce / succeeded** — Produced one newest fresh Bitwise DOGE ETF package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T21:01:18Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T21:01:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-10T20:49:23Z` **publish / succeeded** — Newest fresh SBF Supreme Court package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was not open. minimum_interval; retryAt=2026-09-10T20:50:31Z; no retry made
-- `2026-09-10T20:48:37Z` **produce / succeeded** — Produced one newest fresh SBF Supreme Court package with exact-logo compositing.
-- `2026-09-10T20:47:18Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T20:47:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
-- `2026-09-10T20:46:29Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T20:35:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.

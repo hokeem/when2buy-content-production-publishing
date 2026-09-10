@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T21:35:35.244194+00:00",
+  "updatedAt": "2026-09-10T21:50:28.291152+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15507,6 +15507,96 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098164965123236185",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098164965123236185",
+      "postedAt": "Thu Sep 10 21:41:24 +0000 2026",
+      "text": "THE US MILITARY NOW FUNDING THE AI BUILD OUT?\n\nThe Pentagon is in talks to lend roughly $5 billion to AI cloud-computing startup Fluidstack\n\nThe money would come from the Pentagon’s Office of Strategic Capital, which provides loans to companies working in areas deemed critical to U.S. national security. A $5B loan would be, by far, the office’s largest to date - WSJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4tx86bEAAD6GZ.jpg"
+      ],
+      "engagement": {
+        "likes": 22,
+        "replies": 5,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 6491
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T21:46:51Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4tx86bEAAD6GZ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098164965123236185-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098160694038298889",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098160694038298889",
+      "postedAt": "Thu Sep 10 21:24:26 +0000 2026",
+      "text": "MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032\n\nThe company's data center network will reach more than 38 gigawatts, up from about 12 gigawatts now - Bloomberg https://t.co/TqjM0HyNCI",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4p8qabYAAiGRu.jpg"
+      ],
+      "engagement": {
+        "likes": 84,
+        "replies": 16,
+        "reposts": 12,
+        "quotes": 1,
+        "views": 12593
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T21:46:51Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4p8qabYAAiGRu.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098160694038298889-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098160236225798614",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098160236225798614",
+      "postedAt": "Thu Sep 10 21:22:36 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/U1tThtOuDy",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR4pnJYWgAYG7o5.jpg",
+        "https://pbs.twimg.com/media/HR4pnJNW0AkzmY_.jpg"
+      ],
+      "engagement": {
+        "likes": 150,
+        "replies": 32,
+        "reposts": 13,
+        "quotes": 2,
+        "views": 15868
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T21:46:51Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4pnJYWgAYG7o5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098160236225798614-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR4pnJNW0AkzmY_.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098160236225798614-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -24774,6 +24864,63 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-10T21:16:25Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098164965123236185",
+      "rank": 1,
+      "title": "THE US MILITARY NOW FUNDING THE AI BUILD OUT? The Pentagon is in talks to lend roughly $5 bi…",
+      "benchmarkPostId": "2098164965123236185",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098164965123236185",
+      "score": 7331,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T21:46:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098160694038298889",
+      "rank": 2,
+      "title": "MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032 The company's dat…",
+      "benchmarkPostId": "2098160694038298889",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098160694038298889",
+      "score": 15573,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T21:46:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098160236225798614",
+      "rank": 3,
+      "title": "JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/…",
+      "benchmarkPostId": "2098160236225798614",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098160236225798614",
+      "score": 20918,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T21:46:58Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -36470,6 +36617,44 @@
           "checks": [
             "square 1254x1254 PNG",
             "complete KERMIT token, Robinhood Chain, and AI entity scene",
+            "exact factual text composited once",
+            "exact repository logo composited once in lower-right clear space",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-fluidstack-pentagon-5b-loan-talks",
+      "benchmarkPostId": "2098164965123236185",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098164965123236185",
+      "title": "Pentagon in talks to lend roughly $5B to Fluidstack",
+      "status": "ready",
+      "postText": "The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.\n\nThe money would come through the Pentagon's Office of Strategic Capital.",
+      "mirroredFacts": [
+        "The benchmark post said the Pentagon is in talks to lend roughly $5 billion to AI cloud-computing startup Fluidstack.",
+        "The proposed lender is the Pentagon's Office of Strategic Capital, which provides loans to companies working in areas deemed critical to U.S. national security."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098164965123236185",
+        "https://www.defense.gov/News/Releases/Release/Article/4020461/office-of-strategic-capital-announces-release-of-the-fiscal-year-2025-investment-strategy/",
+        "https://fluidstack.io/blog/series-a-announcement"
+      ],
+      "imagePath": "deliverables/pkg-20260910-fluidstack-pentagon-5b-loan-talks/when2buy-image-model.png",
+      "createdAt": "2026-09-10T21:49:35Z",
+      "sourceExpiresAt": "2026-09-10T23:11:24Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Complete 1:1 editorial scene linking the Pentagon with an AI cloud data center and glowing GPU servers; near-black, cool steel-blue palette with restrained red accents; dark upper-left and lower-right negative space for later typography and exact-logo compositing; no generated text, logos, watermarks, source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or pure-text card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T21:49:35Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete Pentagon and AI data-center entity scene",
             "exact factual text composited once",
             "exact repository logo composited once in lower-right clear space",
             "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
@@ -270657,6 +270842,71 @@
       "selectedPackageIds": [
         "pkg-20260910-kermit-grok-robinhood-chain"
       ]
+    },
+    {
+      "id": "run-20260910T214534Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:45:34Z",
+      "completedAt": "2026-09-10T21:45:34Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T214651Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:46:51Z",
+      "completedAt": "2026-09-10T21:46:51Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T214653Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:46:53Z",
+      "completedAt": "2026-09-10T21:46:53Z",
+      "summary": "Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T214658Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:46:58Z",
+      "completedAt": "2026-09-10T21:46:58Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T214935Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:49:35Z",
+      "completedAt": "2026-09-10T21:49:35Z",
+      "summary": "Produced the sole newest fresh Fluidstack/Pentagon package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "packageId": "pkg-20260910-fluidstack-pentagon-5b-loan-talks"
+    },
+    {
+      "id": "run-20260910T2150Z-publish-deferred-fluidstack",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T21:50:00Z",
+      "completedAt": "2026-09-10T21:50:01Z",
+      "summary": "Newest fresh Fluidstack/Pentagon package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour account limit was reached.",
+      "reason": "daily_limit",
+      "packageId": "pkg-20260910-fluidstack-pentagon-5b-loan-talks",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
