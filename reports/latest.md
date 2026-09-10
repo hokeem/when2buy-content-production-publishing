@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T12:50:12.020558+00:00`
+- 状态更新：`2026-09-10T13:06:14.781495+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**518**
-- 待选选题：**445**
-- 待发布制作包：**5**
-- 已验证发布：**202**
+- 对标帖子快照：**519**
+- 待选选题：**446**
+- 待发布制作包：**4**
+- 已验证发布：**203**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 12:48:54 +0000 2026 | I AM NOW DOWN ON MY TRADE BELOW  There is now just a 39% chance that the 🇺🇸 Fed will leave rates unchanged next week and a 61% chance they raise by 0.25% https://t.co/4iixsUEG5h | [X](https://x.com/StockMKTNewz/status/2098030957466988614) |
 | @StockMKTNewz | Thu Sep 10 12:31:34 +0000 2026 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | [X](https://x.com/StockMKTNewz/status/2098026596380639714) |
 | @StockMKTNewz | Thu Sep 10 12:17:56 +0000 2026 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | [X](https://x.com/StockMKTNewz/status/2098023164152369238) |
 | @WhaleInsider | Thu Sep 10 12:25:35 +0000 2026 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42 | [X](https://x.com/WhaleInsider/status/2098025091581747413) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 09:20:07 +0000 2026 | JUST IN: Palantir $PLTR and Nvidia $NVDA are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. https://t.co/lYyOifNDS6 | [X](https://x.com/WhaleInsider/status/2097978417425592472) |
 | @WhaleInsider | Thu Sep 10 08:11:05 +0000 2026 | JUST IN: 🇺🇸 75% chance of next Fed rate hike before 2027, per Kalshi traders. https://t.co/WvRbXfAQYF | [X](https://x.com/WhaleInsider/status/2097961042886189444) |
 | @WhaleInsider | Thu Sep 10 07:18:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $166.5M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/4heRqjVsCx | [X](https://x.com/WhaleInsider/status/2097947832070115711) |
-| @WhaleInsider | Thu Sep 10 06:36:47 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | [X](https://x.com/WhaleInsider/status/2097937311249949144) |
 
 ## 选题推荐
 
@@ -175,6 +175,7 @@
 | 1 | Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY TSMC has… | StockMKTNewz | 9925 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike th… | WhaleInsider | 14436 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | StockMKTNewz | 19446 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | I AM NOW DOWN ON MY TRADE BELOW There is now just a 39% chance that the 🇺🇸 Fed will leave ra… | StockMKTNewz | 16340 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3072,7 +3073,7 @@ Single-letter stock tickers are a rare club: $A, $B, $C, $D, $E, $F, $G, $H, $J,
 
 ### Palantir and NVIDIA partner on critical supply chains
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260910-palantir-nvidia-supply-chains/when2buy-image-model.png`
 
 Palantir and NVIDIA are partnering to bring sovereign AI to critical supply chains, starting with NVIDIA's own operations.
@@ -3104,6 +3105,13 @@ The ECB just hiked its deposit rate by 25 bps to 2.50%.  It is the second rate h
 - 配图：`deliverables/pkg-20260910-ppi-54-yoy/when2buy-image-model.png`
 
 U.S. producer prices rose 5.4% year over year in August.  The reading came in above the 5.3% expectation.
+
+### Fed hike odds at 61%
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-fed-hike-odds/when2buy-image-model.png`
+
+Markets now price a 61% chance of a 25 bp Fed hike at next week’s September 15–16 meeting.  Only 39% see rates staying unchanged.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3147,8 +3155,8 @@ U.S. producer prices rose 5.4% year over year in August.  The reading came in ab
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
+| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 36 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
-| ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:50:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097774892167156048) |
 | Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 33 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
@@ -3166,9 +3174,9 @@ U.S. producer prices rose 5.4% year over year in August.  The reading came in ab
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
 | iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097785187346338125) |
 | Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 25 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
-| Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770249135530085) |
@@ -3184,11 +3192,11 @@ U.S. producer prices rose 5.4% year over year in August.  The reading came in ab
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
+| Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
 | NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097847871278293375) |
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
 | Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097663884169728471) |
-| Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
 | Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
@@ -3312,9 +3320,13 @@ U.S. producer prices rose 5.4% year over year in August.  The reading came in ab
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098035293232500991) |
 
 ## 最近运行
 
+- `2026-09-10T13:06:14Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T13:02:27Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-10T13:01:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T12:49:00Z` **full / succeeded** — Completed mandated reconciliation, both-feed Apify scan, media archive, hard 90-minute queue rebuild, one-package QA, metrics pass, and bounded Postiz delivery check. daily_limit; no submission accepted; no accepted task to reconcile; ready package remains recoverable for the next eligible cycle.
 - `2026-09-10T12:46:52Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T12:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
@@ -3332,6 +3344,3 @@ U.S. producer prices rose 5.4% year over year in August.  The reading came in ab
 - `2026-09-10T12:04:32Z` **produce / succeeded** — Produced the sole newest fresh TSMC package with an inspected image-model visual and exact-logo composite.
 - `2026-09-10T12:02:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
 - `2026-09-10T12:02:02Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T12:01:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 10 new post(s).
-- `2026-09-10T12:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-10T12:01:08Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 1 unsent stale package(s).

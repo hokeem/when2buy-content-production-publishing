@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-09-10T12:46:52Z",
+  "generatedAt": "2026-09-10T13:02:27Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098026596380639714",
+      "benchmarkPostId": "2098030957466988614",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098030957466988614",
+      "originalText": "I AM NOW DOWN ON MY TRADE BELOW\n\nThere is now just a 39% chance that the 🇺🇸 Fed will leave rates unchanged next week and a 61% chance they raise by 0.25% https://t.co/4iixsUEG5h",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR2zzumXoAI3N0n.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2zzumXoAI3N0n.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098030957466988614-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 24,
+        "replies": 10,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 15310
+      },
+      "postedAt": "Thu Sep 10 12:48:54 +0000 2026",
+      "score": 16340,
+      "heatScore": 16340,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 21,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 13.6,
+        "expiresAt": "2026-09-10T14:18:54Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098026596380639714",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260910-ppi-54-yoy",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098026596380639714",
       "originalText": "🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY",
       "originalMediaUrls": [],
@@ -34,14 +79,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 15.3,
+        "ageMinutes": 30.9,
         "expiresAt": "2026-09-10T14:01:34Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098025091581747413",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-ecb-rate-hike",
@@ -85,14 +130,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 21.3,
+        "ageMinutes": 36.9,
         "expiresAt": "2026-09-10T13:55:35Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098023164152369238",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -122,14 +167,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 28.9,
+        "ageMinutes": 44.5,
         "expiresAt": "2026-09-10T13:47:56Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "benchmarkPostId": "2098015628158259276",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-tsmc-august-sales",
@@ -167,14 +212,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 58.9,
+        "ageMinutes": 74.5,
         "expiresAt": "2026-09-10T13:17:59Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "benchmarkPostId": "2098014522216730854",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-robinhood-chain-volume",
@@ -212,14 +257,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 63.3,
+        "ageMinutes": 78.9,
         "expiresAt": "2026-09-10T13:13:35Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 7,
       "benchmarkPostId": "2098012610838835655",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -257,59 +302,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 70.9,
+        "ageMinutes": 86.5,
         "expiresAt": "2026-09-10T13:06:00Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2098009124122345551",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260910-palantir-nvidia-supply-chains",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098009124122345551",
-      "originalText": "NVIDIA AND PALANTIR PARTNERSHIP\n\nPalantir $PLTR and Nvidia $NVDA just announced a new partnership to \"bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.\"\n\nThe two companies built an AI stack combining NVIDIA's open Nemotron models with Palantir's Foundry, AIP, and Ontology, aimed at giving NVIDIA's supply chain teams real-time visibility into constraints and faster materials allocation decisions across a network of millions of parts and thousands of suppliers",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2fFV5bYAEkS92.jpg",
-        "https://pbs.twimg.com/media/HR2fKVeWwAEsAS_.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2fFV5bYAEkS92.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098009124122345551-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2fKVeWwAEsAS_.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098009124122345551-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 38,
-        "replies": 2,
-        "reposts": 4,
-        "quotes": 1,
-        "views": 7609
-      },
-      "postedAt": "Thu Sep 10 11:22:08 +0000 2026",
-      "score": 8709,
-      "heatScore": 8709,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 84.7,
-        "expiresAt": "2026-09-10T12:52:08Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
