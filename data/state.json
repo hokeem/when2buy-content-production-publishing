@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T04:17:27.272774+00:00",
+  "updatedAt": "2026-09-10T04:27:47.987926+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -213259,6 +213259,38 @@
       "status": "succeeded",
       "startedAt": "2026-09-10T04:15:51Z",
       "completedAt": "2026-09-10T04:18:00Z",
+      "summary": "Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.",
+      "reason": "",
+      "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260910T042644Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T04:26:44Z",
+      "completedAt": "2026-09-10T04:26:44Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T042649Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T04:26:49Z",
+      "completedAt": "2026-09-10T04:26:49Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T042800Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T04:25:50Z",
+      "completedAt": "2026-09-10T04:28:00Z",
       "summary": "Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.",
       "reason": "",
       "selectedPackageIds": []

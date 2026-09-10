@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T04:17:27.272774+00:00`
+- 状态更新：`2026-09-10T04:27:47.987926+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**488**
 - 待选选题：**426**
@@ -3204,6 +3204,9 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 
 ## 最近运行
 
+- `2026-09-10T04:25:50Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
+- `2026-09-10T04:26:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T04:26:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T04:15:51Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
 - `2026-09-10T04:16:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T04:16:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
@@ -3221,6 +3224,3 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 - `2026-09-10T03:48:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T03:46:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T03:36:02Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No fresh eligible benchmark posts inside the 90-minute source TTL.
-- `2026-09-10T03:37:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T03:37:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-10T03:36:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
