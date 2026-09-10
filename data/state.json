@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T14:19:53.168807+00:00",
+  "updatedAt": "2026-09-10T14:34:33.919310+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -33704,6 +33704,43 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T14:19:53Z",
       "publishedAt": "2026-09-10T14:19:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-powell-maryland-waterfront-home",
+      "benchmarkPostId": "2098046112305119263",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098046112305119263",
+      "title": "Powell sells Maryland waterfront mansion for $7.2 million",
+      "status": "ready",
+      "postText": "Jerome Powell sold his Gibson Island waterfront mansion in Maryland for $7.2 million.\n\nThe sale came less than three months after his term as Federal Reserve chair ended.",
+      "mirroredFacts": [
+        "Jerome Powell sold a waterfront mansion on Maryland's Gibson Island for $7.2 million.",
+        "The sale occurred less than three months after his term as Federal Reserve chair ended."
+      ],
+      "verificationSources": [
+        "https://www.realtor.com/news/trends/former-fed-chair-jerome-powell-sells-gibson-island-maryland-mansion/"
+      ],
+      "imagePath": "deliverables/pkg-20260910-powell-maryland-waterfront-home/when2buy-image-model.png",
+      "createdAt": "2026-09-10T14:33:32Z",
+      "sourceExpiresAt": "2026-09-10T15:19:07Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: premium square X financial-news editorial visual for When2Buy\nPrimary request: one complete original entity-led visual about Jerome Powell selling a $7.2 million waterfront house in Maryland.\nScene/backdrop: cinematic dusk on Gibson Island, Maryland, calm Chesapeake Bay water and a refined waterfront mansion on a wooded shoreline, understated institutional editorial atmosphere.\nSubject: the elegant waterfront residence as the dominant subject, with a subtle legal real-estate sale document and small brass house key in the foreground; no recognizable person needed.\nStyle/medium: premium realistic editorial photography, high-end real-estate and financial-news look, sharp natural materials, restrained red accent light, near-black shadows.\nComposition/framing: exact 1:1 square; mansion and shoreline occupy the center-left and lower two-thirds; reserve the lower-right 20 percent as clean near-black negative space for one exact logo composited later.\nConstraints: no readable text, no logos, no watermarks, no source names, handles, URLs, attribution, disclaimer, commentary, CTA, tagline, generic radar graphic, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T14:33:32Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led waterfront mansion and sale-document scene",
+            "no readable generated public text, source attribution, handle, or URL",
+            "premium near-black, white, and restrained-red palette",
+            "not a pure-text or generic-radar visual",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged or malformed subject"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -37492,8 +37529,11 @@
       "postizPostId": "cmtvljmsm07jplm0y8cv03upu",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-10T14:02:00.000Z",
-        "windowEnd": "2026-09-13T14:02:00Z"
+        "windowStart": "2026-09-10T14:02:00Z",
+        "windowEnd": "2026-09-13T14:02:00Z",
+        "lastAttemptAt": "2026-09-10T14:34:32.885719Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       },
       "reconciledAt": "2026-09-10T14:04:04Z"
     },
@@ -37508,11 +37548,11 @@
       "postizPostId": "cmtvm5l0j07pilm0yqld382ir",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-10T14:19:00.000Z",
+        "windowStart": "2026-09-10T14:19:00Z",
         "windowEnd": "2026-09-13T14:19:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-10T14:34:32.885719Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     }
   ],
@@ -227626,6 +227666,90 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-10T14:01:44.535076Z"
       }
+    },
+    {
+      "id": "metric-2098049818765721963-20260910T143432Z",
+      "postId": "2098049818765721963",
+      "observedAt": "2026-09-10T14:34:32.885719Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvljmsm07jplm0y8cv03upu",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvljmsm07jplm0y8cv03upu",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T14:34:32.885719Z"
+      }
+    },
+    {
+      "id": "metric-2098053832127480145-20260910T143432Z",
+      "postId": "2098053832127480145",
+      "observedAt": "2026-09-10T14:34:32.885719Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtvm5l0j07pilm0yqld382ir",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtvm5l0j07pilm0yqld382ir",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-10"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-10"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-10"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-10"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-10"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-10T14:34:32.885719Z"
+      }
     }
   ],
   "experiments": [],
@@ -244226,6 +244350,48 @@
       "completedAt": "2026-09-10T14:19:53Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T143127Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:31:27Z",
+      "completedAt": "2026-09-10T14:31:27Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T143131Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:31:31Z",
+      "completedAt": "2026-09-10T14:31:31Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T143332Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:33:32Z",
+      "completedAt": "2026-09-10T14:33:32Z",
+      "summary": "Produced the sole newest fresh Powell waterfront-home package with an inspected entity-led image and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T143432Z-publish-deferred",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T14:34:32Z",
+      "completedAt": "2026-09-10T14:34:32Z",
+      "summary": "The newest fresh package was safely deferred by the enforced minimum submission interval; no Postiz task was accepted and the ready package remains recoverable.",
+      "reason": "minimum_interval; retryAt=2026-09-10T14:34:21Z",
+      "packageId": "pkg-20260910-powell-maryland-waterfront-home",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

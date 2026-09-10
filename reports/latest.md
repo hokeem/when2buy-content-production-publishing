@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T14:19:53.168807+00:00`
+- 状态更新：`2026-09-10T14:34:33.919310+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**524**
 - 待选选题：**451**
-- 待发布制作包：**1**
+- 待发布制作包：**2**
 - 已验证发布：**206**
 
 ## 对标账号扫描
@@ -3146,6 +3146,13 @@ The Boring Company is now valued at $23 billion after raising $3 billion in a ne
 
 Odds of a 25 bps Fed rate hike this month just hit 63%.
 
+### Powell sells Maryland waterfront mansion for $7.2 million
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-powell-maryland-waterfront-home/when2buy-image-model.png`
+
+Jerome Powell sold his Gibson Island waterfront mansion in Maryland for $7.2 million.  The sale came less than three months after his term as Federal Reserve chair ended.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3338,6 +3345,7 @@ Odds of a 25 bps Fed rate hike this month just hit 63%.
 | Top 10 trader | 2026-09-07T07:53:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869544749125986) |
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
+| The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -3353,13 +3361,16 @@ Odds of a 25 bps Fed rate hike this month just hit 63%.
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
+| Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098049818765721963) |
-| Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098053832127480145) |
 
 ## 最近运行
 
+- `2026-09-10T14:34:32Z` **publish / succeeded** — The newest fresh package was safely deferred by the enforced minimum submission interval; no Postiz task was accepted and the ready package remains recoverable. minimum_interval; retryAt=2026-09-10T14:34:21Z
+- `2026-09-10T14:33:32Z` **produce / succeeded** — Produced the sole newest fresh Powell waterfront-home package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T14:31:31Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T14:31:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T14:19:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T14:18:43Z` **produce / succeeded** — Produced the sole newest fresh Fed-hike-odds package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T14:16:17Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3376,7 +3387,3 @@ Odds of a 25 bps Fed rate hike this month just hit 63%.
 - `2026-09-10T13:46:43Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T13:46:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-10T13:37:01Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T13:35:40.852574+00:00` **produce / succeeded** — Produced one newest fresh Apple Visual Intelligence package with generated entity visual and exact-logo compositing.
-- `2026-09-10T13:33:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 0 new post(s).
-- `2026-09-10T13:32:57Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T13:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 2 new post(s).
