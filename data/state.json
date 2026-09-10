@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T10:34:06.807585+00:00",
+  "updatedAt": "2026-09-10T10:51:11.993381+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13633,6 +13633,54 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2097999228006023573",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097999228006023573",
+      "postedAt": "Thu Sep 10 10:42:49 +0000 2026",
+      "text": "The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken at a valuation of $21 Billion - Bloomberg https://t.co/pteuXcmSIu",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR2VriJbgAE-XCP.png"
+      ],
+      "engagement": {
+        "likes": 10,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 4352
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T10:46:27Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR2VriJbgAE-XCP.png",
+          "path": "output/benchmark-media/StockMKTNewz/2097999228006023573-1.png",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097997097345679418",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2097997097345679418",
+      "postedAt": "Thu Sep 10 10:34:21 +0000 2026",
+      "text": "For my ETF fans out there check out this new tool below made by my partner ... you can also follow the X page @etfiq",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 7607
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T10:46:27Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -21840,6 +21888,44 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097999228006023573",
+      "rank": 1,
+      "title": "The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryp…",
+      "benchmarkPostId": "2097999228006023573",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097999228006023573",
+      "score": 4672,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T10:46:32Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2097997097345679418",
+      "rank": 2,
+      "title": "For my ETF fans out there check out this new tool below made by my partner ... you can also …",
+      "benchmarkPostId": "2097997097345679418",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2097997097345679418",
+      "score": 7767,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T10:46:32Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -32084,6 +32170,44 @@
             "premium near-black, white and restrained-red palette",
             "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation or watermark",
             "not a pure-text card or generic radar visual",
+            "exact repository logo composited once"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-nasdaq-payward-21b-valuation",
+      "benchmarkPostId": "2097999228006023573",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2097999228006023573",
+      "title": "Nasdaq invests $100M in Payward at $21B valuation",
+      "status": "ready",
+      "postText": "Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 billion valuation.",
+      "mirroredFacts": [
+        "Nasdaq is investing $100 million in Payward.",
+        "Payward is the parent of cryptocurrency exchange Kraken.",
+        "The valuation is $21 billion."
+      ],
+      "verificationSources": [
+        "https://www.bloomberg.com/"
+      ],
+      "imagePath": "deliverables/pkg-20260910-nasdaq-payward-21b-valuation/when2buy-image-model.png",
+      "createdAt": "2026-09-10T10:50:32.867384+00:00",
+      "sourceExpiresAt": "2026-09-10T12:12:49Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing\nAsset type: square X financial-news visual for When2Buy\nPrimary request: one complete original entity-led editorial visual about Nasdaq investing $100 million in Payward, the parent of cryptocurrency exchange Kraken, at a $21 billion valuation.\nScene/backdrop: a premium realistic exchange-and-markets operations environment with a stylized Nasdaq market display, a modern cryptocurrency exchange infrastructure room, and a subtle institutional investment transaction motif; no recognizable third-party logos.\nSubject: a dominant abstract stock-exchange trading floor display connected to a secure crypto-exchange server vault and an illuminated investment flow, clearly showing a business investment rather than a generic coin shot.\nStyle/medium: cinematic photorealistic financial-news editorial image, sharp detail, premium market-news aesthetic.\nComposition/framing: exact 1:1 square; near-black base; central entity-led scene; bold white typography with one restrained red accent; reserve clean lower-left space for later compositing of the supplied circular when2buy logo.\nLighting/mood: high-contrast studio lighting, urgent but factual.\nColor palette: black, charcoal, white, controlled red; no green unless semantically necessary.\nText (verbatim): \"NASDAQ INVESTS $100M\" and \"PAYWARD VALUED AT $21B\"\nConstraints: render the exact phrases legibly; no other readable words or numbers; no source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, or generated logo; no pure typography card; no generic abstract background; do not imitate any existing brand logo; keep the image complete and visually meaningful before the logo is added.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T10:50:32.867384+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete exchange and secure crypto-infrastructure scene",
+            "exact NASDAQ INVESTS $100M and PAYWARD VALUED AT $21B text",
+            "premium near-black, white, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
             "exact repository logo composited once"
           ]
         }
@@ -230428,6 +230552,83 @@
       "completedAt": "2026-09-10T10:34:06Z",
       "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T104627Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:46:27Z",
+      "completedAt": "2026-09-10T10:46:27Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T104632Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:46:32Z",
+      "completedAt": "2026-09-10T10:46:32Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T104647Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:46:47Z",
+      "completedAt": "2026-09-10T10:46:47Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T104701Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:47:01Z",
+      "completedAt": "2026-09-10T10:47:01Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T104709Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:47:09Z",
+      "completedAt": "2026-09-10T10:47:09Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T105032Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:50:32.867384+00:00",
+      "completedAt": "2026-09-10T10:50:32.867384+00:00",
+      "summary": "Produced the single newest fresh Nasdaq/Payward package with an inspected entity-led image and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T105111Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T10:51:11Z",
+      "completedAt": "2026-09-10T10:51:11Z",
+      "summary": "The single newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable before source expiry.",
+      "reason": "daily_limit; retryAt=2026-09-10T12:14:00Z",
+      "packageId": "pkg-20260910-nasdaq-payward-21b-valuation",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

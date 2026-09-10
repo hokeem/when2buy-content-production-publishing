@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T10:34:06.807585+00:00`
+- 状态更新：`2026-09-10T10:51:11.993381+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**495**
-- 待选选题：**432**
-- 待发布制作包：**3**
+- 对标帖子快照：**497**
+- 待选选题：**434**
+- 待发布制作包：**4**
 - 已验证发布：**202**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 10:34:21 +0000 2026 | For my ETF fans out there check out this new tool below made by my partner ... you can also follow the X page @etfiq | [X](https://x.com/StockMKTNewz/status/2097997097345679418) |
+| @StockMKTNewz | Thu Sep 10 10:42:49 +0000 2026 | The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken at a valuation of $21 Billion - Bloomberg https://t.co/pteuXcmSIu | [X](https://x.com/StockMKTNewz/status/2097999228006023573) |
 | @WhaleInsider | Thu Sep 10 10:30:50 +0000 2026 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. https://t.co/t5C4t76Uw9 | [X](https://x.com/WhaleInsider/status/2097996211127033977) |
 | @StockMKTNewz | Thu Sep 10 10:14:41 +0000 2026 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price target | [X](https://x.com/StockMKTNewz/status/2097992147404308500) |
 | @WhaleInsider | Thu Sep 10 09:51:14 +0000 2026 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs - SEC filing. https://t.co/UMgll4t94M | [X](https://x.com/WhaleInsider/status/2097986246509314464) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 20:24:27 +0000 2026 | THIS IS THE FIRST TIME AN IPHONE IS STARTING AT $2K  Yes ... being priced at $1,999 does count as the iPhone Duo being $2K | [X](https://x.com/StockMKTNewz/status/2097783213863194739) |
 | @WhaleInsider | Wed Sep 09 19:47:48 +0000 2026 | JUST IN: 🇺🇸 U.S. Treasury Secretary Scott Bessent says he 'strongly urges' the Senate to pass the Clarity Act.  "Failing to do so would send a troubling signal to our allies and adversaries alike that America is unwilling to lead on the future of digital assets". https://t.co/hKkpK4fkj2 | [X](https://x.com/WhaleInsider/status/2097773989682909689) |
 | @StockMKTNewz | Wed Sep 09 19:19:06 +0000 2026 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free app on the Apple App Store https://t.co/YXWhsxUk7e | [X](https://x.com/StockMKTNewz/status/2097766765937721570) |
-| @StockMKTNewz | Wed Sep 09 19:20:17 +0000 2026 | Here is a first look at Apple’s new foldable iPhone Duo  https://t.co/vLMMmP452S | [X](https://x.com/StockMKTNewz/status/2097767066170224987) |
-| @WhaleInsider | Wed Sep 09 16:52:06 +0000 2026 | JUST IN: Lightfield raises $47 million Series A, led by a16z, to make customer context usable by A.I agents. https://t.co/MQT8C6r18G | [X](https://x.com/WhaleInsider/status/2097729772079976501) |
 
 ## 选题推荐
 
@@ -167,6 +167,7 @@
 | 1 | JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral acros… | WhaleInsider | 15292 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JPMorgan today upgraded Meta Platforms $META up to Overweight from Neutral with a $820 price… | StockMKTNewz | 4978 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $XRP currently forecasted to hit a high of $1.50 this month, per Kalshi traders. ht… | WhaleInsider | 0 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The Nasdaq $NDAQ announced today it is investing $100 million in Payward, the parent of cryp… | StockMKTNewz | 4672 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -220,6 +221,7 @@
 | 2 | JUST IN: 🇺🇸 U.S. Treasury to buy back up to $6,000,000,000 in longer-term debt tomorrow. htt… | WhaleInsider | 20241 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 U.S. Treasury buys back $12.5 billion of its own debt, making a total of $25 bil… | WhaleInsider | 33194 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Meta Platforms' $ META's new AI app "Muse from Meta" is currently the 3rd most popular free … | StockMKTNewz | 11366 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | For my ETF fans out there check out this new tool below made by my partner ... you can also … | StockMKTNewz | 7767 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3043,6 +3045,13 @@ JPMorgan just upgraded Meta Platforms $META to Overweight from Neutral with an $
 
 Prediction markets price a 72% chance of XRP trading above $1.50 in September.
 
+### Nasdaq invests $100M in Payward at $21B valuation
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-nasdaq-payward-21b-valuation/when2buy-image-model.png`
+
+Nasdaq is investing $100 million in Payward, the parent of Kraken, at a $21 billion valuation.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3253,6 +3262,13 @@ Prediction markets price a 72% chance of XRP trading above $1.50 in September.
 
 ## 最近运行
 
+- `2026-09-10T10:51:11Z` **publish / succeeded** — The single newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable before source expiry. daily_limit; retryAt=2026-09-10T12:14:00Z
+- `2026-09-10T10:50:32.867384+00:00` **produce / succeeded** — Produced the single newest fresh Nasdaq/Payward package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T10:47:09Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:47:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
+- `2026-09-10T10:46:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
+- `2026-09-10T10:46:32Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T10:46:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
 - `2026-09-10T10:34:06Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T10:33:58.514215+00:00` **produce / succeeded** — Produced the newest fresh XRP package with a verified prediction-market fact and exact-logo composite.
 - `2026-09-10T10:32:02Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3266,10 +3282,3 @@ Prediction markets price a 72% chance of XRP trading above $1.50 in September.
 - `2026-09-10T10:18:30Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T10:18:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T10:07:16Z` **publish / succeeded** — The newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the package remains recoverable. daily_limit; retryAt=2026-09-10T10:21:00Z
-- `2026-09-10T10:06:10.620858+00:00` **produce / succeeded** — Produced the sole newest fresh XRP collateral package with an inspected image-model visual and exact-logo composite.
-- `2026-09-10T10:02:56Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T10:01:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
-- `2026-09-10T10:01:01Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T09:50:24Z` **publish / succeeded** — The sole fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable for the next eligible cycle. daily_limit; retryAt=2026-09-10T10:21:00Z
-- `2026-09-10T09:48:41.638760+00:00` **produce / succeeded** — Produced the sole newest fresh queue package with an inspected image-model visual and exact-logo composite.
-- `2026-09-10T09:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 0 new post(s).
