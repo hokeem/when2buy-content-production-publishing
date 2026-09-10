@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T22:53:02.626191+00:00`
+- 状态更新：`2026-09-10T23:03:31.029815+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**567**
 - 待选选题：**493**
@@ -3370,19 +3370,19 @@ $KERMIT is the first project on Robinhood Chain to integrate Grok.
 
 The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  The money would come through the Pentagon's Office of Strategic Capital.
 
-### Ryan Cohen buys $20.4M of GameStop stock
-
-- 状态：`ready`
-- 配图：`deliverables/pkg-20260910-gme-ryan-cohen-20m-purchase/when2buy-image-model.png`
-
-GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase covered 1,000,000 shares at a weighted average price of $20.3759.
-
 ### SpaceX signs $1.11B-a-month AI hosting agreement
 
 - 状态：`published`
 - 配图：`deliverables/pkg-20260910-spacex-ai-hosting-111b-month/when2buy-image-model.png`
 
 SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract is scheduled to begin December 1.
+
+### Ryan Cohen buys $20.4M of GameStop stock
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-gme-ryan-cohen-20m-purchase/when2buy-image-model.png`
+
+GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase covered 1,000,000 shares at a weighted average price of $20.3759.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3396,8 +3396,8 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 | McDonald's $MCD stock hit new 52 WEEK LOWS today | 2026-09-05T00:43:00.000Z | 111 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036664003154368) |
 | JUST IN: STEPN dev launches $STROLL on Robinhood Chain, turning real-world exploration into a hunt f | 2026-09-06T12:43:00.000Z | 103 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096580186124976177) |
 | JUST IN: $ROBIN launches on Robinhood Chain, sparking speculation that it could become the chain’s v | 2026-09-06T00:42:00.000Z | 97 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398633344417984) |
+| Oracle just reported earnings | 2026-09-10T20:19:00.000Z | 91 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098144463050944775) |
 | JUST IN: Fidelity clients sell $43.67 million worth of $BTC. | 2026-09-04T12:46:00.000Z | 90 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095856045784805886) |
-| Oracle just reported earnings | 2026-09-10T20:19:00.000Z | 90 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098144463050944775) |
 | $INDEXR has launched on Robinhood Chain as a 1:1-backed, redeemable memecoin index-fund token bundling coins into one token | 2026-09-07T12:52:00.000Z | 85 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096944831633473960) |
 | Claude just fully sold out of its Adobe $ADBE stock in the Rallies AI Arena | 2026-09-04T06:43:00.000Z | 84 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764647991488660) |
 | OPENAI SAYS IT HAS OVERTAKEN ANTHROPIC WITH ITS LATEST AI MODEL - Financial Times | 2026-09-05T00:42:00.000Z | 81 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2096036402891010178) |
@@ -3455,10 +3455,11 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
+| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
-| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
+| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098170354678341984) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
@@ -3488,12 +3489,12 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
+| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
-| ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -3573,6 +3574,7 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
+| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -3584,13 +3586,13 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
-| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
+| Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -3604,14 +3606,16 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
-| Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098170354678341984) |
-| SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098182454305784207) |
+| SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 
 ## 最近运行
 
+- `2026-09-10T23:03:31Z` **publish / succeeded** — Safe deferred outcome: delivery policy minimum interval blocked submission; no Postiz task was accepted and no retry is authorized. minimum_interval
+- `2026-09-10T23:02:21Z` **produce / succeeded** — Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.
+- `2026-09-10T23:01:38Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T23:01:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-10T22:53:02Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T22:50:55Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T22:50:26.008532+00:00` **produce / succeeded** — Produced the single newest fresh SpaceX AI-hosting package with inspected entity visual and exact-logo composite.
@@ -3628,7 +3632,3 @@ SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract 
 - `2026-09-10T22:16:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 1 new post(s).
 - `2026-09-10T22:15:32Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T22:02:51Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T22:01:18Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T22:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-10T21:50:00Z` **publish / succeeded** — Newest fresh Fluidstack/Pentagon package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour account limit was reached. daily_limit
-- `2026-09-10T21:49:35Z` **produce / succeeded** — Produced the sole newest fresh Fluidstack/Pentagon package with an inspected entity-led image and exact-logo composite.

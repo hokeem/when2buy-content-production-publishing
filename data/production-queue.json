@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T22:53:02Z",
+  "generatedAt": "2026-09-10T23:01:38Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -42,53 +42,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 51.7,
+        "ageMinutes": 60.3,
         "expiresAt": "2026-09-10T23:31:21Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
-      "benchmarkPostId": "2098160694038298889",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098160694038298889",
-      "originalText": "MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032\n\nThe company's data center network will reach more than 38 gigawatts, up from about 12 gigawatts now - Bloomberg https://t.co/TqjM0HyNCI",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR4p8qabYAAiGRu.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR4p8qabYAAiGRu.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098160694038298889-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 84,
-        "replies": 16,
-        "reposts": 12,
-        "quotes": 1,
-        "views": 12593
-      },
-      "postedAt": "Thu Sep 10 21:24:26 +0000 2026",
-      "score": 15573,
-      "heatScore": 15573,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 88.6,
-        "expiresAt": "2026-09-10T22:54:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
