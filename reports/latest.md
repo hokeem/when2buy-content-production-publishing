@@ -1,8 +1,8 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T07:20:04.644932+00:00`
+- 状态更新：`2026-09-10T07:28:33.874127+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**489**
+- 对标帖子快照：**490**
 - 待选选题：**427**
 - 待发布制作包：**0**
 - 已验证发布：**202**
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 07:18:35 +0000 2026 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $166.5M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/4heRqjVsCx | [X](https://x.com/WhaleInsider/status/2097947832070115711) |
 | @WhaleInsider | Thu Sep 10 06:36:47 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $120.24 million. https://t.co/Hcj8QjmPSQ | [X](https://x.com/WhaleInsider/status/2097937311249949144) |
 | @StockMKTNewz | Thu Sep 10 00:31:29 +0000 2026 | Nvidia $NVDA just posted this:  “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are expanding land, power and shell capacity to host AI factories, supporting the nation’s growing demand for AI compute.” https://t.co/mWTRafIczS | [X](https://x.com/StockMKTNewz/status/2097845382281662509) |
 | @StockMKTNewz | Wed Sep 09 16:59:20 +0000 2026 | Apple $AAPL is about to release its brand new iPhone 📱   The event is starting right now … expect to see a lot of Apple tweets from me over the next hour | [X](https://x.com/StockMKTNewz/status/2097731592013684977) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 17:30:12 +0000 2026 | APPLE'S $AAPL NEW IPHONE 18 PRO STARTS AT $1,199 | [X](https://x.com/StockMKTNewz/status/2097739361701736891) |
 | @StockMKTNewz | Wed Sep 09 17:30:21 +0000 2026 | APPLE'S $AAPL NEW IPHONE 18 PRO MAX STARTS AT $1,299 | [X](https://x.com/StockMKTNewz/status/2097739400603951368) |
 | @StockMKTNewz | Wed Sep 09 17:31:22 +0000 2026 | Apple $AAPL just announced Upgrade a new $34.99 per month subscription that lets you rent a new iPhone 18 Pro https://t.co/H7KooF6VXh | [X](https://x.com/StockMKTNewz/status/2097739656531972302) |
-| @StockMKTNewz | Wed Sep 09 17:32:12 +0000 2026 | APPLE $AAPL JUST ANNOUNCED THE NEW AIRPODS 5 | [X](https://x.com/StockMKTNewz/status/2097739863147642923) |
 
 ## 选题推荐
 
@@ -3213,6 +3213,10 @@ U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
 
 ## 最近运行
 
+- `2026-09-10T07:26:06Z` **full / succeeded** — Apify scanned both benchmark accounts, archived benchmark media, reconciled package statuses, rebuilt the hard-TTL queue, and completed the no-publish freshness workflow; no fresh queue items were available, so no package was produced or submitted. No fresh eligible queue items were available inside the 90-minute source TTL.
+- `2026-09-10T07:27:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T07:27:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
+- `2026-09-10T07:26:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T07:15:55Z` **full / succeeded** — Apify scanned both benchmark accounts, archived media, reconciled package and Postiz delivery state, rebuilt the hard-TTL queue, and completed reporting; no new eligible benchmark posts or fresh queue items were available, so no new package was produced or submitted. The current freshness-first production queue was empty. One previously accepted Postiz delivery was reconciled to its verified public X URL without retrying it.
 - `2026-09-10T07:19:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T07:19:09.146813Z` **publish / succeeded** — Reconciled 1 published and 0 failed Postiz deliveries into state.
@@ -3229,7 +3233,3 @@ U.S. spot Bitcoin ETFs are showing $120.24M in net outflows in early flow data.
 - `2026-09-10T06:28:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T06:28:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 117 eligible originals and added 0 new post(s).
 - `2026-09-10T06:27:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T06:05:54Z` **full / succeeded** — Apify collection from both benchmark accounts, hourly public-metrics collection, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-10T06:07:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T06:07:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-10T06:05:57Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

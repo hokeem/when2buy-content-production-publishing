@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T07:20:04.644932+00:00",
+  "updatedAt": "2026-09-10T07:28:33.874127+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13446,6 +13446,40 @@
         {
           "sourceUrl": "https://pbs.twimg.com/media/HR1e3LcWEAsZlzl.jpg",
           "path": "output/benchmark-media/WhaleInsider/2097937311249949144-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2097947832070115711",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2097947832070115711",
+      "postedAt": "Thu Sep 10 07:18:35 +0000 2026",
+      "text": "JUST IN: Robinhood Chain $HOOD tokenized assets hit $166.5M in total value, spanning stocks, ETFs, commodities, and U.S. Treasuries. https://t.co/4heRqjVsCx",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR1obigX0AwqAXV.jpg",
+        "https://pbs.twimg.com/media/HR1obikXgBAlN-t.jpg"
+      ],
+      "engagement": {
+        "likes": 24,
+        "replies": 17,
+        "reposts": 7,
+        "quotes": 2,
+        "views": 12610
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T07:27:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR1obigX0AwqAXV.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097947832070115711-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR1obikXgBAlN-t.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2097947832070115711-2.jpg",
           "status": "archived"
         }
       ]
@@ -223594,6 +223628,47 @@
       "completedAt": "2026-09-10T07:19:38Z",
       "summary": "Apify scanned both benchmark accounts, archived media, reconciled package and Postiz delivery state, rebuilt the hard-TTL queue, and completed reporting; no new eligible benchmark posts or fresh queue items were available, so no new package was produced or submitted.",
       "reason": "The current freshness-first production queue was empty. One previously accepted Postiz delivery was reconciled to its verified public X URL without retrying it."
+    },
+    {
+      "id": "run-20260910T072609Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:26:09Z",
+      "completedAt": "2026-09-10T07:26:09Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T072741Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:27:41Z",
+      "completedAt": "2026-09-10T07:27:41Z",
+      "summary": "Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T072744Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:27:44Z",
+      "completedAt": "2026-09-10T07:27:44Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T072833Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T07:26:06Z",
+      "completedAt": "2026-09-10T07:28:33Z",
+      "summary": "Apify scanned both benchmark accounts, archived benchmark media, reconciled package statuses, rebuilt the hard-TTL queue, and completed the no-publish freshness workflow; no fresh queue items were available, so no package was produced or submitted.",
+      "reason": "No fresh eligible queue items were available inside the 90-minute source TTL.",
+      "selectedPackageIds": []
     }
   ],
   "deliveryCircuitBreaker": {
