@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T16:21:40.756503+00:00`
+- 状态更新：`2026-09-10T16:35:19.674278+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**534**
-- 待选选题：**460**
-- 待发布制作包：**3**
+- 对标帖子快照：**536**
+- 待选选题：**462**
+- 待发布制作包：**4**
 - 已验证发布：**208**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 16:24:47 +0000 2026 | JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock. https://t.co/MjmPQDdxq5 | [X](https://x.com/WhaleInsider/status/2098085286198604002) |
+| @WhaleInsider | Thu Sep 10 16:30:08 +0000 2026 | JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting, liquidity, risk, reconciliation and reporting. https://t.co/wiiBZ6WMf8 | [X](https://x.com/WhaleInsider/status/2098086633262199066) |
 | @StockMKTNewz | Thu Sep 10 16:14:59 +0000 2026 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID:  Cybersecurity is the next major use case of AI https://t.co/vg6jEDaAgW | [X](https://x.com/StockMKTNewz/status/2098082819452833956) |
 | @StockMKTNewz | Thu Sep 10 15:56:12 +0000 2026 | The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first time since June  🔴🔴🔴🔴 | [X](https://x.com/StockMKTNewz/status/2098078093286031846) |
 | @StockMKTNewz | Thu Sep 10 15:31:56 +0000 2026 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the $BLK shares he owns https://t.co/5RHz0Zbk0v | [X](https://x.com/StockMKTNewz/status/2098071985452441657) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Sun Nov 03 13:26:40 +0000 2024 | I feel like we stopped talking about this too quickly … SpaceX literally caught a rocket a couple of weeks ago https://t.co/BXMcMmLJZE | [X](https://x.com/StockMKTNewz/status/1853066264563834973) |
 | @WhaleInsider | Thu Aug 07 21:58:21 +0000 2025 | JUST IN: 🇺🇸 SEC vs Ripple $XRP case is officially over. https://t.co/i0WCoWf1tX | [X](https://x.com/WhaleInsider/status/1953576472243065035) |
 | @WhaleInsider | Wed Apr 16 09:08:14 +0000 2025 | JUST IN: 🇨🇳 China's local governments sell 15,000 Bitcoin worth $1.25 billion via offshore private entities: Reuters. https://t.co/N7L5b8PxNi | [X](https://x.com/WhaleInsider/status/1912432838030364678) |
-| @WhaleInsider | Wed Jan 15 17:24:04 +0000 2025 | You will be a millionaire. | [X](https://x.com/WhaleInsider/status/1879580320695214120) |
-| @StockMKTNewz | Thu Sep 10 11:47:59 +0000 2026 | Taiwan Semiconductor $TSM just reported August sales of $16.35 Billion up 53.3% YoY  TSMC has now brought in a total of ~$107.1 Billion of revenue so far in 2026 up 39% YoY https://t.co/07c4r7sWEN | [X](https://x.com/StockMKTNewz/status/2098015628158259276) |
 
 ## 选题推荐
 
@@ -186,6 +186,7 @@
 | 1 | Salesforce $CRM has reportedly held talks to acquire AI-powered customer research platform L… | StockMKTNewz | 9331 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The S&amp;P 500 is currently on pace for its 4th straight RED day in a row for the first tim… | StockMKTNewz | 7938 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | NVIDIA $NVDA CEO JENSEN HUANG JUST SAID: Cybersecurity is the next major use case of AI http… | StockMKTNewz | 5708 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting… | WhaleInsider | 9085 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -247,6 +248,7 @@
 | 2 | JUST IN: 🇪🇺 Traders fully price in three more ECB rate hikes by mid-2027. https://t.co/kR9IT… | WhaleInsider | 16741 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says they have made progress on all … | WhaleInsider | 19196 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Blackrock CEO Larry Fink gets paid almost $5 Million pre tax per year in dividends from the … | StockMKTNewz | 14023 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock.… | WhaleInsider | 14992 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3211,6 +3213,13 @@ The S&P 500 is on pace for its 4th straight red day, the first such streak since
 
 NVIDIA CEO Jensen Huang said cybersecurity is the next major use case of AI.
 
+### Ripple expands GSmart AI across treasury operations
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-ripple-gsmart-ai/when2buy-image-model.png`
+
+Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk, reconciliation and reporting.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3427,6 +3436,10 @@ NVIDIA CEO Jensen Huang said cybersecurity is the next major use case of AI.
 
 ## 最近运行
 
+- `2026-09-10T16:35:19Z` **publish / succeeded** — Postiz delivery safely deferred before acceptance because the 15-minute minimum submission interval was active. minimum_interval; retryAt=2026-09-10T16:35:49Z; package remains ready and must not be retried before the next scheduled cycle.
+- `2026-09-10T16:34:06Z` **produce / succeeded** — Produced one newest fresh Ripple GSmart package with generated entity visual and exact-logo composite.
+- `2026-09-10T16:31:41Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T16:31:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
 - `2026-09-10T16:21:19Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T16:20:23Z` **produce / succeeded** — Produced the single newest fresh NVIDIA cybersecurity package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T16:18:11Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3443,7 +3456,3 @@ NVIDIA CEO Jensen Huang said cybersecurity is the next major use case of AI.
 - `2026-09-10T15:46:59Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T15:46:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 2 new post(s).
 - `2026-09-10T15:45:40Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T15:34:15Z` **publish / succeeded** — The newest fresh OpenAI government-access package was safely deferred because an accepted Postiz task remains within delayed-success reconciliation grace; no submission was accepted and the package remains recoverable. pending_delivery_reconciliation for pkg-20260910-walmart-papa-johns-delivery; no retry was made.
-- `2026-09-10T15:33:17.694987+00:00` **produce / succeeded** — Produced the single newest fresh OpenAI government-access package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T15:30:50Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T15:30:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).

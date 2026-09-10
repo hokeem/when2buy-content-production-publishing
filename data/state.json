@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T16:21:40.756503+00:00",
+  "updatedAt": "2026-09-10T16:35:19.674278+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14695,6 +14695,74 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098086633262199066",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098086633262199066",
+      "postedAt": "Thu Sep 10 16:30:08 +0000 2026",
+      "text": "JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting, liquidity, risk, reconciliation and reporting. https://t.co/wiiBZ6WMf8",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3mrAKawAEumwS.jpg",
+        "https://pbs.twimg.com/media/HR3mq_nWEAceb-k.jpg"
+      ],
+      "engagement": {
+        "likes": 16,
+        "replies": 4,
+        "reposts": 8,
+        "quotes": 2,
+        "views": 8085
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T16:31:36Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3mrAKawAEumwS.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098086633262199066-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3mq_nWEAceb-k.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098086633262199066-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098085286198604002",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098085286198604002",
+      "postedAt": "Thu Sep 10 16:24:47 +0000 2026",
+      "text": "JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock. https://t.co/MjmPQDdxq5",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR3lcgxawAUsYRN.jpg",
+        "https://pbs.twimg.com/media/HR3lcgFWsAUGyY5.jpg"
+      ],
+      "engagement": {
+        "likes": 40,
+        "replies": 18,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 12852
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T16:31:36Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3lcgxawAUsYRN.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098085286198604002-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR3lcgFWsAUGyY5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098085286198604002-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -23435,6 +23503,44 @@
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098086633262199066",
+      "rank": 1,
+      "title": "JUST IN: Ripple announces major GSmart expansion, bringing policy-governed AI to forecasting…",
+      "benchmarkPostId": "2098086633262199066",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098086633262199066",
+      "score": 9085,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "produced",
+      "createdAt": "2026-09-10T16:31:41Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098085286198604002",
+      "rank": 2,
+      "title": "JUST IN: $PENPE dev burns 1% of the token supply, with the memecoin paired with Apple stock.…",
+      "benchmarkPostId": "2098085286198604002",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098085286198604002",
+      "score": 14992,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T16:31:41Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -34467,6 +34573,44 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-10T16:21:19Z",
       "publishedAt": "2026-09-10T16:20:00.000Z"
+    },
+    {
+      "id": "pkg-20260910-ripple-gsmart-ai",
+      "benchmarkPostId": "2098086633262199066",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098086633262199066",
+      "title": "Ripple expands GSmart AI across treasury operations",
+      "status": "ready",
+      "postText": "Ripple just expanded GSmart AI into policy-governed forecasting, liquidity, risk, reconciliation and reporting.",
+      "mirroredFacts": [
+        "Ripple announced a major GSmart expansion.",
+        "The expansion brings policy-governed AI to forecasting, liquidity, risk, reconciliation and reporting."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098086633262199066",
+        "https://treasury.ripple.com/product-cards/gsmart-ai-overview-product-card",
+        "https://treasury.ripple.com/solutions/ai/treasury-ai-platform"
+      ],
+      "imagePath": "deliverables/pkg-20260910-ripple-gsmart-ai/when2buy-image-model.png",
+      "createdAt": "2026-09-10T16:34:06Z",
+      "sourceExpiresAt": "2026-09-10T18:00:08Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Complete square entity-led Ripple Treasury GSmart AI scene with a near-black institutional treasury operations room, central AI treasury data core, concrete motifs for forecasting, liquidity, risk, reconciliation and reporting, clean lower-left typography/logo-safe space, no generated text or branding; factual typography and exact repository logo composited afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T16:34:30Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led Ripple Treasury AI treasury scene",
+            "fact-only copy composited once",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, watermark or generated branding",
+            "exact repository logo composited once in lower-left clear space"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -251304,6 +251448,53 @@
       "completedAt": "2026-09-10T16:21:19Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260910T163136Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T16:31:36Z",
+      "completedAt": "2026-09-10T16:31:36Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T163141Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T16:31:41Z",
+      "completedAt": "2026-09-10T16:31:41Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T163406Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T16:34:06Z",
+      "completedAt": "2026-09-10T16:34:06Z",
+      "summary": "Produced one newest fresh Ripple GSmart package with generated entity visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260910-ripple-gsmart-ai"
+      ]
+    },
+    {
+      "id": "run-20260910T163519Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T16:35:19Z",
+      "completedAt": "2026-09-10T16:35:19Z",
+      "summary": "Postiz delivery safely deferred before acceptance because the 15-minute minimum submission interval was active.",
+      "reason": "minimum_interval; retryAt=2026-09-10T16:35:49Z; package remains ready and must not be retried before the next scheduled cycle.",
+      "selectedPackageIds": [
+        "pkg-20260910-ripple-gsmart-ai"
+      ],
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
