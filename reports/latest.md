@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T00:26:54.706778+00:00`
+- 状态更新：`2026-09-10T00:42:25.237267+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**487**
-- 待选选题：**425**
+- 对标帖子快照：**488**
+- 待选选题：**426**
 - 待发布制作包：**0**
-- 已验证发布：**200**
+- 已验证发布：**201**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 00:31:29 +0000 2026 | Nvidia $NVDA just posted this:  “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are expanding land, power and shell capacity to host AI factories, supporting the nation’s growing demand for AI compute.” https://t.co/mWTRafIczS | [X](https://x.com/StockMKTNewz/status/2097845382281662509) |
 | @StockMKTNewz | Wed Sep 09 16:59:20 +0000 2026 | Apple $AAPL is about to release its brand new iPhone 📱   The event is starting right now … expect to see a lot of Apple tweets from me over the next hour | [X](https://x.com/StockMKTNewz/status/2097731592013684977) |
 | @StockMKTNewz | Wed Sep 09 17:08:01 +0000 2026 | Apple $AAPL just started its first iPhone keynote with John Ternus leading the company  https://t.co/Nm0bf66hfy | [X](https://x.com/StockMKTNewz/status/2097733776902107414) |
 | @StockMKTNewz | Wed Sep 09 17:10:51 +0000 2026 | APPLE $AAPL JUST ANNOUNCED THE NEW IPHONE 18 AND 18 PRO WITH A NEW BURGUNDY COLOR https://t.co/2EMtIsw05y | [X](https://x.com/StockMKTNewz/status/2097734489677992051) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Wed Sep 09 17:31:22 +0000 2026 | Apple $AAPL just announced Upgrade a new $34.99 per month subscription that lets you rent a new iPhone 18 Pro https://t.co/H7KooF6VXh | [X](https://x.com/StockMKTNewz/status/2097739656531972302) |
 | @StockMKTNewz | Wed Sep 09 17:32:12 +0000 2026 | APPLE $AAPL JUST ANNOUNCED THE NEW AIRPODS 5 | [X](https://x.com/StockMKTNewz/status/2097739863147642923) |
 | @StockMKTNewz | Wed Sep 09 17:35:45 +0000 2026 | Apple $AAPL just announced the new AirPods 5 which start at $129 https://t.co/KRAhTlh8ek | [X](https://x.com/StockMKTNewz/status/2097740756291108977) |
-| @StockMKTNewz | Wed Sep 09 17:46:18 +0000 2026 | Apple $AAPL just announced a new redesigned AI powered Health app coming later this year to the United States 🇺🇸  The new Health app will have use Apple Intelligence built in to give you personalized guidance on all the data it collects https://t.co/GGHVByre9I | [X](https://x.com/StockMKTNewz/status/2097743411621110173) |
 
 ## 选题推荐
 
@@ -160,6 +160,7 @@
 | 1 | The future of trading https://t.co/ERAAAlafWK | StockMKTNewz | 9441 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | ZYN IS EXPANDING ITS LINEUP Philip Morris $PM owned Zyn announced today it will begin sellin… | StockMKTNewz | 2421 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Cathie Wood and Ark Invest bought 43,091 more shares of Meta Platforms $META today https://t… | StockMKTNewz | 4776 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Nvidia $NVDA just posted this: “NVIDIA and Australia’s 🇦🇺 AI infrastructure ecosystem are ex… | StockMKTNewz | 6442 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -2987,6 +2988,13 @@ $PM-owned ZYN is adding 1.5mg and 8mg dry pouches, while ZYN Ultra launches at 9
 
 Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today.
 
+### NVIDIA and Australia expand AI-factory infrastructure
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-nvidia-australia-ai-factories/when2buy-image-model.png`
+
+$NVDA and Australia’s AI infrastructure ecosystem are expanding land, power and shell capacity for AI factories.  The buildout supports growing national demand for AI compute.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3192,9 +3200,16 @@ Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097840407136833587) |
+| NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2097847871278293375) |
 
 ## 最近运行
 
+- `2026-09-10T00:42:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:41:24.010111+00:00` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T00:40:22.691895+00:00` **produce / succeeded** — Produced the sole fresh queue package with an inspected image-model visual and exact-logo composite.
+- `2026-09-10T00:36:55Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T00:36:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
+- `2026-09-10T00:36:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:26:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:26:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
 - `2026-09-10T00:25:52Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3209,9 +3224,3 @@ Cathie Wood's ARK Invest bought 43,091 more shares of Meta Platforms $META today
 - `2026-09-10T00:08:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:08:20Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T00:08:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).
-- `2026-09-10T00:05:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:56:09Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status and Postiz publication reconciliation, hard-TTL queue rebuild, validation, and reporting completed; no fresh queue items remained, so no content was produced or published.
-- `2026-09-09T23:56:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-09T23:56:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-09T23:45:49Z` **full / succeeded** — Apify collection from both benchmark accounts, media archive, package-status reconciliation, hard-TTL queue rebuild, one image-model package, and one serial verified X publication completed.
-- `2026-09-09T23:52:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
