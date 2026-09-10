@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T22:33:48.853306+00:00`
+- 状态更新：`2026-09-10T22:50:55.849143+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**567**
 - 待选选题：**493**
 - 待发布制作包：**1**
-- 已验证发布：**219**
+- 已验证发布：**220**
 
 ## 对标账号扫描
 
@@ -3377,6 +3377,13 @@ The Pentagon is in talks to lend roughly $5B to AI cloud startup Fluidstack.  Th
 
 GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase covered 1,000,000 shares at a weighted average price of $20.3759.
 
+### SpaceX signs $1.11B-a-month AI hosting agreement
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260910-spacex-ai-hosting-111b-month/when2buy-image-model.png`
+
+SpaceX signed an AI hosting agreement worth about $1.11B a month.  The contract is scheduled to begin December 1.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3601,9 +3608,15 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098170354678341984) |
+| SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098182454305784207) |
 
 ## 最近运行
 
+- `2026-09-10T22:50:55Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-10T22:50:26.008532+00:00` **produce / succeeded** — Produced the single newest fresh SpaceX AI-hosting package with inspected entity visual and exact-logo composite.
+- `2026-09-10T22:47:50Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T22:47:13Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T22:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-10T22:33:48Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-10T22:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 127 eligible originals and added 1 new post(s).
 - `2026-09-10T22:31:31Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3619,8 +3632,3 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 - `2026-09-10T21:50:00Z` **publish / succeeded** — Newest fresh Fluidstack/Pentagon package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour account limit was reached. daily_limit
 - `2026-09-10T21:49:35Z` **produce / succeeded** — Produced the sole newest fresh Fluidstack/Pentagon package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T21:46:58Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T21:46:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 0 new post(s).
-- `2026-09-10T21:46:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 3 new post(s).
-- `2026-09-10T21:45:34Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T21:35:35Z` **publish / succeeded** — Newest fresh KERMIT package remained ready; Postiz safely deferred before acceptance because the rolling 24-hour limit is exhausted. daily_limit; retryAt=2026-09-10T21:50:00Z
-- `2026-09-10T21:34:22Z` **produce / succeeded** — Produced the sole newest fresh KERMIT/Robinhood Chain package with an inspected entity-led image and exact-logo composite.
