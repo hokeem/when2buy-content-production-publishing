@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T23:18:26.335844+00:00`
+- 状态更新：`2026-09-10T23:32:24.736347+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**567**
 - 待选选题：**493**
@@ -3613,6 +3613,8 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 
 ## 最近运行
 
+- `2026-09-10T23:32:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T23:30:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:18:08Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T23:17:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
 - `2026-09-10T23:16:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3631,5 +3633,3 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 - `2026-09-10T22:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 127 eligible originals and added 1 new post(s).
 - `2026-09-10T22:31:31Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T22:30:38Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T22:19:17Z` **produce / succeeded** — Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.
-- `2026-09-10T22:17:16Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
