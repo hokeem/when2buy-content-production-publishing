@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T11:19:35.032097+00:00",
+  "updatedAt": "2026-09-10T11:35:39.846936+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -13785,6 +13785,28 @@
       "isPinned": false,
       "capturedAt": "2026-09-10T11:16:33Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098009124122345551",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098009124122345551",
+      "postedAt": "Thu Sep 10 11:22:08 +0000 2026",
+      "text": "NVIDIA AND PALANTIR PARTNERSHIP\n\nPalantir $PLTR and Nvidia $NVDA just announced a new partnership to \"bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.\"\n\nThe two companies built an AI stack combining NVIDIA's open Nemotron models with Palantir's Foundry, AIP, and Ontology, aimed at giving NVIDIA's supply chain teams real-time visibility into constraints and faster materials allocation decisions across a network of millions of parts and thousands of suppliers",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR2fFV5bYAEkS92.jpg",
+        "https://pbs.twimg.com/media/HR2fKVeWwAEsAS_.jpg"
+      ],
+      "engagement": {
+        "likes": 38,
+        "replies": 2,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 7609
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T11:31:55Z"
     }
   ],
   "radar": [
@@ -22102,6 +22124,25 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-10T11:16:36Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098009124122345551",
+      "rank": 1,
+      "title": "NVIDIA AND PALANTIR PARTNERSHIP Palantir $PLTR and Nvidia $NVDA just announced a new partner…",
+      "benchmarkPostId": "2098009124122345551",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098009124122345551",
+      "score": 8709,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T11:33:08Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
@@ -32247,7 +32288,7 @@
       "benchmarkPostId": "2097986246509314464",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2097986246509314464",
       "title": "Charles Schwab fund family discloses $4.8M in XRP ETF collateral",
-      "status": "ready",
+      "status": "expired",
       "postText": "Charles Schwab's fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs.",
       "mirroredFacts": [
         "Charles Schwab's fund family disclosed $4.8M in XRP ETF shares as collateral.",
@@ -32279,7 +32320,9 @@
             "exact repository logo composited once"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-10T11:30:31Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260910-meta-jpmorgan-overweight-820",
@@ -32426,6 +32469,46 @@
           "entityLed": "passed",
           "logoCompositedOnce": "passed",
           "copyProofread": "passed"
+        }
+      }
+    },
+    {
+      "id": "pkg-20260910-palantir-nvidia-supply-chains",
+      "benchmarkPostId": "2098009124122345551",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098009124122345551",
+      "title": "Palantir and NVIDIA partner on critical supply chains",
+      "status": "ready",
+      "postText": "Palantir and NVIDIA are partnering to bring sovereign AI to critical supply chains, starting with NVIDIA's own operations.",
+      "mirroredFacts": [
+        "Palantir and NVIDIA announced a partnership to bring sovereign AI to critical supply chains.",
+        "The companies are starting with NVIDIA's own operations.",
+        "The AI stack combines NVIDIA Nemotron models with Palantir Foundry, AIP, and Ontology."
+      ],
+      "verificationSources": [
+        "https://investor.nvidia.com/news/press-release-details/2025/Palantir-and-NVIDIA-Team-Up-to-Operationalize-AI--Turning-Enterprise-Data-Into-Dynamic-Decision-Intelligence/default.aspx",
+        "https://x.com/StockMKTNewz/status/2098009124122345551"
+      ],
+      "imagePath": "deliverables/pkg-20260910-palantir-nvidia-supply-chains/when2buy-image-model.png",
+      "createdAt": "2026-09-10T11:35:07Z",
+      "sourceExpiresAt": "2026-09-10T12:52:08Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led financial-news visual: Palantir and NVIDIA partnership bringing sovereign AI to critical supply chains, starting with NVIDIA operations; realistic GPU server, factories, cargo routes, inventory nodes, global logistics map; premium near-black, white, restrained red; exact phrases PALANTIR + NVIDIA and AI FOR CRITICAL SUPPLY CHAINS; no source, attribution, disclaimer, commentary, CTA, tagline, watermark, generated logo, or pure typography card.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T11:35:07Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led GPU server and supply-chain scene",
+            "exact PALANTIR + NVIDIA and AI FOR CRITICAL SUPPLY CHAINS text",
+            "premium near-black, white, and restrained-red palette",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once"
+          ]
         }
       }
     }
@@ -233821,6 +233904,46 @@
         "publicUrl": null,
         "retryAt": "2026-09-10T12:14:00Z"
       }
+    },
+    {
+      "id": "run-20260910T113034Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:30:34Z",
+      "completedAt": "2026-09-10T11:30:34Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T113139Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:31:39Z",
+      "completedAt": "2026-09-10T11:31:39Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T113156Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:31:56Z",
+      "completedAt": "2026-09-10T11:31:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 118 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T113308Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T11:33:08Z",
+      "completedAt": "2026-09-10T11:33:08Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

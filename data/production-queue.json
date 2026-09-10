@@ -1,14 +1,54 @@
 {
-  "generatedAt": "2026-09-10T11:16:36Z",
+  "generatedAt": "2026-09-10T11:33:08Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098005603591307474",
+      "benchmarkPostId": "2098009124122345551",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098009124122345551",
+      "originalText": "NVIDIA AND PALANTIR PARTNERSHIP\n\nPalantir $PLTR and Nvidia $NVDA just announced a new partnership to \"bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.\"\n\nThe two companies built an AI stack combining NVIDIA's open Nemotron models with Palantir's Foundry, AIP, and Ontology, aimed at giving NVIDIA's supply chain teams real-time visibility into constraints and faster materials allocation decisions across a network of millions of parts and thousands of suppliers",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR2fFV5bYAEkS92.jpg",
+        "https://pbs.twimg.com/media/HR2fKVeWwAEsAS_.jpg"
+      ],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 38,
+        "replies": 2,
+        "reposts": 4,
+        "quotes": 1,
+        "views": 7609
+      },
+      "postedAt": "Thu Sep 10 11:22:08 +0000 2026",
+      "score": 8709,
+      "heatScore": 8709,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 11.0,
+        "expiresAt": "2026-09-10T12:52:08Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098005603591307474",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260910-single-letter-stock-tickers",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098005603591307474",
       "originalText": "Here is every stock with a single letter stock ticker\n\n$A - Agilent \n$B - Barrick Mining\n$C - Citi\n$D - Dominion Energy\n$E - Eni\n$F - Ford\n$G - Genpact\n$H - Hyatt Hotel\n$I \n$J - Jacobs Solutions\n$K \n$L - Lowes\n$M - Macy's\n$N  \n$O - Realty Income\n$P - Everpure\n$Q - Qnity\n$R - Ryder\n$S - SentinelOne\n$T - AT&T\n$U - Unity Software\n$V - Visa\n$W - Wayfair\n$X \nsolana:BksqjaKyJqHV5qqbKyAgwZ66JhGKZc33rGkMyKjApump \n$Z - Zillow",
       "originalMediaUrls": [],
@@ -34,14 +74,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 8.5,
+        "ageMinutes": 25.0,
         "expiresAt": "2026-09-10T12:38:09Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098003348997697583",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -79,14 +119,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 17.4,
+        "ageMinutes": 33.9,
         "expiresAt": "2026-09-10T12:29:12Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098002593259593965",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -124,14 +164,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 20.4,
+        "ageMinutes": 37.0,
         "expiresAt": "2026-09-10T12:26:11Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "benchmarkPostId": "2098000894960742588",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -169,14 +209,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 27.2,
+        "ageMinutes": 43.7,
         "expiresAt": "2026-09-10T12:19:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "benchmarkPostId": "2097999228006023573",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-nasdaq-payward-21b-valuation",
@@ -214,14 +254,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 33.8,
+        "ageMinutes": 50.3,
         "expiresAt": "2026-09-10T12:12:49Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 7,
       "benchmarkPostId": "2097997097345679418",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -251,14 +291,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 42.3,
+        "ageMinutes": 58.8,
         "expiresAt": "2026-09-10T12:04:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 7,
+      "rank": 8,
       "benchmarkPostId": "2097996211127033977",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260910-xrp-above-150-september",
@@ -302,59 +342,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 45.8,
+        "ageMinutes": 62.3,
         "expiresAt": "2026-09-10T12:00:50Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2097986246509314464",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260910-schwab-xrp-etf-collateral-48m",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2097986246509314464",
-      "originalText": "JUST IN: Charles Schwab’s fund family disclosed $4.8M in $XRP ETF shares as collateral across Grayscale, Canary and Franklin ETFs - SEC filing. https://t.co/UMgll4t94M",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR2LXpzaIAAAnT2.jpg",
-        "https://pbs.twimg.com/media/HR2LXpxaIAADnZM.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2LXpzaIAAAnT2.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097986246509314464-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR2LXpxaIAADnZM.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2097986246509314464-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 35,
-        "replies": 16,
-        "reposts": 8,
-        "quotes": 3,
-        "views": 13372
-      },
-      "postedAt": "Thu Sep 10 09:51:14 +0000 2026",
-      "score": 15292,
-      "heatScore": 15292,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 85.4,
-        "expiresAt": "2026-09-10T11:21:14Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
