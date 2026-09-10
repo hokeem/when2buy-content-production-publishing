@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T05:27:31.822168+00:00`
+- 状态更新：`2026-09-10T05:39:31.030916+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**488**
 - 待选选题：**426**
@@ -3204,6 +3204,10 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 
 ## 最近运行
 
+- `2026-09-10T05:35:50Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
+- `2026-09-10T05:38:18Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T05:37:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 83 eligible originals and added 0 new post(s).
+- `2026-09-10T05:35:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T05:26:01Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, publication and package-status reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No eligible source post remained inside the 90-minute TTL.
 - `2026-09-10T05:26:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T05:26:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -3220,7 +3224,3 @@ $NVDA and Australia’s AI infrastructure ecosystem are expanding land, power an
 - `2026-09-10T04:46:01Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No fresh eligible benchmark posts remained inside the 90-minute source TTL.
 - `2026-09-10T04:47:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T04:47:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 0 new post(s).
-- `2026-09-10T04:38:31Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published. No fresh eligible benchmark posts remained inside the 90-minute source TTL.
-- `2026-09-10T04:37:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T04:37:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-10T04:25:50Z` **full / succeeded** — Apify collection from both benchmark accounts, benchmark-media archive, verified-package reconciliation, and hard-TTL queue rebuild completed; no fresh queue items remained, so no content was produced or published.
