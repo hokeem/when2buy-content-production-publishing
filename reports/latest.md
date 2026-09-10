@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T18:05:06.126257+00:00`
+- 状态更新：`2026-09-10T18:20:17.981537+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**543**
-- 待选选题：**469**
-- 待发布制作包：**1**
+- 对标帖子快照：**544**
+- 待选选题：**470**
+- 待发布制作包：**2**
 - 已验证发布：**212**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Thu Sep 10 18:06:35 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM | [X](https://x.com/WhaleInsider/status/2098110906240553240) |
 | @StockMKTNewz | Thu Sep 10 17:52:26 +0000 2026 | OpenAI just announced the launch of ChatGPT for Financial Services  “a tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.” https://t.co/XWQpidcI3r | [X](https://x.com/StockMKTNewz/status/2098107342378119604) |
 | @StockMKTNewz | Thu Sep 10 17:30:28 +0000 2026 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT | [X](https://x.com/StockMKTNewz/status/2098101816231616887) |
 | @StockMKTNewz | Thu Sep 10 17:07:02 +0000 2026 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9 | [X](https://x.com/StockMKTNewz/status/2098095920927707212) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 12:17:56 +0000 2026 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | [X](https://x.com/StockMKTNewz/status/2098023164152369238) |
 | @WhaleInsider | Thu Sep 10 12:25:35 +0000 2026 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42 | [X](https://x.com/WhaleInsider/status/2098025091581747413) |
 | @WhaleInsider | Fri Apr 19 18:13:53 +0000 2024 | BREAKING : The first official centralized exchange on Solana $SOLCEX (@SolCex_Exchange) releases demo video. https://t.co/fduhzg9TUk | [X](https://x.com/WhaleInsider/status/1781385748106580171) |
-| @StockMKTNewz | Sat Feb 24 19:13:16 +0000 2024 | Nvidia $NVDA vs Intel $INTC: 2014 to today  https://t.co/NqUFZpQMjE | [X](https://x.com/StockMKTNewz/status/1761469357815652791) |
 
 ## 选题推荐
 
@@ -191,6 +191,7 @@
 | 1 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests… | StockMKTNewz | 9156 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0… | StockMKTNewz | 3135 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI just announced the launch of ChatGPT for Financial Services “a tailored ChatGPT Work … | StockMKTNewz | 9342 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this w… | WhaleInsider | 15827 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3255,6 +3256,13 @@ Whole Foods store workers now make more than $21 an hour on average.
 
 OpenAI just announced ChatGPT for Financial Services.  The tailored ChatGPT Work experience combines built-in financial data with GPT-6 Astra reasoning for research, financial models, and customized client materials.
 
+### U.S. Treasury $6B debt buyback
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-treasury-debt-buyback/when2buy-image.png`
+
+U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 operation.  That is triple the size of its last long-dated buyback.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3475,6 +3483,12 @@ OpenAI just announced ChatGPT for Financial Services.  The tailored ChatGPT Work
 
 ## 最近运行
 
+- `2026-09-10T18:15:00Z` **full / succeeded** — Scanned both benchmark feeds, archived media, produced one newest fresh package, and safely deferred Postiz submission because the rolling daily limit was exhausted. daily_limit; retryAt 2026-09-10T19:32:00Z; package remains ready and must not be retried before a future scheduled run.
+- `2026-09-10T18:16:48Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T18:16:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 50 eligible originals and added 0 new post(s).
+- `2026-09-10T18:16:31Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T18:16:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 50 eligible originals and added 1 new post(s).
+- `2026-09-10T18:15:33Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:03:57Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-10T19:32:00Z
 - `2026-09-10T18:03:48.896255Z` **produce / succeeded** — Produced one newest fresh ChatGPT for Financial Services package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T18:01:26Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3489,9 +3503,3 @@ OpenAI just announced ChatGPT for Financial Services.  The tailored ChatGPT Work
 - `2026-09-10T17:33:24Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T17:31:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T17:31:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-10T17:19:51Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T17:19:15Z` **produce / succeeded** — Produced one newest fresh Anthropic/Moonshot package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T17:16:37Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-10T17:16:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).
-- `2026-09-10T17:04:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T17:03:21Z` **produce / succeeded** — Produced one newest fresh Pentagon AI package with an inspected entity-led image and exact-logo composite.

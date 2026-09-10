@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T18:05:06.126257+00:00",
+  "updatedAt": "2026-09-10T18:20:17.981537+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -14971,6 +14971,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098110906240553240",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098110906240553240",
+      "postedAt": "Thu Sep 10 18:06:35 +0000 2026",
+      "text": "JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR38tv2W8AU05Fe.jpg",
+        "https://pbs.twimg.com/media/HR38uPBasAAX7jd.jpg"
+      ],
+      "engagement": {
+        "likes": 40,
+        "replies": 19,
+        "reposts": 14,
+        "quotes": 1,
+        "views": 13507
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T18:16:27Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR38tv2W8AU05Fe.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098110906240553240-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR38uPBasAAX7jd.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098110906240553240-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -23882,6 +23916,25 @@
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098110906240553240",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this w…",
+      "benchmarkPostId": "2098110906240553240",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098110906240553240",
+      "score": 15827,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T18:16:31Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -35125,6 +35178,34 @@
             "not a pure-text card or generic radar visual"
           ]
         }
+      }
+    },
+    {
+      "id": "pkg-20260910-treasury-debt-buyback",
+      "benchmarkPostId": "2098110906240553240",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098110906240553240",
+      "title": "U.S. Treasury $6B debt buyback",
+      "status": "ready",
+      "postText": "U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 operation.\n\nThat is triple the size of its last long-dated buyback.",
+      "mirroredFacts": [
+        "The U.S. Treasury's September 10 operation is set to buy back up to $6 billion of 10- to 20-year Treasury bonds.",
+        "The operation is triple the size of the last long-dated buyback."
+      ],
+      "verificationSources": [
+        "https://www.investing.com/news/economy-news/us-treasury-to-buy-up-to-6-billion-in-sept-10-buyback-operation-4894098",
+        "https://home.treasury.gov/news/press-releases/sb0607",
+        "https://treasurydirect.gov/auctions/announcements-data-results/buy-backs/",
+        "https://x.com/WhaleInsider/status/2098110906240553240"
+      ],
+      "imagePath": "deliverables/pkg-20260910-treasury-debt-buyback/when2buy-image.png",
+      "createdAt": "2026-09-10T18:20:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square entity-led editorial visual of the U.S. Treasury Department, official debt certificates, and a restrained buyback market motif; near-black base, white type, controlled red accents, no generated logos or watermark, clean lower-right logo-safe area.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "generatedBasePath": "deliverables/pkg-20260910-treasury-debt-buyback/generated-base.png",
+        "finalImagePath": "deliverables/pkg-20260910-treasury-debt-buyback/when2buy-image.png"
       }
     }
   ],
@@ -258620,6 +258701,68 @@
         "pkg-20260910-chatgpt-financial-services"
       ],
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260910T181533Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:15:33Z",
+      "completedAt": "2026-09-10T18:15:33Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T181627Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:16:27Z",
+      "completedAt": "2026-09-10T18:16:27Z",
+      "summary": "Apify scanned both benchmark accounts; captured 50 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T181631Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:16:31Z",
+      "completedAt": "2026-09-10T18:16:31Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T181644Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:16:44Z",
+      "completedAt": "2026-09-10T18:16:44Z",
+      "summary": "Apify scanned both benchmark accounts; captured 50 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T181648Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:16:48Z",
+      "completedAt": "2026-09-10T18:16:48Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T182200Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:15:00Z",
+      "completedAt": "2026-09-10T18:22:00Z",
+      "summary": "Scanned both benchmark feeds, archived media, produced one newest fresh package, and safely deferred Postiz submission because the rolling daily limit was exhausted.",
+      "reason": "daily_limit; retryAt 2026-09-10T19:32:00Z; package remains ready and must not be retried before a future scheduled run."
     }
   ],
   "deliveryCircuitBreaker": {
