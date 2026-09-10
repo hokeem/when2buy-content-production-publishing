@@ -1,14 +1,51 @@
 {
-  "generatedAt": "2026-09-10T18:16:48Z",
+  "generatedAt": "2026-09-10T18:33:35Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098110906240553240",
-      "benchmarkAccount": "WhaleInsider",
+      "benchmarkPostId": "2098113572123394403",
+      "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098113572123394403",
+      "originalText": "The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 25,
+        "replies": 16,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 10175
+      },
+      "postedAt": "Thu Sep 10 18:17:11 +0000 2026",
+      "score": 11465,
+      "heatScore": 11465,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 16.4,
+        "expiresAt": "2026-09-10T19:47:11Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098110906240553240",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260910-treasury-debt-buyback",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2098110906240553240",
       "originalText": "JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM",
       "originalMediaUrls": [
@@ -48,14 +85,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 10.2,
+        "ageMinutes": 27.0,
         "expiresAt": "2026-09-10T19:36:35Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098107342378119604",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260910-chatgpt-financial-services",
@@ -93,149 +130,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 24.4,
+        "ageMinutes": 41.2,
         "expiresAt": "2026-09-10T19:22:26Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
-      "benchmarkPostId": "2098093294899110204",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098093294899110204",
-      "originalText": "Uber CEO Dara Khosrowshahi just filed for his purchase of $10 Million worth of $UBER stock at an average price of $70.96 per share https://t.co/m4HoT8i2I5",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR3suiEbcAAvaHp.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR3suiEbcAAvaHp.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098093294899110204-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 23,
-        "replies": 6,
-        "reposts": 3,
-        "quotes": 1,
-        "views": 7195
-      },
-      "postedAt": "Thu Sep 10 16:56:36 +0000 2026",
-      "score": 8105,
-      "heatScore": 8105,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 80.2,
-        "expiresAt": "2026-09-10T18:26:36Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2098092061643747622",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098092061643747622",
-      "originalText": "JUST IN: Elly launches AI-native recruiting platform, built for startups making their first critical hires.\n\nTo celebrate the launch, Elly is providing a list of top candidates to hiring managers. https://t.co/fezoOJhBv5",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR3rm9pbIAIBqHA.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR3rm9pbIAIBqHA.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098092061643747622-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 24,
-        "replies": 12,
-        "reposts": 6,
-        "quotes": 1,
-        "views": 15483
-      },
-      "postedAt": "Thu Sep 10 16:51:42 +0000 2026",
-      "score": 16803,
-      "heatScore": 16803,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 85.1,
-        "expiresAt": "2026-09-10T18:21:42Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2098090884558401767",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098090884558401767",
-      "originalText": "JUST IN: Another @MetaWin player just turned $2 into $10,000.\n\nThey currently have the best rewards of any crypto casino by a large margin.\n\nThey just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR3qgHLXwAgE7c5.jpg",
-        "https://pbs.twimg.com/amplify_video_thumb/2098090838798856192/img/UbpupuUR5jQhzquN.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR3qgHLXwAgE7c5.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098090884558401767-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098090838798856192/img/UbpupuUR5jQhzquN.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098090884558401767-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 24,
-        "replies": 14,
-        "reposts": 5,
-        "quotes": 0,
-        "views": 15636
-      },
-      "postedAt": "Thu Sep 10 16:47:02 +0000 2026",
-      "score": 16926,
-      "heatScore": 16926,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 89.8,
-        "expiresAt": "2026-09-10T18:17:02Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

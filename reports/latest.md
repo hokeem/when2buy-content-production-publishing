@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T18:20:17.981537+00:00`
+- 状态更新：`2026-09-10T18:36:37.035724+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**544**
-- 待选选题：**470**
-- 待发布制作包：**2**
+- 对标帖子快照：**545**
+- 待选选题：**471**
+- 待发布制作包：**3**
 - 已验证发布：**212**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 18:17:11 +0000 2026 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week | [X](https://x.com/StockMKTNewz/status/2098113572123394403) |
 | @WhaleInsider | Thu Sep 10 18:06:35 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM | [X](https://x.com/WhaleInsider/status/2098110906240553240) |
 | @StockMKTNewz | Thu Sep 10 17:52:26 +0000 2026 | OpenAI just announced the launch of ChatGPT for Financial Services  “a tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.” https://t.co/XWQpidcI3r | [X](https://x.com/StockMKTNewz/status/2098107342378119604) |
 | @StockMKTNewz | Thu Sep 10 17:30:28 +0000 2026 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT | [X](https://x.com/StockMKTNewz/status/2098101816231616887) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 12:31:34 +0000 2026 | 🇺🇸 PPI for August just came in at +5.4% YoY ABOVE expectations of +5.3% YoY | [X](https://x.com/StockMKTNewz/status/2098026596380639714) |
 | @StockMKTNewz | Thu Sep 10 12:17:56 +0000 2026 | THE EUROPEAN CENTRAL BANK 🇪🇺 JUST INCREASED ITS DEPOSIT RATE BY 0.25% UP TO 2.5% | [X](https://x.com/StockMKTNewz/status/2098023164152369238) |
 | @WhaleInsider | Thu Sep 10 12:25:35 +0000 2026 | JUST IN: 🇪🇺 The European Central Bank hikes rates by 25 bps, marking its second rate hike this year as rising oil prices drive up inflation. https://t.co/AwJlC5TH42 | [X](https://x.com/WhaleInsider/status/2098025091581747413) |
-| @WhaleInsider | Fri Apr 19 18:13:53 +0000 2024 | BREAKING : The first official centralized exchange on Solana $SOLCEX (@SolCex_Exchange) releases demo video. https://t.co/fduhzg9TUk | [X](https://x.com/WhaleInsider/status/1781385748106580171) |
 
 ## 选题推荐
 
@@ -192,6 +192,7 @@
 | 1 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0… | StockMKTNewz | 3135 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI just announced the launch of ChatGPT for Financial Services “a tailored ChatGPT Work … | StockMKTNewz | 9342 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this w… | WhaleInsider | 15827 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $… | StockMKTNewz | 11465 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3263,6 +3264,13 @@ OpenAI just announced ChatGPT for Financial Services.  The tailored ChatGPT Work
 
 U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 operation.  That is triple the size of its last long-dated buyback.
 
+### U.S. regular gasoline reaches $4.28 per gallon
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260910-us-gas-428/when2buy-image-model.png`
+
+U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3483,6 +3491,11 @@ U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 
 
 ## 最近运行
 
+- `2026-09-10T18:30:00Z` **full / partial** — Reconciled Postiz, collected both benchmark feeds through Apify, archived media, rebuilt the hard 90-minute queue, produced the newest fresh gasoline package, collected hourly metrics idempotently, and safely deferred publication. Apify required a bounded retry before completing; Postiz accepted no new task because the rolling 24-hour daily limit was exhausted. No backlog or expired item was published.
+- `2026-09-10T18:35:05Z` **produce / succeeded** — Produced one newest fresh U.S. gasoline package with an inspected entity-led image and exact-logo composite.
+- `2026-09-10T18:33:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-10T18:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
+- `2026-09-10T18:30:44Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:15:00Z` **full / succeeded** — Scanned both benchmark feeds, archived media, produced one newest fresh package, and safely deferred Postiz submission because the rolling daily limit was exhausted. daily_limit; retryAt 2026-09-10T19:32:00Z; package remains ready and must not be retried before a future scheduled run.
 - `2026-09-10T18:16:48Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T18:16:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 50 eligible originals and added 0 new post(s).
@@ -3498,8 +3511,3 @@ U.S. Treasury is set to buy back up to $6B of 10–20 year debt in its Sept. 10 
 - `2026-09-10T17:48:36Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
 - `2026-09-10T17:47:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T17:47:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-10T17:46:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 12 eligible originals and added 0 new post(s).
-- `2026-09-10T17:31:00Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced minimum interval; no Postiz submission was accepted and the ready package remains recoverable. minimum_interval; retryAt=2026-09-10T17:34:24Z
-- `2026-09-10T17:33:24Z` **produce / succeeded** — Produced one newest fresh Whole Foods wage package with an inspected entity-led image and exact-logo composite.
-- `2026-09-10T17:31:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T17:31:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).

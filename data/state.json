@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T18:20:17.981537+00:00",
+  "updatedAt": "2026-09-10T18:36:37.035724+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15005,6 +15005,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098113572123394403",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098113572123394403",
+      "postedAt": "Thu Sep 10 18:17:11 +0000 2026",
+      "text": "The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 25,
+        "replies": 16,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 10175
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-10T18:31:56Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -23935,6 +23955,25 @@
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098113572123394403",
+      "rank": 1,
+      "title": "The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $…",
+      "benchmarkPostId": "2098113572123394403",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098113572123394403",
+      "score": 11465,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-10T18:33:35Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -35206,6 +35245,42 @@
         "qaStatus": "passed",
         "generatedBasePath": "deliverables/pkg-20260910-treasury-debt-buyback/generated-base.png",
         "finalImagePath": "deliverables/pkg-20260910-treasury-debt-buyback/when2buy-image.png"
+      }
+    },
+    {
+      "id": "pkg-20260910-us-gas-428",
+      "benchmarkPostId": "2098113572123394403",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098113572123394403",
+      "title": "U.S. regular gasoline reaches $4.28 per gallon",
+      "status": "ready",
+      "postText": "U.S. regular gasoline now averages $4.28 per gallon, up from $4.14 last week.",
+      "mirroredFacts": [
+        "The average price of regular gasoline in the United States is $4.28 per gallon today.",
+        "The price was $4.14 per gallon last week."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098113572123394403"
+      ],
+      "imagePath": "deliverables/pkg-20260910-us-gas-428/when2buy-image-model.png",
+      "createdAt": "2026-09-10T18:35:05Z",
+      "sourceExpiresAt": "2026-09-10T19:47:11Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural\nAsset type: complete square 1:1 premium financial-news editorial visual for When2Buy\nPrimary request: an original entity-led visual about U.S. regular gasoline prices at $4.28 per gallon, up from $4.14 last week.\nScene/backdrop: realistic American fuel station forecourt at dusk, gasoline pump and nozzle dominant, no readable signage.\nSubject: one dominant fuel pump and red nozzle with concrete gasoline retail context.\nStyle/medium: cinematic photorealistic editorial photography, premium financial-news look.\nComposition/framing: exact 1:1 square; fuel pump center-right; clean upper-left typography space and lower-right logo-safe space.\nLighting/mood: high-contrast dusk lighting, urgent but factual, restrained red reflections.\nColor palette: near-black, charcoal, white, steel gray, controlled red accent.\nText (verbatim): none; no readable words, numbers, logos, or signage.\nConstraints: complete entity-led visual; no pure typography card, source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, or generated logo.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-10T18:35:05Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led fuel-pump scene",
+            "factual text proofread",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
       }
     }
   ],
@@ -258763,6 +258838,60 @@
       "completedAt": "2026-09-10T18:22:00Z",
       "summary": "Scanned both benchmark feeds, archived media, produced one newest fresh package, and safely deferred Postiz submission because the rolling daily limit was exhausted.",
       "reason": "daily_limit; retryAt 2026-09-10T19:32:00Z; package remains ready and must not be retried before a future scheduled run."
+    },
+    {
+      "id": "run-20260910T183044Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:30:44Z",
+      "completedAt": "2026-09-10T18:30:44Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T183156Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:31:56Z",
+      "completedAt": "2026-09-10T18:31:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260910T183335Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:33:35Z",
+      "completedAt": "2026-09-10T18:33:35Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T183505Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-10T18:35:05Z",
+      "completedAt": "2026-09-10T18:35:05Z",
+      "summary": "Produced one newest fresh U.S. gasoline package with an inspected entity-led image and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260910T183700Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-10T18:30:00Z",
+      "completedAt": "2026-09-10T18:37:00Z",
+      "summary": "Reconciled Postiz, collected both benchmark feeds through Apify, archived media, rebuilt the hard 90-minute queue, produced the newest fresh gasoline package, collected hourly metrics idempotently, and safely deferred publication.",
+      "reason": "Apify required a bounded retry before completing; Postiz accepted no new task because the rolling 24-hour daily limit was exhausted. No backlog or expired item was published.",
+      "selectedPackageIds": [
+        "pkg-20260910-us-gas-428"
+      ],
+      "publishOutcome": "deferred",
+      "retryAt": "2026-09-10T19:32:00Z"
     }
   ],
   "deliveryCircuitBreaker": {
