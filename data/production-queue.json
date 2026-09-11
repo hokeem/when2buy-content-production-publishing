@@ -1,20 +1,77 @@
 {
-  "generatedAt": "2026-09-11T15:31:35Z",
+  "generatedAt": "2026-09-11T15:46:51Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098431791933620311",
-      "benchmarkAccount": "StockMKTNewz",
+      "benchmarkPostId": "2098436214864904690",
+      "benchmarkAccount": "WhaleInsider",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098436214864904690",
+      "originalText": "JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer crypto services. https://t.co/hMYigRD9hS",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR8knQcW0Ao7-OC.jpg",
+        "https://pbs.twimg.com/media/HR8knQmWcAUK-V5.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8knQcW0Ao7-OC.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098436214864904690-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8knQmWcAUK-V5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098436214864904690-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 32,
+        "replies": 14,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 12859
+      },
+      "postedAt": "Fri Sep 11 15:39:15 +0000 2026",
+      "score": 14429,
+      "heatScore": 14429,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 7.6,
+        "expiresAt": "2026-09-11T17:09:15Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098431791933620311",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260911-giannis-miami-mansion-135m",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098431791933620311",
       "originalText": "Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0RT",
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HR8gltiaEAECU0S.png"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8gltiaEAECU0S.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098431791933620311-1.png",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 20,
         "replies": 7,
@@ -36,14 +93,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 9.9,
+        "ageMinutes": 25.2,
         "expiresAt": "2026-09-11T16:51:40Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098428713742356683",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -73,14 +130,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 22.2,
+        "ageMinutes": 37.4,
         "expiresAt": "2026-09-11T16:39:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098424336709193934",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-celh-fieldly-18000",
@@ -124,14 +181,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 39.5,
+        "ageMinutes": 54.8,
         "expiresAt": "2026-09-11T16:22:03Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "benchmarkPostId": "2098419313346576672",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-eth-75-percent-move",
@@ -175,14 +232,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 59.5,
+        "ageMinutes": 74.8,
         "expiresAt": "2026-09-11T16:02:05Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "benchmarkPostId": "2098417906161705470",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -220,7 +277,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 65.1,
+        "ageMinutes": 80.4,
         "expiresAt": "2026-09-11T15:56:30Z",
         "ttlMinutes": 90
       },
