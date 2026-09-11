@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T14:34:20.106171+00:00",
+  "updatedAt": "2026-09-11T14:50:15.498459+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16533,7 +16533,48 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T14:31:55Z"
+      "capturedAt": "2026-09-11T14:31:55Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8T8oYbYAAFPE7.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098417906161705470-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098419313346576672",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098419313346576672",
+      "postedAt": "Fri Sep 11 14:32:05 +0000 2026",
+      "text": "JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR8VPdUaMAAIR5Z.jpg",
+        "https://pbs.twimg.com/media/HR8VPdZbYAAGfcA.jpg"
+      ],
+      "engagement": {
+        "likes": 47,
+        "replies": 13,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 15110
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T14:46:16Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8VPdUaMAAIR5Z.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098419313346576672-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8VPdZbYAAGfcA.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098419313346576672-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -26485,6 +26526,25 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-11T14:33:44Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098419313346576672",
+      "rank": 1,
+      "title": "JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u",
+      "benchmarkPostId": "2098419313346576672",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098419313346576672",
+      "score": 16720,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T14:46:20Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
@@ -38863,7 +38923,7 @@
       "benchmarkPostId": "2098397752774234368",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098397752774234368",
       "title": "Micron Taiwan workers receive $31,600 cash bonus",
-      "status": "ready",
+      "status": "expired",
       "postText": "Micron $MU is giving Taiwanese employees a $31,600 cash bonus plus additional stock rewards.\n\nAll global employees will receive equity through an annual performance-related bonus pool.",
       "mirroredFacts": [
         "Micron said Taiwanese employees will receive a $31,600 cash bonus.",
@@ -38881,7 +38941,10 @@
         "prompt": "Use case: ads-marketing. Complete 1:1 entity-led photorealistic Micron semiconductor scene: advanced memory chips and silicon wafer in the foreground, Taiwan fabrication facility at night, subtle cleanroom employees, near-black graphite and cool blue palette with restrained red reflections, strong subject, dark lower-right logo-safe area, no text or embedded logos. Exact repository logo composited once afterward.",
         "logoApplied": true,
         "qaStatus": "passed"
-      }
+      },
+      "expiredAt": "2026-09-11T14:46:17Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-11T14:36:25Z"
     },
     {
       "id": "pkg-20260911-us-stocks-open-green",
@@ -39009,6 +39072,39 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T14:34:20Z",
       "publishedAt": "2026-09-11T14:33:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-eth-75-percent-move",
+      "benchmarkPostId": "2098419313346576672",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098419313346576672",
+      "title": "ETH rallies above 7.5% in 24 hours",
+      "status": "ready",
+      "postText": "ETH is up more than 7.5% over the past 24 hours.",
+      "mirroredFacts": [
+        "The benchmark post states that ETH rallied above 7.5% in the past 24 hours.",
+        "The selected source is a new original from WhaleInsider and is within the 90-minute source TTL."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098419313346576672"
+      ],
+      "verificationStatus": "benchmark_discovery_signal",
+      "verificationNote": "Discovery payload preserved narrowly; no additional market interpretation added.",
+      "imagePath": "deliverables/pkg-20260911-eth-75-percent-move/when2buy-image-model.png",
+      "createdAt": "2026-09-11T14:48:12.067200+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led editorial 3D scene centered on a polished Ethereum diamond with an upward green market line, near-black premium financial-news environment, upper-left typography-safe space, no generated text or branding; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaChecks": [
+          "square 1254x1254 PNG",
+          "complete entity-led Ethereum scene",
+          "factual text composited once",
+          "exact repository logo composited once",
+          "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+          "not a pure-text card or generic-radar visual"
+        ]
+      }
     }
   ],
   "posts": [
@@ -334743,6 +334839,57 @@
       "startedAt": "2026-09-11T14:34:20Z",
       "completedAt": "2026-09-11T14:34:20Z",
       "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T144616Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:46:16Z",
+      "completedAt": "2026-09-11T14:46:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T144620Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:46:20Z",
+      "completedAt": "2026-09-11T14:46:20Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T144812Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:48:12.067242+00:00",
+      "completedAt": "2026-09-11T14:48:12.067246+00:00",
+      "summary": "Produced one newest fresh ETH package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-eth-75-percent-move"
+    },
+    {
+      "id": "run-20260911T144831Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:48:31.590363+00:00",
+      "completedAt": "2026-09-11T14:48:31.590369+00:00",
+      "summary": "Produced one newest fresh ETH package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-eth-75-percent-move"
+    },
+    {
+      "id": "run-20260911T145015Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:50:15Z",
+      "completedAt": "2026-09-11T14:50:15Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
   ],

@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T14:34:20.106171+00:00`
+- 状态更新：`2026-09-11T14:50:15.498459+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**600**
-- 待选选题：**524**
+- 对标帖子快照：**601**
+- 待选选题：**525**
 - 待发布制作包：**1**
 - 已验证发布：**229**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 14:32:05 +0000 2026 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | [X](https://x.com/WhaleInsider/status/2098419313346576672) |
 | @StockMKTNewz | Fri Sep 11 14:26:30 +0000 2026 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center infrastructure forming a key part of the investment - CNBC https://t.co/4M0UiZThdr | [X](https://x.com/StockMKTNewz/status/2098417906161705470) |
 | @StockMKTNewz | Fri Sep 11 13:36:16 +0000 2026 | JUST IN:  Leopold Aschenbrenner's Situation Awareness has reportedly been active in the options market and has been buying "significant" stakes in names like   CoreWeave $CRWV  Sandisk $SNDK  Bloom Energy $BE  $AMD https://t.co/kkEYNHriBM | [X](https://x.com/StockMKTNewz/status/2098405267708805502) |
 | @StockMKTNewz | Fri Sep 11 13:47:55 +0000 2026 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | [X](https://x.com/StockMKTNewz/status/2098408199590171112) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 08:40:26 +0000 2026 | JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond market, with settlements using the RBI’s wholesale digital rupee. https://t.co/34cLGQCe73 | [X](https://x.com/WhaleInsider/status/2098330814857506832) |
 | @WhaleInsider | Fri Sep 11 07:13:35 +0000 2026 | JUST IN: Franklin ETF clients buy $5.14 million worth of $XRP. https://t.co/j3Qv39DNRt | [X](https://x.com/WhaleInsider/status/2098308959945855348) |
 | @WhaleInsider | Fri Sep 11 06:10:21 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $282.56 million. https://t.co/HjZyvxz1lF | [X](https://x.com/WhaleInsider/status/2098293048258031651) |
-| @StockMKTNewz | Fri Sep 11 00:51:51 +0000 2026 | OpenAI is considering slowing down the development of cutting-edge artificial intelligence  In a companywide meeting this week, Altman told employees that OpenAI could potentially pace its AI development, perhaps in conjunction with several other AI labs, but that some may not agree to do so - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098212894085091480) |
 
 ## 选题推荐
 
@@ -221,6 +221,7 @@
 | 1 | The 🇺🇸 stock market is back open and is starting out trading today Green 🟢🟢🟢🟢 https://t.co/l… | StockMKTNewz | 1296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID: - $5,000 CHECKS CAN BE COMBINED WITH FISC… | StockMKTNewz | 10056 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center in… | StockMKTNewz | 7490 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | WhaleInsider | 16720 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3515,7 +3516,7 @@ Markets now price a 76% chance of a 25 bp Fed hike next week.  The FOMC decision
 
 ### Micron Taiwan workers receive $31,600 cash bonus
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-micron-taiwan-bonus/when2buy-image-model.png`
 
 Micron $MU is giving Taiwanese employees a $31,600 cash bonus plus additional stock rewards.  All global employees will receive equity through an annual performance-related bonus pool.
@@ -3540,6 +3541,13 @@ $5,000 checks can be combined with fiscal responsibility.
 - 配图：`deliverables/pkg-20260911-hassett-inflation-decelerating/when2buy-image-model.png`
 
 Hassett says inflation has clearly decelerated over the past 3 months.  He says if the Fed hikes, Trump will have an opinion.
+
+### ETH rallies above 7.5% in 24 hours
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-eth-75-percent-move/when2buy-image-model.png`
+
+ETH is up more than 7.5% over the past 24 hours.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3778,6 +3786,11 @@ Hassett says inflation has clearly decelerated over the past 3 months.  He says 
 
 ## 最近运行
 
+- `2026-09-11T14:50:15Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T14:48:31.590363+00:00` **produce / succeeded** — Produced one newest fresh ETH package with an inspected entity-led image and exact-logo composite.
+- `2026-09-11T14:48:12.067242+00:00` **produce / succeeded** — Produced one newest fresh ETH package with an inspected entity-led image and exact-logo composite.
+- `2026-09-11T14:46:20Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-11T14:46:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-11T14:34:20Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T14:33:44Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:33:24.648879+00:00` **produce / succeeded** — Produced one newest fresh Hassett/Fed package with a complete entity-led square image and exact-logo composite.
@@ -3793,8 +3806,3 @@ Hassett says inflation has clearly decelerated over the past 3 months.  He says 
 - `2026-09-11T14:02:37Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:02:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-11T14:02:11Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T14:02:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 20 eligible originals and added 4 new post(s).
-- `2026-09-11T14:00:40Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T13:45:00Z` **full / succeeded** — Freshness-first run collected/reconciled benchmark data, rebuilt the hard-TTL queue, produced one newest eligible package, and verified one Postiz publication with a public X URL.
-- `2026-09-11T13:50:03Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T13:46:49Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).
