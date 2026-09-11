@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T10:33:13.235687+00:00`
+- 状态更新：`2026-09-11T10:50:51.822310+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**576**
-- 待选选题：**500**
-- 待发布制作包：**1**
+- 对标帖子快照：**577**
+- 待选选题：**501**
+- 待发布制作包：**2**
 - 已验证发布：**225**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 10:38:16 +0000 2026 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | [X](https://x.com/StockMKTNewz/status/2098360470432354663) |
 | @WhaleInsider | Fri Sep 11 10:20:58 +0000 2026 | JUST IN: 🇨🇳 China’s Moonshot AI aims for $2,000,000,000 in annual sales by end of 2026. https://t.co/NDtKT1nJVL | [X](https://x.com/WhaleInsider/status/2098356117793354214) |
 | @WhaleInsider | Fri Sep 11 10:02:13 +0000 2026 | JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain, with spot and DEX trading on Santro Exchange now live. https://t.co/pP4bNWUUac | [X](https://x.com/WhaleInsider/status/2098351397963956345) |
 | @WhaleInsider | Fri Sep 11 08:40:26 +0000 2026 | JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond market, with settlements using the RBI’s wholesale digital rupee. https://t.co/34cLGQCe73 | [X](https://x.com/WhaleInsider/status/2098330814857506832) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 19:29:30 +0000 2026 | JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZAADpWsg | [X](https://x.com/WhaleInsider/status/2098131771296489490) |
 | @StockMKTNewz | Thu Sep 10 19:29:47 +0000 2026 | The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/Mega cap funds | [X](https://x.com/StockMKTNewz/status/2098131841609871395) |
 | @WhaleInsider | Thu Sep 10 19:06:19 +0000 2026 | JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, fully supported by the launchpad. Hold $STONKCHAD and earn RWA rewards directly to your wallet. https://t.co/YUZYxpvn1V | [X](https://x.com/WhaleInsider/status/2098125939636871240) |
-| @WhaleInsider | Thu Sep 10 19:15:12 +0000 2026 | JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M customers, is integrating $CRCL stablecoins into its new multi-currency digital account. https://t.co/gLFzGwpu9Q | [X](https://x.com/WhaleInsider/status/2098128172797530309) |
 
 ## 选题推荐
 
@@ -211,6 +211,7 @@
 | 1 | JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond mark… | WhaleInsider | 12327 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAH… | WhaleInsider | 18368 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇨🇳 China’s Moonshot AI aims for $2,000,000,000 in annual sales by end of 2026. http… | WhaleInsider | 15728 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | StockMKTNewz | 6793 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3440,6 +3441,13 @@ $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain.  Spot and DE
 
 Moonshot AI is targeting $2B in annual sales by the end of 2026.
 
+### Z.AI launches $5B Hong Kong financing
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-zai-5b-capital-raise/when2buy-image-model.png`
+
+Z.AI is raising about $2B through a Hong Kong share placement.  It is also selling about $3B in zero-coupon convertible bonds due in September 2027.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3673,6 +3681,10 @@ Moonshot AI is targeting $2B in annual sales by the end of 2026.
 
 ## 最近运行
 
+- `2026-09-11T10:45:00Z` **full / succeeded** — Processed the newest fresh Z.AI benchmark item; package passed content and image QA, but Postiz safely deferred submission because the rolling daily account limit was reached. No retry performed. deferred_daily_limit; retryAt=2026-09-11T13:05:38Z
+- `2026-09-11T10:46:58Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T10:46:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
+- `2026-09-11T10:45:25Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:33:13.232253+00:00` **produce / partial** — Produced one newest fresh Moonshot AI package; publication blocked pending authoritative verification of the sales forecast. blocked_unverified_forecast
 - `2026-09-11T10:31:10Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:31:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 1 new post(s).
@@ -3689,7 +3701,3 @@ Moonshot AI is targeting $2B in annual sales by the end of 2026.
 - `2026-09-11T09:48:24Z` **full / partial** — Freshness-first cycle completed without publication; the bounded Apify collection timed out before adding new benchmark records, and the hard 90-minute queue was empty. apify_collection_timeout; no fresh eligible source was available, so no package was produced or submitted.
 - `2026-09-11T09:47:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T09:45:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T09:31:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T09:31:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T09:17:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T09:16:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
