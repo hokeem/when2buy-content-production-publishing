@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T18:33:09.782734+00:00",
+  "updatedAt": "2026-09-11T18:49:21.453826+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -40278,6 +40278,47 @@
           "not a pure-text card or generic-radar visual"
         ]
       }
+    },
+    {
+      "id": "pkg-20260911-jpmorgan-two-fed-hikes",
+      "benchmarkPostId": "2098478277132169552",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098478277132169552",
+      "title": "JPMorgan sees two Fed hikes in 2026",
+      "status": "published",
+      "postText": "JPMorgan now sees two Fed rate hikes in 2026.",
+      "mirroredFacts": [
+        "The benchmark says JPMorgan now expects two Federal Reserve rate hikes in 2026."
+      ],
+      "verificationSources": [
+        "https://www.jpmorgan.com/insights/global-research/economy/fed-rate-cuts",
+        "https://www.investing.com/news/economy-news/jpmorgan-brings-forward-fed-rate-hike-call-to-december-after-july-hold-4822385"
+      ],
+      "imagePath": "deliverables/pkg-20260911-jpmorgan-two-fed-hikes/when2buy-image.png",
+      "createdAt": "2026-09-11T18:48:17Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Complete square 1:1 premium financial-news editorial visual about a Federal Reserve rate-hike forecast for 2026, centered on the Federal Reserve building, a restrained red upward rate curve, and an institutional research folder; near-black, white, controlled red, entity-led, logo-safe lower-right; no generated text, logos, watermark, source names, attribution, disclaimer, CTA, tagline, generic radar, or pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T18:48:17Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete Federal Reserve entity-led scene",
+            "dominant rate-hike visual",
+            "exact repository logo composited once",
+            "no source handle or URL in image",
+            "no generated watermark or CTA",
+            "public text ends after factual payload"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmtxb833g0rx6lm0y3youh8ag",
+      "postizSubmissionAt": "2026-09-11T18:48:54Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T18:49:21Z",
+      "publishedAt": "2026-09-11T18:48:00.000Z"
     }
   ],
   "posts": [
@@ -44625,6 +44666,24 @@
         "lastAttemptAt": "2026-09-11T18:18:14.842070Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098484047551078908",
+      "packageId": "pkg-20260911-jpmorgan-two-fed-hikes",
+      "title": "JPMorgan sees two Fed hikes in 2026",
+      "text": "JPMorgan now sees two Fed rate hikes in 2026.",
+      "status": "published",
+      "publishedAt": "2026-09-11T18:48:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098484047551078908",
+      "postizPostId": "cmtxb833g0rx6lm0y3youh8ag",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T18:48:00.000Z",
+        "windowEnd": "2026-09-14T18:48:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -351759,6 +351818,49 @@
       "reason": "verification_required",
       "selectedBenchmarkPostId": "2098478277132169552",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T184600Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T18:46:00Z",
+      "completedAt": "2026-09-11T18:46:00Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T184611Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T18:46:11Z",
+      "completedAt": "2026-09-11T18:46:11Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T184817Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T18:48:17Z",
+      "completedAt": "2026-09-11T18:48:17Z",
+      "summary": "Produced the single newest fresh benchmark package with one inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260911-jpmorgan-two-fed-hikes"
+      ]
+    },
+    {
+      "id": "run-20260911T184921Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T18:49:21Z",
+      "completedAt": "2026-09-11T18:49:21Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
