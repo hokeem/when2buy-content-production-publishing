@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T10:50:51.822310+00:00`
+- 状态更新：`2026-09-11T11:06:05.331337+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**577**
-- 待选选题：**501**
-- 待发布制作包：**2**
+- 对标帖子快照：**579**
+- 待选选题：**503**
+- 待发布制作包：**3**
 - 已验证发布：**225**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 10:48:54 +0000 2026 | Rocket Lab $RKLB has now completed 95 missions with its Electron rocket | [X](https://x.com/StockMKTNewz/status/2098363144586338779) |
+| @StockMKTNewz | Fri Sep 11 11:00:21 +0000 2026 | China 🇨🇳 just set a new 5 year goal for its auto industry of   70% of new cars to be electric vehicles or hybrids by 2030 and for autonomous driving to be deployed at scale https://t.co/BZptBDfyiy | [X](https://x.com/StockMKTNewz/status/2098366028845560315) |
 | @StockMKTNewz | Fri Sep 11 10:38:16 +0000 2026 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | [X](https://x.com/StockMKTNewz/status/2098360470432354663) |
 | @WhaleInsider | Fri Sep 11 10:20:58 +0000 2026 | JUST IN: 🇨🇳 China’s Moonshot AI aims for $2,000,000,000 in annual sales by end of 2026. https://t.co/NDtKT1nJVL | [X](https://x.com/WhaleInsider/status/2098356117793354214) |
 | @WhaleInsider | Fri Sep 11 10:02:13 +0000 2026 | JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain, with spot and DEX trading on Santro Exchange now live. https://t.co/pP4bNWUUac | [X](https://x.com/WhaleInsider/status/2098351397963956345) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 19:42:48 +0000 2026 | SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING | [X](https://x.com/StockMKTNewz/status/2098135120980898075) |
 | @StockMKTNewz | Thu Sep 10 19:20:03 +0000 2026 | Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw | [X](https://x.com/StockMKTNewz/status/2098129395588173991) |
 | @WhaleInsider | Thu Sep 10 19:29:30 +0000 2026 | JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZAADpWsg | [X](https://x.com/WhaleInsider/status/2098131771296489490) |
-| @StockMKTNewz | Thu Sep 10 19:29:47 +0000 2026 | The only ETFs beating the S&amp;P 500 over the last decade at Vanguard are Growth and Large/Mega cap funds | [X](https://x.com/StockMKTNewz/status/2098131841609871395) |
-| @WhaleInsider | Thu Sep 10 19:06:19 +0000 2026 | JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, fully supported by the launchpad. Hold $STONKCHAD and earn RWA rewards directly to your wallet. https://t.co/YUZYxpvn1V | [X](https://x.com/WhaleInsider/status/2098125939636871240) |
 
 ## 选题推荐
 
@@ -212,6 +212,7 @@
 | 1 | JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAH… | WhaleInsider | 18368 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇨🇳 China’s Moonshot AI aims for $2,000,000,000 in annual sales by end of 2026. http… | WhaleInsider | 15728 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | StockMKTNewz | 6793 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | China 🇨🇳 just set a new 5 year goal for its auto industry of 70% of new cars to be electric … | StockMKTNewz | 3467 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -282,6 +283,7 @@
 | 2 | JUST IN: 🇺🇸 FTX founder Sam Bankman-Fried asks Supreme Court to overturn his fraud convictio… | WhaleInsider | 13948 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Gr… | WhaleInsider | 18984 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032 The company's dat… | StockMKTNewz | 15573 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Rocket Lab $RKLB has now completed 95 missions with its Electron rocket | StockMKTNewz | 9496 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3448,6 +3450,13 @@ Moonshot AI is targeting $2B in annual sales by the end of 2026.
 
 Z.AI is raising about $2B through a Hong Kong share placement.  It is also selling about $3B in zero-coupon convertible bonds due in September 2027.
 
+### China auto industry sets 2030 EV and autonomy goal
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-china-auto-2030-70-percent/when2buy-image-model.png`
+
+China just set a 2030 auto-industry goal: 70% of new cars electric or hybrid.  Autonomous driving is targeted for deployment at scale.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3681,6 +3690,10 @@ Z.AI is raising about $2B through a Hong Kong share placement.  It is also selli
 
 ## 最近运行
 
+- `2026-09-11T11:00:00Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard 90-minute queue, produced the newest China auto-industry package, collected hourly metrics, and safely deferred the sole Postiz batch submission at the rolling daily account limit. deferred_daily_limit; retryAt=2026-09-11T13:05:38Z; no retry performed
+- `2026-09-11T11:05:53Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T11:01:48Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T11:01:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 2 new post(s).
 - `2026-09-11T10:45:00Z` **full / succeeded** — Processed the newest fresh Z.AI benchmark item; package passed content and image QA, but Postiz safely deferred submission because the rolling daily account limit was reached. No retry performed. deferred_daily_limit; retryAt=2026-09-11T13:05:38Z
 - `2026-09-11T10:46:58Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:46:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
@@ -3697,7 +3710,3 @@ Z.AI is raising about $2B through a Hong Kong share placement.  It is also selli
 - `2026-09-11T10:16:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 1 new post(s).
 - `2026-09-11T10:15:37Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:01:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T10:01:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T09:48:24Z` **full / partial** — Freshness-first cycle completed without publication; the bounded Apify collection timed out before adding new benchmark records, and the hard 90-minute queue was empty. apify_collection_timeout; no fresh eligible source was available, so no package was produced or submitted.
-- `2026-09-11T09:47:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T09:45:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
