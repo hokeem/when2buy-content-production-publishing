@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T13:34:40.035632+00:00`
+- 状态更新：`2026-09-11T13:50:41.029496+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**595**
-- 待选选题：**518**
-- 待发布制作包：**3**
-- 已验证发布：**226**
+- 待选选题：**519**
+- 待发布制作包：**2**
+- 已验证发布：**227**
 
 ## 对标账号扫描
 
@@ -218,6 +218,7 @@
 | 1 | The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC h… | StockMKTNewz | 7033 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | I added more to this Know if the Fed raises rates I will be taking an L 😅 My new "cost basis… | StockMKTNewz | 7700 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY Micron $MU said it … | StockMKTNewz | 12616 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The 🇺🇸 stock market is back open and is starting out trading today Green 🟢🟢🟢🟢 https://t.co/l… | StockMKTNewz | 1296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3488,7 +3489,7 @@ Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $2
 
 ### U.S. diesel average reaches $6
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-us-diesel-six-dollar/when2buy-image-model.png`
 
 The U.S. nationwide diesel average just hit $6 per gallon for the first time.
@@ -3513,6 +3514,13 @@ Markets now price a 76% chance of a 25 bp Fed hike next week.  The FOMC decision
 - 配图：`deliverables/pkg-20260911-micron-taiwan-bonus/when2buy-image-model.png`
 
 Micron $MU is giving Taiwanese employees a $31,600 cash bonus plus additional stock rewards.  All global employees will receive equity through an annual performance-related bonus pool.
+
+### U.S. stocks reopen green
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-us-stocks-open-green/when2buy-image-model.png`
+
+U.S. stocks are back open for trading today and are starting out green.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3745,9 +3753,13 @@ Micron $MU is giving Taiwanese employees a $31,600 cash bonus plus additional st
 | Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
+| U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098408730555719704) |
 
 ## 最近运行
 
+- `2026-09-11T13:45:00Z` **full / succeeded** — Freshness-first run collected/reconciled benchmark data, rebuilt the hard-TTL queue, produced one newest eligible package, and verified one Postiz publication with a public X URL.
+- `2026-09-11T13:50:03Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T13:46:49Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T13:34:39.923567+00:00` **full / succeeded** — Newest Micron package was safely deferred because the minimum Postiz submission interval was active. minimum_interval
 - `2026-09-11T13:34:09.257271+00:00` **produce / succeeded** — Produced the newest fresh Micron benchmark package with one complete entity-led square image and one exact-logo composite.
 - `2026-09-11T13:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 1 new post(s).
@@ -3765,6 +3777,3 @@ Micron $MU is giving Taiwanese employees a $31,600 cash bonus plus additional st
 - `2026-09-11T12:46:23Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T12:46:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 5 new post(s).
 - `2026-09-11T12:45:43Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T12:32:28Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T12:30:51Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T12:19:43Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard 90-minute queue, produced one newest fresh diesel package, and safely deferred the sole submission at the rolling 24-hour account limit. daily_limit; no submission attempted or retried

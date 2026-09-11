@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-09-11T13:31:43Z",
+  "generatedAt": "2026-09-11T13:46:49Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098397752774234368",
+      "benchmarkPostId": "2098404045580915007",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098404045580915007",
+      "originalText": "The 🇺🇸 stock market is back open and is starting out trading today Green \n\n🟢🟢🟢🟢 https://t.co/lnFHqpUKQM",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR8HW8YbwAESpyX.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8HW8YbwAESpyX.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098404045580915007-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 1296
+      },
+      "postedAt": "Fri Sep 11 13:31:25 +0000 2026",
+      "score": 1296,
+      "heatScore": 1296,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 16,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 15.4,
+        "expiresAt": "2026-09-11T15:01:25Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098397752774234368",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260911-micron-taiwan-bonus",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098397752774234368",
       "originalText": "MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY\n\nMicron $MU said it will give its Taiwanese employees a $31,600 cash bonus and additional stock rewards. \n\nAll global employees will receive equities as part of an annual performance-related bonus pool https://t.co/lt7b6VaXTR",
       "originalMediaUrls": [
@@ -42,14 +87,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 25.3,
+        "ageMinutes": 40.4,
         "expiresAt": "2026-09-11T14:36:25Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098396894326063300",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -87,14 +132,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 28.7,
+        "ageMinutes": 43.8,
         "expiresAt": "2026-09-11T14:33:00Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098395364755706185",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -138,14 +183,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 34.8,
+        "ageMinutes": 49.9,
         "expiresAt": "2026-09-11T14:26:55Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "benchmarkPostId": "2098391967948324950",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-fed-hike-odds",
@@ -175,14 +220,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 48.3,
+        "ageMinutes": 63.4,
         "expiresAt": "2026-09-11T14:13:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "benchmarkPostId": "2098389940690149740",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -220,14 +265,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 56.4,
+        "ageMinutes": 71.5,
         "expiresAt": "2026-09-11T14:05:22Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 7,
       "benchmarkPostId": "2098389024914223446",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -257,14 +302,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 60.0,
+        "ageMinutes": 75.1,
         "expiresAt": "2026-09-11T14:01:44Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 7,
+      "rank": 8,
       "benchmarkPostId": "2098388566233542821",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -302,53 +347,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 61.8,
+        "ageMinutes": 76.9,
         "expiresAt": "2026-09-11T13:59:55Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2098383808324096072",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-us-diesel-six-dollar",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098383808324096072",
-      "originalText": "The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC https://t.co/kMyU0ZDU9G",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR7084fXAAocgT9.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7084fXAAocgT9.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098383808324096072-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 8,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 1,
-        "views": 6653
-      },
-      "postedAt": "Fri Sep 11 12:11:00 +0000 2026",
-      "score": 7033,
-      "heatScore": 7033,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 80.7,
-        "expiresAt": "2026-09-11T13:41:00Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

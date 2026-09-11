@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T13:34:40.035632+00:00",
+  "updatedAt": "2026-09-11T13:50:41.029496+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16409,7 +16409,14 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T13:31:56Z"
+      "capturedAt": "2026-09-11T13:31:56Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8HW8YbwAESpyX.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098404045580915007-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -26251,6 +26258,25 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098404045580915007",
+      "rank": 1,
+      "title": "The 🇺🇸 stock market is back open and is starting out trading today Green 🟢🟢🟢🟢 https://t.co/l…",
+      "benchmarkPostId": "2098404045580915007",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098404045580915007",
+      "score": 1296,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T13:46:49Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -38501,7 +38527,7 @@
       "benchmarkPostId": "2098383808324096072",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098383808324096072",
       "title": "U.S. diesel average reaches $6",
-      "status": "ready",
+      "status": "expired",
       "postText": "The U.S. nationwide diesel average just hit $6 per gallon for the first time.",
       "mirroredFacts": [
         "The U.S. nationwide average price of diesel reached $6 per gallon for the first time."
@@ -38530,7 +38556,9 @@
             "not a pure-text card"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-11T13:46:46Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260911-fed-hike-odds",
@@ -38640,6 +38668,48 @@
         "logoApplied": true,
         "qaStatus": "passed"
       }
+    },
+    {
+      "id": "pkg-20260911-us-stocks-open-green",
+      "benchmarkPostId": "2098404045580915007",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098404045580915007",
+      "title": "U.S. stocks reopen green",
+      "status": "published",
+      "postText": "U.S. stocks are back open for trading today and are starting out green.",
+      "mirroredFacts": [
+        "The U.S. stock market is back open for trading today.",
+        "U.S. stocks are starting out green."
+      ],
+      "verificationSources": [
+        "https://apnews.com/article/8c3272812f5e9b9238c6a3301921c17a",
+        "https://www.nyse.com/markets/hours-calendars"
+      ],
+      "imagePath": "deliverables/pkg-20260911-us-stocks-open-green/when2buy-image-model.png",
+      "createdAt": "2026-09-11T13:49:00Z",
+      "sourceExpiresAt": "2026-09-11T15:01:25Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: complete square 1:1 premium financial-news editorial visual for When2Buy. Primary request: an original entity-led visual about the U.S. stock market reopening for trading in the green. Scene/backdrop: near-black New York exchange-inspired trading floor at market open, with a realistic electronic market opening bell mechanism and a large abstract green upward market display in the background. Subject: a prominent physical opening bell and subtle broad-market ticker light bars, communicating the U.S. stock market reopening positively without depicting a specific company. Style/medium: high-end photorealistic editorial financial-news photography, realistic metal, glass, and screen textures. Composition/framing: exact 1:1 square; dominant bell and trading-floor subject; leave upper-left negative space for factual typography to be composited later and lower-right clear space for the supplied circular logo. Lighting/mood: high-contrast cinematic opening-bell lighting, crisp white rim light, restrained semantic green accents, urgent but factual. Color palette: near-black, charcoal, white, muted steel-blue, controlled green only for upward market meaning. Text: none; all typography will be composited later. Constraints: no generated readable text, no logos, no source handle, URL, attribution, disclaimer, commentary, CTA, tagline, recommendation, watermark, generic radar graphic, pure-text card, or extra brand marks. Generate one complete coherent scene, not a collage.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T13:49:00Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete opening-bell and trading-floor entity scene",
+            "exact repository logo composited once",
+            "visible factual text proofread",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtx0j72x0w2kqk0yp6z40mdo",
+      "postizSubmissionAt": "2026-09-11T13:49:37Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T13:50:03Z",
+      "publishedAt": "2026-09-11T13:49:00.000Z"
     }
   ],
   "posts": [
@@ -42824,6 +42894,24 @@
         "lastAttemptAt": "2026-09-11T13:20:41.102080Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098408730555719704",
+      "packageId": "pkg-20260911-us-stocks-open-green",
+      "title": "U.S. stocks reopen green",
+      "text": "U.S. stocks are back open for trading today and are starting out green.",
+      "status": "published",
+      "publishedAt": "2026-09-11T13:49:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098408730555719704",
+      "postizPostId": "cmtx0j72x0w2kqk0yp6z40mdo",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T13:49:00.000Z",
+        "windowEnd": "2026-09-14T13:49:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -330589,6 +330677,36 @@
       "reason": "minimum_interval",
       "selectedPackageId": "pkg-20260911-micron-taiwan-bonus",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T134649Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:46:49Z",
+      "completedAt": "2026-09-11T13:46:49Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T135003Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:50:03Z",
+      "completedAt": "2026-09-11T13:50:03Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T134900Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:45:00Z",
+      "completedAt": "2026-09-11T13:50:00Z",
+      "summary": "Freshness-first run collected/reconciled benchmark data, rebuilt the hard-TTL queue, produced one newest eligible package, and verified one Postiz publication with a public X URL.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-us-stocks-open-green",
+      "outcome": "published",
+      "publicUrl": "https://x.com/_When2buy/status/2098408730555719704"
     }
   ],
   "deliveryCircuitBreaker": {
