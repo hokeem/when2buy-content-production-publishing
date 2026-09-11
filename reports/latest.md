@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T11:32:54.922210+00:00`
+- 状态更新：`2026-09-11T11:51:49.480309+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**582**
 - 待选选题：**506**
-- 待发布制作包：**3**
+- 待发布制作包：**4**
 - 已验证发布：**225**
 
 ## 对标账号扫描
@@ -3467,6 +3467,13 @@ China just set a 2030 auto-industry goal: 70% of new cars electric or hybrid.  A
 
 NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
 
+### Apple iPhone Duo display cost
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-apple-samsung-foldable-display-cost/when2buy-image-model.png`
+
+Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $250 per phone.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3700,6 +3707,10 @@ NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
 
 ## 最近运行
 
+- `2026-09-11T11:51:49.364944+00:00` **full / succeeded** — Fresh Apple/Samsung foldable-display package was safely deferred because the rolling 24-hour Postiz limit was exhausted. daily_limit
+- `2026-09-11T11:50:14.139596+00:00` **produce / succeeded** — Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.
+- `2026-09-11T11:48:47Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T11:47:22Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T11:32:54Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T11:32:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 2 new post(s).
 - `2026-09-11T11:30:42Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3716,7 +3727,3 @@ NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
 - `2026-09-11T10:46:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
 - `2026-09-11T10:45:25Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:33:13.232253+00:00` **produce / partial** — Produced one newest fresh Moonshot AI package; publication blocked pending authoritative verification of the sales forecast. blocked_unverified_forecast
-- `2026-09-11T10:31:10Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T10:31:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 1 new post(s).
-- `2026-09-11T10:30:34Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T10:21:13Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).

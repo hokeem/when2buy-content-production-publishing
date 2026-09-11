@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T11:32:54.922210+00:00",
+  "updatedAt": "2026-09-11T11:51:49.480309+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -37882,6 +37882,46 @@
           "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
           "not a pure-text card or generic-radar visual"
         ]
+      }
+    },
+    {
+      "id": "pkg-20260911-apple-samsung-foldable-display-cost",
+      "benchmarkPostId": "2098372040822554995",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098372040822554995",
+      "title": "Apple iPhone Duo display cost",
+      "status": "ready",
+      "postText": "Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $250 per phone.",
+      "mirroredFacts": [
+        "Apple announced the iPhone Duo foldable phone.",
+        "Samsung Display is reported to supply its foldable OLED panel.",
+        "The panel is reportedly about $250 per phone."
+      ],
+      "verificationSources": [
+        "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+        "https://www.macrumors.com/2026/09/09/apple-announces-foldable-iphone-duo/",
+        "https://www.ainvest.com/news/apple-iphone-duo-2-000-bet-category-scaled-2609/"
+      ],
+      "imagePath": "deliverables/pkg-20260911-apple-samsung-foldable-display-cost/when2buy-image-model.png",
+      "createdAt": "2026-09-11T11:50:14.139596+00:00",
+      "sourceExpiresAt": "2026-09-11T12:54:15Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square 1:1 premium entity-led editorial visual: a complete foldable smartphone and precision flexible-OLED display manufacturing assembly, near-black base, white rim light, restrained red accents, no readable generated text or branding, clean typography and logo-safe space, exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T11:50:47.906339+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete foldable-phone and display-fabrication entity scene",
+            "exact repository logo composited once",
+            "factual typography proofread",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card",
+            "corrected typography spacing after visual inspection"
+          ]
+        }
       }
     }
   ],
@@ -322678,6 +322718,44 @@
       "completedAt": "2026-09-11T11:32:54Z",
       "summary": "Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T114722Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:47:22Z",
+      "completedAt": "2026-09-11T11:47:22Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T114847Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:48:47Z",
+      "completedAt": "2026-09-11T11:48:47Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T115014Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:50:14.139596+00:00",
+      "completedAt": "2026-09-11T11:50:14.139596+00:00",
+      "summary": "Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T115149Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:51:49.364944+00:00",
+      "completedAt": "2026-09-11T11:51:49.364944+00:00",
+      "summary": "Fresh Apple/Samsung foldable-display package was safely deferred because the rolling 24-hour Postiz limit was exhausted.",
+      "reason": "daily_limit",
+      "selectedPackageId": "pkg-20260911-apple-samsung-foldable-display-cost",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
