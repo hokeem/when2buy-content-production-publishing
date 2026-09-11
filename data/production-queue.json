@@ -1,59 +1,7 @@
 {
-  "generatedAt": "2026-09-11T08:46:37Z",
+  "generatedAt": "2026-09-11T09:01:52Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
-  "items": [
-    {
-      "rank": 1,
-      "benchmarkPostId": "2098330814857506832",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098330814857506832",
-      "originalText": "JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond market, with settlements using the RBI’s wholesale digital rupee. https://t.co/34cLGQCe73",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR7EwKibkAActzh.jpg",
-        "https://pbs.twimg.com/media/HR7EwKdbwAAx4JC.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7EwKibkAActzh.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098330814857506832-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7EwKdbwAAx4JC.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098330814857506832-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 28,
-        "replies": 12,
-        "reposts": 8,
-        "quotes": 1,
-        "views": 10827
-      },
-      "postedAt": "Fri Sep 11 08:40:26 +0000 2026",
-      "score": 12327,
-      "heatScore": 12327,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 6.2,
-        "expiresAt": "2026-09-11T10:10:26Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    }
-  ],
+  "items": [],
   "sourceTtlMinutes": 90
 }
