@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T09:17:06.243158+00:00`
+- 状态更新：`2026-09-11T09:31:39.390813+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**574**
 - 待选选题：**498**
@@ -3657,6 +3657,8 @@ India just launched a pilot to tokenize its $620B corporate-bond market.  Settle
 
 ## 最近运行
 
+- `2026-09-11T09:31:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T09:31:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T09:17:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T09:16:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T09:16:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -3675,5 +3677,3 @@ India just launched a pilot to tokenize its $620B corporate-bond market.  Settle
 - `2026-09-11T08:01:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 52 eligible originals and added 0 new post(s).
 - `2026-09-11T08:00:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T07:47:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T07:47:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 83 eligible originals and added 0 new post(s).
-- `2026-09-11T07:31:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
