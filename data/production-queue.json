@@ -1,10 +1,219 @@
 {
-  "generatedAt": "2026-09-11T12:32:28Z",
+  "generatedAt": "2026-09-11T12:46:23Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098391967948324950",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098391967948324950",
+      "originalText": "I added more to this \n\nKnow if the Fed raises rates I will be taking an L 😅\n\nMy new \"cost basis\" is $0.35\n\nSo if the Fed kept rates unchanged and if I had $35 I would end up with $100 \n\nDONT RAISE RATES ON ME KEVIN",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 11,
+        "replies": 6,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7190
+      },
+      "postedAt": "Fri Sep 11 12:43:26 +0000 2026",
+      "score": 7700,
+      "heatScore": 7700,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 3.0,
+        "expiresAt": "2026-09-11T14:13:26Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098390542350430523",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098390542350430523",
+      "originalText": "RATE HIKE INCOMING???????\n\nThere is now a 76% chance that Kevin Warsh and the US Fed RAISE RATES by 0.25% next week https://t.co/Zw8IGvKDMq",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR769m7WYAcPA-H.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR769m7WYAcPA-H.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098390542350430523-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 18,
+        "reposts": 4,
+        "quotes": 2,
+        "views": 12549
+      },
+      "postedAt": "Fri Sep 11 12:37:46 +0000 2026",
+      "score": 14209,
+      "heatScore": 14209,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 21,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 8.6,
+        "expiresAt": "2026-09-11T14:07:46Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098389940690149740",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098389940690149740",
+      "originalText": "JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR76hzVW0AEZPAd.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR76hzVW0AEZPAd.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098389940690149740-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 87,
+        "replies": 21,
+        "reposts": 15,
+        "quotes": 1,
+        "views": 15656
+      },
+      "postedAt": "Fri Sep 11 12:35:22 +0000 2026",
+      "score": 19046,
+      "heatScore": 19046,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 11.0,
+        "expiresAt": "2026-09-11T14:05:22Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
+      "benchmarkPostId": "2098389024914223446",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098389024914223446",
+      "originalText": "🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS\n\nUS CPI for August just came in at +3.4% YoY in line with expectations of +3.4%",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 72,
+        "replies": 8,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 29297
+      },
+      "postedAt": "Fri Sep 11 12:31:44 +0000 2026",
+      "score": 31787,
+      "heatScore": 31787,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 20,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 14.7,
+        "expiresAt": "2026-09-11T14:01:44Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 5,
+      "benchmarkPostId": "2098388566233542821",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098388566233542821",
+      "originalText": "NEW: @NBCNews covers SolCex Exchange and its upcoming stock trading launch, with stocks scheduled to launch on the platform on September 15. https://t.co/HLbVD9UUtn",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2098388448671670272/img/sIM7u6IaozAdbHxB.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098388448671670272/img/sIM7u6IaozAdbHxB.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098388566233542821-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 48,
+        "replies": 25,
+        "reposts": 20,
+        "quotes": 2,
+        "views": 17297
+      },
+      "postedAt": "Fri Sep 11 12:29:55 +0000 2026",
+      "score": 20377,
+      "heatScore": 20377,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 16,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 16.5,
+        "expiresAt": "2026-09-11T13:59:55Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 6,
       "benchmarkPostId": "2098383808324096072",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-us-diesel-six-dollar",
@@ -42,14 +251,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 21.5,
+        "ageMinutes": 35.4,
         "expiresAt": "2026-09-11T13:41:00Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 7,
       "benchmarkPostId": "2098380246059782301",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -79,14 +288,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 35.6,
+        "ageMinutes": 49.5,
         "expiresAt": "2026-09-11T13:26:51Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 8,
       "benchmarkPostId": "2098377908536365082",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -124,14 +333,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 44.9,
+        "ageMinutes": 58.8,
         "expiresAt": "2026-09-11T13:17:34Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 9,
       "benchmarkPostId": "2098376454073438400",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -161,14 +370,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 50.7,
+        "ageMinutes": 64.6,
         "expiresAt": "2026-09-11T13:11:47Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 10,
       "benchmarkPostId": "2098372040822554995",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-apple-samsung-foldable-display-cost",
@@ -206,98 +415,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 68.2,
+        "ageMinutes": 82.1,
         "expiresAt": "2026-09-11T12:54:15Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098369999073149003",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098369999073149003",
-      "originalText": "JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral trade payments - Sberbank CEO Herman Gref. https://t.co/H4T6eqo3mp",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR7oY74acAA2Odc.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7oY74acAA2Odc.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098369999073149003-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 78,
-        "replies": 24,
-        "reposts": 10,
-        "quotes": 4,
-        "views": 15812
-      },
-      "postedAt": "Fri Sep 11 11:16:08 +0000 2026",
-      "score": 19072,
-      "heatScore": 19072,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 76.3,
-        "expiresAt": "2026-09-11T12:46:08Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2098368762542010806",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-nvidia-robotaxis-drive",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098368762542010806",
-      "originalText": "Nvidia $NVDA posted this:\n\n“Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2098212582230220801/img/4jzv471q_KQzPTjW.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098212582230220801/img/4jzv471q_KQzPTjW.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098368762542010806-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 18,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 1,
-        "views": 5900
-      },
-      "postedAt": "Fri Sep 11 11:11:13 +0000 2026",
-      "score": 6490,
-      "heatScore": 6490,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 3,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 81.3,
-        "expiresAt": "2026-09-11T12:41:13Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

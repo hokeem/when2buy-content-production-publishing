@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T12:32:28.624029+00:00",
+  "updatedAt": "2026-09-11T12:49:41.334544+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16175,6 +16175,130 @@
       "isPinned": false,
       "capturedAt": "2026-09-11T12:16:34Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098391967948324950",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098391967948324950",
+      "postedAt": "Fri Sep 11 12:43:26 +0000 2026",
+      "text": "I added more to this \n\nKnow if the Fed raises rates I will be taking an L 😅\n\nMy new \"cost basis\" is $0.35\n\nSo if the Fed kept rates unchanged and if I had $35 I would end up with $100 \n\nDONT RAISE RATES ON ME KEVIN",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 11,
+        "replies": 6,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7190
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:46:18Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2098390542350430523",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098390542350430523",
+      "postedAt": "Fri Sep 11 12:37:46 +0000 2026",
+      "text": "RATE HIKE INCOMING???????\n\nThere is now a 76% chance that Kevin Warsh and the US Fed RAISE RATES by 0.25% next week https://t.co/Zw8IGvKDMq",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR769m7WYAcPA-H.jpg"
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 18,
+        "reposts": 4,
+        "quotes": 2,
+        "views": 12549
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:46:18Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR769m7WYAcPA-H.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098390542350430523-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098389940690149740",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098389940690149740",
+      "postedAt": "Fri Sep 11 12:35:22 +0000 2026",
+      "text": "JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR76hzVW0AEZPAd.jpg"
+      ],
+      "engagement": {
+        "likes": 87,
+        "replies": 21,
+        "reposts": 15,
+        "quotes": 1,
+        "views": 15656
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:46:18Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR76hzVW0AEZPAd.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098389940690149740-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098389024914223446",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098389024914223446",
+      "postedAt": "Fri Sep 11 12:31:44 +0000 2026",
+      "text": "🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS\n\nUS CPI for August just came in at +3.4% YoY in line with expectations of +3.4%",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 72,
+        "replies": 8,
+        "reposts": 11,
+        "quotes": 3,
+        "views": 29297
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:46:18Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2098388566233542821",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098388566233542821",
+      "postedAt": "Fri Sep 11 12:29:55 +0000 2026",
+      "text": "NEW: @NBCNews covers SolCex Exchange and its upcoming stock trading launch, with stocks scheduled to launch on the platform on September 15. https://t.co/HLbVD9UUtn",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2098388448671670272/img/sIM7u6IaozAdbHxB.jpg"
+      ],
+      "engagement": {
+        "likes": 48,
+        "replies": 25,
+        "reposts": 20,
+        "quotes": 2,
+        "views": 17297
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:46:18Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098388448671670272/img/sIM7u6IaozAdbHxB.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098388566233542821-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -25865,6 +25989,101 @@
         "when2buyFit": 3,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098391967948324950",
+      "rank": 1,
+      "title": "I added more to this Know if the Fed raises rates I will be taking an L 😅 My new \"cost basis…",
+      "benchmarkPostId": "2098391967948324950",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098391967948324950",
+      "score": 7700,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:46:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098390542350430523",
+      "rank": 2,
+      "title": "RATE HIKE INCOMING??????? There is now a 76% chance that Kevin Warsh and the US Fed RAISE RA…",
+      "benchmarkPostId": "2098390542350430523",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098390542350430523",
+      "score": 14209,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:46:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098389940690149740",
+      "rank": 3,
+      "title": "JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq",
+      "benchmarkPostId": "2098389940690149740",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098389940690149740",
+      "score": 19046,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:46:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098389024914223446",
+      "rank": 4,
+      "title": "🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS US CPI for August just came …",
+      "benchmarkPostId": "2098389024914223446",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098389024914223446",
+      "score": 31787,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:46:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098388566233542821",
+      "rank": 5,
+      "title": "NEW: @NBCNews covers SolCex Exchange and its upcoming stock trading launch, with stocks sche…",
+      "benchmarkPostId": "2098388566233542821",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098388566233542821",
+      "score": 20377,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:46:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -38034,7 +38253,7 @@
       "benchmarkPostId": "2098368762542010806",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098368762542010806",
       "title": "NVIDIA DRIVE is helping power robotaxis",
-      "status": "ready",
+      "status": "expired",
       "postText": "NVIDIA's DRIVE platform is helping power robotaxis hitting the road.",
       "mirroredFacts": [
         "The benchmark post said robotaxis are hitting the road.",
@@ -38062,7 +38281,10 @@
           "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
           "not a pure-text card or generic-radar visual"
         ]
-      }
+      },
+      "expiredAt": "2026-09-11T12:45:39Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-11T12:41:13Z"
     },
     {
       "id": "pkg-20260911-apple-samsung-foldable-display-cost",
@@ -38136,6 +38358,46 @@
             "factual text and number proofread",
             "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
             "not a pure-text card"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260911-fed-hike-odds",
+      "benchmarkPostId": "2098391967948324950",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098391967948324950",
+      "title": "Fed rate-hike odds rise for next week",
+      "status": "ready",
+      "postText": "Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.\n\nThe decision is scheduled for Sept. 15–16.",
+      "mirroredFacts": [
+        "Markets were pricing roughly a 70% chance of a Federal Reserve rate hike at the Sept. 15–16 meeting.",
+        "The potential increase is 25 basis points."
+      ],
+      "verificationSources": [
+        "https://apnews.com/article/mortgages-interest-rates-economy-housing-real-estate-b0b8520fb475e712c400062658306cd4",
+        "https://x.com/StockMKTNewz/status/2098391967948324950"
+      ],
+      "verificationStatus": "verified_authoritative_reporting",
+      "verificationNote": "AP reported roughly 70% market odds and the Sept. 15–16 meeting window; benchmark wording was rewritten originally and the unverified 76% figure was not used.",
+      "imagePath": "deliverables/pkg-20260911-fed-hike-odds/when2buy-image-model.png",
+      "createdAt": "2026-09-11T12:48:50Z",
+      "sourceExpiresAt": "2026-09-11T14:13:26Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Complete square entity-led editorial scene about a U.S. Federal Reserve rate decision being priced by markets next week; institutional trading desk, Federal Reserve architecture, market-implied probability gauge and upward rate signal; premium photorealistic near-black financial-news style, restrained red accent, no generated readable text or logos, lower-left typography-safe space and lower-right logo-safe space. Exact factual typography and exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "logoCount": 1,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T12:48:50Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete Fed/trading-desk entity scene",
+            "exact factual text composited once",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual"
           ]
         }
       }
@@ -326452,6 +326714,60 @@
       "completedAt": "2026-09-11T12:32:28Z",
       "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T124543Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:45:43Z",
+      "completedAt": "2026-09-11T12:45:43Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T124618Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:46:18Z",
+      "completedAt": "2026-09-11T12:46:18Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 5 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T124623Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:46:23Z",
+      "completedAt": "2026-09-11T12:46:23Z",
+      "summary": "Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T124850Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:48:50Z",
+      "completedAt": "2026-09-11T12:48:50Z",
+      "summary": "Produced the single newest fresh Fed rate-odds package with authoritative fact verification, generated entity visual, and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260911-fed-hike-odds"
+      ]
+    },
+    {
+      "id": "run-20260911T124941Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:49:41Z",
+      "completedAt": "2026-09-11T12:49:41Z",
+      "summary": "Collected both benchmark feeds, archived media, rebuilt the hard 90-minute queue, produced the sole newest fresh Fed rate-odds package, and safely deferred the one Postiz submission because the rolling 24-hour limit was exhausted.",
+      "reason": "daily_limit",
+      "selectedPackageId": "pkg-20260911-fed-hike-odds",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
