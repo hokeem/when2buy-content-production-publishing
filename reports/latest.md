@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T00:36:52.620012+00:00`
+- 状态更新：`2026-09-11T00:47:54.614349+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**570**
 - 待选选题：**496**
-- 待发布制作包：**1**
-- 已验证发布：**223**
+- 待发布制作包：**0**
+- 已验证发布：**224**
 
 ## 对标账号扫描
 
@@ -3403,7 +3403,7 @@ OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI St
 
 ### IGV software ETF performance history
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260911-igv-performance-history/when2buy-image-model.png`
 
 $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65% in 2022.
@@ -3636,9 +3636,14 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 | Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | Astra GPT 6 takes control of the Rallies AI portfolio | 2026-09-11T00:17:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098204457721123197) |
+| IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098211892053610889) |
 
 ## 最近运行
 
+- `2026-09-11T00:47:54Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T00:46:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T00:46:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
+- `2026-09-11T00:45:47Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:36:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:34:26Z` **produce / succeeded** — Produced the sole newest fresh IGV performance-history package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T00:31:32Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3655,7 +3660,3 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 - `2026-09-11T00:00:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:52:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:51:10Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T23:48:44.597275+00:00` **produce / succeeded** — Produced the single newest Amazon Leo package with an inspected image-model visual and exact-logo composite.
-- `2026-09-10T23:46:23Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T23:46:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-10T23:32:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

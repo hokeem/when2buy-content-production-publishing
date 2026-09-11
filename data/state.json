@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T00:36:52.620012+00:00",
+  "updatedAt": "2026-09-11T00:47:54.614349+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -37075,7 +37075,7 @@
       "benchmarkPostId": "2098206257559585000",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098206257559585000",
       "title": "IGV software ETF performance history",
-      "status": "ready",
+      "status": "published",
       "postText": "$IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65% in 2022.",
       "mirroredFacts": [
         "IGV market-price return was -35.65% in 2022.",
@@ -37105,7 +37105,12 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "postizPostId": "cmtw8lc7q0fw0lm0ychpcl16u",
+      "postizSubmissionAt": "2026-09-11T00:47:27Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T00:47:54Z",
+      "publishedAt": "2026-09-11T00:47:00.000Z"
     }
   ],
   "posts": [
@@ -41224,6 +41229,24 @@
         "lastAttemptAt": "2026-09-11T00:18:39.808496Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098211892053610889",
+      "packageId": "pkg-20260911-igv-performance-history",
+      "title": "IGV software ETF performance history",
+      "text": "$IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65% in 2022.",
+      "status": "published",
+      "publishedAt": "2026-09-11T00:47:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098211892053610889",
+      "postizPostId": "cmtw8lc7q0fw0lm0ychpcl16u",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T00:47:00.000Z",
+        "windowEnd": "2026-09-14T00:47:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -282336,6 +282359,46 @@
       "startedAt": "2026-09-11T00:36:52Z",
       "completedAt": "2026-09-11T00:36:52Z",
       "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T004547Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:45:47Z",
+      "completedAt": "2026-09-11T00:45:47Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T004638Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:46:38Z",
+      "completedAt": "2026-09-11T00:46:38Z",
+      "summary": "Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T004652Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:46:52Z",
+      "completedAt": "2026-09-11T00:46:52Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T004754Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:47:54Z",
+      "completedAt": "2026-09-11T00:47:54Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ],
