@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T11:51:49.480309+00:00`
+- 状态更新：`2026-09-11T12:02:26.930263+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**582**
 - 待选选题：**506**
@@ -3441,7 +3441,7 @@ $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain.  Spot and DE
 
 ### Moonshot AI targets $2B in annual sales by end of 2026
 
-- 状态：`blocked`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-moonshot-ai-2b-sales-target/when2buy-image-model.png`
 
 Moonshot AI is targeting $2B in annual sales by the end of 2026.
@@ -3682,18 +3682,18 @@ Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $2
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
+| India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
+| China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
-| India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Robinhood Chain generates 17,171 ETH in revenue | 2026-09-09T06:10:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568335147962382) |
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
-| China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
@@ -3707,6 +3707,8 @@ Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $2
 
 ## 最近运行
 
+- `2026-09-11T12:01:49Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T12:00:34Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T11:51:49.364944+00:00` **full / succeeded** — Fresh Apple/Samsung foldable-display package was safely deferred because the rolling 24-hour Postiz limit was exhausted. daily_limit
 - `2026-09-11T11:50:14.139596+00:00` **produce / succeeded** — Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.
 - `2026-09-11T11:48:47Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3725,5 +3727,3 @@ Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $2
 - `2026-09-11T10:45:00Z` **full / succeeded** — Processed the newest fresh Z.AI benchmark item; package passed content and image QA, but Postiz safely deferred submission because the rolling daily account limit was reached. No retry performed. deferred_daily_limit; retryAt=2026-09-11T13:05:38Z
 - `2026-09-11T10:46:58Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:46:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
-- `2026-09-11T10:45:25Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T10:33:13.232253+00:00` **produce / partial** — Produced one newest fresh Moonshot AI package; publication blocked pending authoritative verification of the sales forecast. blocked_unverified_forecast
