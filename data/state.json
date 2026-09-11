@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T14:04:16.891855+00:00",
+  "updatedAt": "2026-09-11T14:19:43.235374+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16435,7 +16435,8 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T14:02:07Z"
+      "capturedAt": "2026-09-11T14:02:07Z",
+      "mediaArchive": []
     },
     {
       "id": "2098409025255748058",
@@ -16454,7 +16455,8 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T14:02:07Z"
+      "capturedAt": "2026-09-11T14:02:07Z",
+      "mediaArchive": []
     },
     {
       "id": "2098408199590171112",
@@ -16475,7 +16477,14 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T14:02:07Z"
+      "capturedAt": "2026-09-11T14:02:07Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8JzoAWEA8sA2I.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098408199590171112-1.png",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2098405267708805502",
@@ -16496,7 +16505,14 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T14:02:07Z"
+      "capturedAt": "2026-09-11T14:02:07Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8IYpZa8AARD5W.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098405267708805502-1.png",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -38721,7 +38737,7 @@
       "benchmarkPostId": "2098391967948324950",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098391967948324950",
       "title": "Fed rate-hike odds rise for next week",
-      "status": "ready",
+      "status": "expired",
       "postText": "Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.\n\nThe decision is scheduled for Sept. 15–16.",
       "mirroredFacts": [
         "Markets were pricing roughly a 70% chance of a Federal Reserve rate hike at the Sept. 15–16 meeting.",
@@ -38754,7 +38770,9 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-11T14:15:39Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260911-fed-rate-hike-76",
@@ -38866,6 +38884,45 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T13:50:03Z",
       "publishedAt": "2026-09-11T13:49:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-hassett-5000-checks",
+      "benchmarkPostId": "2098409975974383854",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098409975974383854",
+      "title": "Hassett says $5,000 checks can pair with fiscal responsibility",
+      "status": "published",
+      "postText": "$5,000 checks can be combined with fiscal responsibility.",
+      "mirroredFacts": [
+        "The benchmark post quotes White House economic adviser Kevin Hassett saying $5,000 checks can be combined with fiscal responsibility.",
+        "The White House describes a $5,000 cash payment proposal for adult American citizens."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098409975974383854",
+        "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/"
+      ],
+      "verificationStatus": "benchmark_discovery_plus_primary_context",
+      "verificationNote": "The benchmark supplies the current Hassett statement; the White House release verifies the $5,000 payment proposal context.",
+      "imagePath": "deliverables/pkg-20260911-hassett-5000-checks/when2buy-image-model.png",
+      "createdAt": "2026-09-11T14:18:24.414413+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led editorial image of a White House economic-policy briefing: White House, Kevin Hassett-like adviser at a podium, $5,000 check visual and fiscal-balance scale; black premium financial-news palette, white type, controlled red accent, no generated logo; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaChecks": [
+          "square 1254x1254 PNG",
+          "complete entity-led policy scene",
+          "exact supplied logo composited once",
+          "two factual phrases legible",
+          "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+          "not a pure-text card or generic-radar visual"
+        ]
+      },
+      "postizPostId": "cmtx1kn340wf7qk0y902f6d2i",
+      "postizSubmissionAt": "2026-09-11T14:18:44Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T14:19:16Z",
+      "publishedAt": "2026-09-11T14:18:00.000Z"
     }
   ],
   "posts": [
@@ -43066,6 +43123,24 @@
         "windowStart": "2026-09-11T13:49:00Z",
         "windowEnd": "2026-09-14T13:49:00Z",
         "lastAttemptAt": "2026-09-11T14:03:06.032417Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098416071581843624",
+      "packageId": "pkg-20260911-hassett-5000-checks",
+      "title": "Hassett says $5,000 checks can pair with fiscal responsibility",
+      "text": "$5,000 checks can be combined with fiscal responsibility.",
+      "status": "published",
+      "publishedAt": "2026-09-11T14:18:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098416071581843624",
+      "postizPostId": "cmtx1kn340wf7qk0y902f6d2i",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T14:18:00Z",
+        "windowEnd": "2026-09-14T14:18:00Z",
+        "lastAttemptAt": "2026-09-11T14:19:42.841374Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -314031,6 +314106,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-11T14:03:06.032417Z"
       }
+    },
+    {
+      "id": "metric-2098416071581843624-20260911T141942Z",
+      "postId": "2098416071581843624",
+      "observedAt": "2026-09-11T14:19:42.841374Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtx1kn340wf7qk0y902f6d2i",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtx1kn340wf7qk0y902f6d2i",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-11"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-11"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-11"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-11"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-11"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-11T14:19:42.841374Z"
+      }
     }
   ],
   "experiments": [],
@@ -334413,6 +334530,56 @@
       "reason": "newest_item_not_ready_and_minimum_interval",
       "selectedBenchmarkPostId": "2098409975974383854",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T141542Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:15:42Z",
+      "completedAt": "2026-09-11T14:15:42Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T141638Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:16:38Z",
+      "completedAt": "2026-09-11T14:16:38Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T141716Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:17:16Z",
+      "completedAt": "2026-09-11T14:17:16Z",
+      "summary": "Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T141824Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:18:24.414544+00:00",
+      "completedAt": "2026-09-11T14:18:24.414547+00:00",
+      "summary": "Produced one newest fresh Hassett checks package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-hassett-5000-checks"
+    },
+    {
+      "id": "run-20260911T141916Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:19:16Z",
+      "completedAt": "2026-09-11T14:19:16Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

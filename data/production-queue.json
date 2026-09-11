@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:02:37Z",
+  "generatedAt": "2026-09-11T14:16:38Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -34,7 +34,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 7.6,
+        "ageMinutes": 21.7,
         "expiresAt": "2026-09-11T15:24:59Z",
         "ttlMinutes": 90
       },
@@ -71,7 +71,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 11.4,
+        "ageMinutes": 25.4,
         "expiresAt": "2026-09-11T15:21:12Z",
         "ttlMinutes": 90
       },
@@ -88,7 +88,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HR8JzoAWEA8sA2I.png"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8JzoAWEA8sA2I.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098408199590171112-1.png",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 32,
         "replies": 6,
@@ -110,7 +116,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 14.7,
+        "ageMinutes": 28.7,
         "expiresAt": "2026-09-11T15:17:55Z",
         "ttlMinutes": 90
       },
@@ -127,7 +133,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HR8IYpZa8AARD5W.png"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8IYpZa8AARD5W.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098405267708805502-1.png",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 125,
         "replies": 26,
@@ -149,7 +161,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 26.4,
+        "ageMinutes": 40.4,
         "expiresAt": "2026-09-11T15:06:16Z",
         "ttlMinutes": 90
       },
@@ -194,7 +206,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 56.2,
+        "ageMinutes": 70.2,
         "expiresAt": "2026-09-11T14:36:25Z",
         "ttlMinutes": 90
       },
@@ -239,7 +251,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 59.6,
+        "ageMinutes": 73.6,
         "expiresAt": "2026-09-11T14:33:00Z",
         "ttlMinutes": 90
       },
@@ -290,90 +302,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 65.7,
+        "ageMinutes": 79.7,
         "expiresAt": "2026-09-11T14:26:55Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2098391967948324950",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-fed-hike-odds",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098391967948324950",
-      "originalText": "I added more to this \n\nKnow if the Fed raises rates I will be taking an L 😅\n\nMy new \"cost basis\" is $0.35\n\nSo if the Fed kept rates unchanged and if I had $35 I would end up with $100 \n\nDONT RAISE RATES ON ME KEVIN",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 11,
-        "replies": 6,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 7190
-      },
-      "postedAt": "Fri Sep 11 12:43:26 +0000 2026",
-      "score": 7700,
-      "heatScore": 7700,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 79.2,
-        "expiresAt": "2026-09-11T14:13:26Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 9,
-      "benchmarkPostId": "2098389940690149740",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098389940690149740",
-      "originalText": "JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR76hzVW0AEZPAd.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR76hzVW0AEZPAd.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098389940690149740-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 87,
-        "replies": 21,
-        "reposts": 15,
-        "quotes": 1,
-        "views": 15656
-      },
-      "postedAt": "Fri Sep 11 12:35:22 +0000 2026",
-      "score": 19046,
-      "heatScore": 19046,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 87.3,
-        "expiresAt": "2026-09-11T14:05:22Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

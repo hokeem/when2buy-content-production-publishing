@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T14:04:16.891855+00:00`
+- 状态更新：`2026-09-11T14:19:43.235374+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**599**
 - 待选选题：**523**
-- 待发布制作包：**2**
-- 已验证发布：**227**
+- 待发布制作包：**1**
+- 已验证发布：**228**
 
 ## 对标账号扫描
 
@@ -3500,7 +3500,7 @@ The U.S. nationwide diesel average just hit $6 per gallon for the first time.
 
 ### Fed rate-hike odds rise for next week
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-fed-hike-odds/when2buy-image-model.png`
 
 Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.  The decision is scheduled for Sept. 15–16.
@@ -3525,6 +3525,13 @@ Micron $MU is giving Taiwanese employees a $31,600 cash bonus plus additional st
 - 配图：`deliverables/pkg-20260911-us-stocks-open-green/when2buy-image-model.png`
 
 U.S. stocks are back open for trading today and are starting out green.
+
+### Hassett says $5,000 checks can pair with fiscal responsibility
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-hassett-5000-checks/when2buy-image-model.png`
+
+$5,000 checks can be combined with fiscal responsibility.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3758,9 +3765,15 @@ U.S. stocks are back open for trading today and are starting out green.
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
+| Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 
 ## 最近运行
 
+- `2026-09-11T14:19:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T14:18:24.414544+00:00` **produce / succeeded** — Produced one newest fresh Hassett checks package with an inspected entity-led image and exact-logo composite.
+- `2026-09-11T14:17:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
+- `2026-09-11T14:16:38Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T14:15:42Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T14:04:16Z` **full / succeeded** — Freshness-first cycle scanned both benchmark feeds, reconciled deliveries, refreshed metrics, and deferred the newest uncovered item because it had no safely verified package and the submission interval was active. newest_item_not_ready_and_minimum_interval
 - `2026-09-11T14:02:37Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:02:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -3776,8 +3789,3 @@ U.S. stocks are back open for trading today and are starting out green.
 - `2026-09-11T13:31:43Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T13:30:58Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T13:19:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T13:17:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 3 new post(s).
-- `2026-09-11T13:17:14Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T13:15:39Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T13:03:48.210551+00:00` **full / succeeded** — Fresh Fed rate-hike odds package was safely deferred because the rolling 24-hour Postiz limit was exhausted. daily_limit
-- `2026-09-11T13:02:03Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
