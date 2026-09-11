@@ -1,14 +1,102 @@
 {
-  "generatedAt": "2026-09-11T18:15:49Z",
+  "generatedAt": "2026-09-11T18:32:03Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098473442752278666",
+      "benchmarkPostId": "2098478277132169552",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098478277132169552",
+      "originalText": "JPMorgan now thinks we get 2 rate hikes from the Fed in 2026",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 16,
+        "replies": 8,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 8139
+      },
+      "postedAt": "Fri Sep 11 18:26:23 +0000 2026",
+      "score": 8989,
+      "heatScore": 8989,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 5.7,
+        "expiresAt": "2026-09-11T19:56:23Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098477399683781099",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098477399683781099",
+      "originalText": "FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR9KEicX0AEZ_B0.jpg",
+        "https://pbs.twimg.com/media/HR9KEi2agAAmhqk.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9KEicX0AEZ_B0.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098477399683781099-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9KEi2agAAmhqk.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098477399683781099-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 38,
+        "replies": 14,
+        "reposts": 12,
+        "quotes": 7,
+        "views": 13687
+      },
+      "postedAt": "Fri Sep 11 18:22:54 +0000 2026",
+      "score": 16027,
+      "heatScore": 16027,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 9.2,
+        "expiresAt": "2026-09-11T19:52:54Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098473442752278666",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260911-lutnick-5000-earned-funds",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2098473442752278666",
       "originalText": "JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to \"earn\" funds. https://t.co/Y9zCMjRGP8",
       "originalMediaUrls": [
@@ -42,7 +130,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 8.6,
+        "ageMinutes": 24.9,
         "expiresAt": "2026-09-11T19:37:11Z",
         "ttlMinutes": 90
       },

@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T18:18:16.579641+00:00`
+- 状态更新：`2026-09-11T18:33:09.782734+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**614**
-- 待选选题：**537**
+- 对标帖子快照：**616**
+- 待选选题：**539**
 - 待发布制作包：**1**
 - 已验证发布：**235**
 
@@ -11,6 +11,8 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 18:22:54 +0000 2026 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | [X](https://x.com/WhaleInsider/status/2098477399683781099) |
+| @StockMKTNewz | Fri Sep 11 18:26:23 +0000 2026 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | [X](https://x.com/StockMKTNewz/status/2098478277132169552) |
 | @WhaleInsider | Fri Sep 11 18:07:11 +0000 2026 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to "earn" funds. https://t.co/Y9zCMjRGP8 | [X](https://x.com/WhaleInsider/status/2098473442752278666) |
 | @WhaleInsider | Fri Sep 11 17:51:27 +0000 2026 | JUST IN: @MetaWin player turns $5 into $25,430.  Unlike other casinos, every win that MetaWin promotes is by a real player.  They have a $1M airdrop going out this month to players.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/QNElpQ5icx | [X](https://x.com/WhaleInsider/status/2098469483350295001) |
 | @WhaleInsider | Fri Sep 11 17:37:58 +0000 2026 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme coin could be the next PEPE. https://t.co/asWjWGss6R | [X](https://x.com/WhaleInsider/status/2098466092888764797) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Fri Sep 11 12:35:22 +0000 2026 | JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq | [X](https://x.com/WhaleInsider/status/2098389940690149740) |
 | @StockMKTNewz | Fri Sep 11 12:37:46 +0000 2026 | RATE HIKE INCOMING???????  There is now a 76% chance that Kevin Warsh and the US Fed RAISE RATES by 0.25% next week https://t.co/Zw8IGvKDMq | [X](https://x.com/StockMKTNewz/status/2098390542350430523) |
 | @StockMKTNewz | Fri Sep 11 12:43:26 +0000 2026 | I added more to this   Know if the Fed raises rates I will be taking an L 😅  My new "cost basis" is $0.35  So if the Fed kept rates unchanged and if I had $35 I would end up with $100   DONT RAISE RATES ON ME KEVIN | [X](https://x.com/StockMKTNewz/status/2098391967948324950) |
-| @StockMKTNewz | Fri Sep 11 11:41:47 +0000 2026 | $OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK | [X](https://x.com/StockMKTNewz/status/2098376454073438400) |
-| @StockMKTNewz | Fri Sep 11 11:47:34 +0000 2026 | The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO | [X](https://x.com/StockMKTNewz/status/2098377908536365082) |
 
 ## 选题推荐
 
@@ -230,6 +230,7 @@
 | 1 | JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto mar… | WhaleInsider | 16771 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme co… | WhaleInsider | 15422 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax … | WhaleInsider | 14426 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | StockMKTNewz | 8989 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -310,6 +311,7 @@
 | 2 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | StockMKTNewz | 16656 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | $DELL stock hit new ALL TIME HIGHS today 🟢 https://t.co/I5FMpy4KZ3 | StockMKTNewz | 10689 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | If I gave you $420,000 but said you have to invest the money by the end of today and can't t… | StockMKTNewz | 11648 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | WhaleInsider | 16027 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3888,6 +3890,10 @@ Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars
 
 ## 最近运行
 
+- `2026-09-11T18:33:09Z` **full / succeeded** — Newest fresh JPMorgan/Fed rate-hike item was safely deferred because the exact benchmark claim could not be corroborated by authoritative current sources; no package or accepted Postiz task was created. verification_required
+- `2026-09-11T18:32:03Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T18:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 2 new post(s).
+- `2026-09-11T18:30:37Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T18:18:16Z` **full / succeeded** — Newest fresh Lutnick $5,000 package was safely deferred by the 15-minute Postiz submission gap; no accepted task was created and no retry is permitted. minimum_interval; retryAt 2026-09-11T18:20:39Z
 - `2026-09-11T18:17:36.849798+00:00` **produce / succeeded** — Produced one newest fresh Lutnick $5,000 package with entity-led image and exact-logo composite.
 - `2026-09-11T18:15:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3904,7 +3910,3 @@ Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars
 - `2026-09-11T17:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-11T17:18:25Z` **full / succeeded** — Newest $420,000-to-2036 package was safely deferred because the minimum Postiz submission interval was active; no accepted task was created. minimum_interval; retryAt 2026-09-11T17:21:27Z
 - `2026-09-11T17:17:46.450711+00:00` **produce / succeeded** — Produced one newest fresh $420,000-to-2036 hypothetical package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-11T17:17:07Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T17:17:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-11T17:15:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T17:15:28Z` **publish / succeeded** — Reconciled 1 published, 0 pending, and 0 terminal Postiz deliveries.

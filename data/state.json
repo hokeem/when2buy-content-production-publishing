@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T18:18:16.579641+00:00",
+  "updatedAt": "2026-09-11T18:33:09.782734+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16953,6 +16953,60 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098478277132169552",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098478277132169552",
+      "postedAt": "Fri Sep 11 18:26:23 +0000 2026",
+      "text": "JPMorgan now thinks we get 2 rate hikes from the Fed in 2026",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 16,
+        "replies": 8,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 8139
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T18:31:57Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2098477399683781099",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098477399683781099",
+      "postedAt": "Fri Sep 11 18:22:54 +0000 2026",
+      "text": "FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR9KEicX0AEZ_B0.jpg",
+        "https://pbs.twimg.com/media/HR9KEi2agAAmhqk.jpg"
+      ],
+      "engagement": {
+        "likes": 38,
+        "replies": 14,
+        "reposts": 12,
+        "quotes": 7,
+        "views": 13687
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T18:31:57Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9KEicX0AEZ_B0.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098477399683781099-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9KEi2agAAmhqk.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098477399683781099-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -27155,6 +27209,46 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098478277132169552",
+      "rank": 1,
+      "title": "JPMorgan now thinks we get 2 rate hikes from the Fed in 2026",
+      "benchmarkPostId": "2098478277132169552",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098478277132169552",
+      "score": 8989,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "deferred",
+      "createdAt": "2026-09-11T18:32:03Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "deferReason": "benchmark claim not corroborated by authoritative current sources; no safe factual payload",
+      "deferredAt": "2026-09-11T18:33:09Z"
+    },
+    {
+      "id": "radar-2098477399683781099",
+      "rank": 2,
+      "title": "FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s",
+      "benchmarkPostId": "2098477399683781099",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098477399683781099",
+      "score": 16027,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T18:32:03Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -351622,6 +351716,48 @@
       "summary": "Newest fresh Lutnick $5,000 package was safely deferred by the 15-minute Postiz submission gap; no accepted task was created and no retry is permitted.",
       "reason": "minimum_interval; retryAt 2026-09-11T18:20:39Z",
       "selectedPackageId": "pkg-20260911-lutnick-5000-earned-funds",
+      "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T183037Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T18:30:37Z",
+      "completedAt": "2026-09-11T18:30:37Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T183157Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T18:31:57Z",
+      "completedAt": "2026-09-11T18:31:57Z",
+      "summary": "Apify scanned both benchmark accounts; captured 122 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T183203Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T18:32:03Z",
+      "completedAt": "2026-09-11T18:32:03Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T183309Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T18:33:09Z",
+      "completedAt": "2026-09-11T18:33:09Z",
+      "summary": "Newest fresh JPMorgan/Fed rate-hike item was safely deferred because the exact benchmark claim could not be corroborated by authoritative current sources; no package or accepted Postiz task was created.",
+      "reason": "verification_required",
+      "selectedBenchmarkPostId": "2098478277132169552",
       "outcome": "deferred"
     }
   ],
