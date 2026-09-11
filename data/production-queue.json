@@ -1,10 +1,151 @@
 {
-  "generatedAt": "2026-09-11T13:17:14Z",
+  "generatedAt": "2026-09-11T13:31:43Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098397752774234368",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098397752774234368",
+      "originalText": "MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY\n\nMicron $MU said it will give its Taiwanese employees a $31,600 cash bonus and additional stock rewards. \n\nAll global employees will receive equities as part of an annual performance-related bonus pool https://t.co/lt7b6VaXTR",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR8Bng7XMAoZfCy.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8Bng7XMAoZfCy.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098397752774234368-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 56,
+        "replies": 6,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 10636
+      },
+      "postedAt": "Fri Sep 11 13:06:25 +0000 2026",
+      "score": 12616,
+      "heatScore": 12616,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 21,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 25.3,
+        "expiresAt": "2026-09-11T14:36:25Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098396894326063300",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098396894326063300",
+      "originalText": "JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR8A2lBbYAASmyi.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8A2lBbYAASmyi.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098396894326063300-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 72,
+        "replies": 25,
+        "reposts": 10,
+        "quotes": 4,
+        "views": 16512
+      },
+      "postedAt": "Fri Sep 11 13:03:00 +0000 2026",
+      "score": 19692,
+      "heatScore": 19692,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 28.7,
+        "expiresAt": "2026-09-11T14:33:00Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098395364755706185",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098395364755706185",
+      "originalText": "JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR7_dShbgAE3YYE.jpg",
+        "https://pbs.twimg.com/media/HR7_dSAWkAo7m0S.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7_dShbgAE3YYE.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098395364755706185-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7_dSAWkAo7m0S.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098395364755706185-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 90,
+        "replies": 37,
+        "reposts": 43,
+        "quotes": 4,
+        "views": 18959
+      },
+      "postedAt": "Fri Sep 11 12:56:55 +0000 2026",
+      "score": 24629,
+      "heatScore": 24629,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 34.8,
+        "expiresAt": "2026-09-11T14:26:55Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
       "benchmarkPostId": "2098391967948324950",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-fed-hike-odds",
@@ -34,59 +175,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 33.8,
+        "ageMinutes": 48.3,
         "expiresAt": "2026-09-11T14:13:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
-      "benchmarkPostId": "2098390542350430523",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098390542350430523",
-      "originalText": "RATE HIKE INCOMING???????\n\nThere is now a 76% chance that Kevin Warsh and the US Fed RAISE RATES by 0.25% next week https://t.co/Zw8IGvKDMq",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR769m7WYAcPA-H.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR769m7WYAcPA-H.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098390542350430523-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 31,
-        "replies": 18,
-        "reposts": 4,
-        "quotes": 2,
-        "views": 12549
-      },
-      "postedAt": "Fri Sep 11 12:37:46 +0000 2026",
-      "score": 14209,
-      "heatScore": 14209,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 21,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 39.5,
-        "expiresAt": "2026-09-11T14:07:46Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098389940690149740",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -124,14 +220,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 41.9,
+        "ageMinutes": 56.4,
         "expiresAt": "2026-09-11T14:05:22Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2098389024914223446",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -161,14 +257,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 45.5,
+        "ageMinutes": 60.0,
         "expiresAt": "2026-09-11T14:01:44Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 7,
       "benchmarkPostId": "2098388566233542821",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -206,14 +302,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 47.3,
+        "ageMinutes": 61.8,
         "expiresAt": "2026-09-11T13:59:55Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 8,
       "benchmarkPostId": "2098383808324096072",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-us-diesel-six-dollar",
@@ -251,90 +347,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 66.2,
+        "ageMinutes": 80.7,
         "expiresAt": "2026-09-11T13:41:00Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2098380246059782301",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098380246059782301",
-      "originalText": "The meme coin is now down by 99% in just 2 days",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 26,
-        "replies": 7,
-        "reposts": 1,
-        "quotes": 1,
-        "views": 14191
-      },
-      "postedAt": "Fri Sep 11 11:56:51 +0000 2026",
-      "score": 15101,
-      "heatScore": 15101,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 3
-      },
-      "editorialScore": 16,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 80.4,
-        "expiresAt": "2026-09-11T13:26:51Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2098377908536365082",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098377908536365082",
-      "originalText": "The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR7ukvbaYAAEH0B.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7ukvbaYAAEH0B.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098377908536365082-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 33,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 16162
-      },
-      "postedAt": "Fri Sep 11 11:47:34 +0000 2026",
-      "score": 16912,
-      "heatScore": 16912,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 89.7,
-        "expiresAt": "2026-09-11T13:17:34Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

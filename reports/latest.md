@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T13:20:41.464807+00:00`
+- 状态更新：`2026-09-11T13:34:40.035632+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**594**
-- 待选选题：**515**
-- 待发布制作包：**2**
+- 对标帖子快照：**595**
+- 待选选题：**518**
+- 待发布制作包：**3**
 - 已验证发布：**226**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 13:31:25 +0000 2026 | The 🇺🇸 stock market is back open and is starting out trading today Green   🟢🟢🟢🟢 https://t.co/lnFHqpUKQM | [X](https://x.com/StockMKTNewz/status/2098404045580915007) |
 | @WhaleInsider | Fri Sep 11 12:56:55 +0000 2026 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club | [X](https://x.com/WhaleInsider/status/2098395364755706185) |
 | @WhaleInsider | Fri Sep 11 13:03:00 +0000 2026 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ | [X](https://x.com/WhaleInsider/status/2098396894326063300) |
 | @StockMKTNewz | Fri Sep 11 13:06:25 +0000 2026 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY  Micron $MU said it will give its Taiwanese employees a $31,600 cash bonus and additional stock rewards.   All global employees will receive equities as part of an annual performance-related bonus pool https://t.co/lt7b6VaXTR | [X](https://x.com/StockMKTNewz/status/2098397752774234368) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 23:33:21 +0000 2026 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's adding six new Ariane 6 launches, expanding its total Arianespace commitment from 18 to 24 launches.  Arianespace has delivered 100 Amazon Leo satellites to orbit across three missions https://t.co/jcHlMrcKut | [X](https://x.com/StockMKTNewz/status/2098193139685040156) |
 | @StockMKTNewz | Thu Sep 10 22:19:16 +0000 2026 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month  SpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R | [X](https://x.com/StockMKTNewz/status/2098174494493773975) |
 | @StockMKTNewz | Thu Sep 10 22:01:21 +0000 2026 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK  GameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc | [X](https://x.com/StockMKTNewz/status/2098169986414006375) |
-| @WhaleInsider | Thu Sep 10 21:22:36 +0000 2026 | JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/U1tThtOuDy | [X](https://x.com/WhaleInsider/status/2098160236225798614) |
 
 ## 选题推荐
 
@@ -217,6 +217,7 @@
 | 1 | Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Sam… | StockMKTNewz | 8393 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC h… | StockMKTNewz | 7033 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | I added more to this Know if the Fed raises rates I will be taking an L 😅 My new "cost basis… | StockMKTNewz | 7700 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY Micron $MU said it … | StockMKTNewz | 12616 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -291,6 +292,7 @@
 | 2 | JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral … | WhaleInsider | 19072 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | The meme coin is now down by 99% in just 2 days | StockMKTNewz | 15101 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | RATE HIKE INCOMING??????? There is now a 76% chance that Kevin Warsh and the US Fed RAISE RA… | StockMKTNewz | 14209 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https:/… | WhaleInsider | 19692 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -324,6 +326,7 @@
 | 3 | JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/… | WhaleInsider | 20918 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO | StockMKTNewz | 16912 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq | WhaleInsider | 19046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI … | WhaleInsider | 24629 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3504,6 +3507,13 @@ Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.
 
 Markets now price a 76% chance of a 25 bp Fed hike next week.  The FOMC decision is scheduled for Sept. 15–16.
 
+### Micron Taiwan workers receive $31,600 cash bonus
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-micron-taiwan-bonus/when2buy-image-model.png`
+
+Micron $MU is giving Taiwanese employees a $31,600 cash bonus plus additional stock rewards.  All global employees will receive equity through an annual performance-related bonus pool.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3738,6 +3748,11 @@ Markets now price a 76% chance of a 25 bp Fed hike next week.  The FOMC decision
 
 ## 最近运行
 
+- `2026-09-11T13:34:39.923567+00:00` **full / succeeded** — Newest Micron package was safely deferred because the minimum Postiz submission interval was active. minimum_interval
+- `2026-09-11T13:34:09.257271+00:00` **produce / succeeded** — Produced the newest fresh Micron benchmark package with one complete entity-led square image and one exact-logo composite.
+- `2026-09-11T13:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 1 new post(s).
+- `2026-09-11T13:31:43Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T13:30:58Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T13:19:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T13:17:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 3 new post(s).
 - `2026-09-11T13:17:14Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3753,8 +3768,3 @@ Markets now price a 76% chance of a 25 bp Fed hike next week.  The FOMC decision
 - `2026-09-11T12:32:28Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T12:30:51Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T12:19:43Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard 90-minute queue, produced one newest fresh diesel package, and safely deferred the sole submission at the rolling 24-hour account limit. daily_limit; no submission attempted or retried
-- `2026-09-11T12:19:00.476455+00:00` **produce / succeeded** — Produced one newest fresh U.S. diesel package with generated entity visual and exact-logo composite.
-- `2026-09-11T12:16:39Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T12:16:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 4 new post(s).
-- `2026-09-11T12:01:49Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T12:00:34Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).

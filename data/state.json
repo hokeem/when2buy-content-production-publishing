@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T13:20:41.464807+00:00",
+  "updatedAt": "2026-09-11T13:34:40.035632+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16319,7 +16319,14 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T13:17:27Z"
+      "capturedAt": "2026-09-11T13:17:27Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8Bng7XMAoZfCy.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098397752774234368-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2098396894326063300",
@@ -16340,7 +16347,14 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T13:17:27Z"
+      "capturedAt": "2026-09-11T13:17:27Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8A2lBbYAASmyi.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098396894326063300-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2098395364755706185",
@@ -16362,7 +16376,40 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T13:17:27Z"
+      "capturedAt": "2026-09-11T13:17:27Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7_dShbgAE3YYE.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098395364755706185-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7_dSAWkAo7m0S.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098395364755706185-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098404045580915007",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098404045580915007",
+      "postedAt": "Fri Sep 11 13:31:25 +0000 2026",
+      "text": "The 🇺🇸 stock market is back open and is starting out trading today Green \n\n🟢🟢🟢🟢 https://t.co/lnFHqpUKQM",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR8HW8YbwAESpyX.jpg"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 1296
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T13:31:56Z"
     }
   ],
   "radar": [
@@ -26147,6 +26194,63 @@
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098397752774234368",
+      "rank": 1,
+      "title": "MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY Micron $MU said it …",
+      "benchmarkPostId": "2098397752774234368",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098397752774234368",
+      "score": 12616,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T13:30:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098396894326063300",
+      "rank": 2,
+      "title": "JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https:/…",
+      "benchmarkPostId": "2098396894326063300",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098396894326063300",
+      "score": 19692,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T13:30:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098395364755706185",
+      "rank": 3,
+      "title": "JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI …",
+      "benchmarkPostId": "2098395364755706185",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098395364755706185",
+      "score": 24629,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T13:30:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -38511,6 +38615,31 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T13:19:58Z",
       "publishedAt": "2026-09-11T13:19:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-micron-taiwan-bonus",
+      "benchmarkPostId": "2098397752774234368",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098397752774234368",
+      "title": "Micron Taiwan workers receive $31,600 cash bonus",
+      "status": "ready",
+      "postText": "Micron $MU is giving Taiwanese employees a $31,600 cash bonus plus additional stock rewards.\n\nAll global employees will receive equity through an annual performance-related bonus pool.",
+      "mirroredFacts": [
+        "Micron said Taiwanese employees will receive a $31,600 cash bonus.",
+        "Taiwanese employees will also receive additional stock rewards.",
+        "All global employees will receive equities through an annual performance-related bonus pool."
+      ],
+      "verificationSources": [
+        "https://in.marketscreener.com/news/micron-s-taiwan-workers-to-get-rewards-worth-up-to-68-months-of-pay-ce785bdfd88ff52d",
+        "https://x.com/StockMKTNewz/status/2098397752774234368"
+      ],
+      "imagePath": "deliverables/pkg-20260911-micron-taiwan-bonus/when2buy-image-model.png",
+      "createdAt": "2026-09-11T13:34:09.257127+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Complete 1:1 entity-led photorealistic Micron semiconductor scene: advanced memory chips and silicon wafer in the foreground, Taiwan fabrication facility at night, subtle cleanroom employees, near-black graphite and cool blue palette with restrained red reflections, strong subject, dark lower-right logo-safe area, no text or embedded logos. Exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      }
     }
   ],
   "posts": [
@@ -330409,6 +330538,57 @@
       "completedAt": "2026-09-11T13:19:58Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T133058Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:30:58Z",
+      "completedAt": "2026-09-11T13:30:58Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T133143Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:31:43Z",
+      "completedAt": "2026-09-11T13:31:43Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T133156Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:31:56Z",
+      "completedAt": "2026-09-11T13:31:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 122 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T133409Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:34:09.257271+00:00",
+      "completedAt": "2026-09-11T13:34:09.257280+00:00",
+      "summary": "Produced the newest fresh Micron benchmark package with one complete entity-led square image and one exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T133439Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:34:39.923567+00:00",
+      "completedAt": "2026-09-11T13:34:39.923567+00:00",
+      "summary": "Newest Micron package was safely deferred because the minimum Postiz submission interval was active.",
+      "reason": "minimum_interval",
+      "selectedPackageId": "pkg-20260911-micron-taiwan-bonus",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
