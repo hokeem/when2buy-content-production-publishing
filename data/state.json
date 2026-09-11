@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T03:02:26.488221+00:00",
+  "updatedAt": "2026-09-11T03:17:35.821863+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -293501,6 +293501,46 @@
       "completedAt": "2026-09-11T03:01:49Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T031636Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T03:16:36Z",
+      "completedAt": "2026-09-11T03:16:36Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T031644Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T03:16:44Z",
+      "completedAt": "2026-09-11T03:16:44Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T031658Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T03:16:58Z",
+      "completedAt": "2026-09-11T03:16:58Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T031735Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T03:17:35Z",
+      "completedAt": "2026-09-11T03:17:35Z",
+      "summary": "Freshness-first cycle completed: reconciled Postiz, scanned both Apify feeds, archived benchmark media, rebuilt the hard 90-minute queue, collected due metrics, and found no new eligible item; no publication submitted.",
+      "reason": "No new non-pinned original from @WhaleInsider or @StockMKTNewz entered the hard 90-minute queue."
     }
   ],
   "deliveryCircuitBreaker": {

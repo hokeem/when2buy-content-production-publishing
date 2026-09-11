@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T03:02:26.488221+00:00`
+- 状态更新：`2026-09-11T03:17:35.821863+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**571**
 - 待选选题：**497**
@@ -3648,6 +3648,10 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T03:17:35Z` **full / succeeded** — Freshness-first cycle completed: reconciled Postiz, scanned both Apify feeds, archived benchmark media, rebuilt the hard 90-minute queue, collected due metrics, and found no new eligible item; no publication submitted. No new non-pinned original from @WhaleInsider or @StockMKTNewz entered the hard 90-minute queue.
+- `2026-09-11T03:16:58Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T03:16:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T03:16:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T03:01:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T03:01:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 85 eligible originals and added 0 new post(s).
 - `2026-09-11T03:00:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3664,7 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T02:02:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T02:02:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
 - `2026-09-11T02:00:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T01:47:14Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T01:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
-- `2026-09-11T01:45:45Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T01:34:34Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-11T07:00:00Z
