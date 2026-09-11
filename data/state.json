@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T14:50:15.498459+00:00",
+  "updatedAt": "2026-09-11T14:51:15.351042+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -334891,6 +334891,17 @@
       "completedAt": "2026-09-11T14:50:15Z",
       "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T145115Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:51:15.279066+00:00",
+      "completedAt": "2026-09-11T14:51:15.279066+00:00",
+      "summary": "Fresh ETH package was safely deferred because the 15-minute Postiz minimum interval was active.",
+      "reason": "minimum_interval",
+      "selectedPackageId": "pkg-20260911-eth-75-percent-move",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

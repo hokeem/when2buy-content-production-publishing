@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T14:50:15.498459+00:00`
+- 状态更新：`2026-09-11T14:51:15.351042+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**601**
 - 待选选题：**525**
@@ -3786,6 +3786,7 @@ ETH is up more than 7.5% over the past 24 hours.
 
 ## 最近运行
 
+- `2026-09-11T14:51:15.279066+00:00` **full / succeeded** — Fresh ETH package was safely deferred because the 15-minute Postiz minimum interval was active. minimum_interval
 - `2026-09-11T14:50:15Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:48:31.590363+00:00` **produce / succeeded** — Produced one newest fresh ETH package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T14:48:12.067242+00:00` **produce / succeeded** — Produced one newest fresh ETH package with an inspected entity-led image and exact-logo composite.
@@ -3805,4 +3806,3 @@ ETH is up more than 7.5% over the past 24 hours.
 - `2026-09-11T14:04:16Z` **full / succeeded** — Freshness-first cycle scanned both benchmark feeds, reconciled deliveries, refreshed metrics, and deferred the newest uncovered item because it had no safely verified package and the submission interval was active. newest_item_not_ready_and_minimum_interval
 - `2026-09-11T14:02:37Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:02:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-11T14:02:11Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
