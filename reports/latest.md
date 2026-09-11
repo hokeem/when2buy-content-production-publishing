@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T02:03:41.593928+00:00`
+- 状态更新：`2026-09-11T02:05:17.540036+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**571**
 - 待选选题：**497**
@@ -3648,6 +3648,7 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T02:05:17Z` **publish / succeeded** — Newest fresh OpenAI package remained ready; Postiz batch safely deferred before acceptance because the rolling 24-hour limit is exhausted. daily_limit
 - `2026-09-11T02:02:39Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T02:02:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T02:02:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
@@ -3667,4 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T01:03:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T01:02:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 1 new post(s).
 - `2026-09-11T01:01:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T01:00:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
