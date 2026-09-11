@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T23:34:59.757320+00:00",
+  "updatedAt": "2026-09-11T23:40:17.868225+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17389,7 +17389,8 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T23:31:21Z"
+      "capturedAt": "2026-09-11T23:31:21Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -41437,7 +41438,7 @@
     {
       "id": "pkg-20260911-anthropic-2t-ipo",
       "title": "Anthropic reportedly targets $2T IPO valuation",
-      "status": "ready",
+      "status": "published",
       "benchmarkPostId": "2098551762961481832",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098551762961481832",
       "sourceAccount": "StockMKTNewz",
@@ -41463,7 +41464,12 @@
         "qaNotes": "Square 1254x1254 entity-led server-room and valuation-scale scene; exact supplied logo composited once in lower-right clear space; visible text reviewed for Anthropic and $2T IPO Target; no source, CTA, disclaimer, or fixed tagline."
       },
       "createdAt": "2026-09-11T23:33:10Z",
-      "updatedAt": "2026-09-11T23:33:10Z"
+      "updatedAt": "2026-09-11T23:33:10Z",
+      "postizPostId": "cmtxlm0re0uf2lm0ykx4c50su",
+      "postizSubmissionAt": "2026-09-11T23:39:40Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T23:40:17Z",
+      "publishedAt": "2026-09-11T23:39:00.000Z"
     }
   ],
   "posts": [
@@ -45973,6 +45979,24 @@
         "lastAttemptAt": "2026-09-11T23:20:37.380861Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098557219952591135",
+      "packageId": "pkg-20260911-anthropic-2t-ipo",
+      "title": "Anthropic reportedly targets $2T IPO valuation",
+      "text": "Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.",
+      "status": "published",
+      "publishedAt": "2026-09-11T23:39:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098557219952591135",
+      "postizPostId": "cmtxlm0re0uf2lm0ykx4c50su",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T23:39:00.000Z",
+        "windowEnd": "2026-09-14T23:39:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -374362,6 +374386,37 @@
       },
       "metrics": "idempotent hourly check; all eligible posts already had a snapshot in the current UTC hour",
       "nextAction": "Next scheduled run should reconcile Postiz first, rescan both feeds, and never retry this accepted/deferred package unless it remains fresh and the limiter permits a new submission."
+    },
+    {
+      "id": "run-20260911T233848Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:38:48Z",
+      "completedAt": "2026-09-11T23:38:48Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T233853Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:38:53Z",
+      "completedAt": "2026-09-11T23:38:53Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T234017Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:40:17Z",
+      "completedAt": "2026-09-11T23:40:17Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

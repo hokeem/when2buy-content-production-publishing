@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T23:34:59.757320+00:00`
+- 状态更新：`2026-09-11T23:40:17.868225+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**631**
 - 待选选题：**554**
-- 待发布制作包：**1**
-- 已验证发布：**244**
+- 待发布制作包：**0**
+- 已验证发布：**245**
 
 ## 对标账号扫描
 
@@ -3748,7 +3748,7 @@ Nvidia $NVDA is reportedly considering an investment of up to $10B in Anthropic 
 
 ### Anthropic reportedly targets $2T IPO valuation
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260911-anthropic-2t-ipo/when2buy-image.png`
 
 Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
@@ -4002,9 +4002,13 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
+| Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098557219952591135) |
 
 ## 最近运行
 
+- `2026-09-11T23:40:17Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T23:38:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T23:38:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-11T23:31:00Z` **full / succeeded** — Apify scanned both exact benchmark feeds, reconciled Postiz, archived no new media, rebuilt the hard 90-minute queue, produced and QA-passed one newest fresh package, and safely deferred its sole Postiz submission under the minimum-interval limiter. deferred: minimum_interval; accepted submissions remain at least 15 minutes apart; no retry was attempted.
 - `2026-09-11T23:32:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T23:32:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -4022,6 +4026,3 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 - `2026-09-11T22:32:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T22:31:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T22:16:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T22:16:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
-- `2026-09-11T22:04:30Z` **publish / succeeded** — Newest fresh Rocket Lab package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T22:18:32Z
-- `2026-09-11T22:04:04Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
