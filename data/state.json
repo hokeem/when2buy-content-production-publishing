@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T09:31:39.390813+00:00",
+  "updatedAt": "2026-09-11T09:48:24.954911+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -315014,6 +315014,35 @@
       "completedAt": "2026-09-11T09:31:39Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T094544Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T09:45:44Z",
+      "completedAt": "2026-09-11T09:45:44Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T094753Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T09:47:53Z",
+      "completedAt": "2026-09-11T09:47:53Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T094824Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-11T09:48:24Z",
+      "completedAt": "2026-09-11T09:48:24Z",
+      "summary": "Freshness-first cycle completed without publication; the bounded Apify collection timed out before adding new benchmark records, and the hard 90-minute queue was empty.",
+      "reason": "apify_collection_timeout; no fresh eligible source was available, so no package was produced or submitted.",
+      "selectedPackageIds": [],
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
