@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T13:03:48.303650+00:00`
+- 状态更新：`2026-09-11T13:20:41.464807+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**591**
+- 对标帖子快照：**594**
 - 待选选题：**515**
 - 待发布制作包：**2**
-- 已验证发布：**225**
+- 已验证发布：**226**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 12:56:55 +0000 2026 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club | [X](https://x.com/WhaleInsider/status/2098395364755706185) |
+| @WhaleInsider | Fri Sep 11 13:03:00 +0000 2026 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ | [X](https://x.com/WhaleInsider/status/2098396894326063300) |
+| @StockMKTNewz | Fri Sep 11 13:06:25 +0000 2026 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY  Micron $MU said it will give its Taiwanese employees a $31,600 cash bonus and additional stock rewards.   All global employees will receive equities as part of an annual performance-related bonus pool https://t.co/lt7b6VaXTR | [X](https://x.com/StockMKTNewz/status/2098397752774234368) |
 | @WhaleInsider | Fri Sep 11 12:29:55 +0000 2026 | NEW: @NBCNews covers SolCex Exchange and its upcoming stock trading launch, with stocks scheduled to launch on the platform on September 15. https://t.co/HLbVD9UUtn | [X](https://x.com/WhaleInsider/status/2098388566233542821) |
 | @StockMKTNewz | Fri Sep 11 12:31:44 +0000 2026 | 🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS  US CPI for August just came in at +3.4% YoY in line with expectations of +3.4% | [X](https://x.com/StockMKTNewz/status/2098389024914223446) |
 | @WhaleInsider | Fri Sep 11 12:35:22 +0000 2026 | JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq | [X](https://x.com/WhaleInsider/status/2098389940690149740) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 22:19:16 +0000 2026 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month  SpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R | [X](https://x.com/StockMKTNewz/status/2098174494493773975) |
 | @StockMKTNewz | Thu Sep 10 22:01:21 +0000 2026 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK  GameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc | [X](https://x.com/StockMKTNewz/status/2098169986414006375) |
 | @WhaleInsider | Thu Sep 10 21:22:36 +0000 2026 | JUST IN: Robinhood Chain $HOOD DEX liquidity surpasses $100,000,000 - Artemis. https://t.co/U1tThtOuDy | [X](https://x.com/WhaleInsider/status/2098160236225798614) |
-| @StockMKTNewz | Thu Sep 10 21:24:26 +0000 2026 | MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032  The company's data center network will reach more than 38 gigawatts, up from about 12 gigawatts now - Bloomberg https://t.co/TqjM0HyNCI | [X](https://x.com/StockMKTNewz/status/2098160694038298889) |
-| @StockMKTNewz | Thu Sep 10 21:41:24 +0000 2026 | THE US MILITARY NOW FUNDING THE AI BUILD OUT?  The Pentagon is in talks to lend roughly $5 billion to AI cloud-computing startup Fluidstack  The money would come from the Pentagon’s Office of Strategic Capital, which provides loans to companies working in areas deemed critical to U.S. national security. A $5B loan would be, by far, the office’s largest to date - WSJ | [X](https://x.com/StockMKTNewz/status/2098164965123236185) |
-| @WhaleInsider | Thu Sep 10 21:01:44 +0000 2026 | JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Grok. https://t.co/vLsRaHtlLw | [X](https://x.com/WhaleInsider/status/2098154982411305155) |
 
 ## 选题推荐
 
@@ -3497,6 +3497,13 @@ The U.S. nationwide diesel average just hit $6 per gallon for the first time.
 
 Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.  The decision is scheduled for Sept. 15–16.
 
+### Fed rate-hike odds reach 76%
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-fed-rate-hike-76/when2buy-image-model.png`
+
+Markets now price a 76% chance of a 25 bp Fed hike next week.  The FOMC decision is scheduled for Sept. 15–16.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3725,11 +3732,16 @@ Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
+| Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 
 ## 最近运行
 
+- `2026-09-11T13:19:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T13:17:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 3 new post(s).
+- `2026-09-11T13:17:14Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T13:15:39Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T13:03:48.210551+00:00` **full / succeeded** — Fresh Fed rate-hike odds package was safely deferred because the rolling 24-hour Postiz limit was exhausted. daily_limit
 - `2026-09-11T13:02:03Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T13:00:45Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3746,7 +3758,3 @@ Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.
 - `2026-09-11T12:16:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 4 new post(s).
 - `2026-09-11T12:01:49Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T12:00:34Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T11:51:49.364944+00:00` **full / succeeded** — Fresh Apple/Samsung foldable-display package was safely deferred because the rolling 24-hour Postiz limit was exhausted. daily_limit
-- `2026-09-11T11:50:14.139596+00:00` **produce / succeeded** — Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.
-- `2026-09-11T11:48:47Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T11:47:22Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).

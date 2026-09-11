@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T13:03:48.303650+00:00",
+  "updatedAt": "2026-09-11T13:20:41.464807+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16299,6 +16299,70 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098397752774234368",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098397752774234368",
+      "postedAt": "Fri Sep 11 13:06:25 +0000 2026",
+      "text": "MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY\n\nMicron $MU said it will give its Taiwanese employees a $31,600 cash bonus and additional stock rewards. \n\nAll global employees will receive equities as part of an annual performance-related bonus pool https://t.co/lt7b6VaXTR",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR8Bng7XMAoZfCy.jpg"
+      ],
+      "engagement": {
+        "likes": 56,
+        "replies": 6,
+        "reposts": 10,
+        "quotes": 2,
+        "views": 10636
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T13:17:27Z"
+    },
+    {
+      "id": "2098396894326063300",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098396894326063300",
+      "postedAt": "Fri Sep 11 13:03:00 +0000 2026",
+      "text": "JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR8A2lBbYAASmyi.jpg"
+      ],
+      "engagement": {
+        "likes": 72,
+        "replies": 25,
+        "reposts": 10,
+        "quotes": 4,
+        "views": 16512
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T13:17:27Z"
+    },
+    {
+      "id": "2098395364755706185",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098395364755706185",
+      "postedAt": "Fri Sep 11 12:56:55 +0000 2026",
+      "text": "JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR7_dShbgAE3YYE.jpg",
+        "https://pbs.twimg.com/media/HR7_dSAWkAo7m0S.jpg"
+      ],
+      "engagement": {
+        "likes": 90,
+        "replies": 37,
+        "reposts": 43,
+        "quotes": 4,
+        "views": 18959
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T13:17:27Z"
     }
   ],
   "radar": [
@@ -38403,6 +38467,50 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260911-fed-rate-hike-76",
+      "benchmarkPostId": "2098390542350430523",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098390542350430523",
+      "title": "Fed rate-hike odds reach 76%",
+      "status": "published",
+      "postText": "Markets now price a 76% chance of a 25 bp Fed hike next week.\n\nThe FOMC decision is scheduled for Sept. 15–16.",
+      "mirroredFacts": [
+        "Markets now price a 76% chance of a 25-basis-point Federal Reserve rate hike next week.",
+        "The FOMC decision is scheduled for September 15–16, 2026."
+      ],
+      "verificationSources": [
+        "https://www.cmegroup.com/fedwatch",
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "https://x.com/StockMKTNewz/status/2098390542350430523"
+      ],
+      "imagePath": "deliverables/pkg-20260911-fed-rate-hike-76/when2buy-image-model.png",
+      "createdAt": "2026-09-11T13:17:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Premium square financial-news editorial image: Federal Reserve headquarters at dusk, recognizable institutional architecture, subtle upward red probability curve reflected in glass, near-black and white palette with restrained red accent, complete entity-led scene, no readable text or logos. Exact 1:1 composition with clean lower-right logo-safe space.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T13:17:00Z",
+          "checks": [
+            "square 1254x1254",
+            "complete entity-led visual",
+            "no generated public copy or source attribution",
+            "premium near-black white restrained-red palette",
+            "not pure text or generic radar",
+            "exact repository logo composited once",
+            "no damaged logo or misspelled visible text",
+            "source age rechecked before production"
+          ],
+          "result": "passed"
+        }
+      },
+      "postizPostId": "cmtwzgeau0vt1qk0yvjstmi60",
+      "postizSubmissionAt": "2026-09-11T13:19:26Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T13:19:58Z",
+      "publishedAt": "2026-09-11T13:19:00.000Z"
     }
   ],
   "posts": [
@@ -42567,6 +42675,24 @@
         "windowStart": "2026-09-11T08:48:00Z",
         "windowEnd": "2026-09-14T08:48:00Z",
         "lastAttemptAt": "2026-09-11T13:03:02.366193Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098401142220923209",
+      "packageId": "pkg-20260911-fed-rate-hike-76",
+      "title": "Fed rate-hike odds reach 76%",
+      "text": "Markets now price a 76% chance of a 25 bp Fed hike next week.\n\nThe FOMC decision is scheduled for Sept. 15–16.",
+      "status": "published",
+      "publishedAt": "2026-09-11T13:19:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098401142220923209",
+      "postizPostId": "cmtwzgeau0vt1qk0yvjstmi60",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T13:19:00Z",
+        "windowEnd": "2026-09-14T13:19:00Z",
+        "lastAttemptAt": "2026-09-11T13:20:41.102080Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -310004,6 +310130,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-11T13:03:02.366193Z"
       }
+    },
+    {
+      "id": "metric-2098401142220923209-20260911T132041Z",
+      "postId": "2098401142220923209",
+      "observedAt": "2026-09-11T13:20:41.102080Z",
+      "views": 1,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtwzgeau0vt1qk0yvjstmi60",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtwzgeau0vt1qk0yvjstmi60",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-11"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-11"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-11"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-11"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-11"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-11T13:20:41.102080Z"
+      }
     }
   ],
   "experiments": [],
@@ -330201,6 +330369,46 @@
       "reason": "daily_limit",
       "selectedPackageId": "pkg-20260911-fed-hike-odds",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T131539Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:15:39Z",
+      "completedAt": "2026-09-11T13:15:39Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T131714Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:17:14Z",
+      "completedAt": "2026-09-11T13:17:14Z",
+      "summary": "Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T131727Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:17:27Z",
+      "completedAt": "2026-09-11T13:17:27Z",
+      "summary": "Apify scanned both benchmark accounts; captured 122 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T131958Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T13:19:58Z",
+      "completedAt": "2026-09-11T13:19:58Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:02:03Z",
+  "generatedAt": "2026-09-11T13:17:14Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -34,7 +34,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 18.6,
+        "ageMinutes": 33.8,
         "expiresAt": "2026-09-11T14:13:26Z",
         "ttlMinutes": 90
       },
@@ -79,7 +79,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 24.3,
+        "ageMinutes": 39.5,
         "expiresAt": "2026-09-11T14:07:46Z",
         "ttlMinutes": 90
       },
@@ -124,7 +124,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 26.7,
+        "ageMinutes": 41.9,
         "expiresAt": "2026-09-11T14:05:22Z",
         "ttlMinutes": 90
       },
@@ -161,7 +161,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 30.3,
+        "ageMinutes": 45.5,
         "expiresAt": "2026-09-11T14:01:44Z",
         "ttlMinutes": 90
       },
@@ -206,7 +206,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 32.1,
+        "ageMinutes": 47.3,
         "expiresAt": "2026-09-11T13:59:55Z",
         "ttlMinutes": 90
       },
@@ -251,7 +251,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 51.1,
+        "ageMinutes": 66.2,
         "expiresAt": "2026-09-11T13:41:00Z",
         "ttlMinutes": 90
       },
@@ -288,7 +288,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 65.2,
+        "ageMinutes": 80.4,
         "expiresAt": "2026-09-11T13:26:51Z",
         "ttlMinutes": 90
       },
@@ -333,45 +333,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 74.5,
+        "ageMinutes": 89.7,
         "expiresAt": "2026-09-11T13:17:34Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 9,
-      "benchmarkPostId": "2098376454073438400",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098376454073438400",
-      "originalText": "$OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 23,
-        "replies": 1,
-        "reposts": 2,
-        "quotes": 2,
-        "views": 13335
-      },
-      "postedAt": "Fri Sep 11 11:41:47 +0000 2026",
-      "score": 14055,
-      "heatScore": 14055,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 3,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 22,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 80.3,
-        "expiresAt": "2026-09-11T13:11:47Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
