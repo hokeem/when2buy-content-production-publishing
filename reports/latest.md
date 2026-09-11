@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T14:51:15.351042+00:00`
+- 状态更新：`2026-09-11T15:07:06.524285+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**601**
-- 待选选题：**525**
+- 对标帖子快照：**603**
+- 待选选题：**527**
 - 待发布制作包：**1**
-- 已验证发布：**229**
+- 已验证发布：**230**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 14:52:03 +0000 2026 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at an average cost of $27.44 per share https://t.co/uRyL6pOwoT | [X](https://x.com/StockMKTNewz/status/2098424336709193934) |
+| @WhaleInsider | Fri Sep 11 14:55:15 +0000 2026 | JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryptocurrency strategy. https://t.co/woYDTwUhWT | [X](https://x.com/WhaleInsider/status/2098425142598566035) |
 | @WhaleInsider | Fri Sep 11 14:32:05 +0000 2026 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | [X](https://x.com/WhaleInsider/status/2098419313346576672) |
 | @StockMKTNewz | Fri Sep 11 14:26:30 +0000 2026 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center infrastructure forming a key part of the investment - CNBC https://t.co/4M0UiZThdr | [X](https://x.com/StockMKTNewz/status/2098417906161705470) |
 | @StockMKTNewz | Fri Sep 11 13:36:16 +0000 2026 | JUST IN:  Leopold Aschenbrenner's Situation Awareness has reportedly been active in the options market and has been buying "significant" stakes in names like   CoreWeave $CRWV  Sandisk $SNDK  Bloom Energy $BE  $AMD https://t.co/kkEYNHriBM | [X](https://x.com/StockMKTNewz/status/2098405267708805502) |
@@ -39,8 +41,6 @@
 | @WhaleInsider | Fri Sep 11 10:20:58 +0000 2026 | JUST IN: 🇨🇳 China’s Moonshot AI aims for $2,000,000,000 in annual sales by end of 2026. https://t.co/NDtKT1nJVL | [X](https://x.com/WhaleInsider/status/2098356117793354214) |
 | @WhaleInsider | Fri Sep 11 10:02:13 +0000 2026 | JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain, with spot and DEX trading on Santro Exchange now live. https://t.co/pP4bNWUUac | [X](https://x.com/WhaleInsider/status/2098351397963956345) |
 | @WhaleInsider | Fri Sep 11 08:40:26 +0000 2026 | JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond market, with settlements using the RBI’s wholesale digital rupee. https://t.co/34cLGQCe73 | [X](https://x.com/WhaleInsider/status/2098330814857506832) |
-| @WhaleInsider | Fri Sep 11 07:13:35 +0000 2026 | JUST IN: Franklin ETF clients buy $5.14 million worth of $XRP. https://t.co/j3Qv39DNRt | [X](https://x.com/WhaleInsider/status/2098308959945855348) |
-| @WhaleInsider | Fri Sep 11 06:10:21 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $282.56 million. https://t.co/HjZyvxz1lF | [X](https://x.com/WhaleInsider/status/2098293048258031651) |
 
 ## 选题推荐
 
@@ -222,6 +222,7 @@
 | 1 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID: - $5,000 CHECKS CAN BE COMBINED WITH FISC… | StockMKTNewz | 10056 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center in… | StockMKTNewz | 7490 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | WhaleInsider | 16720 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryp… | WhaleInsider | 15856 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -298,6 +299,7 @@
 | 2 | RATE HIKE INCOMING??????? There is now a 76% chance that Kevin Warsh and the US Fed RAISE RA… | StockMKTNewz | 14209 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https:/… | WhaleInsider | 19692 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID: - INFLATION CLEARLY DECELERATING OVER PAS… | StockMKTNewz | 12104 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at … | StockMKTNewz | 10244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3549,6 +3551,13 @@ Hassett says inflation has clearly decelerated over the past 3 months.  He says 
 
 ETH is up more than 7.5% over the past 24 hours.
 
+### UK Lords back digital-asset strategy amendment
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-uk-digital-asset-strategy/when2buy-image-model.png`
+
+UK House of Lords backs an amendment requiring a national digital-asset strategy.  The measure would cover cryptoassets, stablecoins and tokenized securities.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3632,9 +3641,9 @@ ETH is up more than 7.5% over the past 24 hours.
 | IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097614505312506296) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
+| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
-| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
 | NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097847871278293375) |
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
@@ -3650,6 +3659,7 @@ ETH is up more than 7.5% over the past 24 hours.
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
+| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 16 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
@@ -3657,7 +3667,6 @@ ETH is up more than 7.5% over the past 24 hours.
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
-| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 14 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
@@ -3669,6 +3678,7 @@ ETH is up more than 7.5% over the past 24 hours.
 | U.S. Bitcoin ETFs see $986.8M weekly inflow | 2026-09-07T07:12:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859345426468895) |
 | Howard Lutnick disclosed $250M+ income | 2026-09-07T08:33:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879675360620883) |
 | Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
+| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
@@ -3679,7 +3689,6 @@ ETH is up more than 7.5% over the past 24 hours.
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
-| Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -3723,6 +3732,7 @@ ETH is up more than 7.5% over the past 24 hours.
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
+| Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3778,14 +3788,18 @@ ETH is up more than 7.5% over the past 24 hours.
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
+| U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
-| Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098419869192753392) |
+| UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
 
 ## 最近运行
 
+- `2026-09-11T15:06:25Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T15:04:26.797495Z` **produce / succeeded** — Produced one newest fresh UK digital-asset strategy package with generated entity visual and exact-logo composite.
+- `2026-09-11T15:01:48Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T15:01:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 2 new post(s).
 - `2026-09-11T14:51:15.279066+00:00` **full / succeeded** — Fresh ETH package was safely deferred because the 15-minute Postiz minimum interval was active. minimum_interval
 - `2026-09-11T14:50:15Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:48:31.590363+00:00` **produce / succeeded** — Produced one newest fresh ETH package with an inspected entity-led image and exact-logo composite.
@@ -3802,7 +3816,3 @@ ETH is up more than 7.5% over the past 24 hours.
 - `2026-09-11T14:18:24.414544+00:00` **produce / succeeded** — Produced one newest fresh Hassett checks package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T14:17:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
 - `2026-09-11T14:16:38Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T14:15:42Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T14:04:16Z` **full / succeeded** — Freshness-first cycle scanned both benchmark feeds, reconciled deliveries, refreshed metrics, and deferred the newest uncovered item because it had no safely verified package and the submission interval was active. newest_item_not_ready_and_minimum_interval
-- `2026-09-11T14:02:37Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T14:02:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
