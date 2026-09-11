@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T19:48:41.021149+00:00`
+- 状态更新：`2026-09-11T20:05:43.724576+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**621**
-- 待选选题：**544**
+- 对标帖子快照：**623**
+- 待选选题：**546**
 - 待发布制作包：**2**
-- 已验证发布：**237**
+- 已验证发布：**238**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 19:50:21 +0000 2026 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." https://t.co/yvLyzeWyXF | [X](https://x.com/WhaleInsider/status/2098499407008199000) |
+| @StockMKTNewz | Fri Sep 11 19:52:24 +0000 2026 | US GOVERNMENT BUDGET UPDATE  The federal budget deficit hit $1.97 trillion for the first 11 months of the fiscal year  Spending for fiscal 2026 to date totaled $6.81 trillion, up 3% YoY, while revenues were $4.85 trillion, also 3% YoY. The US Government's fiscal year ends in September - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098499922106384614) |
 | @StockMKTNewz | Fri Sep 11 19:23:08 +0000 2026 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking relationship with Clear Street - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098492555679662501) |
 | @StockMKTNewz | Fri Sep 11 19:09:34 +0000 2026 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week  Citi expects the Fed to be cutting rates by the middle of 2027 | [X](https://x.com/StockMKTNewz/status/2098489144276123754) |
 | @StockMKTNewz | Fri Sep 11 19:13:30 +0000 2026 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults will happen https://t.co/i2U8d3xIat | [X](https://x.com/StockMKTNewz/status/2098490133007753576) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 13:54:59 +0000 2026 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:  - $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY | [X](https://x.com/StockMKTNewz/status/2098409975974383854) |
 | @StockMKTNewz | Fri Sep 11 13:31:25 +0000 2026 | The 🇺🇸 stock market is back open and is starting out trading today Green   🟢🟢🟢🟢 https://t.co/lnFHqpUKQM | [X](https://x.com/StockMKTNewz/status/2098404045580915007) |
 | @WhaleInsider | Fri Sep 11 12:56:55 +0000 2026 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club | [X](https://x.com/WhaleInsider/status/2098395364755706185) |
-| @WhaleInsider | Fri Sep 11 13:03:00 +0000 2026 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ | [X](https://x.com/WhaleInsider/status/2098396894326063300) |
-| @StockMKTNewz | Fri Sep 11 13:06:25 +0000 2026 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY  Micron $MU said it will give its Taiwanese employees a $31,600 cash bonus and additional stock rewards.   All global employees will receive equities as part of an annual performance-related bonus pool https://t.co/lt7b6VaXTR | [X](https://x.com/StockMKTNewz/status/2098397752774234368) |
 
 ## 选题推荐
 
@@ -234,6 +234,7 @@
 | 1 | Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026 There are … | StockMKTNewz | 6569 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/… | WhaleInsider | 5717 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking r… | StockMKTNewz | 10344 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | US GOVERNMENT BUDGET UPDATE The federal budget deficit hit $1.97 trillion for the first 11 m… | StockMKTNewz | 8375 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -316,6 +317,7 @@
 | 2 | If I gave you $420,000 but said you have to invest the money by the end of today and can't t… | StockMKTNewz | 11648 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | WhaleInsider | 16027 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults w… | StockMKTNewz | 7318 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." http… | WhaleInsider | 17429 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3680,6 +3682,13 @@ Citi now expects the Fed to raise rates next week under Chair Kevin Warsh.
 
 Leopold Aschenbrenner's Situational Awareness has established a prime brokerage relationship with Clear Street.
 
+### U.S. federal budget deficit reaches $1.97T
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-us-budget-deficit-197t/when2buy-image.png`
+
+$1.97T U.S. federal budget deficit through the first 11 months of FY2026.  Spending reached $6.81T while revenue came in at $4.85T.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3811,6 +3820,7 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
+| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -3826,6 +3836,7 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
 | Bitcoin ETFs take in $46.65M | 2026-09-09T05:49:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097563223033843954) |
 | Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
+| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
 | Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098458731663245381) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
@@ -3833,8 +3844,7 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
 | Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 8 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
-| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
-| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
+| Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3848,7 +3858,6 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
-| Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3882,6 +3891,7 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
+| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -3896,7 +3906,6 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
-| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -3910,21 +3919,26 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
+| UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
-| UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
+| Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
-| Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
+| U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098503272248279382) |
 
 ## 最近运行
 
+- `2026-09-11T20:05:43Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T20:05:04Z` **produce / succeeded** — Produced the single newest fresh federal budget-deficit package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-11T20:01:18Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T20:01:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 2 new post(s).
 - `2026-09-11T19:48:40Z` **full / succeeded** — Newest Citi/Fed rate-hike package safely deferred before Postiz acceptance because the minimum submission interval was active; no accepted task was created and no retry is permitted. minimum_interval; retryAt=2026-09-11T19:48:29Z
 - `2026-09-11T19:47:06Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T19:45:40Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3941,7 +3955,3 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 - `2026-09-11T19:17:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
 - `2026-09-11T19:05:19Z` **full / succeeded** — Newest fresh Invesco ETF package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T19:32:02Z
 - `2026-09-11T19:04:37Z` **produce / succeeded** — Produced the single newest fresh Invesco ETF benchmark package with one inspected entity-led image and exact-logo composite.
-- `2026-09-11T19:01:33Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T19:01:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
-- `2026-09-11T19:00:52Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T18:49:21Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
