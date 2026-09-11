@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:16:39Z",
+  "generatedAt": "2026-09-11T12:32:28Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -7,8 +7,8 @@
       "rank": 1,
       "benchmarkPostId": "2098383808324096072",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260911-us-diesel-six-dollar",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098383808324096072",
       "originalText": "The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC https://t.co/kMyU0ZDU9G",
       "originalMediaUrls": [
@@ -42,7 +42,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 5.7,
+        "ageMinutes": 21.5,
         "expiresAt": "2026-09-11T13:41:00Z",
         "ttlMinutes": 90
       },
@@ -79,7 +79,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 19.8,
+        "ageMinutes": 35.6,
         "expiresAt": "2026-09-11T13:26:51Z",
         "ttlMinutes": 90
       },
@@ -124,7 +124,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 29.1,
+        "ageMinutes": 44.9,
         "expiresAt": "2026-09-11T13:17:34Z",
         "ttlMinutes": 90
       },
@@ -161,7 +161,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 34.9,
+        "ageMinutes": 50.7,
         "expiresAt": "2026-09-11T13:11:47Z",
         "ttlMinutes": 90
       },
@@ -206,7 +206,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 52.4,
+        "ageMinutes": 68.2,
         "expiresAt": "2026-09-11T12:54:15Z",
         "ttlMinutes": 90
       },
@@ -251,7 +251,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 60.5,
+        "ageMinutes": 76.3,
         "expiresAt": "2026-09-11T12:46:08Z",
         "ttlMinutes": 90
       },
@@ -296,90 +296,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 65.4,
+        "ageMinutes": 81.3,
         "expiresAt": "2026-09-11T12:41:13Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 8,
-      "benchmarkPostId": "2098366028845560315",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-china-auto-2030-70-percent",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098366028845560315",
-      "originalText": "China 🇨🇳 just set a new 5 year goal for its auto industry of \n\n70% of new cars to be electric vehicles or hybrids by 2030 and for autonomous driving to be deployed at scale https://t.co/BZptBDfyiy",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR7ksMyWoAcKTTh.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7ksMyWoAcKTTh.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098366028845560315-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 3397
-      },
-      "postedAt": "Fri Sep 11 11:00:21 +0000 2026",
-      "score": 3467,
-      "heatScore": 3467,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 76.3,
-        "expiresAt": "2026-09-11T12:30:21Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 9,
-      "benchmarkPostId": "2098363144586338779",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098363144586338779",
-      "originalText": "Rocket Lab $RKLB has now completed 95 missions with its Electron rocket",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 21,
-        "replies": 2,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 8946
-      },
-      "postedAt": "Fri Sep 11 10:48:54 +0000 2026",
-      "score": 9496,
-      "heatScore": 9496,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 87.8,
-        "expiresAt": "2026-09-11T12:18:54Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

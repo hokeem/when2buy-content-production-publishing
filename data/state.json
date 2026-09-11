@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T12:19:43.818752+00:00",
+  "updatedAt": "2026-09-11T12:32:28.624029+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -37996,7 +37996,7 @@
       "benchmarkPostId": "2098366028845560315",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098366028845560315",
       "title": "China auto industry sets 2030 EV and autonomy goal",
-      "status": "ready",
+      "status": "expired",
       "postText": "China just set a 2030 auto-industry goal: 70% of new cars electric or hybrid.\n\nAutonomous driving is targeted for deployment at scale.",
       "mirroredFacts": [
         "China set a five-year auto-industry goal for 70% of new cars to be electric vehicles or hybrids by 2030.",
@@ -38025,7 +38025,9 @@
             "not a pure-text card or generic radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-11T12:30:47Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260911-nvidia-robotaxis-drive",
@@ -326432,6 +326434,24 @@
       "reason": "daily_limit; no submission attempted or retried",
       "selectedPackageId": "pkg-20260911-us-diesel-six-dollar",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T123051Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:30:51Z",
+      "completedAt": "2026-09-11T12:30:51Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T123228Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:32:28Z",
+      "completedAt": "2026-09-11T12:32:28Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
