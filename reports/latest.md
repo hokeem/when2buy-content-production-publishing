@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T21:47:53.297326+00:00`
+- 状态更新：`2026-09-11T22:04:56.494592+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**629**
 - 待选选题：**552**
-- 待发布制作包：**1**
-- 已验证发布：**242**
+- 待发布制作包：**0**
+- 已验证发布：**243**
 
 ## 对标账号扫描
 
@@ -3704,7 +3704,7 @@ Trump says a proposed $5,000 dividend for every U.S. adult will happen.
 
 ### Anthropic employee wealth advisors
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-anthropic-employee-advisors/when2buy-image-model.png`
 
 Major banks are in talks with Anthropic to help manage its employees’ expected windfalls.  Anthropic plans to assemble a list of advisors to help employees navigate the anticipated wealth.
@@ -3729,6 +3729,13 @@ JPMorgan cut off lending to Situational Awareness after the AI-focused hedge fun
 - 配图：`deliverables/pkg-20260911-semianalysis-acquires-citrini-research/when2buy-image-model.png`
 
 SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  Van Geelen will stay on as Citrini's CEO.
+
+### Rocket Lab files formal protest over NASA Mars telecom award
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-rocket-lab-gao-protest/when2buy-image.png`
+
+Rocket Lab filed a formal GAO protest challenging NASA’s award decision for the Mars Telecommunications Network.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3910,6 +3917,7 @@ SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
+| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3932,8 +3940,8 @@ SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
-| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
+| SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -3954,6 +3962,7 @@ SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
+| Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -3963,23 +3972,27 @@ SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 | UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
-| Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
+| JPMorgan cuts Situational Awareness lending after AI losses | 2026-09-11T21:47:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098528976335716596) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
+| Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
-| JPMorgan cuts Situational Awareness lending after AI losses | 2026-09-11T21:47:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098528976335716596) |
 
 ## 最近运行
 
+- `2026-09-11T22:04:30Z` **publish / succeeded** — Newest fresh Rocket Lab package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T22:18:32Z
+- `2026-09-11T22:04:04Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T22:03:12Z` **produce / succeeded** — Produced the single newest fresh Rocket Lab package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-11T22:01:16Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-11T22:01:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T21:47:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T21:46:40Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T21:46:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 125 eligible originals and added 0 new post(s).
@@ -3995,8 +4008,3 @@ SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  
 - `2026-09-11T21:16:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 1 new post(s).
 - `2026-09-11T21:15:26Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T21:04:00Z` **publish / succeeded** — Newest fresh JPMorgan/Situational Awareness package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T21:04:06Z
-- `2026-09-11T21:03:10Z` **produce / succeeded** — Produced one newest fresh JPMorgan/Situational Awareness package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-11T21:01:02Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T21:00:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-11T20:49:33Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T20:48:39Z` **produce / succeeded** — Produced the single newest fresh Anthropic resignation package with an inspected entity-led image and exact-logo composite.

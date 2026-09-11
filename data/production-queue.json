@@ -1,47 +1,10 @@
 {
-  "generatedAt": "2026-09-11T21:46:40Z",
+  "generatedAt": "2026-09-11T22:01:16Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098516300498674037",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-jpmorgan-situational-awareness-lending",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098516300498674037",
-      "originalText": "JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 14,
-        "replies": 4,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 6043
-      },
-      "postedAt": "Fri Sep 11 20:57:29 +0000 2026",
-      "score": 6533,
-      "heatScore": 6533,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 49.2,
-        "expiresAt": "2026-09-11T22:27:29Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2098511083937956226",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -79,98 +42,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 69.9,
+        "ageMinutes": 84.5,
         "expiresAt": "2026-09-11T22:06:45Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
-      "benchmarkPostId": "2098509506690871689",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098509506690871689",
-      "originalText": "JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get unique NFT airdrops. Phase 2: 1% supply raffled to top holders + Tier-1 CEX listing. Phase 3: CatRobinHat launchpad. https://t.co/E7gQ07yAqi",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR9nRRHX0AcQBe9.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR9nRRHX0AcQBe9.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098509506690871689-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 7,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 7200
-      },
-      "postedAt": "Fri Sep 11 20:30:29 +0000 2026",
-      "score": 7430,
-      "heatScore": 7430,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 76.2,
-        "expiresAt": "2026-09-11T22:00:29Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2098507615315648591",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-anthropic-employee-advisors",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098507615315648591",
-      "originalText": "A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees\n\nAnthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR9lgmyaoAAP5uz.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR9lgmyaoAAP5uz.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098507615315648591-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 14,
-        "replies": 5,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 7793
-      },
-      "postedAt": "Fri Sep 11 20:22:58 +0000 2026",
-      "score": 8323,
-      "heatScore": 8323,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 83.7,
-        "expiresAt": "2026-09-11T21:52:58Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
