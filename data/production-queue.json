@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:17:07Z",
+  "generatedAt": "2026-09-11T17:31:26Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -7,8 +7,8 @@
       "rank": 1,
       "benchmarkPostId": "2098454124006142064",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260911-invest-420k-2036",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098454124006142064",
       "originalText": "If I gave you $420,000 but said you have to invest the money by the end of today and can't touch it until 2036 \n\nWhat would you do?",
       "originalMediaUrls": [],
@@ -34,7 +34,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 26.7,
+        "ageMinutes": 41.0,
         "expiresAt": "2026-09-11T18:20:25Z",
         "ttlMinutes": 90
       },
@@ -79,7 +79,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 49.4,
+        "ageMinutes": 63.7,
         "expiresAt": "2026-09-11T17:57:42Z",
         "ttlMinutes": 90
       },

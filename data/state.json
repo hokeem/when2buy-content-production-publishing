@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T17:18:25.252055+00:00",
+  "updatedAt": "2026-09-11T17:33:30.743004+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -39937,8 +39937,8 @@
       "benchmarkPostId": "2098454124006142064",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098454124006142064",
       "title": "$420,000 investment horizon to 2036",
-      "status": "ready",
-      "postText": "What would you do with $420,000 if you had to invest it by the end of today and could not touch it until 2036?",
+      "status": "published",
+      "postText": "A $420,000 investment locked until 2036 creates a 10-year horizon.",
       "mirroredFacts": [
         "The benchmark asks what someone would do with $420,000 invested by the end of today.",
         "The hypothetical investment cannot be touched until 2036."
@@ -39966,7 +39966,13 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "editorialNote": "Rephrased from the benchmark question into a factual payload; no CTA, attribution, source, disclaimer, commentary, or fixed tagline.",
+      "postizPostId": "cmtx8ifu80r9flm0yj7h5xqze",
+      "postizSubmissionAt": "2026-09-11T17:32:58Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T17:33:30Z",
+      "publishedAt": "2026-09-11T17:32:00.000Z"
     }
   ],
   "posts": [
@@ -44272,10 +44278,31 @@
       "postizPostId": "cmtx7kca80r05lm0yl6v81p9e",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-11T17:06:00.000Z",
-        "windowEnd": "2026-09-14T17:06:00Z"
+        "windowStart": "2026-09-11T17:06:00Z",
+        "windowEnd": "2026-09-14T17:06:00Z",
+        "lastAttemptAt": "2026-09-11T17:32:45.093841Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       },
       "reconciledAt": "2026-09-11T17:15:28Z"
+    },
+    {
+      "id": "2098464949123305478",
+      "packageId": "pkg-20260911-invest-420k-2036",
+      "title": "$420,000 investment horizon to 2036",
+      "text": "A $420,000 investment locked until 2036 creates a 10-year horizon.",
+      "status": "published",
+      "publishedAt": "2026-09-11T17:32:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098464949123305478",
+      "postizPostId": "cmtx8ifu80r9flm0yj7h5xqze",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T17:32:00.000Z",
+        "windowEnd": "2026-09-14T17:32:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
+      }
     }
   ],
   "metricSnapshots": [
@@ -326284,6 +326311,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-11T17:04:56.568660Z"
       }
+    },
+    {
+      "id": "metric-2098458731663245381-20260911T173245Z",
+      "postId": "2098458731663245381",
+      "observedAt": "2026-09-11T17:32:45.093841Z",
+      "views": 8,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtx7kca80r05lm0yl6v81p9e",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtx7kca80r05lm0yl6v81p9e",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-11"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-11"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-11"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-11"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-11"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-11T17:32:45.093841Z"
+      }
     }
   ],
   "experiments": [],
@@ -347355,6 +347424,37 @@
       "reason": "minimum_interval; retryAt 2026-09-11T17:21:27Z",
       "selectedPackageId": "pkg-20260911-invest-420k-2036",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T173121Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:31:21Z",
+      "completedAt": "2026-09-11T17:31:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T173126Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:31:26Z",
+      "completedAt": "2026-09-11T17:31:26Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T173330Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:33:30Z",
+      "completedAt": "2026-09-11T17:33:30Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

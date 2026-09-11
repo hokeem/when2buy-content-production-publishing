@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T17:18:25.252055+00:00`
+- 状态更新：`2026-09-11T17:33:30.743004+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**611**
 - 待选选题：**535**
-- 待发布制作包：**1**
-- 已验证发布：**233**
+- 待发布制作包：**0**
+- 已验证发布：**234**
 
 ## 对标账号扫描
 
@@ -3624,10 +3624,10 @@ Coinbase's U.S. policy team says regulators will keep advancing crypto market-st
 
 ### $420,000 investment horizon to 2036
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260911-invest-420k-2036/when2buy-image.png`
 
-What would you do with $420,000 if you had to invest it by the end of today and could not touch it until 2036?
+A $420,000 investment locked until 2036 creates a 10-year horizon.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3780,6 +3780,7 @@ What would you do with $420,000 if you had to invest it by the end of today and 
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
+| Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098458731663245381) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3866,10 +3867,13 @@ What would you do with $420,000 if you had to invest it by the end of today and 
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
-| Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098458731663245381) |
+| $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098464949123305478) |
 
 ## 最近运行
 
+- `2026-09-11T17:33:30Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T17:31:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T17:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-11T17:18:25Z` **full / succeeded** — Newest $420,000-to-2036 package was safely deferred because the minimum Postiz submission interval was active; no accepted task was created. minimum_interval; retryAt 2026-09-11T17:21:27Z
 - `2026-09-11T17:17:46.450711+00:00` **produce / succeeded** — Produced one newest fresh $420,000-to-2036 hypothetical package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-11T17:17:07Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3887,6 +3891,3 @@ What would you do with $420,000 if you had to invest it by the end of today and 
 - `2026-09-11T16:47:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
 - `2026-09-11T16:45:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T16:35:42Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
-- `2026-09-11T16:35:05Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
-- `2026-09-11T16:34:40Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
-- `2026-09-11T16:32:00Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
