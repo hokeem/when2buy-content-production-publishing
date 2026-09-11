@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T21:04:24.894919+00:00",
+  "updatedAt": "2026-09-11T21:21:08.555711+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17323,6 +17323,34 @@
       "isPinned": false,
       "capturedAt": "2026-09-11T21:00:57Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098519730105520465",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098519730105520465",
+      "postedAt": "Fri Sep 11 21:11:06 +0000 2026",
+      "text": "SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen\n\nVan Geelen will stay on as the CEO of Citrini for now - Bloomberg https://t.co/64WF7lAS1g",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR9whKRa4AAPYkm.jpg"
+      ],
+      "engagement": {
+        "likes": 14,
+        "replies": 10,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 6064
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T21:16:25Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9whKRa4AAPYkm.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098519730105520465-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -27792,6 +27820,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098519730105520465",
+      "rank": 1,
+      "title": "SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen Van Geelen…",
+      "benchmarkPostId": "2098519730105520465",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098519730105520465",
+      "score": 6894,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T21:16:31Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
@@ -41174,6 +41221,49 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260911-semianalysis-acquires-citrini-research",
+      "benchmarkPostId": "2098519730105520465",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098519730105520465",
+      "title": "SemiAnalysis acquires Citrini Research",
+      "status": "published",
+      "postText": "SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.\n\nVan Geelen will stay on as Citrini's CEO.",
+      "mirroredFacts": [
+        "SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.",
+        "James Van Geelen will stay on as Citrini's CEO for now."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098519730105520465"
+      ],
+      "verificationStatus": "benchmark_discovery_only",
+      "verificationNote": "Public benchmark payload preserved without adding unsupported detail; no independent source was available for the exact claim during this run.",
+      "imagePath": "deliverables/pkg-20260911-semianalysis-acquires-citrini-research/when2buy-image-model.png",
+      "createdAt": "2026-09-11T21:19:20Z",
+      "sourceExpiresAt": "Fri Sep 11 21:11:06 +0000 2026",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led editorial scene about SemiAnalysis acquiring Citrini Research from founder James Van Geelen, with analysts, research screens, and an abstract acquisition handoff between two research firms; near-black premium financial-news lighting, cool blue-white highlights and restrained red accent; no generated readable text or logos; exact factual typography and exact repository logo composited afterward; no source, attribution, disclaimer, commentary, CTA, tagline, watermark, generic radar visual, or pure-text card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T21:19:20Z",
+          "result": "passed",
+          "checks": [
+            "square 716x716 source rendered to 1254x1254 PNG",
+            "complete entity-led research-acquisition scene",
+            "factual typography proofread",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text visual or generic-radar graphic"
+          ]
+        }
+      },
+      "postizPostId": "cmtxglt7i0t7llm0yzgwkpmph",
+      "postizSubmissionAt": "2026-09-11T21:19:32Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T21:20:30Z",
+      "publishedAt": "2026-09-11T21:19:00.000Z"
     }
   ],
   "posts": [
@@ -45609,6 +45699,24 @@
         "windowStart": "2026-09-11T20:49:00Z",
         "windowEnd": "2026-09-14T20:49:00Z",
         "lastAttemptAt": "2026-09-11T21:04:00.925520Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098522052089254273",
+      "packageId": "pkg-20260911-semianalysis-acquires-citrini-research",
+      "title": "SemiAnalysis acquires Citrini Research",
+      "text": "SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.\n\nVan Geelen will stay on as Citrini's CEO.",
+      "status": "published",
+      "publishedAt": "2026-09-11T21:19:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098522052089254273",
+      "postizPostId": "cmtxglt7i0t7llm0yzgwkpmph",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T21:19:00Z",
+        "windowEnd": "2026-09-14T21:19:00Z",
+        "lastAttemptAt": "2026-09-11T21:20:45.016896Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -343454,6 +343562,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-11T21:04:00.925520Z"
       }
+    },
+    {
+      "id": "metric-2098522052089254273-20260911T212045Z",
+      "postId": "2098522052089254273",
+      "observedAt": "2026-09-11T21:20:45.016896Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtxglt7i0t7llm0yzgwkpmph",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtxglt7i0t7llm0yzgwkpmph",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-11"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-11"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-11"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-11"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-11"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-11T21:20:45.016896Z"
+      }
     }
   ],
   "experiments": [],
@@ -365207,6 +365357,74 @@
       "reason": "minimum_interval; retryAt=2026-09-11T21:04:06Z",
       "selectedPackageId": "pkg-20260911-jpmorgan-situational-awareness-lending",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T211526Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:15:26Z",
+      "completedAt": "2026-09-11T21:15:26Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T211625Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:16:25Z",
+      "completedAt": "2026-09-11T21:16:25Z",
+      "summary": "Apify scanned both benchmark accounts; captured 126 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T211631Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:16:31Z",
+      "completedAt": "2026-09-11T21:16:31Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T211747Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:17:47Z",
+      "completedAt": "2026-09-11T21:17:47Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T211920Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:19:20Z",
+      "completedAt": "2026-09-11T21:19:20Z",
+      "summary": "Produced one newest fresh SemiAnalysis/Citrini package with a complete entity-led square visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-semianalysis-acquires-citrini-research"
+    },
+    {
+      "id": "run-20260911T212030Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:20:30Z",
+      "completedAt": "2026-09-11T21:20:30Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T212108Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:21:08Z",
+      "completedAt": "2026-09-11T21:21:08Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

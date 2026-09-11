@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:01:02Z",
+  "generatedAt": "2026-09-11T21:21:08Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -7,8 +7,8 @@
       "rank": 1,
       "benchmarkPostId": "2098516300498674037",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260911-jpmorgan-situational-awareness-lending",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098516300498674037",
       "originalText": "JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times",
       "originalMediaUrls": [],
@@ -34,7 +34,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 3.6,
+        "ageMinutes": 23.7,
         "expiresAt": "2026-09-11T22:27:29Z",
         "ttlMinutes": 90
       },
@@ -79,7 +79,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 24.3,
+        "ageMinutes": 44.4,
         "expiresAt": "2026-09-11T22:06:45Z",
         "ttlMinutes": 90
       },
@@ -124,7 +124,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 30.6,
+        "ageMinutes": 50.7,
         "expiresAt": "2026-09-11T22:00:29Z",
         "ttlMinutes": 90
       },
@@ -169,7 +169,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 38.1,
+        "ageMinutes": 58.2,
         "expiresAt": "2026-09-11T21:52:58Z",
         "ttlMinutes": 90
       },
