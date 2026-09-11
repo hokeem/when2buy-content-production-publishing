@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T23:20:37.769549+00:00",
+  "updatedAt": "2026-09-11T23:34:59.757320+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17371,6 +17371,25 @@
       "isPinned": false,
       "capturedAt": "2026-09-11T23:16:55Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098551762961481832",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098551762961481832",
+      "postedAt": "Fri Sep 11 23:18:24 +0000 2026",
+      "text": "Anthropic is looking to go public at a valuation of $2 Trillion",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 32,
+        "replies": 8,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 10306
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T23:31:21Z"
     }
   ],
   "radar": [
@@ -27880,6 +27899,25 @@
         "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098551762961481832",
+      "rank": 1,
+      "title": "Anthropic is looking to go public at a valuation of $2 Trillion",
+      "benchmarkPostId": "2098551762961481832",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098551762961481832",
+      "score": 11566,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T23:32:22Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -41395,6 +41433,37 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T23:20:10Z",
       "publishedAt": "2026-09-11T23:19:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-anthropic-2t-ipo",
+      "title": "Anthropic reportedly targets $2T IPO valuation",
+      "status": "ready",
+      "benchmarkPostId": "2098551762961481832",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098551762961481832",
+      "sourceAccount": "StockMKTNewz",
+      "postText": "Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.",
+      "mirroredFacts": [
+        "Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.",
+        "The valuation is a reported market expectation, not a filed or company-confirmed IPO price."
+      ],
+      "verificationSources": [
+        "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+        "https://www.ft.com/content/anthropic-ipo-2-trillion-valuation"
+      ],
+      "imagePath": "deliverables/pkg-20260911-anthropic-2t-ipo/when2buy-image.png",
+      "visualProduction": {
+        "method": "image_model",
+        "model": "built-in image_gen",
+        "prompt": "Use case: productivity-visual; square X financial-news editorial visual; complete original entity-led visual about Anthropic reportedly targeting a $2 trillion valuation for a future IPO; photorealistic premium financial-news scene with an unbranded frontier AI server rack, neural-network light structure, IPO paperwork, valuation scale, near-black base, white type, controlled red accents, exact 1:1 composition, lower-right logo-safe space; no source handle, URL, attribution, disclaimer, commentary, CTA, tagline, watermark, generated logo, pure typography card, generic abstract background, or extra readable text/numbers.",
+        "generatedAsset": "deliverables/pkg-20260911-anthropic-2t-ipo/generated-base.png",
+        "logoReference": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoApplied": true,
+        "logoCount": 1,
+        "qaStatus": "passed",
+        "qaNotes": "Square 1254x1254 entity-led server-room and valuation-scale scene; exact supplied logo composited once in lower-right clear space; visible text reviewed for Anthropic and $2T IPO Target; no source, CTA, disclaimer, or fixed tagline."
+      },
+      "createdAt": "2026-09-11T23:33:10Z",
+      "updatedAt": "2026-09-11T23:33:10Z"
     }
   ],
   "posts": [
@@ -374235,6 +374304,64 @@
       "completedAt": "2026-09-11T23:20:10Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T233121Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:31:21Z",
+      "completedAt": "2026-09-11T23:31:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T233209Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:32:09Z",
+      "completedAt": "2026-09-11T23:32:09Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T233222Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:32:22Z",
+      "completedAt": "2026-09-11T23:32:22Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T2335Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:31:00Z",
+      "completedAt": "2026-09-11T23:35:30Z",
+      "summary": "Apify scanned both exact benchmark feeds, reconciled Postiz, archived no new media, rebuilt the hard 90-minute queue, produced and QA-passed one newest fresh package, and safely deferred its sole Postiz submission under the minimum-interval limiter.",
+      "reason": "deferred: minimum_interval; accepted submissions remain at least 15 minutes apart; no retry was attempted.",
+      "selectedPackageIds": [
+        "pkg-20260911-anthropic-2t-ipo"
+      ],
+      "deliveryOutcome": "deferred",
+      "postiz": {
+        "requested": 1,
+        "packageId": "pkg-20260911-anthropic-2t-ipo",
+        "safe": false,
+        "rateLimitReason": "minimum_interval",
+        "retryAt": "2026-09-11T23:34:43Z",
+        "priorReleaseUrl": "https://twitter.com/_When2buy/status/2098552201325269207"
+      },
+      "metrics": "idempotent hourly check; all eligible posts already had a snapshot in the current UTC hour",
+      "nextAction": "Next scheduled run should reconcile Postiz first, rescan both feeds, and never retry this accepted/deferred package unless it remains fresh and the limiter permits a new submission."
     }
   ],
   "deliveryCircuitBreaker": {

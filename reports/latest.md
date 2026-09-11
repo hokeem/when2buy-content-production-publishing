@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T23:20:37.769549+00:00`
+- 状态更新：`2026-09-11T23:34:59.757320+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**630**
-- 待选选题：**553**
-- 待发布制作包：**0**
+- 对标帖子快照：**631**
+- 待选选题：**554**
+- 待发布制作包：**1**
 - 已验证发布：**244**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 23:18:24 +0000 2026 | Anthropic is looking to go public at a valuation of $2 Trillion | [X](https://x.com/StockMKTNewz/status/2098551762961481832) |
 | @StockMKTNewz | Fri Sep 11 23:04:36 +0000 2026 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | [X](https://x.com/StockMKTNewz/status/2098548293533929670) |
 | @StockMKTNewz | Fri Sep 11 21:11:06 +0000 2026 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen  Van Geelen will stay on as the CEO of Citrini for now - Bloomberg https://t.co/64WF7lAS1g | [X](https://x.com/StockMKTNewz/status/2098519730105520465) |
 | @StockMKTNewz | Fri Sep 11 20:57:29 +0000 2026 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | [X](https://x.com/StockMKTNewz/status/2098516300498674037) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 15:21:40 +0000 2026 | Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0RT | [X](https://x.com/StockMKTNewz/status/2098431791933620311) |
 | @StockMKTNewz | Fri Sep 11 14:52:03 +0000 2026 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at an average cost of $27.44 per share https://t.co/uRyL6pOwoT | [X](https://x.com/StockMKTNewz/status/2098424336709193934) |
 | @WhaleInsider | Fri Sep 11 14:55:15 +0000 2026 | JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryptocurrency strategy. https://t.co/woYDTwUhWT | [X](https://x.com/WhaleInsider/status/2098425142598566035) |
-| @WhaleInsider | Fri Sep 11 14:32:05 +0000 2026 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | [X](https://x.com/WhaleInsider/status/2098419313346576672) |
 
 ## 选题推荐
 
@@ -240,6 +240,7 @@
 | 1 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | StockMKTNewz | 6533 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen Van Geelen… | StockMKTNewz | 6894 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | StockMKTNewz | 11281 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Anthropic is looking to go public at a valuation of $2 Trillion | StockMKTNewz | 11566 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3745,6 +3746,13 @@ Rocket Lab filed a formal GAO protest challenging NASA’s award decision for th
 
 Nvidia $NVDA is reportedly considering an investment of up to $10B in Anthropic as the AI company moves toward an IPO.
 
+### Anthropic reportedly targets $2T IPO valuation
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-anthropic-2t-ipo/when2buy-image.png`
+
+Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3997,6 +4005,10 @@ Nvidia $NVDA is reportedly considering an investment of up to $10B in Anthropic 
 
 ## 最近运行
 
+- `2026-09-11T23:31:00Z` **full / succeeded** — Apify scanned both exact benchmark feeds, reconciled Postiz, archived no new media, rebuilt the hard 90-minute queue, produced and QA-passed one newest fresh package, and safely deferred its sole Postiz submission under the minimum-interval limiter. deferred: minimum_interval; accepted submissions remain at least 15 minutes apart; no retry was attempted.
+- `2026-09-11T23:32:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T23:32:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-11T23:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-11T23:20:10Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T23:19:22.778471+00:00` **produce / succeeded** — Produced one newest fresh Nvidia/Anthropic package with verified facts and an exact-logo square visual.
 - `2026-09-11T23:17:12Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4013,7 +4025,3 @@ Nvidia $NVDA is reportedly considering an investment of up to $10B in Anthropic 
 - `2026-09-11T22:16:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
 - `2026-09-11T22:04:30Z` **publish / succeeded** — Newest fresh Rocket Lab package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T22:18:32Z
 - `2026-09-11T22:04:04Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T22:03:12Z` **produce / succeeded** — Produced the single newest fresh Rocket Lab package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-11T22:01:16Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T22:01:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T21:47:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
