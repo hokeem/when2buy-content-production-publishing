@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T17:08:02.197591+00:00",
+  "updatedAt": "2026-09-11T17:18:25.252055+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -39734,7 +39734,7 @@
       "benchmarkPostId": "2098436214864904690",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098436214864904690",
       "title": "UniCredit explores crypto services for 20M+ users",
-      "status": "ready",
+      "status": "expired",
       "postText": "UniCredit is looking to offer crypto services to its 20M+ users.",
       "mirroredFacts": [
         "The benchmark post says UniCredit is looking to offer crypto services.",
@@ -39747,7 +39747,7 @@
       ],
       "imagePath": "deliverables/pkg-20260911-unicredit-crypto-services/when2buy-image.png",
       "createdAt": "2026-09-11T15:51:00Z",
-      "sourceExpiresAt": "Fri Sep 11 15:39:15 +0000 2026",
+      "sourceExpiresAt": "2026-09-11T17:09:15Z",
       "visualProduction": {
         "method": "image_model",
         "prompt": "Use case: photorealistic-natural. Complete square entity-led European bank headquarters and restrained digital-asset infrastructure scene, generated without text or branding; exact factual typography and exact repository logo composited afterward. Near-black premium financial-news palette, no source, attribution, disclaimer, commentary, CTA, tagline, watermark, or generic radar visual.",
@@ -39765,7 +39765,9 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-11T17:15:34Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260911-tesla-semi-europe",
@@ -39893,7 +39895,7 @@
       "benchmarkPostId": "2098454174077792679",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098454174077792679",
       "title": "Coinbase policy says crypto rules keep moving",
-      "status": "publishing",
+      "status": "published",
       "postText": "Coinbase's U.S. policy team says regulators will keep advancing crypto market-structure rules even if the CLARITY Act fails.",
       "mirroredFacts": [
         "The benchmark says Coinbase's U.S. policy vice president expects regulators to keep executing on crypto market structure.",
@@ -39904,7 +39906,6 @@
         "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-regulation-crypto-assets-081826",
         "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says"
       ],
-      "sourceExpiresAt": "2026-09-11T18:20:37Z",
       "imagePath": "deliverables/pkg-20260911-coinbase-crypto-policy/when2buy-image.png",
       "createdAt": "2026-09-11T17:06:12.958201+00:00",
       "visualProduction": {
@@ -39927,9 +39928,45 @@
       },
       "postizPostId": "cmtx7kca80r05lm0yl6v81p9e",
       "postizSubmissionAt": "2026-09-11T17:06:27Z",
-      "deliveryState": "QUEUE",
-      "deliveryCheckedAt": "2026-09-11T17:08:02Z",
-      "deliveryGraceUntil": "2026-09-11T18:06:27Z"
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T17:15:28Z",
+      "publishedAt": "2026-09-11T17:06:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-invest-420k-2036",
+      "benchmarkPostId": "2098454124006142064",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098454124006142064",
+      "title": "$420,000 investment horizon to 2036",
+      "status": "ready",
+      "postText": "What would you do with $420,000 if you had to invest it by the end of today and could not touch it until 2036?",
+      "mirroredFacts": [
+        "The benchmark asks what someone would do with $420,000 invested by the end of today.",
+        "The hypothetical investment cannot be touched until 2036."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098454124006142064"
+      ],
+      "imagePath": "deliverables/pkg-20260911-invest-420k-2036/when2buy-image.png",
+      "createdAt": "2026-09-11T17:17:46.450661+00:00",
+      "sourceExpiresAt": "2026-09-11T18:20:25Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led investment-vault and 2036 timeline scene; no generated text, logo, watermark, source, attribution, disclaimer, commentary, CTA, tagline; exact typography and repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T17:17:46.450679+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led investment vault and timeline scene",
+            "factual text composited once",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -44223,6 +44260,22 @@
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
+    },
+    {
+      "id": "2098458731663245381",
+      "packageId": "pkg-20260911-coinbase-crypto-policy",
+      "title": "Coinbase policy says crypto rules keep moving",
+      "text": "Coinbase's U.S. policy team says regulators will keep advancing crypto market-structure rules even if the CLARITY Act fails.",
+      "status": "published",
+      "publishedAt": "2026-09-11T17:06:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098458731663245381",
+      "postizPostId": "cmtx7kca80r05lm0yl6v81p9e",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T17:06:00.000Z",
+        "windowEnd": "2026-09-14T17:06:00Z"
+      },
+      "reconciledAt": "2026-09-11T17:15:28Z"
     }
   ],
   "metricSnapshots": [
@@ -347241,6 +347294,67 @@
       "summary": "Produced one newest fresh Coinbase policy package with one complete square entity-led image and one exact-logo composite.",
       "reason": "",
       "selectedPackageId": "pkg-20260911-coinbase-crypto-policy"
+    },
+    {
+      "id": "run-20260911T171528Z-reconcile",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:15:28Z",
+      "completedAt": "2026-09-11T17:15:28Z",
+      "summary": "Reconciled 1 published, 0 pending, and 0 terminal Postiz deliveries.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T171537Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:15:37Z",
+      "completedAt": "2026-09-11T17:15:37Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T171702Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:17:02Z",
+      "completedAt": "2026-09-11T17:17:02Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T171707Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:17:07Z",
+      "completedAt": "2026-09-11T17:17:07Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T171746Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:17:46.450711+00:00",
+      "completedAt": "2026-09-11T17:17:46.450716+00:00",
+      "summary": "Produced one newest fresh $420,000-to-2036 hypothetical package with a complete entity-led square visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-invest-420k-2036"
+    },
+    {
+      "id": "run-20260911T171825Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T17:18:25Z",
+      "completedAt": "2026-09-11T17:18:25Z",
+      "summary": "Newest $420,000-to-2036 package was safely deferred because the minimum Postiz submission interval was active; no accepted task was created.",
+      "reason": "minimum_interval; retryAt 2026-09-11T17:21:27Z",
+      "selectedPackageId": "pkg-20260911-invest-420k-2036",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

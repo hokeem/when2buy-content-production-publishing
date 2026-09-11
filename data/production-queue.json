@@ -1,55 +1,10 @@
 {
-  "generatedAt": "2026-09-11T17:01:43Z",
+  "generatedAt": "2026-09-11T17:17:07Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098454174077792679",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098454174077792679",
-      "originalText": "JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto market structure even if CLARITY Act fails. https://t.co/AGBEypHeWM",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2098454124379418627/img/E1YKOBjUjSbCDrGE.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098454124379418627/img/E1YKOBjUjSbCDrGE.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098454174077792679-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 46,
-        "replies": 23,
-        "reposts": 9,
-        "quotes": 3,
-        "views": 14301
-      },
-      "postedAt": "Fri Sep 11 16:50:37 +0000 2026",
-      "score": 16771,
-      "heatScore": 16771,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 16,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 11.1,
-        "expiresAt": "2026-09-11T18:20:37Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2098454124006142064",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -79,14 +34,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 11.3,
+        "ageMinutes": 26.7,
         "expiresAt": "2026-09-11T18:20:25Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "benchmarkPostId": "2098448408344186893",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-ossi-ketola-duel-million",
@@ -124,59 +79,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 34.0,
+        "ageMinutes": 49.4,
         "expiresAt": "2026-09-11T17:57:42Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2098436214864904690",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260911-unicredit-crypto-services",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098436214864904690",
-      "originalText": "JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer crypto services. https://t.co/hMYigRD9hS",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8knQcW0Ao7-OC.jpg",
-        "https://pbs.twimg.com/media/HR8knQmWcAUK-V5.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8knQcW0Ao7-OC.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098436214864904690-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8knQmWcAUK-V5.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098436214864904690-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 32,
-        "replies": 14,
-        "reposts": 5,
-        "quotes": 2,
-        "views": 12859
-      },
-      "postedAt": "Fri Sep 11 15:39:15 +0000 2026",
-      "score": 14429,
-      "heatScore": 14429,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 82.5,
-        "expiresAt": "2026-09-11T17:09:15Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T17:08:02.197591+00:00`
+- 状态更新：`2026-09-11T17:18:25.252055+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**611**
 - 待选选题：**535**
 - 待发布制作包：**1**
-- 已验证发布：**232**
+- 已验证发布：**233**
 
 ## 对标账号扫描
 
@@ -3589,7 +3589,7 @@ Giannis Antetokounmpo just bought a Miami mansion for $13.5 million.
 
 ### UniCredit explores crypto services for 20M+ users
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-unicredit-crypto-services/when2buy-image.png`
 
 UniCredit is looking to offer crypto services to its 20M+ users.
@@ -3617,10 +3617,17 @@ Dell $DELL just hit new all-time highs today.
 
 ### Coinbase policy says crypto rules keep moving
 
-- 状态：`publishing`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260911-coinbase-crypto-policy/when2buy-image.png`
 
 Coinbase's U.S. policy team says regulators will keep advancing crypto market-structure rules even if the CLARITY Act fails.
+
+### $420,000 investment horizon to 2036
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-invest-420k-2036/when2buy-image.png`
+
+What would you do with $420,000 if you had to invest it by the end of today and could not touch it until 2036?
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3859,9 +3866,16 @@ Coinbase's U.S. policy team says regulators will keep advancing crypto market-st
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
+| Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098458731663245381) |
 
 ## 最近运行
 
+- `2026-09-11T17:18:25Z` **full / succeeded** — Newest $420,000-to-2036 package was safely deferred because the minimum Postiz submission interval was active; no accepted task was created. minimum_interval; retryAt 2026-09-11T17:21:27Z
+- `2026-09-11T17:17:46.450711+00:00` **produce / succeeded** — Produced one newest fresh $420,000-to-2036 hypothetical package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-11T17:17:07Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T17:17:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
+- `2026-09-11T17:15:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-11T17:15:28Z` **publish / succeeded** — Reconciled 1 published, 0 pending, and 0 terminal Postiz deliveries.
 - `2026-09-11T17:06:12.958247+00:00` **produce / succeeded** — Produced one newest fresh Coinbase policy package with one complete square entity-led image and one exact-logo composite.
 - `2026-09-11T17:01:43Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T17:01:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
@@ -3876,9 +3890,3 @@ Coinbase's U.S. policy team says regulators will keep advancing crypto market-st
 - `2026-09-11T16:35:05Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
 - `2026-09-11T16:34:40Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
 - `2026-09-11T16:32:00Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T16:31:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
-- `2026-09-11T16:30:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T16:19:11Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T16:18:11Z` **produce / succeeded** — Produced one newest fresh Tesla Semi Europe package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-11T16:16:28Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T16:16:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 2 new post(s).
