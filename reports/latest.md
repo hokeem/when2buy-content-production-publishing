@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T16:19:11.425918+00:00`
+- 状态更新：`2026-09-11T16:35:58.598577+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**608**
-- 待选选题：**532**
-- 待发布制作包：**3**
+- 对标帖子快照：**609**
+- 待选选题：**533**
+- 待发布制作包：**2**
 - 已验证发布：**231**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 16:27:42 +0000 2026 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of the biggest heads-up poker game ever. https://t.co/uGHb9iMHAh | [X](https://x.com/WhaleInsider/status/2098448408344186893) |
 | @StockMKTNewz | Fri Sep 11 16:05:03 +0000 2026 | $DELL stock hit new ALL TIME HIGHS today  🟢 https://t.co/I5FMpy4KZ3 | [X](https://x.com/StockMKTNewz/status/2098442708297597298) |
 | @StockMKTNewz | Fri Sep 11 16:09:13 +0000 2026 | Tesla $TSLA posted this today  "Semi is coming to Europe" https://t.co/gkB2qs7uUb | [X](https://x.com/StockMKTNewz/status/2098443757209137467) |
 | @WhaleInsider | Fri Sep 11 15:39:15 +0000 2026 | JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer crypto services. https://t.co/hMYigRD9hS | [X](https://x.com/WhaleInsider/status/2098436214864904690) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 11:16:08 +0000 2026 | JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral trade payments - Sberbank CEO Herman Gref. https://t.co/H4T6eqo3mp | [X](https://x.com/WhaleInsider/status/2098369999073149003) |
 | @StockMKTNewz | Fri Sep 11 11:24:15 +0000 2026 | Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Samsung's screens - MacRumors https://t.co/d6kn2K2Vsy | [X](https://x.com/StockMKTNewz/status/2098372040822554995) |
 | @StockMKTNewz | Fri Sep 11 11:11:13 +0000 2026 | Nvidia $NVDA posted this:  “Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi | [X](https://x.com/StockMKTNewz/status/2098368762542010806) |
-| @StockMKTNewz | Fri Sep 11 10:48:54 +0000 2026 | Rocket Lab $RKLB has now completed 95 missions with its Electron rocket | [X](https://x.com/StockMKTNewz/status/2098363144586338779) |
 
 ## 选题推荐
 
@@ -226,6 +226,7 @@
 | 1 | Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0… | StockMKTNewz | 12107 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer … | WhaleInsider | 14429 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Tesla $TSLA posted this today "Semi is coming to Europe" https://t.co/gkB2qs7uUb | StockMKTNewz | 8663 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of… | WhaleInsider | 11816 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3572,7 +3573,7 @@ Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $2
 
 ### Celsius CEO discloses 18,000-share purchase
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-celh-fieldly-18000/when2buy-image-model.png`
 
 Celsius CEO John Fieldly just bought 18,000 $CELH shares at an average price of $27.44.
@@ -3597,6 +3598,13 @@ UniCredit is looking to offer crypto services to its 20M+ users.
 - 配图：`deliverables/pkg-20260911-tesla-semi-europe/when2buy-image.png`
 
 Tesla says its Semi is coming to Europe.
+
+### Ossi Ketola reportedly wins $1M first hand
+
+- 状态：`blocked`
+- 配图：`deliverables/pkg-20260911-ossi-ketola-duel-million/when2buy-image.png`
+
+Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the first hand of the biggest heads-up poker game ever.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3809,6 +3817,7 @@ Tesla says its Semi is coming to Europe.
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
+| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -3833,10 +3842,15 @@ Tesla says its Semi is coming to Europe.
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
-| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098446248693088603) |
 
 ## 最近运行
 
+- `2026-09-11T16:35:42Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
+- `2026-09-11T16:35:05Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
+- `2026-09-11T16:34:40Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
+- `2026-09-11T16:32:00Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T16:31:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
+- `2026-09-11T16:30:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T16:19:11Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T16:18:11Z` **produce / succeeded** — Produced one newest fresh Tesla Semi Europe package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-11T16:16:28Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3851,9 +3865,3 @@ Tesla says its Semi is coming to Europe.
 - `2026-09-11T15:52:00Z` **full / succeeded** — Newest fresh UniCredit crypto-services package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T16:04:48Z
 - `2026-09-11T15:48:58Z` **full / succeeded** — Freshest Giannis mansion package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T16:04:48Z
 - `2026-09-11T15:46:51Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T15:46:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 52 eligible originals and added 1 new post(s).
-- `2026-09-11T15:46:28Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T15:45:45Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T15:33:55Z` **full / succeeded** — Freshest Giannis mansion package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T16:04:48Z
-- `2026-09-11T15:33:14Z` **produce / succeeded** — Produced one newest fresh Giannis mansion package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-11T15:31:35Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
