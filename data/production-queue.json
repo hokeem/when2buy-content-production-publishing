@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:06:52Z",
+  "generatedAt": "2026-09-11T01:17:51Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -14,7 +14,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HR5Zf_BWgAwt74j.png"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR5Zf_BWgAwt74j.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098212894085091480-1.png",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 15,
         "replies": 7,
@@ -36,7 +42,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 15.0,
+        "ageMinutes": 26.0,
         "expiresAt": "2026-09-11T02:21:51Z",
         "ttlMinutes": 90
       },
