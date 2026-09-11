@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T20:05:43.724576+00:00",
+  "updatedAt": "2026-09-11T20:21:26.136084+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -40786,6 +40786,48 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T20:05:43Z",
       "publishedAt": "2026-09-11T20:05:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-trump-5000-dividend",
+      "benchmarkPostId": "2098499407008199000",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098499407008199000",
+      "title": "Trump says proposed $5,000 dividend will happen",
+      "status": "published",
+      "postText": "Trump says a proposed $5,000 dividend for every U.S. adult will happen.",
+      "mirroredFacts": [
+        "President Trump said the proposed dividend would be $5,000 for every U.S. adult.",
+        "The White House release says the proposal is conditioned on Republicans retaining both the House and Senate."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098499407008199000",
+        "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/"
+      ],
+      "imagePath": "deliverables/pkg-20260911-trump-5000-dividend/when2buy-image.png",
+      "createdAt": "2026-09-11T20:20:16.279825Z",
+      "sourceExpiresAt": "Fri Sep 11 19:50:21 +0000 2026",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Complete entity-led Capitol and payment-envelope scene with a prominent $5,000 amount, near-black premium palette, white type and restrained red accent; exact factual typography and exact repository logo composited afterward. No source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark; not a pure-text or generic-radar visual.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T20:20:16.279855Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete Capitol and payment-envelope entity scene",
+            "factual headline and support line proofread",
+            "exact repository logo composited once in lower-right clear space",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, recommendation, or watermark",
+            "not a pure-text or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtxehu5h0ss0lm0y98eo79p8",
+      "postizSubmissionAt": "2026-09-11T20:20:28Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T20:20:55Z",
+      "publishedAt": "2026-09-11T20:20:00.000Z"
     }
   ],
   "posts": [
@@ -45182,11 +45224,29 @@
       "postizPostId": "cmtxdyarx0slvlm0y1ksn26ex",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-11T20:05:00.000Z",
+        "windowStart": "2026-09-11T20:05:00Z",
         "windowEnd": "2026-09-14T20:05:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-11T20:21:25.535237Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098507094156853326",
+      "packageId": "pkg-20260911-trump-5000-dividend",
+      "title": "Trump says proposed $5,000 dividend will happen",
+      "text": "Trump says a proposed $5,000 dividend for every U.S. adult will happen.",
+      "status": "published",
+      "publishedAt": "2026-09-11T20:20:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098507094156853326",
+      "postizPostId": "cmtxehu5h0ss0lm0y98eo79p8",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T20:20:00Z",
+        "windowEnd": "2026-09-14T20:20:00Z",
+        "lastAttemptAt": "2026-09-11T20:21:25.535237Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     }
   ],
@@ -338872,6 +338932,90 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-11T20:01:37.529041Z"
       }
+    },
+    {
+      "id": "metric-2098503272248279382-20260911T202125Z",
+      "postId": "2098503272248279382",
+      "observedAt": "2026-09-11T20:21:25.535237Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtxdyarx0slvlm0y1ksn26ex",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtxdyarx0slvlm0y1ksn26ex",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-11"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-11"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-11"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-11"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-11"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-11T20:21:25.535237Z"
+      }
+    },
+    {
+      "id": "metric-2098507094156853326-20260911T202125Z",
+      "postId": "2098507094156853326",
+      "observedAt": "2026-09-11T20:21:25.535237Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtxehu5h0ss0lm0y98eo79p8",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtxehu5h0ss0lm0y98eo79p8",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-11"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-11"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-11"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-11"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-11"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-11T20:21:25.535237Z"
+      }
     }
   ],
   "experiments": [],
@@ -360415,6 +360559,69 @@
       "status": "succeeded",
       "startedAt": "2026-09-11T20:05:43Z",
       "completedAt": "2026-09-11T20:05:43Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T201636Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:16:36Z",
+      "completedAt": "2026-09-11T20:16:36Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T201640Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:16:40Z",
+      "completedAt": "2026-09-11T20:16:40Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T201756Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:17:56Z",
+      "completedAt": "2026-09-11T20:17:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T201805Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:18:05Z",
+      "completedAt": "2026-09-11T20:18:05Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T202016Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:20:16.279929Z",
+      "completedAt": "2026-09-11T20:20:16.279931Z",
+      "summary": "Produced the single newest fresh Trump Dividend package with a complete entity-led square visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-trump-5000-dividend"
+    },
+    {
+      "id": "run-20260911T202055Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:20:55Z",
+      "completedAt": "2026-09-11T20:20:55Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

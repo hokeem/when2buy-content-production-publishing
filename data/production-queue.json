@@ -1,55 +1,10 @@
 {
-  "generatedAt": "2026-09-11T20:01:18Z",
+  "generatedAt": "2026-09-11T20:18:05Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098499922106384614",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098499922106384614",
-      "originalText": "US GOVERNMENT BUDGET UPDATE\n\nThe federal budget deficit hit $1.97 trillion for the first 11 months of the fiscal year\n\nSpending for fiscal 2026 to date totaled $6.81 trillion, up 3% YoY, while revenues were $4.85 trillion, also 3% YoY. The US Government's fiscal year ends in September - Bloomberg",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR9ehBcXcAYSJgM.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR9ehBcXcAYSJgM.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098499922106384614-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 10,
-        "replies": 8,
-        "reposts": 2,
-        "quotes": 0,
-        "views": 7755
-      },
-      "postedAt": "Fri Sep 11 19:52:24 +0000 2026",
-      "score": 8375,
-      "heatScore": 8375,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 21,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 8.9,
-        "expiresAt": "2026-09-11T21:22:24Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2098499407008199000",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -93,14 +48,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 11.0,
+        "ageMinutes": 27.7,
         "expiresAt": "2026-09-11T21:20:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "benchmarkPostId": "2098490691844206770",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-citi-fed-rate-hike-next-week",
@@ -144,14 +99,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 45.6,
+        "ageMinutes": 62.4,
         "expiresAt": "2026-09-11T20:45:43Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 3,
       "benchmarkPostId": "2098490133007753576",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -189,14 +144,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 47.8,
+        "ageMinutes": 64.6,
         "expiresAt": "2026-09-11T20:43:30Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 4,
       "benchmarkPostId": "2098489144276123754",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -226,14 +181,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 51.7,
+        "ageMinutes": 68.5,
         "expiresAt": "2026-09-11T20:39:34Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 6,
+      "rank": 5,
       "benchmarkPostId": "2098486176764056032",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-invesco-etfs-outperform-qqq",
@@ -263,7 +218,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 63.5,
+        "ageMinutes": 80.3,
         "expiresAt": "2026-09-11T20:27:47Z",
         "ttlMinutes": 90
       },

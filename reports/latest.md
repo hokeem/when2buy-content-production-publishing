@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T20:05:43.724576+00:00`
+- 状态更新：`2026-09-11T20:21:26.136084+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**623**
 - 待选选题：**546**
 - 待发布制作包：**2**
-- 已验证发布：**238**
+- 已验证发布：**239**
 
 ## 对标账号扫描
 
@@ -3689,6 +3689,13 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 
 $1.97T U.S. federal budget deficit through the first 11 months of FY2026.  Spending reached $6.81T while revenue came in at $4.85T.
 
+### Trump says proposed $5,000 dividend will happen
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-trump-5000-dividend/when2buy-image.png`
+
+Trump says a proposed $5,000 dividend for every U.S. adult will happen.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3931,10 +3938,17 @@ $1.97T U.S. federal budget deficit through the first 11 months of FY2026.  Spend
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
-| U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098503272248279382) |
+| U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
+| Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
 
 ## 最近运行
 
+- `2026-09-11T20:20:55Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T20:20:16.279929Z` **produce / succeeded** — Produced the single newest fresh Trump Dividend package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-11T20:18:05Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T20:17:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-11T20:16:40Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T20:16:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T20:05:43Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T20:05:04Z` **produce / succeeded** — Produced the single newest fresh federal budget-deficit package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-11T20:01:18Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3949,9 +3963,3 @@ $1.97T U.S. federal budget deficit through the first 11 months of FY2026.  Spend
 - `2026-09-11T19:31:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-11T19:21:30Z` **full / succeeded** — Newest Citi/Fed package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T19:32:02Z
 - `2026-09-11T19:20:38Z` **produce / succeeded** — Produced one newest fresh Citi/Fed rate-hike package with an inspected entity-led image and exact-logo composite.
-- `2026-09-11T19:18:33Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T19:18:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T19:17:13Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T19:17:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
-- `2026-09-11T19:05:19Z` **full / succeeded** — Newest fresh Invesco ETF package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T19:32:02Z
-- `2026-09-11T19:04:37Z` **produce / succeeded** — Produced the single newest fresh Invesco ETF benchmark package with one inspected entity-led image and exact-logo composite.
