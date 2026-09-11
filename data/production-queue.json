@@ -1,10 +1,174 @@
 {
-  "generatedAt": "2026-09-11T12:01:49Z",
+  "generatedAt": "2026-09-11T12:16:39Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098383808324096072",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098383808324096072",
+      "originalText": "The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC https://t.co/kMyU0ZDU9G",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR7084fXAAocgT9.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7084fXAAocgT9.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098383808324096072-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 8,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 1,
+        "views": 6653
+      },
+      "postedAt": "Fri Sep 11 12:11:00 +0000 2026",
+      "score": 7033,
+      "heatScore": 7033,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 5.7,
+        "expiresAt": "2026-09-11T13:41:00Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098380246059782301",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098380246059782301",
+      "originalText": "The meme coin is now down by 99% in just 2 days",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 26,
+        "replies": 7,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 14191
+      },
+      "postedAt": "Fri Sep 11 11:56:51 +0000 2026",
+      "score": 15101,
+      "heatScore": 15101,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 3
+      },
+      "editorialScore": 16,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 19.8,
+        "expiresAt": "2026-09-11T13:26:51Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098377908536365082",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098377908536365082",
+      "originalText": "The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR7ukvbaYAAEH0B.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7ukvbaYAAEH0B.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098377908536365082-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 33,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 16162
+      },
+      "postedAt": "Fri Sep 11 11:47:34 +0000 2026",
+      "score": 16912,
+      "heatScore": 16912,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 16,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 29.1,
+        "expiresAt": "2026-09-11T13:17:34Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
+      "benchmarkPostId": "2098376454073438400",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098376454073438400",
+      "originalText": "$OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 23,
+        "replies": 1,
+        "reposts": 2,
+        "quotes": 2,
+        "views": 13335
+      },
+      "postedAt": "Fri Sep 11 11:41:47 +0000 2026",
+      "score": 14055,
+      "heatScore": 14055,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 3,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 22,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 34.9,
+        "expiresAt": "2026-09-11T13:11:47Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 5,
       "benchmarkPostId": "2098372040822554995",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-apple-samsung-foldable-display-cost",
@@ -42,14 +206,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 37.6,
+        "ageMinutes": 52.4,
         "expiresAt": "2026-09-11T12:54:15Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 6,
       "benchmarkPostId": "2098369999073149003",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -87,14 +251,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 45.7,
+        "ageMinutes": 60.5,
         "expiresAt": "2026-09-11T12:46:08Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 7,
       "benchmarkPostId": "2098368762542010806",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-nvidia-robotaxis-drive",
@@ -132,14 +296,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 50.6,
+        "ageMinutes": 65.4,
         "expiresAt": "2026-09-11T12:41:13Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 8,
       "benchmarkPostId": "2098366028845560315",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-china-auto-2030-70-percent",
@@ -177,14 +341,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 61.5,
+        "ageMinutes": 76.3,
         "expiresAt": "2026-09-11T12:30:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 9,
       "benchmarkPostId": "2098363144586338779",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -214,45 +378,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 72.9,
+        "ageMinutes": 87.8,
         "expiresAt": "2026-09-11T12:18:54Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098360470432354663",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-zai-5b-capital-raise",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098360470432354663",
-      "originalText": "Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 2,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "views": 6673
-      },
-      "postedAt": "Fri Sep 11 10:38:16 +0000 2026",
-      "score": 6793,
-      "heatScore": 6793,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 83.6,
-        "expiresAt": "2026-09-11T12:08:16Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T12:02:26.930263+00:00",
+  "updatedAt": "2026-09-11T12:19:43.818752+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16079,6 +16079,102 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098383808324096072",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098383808324096072",
+      "postedAt": "Fri Sep 11 12:11:00 +0000 2026",
+      "text": "The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC https://t.co/kMyU0ZDU9G",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR7084fXAAocgT9.jpg"
+      ],
+      "engagement": {
+        "likes": 8,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 1,
+        "views": 6653
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:16:34Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7084fXAAocgT9.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098383808324096072-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098380246059782301",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098380246059782301",
+      "postedAt": "Fri Sep 11 11:56:51 +0000 2026",
+      "text": "The meme coin is now down by 99% in just 2 days",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 26,
+        "replies": 7,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 14191
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:16:34Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2098377908536365082",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098377908536365082",
+      "postedAt": "Fri Sep 11 11:47:34 +0000 2026",
+      "text": "The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR7ukvbaYAAEH0B.jpg"
+      ],
+      "engagement": {
+        "likes": 33,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 16162
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:16:34Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7ukvbaYAAEH0B.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098377908536365082-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098376454073438400",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098376454073438400",
+      "postedAt": "Fri Sep 11 11:41:47 +0000 2026",
+      "text": "$OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 23,
+        "replies": 1,
+        "reposts": 2,
+        "quotes": 2,
+        "views": 13335
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T12:16:34Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -25692,6 +25788,82 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098383808324096072",
+      "rank": 1,
+      "title": "The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC h…",
+      "benchmarkPostId": "2098383808324096072",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098383808324096072",
+      "score": 7033,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:16:39Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098380246059782301",
+      "rank": 2,
+      "title": "The meme coin is now down by 99% in just 2 days",
+      "benchmarkPostId": "2098380246059782301",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098380246059782301",
+      "score": 15101,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:16:39Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2098377908536365082",
+      "rank": 3,
+      "title": "The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO",
+      "benchmarkPostId": "2098377908536365082",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098377908536365082",
+      "score": 16912,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:16:39Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098376454073438400",
+      "rank": 4,
+      "title": "$OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK",
+      "benchmarkPostId": "2098376454073438400",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098376454073438400",
+      "score": 14055,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T12:16:39Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 3,
+        "marketImpact": 5,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -37796,7 +37968,7 @@
       "benchmarkPostId": "2098360470432354663",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098360470432354663",
       "title": "Z.AI launches $5B Hong Kong financing",
-      "status": "ready",
+      "status": "expired",
       "postText": "Z.AI is raising about $2B through a Hong Kong share placement.\n\nIt is also selling about $3B in zero-coupon convertible bonds due in September 2027.",
       "mirroredFacts": [
         "Z.AI is raising about $2 billion through a Hong Kong share placement.",
@@ -37814,7 +37986,10 @@
         "logoApplied": true,
         "logoCount": 1,
         "qaStatus": "passed"
-      }
+      },
+      "expiredAt": "2026-09-11T12:16:35Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-11T12:08:16Z"
     },
     {
       "id": "pkg-20260911-china-auto-2030-70-percent",
@@ -37923,6 +38098,42 @@
             "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
             "not a pure-text card",
             "corrected typography spacing after visual inspection"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260911-us-diesel-six-dollar",
+      "benchmarkPostId": "2098383808324096072",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098383808324096072",
+      "title": "U.S. diesel average reaches $6",
+      "status": "ready",
+      "postText": "The U.S. nationwide diesel average just hit $6 per gallon for the first time.",
+      "mirroredFacts": [
+        "The U.S. nationwide average price of diesel reached $6 per gallon for the first time."
+      ],
+      "verificationSources": [
+        "https://apnews.com/article/636252b3b82326b41661ee5c4073dacb",
+        "https://www.streetinsider.com/Reuters/US%2Baverage%2Bdiesel%2Bprice%2Bpasses%2B%246%2Ba%2Bgallon%2Bfor%2Bthe%2Bfirst%2Btime%2C%2BGasBuddy%2Bsays/27048961.html"
+      ],
+      "imagePath": "deliverables/pkg-20260911-us-diesel-six-dollar/when2buy-image-model.png",
+      "createdAt": "2026-09-11T12:19:00.476455+00:00",
+      "sourceExpiresAt": "2026-09-11T13:41:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led editorial visual about the U.S. nationwide diesel average reaching $6 per gallon for the first time: realistic freight-truck fueling station at dawn, diesel pump foreground, long-haul trucks and cargo trailers, near-black base, white highlights, controlled red price indicator, cinematic premium financial-news photography, exact phrase $6 DIESEL only, clean lower-right logo-safe space, no source names, no disclaimer, no CTA, no watermark, no generated logo, not a pure typography card.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T12:19:00.476455+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete diesel-pump and freight-truck entity scene",
+            "exact repository logo composited once",
+            "factual text and number proofread",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card"
           ]
         }
       }
@@ -326179,6 +326390,48 @@
       "completedAt": "2026-09-11T12:01:49Z",
       "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T121634Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:16:34Z",
+      "completedAt": "2026-09-11T12:16:34Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 4 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T121639Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:16:39Z",
+      "completedAt": "2026-09-11T12:16:39Z",
+      "summary": "Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T121900Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:19:00.476455+00:00",
+      "completedAt": "2026-09-11T12:19:00.476455+00:00",
+      "summary": "Produced one newest fresh U.S. diesel package with generated entity visual and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T1216Z-deferred-diesel",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T12:19:43Z",
+      "completedAt": "2026-09-11T12:19:43Z",
+      "summary": "Collected both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard 90-minute queue, produced one newest fresh diesel package, and safely deferred the sole submission at the rolling 24-hour account limit.",
+      "reason": "daily_limit; no submission attempted or retried",
+      "selectedPackageId": "pkg-20260911-us-diesel-six-dollar",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
