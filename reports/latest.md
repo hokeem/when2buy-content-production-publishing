@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T01:17:51.545013+00:00`
+- 状态更新：`2026-09-11T01:34:34.217165+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**571**
 - 待选选题：**497**
@@ -3648,6 +3648,10 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T01:34:34Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-11T07:00:00Z
+- `2026-09-11T01:33:36Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T01:33:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
+- `2026-09-11T01:32:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 21 eligible originals and added 0 new post(s).
 - `2026-09-11T01:17:51Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T01:17:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
 - `2026-09-11T01:15:43Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3664,7 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T00:36:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:34:26Z` **produce / succeeded** — Produced the sole newest fresh IGV performance-history package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T00:31:32Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T00:31:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-11T00:21:17Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T00:18:21Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T00:17:06Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
