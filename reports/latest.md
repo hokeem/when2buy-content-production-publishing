@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T11:20:33.801575+00:00`
+- 状态更新：`2026-09-11T11:32:54.922210+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**580**
-- 待选选题：**504**
-- 待发布制作包：**4**
+- 对标帖子快照：**582**
+- 待选选题：**506**
+- 待发布制作包：**3**
 - 已验证发布：**225**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 11:16:08 +0000 2026 | JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral trade payments - Sberbank CEO Herman Gref. https://t.co/H4T6eqo3mp | [X](https://x.com/WhaleInsider/status/2098369999073149003) |
+| @StockMKTNewz | Fri Sep 11 11:24:15 +0000 2026 | Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Samsung's screens - MacRumors https://t.co/d6kn2K2Vsy | [X](https://x.com/StockMKTNewz/status/2098372040822554995) |
 | @StockMKTNewz | Fri Sep 11 11:11:13 +0000 2026 | Nvidia $NVDA posted this:  “Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi | [X](https://x.com/StockMKTNewz/status/2098368762542010806) |
 | @StockMKTNewz | Fri Sep 11 10:48:54 +0000 2026 | Rocket Lab $RKLB has now completed 95 missions with its Electron rocket | [X](https://x.com/StockMKTNewz/status/2098363144586338779) |
 | @StockMKTNewz | Fri Sep 11 11:00:21 +0000 2026 | China 🇨🇳 just set a new 5 year goal for its auto industry of   70% of new cars to be electric vehicles or hybrids by 2030 and for autonomous driving to be deployed at scale https://t.co/BZptBDfyiy | [X](https://x.com/StockMKTNewz/status/2098366028845560315) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 20:11:21 +0000 2026 | ROBINHOOD $HOOD JUST REPORTED ITS AUGUST 2026 MONTHLY METRICS  - Event Contracts Traded: 4.7B (+15x YoY) - Funded Customers: 28.6M (+1.90M YoY) - Total Platform Assets: $384B (+26% YoY) - et Deposits: $4.0B (24% LTM growth) - Select Interest Earning Assets: $72.3B (+19% YoY) - Equity Notional Volumes: $335B (+68% YoY) - Options Contracts Traded: 293M (+50% YoY) - Crypto Notional Volumes: $17.5B (+38% YoY) | [X](https://x.com/StockMKTNewz/status/2098142302745055277) |
 | @StockMKTNewz | Thu Sep 10 20:12:44 +0000 2026 | ORACLE $ORCL JUST REPORTED EARNINGS https://t.co/ZMaq6wiSqt | [X](https://x.com/StockMKTNewz/status/2098142649915990353) |
 | @StockMKTNewz | Thu Sep 10 19:39:09 +0000 2026 | Lululemon $LULU stock hit new 52 WEEK LOWS again today https://t.co/17hWbaNrBV | [X](https://x.com/StockMKTNewz/status/2098134199727251462) |
-| @StockMKTNewz | Thu Sep 10 19:42:48 +0000 2026 | SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING | [X](https://x.com/StockMKTNewz/status/2098135120980898075) |
-| @StockMKTNewz | Thu Sep 10 19:20:03 +0000 2026 | Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw | [X](https://x.com/StockMKTNewz/status/2098129395588173991) |
 
 ## 选题推荐
 
@@ -214,6 +214,7 @@
 | 1 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | StockMKTNewz | 6793 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | China 🇨🇳 just set a new 5 year goal for its auto industry of 70% of new cars to be electric … | StockMKTNewz | 3467 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Nvidia $NVDA posted this: “Robotaxis are hitting the road. And NVIDIA is helping power them.… | StockMKTNewz | 6490 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Sam… | StockMKTNewz | 8393 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -285,6 +286,7 @@
 | 2 | JUST IN: $KERMIT rallies after becoming the first project on Robinhood Chain to integrate Gr… | WhaleInsider | 18984 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | MICROSOFT $MSFT PLANS TO MORE THAN TRIPLE ITS DATA CENTER CAPACITY BY 2032 The company's dat… | StockMKTNewz | 15573 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Rocket Lab $RKLB has now completed 95 missions with its Electron rocket | StockMKTNewz | 9496 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral … | WhaleInsider | 19072 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3432,7 +3434,7 @@ India just launched a pilot to tokenize its $620B corporate-bond market.  Settle
 
 ### SANTAHOOD launches on Robinhood Chain
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-santahood-robinhood-chain/when2buy-image-model.png`
 
 $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain.  Spot and DEX trading are live on Santro Exchange.
@@ -3698,6 +3700,9 @@ NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
 
 ## 最近运行
 
+- `2026-09-11T11:32:54Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-11T11:32:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 2 new post(s).
+- `2026-09-11T11:30:42Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T11:20:33.690054+00:00` **full / succeeded** — Fresh NVIDIA robotaxi package was validated and safely deferred before submission because the rolling daily Postiz limit was exhausted. daily_limit
 - `2026-09-11T11:18:40.393549+00:00` **produce / succeeded** — Produced one newest fresh NVIDIA robotaxi package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T11:16:52Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3715,6 +3720,3 @@ NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
 - `2026-09-11T10:31:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 1 new post(s).
 - `2026-09-11T10:30:34Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:21:13Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T10:21:09Z` **publish / succeeded** — Safely deferred the newest fresh SANTAHOOD package because the rolling 24-hour Postiz limit was exhausted; no submission was accepted. daily_limit; retryAt=2026-09-11T13:05:38Z
-- `2026-09-11T10:20:16Z` **produce / succeeded** — Produced one newest fresh SANTAHOOD package with exact-logo composite and visual QA.
-- `2026-09-11T10:16:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).

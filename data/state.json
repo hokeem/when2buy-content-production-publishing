@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T11:20:33.801575+00:00",
+  "updatedAt": "2026-09-11T11:32:54.922210+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16023,6 +16023,62 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098372040822554995",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098372040822554995",
+      "postedAt": "Fri Sep 11 11:24:15 +0000 2026",
+      "text": "Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Samsung's screens - MacRumors https://t.co/d6kn2K2Vsy",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR7qPrmXkAgMAhW.jpg"
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 10,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 7173
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T11:32:48Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7qPrmXkAgMAhW.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098372040822554995-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098369999073149003",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098369999073149003",
+      "postedAt": "Fri Sep 11 11:16:08 +0000 2026",
+      "text": "JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral trade payments - Sberbank CEO Herman Gref. https://t.co/H4T6eqo3mp",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR7oY74acAA2Odc.jpg"
+      ],
+      "engagement": {
+        "likes": 78,
+        "replies": 24,
+        "reposts": 10,
+        "quotes": 4,
+        "views": 15812
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T11:32:48Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7oY74acAA2Odc.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098369999073149003-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -25599,6 +25655,44 @@
         "when2buyFit": 3,
         "marketImpact": 5,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098372040822554995",
+      "rank": 1,
+      "title": "Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Sam…",
+      "benchmarkPostId": "2098372040822554995",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098372040822554995",
+      "score": 8393,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T11:32:54Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098369999073149003",
+      "rank": 2,
+      "title": "JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral …",
+      "benchmarkPostId": "2098369999073149003",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098369999073149003",
+      "score": 19072,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T11:32:54Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -37633,7 +37727,7 @@
       "benchmarkPostId": "2098351397963956345",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098351397963956345",
       "title": "SANTAHOOD launches on Robinhood Chain",
-      "status": "ready",
+      "status": "expired",
       "postText": "$SANTAHOOD has launched as a Santa-themed token on Robinhood Chain.\n\nSpot and DEX trading are live on Santro Exchange.",
       "mirroredFacts": [
         "$SANTAHOOD launched as a Santa-themed token on Robinhood Chain.",
@@ -37665,7 +37759,9 @@
           ],
           "result": "passed"
         }
-      }
+      },
+      "expiredAt": "2026-09-11T11:32:49Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260911-moonshot-ai-2b-sales-target",
@@ -322551,6 +322647,37 @@
       "reason": "daily_limit",
       "selectedPackageId": "pkg-20260911-nvidia-robotaxis-drive",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T113042Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:30:42Z",
+      "completedAt": "2026-09-11T11:30:42Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T113248Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:32:48Z",
+      "completedAt": "2026-09-11T11:32:48Z",
+      "summary": "Apify scanned both benchmark accounts; captured 118 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T113254Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:32:54Z",
+      "completedAt": "2026-09-11T11:32:54Z",
+      "summary": "Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

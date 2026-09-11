@@ -1,14 +1,104 @@
 {
-  "generatedAt": "2026-09-11T11:16:52Z",
+  "generatedAt": "2026-09-11T11:32:54Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098368762542010806",
+      "benchmarkPostId": "2098372040822554995",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098372040822554995",
+      "originalText": "Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Samsung's screens - MacRumors https://t.co/d6kn2K2Vsy",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR7qPrmXkAgMAhW.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7qPrmXkAgMAhW.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098372040822554995-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 10,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 7173
+      },
+      "postedAt": "Fri Sep 11 11:24:15 +0000 2026",
+      "score": 8393,
+      "heatScore": 8393,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 8.7,
+        "expiresAt": "2026-09-11T12:54:15Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098369999073149003",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098369999073149003",
+      "originalText": "JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral trade payments - Sberbank CEO Herman Gref. https://t.co/H4T6eqo3mp",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR7oY74acAA2Odc.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7oY74acAA2Odc.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098369999073149003-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 78,
+        "replies": 24,
+        "reposts": 10,
+        "quotes": 4,
+        "views": 15812
+      },
+      "postedAt": "Fri Sep 11 11:16:08 +0000 2026",
+      "score": 19072,
+      "heatScore": 19072,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 16.8,
+        "expiresAt": "2026-09-11T12:46:08Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098368762542010806",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260911-nvidia-robotaxis-drive",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098368762542010806",
       "originalText": "Nvidia $NVDA posted this:\n\n“Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi",
       "originalMediaUrls": [
@@ -42,14 +132,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 5.7,
+        "ageMinutes": 21.7,
         "expiresAt": "2026-09-11T12:41:13Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 4,
       "benchmarkPostId": "2098366028845560315",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-china-auto-2030-70-percent",
@@ -87,14 +177,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 16.5,
+        "ageMinutes": 32.6,
         "expiresAt": "2026-09-11T12:30:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098363144586338779",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -124,14 +214,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 28.0,
+        "ageMinutes": 44.0,
         "expiresAt": "2026-09-11T12:18:54Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2098360470432354663",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-zai-5b-capital-raise",
@@ -161,14 +251,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 38.6,
+        "ageMinutes": 54.6,
         "expiresAt": "2026-09-11T12:08:16Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 7,
       "benchmarkPostId": "2098356117793354214",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-moonshot-ai-2b-sales-target",
@@ -212,59 +302,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 55.9,
+        "ageMinutes": 71.9,
         "expiresAt": "2026-09-11T11:50:58Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098351397963956345",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260911-santahood-robinhood-chain",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098351397963956345",
-      "originalText": "JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain, with spot and DEX trading on Santro Exchange now live. https://t.co/pP4bNWUUac",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR7XePrXYAUS5XF.jpg",
-        "https://pbs.twimg.com/media/HR7XeQLbkAANZDu.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7XePrXYAUS5XF.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098351397963956345-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7XeQLbkAANZDu.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098351397963956345-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 125,
-        "replies": 19,
-        "reposts": 15,
-        "quotes": 1,
-        "views": 14298
-      },
-      "postedAt": "Fri Sep 11 10:02:13 +0000 2026",
-      "score": 18368,
-      "heatScore": 18368,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 20,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 74.7,
-        "expiresAt": "2026-09-11T11:32:13Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
