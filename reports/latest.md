@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T23:02:38.963114+00:00`
+- 状态更新：`2026-09-11T23:20:37.769549+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**629**
-- 待选选题：**552**
+- 对标帖子快照：**630**
+- 待选选题：**553**
 - 待发布制作包：**0**
-- 已验证发布：**243**
+- 已验证发布：**244**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 23:04:36 +0000 2026 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | [X](https://x.com/StockMKTNewz/status/2098548293533929670) |
 | @StockMKTNewz | Fri Sep 11 21:11:06 +0000 2026 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen  Van Geelen will stay on as the CEO of Citrini for now - Bloomberg https://t.co/64WF7lAS1g | [X](https://x.com/StockMKTNewz/status/2098519730105520465) |
 | @StockMKTNewz | Fri Sep 11 20:57:29 +0000 2026 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | [X](https://x.com/StockMKTNewz/status/2098516300498674037) |
 | @StockMKTNewz | Fri Sep 11 20:36:45 +0000 2026 | Rocket Lab $RKLB just posted this:  "Rocket Lab has filed a formal protest with the Government Accountability Office challenging NASA’s award decision for the Mars Telecommunications Network" https://t.co/nS3yJflM9t | [X](https://x.com/StockMKTNewz/status/2098511083937956226) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 14:52:03 +0000 2026 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at an average cost of $27.44 per share https://t.co/uRyL6pOwoT | [X](https://x.com/StockMKTNewz/status/2098424336709193934) |
 | @WhaleInsider | Fri Sep 11 14:55:15 +0000 2026 | JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryptocurrency strategy. https://t.co/woYDTwUhWT | [X](https://x.com/WhaleInsider/status/2098425142598566035) |
 | @WhaleInsider | Fri Sep 11 14:32:05 +0000 2026 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | [X](https://x.com/WhaleInsider/status/2098419313346576672) |
-| @StockMKTNewz | Fri Sep 11 14:26:30 +0000 2026 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center infrastructure forming a key part of the investment - CNBC https://t.co/4M0UiZThdr | [X](https://x.com/StockMKTNewz/status/2098417906161705470) |
 
 ## 选题推荐
 
@@ -239,6 +239,7 @@
 | 1 | JUST IN: Another Anthropic researcher says ‘humans may not survive’ the AI race after announ… | WhaleInsider | 14244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | StockMKTNewz | 6533 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen Van Geelen… | StockMKTNewz | 6894 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | StockMKTNewz | 11281 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3737,6 +3738,13 @@ SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  
 
 Rocket Lab filed a formal GAO protest challenging NASA’s award decision for the Mars Telecommunications Network.
 
+### Nvidia considers up to $10B Anthropic IPO investment
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-nvidia-anthropic-ipo-investment/when2buy-image.png`
+
+Nvidia $NVDA is reportedly considering an investment of up to $10B in Anthropic as the AI company moves toward an IPO.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3985,9 +3993,15 @@ Rocket Lab filed a formal GAO protest challenging NASA’s award decision for th
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
+| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
 
 ## 最近运行
 
+- `2026-09-11T23:20:10Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T23:19:22.778471+00:00` **produce / succeeded** — Produced one newest fresh Nvidia/Anthropic package with verified facts and an exact-logo square visual.
+- `2026-09-11T23:17:12Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T23:16:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 1 new post(s).
+- `2026-09-11T23:15:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T23:01:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T23:00:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T22:46:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4003,8 +4017,3 @@ Rocket Lab filed a formal GAO protest challenging NASA’s award decision for th
 - `2026-09-11T22:01:16Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T22:01:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T21:47:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T21:46:40Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T21:46:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 125 eligible originals and added 0 new post(s).
-- `2026-09-11T21:33:13Z` **publish / succeeded** — Newest fresh JPMorgan package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T21:34:32Z
-- `2026-09-11T21:32:04Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T21:31:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).

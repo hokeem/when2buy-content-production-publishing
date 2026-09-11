@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T23:02:38.963114+00:00",
+  "updatedAt": "2026-09-11T23:20:37.769549+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17351,6 +17351,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098548293533929670",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098548293533929670",
+      "postedAt": "Fri Sep 11 23:04:36 +0000 2026",
+      "text": "Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 31,
+        "replies": 10,
+        "reposts": 6,
+        "quotes": 0,
+        "views": 9961
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T23:16:55Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -27841,6 +27861,25 @@
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098548293533929670",
+      "rank": 1,
+      "title": "Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO",
+      "benchmarkPostId": "2098548293533929670",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098548293533929670",
+      "score": 11281,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T23:17:12Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -41312,6 +41351,50 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T22:04:04Z",
       "publishedAt": "2026-09-11T22:03:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-nvidia-anthropic-ipo-investment",
+      "benchmarkPostId": "2098548293533929670",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098548293533929670",
+      "title": "Nvidia considers up to $10B Anthropic IPO investment",
+      "status": "published",
+      "postText": "Nvidia $NVDA is reportedly considering an investment of up to $10B in Anthropic as the AI company moves toward an IPO.",
+      "mirroredFacts": [
+        "The benchmark reports that Nvidia is considering investing up to $10 billion in Anthropic.",
+        "Anthropic has publicly confirmed it confidentially submitted a draft S-1 registration statement."
+      ],
+      "verificationSources": [
+        "https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership/",
+        "https://www.anthropic.com/news/confidential-draft-s1-sec?m=1",
+        "https://x.com/StockMKTNewz/status/2098548293533929670"
+      ],
+      "verificationStatus": "verified_primary_and_benchmark",
+      "imagePath": "deliverables/pkg-20260911-nvidia-anthropic-ipo-investment/when2buy-image.png",
+      "createdAt": "2026-09-11T23:19:22.778471+00:00",
+      "sourceExpiresAt": "2026-09-12T00:34:36Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led visual about Nvidia considering an investment of up to $10 billion in Anthropic as Anthropic moves toward an IPO: near-black AI infrastructure and capital-markets environment, dominant unbranded AI accelerator chip, IPO filing folder and market-document motif, crisp white rim light, restrained red accent, lower-right logo-safe space, no generated text or branding; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T23:19:22.778471+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete chip, IPO-document, and capital-markets entity scene",
+            "no readable generated text or unsupported visual claim",
+            "exact repository logo composited once in lower-right clear space",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtxkwd5p0uahlm0yvjuyxlw2",
+      "postizSubmissionAt": "2026-09-11T23:19:43Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T23:20:10Z",
+      "publishedAt": "2026-09-11T23:19:00.000Z"
     }
   ],
   "posts": [
@@ -45801,6 +45884,24 @@
         "windowStart": "2026-09-11T22:03:00Z",
         "windowEnd": "2026-09-14T22:03:00Z",
         "lastAttemptAt": "2026-09-11T23:02:08.646771Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098552201325269207",
+      "packageId": "pkg-20260911-nvidia-anthropic-ipo-investment",
+      "title": "Nvidia considers up to $10B Anthropic IPO investment",
+      "text": "Nvidia $NVDA is reportedly considering an investment of up to $10B in Anthropic as the AI company moves toward an IPO.",
+      "status": "published",
+      "publishedAt": "2026-09-11T23:19:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098552201325269207",
+      "postizPostId": "cmtxkwd5p0uahlm0yvjuyxlw2",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T23:19:00Z",
+        "windowEnd": "2026-09-14T23:19:00Z",
+        "lastAttemptAt": "2026-09-11T23:20:37.380861Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -352004,6 +352105,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-11T23:02:08.646771Z"
       }
+    },
+    {
+      "id": "metric-2098552201325269207-20260911T232037Z",
+      "postId": "2098552201325269207",
+      "observedAt": "2026-09-11T23:20:37.380861Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtxkwd5p0uahlm0yvjuyxlw2",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtxkwd5p0uahlm0yvjuyxlw2",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-11"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-11"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-11"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-11"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-11"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-11T23:20:37.380861Z"
+      }
     }
   ],
   "experiments": [],
@@ -374042,6 +374185,55 @@
       "startedAt": "2026-09-11T23:01:44Z",
       "completedAt": "2026-09-11T23:01:44Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T231553Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:15:53Z",
+      "completedAt": "2026-09-11T23:15:53Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T231655Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:16:55Z",
+      "completedAt": "2026-09-11T23:16:55Z",
+      "summary": "Apify scanned both benchmark accounts; captured 126 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T231712Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:17:12Z",
+      "completedAt": "2026-09-11T23:17:12Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T231922Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:19:22.778471+00:00",
+      "completedAt": "2026-09-11T23:19:22.778583+00:00",
+      "summary": "Produced one newest fresh Nvidia/Anthropic package with verified facts and an exact-logo square visual.",
+      "selectedPackageId": "pkg-20260911-nvidia-anthropic-ipo-investment"
+    },
+    {
+      "id": "run-20260911T232010Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T23:20:10Z",
+      "completedAt": "2026-09-11T23:20:10Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ],
