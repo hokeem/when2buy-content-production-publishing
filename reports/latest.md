@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T18:33:09.782734+00:00`
+- 状态更新：`2026-09-11T19:05:52.047902+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**616**
-- 待选选题：**539**
-- 待发布制作包：**1**
-- 已验证发布：**235**
+- 对标帖子快照：**617**
+- 待选选题：**540**
+- 待发布制作包：**2**
+- 已验证发布：**236**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 18:57:47 +0000 2026 | Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026   There are 49 names on the list below, more than I would have though | [X](https://x.com/StockMKTNewz/status/2098486176764056032) |
 | @WhaleInsider | Fri Sep 11 18:22:54 +0000 2026 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | [X](https://x.com/WhaleInsider/status/2098477399683781099) |
 | @StockMKTNewz | Fri Sep 11 18:26:23 +0000 2026 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | [X](https://x.com/StockMKTNewz/status/2098478277132169552) |
 | @WhaleInsider | Fri Sep 11 18:07:11 +0000 2026 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to "earn" funds. https://t.co/Y9zCMjRGP8 | [X](https://x.com/WhaleInsider/status/2098473442752278666) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 12:31:44 +0000 2026 | 🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS  US CPI for August just came in at +3.4% YoY in line with expectations of +3.4% | [X](https://x.com/StockMKTNewz/status/2098389024914223446) |
 | @WhaleInsider | Fri Sep 11 12:35:22 +0000 2026 | JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq | [X](https://x.com/WhaleInsider/status/2098389940690149740) |
 | @StockMKTNewz | Fri Sep 11 12:37:46 +0000 2026 | RATE HIKE INCOMING???????  There is now a 76% chance that Kevin Warsh and the US Fed RAISE RATES by 0.25% next week https://t.co/Zw8IGvKDMq | [X](https://x.com/StockMKTNewz/status/2098390542350430523) |
-| @StockMKTNewz | Fri Sep 11 12:43:26 +0000 2026 | I added more to this   Know if the Fed raises rates I will be taking an L 😅  My new "cost basis" is $0.35  So if the Fed kept rates unchanged and if I had $35 I would end up with $100   DONT RAISE RATES ON ME KEVIN | [X](https://x.com/StockMKTNewz/status/2098391967948324950) |
 
 ## 选题推荐
 
@@ -231,6 +231,7 @@
 | 1 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme co… | WhaleInsider | 15422 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax … | WhaleInsider | 14426 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | StockMKTNewz | 8989 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026 There are … | StockMKTNewz | 6569 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3647,6 +3648,20 @@ PENPE rallies 143% in the past 24 hours.
 
 Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars.  He says the funds would come from an attempt to earn the money instead.
 
+### JPMorgan sees two Fed hikes in 2026
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-jpmorgan-two-fed-hikes/when2buy-image.png`
+
+JPMorgan now sees two Fed rate hikes in 2026.
+
+### 49 Invesco ETFs outperforming QQQ in 2026
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-invesco-etfs-outperform-qqq/when2buy-image.png`
+
+Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.  The list includes 49 funds.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3799,6 +3814,9 @@ Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
+| Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 8 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
+| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
+| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3811,9 +3829,7 @@ Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars
 | Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097593108846579977) |
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
-| Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 7 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
-| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
 | Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
@@ -3859,22 +3875,22 @@ Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
+| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
+| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
-| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Robinhood Chain generates 17,171 ETH in revenue | 2026-09-09T06:10:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568335147962382) |
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
-| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
@@ -3890,6 +3906,15 @@ Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars
 
 ## 最近运行
 
+- `2026-09-11T19:05:19Z` **full / succeeded** — Newest fresh Invesco ETF package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T19:32:02Z
+- `2026-09-11T19:04:37Z` **produce / succeeded** — Produced the single newest fresh Invesco ETF benchmark package with one inspected entity-led image and exact-logo composite.
+- `2026-09-11T19:01:33Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T19:01:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
+- `2026-09-11T19:00:52Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T18:49:21Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T18:48:17Z` **produce / succeeded** — Produced the single newest fresh benchmark package with one inspected entity-led image and exact-logo composite.
+- `2026-09-11T18:46:11Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T18:46:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T18:33:09Z` **full / succeeded** — Newest fresh JPMorgan/Fed rate-hike item was safely deferred because the exact benchmark claim could not be corroborated by authoritative current sources; no package or accepted Postiz task was created. verification_required
 - `2026-09-11T18:32:03Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T18:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 2 new post(s).
@@ -3901,12 +3926,3 @@ Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars
 - `2026-09-11T18:06:17Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T18:05:15.998703+00:00` **produce / succeeded** — Produced one newest fresh PENPE package with entity-led image and exact-logo composite.
 - `2026-09-11T18:02:23Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T18:01:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-11T18:00:44Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T17:47:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 121 eligible originals and added 1 new post(s).
-- `2026-09-11T17:45:29Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T17:33:30Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T17:31:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T17:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-11T17:18:25Z` **full / succeeded** — Newest $420,000-to-2036 package was safely deferred because the minimum Postiz submission interval was active; no accepted task was created. minimum_interval; retryAt 2026-09-11T17:21:27Z
-- `2026-09-11T17:17:46.450711+00:00` **produce / succeeded** — Produced one newest fresh $420,000-to-2036 hypothetical package with a complete entity-led square visual and exact-logo composite.

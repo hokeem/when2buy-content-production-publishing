@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-09-11T18:46:11Z",
+  "generatedAt": "2026-09-11T19:01:33Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098478277132169552",
+      "benchmarkPostId": "2098486176764056032",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098478277132169552",
-      "originalText": "JPMorgan now thinks we get 2 rate hikes from the Fed in 2026",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098486176764056032",
+      "originalText": "Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026 \n\nThere are 49 names on the list below, more than I would have though",
       "originalMediaUrls": [],
       "archivedMedia": [],
       "engagement": {
-        "likes": 16,
-        "replies": 8,
-        "reposts": 3,
-        "quotes": 1,
-        "views": 8139
+        "likes": 5,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 6259
       },
-      "postedAt": "Fri Sep 11 18:26:23 +0000 2026",
-      "score": 8989,
-      "heatScore": 8989,
+      "postedAt": "Fri Sep 11 18:57:47 +0000 2026",
+      "score": 6569,
+      "heatScore": 6569,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 1,
+        "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 17,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 19.8,
-        "expiresAt": "2026-09-11T19:56:23Z",
+        "ageMinutes": 3.8,
+        "expiresAt": "2026-09-11T20:27:47Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -85,7 +85,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 23.3,
+        "ageMinutes": 38.7,
         "expiresAt": "2026-09-11T19:52:54Z",
         "ttlMinutes": 90
       },
@@ -130,7 +130,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 39.0,
+        "ageMinutes": 54.4,
         "expiresAt": "2026-09-11T19:37:11Z",
         "ttlMinutes": 90
       },
