@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T22:04:56.494592+00:00`
+- 状态更新：`2026-09-11T22:16:26.841164+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**629**
 - 待选选题：**552**
@@ -3988,6 +3988,8 @@ Rocket Lab filed a formal GAO protest challenging NASA’s award decision for th
 
 ## 最近运行
 
+- `2026-09-11T22:16:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T22:16:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
 - `2026-09-11T22:04:30Z` **publish / succeeded** — Newest fresh Rocket Lab package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T22:18:32Z
 - `2026-09-11T22:04:04Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T22:03:12Z` **produce / succeeded** — Produced the single newest fresh Rocket Lab package with a complete entity-led square visual and exact-logo composite.
@@ -4006,5 +4008,3 @@ Rocket Lab filed a formal GAO protest challenging NASA’s award decision for th
 - `2026-09-11T21:17:47Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T21:16:31Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T21:16:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 1 new post(s).
-- `2026-09-11T21:15:26Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T21:04:00Z` **publish / succeeded** — Newest fresh JPMorgan/Situational Awareness package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T21:04:06Z

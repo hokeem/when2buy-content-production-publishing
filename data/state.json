@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T22:04:56.494592+00:00",
+  "updatedAt": "2026-09-11T22:16:26.841164+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -369792,6 +369792,28 @@
       "reason": "minimum_interval; retryAt=2026-09-11T22:18:32Z",
       "selectedPackageId": "pkg-20260911-rocket-lab-gao-protest",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T221621Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T22:16:21Z",
+      "completedAt": "2026-09-11T22:16:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T221626Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T22:16:26Z",
+      "completedAt": "2026-09-11T22:16:26Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
