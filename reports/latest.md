@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T09:31:39.390813+00:00`
+- 状态更新：`2026-09-11T10:02:59.880120+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**574**
 - 待选选题：**498**
@@ -3532,12 +3532,12 @@ India just launched a pilot to tokenize its $620B corporate-bond market.  Settle
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
+| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 14 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
-| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 13 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -3657,6 +3657,11 @@ India just launched a pilot to tokenize its $620B corporate-bond market.  Settle
 
 ## 最近运行
 
+- `2026-09-11T10:01:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T10:01:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-11T09:48:24Z` **full / partial** — Freshness-first cycle completed without publication; the bounded Apify collection timed out before adding new benchmark records, and the hard 90-minute queue was empty. apify_collection_timeout; no fresh eligible source was available, so no package was produced or submitted.
+- `2026-09-11T09:47:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T09:45:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T09:31:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T09:31:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T09:17:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3672,8 +3677,3 @@ India just launched a pilot to tokenize its $620B corporate-bond market.  Settle
 - `2026-09-11T08:31:58Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T08:30:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T08:16:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T08:16:30Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T08:01:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T08:01:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 52 eligible originals and added 0 new post(s).
-- `2026-09-11T08:00:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T07:47:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
