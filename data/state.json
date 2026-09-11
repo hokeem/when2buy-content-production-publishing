@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T05:16:46.619556+00:00",
+  "updatedAt": "2026-09-11T05:31:33.368955+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -300740,6 +300740,24 @@
       "status": "succeeded",
       "startedAt": "2026-09-11T05:16:46Z",
       "completedAt": "2026-09-11T05:16:46Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T053026Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T05:30:26Z",
+      "completedAt": "2026-09-11T05:30:26Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T053133Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T05:31:33Z",
+      "completedAt": "2026-09-11T05:31:33Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
