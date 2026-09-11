@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T19:05:52.047902+00:00",
+  "updatedAt": "2026-09-11T19:21:30.436695+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17027,6 +17027,88 @@
       "isPinned": false,
       "capturedAt": "2026-09-11T19:01:16Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098490691844206770",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098490691844206770",
+      "postedAt": "Fri Sep 11 19:15:43 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/Q934niMGTj",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR9WKMdbMAALQlz.jpg",
+        "https://pbs.twimg.com/media/HR9WKMXbgAE4s55.jpg"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 4,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 5267
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T19:17:08Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9WKMdbMAALQlz.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098490691844206770-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9WKMXbgAE4s55.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098490691844206770-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098490133007753576",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098490133007753576",
+      "postedAt": "Fri Sep 11 19:13:30 +0000 2026",
+      "text": "🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults will happen https://t.co/i2U8d3xIat",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR9VoetWEAMkPtj.jpg"
+      ],
+      "engagement": {
+        "likes": 27,
+        "replies": 9,
+        "reposts": 2,
+        "quotes": 1,
+        "views": 6258
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T19:17:08Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9VoetWEAMkPtj.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098490133007753576-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098489144276123754",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098489144276123754",
+      "postedAt": "Fri Sep 11 19:09:34 +0000 2026",
+      "text": "Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week\n\nCiti expects the Fed to be cutting rates by the middle of 2027",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 23,
+        "replies": 10,
+        "reposts": 5,
+        "quotes": 1,
+        "views": 7978
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T19:17:08Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -27287,6 +27369,63 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098490691844206770",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/…",
+      "benchmarkPostId": "2098490691844206770",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098490691844206770",
+      "score": 5717,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T19:17:13Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098490133007753576",
+      "rank": 2,
+      "title": "🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults w…",
+      "benchmarkPostId": "2098490133007753576",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098490133007753576",
+      "score": 7318,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T19:17:13Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098489144276123754",
+      "rank": 3,
+      "title": "Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week Citi expects the Fed to …",
+      "benchmarkPostId": "2098489144276123754",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098489144276123754",
+      "score": 9148,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T19:17:13Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -40383,6 +40522,42 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Inspected generated base and final composite; square 1:1, entity-led, requested text only, exact logo once."
+      }
+    },
+    {
+      "id": "pkg-20260911-citi-fed-rate-hike-next-week",
+      "benchmarkPostId": "2098490691844206770",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098490691844206770",
+      "title": "Citi expects a Fed rate hike next week",
+      "status": "ready",
+      "postText": "Citi now expects the Fed to raise rates next week under Chair Kevin Warsh.",
+      "mirroredFacts": [
+        "Citi now expects Kevin Warsh and the Federal Reserve to raise rates next week."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098490691844206770",
+        "https://www.axios.com/2026/09/11/the-feds-big-inflation-test",
+        "https://apnews.com/article/c76f53f7a53def0c464ca44ac637f203"
+      ],
+      "imagePath": "deliverables/pkg-20260911-citi-fed-rate-hike-next-week/when2buy-image-model.png",
+      "createdAt": "2026-09-11T19:20:38Z",
+      "sourceExpiresAt": "2026-09-11T20:45:43Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Square entity-led premium financial-news visual about Citi expecting the Federal Reserve to raise rates next week under Chair Kevin Warsh. Near-black macro market setting, Federal Reserve building, restrained upward rate signal, high-contrast white type and controlled red accent, with a quiet lower-right logo-safe area. Generated as one complete entity-led image; exact repository logo composited afterward; no source handle, URL, disclaimer, commentary, CTA, tagline, hashtags, watermark, or extra text.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T19:20:38Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete Federal Reserve entity-led visual",
+            "headline and supporting line proofread",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, hashtags, or watermark"
+          ]
+        }
       }
     }
   ],
@@ -355843,6 +356018,73 @@
       "summary": "Newest fresh Invesco ETF package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted.",
       "reason": "daily_limit; retryAt 2026-09-11T19:32:02Z",
       "selectedPackageId": "pkg-20260911-invesco-etfs-outperform-qqq",
+      "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T191708Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:17:08Z",
+      "completedAt": "2026-09-11T19:17:08Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T191713Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:17:13Z",
+      "completedAt": "2026-09-11T19:17:13Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T191821Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:18:21Z",
+      "completedAt": "2026-09-11T19:18:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T191833Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:18:33Z",
+      "completedAt": "2026-09-11T19:18:33Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T192038Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:20:38Z",
+      "completedAt": "2026-09-11T19:20:39Z",
+      "summary": "Produced one newest fresh Citi/Fed rate-hike package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260911-citi-fed-rate-hike-next-week"
+      ]
+    },
+    {
+      "id": "run-20260911T192130Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:21:30Z",
+      "completedAt": "2026-09-11T19:21:30Z",
+      "summary": "Newest Citi/Fed package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted.",
+      "reason": "daily_limit; retryAt 2026-09-11T19:32:02Z",
+      "selectedPackageId": "pkg-20260911-citi-fed-rate-hike-next-week",
       "outcome": "deferred"
     }
   ],

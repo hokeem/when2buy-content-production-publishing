@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T19:05:52.047902+00:00`
+- 状态更新：`2026-09-11T19:21:30.436695+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**617**
-- 待选选题：**540**
-- 待发布制作包：**2**
+- 对标帖子快照：**620**
+- 待选选题：**543**
+- 待发布制作包：**3**
 - 已验证发布：**236**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 19:09:34 +0000 2026 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week  Citi expects the Fed to be cutting rates by the middle of 2027 | [X](https://x.com/StockMKTNewz/status/2098489144276123754) |
+| @StockMKTNewz | Fri Sep 11 19:13:30 +0000 2026 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults will happen https://t.co/i2U8d3xIat | [X](https://x.com/StockMKTNewz/status/2098490133007753576) |
+| @WhaleInsider | Fri Sep 11 19:15:43 +0000 2026 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/Q934niMGTj | [X](https://x.com/WhaleInsider/status/2098490691844206770) |
 | @StockMKTNewz | Fri Sep 11 18:57:47 +0000 2026 | Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026   There are 49 names on the list below, more than I would have though | [X](https://x.com/StockMKTNewz/status/2098486176764056032) |
 | @WhaleInsider | Fri Sep 11 18:22:54 +0000 2026 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | [X](https://x.com/WhaleInsider/status/2098477399683781099) |
 | @StockMKTNewz | Fri Sep 11 18:26:23 +0000 2026 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | [X](https://x.com/StockMKTNewz/status/2098478277132169552) |
@@ -38,9 +41,6 @@
 | @WhaleInsider | Fri Sep 11 13:03:00 +0000 2026 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ | [X](https://x.com/WhaleInsider/status/2098396894326063300) |
 | @StockMKTNewz | Fri Sep 11 13:06:25 +0000 2026 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY  Micron $MU said it will give its Taiwanese employees a $31,600 cash bonus and additional stock rewards.   All global employees will receive equities as part of an annual performance-related bonus pool https://t.co/lt7b6VaXTR | [X](https://x.com/StockMKTNewz/status/2098397752774234368) |
 | @WhaleInsider | Fri Sep 11 12:29:55 +0000 2026 | NEW: @NBCNews covers SolCex Exchange and its upcoming stock trading launch, with stocks scheduled to launch on the platform on September 15. https://t.co/HLbVD9UUtn | [X](https://x.com/WhaleInsider/status/2098388566233542821) |
-| @StockMKTNewz | Fri Sep 11 12:31:44 +0000 2026 | 🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS  US CPI for August just came in at +3.4% YoY in line with expectations of +3.4% | [X](https://x.com/StockMKTNewz/status/2098389024914223446) |
-| @WhaleInsider | Fri Sep 11 12:35:22 +0000 2026 | JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq | [X](https://x.com/WhaleInsider/status/2098389940690149740) |
-| @StockMKTNewz | Fri Sep 11 12:37:46 +0000 2026 | RATE HIKE INCOMING???????  There is now a 76% chance that Kevin Warsh and the US Fed RAISE RATES by 0.25% next week https://t.co/Zw8IGvKDMq | [X](https://x.com/StockMKTNewz/status/2098390542350430523) |
 
 ## 选题推荐
 
@@ -232,6 +232,7 @@
 | 1 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax … | WhaleInsider | 14426 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | StockMKTNewz | 8989 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026 There are … | StockMKTNewz | 6569 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/… | WhaleInsider | 5717 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -313,6 +314,7 @@
 | 2 | $DELL stock hit new ALL TIME HIGHS today 🟢 https://t.co/I5FMpy4KZ3 | StockMKTNewz | 10689 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | If I gave you $420,000 but said you have to invest the money by the end of today and can't t… | StockMKTNewz | 11648 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | WhaleInsider | 16027 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults w… | StockMKTNewz | 7318 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -348,6 +350,7 @@
 | 3 | JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq | WhaleInsider | 19046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI … | WhaleInsider | 24629 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | StockMKTNewz | 15705 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week Citi expects the Fed to … | StockMKTNewz | 9148 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3662,6 +3665,13 @@ JPMorgan now sees two Fed rate hikes in 2026.
 
 Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.  The list includes 49 funds.
 
+### Citi expects a Fed rate hike next week
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-citi-fed-rate-hike-next-week/when2buy-image-model.png`
+
+Citi now expects the Fed to raise rates next week under Chair Kevin Warsh.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3906,6 +3916,12 @@ Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.  The list i
 
 ## 最近运行
 
+- `2026-09-11T19:21:30Z` **full / succeeded** — Newest Citi/Fed package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T19:32:02Z
+- `2026-09-11T19:20:38Z` **produce / succeeded** — Produced one newest fresh Citi/Fed rate-hike package with an inspected entity-led image and exact-logo composite.
+- `2026-09-11T19:18:33Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T19:18:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-11T19:17:13Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T19:17:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
 - `2026-09-11T19:05:19Z` **full / succeeded** — Newest fresh Invesco ETF package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T19:32:02Z
 - `2026-09-11T19:04:37Z` **produce / succeeded** — Produced the single newest fresh Invesco ETF benchmark package with one inspected entity-led image and exact-logo composite.
 - `2026-09-11T19:01:33Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3920,9 +3936,3 @@ Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.  The list i
 - `2026-09-11T18:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 2 new post(s).
 - `2026-09-11T18:30:37Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T18:18:16Z` **full / succeeded** — Newest fresh Lutnick $5,000 package was safely deferred by the 15-minute Postiz submission gap; no accepted task was created and no retry is permitted. minimum_interval; retryAt 2026-09-11T18:20:39Z
-- `2026-09-11T18:17:36.849798+00:00` **produce / succeeded** — Produced one newest fresh Lutnick $5,000 package with entity-led image and exact-logo composite.
-- `2026-09-11T18:15:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T18:15:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-11T18:06:17Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T18:05:15.998703+00:00` **produce / succeeded** — Produced one newest fresh PENPE package with entity-led image and exact-logo composite.
-- `2026-09-11T18:02:23Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
