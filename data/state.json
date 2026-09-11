@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T00:35:42.580152+00:00",
+  "updatedAt": "2026-09-11T00:36:52.620012+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -282327,6 +282327,15 @@
       "startedAt": "2026-09-11T00:34:26Z",
       "completedAt": "2026-09-11T00:34:26Z",
       "summary": "Produced the sole newest fresh IGV performance-history package with an inspected entity-led image and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T003652Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:36:52Z",
+      "completedAt": "2026-09-11T00:36:52Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
   ],

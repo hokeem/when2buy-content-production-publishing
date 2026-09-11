@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T00:35:42.580152+00:00`
+- 状态更新：`2026-09-11T00:36:52.620012+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**570**
 - 待选选题：**496**
@@ -3639,6 +3639,7 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 
 ## 最近运行
 
+- `2026-09-11T00:36:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:34:26Z` **produce / succeeded** — Produced the sole newest fresh IGV performance-history package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T00:31:32Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:31:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
@@ -3658,4 +3659,3 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 - `2026-09-10T23:46:23Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:46:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T23:32:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T23:30:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
