@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T17:33:30.743004+00:00`
+- 状态更新：`2026-09-11T17:45:29.829875+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**611**
 - 待选选题：**535**
@@ -3871,6 +3871,7 @@ A $420,000 investment locked until 2036 creates a 10-year horizon.
 
 ## 最近运行
 
+- `2026-09-11T17:45:29Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T17:33:30Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T17:31:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T17:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -3890,4 +3891,3 @@ A $420,000 investment locked until 2036 creates a 10-year horizon.
 - `2026-09-11T16:47:11Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T16:47:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
 - `2026-09-11T16:45:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T16:35:42Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
