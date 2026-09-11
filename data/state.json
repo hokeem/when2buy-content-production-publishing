@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T21:33:13.597480+00:00",
+  "updatedAt": "2026-09-11T21:47:53.297326+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -41190,7 +41190,7 @@
       "benchmarkPostId": "2098516300498674037",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098516300498674037",
       "title": "JPMorgan cuts Situational Awareness lending after AI losses",
-      "status": "ready",
+      "status": "published",
       "postText": "JPMorgan cut off lending to Situational Awareness after the AI-focused hedge fund suffered losses.",
       "mirroredFacts": [
         "JPMorgan cut off lending to Situational Awareness.",
@@ -41220,7 +41220,12 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "postizPostId": "cmtxhloi11101qk0y6duwkwtn",
+      "postizSubmissionAt": "2026-09-11T21:47:26Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T21:47:53Z",
+      "publishedAt": "2026-09-11T21:47:00.000Z"
     },
     {
       "id": "pkg-20260911-semianalysis-acquires-citrini-research",
@@ -45719,6 +45724,24 @@
         "lastAttemptAt": "2026-09-11T21:20:45.016896Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098528976335716596",
+      "packageId": "pkg-20260911-jpmorgan-situational-awareness-lending",
+      "title": "JPMorgan cuts Situational Awareness lending after AI losses",
+      "text": "JPMorgan cut off lending to Situational Awareness after the AI-focused hedge fund suffered losses.",
+      "status": "published",
+      "publishedAt": "2026-09-11T21:47:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098528976335716596",
+      "postizPostId": "cmtxhloi11101qk0y6duwkwtn",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T21:47:00.000Z",
+        "windowEnd": "2026-09-14T21:47:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -365467,6 +365490,37 @@
       "reason": "minimum_interval; retryAt=2026-09-11T21:34:32Z",
       "selectedPackageId": "pkg-20260911-jpmorgan-situational-awareness-lending",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260911T214631Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:46:31Z",
+      "completedAt": "2026-09-11T21:46:31Z",
+      "summary": "Apify scanned both benchmark accounts; captured 125 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T214640Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:46:40Z",
+      "completedAt": "2026-09-11T21:46:40Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T214753Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:47:53Z",
+      "completedAt": "2026-09-11T21:47:53Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

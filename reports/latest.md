@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T21:33:13.597480+00:00`
+- 状态更新：`2026-09-11T21:47:53.297326+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**629**
 - 待选选题：**552**
-- 待发布制作包：**2**
-- 已验证发布：**241**
+- 待发布制作包：**1**
+- 已验证发布：**242**
 
 ## 对标账号扫描
 
@@ -3718,7 +3718,7 @@ An Anthropic researcher resigned over AI-safety concerns.  He warned humans may 
 
 ### JPMorgan cuts Situational Awareness lending after AI losses
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260911-jpmorgan-situational-awareness-lending/when2buy-image-model.png`
 
 JPMorgan cut off lending to Situational Awareness after the AI-focused hedge fund suffered losses.
@@ -3976,9 +3976,13 @@ SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
+| JPMorgan cuts Situational Awareness lending after AI losses | 2026-09-11T21:47:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098528976335716596) |
 
 ## 最近运行
 
+- `2026-09-11T21:47:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T21:46:40Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T21:46:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 125 eligible originals and added 0 new post(s).
 - `2026-09-11T21:33:13Z` **publish / succeeded** — Newest fresh JPMorgan package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T21:34:32Z
 - `2026-09-11T21:32:04Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T21:31:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -3996,6 +4000,3 @@ SemiAnalysis agreed to acquire Citrini Research from founder James Van Geelen.  
 - `2026-09-11T21:00:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-11T20:49:33Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T20:48:39Z` **produce / succeeded** — Produced the single newest fresh Anthropic resignation package with an inspected entity-led image and exact-logo composite.
-- `2026-09-11T20:46:46Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T20:46:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
-- `2026-09-11T20:35:10Z` **publish / succeeded** — Newest fresh Anthropic advisors package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T20:35:28Z
