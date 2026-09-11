@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T00:18:40.088773+00:00",
+  "updatedAt": "2026-09-11T00:35:42.580152+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15701,6 +15701,34 @@
       "isPinned": false,
       "capturedAt": "2026-09-11T00:01:53Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098206257559585000",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098206257559585000",
+      "postedAt": "Fri Sep 11 00:25:29 +0000 2026",
+      "text": "This is how the Software sector ETF $IGV has performed each full year since 2002:\n\n2002: -44.69% 🔴\n2003: +50.02% 🟢\n2004: +13.50% 🟢\n2005: -5.53% 🔴\n2006: +10.76% 🟢\n2007: +15.75% 🟢\n2008: -38.43% 🔴\n2009: +47.53% 🟢\n2010: +24.64% 🟢\n2011: -7.32% 🔴\n2012: +16.77% 🟢\n2013: +30.68% 🟢\n2014: +13.42% 🟢\n2015: +12.12% 🟢\n2016: +5.80% 🟢\n2017: +42.15% 🟢\n2018: +12.45% 🟢\n2019: +34.33% 🟢\n2020: +52.87% 🟢\n2021: +12.30% 🟢\n2022: -35.65% 🔴\n2023: +58.56% 🟢\n2024: +23.41% 🟢\n2025: +5.56% 🟢\nso far in 2026: -4.64% 🔴",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR5RsewWUAIwtG0.png"
+      ],
+      "engagement": {
+        "likes": 8,
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 6148
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T00:31:28Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR5RsewWUAIwtG0.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098206257559585000-1.png",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -25106,6 +25134,25 @@
         "when2buyFit": 2,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098206257559585000",
+      "rank": 1,
+      "title": "This is how the Software sector ETF $IGV has performed each full year since 2002: 2002: -44.…",
+      "benchmarkPostId": "2098206257559585000",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098206257559585000",
+      "score": 6718,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T00:31:32Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -37022,6 +37069,43 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T00:18:21Z",
       "publishedAt": "2026-09-11T00:17:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-igv-performance-history",
+      "benchmarkPostId": "2098206257559585000",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098206257559585000",
+      "title": "IGV software ETF performance history",
+      "status": "ready",
+      "postText": "$IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65% in 2022.",
+      "mirroredFacts": [
+        "IGV market-price return was -35.65% in 2022.",
+        "IGV market-price returns were 58.56% in 2023, 23.41% in 2024, and 5.56% in 2025."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098206257559585000",
+        "https://www.ishares.com/us/products/239771/ishares-north-american-techsoftware-etf"
+      ],
+      "imagePath": "deliverables/pkg-20260911-igv-performance-history/when2buy-image-model.png",
+      "createdAt": "2026-09-11T00:34:26Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Asset type: complete square 1:1 premium financial-news editorial image for When2Buy. Primary request: an original entity-led visual about the iShares Expanded Tech-Software Sector ETF, ticker IGV, showing a multi-year software-sector market performance history. Scene/backdrop: a dark institutional market-data room with a large physical exchange-traded-fund factsheet folder, subtle software-code texture on glass, and a clean four-period performance trajectory on a premium market display; the visual should clearly feel like a software-sector ETF performance history, not a generic abstract chart. Subject: one dominant unbranded ETF factsheet folder and luminous software-sector market trajectory, with restrained red and green segments to distinguish down and up years. Style/medium: cinematic photorealistic financial-news editorial photography, premium realism, crisp materials, near-black background, controlled red and green accents. Composition/framing: exact 1:1 square; dominant subject center-left, clean upper-left area for factual typography, clean lower-right 20 percent near-black negative space for one supplied logo composited afterward. Lighting/mood: sharp white rim light, serious and timely. Color palette: near-black, white, restrained red, semantically correct green. Materials/textures: paper, glass, brushed metal, subtle data-display glow. Text (verbatim): none; all factual typography will be composited later. Constraints: no readable or pseudo-readable words, letters, numbers, logos, watermarks, source handles, URLs, attribution, disclaimers, commentary, CTA, tagline, recommendation, people, social UI, generic radar graphic, pure typography card, malformed objects, or extra brand marks.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T00:34:26Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led ETF factsheet and market-history scene",
+            "exact factual typography composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged visual"
+          ],
+          "result": "passed"
+        }
+      }
     }
   ],
   "posts": [
@@ -282203,6 +282287,46 @@
       "startedAt": "2026-09-11T00:18:21Z",
       "completedAt": "2026-09-11T00:18:21Z",
       "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T002117Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:21:17Z",
+      "completedAt": "2026-09-11T00:21:17Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T003128Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:31:28Z",
+      "completedAt": "2026-09-11T00:31:28Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T003132Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:31:32Z",
+      "completedAt": "2026-09-11T00:31:32Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T003426Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T00:34:26Z",
+      "completedAt": "2026-09-11T00:34:26Z",
+      "summary": "Produced the sole newest fresh IGV performance-history package with an inspected entity-led image and exact-logo composite.",
       "reason": ""
     }
   ],

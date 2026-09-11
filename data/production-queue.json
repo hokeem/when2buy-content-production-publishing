@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-09-11T00:21:17Z",
+  "generatedAt": "2026-09-11T00:31:32Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
-  "items": [],
+  "items": [
+    {
+      "rank": 1,
+      "benchmarkPostId": "2098206257559585000",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098206257559585000",
+      "originalText": "This is how the Software sector ETF $IGV has performed each full year since 2002:\n\n2002: -44.69% 🔴\n2003: +50.02% 🟢\n2004: +13.50% 🟢\n2005: -5.53% 🔴\n2006: +10.76% 🟢\n2007: +15.75% 🟢\n2008: -38.43% 🔴\n2009: +47.53% 🟢\n2010: +24.64% 🟢\n2011: -7.32% 🔴\n2012: +16.77% 🟢\n2013: +30.68% 🟢\n2014: +13.42% 🟢\n2015: +12.12% 🟢\n2016: +5.80% 🟢\n2017: +42.15% 🟢\n2018: +12.45% 🟢\n2019: +34.33% 🟢\n2020: +52.87% 🟢\n2021: +12.30% 🟢\n2022: -35.65% 🔴\n2023: +58.56% 🟢\n2024: +23.41% 🟢\n2025: +5.56% 🟢\nso far in 2026: -4.64% 🔴",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR5RsewWUAIwtG0.png"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR5RsewWUAIwtG0.png",
+          "path": "output/benchmark-media/StockMKTNewz/2098206257559585000-1.png",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 8,
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 6148
+      },
+      "postedAt": "Fri Sep 11 00:25:29 +0000 2026",
+      "score": 6718,
+      "heatScore": 6718,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 6.1,
+        "expiresAt": "2026-09-11T01:55:29Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    }
+  ],
   "sourceTtlMinutes": 90
 }

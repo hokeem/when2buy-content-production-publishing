@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T00:21:17.778918+00:00`
+- 状态更新：`2026-09-11T00:35:42.580152+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**569**
-- 待选选题：**495**
-- 待发布制作包：**0**
+- 对标帖子快照：**570**
+- 待选选题：**496**
+- 待发布制作包：**1**
 - 已验证发布：**223**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 00:25:29 +0000 2026 | This is how the Software sector ETF $IGV has performed each full year since 2002:  2002: -44.69% 🔴 2003: +50.02% 🟢 2004: +13.50% 🟢 2005: -5.53% 🔴 2006: +10.76% 🟢 2007: +15.75% 🟢 2008: -38.43% 🔴 2009: +47.53% 🟢 2010: +24.64% 🟢 2011: -7.32% 🔴 2012: +16.77% 🟢 2013: +30.68% 🟢 2014: +13.42% 🟢 2015: +12.12% 🟢 2016: +5.80% 🟢 2017: +42.15% 🟢 2018: +12.45% 🟢 2019: +34.33% 🟢 2020: +52.87% 🟢 2021: +12.30% 🟢 2022: -35.65% 🔴 2023: +58.56% 🟢 2024: +23.41% 🟢 2025: +5.56% 🟢 so far in 2026: -4.64% 🔴 | [X](https://x.com/StockMKTNewz/status/2098206257559585000) |
 | @StockMKTNewz | Thu Sep 10 23:47:02 +0000 2026 | OpenAI's newest and most powerful model Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI Stock Market Arena | [X](https://x.com/StockMKTNewz/status/2098196580482289759) |
 | @StockMKTNewz | Thu Sep 10 23:33:21 +0000 2026 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's adding six new Ariane 6 launches, expanding its total Arianespace commitment from 18 to 24 launches.  Arianespace has delivered 100 Amazon Leo satellites to orbit across three missions https://t.co/jcHlMrcKut | [X](https://x.com/StockMKTNewz/status/2098193139685040156) |
 | @StockMKTNewz | Thu Sep 10 22:19:16 +0000 2026 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month  SpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R | [X](https://x.com/StockMKTNewz/status/2098174494493773975) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 17:52:26 +0000 2026 | OpenAI just announced the launch of ChatGPT for Financial Services  “a tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.” https://t.co/XWQpidcI3r | [X](https://x.com/StockMKTNewz/status/2098107342378119604) |
 | @StockMKTNewz | Thu Sep 10 17:30:28 +0000 2026 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT | [X](https://x.com/StockMKTNewz/status/2098101816231616887) |
 | @StockMKTNewz | Thu Sep 10 17:07:02 +0000 2026 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9 | [X](https://x.com/StockMKTNewz/status/2098095920927707212) |
-| @WhaleInsider | Thu Sep 10 16:47:02 +0000 2026 | JUST IN: Another @MetaWin player just turned $2 into $10,000.  They currently have the best rewards of any crypto casino by a large margin.  They just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP | [X](https://x.com/WhaleInsider/status/2098090884558401767) |
 
 ## 选题推荐
 
@@ -206,6 +206,7 @@
 | 1 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion… | StockMKTNewz | 10413 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's add… | StockMKTNewz | 10116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI's newest and most powerful model Astra GPT 6 is now in control of the GPT portfolio i… | StockMKTNewz | 11296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | This is how the Software sector ETF $IGV has performed each full year since 2002: 2002: -44.… | StockMKTNewz | 6718 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3400,6 +3401,13 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 
 OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI Stock Market Arena.
 
+### IGV software ETF performance history
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-igv-performance-history/when2buy-image-model.png`
+
+$IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65% in 2022.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3631,6 +3639,9 @@ OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI St
 
 ## 最近运行
 
+- `2026-09-11T00:34:26Z` **produce / succeeded** — Produced the sole newest fresh IGV performance-history package with an inspected entity-led image and exact-logo composite.
+- `2026-09-11T00:31:32Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T00:31:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-11T00:21:17Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:18:21Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T00:17:06Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3648,6 +3659,3 @@ OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI St
 - `2026-09-10T23:46:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-10T23:32:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:30:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T23:18:08Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T23:17:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
-- `2026-09-10T23:16:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
