@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-10T23:52:10.428082+00:00`
+- 状态更新：`2026-09-11T00:05:05.743201+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**568**
-- 待选选题：**494**
-- 待发布制作包：**0**
+- 对标帖子快照：**569**
+- 待选选题：**495**
+- 待发布制作包：**1**
 - 已验证发布：**222**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Thu Sep 10 23:47:02 +0000 2026 | OpenAI's newest and most powerful model Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI Stock Market Arena | [X](https://x.com/StockMKTNewz/status/2098196580482289759) |
 | @StockMKTNewz | Thu Sep 10 23:33:21 +0000 2026 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's adding six new Ariane 6 launches, expanding its total Arianespace commitment from 18 to 24 launches.  Arianespace has delivered 100 Amazon Leo satellites to orbit across three missions https://t.co/jcHlMrcKut | [X](https://x.com/StockMKTNewz/status/2098193139685040156) |
 | @StockMKTNewz | Thu Sep 10 22:19:16 +0000 2026 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month  SpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R | [X](https://x.com/StockMKTNewz/status/2098174494493773975) |
 | @StockMKTNewz | Thu Sep 10 22:01:21 +0000 2026 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK  GameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc | [X](https://x.com/StockMKTNewz/status/2098169986414006375) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 17:30:28 +0000 2026 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT | [X](https://x.com/StockMKTNewz/status/2098101816231616887) |
 | @StockMKTNewz | Thu Sep 10 17:07:02 +0000 2026 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9 | [X](https://x.com/StockMKTNewz/status/2098095920927707212) |
 | @WhaleInsider | Thu Sep 10 16:47:02 +0000 2026 | JUST IN: Another @MetaWin player just turned $2 into $10,000.  They currently have the best rewards of any crypto casino by a large margin.  They just announced another $1M airdrop for players this month. https://t.co/UoMRyVGVjP | [X](https://x.com/WhaleInsider/status/2098090884558401767) |
-| @WhaleInsider | Thu Sep 10 16:51:42 +0000 2026 | JUST IN: Elly launches AI-native recruiting platform, built for startups making their first critical hires.  To celebrate the launch, Elly is providing a list of top candidates to hiring managers. https://t.co/fezoOJhBv5 | [X](https://x.com/WhaleInsider/status/2098092061643747622) |
 
 ## 选题推荐
 
@@ -205,6 +205,7 @@
 | 1 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK GameStop $GME CEO Ryan Cohen just file… | StockMKTNewz | 13968 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion… | StockMKTNewz | 10413 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's add… | StockMKTNewz | 10116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | OpenAI's newest and most powerful model Astra GPT 6 is now in control of the GPT portfolio i… | StockMKTNewz | 11296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3392,6 +3393,13 @@ GameStop CEO Ryan Cohen just bought $20.4M worth of $GME stock.  The purchase co
 
 Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitment from 18 to 24.  Arianespace has already placed 100 Amazon Leo satellites into orbit across three missions in 2026.
 
+### Astra GPT 6 takes control of the Rallies AI portfolio
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-astra-gpt6-rallies-arena/when2buy-image-model.png`
+
+OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI Stock Market Arena.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3439,6 +3447,7 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
+| Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:50:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097774892167156048) |
 | Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 33 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
@@ -3457,6 +3466,7 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 | iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097785187346338125) |
 | Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
 | Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
+| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098170354678341984) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 25 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770249135530085) |
@@ -3467,7 +3477,6 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
-| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098170354678341984) |
 | Microsoft sold $43 Million worth of $MSFT stock this week | 2026-09-04T04:30:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731247733731444) |
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
@@ -3560,6 +3569,7 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
+| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3582,7 +3592,6 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
-| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -3617,11 +3626,15 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
-| Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
-| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098197615901024660) |
+| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 
 ## 最近运行
 
+- `2026-09-11T00:05:05Z` **publish / succeeded** — Postiz batch safely deferred the sole fresh package because the minimum accepted-submission interval was active; no task was accepted and no retry was made. minimum_interval; retryAt=2026-09-11T00:05:44Z
+- `2026-09-11T00:04:01Z` **produce / succeeded** — Produced the single newest fresh Astra GPT 6 package with inspected entity-led visual and exact-logo composite.
+- `2026-09-11T00:01:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T00:01:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 1 new post(s).
+- `2026-09-11T00:00:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:52:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:51:10Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T23:48:44.597275+00:00` **produce / succeeded** — Produced the single newest Amazon Leo package with an inspected image-model visual and exact-logo composite.
@@ -3637,8 +3650,3 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 - `2026-09-10T23:02:21Z` **produce / succeeded** — Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.
 - `2026-09-10T23:01:38Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:01:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-10T22:53:02Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T22:50:55Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-10T22:50:26.008532+00:00` **produce / succeeded** — Produced the single newest fresh SpaceX AI-hosting package with inspected entity visual and exact-logo composite.
-- `2026-09-10T22:47:50Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T22:47:13Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
