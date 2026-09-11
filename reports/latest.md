@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T13:50:41.029496+00:00`
+- 状态更新：`2026-09-11T14:04:16.891855+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**595**
-- 待选选题：**519**
+- 对标帖子快照：**599**
+- 待选选题：**523**
 - 待发布制作包：**2**
 - 已验证发布：**227**
 
@@ -11,6 +11,10 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 13:36:16 +0000 2026 | JUST IN:  Leopold Aschenbrenner's Situation Awareness has reportedly been active in the options market and has been buying "significant" stakes in names like   CoreWeave $CRWV  Sandisk $SNDK  Bloom Energy $BE  $AMD https://t.co/kkEYNHriBM | [X](https://x.com/StockMKTNewz/status/2098405267708805502) |
+| @StockMKTNewz | Fri Sep 11 13:47:55 +0000 2026 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | [X](https://x.com/StockMKTNewz/status/2098408199590171112) |
+| @StockMKTNewz | Fri Sep 11 13:51:12 +0000 2026 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:  -  INFLATION CLEARLY DECELERATING OVER PAST 3 MONTHS, IF FED HIKES, TRUMP WILL HAVE AN OPINION I'M SURE | [X](https://x.com/StockMKTNewz/status/2098409025255748058) |
+| @StockMKTNewz | Fri Sep 11 13:54:59 +0000 2026 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:  - $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY | [X](https://x.com/StockMKTNewz/status/2098409975974383854) |
 | @StockMKTNewz | Fri Sep 11 13:31:25 +0000 2026 | The 🇺🇸 stock market is back open and is starting out trading today Green   🟢🟢🟢🟢 https://t.co/lnFHqpUKQM | [X](https://x.com/StockMKTNewz/status/2098404045580915007) |
 | @WhaleInsider | Fri Sep 11 12:56:55 +0000 2026 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club | [X](https://x.com/WhaleInsider/status/2098395364755706185) |
 | @WhaleInsider | Fri Sep 11 13:03:00 +0000 2026 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ | [X](https://x.com/WhaleInsider/status/2098396894326063300) |
@@ -37,10 +41,6 @@
 | @WhaleInsider | Fri Sep 11 06:10:21 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $282.56 million. https://t.co/HjZyvxz1lF | [X](https://x.com/WhaleInsider/status/2098293048258031651) |
 | @StockMKTNewz | Fri Sep 11 00:51:51 +0000 2026 | OpenAI is considering slowing down the development of cutting-edge artificial intelligence  In a companywide meeting this week, Altman told employees that OpenAI could potentially pace its AI development, perhaps in conjunction with several other AI labs, but that some may not agree to do so - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098212894085091480) |
 | @StockMKTNewz | Fri Sep 11 00:25:29 +0000 2026 | This is how the Software sector ETF $IGV has performed each full year since 2002:  2002: -44.69% 🔴 2003: +50.02% 🟢 2004: +13.50% 🟢 2005: -5.53% 🔴 2006: +10.76% 🟢 2007: +15.75% 🟢 2008: -38.43% 🔴 2009: +47.53% 🟢 2010: +24.64% 🟢 2011: -7.32% 🔴 2012: +16.77% 🟢 2013: +30.68% 🟢 2014: +13.42% 🟢 2015: +12.12% 🟢 2016: +5.80% 🟢 2017: +42.15% 🟢 2018: +12.45% 🟢 2019: +34.33% 🟢 2020: +52.87% 🟢 2021: +12.30% 🟢 2022: -35.65% 🔴 2023: +58.56% 🟢 2024: +23.41% 🟢 2025: +5.56% 🟢 so far in 2026: -4.64% 🔴 | [X](https://x.com/StockMKTNewz/status/2098206257559585000) |
-| @StockMKTNewz | Thu Sep 10 23:47:02 +0000 2026 | OpenAI's newest and most powerful model Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI Stock Market Arena | [X](https://x.com/StockMKTNewz/status/2098196580482289759) |
-| @StockMKTNewz | Thu Sep 10 23:33:21 +0000 2026 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's adding six new Ariane 6 launches, expanding its total Arianespace commitment from 18 to 24 launches.  Arianespace has delivered 100 Amazon Leo satellites to orbit across three missions https://t.co/jcHlMrcKut | [X](https://x.com/StockMKTNewz/status/2098193139685040156) |
-| @StockMKTNewz | Thu Sep 10 22:19:16 +0000 2026 | SpaceX's $SPCX CFO said the company signed an AI hosting agreement worth about $1.11 billion a month  SpaceX signed the hosting agreement earlier this month and the contract is scheduled to begin December 1st https://t.co/xLVr72jo3R | [X](https://x.com/StockMKTNewz/status/2098174494493773975) |
-| @StockMKTNewz | Thu Sep 10 22:01:21 +0000 2026 | RYAN COHEN JUST BOUGHT $20.4M WORTH OF GAMESTOP STOCK  GameStop $GME CEO Ryan Cohen just filed for his purchase of 1,000,000 shares of GME stock at an average cost of $20.38 per share https://t.co/AuVBLvBFqc | [X](https://x.com/StockMKTNewz/status/2098169986414006375) |
 
 ## 选题推荐
 
@@ -219,6 +219,7 @@
 | 1 | I added more to this Know if the Fed raises rates I will be taking an L 😅 My new "cost basis… | StockMKTNewz | 7700 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY Micron $MU said it … | StockMKTNewz | 12616 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The 🇺🇸 stock market is back open and is starting out trading today Green 🟢🟢🟢🟢 https://t.co/l… | StockMKTNewz | 1296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID: - $5,000 CHECKS CAN BE COMBINED WITH FISC… | StockMKTNewz | 10056 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -294,6 +295,7 @@
 | 2 | The meme coin is now down by 99% in just 2 days | StockMKTNewz | 15101 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | RATE HIKE INCOMING??????? There is now a 76% chance that Kevin Warsh and the US Fed RAISE RA… | StockMKTNewz | 14209 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https:/… | WhaleInsider | 19692 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID: - INFLATION CLEARLY DECELERATING OVER PAS… | StockMKTNewz | 12104 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -328,6 +330,7 @@
 | 3 | The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO | StockMKTNewz | 16912 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: 🇺🇸 U.S. inflation remains at 3.4%. https://t.co/3pshwEk7Cq | WhaleInsider | 19046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI … | WhaleInsider | 24629 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | StockMKTNewz | 15705 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -347,6 +350,7 @@
 | 4 | JUST IN: Another @MetaWin player just turned $2 into $10,000. They currently have the best r… | WhaleInsider | 16926 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | $OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK | StockMKTNewz | 14055 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | 🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS US CPI for August just came … | StockMKTNewz | 31787 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | JUST IN: Leopold Aschenbrenner's Situation Awareness has reportedly been active in the optio… | StockMKTNewz | 32473 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3607,12 +3611,12 @@ U.S. stocks are back open for trading today and are starting out green.
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
+| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
 | NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097847871278293375) |
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
 | Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097663884169728471) |
-| OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
@@ -3667,6 +3671,7 @@ U.S. stocks are back open for trading today and are starting out green.
 | UBS sees two 25 bp Fed hikes in 2026 | 2026-09-07T08:11:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874208454398209) |
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
 | Bitcoin ETFs take in $46.65M | 2026-09-09T05:49:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097563223033843954) |
+| Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
@@ -3750,13 +3755,18 @@ U.S. stocks are back open for trading today and are starting out green.
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
-| Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
-| U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098408730555719704) |
+| U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
 
 ## 最近运行
 
+- `2026-09-11T14:04:16Z` **full / succeeded** — Freshness-first cycle scanned both benchmark feeds, reconciled deliveries, refreshed metrics, and deferred the newest uncovered item because it had no safely verified package and the submission interval was active. newest_item_not_ready_and_minimum_interval
+- `2026-09-11T14:02:37Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T14:02:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-11T14:02:11Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T14:02:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 20 eligible originals and added 4 new post(s).
+- `2026-09-11T14:00:40Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T13:45:00Z` **full / succeeded** — Freshness-first run collected/reconciled benchmark data, rebuilt the hard-TTL queue, produced one newest eligible package, and verified one Postiz publication with a public X URL.
 - `2026-09-11T13:50:03Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T13:46:49Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3771,9 +3781,3 @@ U.S. stocks are back open for trading today and are starting out green.
 - `2026-09-11T13:15:39Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T13:03:48.210551+00:00` **full / succeeded** — Fresh Fed rate-hike odds package was safely deferred because the rolling 24-hour Postiz limit was exhausted. daily_limit
 - `2026-09-11T13:02:03Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T13:00:45Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T12:49:41Z` **full / succeeded** — Collected both benchmark feeds, archived media, rebuilt the hard 90-minute queue, produced the sole newest fresh Fed rate-odds package, and safely deferred the one Postiz submission because the rolling 24-hour limit was exhausted. daily_limit
-- `2026-09-11T12:48:50Z` **produce / succeeded** — Produced the single newest fresh Fed rate-odds package with authoritative fact verification, generated entity visual, and exact-logo composite.
-- `2026-09-11T12:46:23Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T12:46:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 5 new post(s).
-- `2026-09-11T12:45:43Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 1 unsent stale package(s).
