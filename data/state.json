@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T02:17:55.543936+00:00",
+  "updatedAt": "2026-09-11T02:32:28.892146+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -37164,7 +37164,7 @@
       "benchmarkPostId": "2098212894085091480",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098212894085091480",
       "title": "OpenAI considers slowing cutting-edge AI development",
-      "status": "ready",
+      "status": "expired",
       "postText": "OpenAI is considering slowing the development of cutting-edge artificial intelligence.\n\nSam Altman raised the possibility of pacing development alongside other AI labs.",
       "mirroredFacts": [
         "The benchmark says OpenAI is considering slowing the development of cutting-edge artificial intelligence.",
@@ -37195,7 +37195,9 @@
             "exact repository logo composited once in lower-right clear space"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-11T02:32:02Z",
+      "expiryReason": "source_ttl_exceeded"
     }
   ],
   "posts": [
@@ -39757,12 +39759,14 @@
       "url": "https://x.com/_When2buy/status/2097149656405008457",
       "postizPostId": "cmts1t5id0synqk0yqg4y3pkz",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-08T02:26:00Z",
         "windowEnd": "2026-09-11T02:26:00Z",
         "lastAttemptAt": "2026-09-11T02:03:18.560692Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-11T02:32:28.838864Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -289926,6 +289930,28 @@
       "startedAt": "2026-09-11T02:17:01Z",
       "completedAt": "2026-09-11T02:17:01Z",
       "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T023201Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T02:32:01Z",
+      "completedAt": "2026-09-11T02:32:01Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T023206Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T02:32:06Z",
+      "completedAt": "2026-09-11T02:32:06Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 1 unsent stale package(s).",
       "reason": ""
     }
   ],
