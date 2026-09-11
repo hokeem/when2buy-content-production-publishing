@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T16:04:31.322637+00:00",
+  "updatedAt": "2026-09-11T16:19:11.425918+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16725,6 +16725,62 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098443757209137467",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098443757209137467",
+      "postedAt": "Fri Sep 11 16:09:13 +0000 2026",
+      "text": "Tesla $TSLA posted this today\n\n\"Semi is coming to Europe\" https://t.co/gkB2qs7uUb",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR8ra6EWYAYHlkZ.jpg"
+      ],
+      "engagement": {
+        "likes": 29,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7833
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T16:16:18Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8ra6EWYAYHlkZ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098443757209137467-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098442708297597298",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098442708297597298",
+      "postedAt": "Fri Sep 11 16:05:03 +0000 2026",
+      "text": "$DELL stock hit new ALL TIME HIGHS today\n\n🟢 https://t.co/I5FMpy4KZ3",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR8qerLa8AAHBQy.jpg"
+      ],
+      "engagement": {
+        "likes": 35,
+        "replies": 14,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 9379
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T16:16:18Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8qerLa8AAHBQy.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098442708297597298-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -26795,6 +26851,44 @@
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098443757209137467",
+      "rank": 1,
+      "title": "Tesla $TSLA posted this today \"Semi is coming to Europe\" https://t.co/gkB2qs7uUb",
+      "benchmarkPostId": "2098443757209137467",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098443757209137467",
+      "score": 8663,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T16:16:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098442708297597298",
+      "rank": 2,
+      "title": "$DELL stock hit new ALL TIME HIGHS today 🟢 https://t.co/I5FMpy4KZ3",
+      "benchmarkPostId": "2098442708297597298",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098442708297597298",
+      "score": 10689,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T16:16:28Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -39534,6 +39628,47 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260911-tesla-semi-europe",
+      "benchmarkPostId": "2098443757209137467",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098443757209137467",
+      "title": "Tesla Semi coming to Europe",
+      "status": "published",
+      "postText": "Tesla says its Semi is coming to Europe.",
+      "mirroredFacts": [
+        "Tesla posted that its Semi is coming to Europe."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098443757209137467",
+        "https://www.tesla.com/event/meet-semi-at-tesla-indianapolis-castleton"
+      ],
+      "imagePath": "deliverables/pkg-20260911-tesla-semi-europe/when2buy-image.png",
+      "createdAt": "2026-09-11T16:18:11Z",
+      "sourceExpiresAt": "Fri Sep 11 16:09:13 +0000 2026",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: photorealistic-natural. Complete square entity-led editorial visual of a Tesla Semi electric tractor-trailer in a European logistics setting at blue hour, with open upper-left space for post-production typography. Near-black premium financial-news palette, white type and restrained red accents. No generated text, logos, watermarks, source labels, attribution, disclaimer, commentary, CTA, or tagline.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T16:18:11Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led Tesla Semi scene",
+            "factual text composited once",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtx5uutr0xu7qk0y2tsivqw8",
+      "postizSubmissionAt": "2026-09-11T16:18:39Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T16:19:11Z",
+      "publishedAt": "2026-09-11T16:18:00.000Z"
     }
   ],
   "posts": [
@@ -43790,6 +43925,24 @@
         "lastAttemptAt": "2026-09-11T16:04:08.145054Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098446248693088603",
+      "packageId": "pkg-20260911-tesla-semi-europe",
+      "title": "Tesla Semi coming to Europe",
+      "text": "Tesla says its Semi is coming to Europe.",
+      "status": "published",
+      "publishedAt": "2026-09-11T16:18:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098446248693088603",
+      "postizPostId": "cmtx5uutr0xu7qk0y2tsivqw8",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T16:18:00.000Z",
+        "windowEnd": "2026-09-14T16:18:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -342813,6 +342966,56 @@
       "startedAt": "2026-09-11T16:03:21Z",
       "completedAt": "2026-09-11T16:03:21Z",
       "summary": "Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T161539Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:15:39Z",
+      "completedAt": "2026-09-11T16:15:39Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T161618Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:16:18Z",
+      "completedAt": "2026-09-11T16:16:18Z",
+      "summary": "Apify scanned both benchmark accounts; captured 16 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T161628Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:16:28Z",
+      "completedAt": "2026-09-11T16:16:28Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T161811Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:18:11Z",
+      "completedAt": "2026-09-11T16:18:11Z",
+      "summary": "Produced one newest fresh Tesla Semi Europe package with a complete entity-led square visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-tesla-semi-europe"
+    },
+    {
+      "id": "run-20260911T161911Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:19:11Z",
+      "completedAt": "2026-09-11T16:19:11Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ],

@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-09-11T16:03:21Z",
+  "generatedAt": "2026-09-11T16:16:28Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098443757209137467",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098443757209137467",
+      "originalText": "Tesla $TSLA posted this today\n\n\"Semi is coming to Europe\" https://t.co/gkB2qs7uUb",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR8ra6EWYAYHlkZ.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8ra6EWYAYHlkZ.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098443757209137467-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 29,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7833
+      },
+      "postedAt": "Fri Sep 11 16:09:13 +0000 2026",
+      "score": 8663,
+      "heatScore": 8663,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 7.3,
+        "expiresAt": "2026-09-11T17:39:13Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098442708297597298",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098442708297597298",
+      "originalText": "$DELL stock hit new ALL TIME HIGHS today\n\n🟢 https://t.co/I5FMpy4KZ3",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR8qerLa8AAHBQy.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR8qerLa8AAHBQy.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098442708297597298-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 35,
+        "replies": 14,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 9379
+      },
+      "postedAt": "Fri Sep 11 16:05:03 +0000 2026",
+      "score": 10689,
+      "heatScore": 10689,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 11.4,
+        "expiresAt": "2026-09-11T17:35:03Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
       "benchmarkPostId": "2098436214864904690",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-unicredit-crypto-services",
@@ -48,14 +138,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 24.1,
+        "ageMinutes": 37.2,
         "expiresAt": "2026-09-11T17:09:15Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 4,
       "benchmarkPostId": "2098431791933620311",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-giannis-miami-mansion-135m",
@@ -93,14 +183,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 41.7,
+        "ageMinutes": 54.8,
         "expiresAt": "2026-09-11T16:51:40Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098428713742356683",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -130,14 +220,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 53.9,
+        "ageMinutes": 67.0,
         "expiresAt": "2026-09-11T16:39:26Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2098424336709193934",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-celh-fieldly-18000",
@@ -181,7 +271,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 71.3,
+        "ageMinutes": 84.4,
         "expiresAt": "2026-09-11T16:22:03Z",
         "ttlMinutes": 90
       },

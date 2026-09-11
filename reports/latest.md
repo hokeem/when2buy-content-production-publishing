@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T16:04:31.322637+00:00`
+- 状态更新：`2026-09-11T16:19:11.425918+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**606**
-- 待选选题：**530**
+- 对标帖子快照：**608**
+- 待选选题：**532**
 - 待发布制作包：**3**
-- 已验证发布：**230**
+- 已验证发布：**231**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 16:05:03 +0000 2026 | $DELL stock hit new ALL TIME HIGHS today  🟢 https://t.co/I5FMpy4KZ3 | [X](https://x.com/StockMKTNewz/status/2098442708297597298) |
+| @StockMKTNewz | Fri Sep 11 16:09:13 +0000 2026 | Tesla $TSLA posted this today  "Semi is coming to Europe" https://t.co/gkB2qs7uUb | [X](https://x.com/StockMKTNewz/status/2098443757209137467) |
 | @WhaleInsider | Fri Sep 11 15:39:15 +0000 2026 | JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer crypto services. https://t.co/hMYigRD9hS | [X](https://x.com/WhaleInsider/status/2098436214864904690) |
 | @StockMKTNewz | Fri Sep 11 15:09:26 +0000 2026 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | [X](https://x.com/StockMKTNewz/status/2098428713742356683) |
 | @StockMKTNewz | Fri Sep 11 15:21:40 +0000 2026 | Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0RT | [X](https://x.com/StockMKTNewz/status/2098431791933620311) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 11:24:15 +0000 2026 | Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Samsung's screens - MacRumors https://t.co/d6kn2K2Vsy | [X](https://x.com/StockMKTNewz/status/2098372040822554995) |
 | @StockMKTNewz | Fri Sep 11 11:11:13 +0000 2026 | Nvidia $NVDA posted this:  “Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi | [X](https://x.com/StockMKTNewz/status/2098368762542010806) |
 | @StockMKTNewz | Fri Sep 11 10:48:54 +0000 2026 | Rocket Lab $RKLB has now completed 95 missions with its Electron rocket | [X](https://x.com/StockMKTNewz/status/2098363144586338779) |
-| @StockMKTNewz | Fri Sep 11 11:00:21 +0000 2026 | China 🇨🇳 just set a new 5 year goal for its auto industry of   70% of new cars to be electric vehicles or hybrids by 2030 and for autonomous driving to be deployed at scale https://t.co/BZptBDfyiy | [X](https://x.com/StockMKTNewz/status/2098366028845560315) |
-| @StockMKTNewz | Fri Sep 11 10:38:16 +0000 2026 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | [X](https://x.com/StockMKTNewz/status/2098360470432354663) |
 
 ## 选题推荐
 
@@ -225,6 +225,7 @@
 | 1 | JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryp… | WhaleInsider | 15856 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0… | StockMKTNewz | 12107 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer … | WhaleInsider | 14429 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Tesla $TSLA posted this today "Semi is coming to Europe" https://t.co/gkB2qs7uUb | StockMKTNewz | 8663 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -303,6 +304,7 @@
 | 2 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID: - INFLATION CLEARLY DECELERATING OVER PAS… | StockMKTNewz | 12104 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at … | StockMKTNewz | 10244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | StockMKTNewz | 16656 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | $DELL stock hit new ALL TIME HIGHS today 🟢 https://t.co/I5FMpy4KZ3 | StockMKTNewz | 10689 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3589,6 +3591,13 @@ Giannis Antetokounmpo just bought a Miami mansion for $13.5 million.
 
 UniCredit is looking to offer crypto services to its 20M+ users.
 
+### Tesla Semi coming to Europe
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-tesla-semi-europe/when2buy-image.png`
+
+Tesla says its Semi is coming to Europe.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3824,9 +3833,15 @@ UniCredit is looking to offer crypto services to its 20M+ users.
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
+| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098446248693088603) |
 
 ## 最近运行
 
+- `2026-09-11T16:19:11Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T16:18:11Z` **produce / succeeded** — Produced one newest fresh Tesla Semi Europe package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-11T16:16:28Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T16:16:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 2 new post(s).
+- `2026-09-11T16:15:39Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T16:03:21Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T16:03:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 83 eligible originals and added 0 new post(s).
 - `2026-09-11T16:03:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
@@ -3842,8 +3857,3 @@ UniCredit is looking to offer crypto services to its 20M+ users.
 - `2026-09-11T15:33:55Z` **full / succeeded** — Freshest Giannis mansion package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T16:04:48Z
 - `2026-09-11T15:33:14Z` **produce / succeeded** — Produced one newest fresh Giannis mansion package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-11T15:31:35Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T15:31:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-11T15:20:24Z` **full / succeeded** — Fresh Celsius package was safely deferred because the minimum interval between accepted Postiz submissions had not elapsed; the ready package remains recoverable for the next eligible cycle. minimum_interval; retryAt=2026-09-11T15:20:25Z
-- `2026-09-11T15:17:37.168732+00:00` **produce / succeeded** — Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.
-- `2026-09-11T15:17:20Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T15:06:25Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
