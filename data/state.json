@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T11:06:05.331337+00:00",
+  "updatedAt": "2026-09-11T11:18:40.399206+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15995,6 +15995,34 @@
       "isPinned": false,
       "capturedAt": "2026-09-11T11:01:37Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098368762542010806",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098368762542010806",
+      "postedAt": "Fri Sep 11 11:11:13 +0000 2026",
+      "text": "Nvidia $NVDA posted this:\n\n“Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2098212582230220801/img/4jzv471q_KQzPTjW.jpg"
+      ],
+      "engagement": {
+        "likes": 18,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 5900
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T11:16:46Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098212582230220801/img/4jzv471q_KQzPTjW.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098368762542010806-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -25552,6 +25580,25 @@
         "when2buyFit": 1,
         "marketImpact": 5,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098368762542010806",
+      "rank": 1,
+      "title": "Nvidia $NVDA posted this: “Robotaxis are hitting the road. And NVIDIA is helping power them.…",
+      "benchmarkPostId": "2098368762542010806",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098368762542010806",
+      "score": 6490,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T11:16:52Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 3,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -37704,6 +37751,41 @@
             "not a pure-text card or generic radar visual"
           ]
         }
+      }
+    },
+    {
+      "id": "pkg-20260911-nvidia-robotaxis-drive",
+      "benchmarkPostId": "2098368762542010806",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098368762542010806",
+      "title": "NVIDIA DRIVE is helping power robotaxis",
+      "status": "ready",
+      "postText": "NVIDIA's DRIVE platform is helping power robotaxis hitting the road.",
+      "mirroredFacts": [
+        "The benchmark post said robotaxis are hitting the road.",
+        "It said NVIDIA is helping power them.",
+        "NVIDIA describes DRIVE as powering next-generation transportation, including robotaxis and autonomous delivery vehicles."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098368762542010806",
+        "https://nvidianews.nvidia.com/news/drive-hyperion-level-4"
+      ],
+      "verificationStatus": "verified_primary_source",
+      "verificationNote": "NVIDIA newsroom material supports the DRIVE/robotaxi platform claim; benchmark wording was rewritten originally.",
+      "imagePath": "deliverables/pkg-20260911-nvidia-robotaxis-drive/when2buy-image-model.png",
+      "createdAt": "2026-09-11T11:18:40.393346+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led editorial illustration of an autonomous robotaxi in a city at dusk, near-black premium financial-news palette, restrained green AI-compute accents, generous upper-left typography-safe space, no generated text or branding; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaChecks": [
+          "square 1254x1254 PNG",
+          "complete entity-led robotaxi scene",
+          "factual text composited once",
+          "exact repository logo composited once",
+          "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+          "not a pure-text card or generic-radar visual"
+        ]
       }
     }
   ],
@@ -322426,6 +322508,38 @@
       "outcome": "deferred",
       "collector": "Apify",
       "metrics": "hourly 72-hour pass completed"
+    },
+    {
+      "id": "run-20260911T111647Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:16:47Z",
+      "completedAt": "2026-09-11T11:16:47Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T111652Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:16:52Z",
+      "completedAt": "2026-09-11T11:16:52Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T111840Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:18:40.393549+00:00",
+      "completedAt": "2026-09-11T11:18:40.393558+00:00",
+      "summary": "Produced one newest fresh NVIDIA robotaxi package with an inspected entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-nvidia-robotaxis-drive"
     }
   ],
   "deliveryCircuitBreaker": {

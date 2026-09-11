@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T11:06:05.331337+00:00`
+- 状态更新：`2026-09-11T11:18:40.399206+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**579**
-- 待选选题：**503**
-- 待发布制作包：**3**
+- 对标帖子快照：**580**
+- 待选选题：**504**
+- 待发布制作包：**4**
 - 已验证发布：**225**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 11:11:13 +0000 2026 | Nvidia $NVDA posted this:  “Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi | [X](https://x.com/StockMKTNewz/status/2098368762542010806) |
 | @StockMKTNewz | Fri Sep 11 10:48:54 +0000 2026 | Rocket Lab $RKLB has now completed 95 missions with its Electron rocket | [X](https://x.com/StockMKTNewz/status/2098363144586338779) |
 | @StockMKTNewz | Fri Sep 11 11:00:21 +0000 2026 | China 🇨🇳 just set a new 5 year goal for its auto industry of   70% of new cars to be electric vehicles or hybrids by 2030 and for autonomous driving to be deployed at scale https://t.co/BZptBDfyiy | [X](https://x.com/StockMKTNewz/status/2098366028845560315) |
 | @StockMKTNewz | Fri Sep 11 10:38:16 +0000 2026 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | [X](https://x.com/StockMKTNewz/status/2098360470432354663) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Thu Sep 10 19:39:09 +0000 2026 | Lululemon $LULU stock hit new 52 WEEK LOWS again today https://t.co/17hWbaNrBV | [X](https://x.com/StockMKTNewz/status/2098134199727251462) |
 | @StockMKTNewz | Thu Sep 10 19:42:48 +0000 2026 | SPACEX $SPCX JUST SAID ITS NEXT STARSHIP FLIGHT WILL BE REVENUE GENERATING | [X](https://x.com/StockMKTNewz/status/2098135120980898075) |
 | @StockMKTNewz | Thu Sep 10 19:20:03 +0000 2026 | Another day of new decade plus lows for Nike $NKE stock 🔴 https://t.co/Z9QRn1hNEw | [X](https://x.com/StockMKTNewz/status/2098129395588173991) |
-| @WhaleInsider | Thu Sep 10 19:29:30 +0000 2026 | JUST IN: 🇺🇸 Senate Republicans release new draft of the Crypto CLARITY Act. https://t.co/7QZAADpWsg | [X](https://x.com/WhaleInsider/status/2098131771296489490) |
 
 ## 选题推荐
 
@@ -213,6 +213,7 @@
 | 1 | JUST IN: 🇨🇳 China’s Moonshot AI aims for $2,000,000,000 in annual sales by end of 2026. http… | WhaleInsider | 15728 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | StockMKTNewz | 6793 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | China 🇨🇳 just set a new 5 year goal for its auto industry of 70% of new cars to be electric … | StockMKTNewz | 3467 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Nvidia $NVDA posted this: “Robotaxis are hitting the road. And NVIDIA is helping power them.… | StockMKTNewz | 6490 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3457,6 +3458,13 @@ Z.AI is raising about $2B through a Hong Kong share placement.  It is also selli
 
 China just set a 2030 auto-industry goal: 70% of new cars electric or hybrid.  Autonomous driving is targeted for deployment at scale.
 
+### NVIDIA DRIVE is helping power robotaxis
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-nvidia-robotaxis-drive/when2buy-image-model.png`
+
+NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3690,6 +3698,9 @@ China just set a 2030 auto-industry goal: 70% of new cars electric or hybrid.  A
 
 ## 最近运行
 
+- `2026-09-11T11:18:40.393549+00:00` **produce / succeeded** — Produced one newest fresh NVIDIA robotaxi package with an inspected entity-led image and exact-logo composite.
+- `2026-09-11T11:16:52Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T11:16:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-11T11:00:00Z` **full / succeeded** — Collected both benchmark feeds through Apify, archived media, reconciled Postiz and package statuses, rebuilt the hard 90-minute queue, produced the newest China auto-industry package, collected hourly metrics, and safely deferred the sole Postiz batch submission at the rolling daily account limit. deferred_daily_limit; retryAt=2026-09-11T13:05:38Z; no retry performed
 - `2026-09-11T11:05:53Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T11:01:48Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3707,6 +3718,3 @@ China just set a 2030 auto-industry goal: 70% of new cars electric or hybrid.  A
 - `2026-09-11T10:20:16Z` **produce / succeeded** — Produced one newest fresh SANTAHOOD package with exact-logo composite and visual QA.
 - `2026-09-11T10:16:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
 - `2026-09-11T10:16:41Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T10:16:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 1 new post(s).
-- `2026-09-11T10:15:37Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T10:01:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

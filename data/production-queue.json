@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-09-11T11:05:53Z",
+  "generatedAt": "2026-09-11T11:16:52Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098368762542010806",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098368762542010806",
+      "originalText": "Nvidia $NVDA posted this:\n\n“Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2098212582230220801/img/4jzv471q_KQzPTjW.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098212582230220801/img/4jzv471q_KQzPTjW.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098368762542010806-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 18,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 5900
+      },
+      "postedAt": "Fri Sep 11 11:11:13 +0000 2026",
+      "score": 6490,
+      "heatScore": 6490,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 3,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 20,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 5.7,
+        "expiresAt": "2026-09-11T12:41:13Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
       "benchmarkPostId": "2098366028845560315",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-china-auto-2030-70-percent",
@@ -42,14 +87,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 5.5,
+        "ageMinutes": 16.5,
         "expiresAt": "2026-09-11T12:30:21Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098363144586338779",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -79,14 +124,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 17.0,
+        "ageMinutes": 28.0,
         "expiresAt": "2026-09-11T12:18:54Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098360470432354663",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260911-zai-5b-capital-raise",
@@ -116,14 +161,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 27.6,
+        "ageMinutes": 38.6,
         "expiresAt": "2026-09-11T12:08:16Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "benchmarkPostId": "2098356117793354214",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-moonshot-ai-2b-sales-target",
@@ -167,14 +212,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 44.9,
+        "ageMinutes": 55.9,
         "expiresAt": "2026-09-11T11:50:58Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "benchmarkPostId": "2098351397963956345",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-santahood-robinhood-chain",
@@ -218,7 +263,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 63.7,
+        "ageMinutes": 74.7,
         "expiresAt": "2026-09-11T11:32:13Z",
         "ttlMinutes": 90
       },
