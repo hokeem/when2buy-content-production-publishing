@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T07:02:18.703761+00:00",
+  "updatedAt": "2026-09-11T07:16:18.480825+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15788,6 +15788,40 @@
         {
           "sourceUrl": "https://pbs.twimg.com/media/HR6iZyJWMAcNJ3t.jpg",
           "path": "output/benchmark-media/WhaleInsider/2098293048258031651-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098308959945855348",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098308959945855348",
+      "postedAt": "Fri Sep 11 07:13:35 +0000 2026",
+      "text": "JUST IN: Franklin ETF clients buy $5.14 million worth of $XRP. https://t.co/j3Qv39DNRt",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR6w4HLacAA5YvU.jpg",
+        "https://pbs.twimg.com/media/HR6w4HZagAAsjfs.jpg"
+      ],
+      "engagement": {
+        "likes": 12,
+        "replies": 6,
+        "reposts": 4,
+        "quotes": 0,
+        "views": 9448
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T07:16:12Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR6w4HLacAA5YvU.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098308959945855348-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR6w4HZagAAsjfs.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098308959945855348-2.jpg",
           "status": "archived"
         }
       ]
@@ -307841,6 +307875,28 @@
       "status": "succeeded",
       "startedAt": "2026-09-11T07:01:40Z",
       "completedAt": "2026-09-11T07:01:40Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T071612Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T07:16:12Z",
+      "completedAt": "2026-09-11T07:16:12Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T071618Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T07:16:18Z",
+      "completedAt": "2026-09-11T07:16:18Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }

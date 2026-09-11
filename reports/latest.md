@@ -1,8 +1,8 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T07:02:18.703761+00:00`
+- 状态更新：`2026-09-11T07:16:18.480825+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**572**
+- 对标帖子快照：**573**
 - 待选选题：**497**
 - 待发布制作包：**0**
 - 已验证发布：**224**
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 07:13:35 +0000 2026 | JUST IN: Franklin ETF clients buy $5.14 million worth of $XRP. https://t.co/j3Qv39DNRt | [X](https://x.com/WhaleInsider/status/2098308959945855348) |
 | @WhaleInsider | Fri Sep 11 06:10:21 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $282.56 million. https://t.co/HjZyvxz1lF | [X](https://x.com/WhaleInsider/status/2098293048258031651) |
 | @StockMKTNewz | Fri Sep 11 00:51:51 +0000 2026 | OpenAI is considering slowing down the development of cutting-edge artificial intelligence  In a companywide meeting this week, Altman told employees that OpenAI could potentially pace its AI development, perhaps in conjunction with several other AI labs, but that some may not agree to do so - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098212894085091480) |
 | @StockMKTNewz | Fri Sep 11 00:25:29 +0000 2026 | This is how the Software sector ETF $IGV has performed each full year since 2002:  2002: -44.69% 🔴 2003: +50.02% 🟢 2004: +13.50% 🟢 2005: -5.53% 🔴 2006: +10.76% 🟢 2007: +15.75% 🟢 2008: -38.43% 🔴 2009: +47.53% 🟢 2010: +24.64% 🟢 2011: -7.32% 🔴 2012: +16.77% 🟢 2013: +30.68% 🟢 2014: +13.42% 🟢 2015: +12.12% 🟢 2016: +5.80% 🟢 2017: +42.15% 🟢 2018: +12.45% 🟢 2019: +34.33% 🟢 2020: +52.87% 🟢 2021: +12.30% 🟢 2022: -35.65% 🔴 2023: +58.56% 🟢 2024: +23.41% 🟢 2025: +5.56% 🟢 so far in 2026: -4.64% 🔴 | [X](https://x.com/StockMKTNewz/status/2098206257559585000) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 18:50:48 +0000 2026 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing $ROBLOXIANS to gain traction. https://t.co/SEUuII622O | [X](https://x.com/WhaleInsider/status/2098122034635038838) |
 | @StockMKTNewz | Thu Sep 10 18:17:11 +0000 2026 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week | [X](https://x.com/StockMKTNewz/status/2098113572123394403) |
 | @WhaleInsider | Thu Sep 10 18:06:35 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM | [X](https://x.com/WhaleInsider/status/2098110906240553240) |
-| @StockMKTNewz | Thu Sep 10 17:52:26 +0000 2026 | OpenAI just announced the launch of ChatGPT for Financial Services  “a tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.” https://t.co/XWQpidcI3r | [X](https://x.com/StockMKTNewz/status/2098107342378119604) |
 
 ## 选题推荐
 
@@ -3648,6 +3648,8 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T07:16:18Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T07:16:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-11T07:01:40Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T07:01:35Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T06:46:37Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3666,5 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T05:31:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T05:30:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T05:16:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T05:16:42Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T05:15:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
