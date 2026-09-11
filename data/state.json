@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T03:17:35.821863+00:00",
+  "updatedAt": "2026-09-11T03:33:22.744018+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -293541,6 +293541,41 @@
       "completedAt": "2026-09-11T03:17:35Z",
       "summary": "Freshness-first cycle completed: reconciled Postiz, scanned both Apify feeds, archived benchmark media, rebuilt the hard 90-minute queue, collected due metrics, and found no new eligible item; no publication submitted.",
       "reason": "No new non-pinned original from @WhaleInsider or @StockMKTNewz entered the hard 90-minute queue."
+    },
+    {
+      "id": "run-20260911T033202Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T03:32:02Z",
+      "completedAt": "2026-09-11T03:32:02Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T033311Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T03:33:11Z",
+      "completedAt": "2026-09-11T03:33:11Z",
+      "summary": "Apify scanned both benchmark accounts; captured 6 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T033322Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T03:33:22Z",
+      "completedAt": "2026-09-11T03:33:22Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

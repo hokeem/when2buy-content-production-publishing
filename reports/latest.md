@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T03:17:35.821863+00:00`
+- 状态更新：`2026-09-11T03:33:22.744018+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**571**
 - 待选选题：**497**
@@ -3648,6 +3648,9 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T03:33:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T03:33:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 6 eligible originals and added 0 new post(s).
+- `2026-09-11T03:32:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T03:17:35Z` **full / succeeded** — Freshness-first cycle completed: reconciled Postiz, scanned both Apify feeds, archived benchmark media, rebuilt the hard 90-minute queue, collected due metrics, and found no new eligible item; no publication submitted. No new non-pinned original from @WhaleInsider or @StockMKTNewz entered the hard 90-minute queue.
 - `2026-09-11T03:16:58Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T03:16:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3665,6 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T02:15:46Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T02:05:17Z` **publish / succeeded** — Newest fresh OpenAI package remained ready; Postiz batch safely deferred before acceptance because the rolling 24-hour limit is exhausted. daily_limit
 - `2026-09-11T02:02:39Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T02:02:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T02:02:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
-- `2026-09-11T02:00:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
