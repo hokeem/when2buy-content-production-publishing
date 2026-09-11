@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T15:20:24.743996+00:00`
+- 状态更新：`2026-09-11T15:33:55.460491+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**603**
-- 待选选题：**527**
+- 对标帖子快照：**605**
+- 待选选题：**529**
 - 待发布制作包：**3**
 - 已验证发布：**230**
 
@@ -11,6 +11,8 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 15:09:26 +0000 2026 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | [X](https://x.com/StockMKTNewz/status/2098428713742356683) |
+| @StockMKTNewz | Fri Sep 11 15:21:40 +0000 2026 | Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0RT | [X](https://x.com/StockMKTNewz/status/2098431791933620311) |
 | @StockMKTNewz | Fri Sep 11 14:52:03 +0000 2026 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at an average cost of $27.44 per share https://t.co/uRyL6pOwoT | [X](https://x.com/StockMKTNewz/status/2098424336709193934) |
 | @WhaleInsider | Fri Sep 11 14:55:15 +0000 2026 | JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryptocurrency strategy. https://t.co/woYDTwUhWT | [X](https://x.com/WhaleInsider/status/2098425142598566035) |
 | @WhaleInsider | Fri Sep 11 14:32:05 +0000 2026 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | [X](https://x.com/WhaleInsider/status/2098419313346576672) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 11:00:21 +0000 2026 | China 🇨🇳 just set a new 5 year goal for its auto industry of   70% of new cars to be electric vehicles or hybrids by 2030 and for autonomous driving to be deployed at scale https://t.co/BZptBDfyiy | [X](https://x.com/StockMKTNewz/status/2098366028845560315) |
 | @StockMKTNewz | Fri Sep 11 10:38:16 +0000 2026 | Z .AI RAISES ~$2B IN HONG KONG SHARE SALE, OFFERS CONVERTIBLE BONDS | [X](https://x.com/StockMKTNewz/status/2098360470432354663) |
 | @WhaleInsider | Fri Sep 11 10:20:58 +0000 2026 | JUST IN: 🇨🇳 China’s Moonshot AI aims for $2,000,000,000 in annual sales by end of 2026. https://t.co/NDtKT1nJVL | [X](https://x.com/WhaleInsider/status/2098356117793354214) |
-| @WhaleInsider | Fri Sep 11 10:02:13 +0000 2026 | JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain, with spot and DEX trading on Santro Exchange now live. https://t.co/pP4bNWUUac | [X](https://x.com/WhaleInsider/status/2098351397963956345) |
-| @WhaleInsider | Fri Sep 11 08:40:26 +0000 2026 | JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond market, with settlements using the RBI’s wholesale digital rupee. https://t.co/34cLGQCe73 | [X](https://x.com/WhaleInsider/status/2098330814857506832) |
 
 ## 选题推荐
 
@@ -223,6 +223,7 @@
 | 1 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center in… | StockMKTNewz | 7490 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | WhaleInsider | 16720 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryp… | WhaleInsider | 15856 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0… | StockMKTNewz | 12107 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -300,6 +301,7 @@
 | 2 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https:/… | WhaleInsider | 19692 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID: - INFLATION CLEARLY DECELERATING OVER PAS… | StockMKTNewz | 12104 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at … | StockMKTNewz | 10244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | StockMKTNewz | 16656 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3560,7 +3562,7 @@ UK House of Lords backs an amendment requiring a national digital-asset strategy
 
 ### Apple iPhone Duo display cost
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-apple-samsung-foldable-display-cost/when2buy-image-model.png`
 
 Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $250 per phone.
@@ -3571,6 +3573,13 @@ Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $2
 - 配图：`deliverables/pkg-20260911-celh-fieldly-18000/when2buy-image-model.png`
 
 Celsius CEO John Fieldly just bought 18,000 $CELH shares at an average price of $27.44.
+
+### Giannis buys Miami mansion for $13.5M
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-giannis-miami-mansion-135m/when2buy-image.png`
+
+Giannis Antetokounmpo just bought a Miami mansion for $13.5 million.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3810,6 +3819,10 @@ Celsius CEO John Fieldly just bought 18,000 $CELH shares at an average price of 
 
 ## 最近运行
 
+- `2026-09-11T15:33:55Z` **full / succeeded** — Freshest Giannis mansion package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T16:04:48Z
+- `2026-09-11T15:33:14Z` **produce / succeeded** — Produced one newest fresh Giannis mansion package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-11T15:31:35Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-11T15:31:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
 - `2026-09-11T15:20:24Z` **full / succeeded** — Fresh Celsius package was safely deferred because the minimum interval between accepted Postiz submissions had not elapsed; the ready package remains recoverable for the next eligible cycle. minimum_interval; retryAt=2026-09-11T15:20:25Z
 - `2026-09-11T15:17:37.168732+00:00` **produce / succeeded** — Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.
 - `2026-09-11T15:17:20Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3826,7 +3839,3 @@ Celsius CEO John Fieldly just bought 18,000 $CELH shares at an average price of 
 - `2026-09-11T14:34:20Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T14:33:44Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:33:24.648879+00:00` **produce / succeeded** — Produced one newest fresh Hassett/Fed package with a complete entity-led square image and exact-logo composite.
-- `2026-09-11T14:33:08.864285+00:00` **produce / succeeded** — Produced one newest fresh Hassett/Fed package with a complete entity-led square image and exact-logo composite.
-- `2026-09-11T14:31:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 1 new post(s).
-- `2026-09-11T14:31:14Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T14:19:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.

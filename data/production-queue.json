@@ -1,14 +1,90 @@
 {
-  "generatedAt": "2026-09-11T15:17:20Z",
+  "generatedAt": "2026-09-11T15:31:35Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098424336709193934",
+      "benchmarkPostId": "2098431791933620311",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098431791933620311",
+      "originalText": "Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0RT",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR8gltiaEAECU0S.png"
+      ],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 20,
+        "replies": 7,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 11377
+      },
+      "postedAt": "Fri Sep 11 15:21:40 +0000 2026",
+      "score": 12107,
+      "heatScore": 12107,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 9.9,
+        "expiresAt": "2026-09-11T16:51:40Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098428713742356683",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098428713742356683",
+      "originalText": "Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 25,
+        "replies": 8,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 15786
+      },
+      "postedAt": "Fri Sep 11 15:09:26 +0000 2026",
+      "score": 16656,
+      "heatScore": 16656,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 22.2,
+        "expiresAt": "2026-09-11T16:39:26Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098424336709193934",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": "pkg-20260911-celh-fieldly-18000",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098424336709193934",
       "originalText": "Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at an average cost of $27.44 per share https://t.co/uRyL6pOwoT",
       "originalMediaUrls": [
@@ -48,14 +124,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 25.3,
+        "ageMinutes": 39.5,
         "expiresAt": "2026-09-11T16:22:03Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 4,
       "benchmarkPostId": "2098419313346576672",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-eth-75-percent-move",
@@ -99,14 +175,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 45.3,
+        "ageMinutes": 59.5,
         "expiresAt": "2026-09-11T16:02:05Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098417906161705470",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -144,53 +220,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 50.8,
+        "ageMinutes": 65.1,
         "expiresAt": "2026-09-11T15:56:30Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2098408199590171112",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098408199590171112",
-      "originalText": "Leopold Aschenbrenner right now https://t.co/CdB351ArJY",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8JzoAWEA8sA2I.png"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8JzoAWEA8sA2I.png",
-          "path": "output/benchmark-media/StockMKTNewz/2098408199590171112-1.png",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 32,
-        "replies": 6,
-        "reposts": 7,
-        "quotes": 3,
-        "views": 14295
-      },
-      "postedAt": "Fri Sep 11 13:47:55 +0000 2026",
-      "score": 15705,
-      "heatScore": 15705,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 3
-      },
-      "editorialScore": 14,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 89.4,
-        "expiresAt": "2026-09-11T15:17:55Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
