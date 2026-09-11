@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T11:18:40.399206+00:00",
+  "updatedAt": "2026-09-11T11:20:33.801575+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -322540,6 +322540,17 @@
       "summary": "Produced one newest fresh NVIDIA robotaxi package with an inspected entity-led image and exact-logo composite.",
       "reason": "",
       "selectedPackageId": "pkg-20260911-nvidia-robotaxis-drive"
+    },
+    {
+      "id": "run-20260911T112033Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T11:20:33.690054+00:00",
+      "completedAt": "2026-09-11T11:20:33.690054+00:00",
+      "summary": "Fresh NVIDIA robotaxi package was validated and safely deferred before submission because the rolling daily Postiz limit was exhausted.",
+      "reason": "daily_limit",
+      "selectedPackageId": "pkg-20260911-nvidia-robotaxis-drive",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T11:18:40.399206+00:00`
+- 状态更新：`2026-09-11T11:20:33.801575+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**580**
 - 待选选题：**504**
@@ -3698,6 +3698,7 @@ NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
 
 ## 最近运行
 
+- `2026-09-11T11:20:33.690054+00:00` **full / succeeded** — Fresh NVIDIA robotaxi package was validated and safely deferred before submission because the rolling daily Postiz limit was exhausted. daily_limit
 - `2026-09-11T11:18:40.393549+00:00` **produce / succeeded** — Produced one newest fresh NVIDIA robotaxi package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T11:16:52Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T11:16:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
@@ -3717,4 +3718,3 @@ NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
 - `2026-09-11T10:21:09Z` **publish / succeeded** — Safely deferred the newest fresh SANTAHOOD package because the rolling 24-hour Postiz limit was exhausted; no submission was accepted. daily_limit; retryAt=2026-09-11T13:05:38Z
 - `2026-09-11T10:20:16Z` **produce / succeeded** — Produced one newest fresh SANTAHOOD package with exact-logo composite and visual QA.
 - `2026-09-11T10:16:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
-- `2026-09-11T10:16:41Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
