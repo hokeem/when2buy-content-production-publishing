@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T05:47:16.165821+00:00`
+- 状态更新：`2026-09-11T06:02:18.698538+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**571**
 - 待选选题：**497**
@@ -3450,7 +3450,7 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 | META PLATFORMS $META CEO MARK ZUCKERBERG JUST POSTED THIS: "Muse Spark 1.3 is rolling out today with | 2026-09-05T00:43:00.000Z | 48 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036533728108897) |
 | Tesla $TSLA just posted this new video of the Cybercab | 2026-09-04T04:29:00.000Z | 47 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731131891240987) |
 | Uber and Wayve: London robotaxi launch reported | 2026-09-03T08:27:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428640263766427) |
-| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
+| Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 46 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
 | UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
 | Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
@@ -3474,8 +3474,8 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 | Salesforce $CRM and Anthropic just released this new commercial together | 2026-09-04T04:51:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736656079008137) |
 | Nvidia $NVDA CEO Jensen Huang said this today to the leaders of the largest countries in the world: | 2026-09-04T12:45:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855783753953496) |
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
+| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098170354678341984) |
 | Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 29 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
-| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 29 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098170354678341984) |
 | Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 28 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569842102706604) |
 | SpaceX returns above $2 trillion | 2026-09-09T10:23:00.000Z | 28 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097632198967099767) |
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
@@ -3578,6 +3578,7 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 7 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
+| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 7 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3587,7 +3588,6 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
-| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 6 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3648,6 +3648,8 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T06:01:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T06:01:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T05:47:16Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T05:47:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-11T05:45:35Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3666,5 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T04:30:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T04:17:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T04:17:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-11T04:15:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T04:02:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
