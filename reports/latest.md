@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T00:18:40.088773+00:00`
+- 状态更新：`2026-09-11T00:21:17.778918+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**569**
 - 待选选题：**495**
@@ -3631,6 +3631,7 @@ OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI St
 
 ## 最近运行
 
+- `2026-09-11T00:21:17Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:18:21Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T00:17:06Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:16:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
@@ -3650,4 +3651,3 @@ OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI St
 - `2026-09-10T23:18:08Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-10T23:17:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
 - `2026-09-10T23:16:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T23:15:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
