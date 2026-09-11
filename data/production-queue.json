@@ -1,49 +1,43 @@
 {
-  "generatedAt": "2026-09-11T16:16:28Z",
+  "generatedAt": "2026-09-11T16:47:11Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098443757209137467",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098443757209137467",
-      "originalText": "Tesla $TSLA posted this today\n\n\"Semi is coming to Europe\" https://t.co/gkB2qs7uUb",
+      "benchmarkPostId": "2098448408344186893",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260911-ossi-ketola-duel-million",
+      "packageStatus": "blocked",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098448408344186893",
+      "originalText": "JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of the biggest heads-up poker game ever. https://t.co/uGHb9iMHAh",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8ra6EWYAYHlkZ.jpg"
+        "https://pbs.twimg.com/amplify_video_thumb/2098448313993601024/img/e5vgAeLeh7IkeCe4.jpg"
       ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8ra6EWYAYHlkZ.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098443757209137467-1.jpg",
-          "status": "archived"
-        }
-      ],
+      "archivedMedia": [],
       "engagement": {
-        "likes": 29,
-        "replies": 5,
-        "reposts": 1,
+        "likes": 14,
+        "replies": 14,
+        "reposts": 5,
         "quotes": 0,
-        "views": 7833
+        "views": 10726
       },
-      "postedAt": "Fri Sep 11 16:09:13 +0000 2026",
-      "score": 8663,
-      "heatScore": 8663,
+      "postedAt": "Fri Sep 11 16:27:42 +0000 2026",
+      "score": 11816,
+      "heatScore": 11816,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 1,
+        "when2buyFit": 0,
         "marketImpact": 5,
-        "visualPotential": 3,
+        "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 19,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 7.3,
-        "expiresAt": "2026-09-11T17:39:13Z",
+        "ageMinutes": 19.5,
+        "expiresAt": "2026-09-11T17:57:42Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -87,7 +81,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 11.4,
+        "ageMinutes": 42.1,
         "expiresAt": "2026-09-11T17:35:03Z",
         "ttlMinutes": 90
       },
@@ -138,7 +132,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 37.2,
+        "ageMinutes": 67.9,
         "expiresAt": "2026-09-11T17:09:15Z",
         "ttlMinutes": 90
       },
@@ -183,96 +177,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 54.8,
+        "ageMinutes": 85.5,
         "expiresAt": "2026-09-11T16:51:40Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2098428713742356683",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098428713742356683",
-      "originalText": "Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 25,
-        "replies": 8,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 15786
-      },
-      "postedAt": "Fri Sep 11 15:09:26 +0000 2026",
-      "score": 16656,
-      "heatScore": 16656,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 67.0,
-        "expiresAt": "2026-09-11T16:39:26Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098424336709193934",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-celh-fieldly-18000",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098424336709193934",
-      "originalText": "Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at an average cost of $27.44 per share https://t.co/uRyL6pOwoT",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8Zl7IWgAgmEFn.jpg",
-        "https://pbs.twimg.com/media/HR8ZzlzW4AMkvKR.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8Zl7IWgAgmEFn.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098424336709193934-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8ZzlzW4AMkvKR.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098424336709193934-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 27,
-        "replies": 8,
-        "reposts": 3,
-        "quotes": 0,
-        "views": 9234
-      },
-      "postedAt": "Fri Sep 11 14:52:03 +0000 2026",
-      "score": 10244,
-      "heatScore": 10244,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 84.4,
-        "expiresAt": "2026-09-11T16:22:03Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T16:35:58.598577+00:00",
+  "updatedAt": "2026-09-11T16:50:15.181619+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -39751,6 +39751,47 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260911-dell-all-time-high",
+      "benchmarkPostId": "2098442708297597298",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098442708297597298",
+      "title": "Dell $DELL hits new all-time highs",
+      "status": "published",
+      "postText": "Dell $DELL just hit new all-time highs today.",
+      "mirroredFacts": [
+        "The benchmark post says Dell stock hit new all-time highs today."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098442708297597298",
+        "https://www.vcpscanner.com/stock/dell/price-history"
+      ],
+      "imagePath": "deliverables/pkg-20260911-dell-all-time-high/when2buy-image.png",
+      "createdAt": "2026-09-11T16:49:04Z",
+      "sourceExpiresAt": "Fri Sep 11 16:05:03 +0000 2026",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square 1:1 entity-led Dell enterprise computing and trading-floor scene; unbranded laptop/server, dark premium financial-news palette, clean typography and logo-safe space; no generated text or logos, no source, attribution, disclaimer, commentary, CTA, tagline, watermark, or generic radar visual.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T16:49:04Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led Dell computing scene",
+            "factual text composited once",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtx6yfxl0qn6lm0yxx7fho7x",
+      "postizSubmissionAt": "2026-09-11T16:49:26Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T16:49:53Z",
+      "publishedAt": "2026-09-11T16:49:00.000Z"
     }
   ],
   "posts": [
@@ -44023,6 +44064,24 @@
         "windowStart": "2026-09-11T16:18:00Z",
         "windowEnd": "2026-09-14T16:18:00Z",
         "lastAttemptAt": "2026-09-11T16:35:58.179088Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098453985023983918",
+      "packageId": "pkg-20260911-dell-all-time-high",
+      "title": "Dell $DELL hits new all-time highs",
+      "text": "Dell $DELL just hit new all-time highs today.",
+      "status": "published",
+      "publishedAt": "2026-09-11T16:49:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098453985023983918",
+      "postizPostId": "cmtx6yfxl0qn6lm0yxx7fho7x",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T16:49:00Z",
+        "windowEnd": "2026-09-14T16:49:00Z",
+        "lastAttemptAt": "2026-09-11T16:50:14.831893Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -322296,6 +322355,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-11T16:35:58.179088Z"
       }
+    },
+    {
+      "id": "metric-2098453985023983918-20260911T165014Z",
+      "postId": "2098453985023983918",
+      "observedAt": "2026-09-11T16:50:14.831893Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtx6yfxl0qn6lm0yxx7fho7x",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtx6yfxl0qn6lm0yxx7fho7x",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-11"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-11"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-11"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-11"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-11"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-11T16:50:14.831893Z"
+      }
     }
   ],
   "experiments": [],
@@ -343202,6 +343303,69 @@
       "summary": "Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim.",
       "reason": "blocked_conflicting_authoritative_reporting",
       "selectedPackageId": "pkg-20260911-ossi-ketola-duel-million"
+    },
+    {
+      "id": "run-20260911T164541Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:45:41Z",
+      "completedAt": "2026-09-11T16:45:41Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T164707Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:47:07Z",
+      "completedAt": "2026-09-11T16:47:07Z",
+      "summary": "Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T164711Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:47:11Z",
+      "completedAt": "2026-09-11T16:47:11Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T164724Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:47:24Z",
+      "completedAt": "2026-09-11T16:47:24Z",
+      "summary": "Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T164904Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:49:04Z",
+      "completedAt": "2026-09-11T16:49:04Z",
+      "summary": "Produced one newest fresh Dell all-time-high package with complete entity-led square visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-dell-all-time-high"
+    },
+    {
+      "id": "run-20260911T164953Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T16:49:53Z",
+      "completedAt": "2026-09-11T16:49:53Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

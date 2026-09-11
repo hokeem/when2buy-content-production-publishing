@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T16:35:58.598577+00:00`
+- 状态更新：`2026-09-11T16:50:15.181619+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**609**
 - 待选选题：**533**
 - 待发布制作包：**2**
-- 已验证发布：**231**
+- 已验证发布：**232**
 
 ## 对标账号扫描
 
@@ -3606,6 +3606,13 @@ Tesla says its Semi is coming to Europe.
 
 Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the first hand of the biggest heads-up poker game ever.
 
+### Dell $DELL hits new all-time highs
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-dell-all-time-high/when2buy-image.png`
+
+Dell $DELL just hit new all-time highs today.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3842,9 +3849,16 @@ Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the first hand of t
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
+| Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 
 ## 最近运行
 
+- `2026-09-11T16:49:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T16:49:04Z` **produce / succeeded** — Produced one newest fresh Dell all-time-high package with complete entity-led square visual and exact-logo composite.
+- `2026-09-11T16:47:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
+- `2026-09-11T16:47:11Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T16:47:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
+- `2026-09-11T16:45:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T16:35:42Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
 - `2026-09-11T16:35:05Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
 - `2026-09-11T16:34:40Z` **produce / partial** — Produced the newest fresh benchmark package but blocked publication because authoritative reporting conflicts with the benchmark claim. blocked_conflicting_authoritative_reporting
@@ -3859,9 +3873,3 @@ Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the first hand of t
 - `2026-09-11T16:03:21Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T16:03:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 83 eligible originals and added 0 new post(s).
 - `2026-09-11T16:03:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-11T16:01:57Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T16:01:51Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 83 eligible originals and added 0 new post(s).
-- `2026-09-11T16:00:43Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T15:52:00Z` **full / succeeded** — Newest fresh UniCredit crypto-services package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T16:04:48Z
-- `2026-09-11T15:48:58Z` **full / succeeded** — Freshest Giannis mansion package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T16:04:48Z
-- `2026-09-11T15:46:51Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
