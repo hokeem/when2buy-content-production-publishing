@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T00:47:54.614349+00:00`
+- 状态更新：`2026-09-11T01:06:03.690960+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**570**
-- 待选选题：**496**
-- 待发布制作包：**0**
+- 对标帖子快照：**571**
+- 待选选题：**497**
+- 待发布制作包：**1**
 - 已验证发布：**224**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 00:51:51 +0000 2026 | OpenAI is considering slowing down the development of cutting-edge artificial intelligence  In a companywide meeting this week, Altman told employees that OpenAI could potentially pace its AI development, perhaps in conjunction with several other AI labs, but that some may not agree to do so - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098212894085091480) |
 | @StockMKTNewz | Fri Sep 11 00:25:29 +0000 2026 | This is how the Software sector ETF $IGV has performed each full year since 2002:  2002: -44.69% 🔴 2003: +50.02% 🟢 2004: +13.50% 🟢 2005: -5.53% 🔴 2006: +10.76% 🟢 2007: +15.75% 🟢 2008: -38.43% 🔴 2009: +47.53% 🟢 2010: +24.64% 🟢 2011: -7.32% 🔴 2012: +16.77% 🟢 2013: +30.68% 🟢 2014: +13.42% 🟢 2015: +12.12% 🟢 2016: +5.80% 🟢 2017: +42.15% 🟢 2018: +12.45% 🟢 2019: +34.33% 🟢 2020: +52.87% 🟢 2021: +12.30% 🟢 2022: -35.65% 🔴 2023: +58.56% 🟢 2024: +23.41% 🟢 2025: +5.56% 🟢 so far in 2026: -4.64% 🔴 | [X](https://x.com/StockMKTNewz/status/2098206257559585000) |
 | @StockMKTNewz | Thu Sep 10 23:47:02 +0000 2026 | OpenAI's newest and most powerful model Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI Stock Market Arena | [X](https://x.com/StockMKTNewz/status/2098196580482289759) |
 | @StockMKTNewz | Thu Sep 10 23:33:21 +0000 2026 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's adding six new Ariane 6 launches, expanding its total Arianespace commitment from 18 to 24 launches.  Arianespace has delivered 100 Amazon Leo satellites to orbit across three missions https://t.co/jcHlMrcKut | [X](https://x.com/StockMKTNewz/status/2098193139685040156) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 18:06:35 +0000 2026 | JUST IN: 🇺🇸 The U.S. Treasury just bought back $5.1 billion of its own debt, bringing this week’s total to $17.7 billion - the largest weekly buyback on record. https://t.co/S5zCyb4kxM | [X](https://x.com/WhaleInsider/status/2098110906240553240) |
 | @StockMKTNewz | Thu Sep 10 17:52:26 +0000 2026 | OpenAI just announced the launch of ChatGPT for Financial Services  “a tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.” https://t.co/XWQpidcI3r | [X](https://x.com/StockMKTNewz/status/2098107342378119604) |
 | @StockMKTNewz | Thu Sep 10 17:30:28 +0000 2026 | The average Amazon Whole Foods store worker now makes more than $21 an hour https://t.co/jd0hA4VSMT | [X](https://x.com/StockMKTNewz/status/2098101816231616887) |
-| @StockMKTNewz | Thu Sep 10 17:07:02 +0000 2026 | Anthropic just accused China’s 🇨🇳 Moonshot AI of secretly routing thousands of user requests to Claude's models and passing off the responses as its own in a bid to gain an edge in the AI race - Bloomberg https://t.co/oIxWGmoyJ9 | [X](https://x.com/StockMKTNewz/status/2098095920927707212) |
 
 ## 选题推荐
 
@@ -207,6 +207,7 @@
 | 1 | Amazon's $AMZN low Earth orbit satellite internet network Amazon Leo just announced it's add… | StockMKTNewz | 10116 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI's newest and most powerful model Astra GPT 6 is now in control of the GPT portfolio i… | StockMKTNewz | 11296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | This is how the Software sector ETF $IGV has performed each full year since 2002: 2002: -44.… | StockMKTNewz | 6718 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | OpenAI is considering slowing down the development of cutting-edge artificial intelligence I… | StockMKTNewz | 8244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3408,6 +3409,13 @@ OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI St
 
 $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65% in 2022.
 
+### OpenAI considers slowing cutting-edge AI development
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-openai-slowing-cutting-edge-ai/when2buy-image-model.png`
+
+OpenAI is considering slowing the development of cutting-edge artificial intelligence.  Sam Altman raised the possibility of pacing development alongside other AI labs.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3452,10 +3460,10 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
 | iPhone Duo reaches $3,199 | 2026-09-09T21:13:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097795555552567617) |
 | Apple Visual Intelligence ads | 2026-09-10T13:36:00.000Z | 40 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098043057132425688) |
+| Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 39 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
 | Michael Burry said that Lululemon $LULU is now his largest stock position and that he will be "aggre | 2026-09-05T06:43:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127091901354265) |
 | ARK adds 43,091 Meta shares | 2026-09-10T00:11:00.000Z | 37 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097840407136833587) |
 | LIV Golf files for Chapter 11 | 2026-09-09T05:34:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559321148362873) |
-| Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 35 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
 | JUST IN: 50% chance of Fed maintaining rate this month, per Kalshi traders. | 2026-09-06T06:43:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489671731945544) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:50:00.000Z | 34 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097774892167156048) |
 | Michael Dell: $250 Invest America contribution reported | 2026-09-03T08:23:00.000Z | 33 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427576059834822) |
@@ -3468,20 +3476,20 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 | CoreWeave $CRWV recently posted this: “We are excited to receive our first production NVIDIA Vera Ru | 2026-09-07T07:37:00.000Z | 30 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865657732337897) |
 | Tesla prepares 1,000 Cybercabs | 2026-09-09T06:16:00.000Z | 28 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569842102706604) |
 | SpaceX returns above $2 trillion | 2026-09-09T10:23:00.000Z | 28 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097632198967099767) |
+| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 28 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098170354678341984) |
 | JUST IN: Robinhood Chain $HOOD Total Tokenized Value surpasses $88,000,000 - Arbdata. | 2026-09-04T12:45:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855909612498984) |
 | Nvidia $NVDA CEO Jensen Huang just said: “AGI has arrived.” | 2026-09-07T00:42:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761201938375037) |
 | 75% of new Apple $AAPL CEO John Ternus' stock based compenation is tied to how Apple performs relati | 2026-09-07T00:44:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761601777086823) |
 | iPhone Duo starts at $1,999 | 2026-09-09T20:31:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097785187346338125) |
 | Apple introduces its first foldable iPhone | 2026-09-09T22:50:00.000Z | 27 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097820023805141266) |
 | Goodles: Barilla acquisition reported | 2026-09-03T08:22:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427314796704032) |
-| Pentagon in talks to lend roughly $5B to Fluidstack | 2026-09-10T22:02:00.000Z | 26 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098170354678341984) |
 | Microsoft $MSFT just confirmed that it will be changing the way it reports earnings Microsoft will r | 2026-09-04T06:44:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765047444377609) |
 | Nvidia CEO joins U.K. AI meeting guest list | 2026-09-08T05:48:00.000Z | 25 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097200367838900703) |
 | Apple reveals foldable iPhone Duo | 2026-09-09T19:32:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770249135530085) |
+| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 25 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 | Nancy Pelosi bought 15,000 shares and 200 call options on Bloom Energy $BE stock in July It was anno | 2026-09-06T12:41:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579642832597213) |
 | Hinge paid users rise as Tinder declines | 2026-09-07T06:53:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854447158964727) |
 | Meta's Muse ranks No. 3 among free apps | 2026-09-09T19:34:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097770760874135954) |
-| NVIDIA CEO calls cybersecurity the next major AI use case | 2026-09-10T16:20:00.000Z | 24 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098084400001105925) |
 | JUST IN: Following $MEME surging to over $100M , speculation is growing around $SHIT as the next to | 2026-09-05T12:44:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217926424772667) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834337249587625) |
 | Franklin ETF clients buy $1.55M of XRP | 2026-09-09T06:29:00.000Z | 23 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573139383472499) |
@@ -3515,6 +3523,7 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
+| Astra GPT 6 takes control of the Rallies AI portfolio | 2026-09-11T00:17:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098204457721123197) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
@@ -3624,6 +3633,7 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 | Robinhood Chain generates 17,171 ETH in revenue | 2026-09-09T06:10:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568335147962382) |
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
+| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 2 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -3631,15 +3641,18 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
+| IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
-| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098197615901024660) |
-| Astra GPT 6 takes control of the Rallies AI portfolio | 2026-09-11T00:17:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098204457721123197) |
-| IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098211892053610889) |
 
 ## 最近运行
 
+- `2026-09-11T01:06:03Z` **publish / succeeded** — Newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-11T07:00:00Z
+- `2026-09-11T01:03:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T01:02:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 1 new post(s).
+- `2026-09-11T01:01:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T01:00:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:47:54Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T00:46:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:46:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
@@ -3655,8 +3668,3 @@ $IGV gained 58.56% in 2023, 23.41% in 2024 and 5.56% in 2025 after falling 35.65
 - `2026-09-11T00:15:59Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:05:05Z` **publish / succeeded** — Postiz batch safely deferred the sole fresh package because the minimum accepted-submission interval was active; no task was accepted and no retry was made. minimum_interval; retryAt=2026-09-11T00:05:44Z
 - `2026-09-11T00:04:01Z` **produce / succeeded** — Produced the single newest fresh Astra GPT 6 package with inspected entity-led visual and exact-logo composite.
-- `2026-09-11T00:01:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T00:01:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 43 eligible originals and added 1 new post(s).
-- `2026-09-11T00:00:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T23:52:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T23:51:10Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
