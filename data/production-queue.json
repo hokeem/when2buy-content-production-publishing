@@ -1,41 +1,43 @@
 {
-  "generatedAt": "2026-09-11T14:16:38Z",
+  "generatedAt": "2026-09-11T14:33:44Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098409975974383854",
+      "benchmarkPostId": "2098417906161705470",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098409975974383854",
-      "originalText": "🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:\n\n- $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY",
-      "originalMediaUrls": [],
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098417906161705470",
+      "originalText": "The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center infrastructure forming a key part of the investment - CNBC https://t.co/4M0UiZThdr",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR8T8oYbYAAFPE7.jpg"
+      ],
       "archivedMedia": [],
       "engagement": {
-        "likes": 28,
-        "replies": 10,
-        "reposts": 1,
+        "likes": 15,
+        "replies": 7,
+        "reposts": 3,
         "quotes": 1,
-        "views": 8986
+        "views": 6700
       },
-      "postedAt": "Fri Sep 11 13:54:59 +0000 2026",
-      "score": 10056,
-      "heatScore": 10056,
+      "postedAt": "Fri Sep 11 14:26:30 +0000 2026",
+      "score": 7490,
+      "heatScore": 7490,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 1,
+        "when2buyFit": 0,
         "marketImpact": 5,
-        "visualPotential": 3,
+        "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 18,
+      "editorialScore": 19,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 21.7,
-        "expiresAt": "2026-09-11T15:24:59Z",
+        "ageMinutes": 7.2,
+        "expiresAt": "2026-09-11T15:56:30Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -44,8 +46,8 @@
       "rank": 2,
       "benchmarkPostId": "2098409025255748058",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260911-hassett-inflation-decelerating",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098409025255748058",
       "originalText": "🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:\n\n-  INFLATION CLEARLY DECELERATING OVER PAST 3 MONTHS, IF FED HIKES, TRUMP WILL HAVE AN OPINION I'M SURE",
       "originalMediaUrls": [],
@@ -71,7 +73,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 25.4,
+        "ageMinutes": 42.5,
         "expiresAt": "2026-09-11T15:21:12Z",
         "ttlMinutes": 90
       },
@@ -116,7 +118,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 28.7,
+        "ageMinutes": 45.8,
         "expiresAt": "2026-09-11T15:17:55Z",
         "ttlMinutes": 90
       },
@@ -161,7 +163,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 40.4,
+        "ageMinutes": 57.5,
         "expiresAt": "2026-09-11T15:06:16Z",
         "ttlMinutes": 90
       },
@@ -206,104 +208,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 70.2,
+        "ageMinutes": 87.3,
         "expiresAt": "2026-09-11T14:36:25Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098396894326063300",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098396894326063300",
-      "originalText": "JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8A2lBbYAASmyi.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8A2lBbYAASmyi.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098396894326063300-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 72,
-        "replies": 25,
-        "reposts": 10,
-        "quotes": 4,
-        "views": 16512
-      },
-      "postedAt": "Fri Sep 11 13:03:00 +0000 2026",
-      "score": 19692,
-      "heatScore": 19692,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 73.6,
-        "expiresAt": "2026-09-11T14:33:00Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 7,
-      "benchmarkPostId": "2098395364755706185",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098395364755706185",
-      "originalText": "JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR7_dShbgAE3YYE.jpg",
-        "https://pbs.twimg.com/media/HR7_dSAWkAo7m0S.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7_dShbgAE3YYE.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098395364755706185-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR7_dSAWkAo7m0S.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098395364755706185-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 90,
-        "replies": 37,
-        "reposts": 43,
-        "quotes": 4,
-        "views": 18959
-      },
-      "postedAt": "Fri Sep 11 12:56:55 +0000 2026",
-      "score": 24629,
-      "heatScore": 24629,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 79.7,
-        "expiresAt": "2026-09-11T14:26:55Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

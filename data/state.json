@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T14:19:43.235374+00:00",
+  "updatedAt": "2026-09-11T14:34:20.106171+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -16513,6 +16513,27 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098417906161705470",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098417906161705470",
+      "postedAt": "Fri Sep 11 14:26:30 +0000 2026",
+      "text": "The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center infrastructure forming a key part of the investment - CNBC https://t.co/4M0UiZThdr",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR8T8oYbYAAFPE7.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 7,
+        "reposts": 3,
+        "quotes": 1,
+        "views": 6700
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T14:31:55Z"
     }
   ],
   "radar": [
@@ -26450,6 +26471,25 @@
         "when2buyFit": 0,
         "marketImpact": 5,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098417906161705470",
+      "rank": 1,
+      "title": "The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center in…",
+      "benchmarkPostId": "2098417906161705470",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098417906161705470",
+      "score": 7490,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T14:33:44Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -38923,6 +38963,52 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T14:19:16Z",
       "publishedAt": "2026-09-11T14:18:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-hassett-inflation-decelerating",
+      "benchmarkPostId": "2098409025255748058",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098409025255748058",
+      "title": "Hassett says inflation is decelerating",
+      "status": "published",
+      "postText": "Hassett says inflation has clearly decelerated over the past 3 months.\n\nHe says if the Fed hikes, Trump will have an opinion.",
+      "mirroredFacts": [
+        "Kevin Hassett said inflation is clearly decelerating over the past three months.",
+        "Hassett said President Trump would have an opinion if the Fed hikes."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098409025255748058",
+        "https://www.axios.com/2026/09/11/cpi-august-inflation-trump",
+        "https://apnews.com/article/c76f53f7a53def0c464ca44ac637f203",
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      ],
+      "verificationStatus": "verified_authoritative_reporting",
+      "verificationNote": "Authoritative same-day reporting confirms the inflation and upcoming Fed-rate decision context; the package preserves Hassett's stated view as a statement, without presenting it as an established inflation fact.",
+      "imagePath": "deliverables/pkg-20260911-hassett-inflation-decelerating/when2buy-image-model.png",
+      "createdAt": "2026-09-11T14:33:24.648714+00:00",
+      "sourceExpiresAt": "2026-09-11T15:21:12Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Complete 1:1 entity-led editorial visual about White House economic adviser Kevin Hassett discussing slowing inflation and pressure around a possible Federal Reserve rate hike: dark White House briefing-room atmosphere blended with the Federal Reserve building and a clean abstract three-month inflation trend line, cinematic premium financial-news illustration, near-black graphite base, white highlights, restrained red rate-pressure accents, no generated text or branding, clear typography-safe space, exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T14:33:24.648759+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete White House, Federal Reserve, adviser, and inflation-trend entity scene",
+            "exact repository logo composited once",
+            "visible numbers and labels proofread",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card"
+          ]
+        }
+      },
+      "postizPostId": "cmtx244f90wqiqk0yu95ylqoz",
+      "postizSubmissionAt": "2026-09-11T14:33:53Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T14:34:20Z",
+      "publishedAt": "2026-09-11T14:33:00.000Z"
     }
   ],
   "posts": [
@@ -43143,6 +43229,24 @@
         "lastAttemptAt": "2026-09-11T14:19:42.841374Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098419869192753392",
+      "packageId": "pkg-20260911-hassett-inflation-decelerating",
+      "title": "Hassett says inflation is decelerating",
+      "text": "Hassett says inflation has clearly decelerated over the past 3 months.\n\nHe says if the Fed hikes, Trump will have an opinion.",
+      "status": "published",
+      "publishedAt": "2026-09-11T14:33:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098419869192753392",
+      "postizPostId": "cmtx244f90wqiqk0yu95ylqoz",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T14:33:00.000Z",
+        "windowEnd": "2026-09-14T14:33:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -334578,6 +334682,66 @@
       "status": "succeeded",
       "startedAt": "2026-09-11T14:19:16Z",
       "completedAt": "2026-09-11T14:19:16Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T143114Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:31:14Z",
+      "completedAt": "2026-09-11T14:31:14Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T143155Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:31:55Z",
+      "completedAt": "2026-09-11T14:31:55Z",
+      "summary": "Apify scanned both benchmark accounts; captured 19 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T143308Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:33:08.864285+00:00",
+      "completedAt": "2026-09-11T14:33:08.864285+00:00",
+      "summary": "Produced one newest fresh Hassett/Fed package with a complete entity-led square image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-hassett-inflation-decelerating"
+    },
+    {
+      "id": "run-20260911T143324Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:33:24.648879+00:00",
+      "completedAt": "2026-09-11T14:33:24.648879+00:00",
+      "summary": "Produced one newest fresh Hassett/Fed package with a complete entity-led square image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260911-hassett-inflation-decelerating"
+    },
+    {
+      "id": "run-20260911T143344Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:33:44Z",
+      "completedAt": "2026-09-11T14:33:44Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T143420Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T14:34:20Z",
+      "completedAt": "2026-09-11T14:34:20Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

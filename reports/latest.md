@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T14:19:43.235374+00:00`
+- 状态更新：`2026-09-11T14:34:20.106171+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**599**
-- 待选选题：**523**
+- 对标帖子快照：**600**
+- 待选选题：**524**
 - 待发布制作包：**1**
-- 已验证发布：**228**
+- 已验证发布：**229**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 14:26:30 +0000 2026 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center infrastructure forming a key part of the investment - CNBC https://t.co/4M0UiZThdr | [X](https://x.com/StockMKTNewz/status/2098417906161705470) |
 | @StockMKTNewz | Fri Sep 11 13:36:16 +0000 2026 | JUST IN:  Leopold Aschenbrenner's Situation Awareness has reportedly been active in the options market and has been buying "significant" stakes in names like   CoreWeave $CRWV  Sandisk $SNDK  Bloom Energy $BE  $AMD https://t.co/kkEYNHriBM | [X](https://x.com/StockMKTNewz/status/2098405267708805502) |
 | @StockMKTNewz | Fri Sep 11 13:47:55 +0000 2026 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | [X](https://x.com/StockMKTNewz/status/2098408199590171112) |
 | @StockMKTNewz | Fri Sep 11 13:51:12 +0000 2026 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:  -  INFLATION CLEARLY DECELERATING OVER PAST 3 MONTHS, IF FED HIKES, TRUMP WILL HAVE AN OPINION I'M SURE | [X](https://x.com/StockMKTNewz/status/2098409025255748058) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 07:13:35 +0000 2026 | JUST IN: Franklin ETF clients buy $5.14 million worth of $XRP. https://t.co/j3Qv39DNRt | [X](https://x.com/WhaleInsider/status/2098308959945855348) |
 | @WhaleInsider | Fri Sep 11 06:10:21 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $282.56 million. https://t.co/HjZyvxz1lF | [X](https://x.com/WhaleInsider/status/2098293048258031651) |
 | @StockMKTNewz | Fri Sep 11 00:51:51 +0000 2026 | OpenAI is considering slowing down the development of cutting-edge artificial intelligence  In a companywide meeting this week, Altman told employees that OpenAI could potentially pace its AI development, perhaps in conjunction with several other AI labs, but that some may not agree to do so - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098212894085091480) |
-| @StockMKTNewz | Fri Sep 11 00:25:29 +0000 2026 | This is how the Software sector ETF $IGV has performed each full year since 2002:  2002: -44.69% 🔴 2003: +50.02% 🟢 2004: +13.50% 🟢 2005: -5.53% 🔴 2006: +10.76% 🟢 2007: +15.75% 🟢 2008: -38.43% 🔴 2009: +47.53% 🟢 2010: +24.64% 🟢 2011: -7.32% 🔴 2012: +16.77% 🟢 2013: +30.68% 🟢 2014: +13.42% 🟢 2015: +12.12% 🟢 2016: +5.80% 🟢 2017: +42.15% 🟢 2018: +12.45% 🟢 2019: +34.33% 🟢 2020: +52.87% 🟢 2021: +12.30% 🟢 2022: -35.65% 🔴 2023: +58.56% 🟢 2024: +23.41% 🟢 2025: +5.56% 🟢 so far in 2026: -4.64% 🔴 | [X](https://x.com/StockMKTNewz/status/2098206257559585000) |
 
 ## 选题推荐
 
@@ -220,6 +220,7 @@
 | 1 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY Micron $MU said it … | StockMKTNewz | 12616 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The 🇺🇸 stock market is back open and is starting out trading today Green 🟢🟢🟢🟢 https://t.co/l… | StockMKTNewz | 1296 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID: - $5,000 CHECKS CAN BE COMBINED WITH FISC… | StockMKTNewz | 10056 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center in… | StockMKTNewz | 7490 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3533,6 +3534,13 @@ U.S. stocks are back open for trading today and are starting out green.
 
 $5,000 checks can be combined with fiscal responsibility.
 
+### Hassett says inflation is decelerating
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-hassett-inflation-decelerating/when2buy-image-model.png`
+
+Hassett says inflation has clearly decelerated over the past 3 months.  He says if the Fed hikes, Trump will have an opinion.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3766,9 +3774,16 @@ $5,000 checks can be combined with fiscal responsibility.
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
+| Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098419869192753392) |
 
 ## 最近运行
 
+- `2026-09-11T14:34:20Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T14:33:44Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T14:33:24.648879+00:00` **produce / succeeded** — Produced one newest fresh Hassett/Fed package with a complete entity-led square image and exact-logo composite.
+- `2026-09-11T14:33:08.864285+00:00` **produce / succeeded** — Produced one newest fresh Hassett/Fed package with a complete entity-led square image and exact-logo composite.
+- `2026-09-11T14:31:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 1 new post(s).
+- `2026-09-11T14:31:14Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:19:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T14:18:24.414544+00:00` **produce / succeeded** — Produced one newest fresh Hassett checks package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T14:17:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
@@ -3783,9 +3798,3 @@ $5,000 checks can be combined with fiscal responsibility.
 - `2026-09-11T13:45:00Z` **full / succeeded** — Freshness-first run collected/reconciled benchmark data, rebuilt the hard-TTL queue, produced one newest eligible package, and verified one Postiz publication with a public X URL.
 - `2026-09-11T13:50:03Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T13:46:49Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T13:34:39.923567+00:00` **full / succeeded** — Newest Micron package was safely deferred because the minimum Postiz submission interval was active. minimum_interval
-- `2026-09-11T13:34:09.257271+00:00` **produce / succeeded** — Produced the newest fresh Micron benchmark package with one complete entity-led square image and one exact-logo composite.
-- `2026-09-11T13:31:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 1 new post(s).
-- `2026-09-11T13:31:43Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T13:30:58Z` **queue / succeeded** — Prepared 8 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T13:19:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
