@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T21:21:08.555711+00:00",
+  "updatedAt": "2026-09-11T21:33:13.597480+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -365425,6 +365425,48 @@
       "completedAt": "2026-09-11T21:21:08Z",
       "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T213031Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:30:31Z",
+      "completedAt": "2026-09-11T21:30:31Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T213149Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:31:49Z",
+      "completedAt": "2026-09-11T21:31:49Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T213204Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:32:04Z",
+      "completedAt": "2026-09-11T21:32:04Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T213313Z-publish-deferred",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T21:33:13Z",
+      "completedAt": "2026-09-11T21:33:13Z",
+      "summary": "Newest fresh JPMorgan package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active.",
+      "reason": "minimum_interval; retryAt=2026-09-11T21:34:32Z",
+      "selectedPackageId": "pkg-20260911-jpmorgan-situational-awareness-lending",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
