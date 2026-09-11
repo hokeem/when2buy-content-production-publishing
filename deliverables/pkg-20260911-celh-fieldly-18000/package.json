@@ -1,0 +1,24 @@
+{
+  "id": "pkg-20260911-celh-fieldly-18000",
+  "benchmarkPostId": "2098424336709193934",
+  "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098424336709193934",
+  "title": "Celsius CEO discloses 18,000-share purchase",
+  "status": "ready",
+  "postText": "Celsius CEO John Fieldly just bought 18,000 $CELH shares at an average price of $27.44.",
+  "mirroredFacts": [
+    "Celsius Holdings CEO John Fieldly purchased 18,000 common shares on September 10, 2026.",
+    "The SEC Form 4 reports a weighted-average purchase price of $27.4357 per share, rounded to $27.44."
+  ],
+  "verificationSources": [
+    "https://www.sec.gov/Archives/edgar/data/1341766/000162828026061406/xslF345X06/wk-form4_1789074204.xml",
+    "https://x.com/StockMKTNewz/status/2098424336709193934"
+  ],
+  "imagePath": "deliverables/pkg-20260911-celh-fieldly-18000/when2buy-image-model.png",
+  "createdAt": "2026-09-11T15:20:00Z",
+  "visualProduction": {
+    "method": "image_model",
+    "prompt": "Square entity-led Celsius energy drink and stock-terminal scene with a Form 4 document, CELH ticker, 18,000 shares, near-black financial-news palette, white type, controlled red accents, and clear logo-safe space; generated without the when2buy logo, then exact repository logo composited once.",
+    "logoApplied": true,
+    "qaStatus": "passed"
+  }
+}

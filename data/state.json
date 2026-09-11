@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T15:07:06.524285+00:00",
+  "updatedAt": "2026-09-11T15:20:24.743996+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -39253,6 +39253,69 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T15:06:25Z",
       "publishedAt": "2026-09-11T15:05:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-apple-samsung-foldable-display-cost",
+      "benchmarkPostId": "2098372040822554995",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098372040822554995",
+      "title": "Apple iPhone Duo display cost",
+      "status": "ready",
+      "postText": "Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $250 per phone.",
+      "mirroredFacts": [
+        "Apple announced the iPhone Duo foldable phone.",
+        "Samsung Display is reported to supply its foldable OLED panel.",
+        "The panel is reportedly about $250 per phone."
+      ],
+      "verificationSources": [
+        "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+        "https://www.macrumors.com/2026/09/09/apple-announces-foldable-iphone-duo/",
+        "https://www.ainvest.com/news/apple-iphone-duo-2-000-bet-category-scaled-2609/"
+      ],
+      "imagePath": "deliverables/pkg-20260911-apple-samsung-foldable-display-cost/when2buy-image-model.png",
+      "createdAt": "2026-09-11T15:17:37.168732+00:00",
+      "sourceExpiresAt": "2026-09-11T12:54:15Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square 1:1 premium entity-led editorial visual: a complete foldable smartphone and precision flexible-OLED display manufacturing assembly, near-black base, white rim light, restrained red accents, no readable generated text or branding, clean typography and logo-safe space, exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T15:17:37.168732+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254",
+            "complete foldable-phone and display-fabrication entity scene",
+            "exact repository logo composited once",
+            "factual typography proofread",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260911-celh-fieldly-18000",
+      "benchmarkPostId": "2098424336709193934",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098424336709193934",
+      "title": "Celsius CEO discloses 18,000-share purchase",
+      "status": "ready",
+      "postText": "Celsius CEO John Fieldly just bought 18,000 $CELH shares at an average price of $27.44.",
+      "mirroredFacts": [
+        "Celsius Holdings CEO John Fieldly purchased 18,000 common shares on September 10, 2026.",
+        "The SEC Form 4 reports a weighted-average purchase price of $27.4357 per share, rounded to $27.44."
+      ],
+      "verificationSources": [
+        "https://www.sec.gov/Archives/edgar/data/1341766/000162828026061406/xslF345X06/wk-form4_1789074204.xml",
+        "https://x.com/StockMKTNewz/status/2098424336709193934"
+      ],
+      "imagePath": "deliverables/pkg-20260911-celh-fieldly-18000/when2buy-image-model.png",
+      "createdAt": "2026-09-11T15:20:00Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square entity-led Celsius energy drink and stock-terminal scene with a Form 4 document, CELH ticker, 18,000 shares, near-black financial-news palette, white type, controlled red accents, and clear logo-safe space; generated without the when2buy logo, then exact repository logo composited once.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      }
     }
   ],
   "posts": [
@@ -338721,6 +338784,35 @@
       "completedAt": "2026-09-11T15:06:25Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T151720Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T15:17:20Z",
+      "completedAt": "2026-09-11T15:17:20Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T151737Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T15:17:37.168732+00:00",
+      "completedAt": "2026-09-11T15:17:37.168732+00:00",
+      "summary": "Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T152024Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T15:20:24Z",
+      "completedAt": "2026-09-11T15:20:24Z",
+      "summary": "Fresh Celsius package was safely deferred because the minimum interval between accepted Postiz submissions had not elapsed; the ready package remains recoverable for the next eligible cycle.",
+      "reason": "minimum_interval; retryAt=2026-09-11T15:20:25Z",
+      "packageId": "pkg-20260911-celh-fieldly-18000",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T15:07:06.524285+00:00`
+- 状态更新：`2026-09-11T15:20:24.743996+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**603**
 - 待选选题：**527**
-- 待发布制作包：**1**
+- 待发布制作包：**3**
 - 已验证发布：**230**
 
 ## 对标账号扫描
@@ -3558,6 +3558,20 @@ ETH is up more than 7.5% over the past 24 hours.
 
 UK House of Lords backs an amendment requiring a national digital-asset strategy.  The measure would cover cryptoassets, stablecoins and tokenized securities.
 
+### Apple iPhone Duo display cost
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-apple-samsung-foldable-display-cost/when2buy-image-model.png`
+
+Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $250 per phone.
+
+### Celsius CEO discloses 18,000-share purchase
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-celh-fieldly-18000/when2buy-image-model.png`
+
+Celsius CEO John Fieldly just bought 18,000 $CELH shares at an average price of $27.44.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3796,6 +3810,9 @@ UK House of Lords backs an amendment requiring a national digital-asset strategy
 
 ## 最近运行
 
+- `2026-09-11T15:20:24Z` **full / succeeded** — Fresh Celsius package was safely deferred because the minimum interval between accepted Postiz submissions had not elapsed; the ready package remains recoverable for the next eligible cycle. minimum_interval; retryAt=2026-09-11T15:20:25Z
+- `2026-09-11T15:17:37.168732+00:00` **produce / succeeded** — Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.
+- `2026-09-11T15:17:20Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T15:06:25Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T15:04:26.797495Z` **produce / succeeded** — Produced one newest fresh UK digital-asset strategy package with generated entity visual and exact-logo composite.
 - `2026-09-11T15:01:48Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3813,6 +3830,3 @@ UK House of Lords backs an amendment requiring a national digital-asset strategy
 - `2026-09-11T14:31:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 1 new post(s).
 - `2026-09-11T14:31:14Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T14:19:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T14:18:24.414544+00:00` **produce / succeeded** — Produced one newest fresh Hassett checks package with an inspected entity-led image and exact-logo composite.
-- `2026-09-11T14:17:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
-- `2026-09-11T14:16:38Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).

@@ -1,61 +1,10 @@
 {
-  "generatedAt": "2026-09-11T15:01:48Z",
+  "generatedAt": "2026-09-11T15:17:20Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098425142598566035",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098425142598566035",
-      "originalText": "JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryptocurrency strategy. https://t.co/woYDTwUhWT",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8aitwbUAI2Fhm.jpg",
-        "https://pbs.twimg.com/media/HR8aithaIAAc7Vk.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8aitwbUAI2Fhm.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098425142598566035-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8aithaIAAc7Vk.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098425142598566035-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 125,
-        "replies": 18,
-        "reposts": 5,
-        "quotes": 2,
-        "views": 12266
-      },
-      "postedAt": "Fri Sep 11 14:55:15 +0000 2026",
-      "score": 15856,
-      "heatScore": 15856,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 15,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 6.6,
-        "expiresAt": "2026-09-11T16:25:15Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2098424336709193934",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -99,14 +48,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 9.8,
+        "ageMinutes": 25.3,
         "expiresAt": "2026-09-11T16:22:03Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "benchmarkPostId": "2098419313346576672",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-eth-75-percent-move",
@@ -150,14 +99,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 29.7,
+        "ageMinutes": 45.3,
         "expiresAt": "2026-09-11T16:02:05Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 3,
       "benchmarkPostId": "2098417906161705470",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -195,14 +144,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 35.3,
+        "ageMinutes": 50.8,
         "expiresAt": "2026-09-11T15:56:30Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 5,
+      "rank": 4,
       "benchmarkPostId": "2098408199590171112",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -240,53 +189,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 73.9,
+        "ageMinutes": 89.4,
         "expiresAt": "2026-09-11T15:17:55Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 6,
-      "benchmarkPostId": "2098405267708805502",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098405267708805502",
-      "originalText": "JUST IN:\n\nLeopold Aschenbrenner's Situation Awareness has reportedly been active in the options market and has been buying \"significant\" stakes in names like \n\nCoreWeave $CRWV \nSandisk $SNDK \nBloom Energy $BE \n$AMD https://t.co/kkEYNHriBM",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8IYpZa8AARD5W.png"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8IYpZa8AARD5W.png",
-          "path": "output/benchmark-media/StockMKTNewz/2098405267708805502-1.png",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 125,
-        "replies": 26,
-        "reposts": 5,
-        "quotes": 9,
-        "views": 28143
-      },
-      "postedAt": "Fri Sep 11 13:36:16 +0000 2026",
-      "score": 32473,
-      "heatScore": 32473,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 85.5,
-        "expiresAt": "2026-09-11T15:06:16Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
