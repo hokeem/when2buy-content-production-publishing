@@ -1,36 +1,31 @@
 {
-  "generatedAt": "2026-09-11T17:45:29Z",
+  "generatedAt": "2026-09-11T18:02:23Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098448408344186893",
+      "benchmarkPostId": "2098466092888764797",
       "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260911-ossi-ketola-duel-million",
-      "packageStatus": "blocked",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098448408344186893",
-      "originalText": "JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of the biggest heads-up poker game ever. https://t.co/uGHb9iMHAh",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098466092888764797",
+      "originalText": "JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme coin could be the next PEPE. https://t.co/asWjWGss6R",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2098448313993601024/img/e5vgAeLeh7IkeCe4.jpg"
+        "https://pbs.twimg.com/media/HR8_yX5XkAIY-D6.jpg",
+        "https://pbs.twimg.com/media/HR8_yYkawAAboQj.jpg"
       ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098448313993601024/img/e5vgAeLeh7IkeCe4.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098448408344186893-1.jpg",
-          "status": "archived"
-        }
-      ],
+      "archivedMedia": [],
       "engagement": {
-        "likes": 14,
-        "replies": 14,
-        "reposts": 5,
-        "quotes": 0,
-        "views": 10726
+        "likes": 33,
+        "replies": 20,
+        "reposts": 9,
+        "quotes": 2,
+        "views": 13392
       },
-      "postedAt": "Fri Sep 11 16:27:42 +0000 2026",
-      "score": 11816,
-      "heatScore": 11816,
+      "postedAt": "Fri Sep 11 17:37:58 +0000 2026",
+      "score": 15422,
+      "heatScore": 15422,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
@@ -42,8 +37,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 77.8,
-        "expiresAt": "2026-09-11T17:57:42Z",
+        "ageMinutes": 24.4,
+        "expiresAt": "2026-09-11T19:07:58Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T17:45:29.829875+00:00`
+- 状态更新：`2026-09-11T18:06:17.898928+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**611**
-- 待选选题：**535**
+- 对标帖子快照：**613**
+- 待选选题：**536**
 - 待发布制作包：**0**
-- 已验证发布：**234**
+- 已验证发布：**235**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 17:51:27 +0000 2026 | JUST IN: @MetaWin player turns $5 into $25,430.  Unlike other casinos, every win that MetaWin promotes is by a real player.  They have a $1M airdrop going out this month to players.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/QNElpQ5icx | [X](https://x.com/WhaleInsider/status/2098469483350295001) |
+| @WhaleInsider | Fri Sep 11 17:37:58 +0000 2026 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme coin could be the next PEPE. https://t.co/asWjWGss6R | [X](https://x.com/WhaleInsider/status/2098466092888764797) |
 | @StockMKTNewz | Fri Sep 11 16:50:25 +0000 2026 | If I gave you $420,000 but said you have to invest the money by the end of today and can't touch it until 2036   What would you do? | [X](https://x.com/StockMKTNewz/status/2098454124006142064) |
 | @WhaleInsider | Fri Sep 11 16:50:37 +0000 2026 | JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto market structure even if CLARITY Act fails. https://t.co/AGBEypHeWM | [X](https://x.com/WhaleInsider/status/2098454174077792679) |
 | @WhaleInsider | Fri Sep 11 16:27:42 +0000 2026 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of the biggest heads-up poker game ever. https://t.co/uGHb9iMHAh | [X](https://x.com/WhaleInsider/status/2098448408344186893) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 11:41:47 +0000 2026 | $OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK | [X](https://x.com/StockMKTNewz/status/2098376454073438400) |
 | @StockMKTNewz | Fri Sep 11 11:47:34 +0000 2026 | The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO | [X](https://x.com/StockMKTNewz/status/2098377908536365082) |
 | @StockMKTNewz | Fri Sep 11 11:56:51 +0000 2026 | The meme coin is now down by 99% in just 2 days | [X](https://x.com/StockMKTNewz/status/2098380246059782301) |
-| @StockMKTNewz | Fri Sep 11 12:11:00 +0000 2026 | The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC https://t.co/kMyU0ZDU9G | [X](https://x.com/StockMKTNewz/status/2098383808324096072) |
-| @WhaleInsider | Fri Sep 11 11:16:08 +0000 2026 | JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral trade payments - Sberbank CEO Herman Gref. https://t.co/H4T6eqo3mp | [X](https://x.com/WhaleInsider/status/2098369999073149003) |
 
 ## 选题推荐
 
@@ -228,6 +228,7 @@
 | 1 | Tesla $TSLA posted this today "Semi is coming to Europe" https://t.co/gkB2qs7uUb | StockMKTNewz | 8663 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of… | WhaleInsider | 11816 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto mar… | WhaleInsider | 16771 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme co… | WhaleInsider | 15422 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3603,7 +3604,7 @@ Tesla says its Semi is coming to Europe.
 
 ### Ossi Ketola reportedly wins $1M first hand
 
-- 状态：`blocked`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-ossi-ketola-duel-million/when2buy-image.png`
 
 Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the first hand of the biggest heads-up poker game ever.
@@ -3628,6 +3629,13 @@ Coinbase's U.S. policy team says regulators will keep advancing crypto market-st
 - 配图：`deliverables/pkg-20260911-invest-420k-2036/when2buy-image.png`
 
 A $420,000 investment locked until 2036 creates a 10-year horizon.
+
+### PENPE rallies 143% in 24 hours
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-penpe-143pct/when2buy-image.png`
+
+PENPE rallies 143% in the past 24 hours.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3775,12 +3783,12 @@ A $420,000 investment locked until 2036 creates a 10-year horizon.
 | ChatGPT Work adds writing-style awareness | 2026-09-08T02:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097144732816474500) |
 | Bitcoin ETFs take in $46.65M | 2026-09-09T05:49:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097563223033843954) |
 | Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
+| Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098458731663245381) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
-| Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098458731663245381) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3795,6 +3803,8 @@ A $420,000 investment locked until 2036 creates a 10-year horizon.
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 7 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
+| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
+| Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3828,8 +3838,6 @@ A $420,000 investment locked until 2036 creates a 10-year horizon.
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
-| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
-| Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -3867,10 +3875,17 @@ A $420,000 investment locked until 2036 creates a 10-year horizon.
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
-| $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098464949123305478) |
+| $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
+| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098473162690420849) |
 
 ## 最近运行
 
+- `2026-09-11T18:06:17Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T18:05:15.998703+00:00` **produce / succeeded** — Produced one newest fresh PENPE package with entity-led image and exact-logo composite.
+- `2026-09-11T18:02:23Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T18:01:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
+- `2026-09-11T18:00:44Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-11T17:47:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 121 eligible originals and added 1 new post(s).
 - `2026-09-11T17:45:29Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T17:33:30Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T17:31:26Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3885,9 +3900,3 @@ A $420,000 investment locked until 2036 creates a 10-year horizon.
 - `2026-09-11T17:01:43Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T17:01:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
 - `2026-09-11T17:00:36Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T16:49:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T16:49:04Z` **produce / succeeded** — Produced one newest fresh Dell all-time-high package with complete entity-led square visual and exact-logo composite.
-- `2026-09-11T16:47:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
-- `2026-09-11T16:47:11Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T16:47:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
-- `2026-09-11T16:45:41Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
