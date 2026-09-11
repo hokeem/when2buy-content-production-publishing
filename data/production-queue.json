@@ -1,61 +1,100 @@
 {
-  "generatedAt": "2026-09-11T20:18:05Z",
+  "generatedAt": "2026-09-11T20:32:31Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098499407008199000",
+      "benchmarkPostId": "2098509506690871689",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098499407008199000",
-      "originalText": "JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults \"will happen.\" https://t.co/yvLyzeWyXF",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098509506690871689",
+      "originalText": "JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get unique NFT airdrops. Phase 2: 1% supply raffled to top holders + Tier-1 CEX listing. Phase 3: CatRobinHat launchpad. https://t.co/E7gQ07yAqi",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR9eFb1aQAASG8x.jpg",
-        "https://pbs.twimg.com/media/HR9eFcBaMAA6IrG.jpg"
+        "https://pbs.twimg.com/media/HR9nRRHX0AcQBe9.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HR9eFb1aQAASG8x.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098499407008199000-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR9eFcBaMAA6IrG.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098499407008199000-2.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HR9nRRHX0AcQBe9.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098509506690871689-1.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 60,
-        "replies": 29,
-        "reposts": 13,
-        "quotes": 4,
-        "views": 14179
+        "likes": 7,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7200
       },
-      "postedAt": "Fri Sep 11 19:50:21 +0000 2026",
-      "score": 17429,
-      "heatScore": 17429,
+      "postedAt": "Fri Sep 11 20:30:29 +0000 2026",
+      "score": 7430,
+      "heatScore": 7430,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
         "factualClarity": 4
       },
-      "editorialScore": 17,
+      "editorialScore": 18,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 27.7,
-        "expiresAt": "2026-09-11T21:20:21Z",
+        "ageMinutes": 2.0,
+        "expiresAt": "2026-09-11T22:00:29Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
       "rank": 2,
+      "benchmarkPostId": "2098507615315648591",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098507615315648591",
+      "originalText": "A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees\n\nAnthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HR9lgmyaoAAP5uz.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9lgmyaoAAP5uz.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098507615315648591-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 14,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7793
+      },
+      "postedAt": "Fri Sep 11 20:22:58 +0000 2026",
+      "score": 8323,
+      "heatScore": 8323,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 9.6,
+        "expiresAt": "2026-09-11T21:52:58Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
       "benchmarkPostId": "2098490691844206770",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-citi-fed-rate-hike-next-week",
@@ -99,14 +138,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 62.4,
+        "ageMinutes": 76.8,
         "expiresAt": "2026-09-11T20:45:43Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098490133007753576",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -144,14 +183,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 64.6,
+        "ageMinutes": 79.0,
         "expiresAt": "2026-09-11T20:43:30Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "benchmarkPostId": "2098489144276123754",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -181,45 +220,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 68.5,
+        "ageMinutes": 83.0,
         "expiresAt": "2026-09-11T20:39:34Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2098486176764056032",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-invesco-etfs-outperform-qqq",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098486176764056032",
-      "originalText": "Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026 \n\nThere are 49 names on the list below, more than I would have though",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 5,
-        "replies": 4,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 6259
-      },
-      "postedAt": "Fri Sep 11 18:57:47 +0000 2026",
-      "score": 6569,
-      "heatScore": 6569,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 17,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 80.3,
-        "expiresAt": "2026-09-11T20:27:47Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

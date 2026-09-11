@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T20:21:26.136084+00:00`
+- 状态更新：`2026-09-11T20:35:10.569535+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**623**
-- 待选选题：**546**
+- 对标帖子快照：**625**
+- 待选选题：**548**
 - 待发布制作包：**2**
 - 已验证发布：**239**
 
@@ -11,6 +11,8 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 20:22:58 +0000 2026 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees  Anthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ | [X](https://x.com/StockMKTNewz/status/2098507615315648591) |
+| @WhaleInsider | Fri Sep 11 20:30:29 +0000 2026 | JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get unique NFT airdrops. Phase 2: 1% supply raffled to top holders + Tier-1 CEX listing. Phase 3: CatRobinHat launchpad. https://t.co/E7gQ07yAqi | [X](https://x.com/WhaleInsider/status/2098509506690871689) |
 | @WhaleInsider | Fri Sep 11 19:50:21 +0000 2026 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." https://t.co/yvLyzeWyXF | [X](https://x.com/WhaleInsider/status/2098499407008199000) |
 | @StockMKTNewz | Fri Sep 11 19:52:24 +0000 2026 | US GOVERNMENT BUDGET UPDATE  The federal budget deficit hit $1.97 trillion for the first 11 months of the fiscal year  Spending for fiscal 2026 to date totaled $6.81 trillion, up 3% YoY, while revenues were $4.85 trillion, also 3% YoY. The US Government's fiscal year ends in September - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098499922106384614) |
 | @StockMKTNewz | Fri Sep 11 19:23:08 +0000 2026 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking relationship with Clear Street - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098492555679662501) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 13:47:55 +0000 2026 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | [X](https://x.com/StockMKTNewz/status/2098408199590171112) |
 | @StockMKTNewz | Fri Sep 11 13:51:12 +0000 2026 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:  -  INFLATION CLEARLY DECELERATING OVER PAST 3 MONTHS, IF FED HIKES, TRUMP WILL HAVE AN OPINION I'M SURE | [X](https://x.com/StockMKTNewz/status/2098409025255748058) |
 | @StockMKTNewz | Fri Sep 11 13:54:59 +0000 2026 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:  - $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY | [X](https://x.com/StockMKTNewz/status/2098409975974383854) |
-| @StockMKTNewz | Fri Sep 11 13:31:25 +0000 2026 | The 🇺🇸 stock market is back open and is starting out trading today Green   🟢🟢🟢🟢 https://t.co/lnFHqpUKQM | [X](https://x.com/StockMKTNewz/status/2098404045580915007) |
-| @WhaleInsider | Fri Sep 11 12:56:55 +0000 2026 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club | [X](https://x.com/WhaleInsider/status/2098395364755706185) |
 
 ## 选题推荐
 
@@ -235,6 +235,7 @@
 | 1 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/… | WhaleInsider | 5717 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking r… | StockMKTNewz | 10344 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | US GOVERNMENT BUDGET UPDATE The federal budget deficit hit $1.97 trillion for the first 11 m… | StockMKTNewz | 8375 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get … | WhaleInsider | 7430 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -318,6 +319,7 @@
 | 2 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | WhaleInsider | 16027 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults w… | StockMKTNewz | 7318 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." http… | WhaleInsider | 17429 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth f… | StockMKTNewz | 8323 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3663,7 +3665,7 @@ JPMorgan now sees two Fed rate hikes in 2026.
 
 ### 49 Invesco ETFs outperforming QQQ in 2026
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-invesco-etfs-outperform-qqq/when2buy-image.png`
 
 Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.  The list includes 49 funds.
@@ -3695,6 +3697,13 @@ $1.97T U.S. federal budget deficit through the first 11 months of FY2026.  Spend
 - 配图：`deliverables/pkg-20260911-trump-5000-dividend/when2buy-image.png`
 
 Trump says a proposed $5,000 dividend for every U.S. adult will happen.
+
+### Anthropic employee wealth advisors
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-anthropic-employee-advisors/when2buy-image-model.png`
+
+Major banks are in talks with Anthropic to help manage its employees’ expected windfalls.  Anthropic plans to assemble a list of advisors to help employees navigate the anticipated wealth.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3943,6 +3952,12 @@ Trump says a proposed $5,000 dividend for every U.S. adult will happen.
 
 ## 最近运行
 
+- `2026-09-11T20:35:10Z` **publish / succeeded** — Newest fresh Anthropic advisors package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T20:35:28Z
+- `2026-09-11T20:34:21.197975+00:00` **produce / succeeded** — Produced one newest fresh non-promotional Anthropic advisors package with a complete entity-led image and exact-logo composite. Skipped newer promotional crypto launch item per editorial rules.
+- `2026-09-11T20:32:31Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T20:32:20Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T20:32:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 124 eligible originals and added 2 new post(s).
+- `2026-09-11T20:30:36Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T20:20:55Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T20:20:16.279929Z` **produce / succeeded** — Produced the single newest fresh Trump Dividend package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-11T20:18:05Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3957,9 +3972,3 @@ Trump says a proposed $5,000 dividend for every U.S. adult will happen.
 - `2026-09-11T19:47:06Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T19:45:40Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T19:33:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T19:33:19Z` **produce / succeeded** — Produced one newest fresh Situational Awareness package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-11T19:31:48Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T19:31:38Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T19:31:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
-- `2026-09-11T19:21:30Z` **full / succeeded** — Newest Citi/Fed package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T19:32:02Z
-- `2026-09-11T19:20:38Z` **produce / succeeded** — Produced one newest fresh Citi/Fed rate-hike package with an inspected entity-led image and exact-logo composite.

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T20:21:26.136084+00:00",
+  "updatedAt": "2026-09-11T20:35:10.569535+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17191,6 +17191,62 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098509506690871689",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098509506690871689",
+      "postedAt": "Fri Sep 11 20:30:29 +0000 2026",
+      "text": "JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get unique NFT airdrops. Phase 2: 1% supply raffled to top holders + Tier-1 CEX listing. Phase 3: CatRobinHat launchpad. https://t.co/E7gQ07yAqi",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR9nRRHX0AcQBe9.jpg"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7200
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T20:32:13Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9nRRHX0AcQBe9.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098509506690871689-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098507615315648591",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098507615315648591",
+      "postedAt": "Fri Sep 11 20:22:58 +0000 2026",
+      "text": "A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees\n\nAnthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR9lgmyaoAAP5uz.jpg"
+      ],
+      "engagement": {
+        "likes": 14,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 7793
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T20:32:13Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9lgmyaoAAP5uz.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098507615315648591-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -27566,6 +27622,44 @@
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098509506690871689",
+      "rank": 1,
+      "title": "JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get …",
+      "benchmarkPostId": "2098509506690871689",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098509506690871689",
+      "score": 7430,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T20:32:20Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098507615315648591",
+      "rank": 2,
+      "title": "A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth f…",
+      "benchmarkPostId": "2098507615315648591",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098507615315648591",
+      "score": 8323,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T20:32:20Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -40645,7 +40739,7 @@
       "benchmarkPostId": "2098486176764056032",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098486176764056032",
       "title": "49 Invesco ETFs outperforming QQQ in 2026",
-      "status": "ready",
+      "status": "expired",
       "postText": "Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.\n\nThe list includes 49 funds.",
       "mirroredFacts": [
         "The benchmark says 49 Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.",
@@ -40664,7 +40758,10 @@
         "logoApplied": true,
         "qaStatus": "passed",
         "qaNotes": "Inspected generated base and final composite; square 1:1, entity-led, requested text only, exact logo once."
-      }
+      },
+      "expiredAt": "2026-09-11T20:30:32Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-11T20:27:47Z"
     },
     {
       "id": "pkg-20260911-citi-fed-rate-hike-next-week",
@@ -40828,6 +40925,40 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T20:20:55Z",
       "publishedAt": "2026-09-11T20:20:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-anthropic-employee-advisors",
+      "benchmarkPostId": "2098507615315648591",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098507615315648591",
+      "title": "Anthropic employee wealth advisors",
+      "status": "ready",
+      "postText": "Major banks are in talks with Anthropic to help manage its employees’ expected windfalls.\n\nAnthropic plans to assemble a list of advisors to help employees navigate the anticipated wealth.",
+      "mirroredFacts": [
+        "The benchmark said major banks are in talks with Anthropic to help manage incoming wealth for employees.",
+        "Anthropic is planning a list of advisors to help employees navigate anticipated windfalls."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098507615315648591"
+      ],
+      "verificationStatus": "benchmark_discovery_only",
+      "verificationNote": "Public benchmark payload preserved without adding unsupported detail; no independent source was available for the exact claim during this run.",
+      "imagePath": "deliverables/pkg-20260911-anthropic-employee-advisors/when2buy-image-model.png",
+      "createdAt": "2026-09-11T20:34:21.197975+00:00",
+      "sourceExpiresAt": "2026-09-11T21:52:58Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led editorial scene of Anthropic-inspired AI employees meeting professional wealth advisors in a modern AI campus, dark premium financial-news lighting, cool blue-white highlights and restrained red accents, no readable generated text or logos; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaChecks": [
+          "square 1254x1254 PNG",
+          "complete AI-campus and advisor meeting entity scene",
+          "factual typography proofread",
+          "exact repository logo composited once",
+          "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+          "not a pure-text card or generic-radar visual"
+        ]
+      }
     }
   ],
   "posts": [
@@ -360624,6 +360755,67 @@
       "completedAt": "2026-09-11T20:20:55Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T203036Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:30:36Z",
+      "completedAt": "2026-09-11T20:30:36Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T203213Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:32:13Z",
+      "completedAt": "2026-09-11T20:32:13Z",
+      "summary": "Apify scanned both benchmark accounts; captured 124 eligible originals and added 2 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T203220Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:32:20Z",
+      "completedAt": "2026-09-11T20:32:20Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T203231Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:32:31Z",
+      "completedAt": "2026-09-11T20:32:31Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T203421Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:34:21.197975+00:00",
+      "completedAt": "2026-09-11T20:34:21.198168+00:00",
+      "summary": "Produced one newest fresh non-promotional Anthropic advisors package with a complete entity-led image and exact-logo composite.",
+      "reason": "Skipped newer promotional crypto launch item per editorial rules.",
+      "selectedPackageId": "pkg-20260911-anthropic-employee-advisors"
+    },
+    {
+      "id": "run-20260911T203510Z-publish-deferred",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T20:35:10Z",
+      "completedAt": "2026-09-11T20:35:10Z",
+      "summary": "Newest fresh Anthropic advisors package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active.",
+      "reason": "minimum_interval; retryAt=2026-09-11T20:35:28Z",
+      "selectedPackageId": "pkg-20260911-anthropic-employee-advisors",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
