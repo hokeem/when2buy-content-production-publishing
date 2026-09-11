@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T19:34:35.258671+00:00`
+- 状态更新：`2026-09-11T19:48:41.021149+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**621**
 - 待选选题：**544**
-- 待发布制作包：**3**
+- 待发布制作包：**2**
 - 已验证发布：**237**
 
 ## 对标账号扫描
@@ -3647,7 +3647,7 @@ PENPE rallies 143% in the past 24 hours.
 
 ### Lutnick says $5,000 payments would use earned funds
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-lutnick-5000-earned-funds/when2buy-image-model.png`
 
 Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars.  He says the funds would come from an attempt to earn the money instead.
@@ -3925,6 +3925,9 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 
 ## 最近运行
 
+- `2026-09-11T19:48:40Z` **full / succeeded** — Newest Citi/Fed rate-hike package safely deferred before Postiz acceptance because the minimum submission interval was active; no accepted task was created and no retry is permitted. minimum_interval; retryAt=2026-09-11T19:48:29Z
+- `2026-09-11T19:47:06Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T19:45:40Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T19:33:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T19:33:19Z` **produce / succeeded** — Produced one newest fresh Situational Awareness package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-11T19:31:48Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3942,6 +3945,3 @@ Leopold Aschenbrenner's Situational Awareness has established a prime brokerage 
 - `2026-09-11T19:01:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 34 eligible originals and added 1 new post(s).
 - `2026-09-11T19:00:52Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T18:49:21Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T18:48:17Z` **produce / succeeded** — Produced the single newest fresh benchmark package with one inspected entity-led image and exact-logo composite.
-- `2026-09-11T18:46:11Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T18:46:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).

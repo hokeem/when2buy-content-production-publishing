@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T19:34:35.258671+00:00",
+  "updatedAt": "2026-09-11T19:48:41.021149+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -40465,7 +40465,7 @@
       "benchmarkPostId": "2098473442752278666",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098473442752278666",
       "title": "Lutnick says $5,000 payments would use earned funds",
-      "status": "ready",
+      "status": "expired",
       "postText": "Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars.\n\nHe says the funds would come from an attempt to earn the money instead.",
       "mirroredFacts": [
         "WhaleInsider said Howard Lutnick told NBC that $5,000 payments would not depend on tax dollars.",
@@ -40494,7 +40494,10 @@
           "no source, handle, URL, disclaimer, commentary, CTA, tagline, or watermark",
           "not a pure-text card or generic-radar visual"
         ]
-      }
+      },
+      "expiredAt": "2026-09-11T19:45:36Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-11T19:37:11Z"
     },
     {
       "id": "pkg-20260911-jpmorgan-two-fed-hikes",
@@ -356277,6 +356280,35 @@
       "completedAt": "2026-09-11T19:33:56Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260911T194540Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:45:40Z",
+      "completedAt": "2026-09-11T19:45:40Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T194706Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:47:06Z",
+      "completedAt": "2026-09-11T19:47:06Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T194840Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T19:48:40Z",
+      "completedAt": "2026-09-11T19:48:40Z",
+      "summary": "Newest Citi/Fed rate-hike package safely deferred before Postiz acceptance because the minimum submission interval was active; no accepted task was created and no retry is permitted.",
+      "reason": "minimum_interval; retryAt=2026-09-11T19:48:29Z",
+      "selectedPackageId": "pkg-20260911-citi-fed-rate-hike-next-week",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
