@@ -1,36 +1,28 @@
 {
-  "generatedAt": "2026-09-11T20:46:46Z",
+  "generatedAt": "2026-09-11T21:01:02Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098511096038498591",
-      "benchmarkAccount": "WhaleInsider",
+      "benchmarkPostId": "2098516300498674037",
+      "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098511096038498591",
-      "originalText": "JUST IN: Another Anthropic researcher says ‘humans may not survive’ the AI race after announcing resignation. https://t.co/SJLRJgM7XX",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR9ot5qXcAEM0Y_.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR9ot5qXcAEM0Y_.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098511096038498591-1.jpg",
-          "status": "archived"
-        }
-      ],
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098516300498674037",
+      "originalText": "JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
       "engagement": {
-        "likes": 32,
-        "replies": 19,
-        "reposts": 10,
+        "likes": 14,
+        "replies": 4,
+        "reposts": 1,
         "quotes": 0,
-        "views": 12344
+        "views": 6043
       },
-      "postedAt": "Fri Sep 11 20:36:48 +0000 2026",
-      "score": 14244,
-      "heatScore": 14244,
+      "postedAt": "Fri Sep 11 20:57:29 +0000 2026",
+      "score": 6533,
+      "heatScore": 6533,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -42,8 +34,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 10.0,
-        "expiresAt": "2026-09-11T22:06:48Z",
+        "ageMinutes": 3.6,
+        "expiresAt": "2026-09-11T22:27:29Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -87,7 +79,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 10.0,
+        "ageMinutes": 24.3,
         "expiresAt": "2026-09-11T22:06:45Z",
         "ttlMinutes": 90
       },
@@ -132,7 +124,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 16.3,
+        "ageMinutes": 30.6,
         "expiresAt": "2026-09-11T22:00:29Z",
         "ttlMinutes": 90
       },
@@ -177,7 +169,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 23.8,
+        "ageMinutes": 38.1,
         "expiresAt": "2026-09-11T21:52:58Z",
         "ttlMinutes": 90
       },

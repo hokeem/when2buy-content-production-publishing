@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T20:49:52.189797+00:00`
+- 状态更新：`2026-09-11T21:04:24.894919+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**627**
-- 待选选题：**550**
-- 待发布制作包：**1**
+- 对标帖子快照：**628**
+- 待选选题：**551**
+- 待发布制作包：**2**
 - 已验证发布：**240**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 20:57:29 +0000 2026 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | [X](https://x.com/StockMKTNewz/status/2098516300498674037) |
 | @StockMKTNewz | Fri Sep 11 20:36:45 +0000 2026 | Rocket Lab $RKLB just posted this:  "Rocket Lab has filed a formal protest with the Government Accountability Office challenging NASA’s award decision for the Mars Telecommunications Network" https://t.co/nS3yJflM9t | [X](https://x.com/StockMKTNewz/status/2098511083937956226) |
 | @WhaleInsider | Fri Sep 11 20:36:48 +0000 2026 | JUST IN: Another Anthropic researcher says ‘humans may not survive’ the AI race after announcing resignation. https://t.co/SJLRJgM7XX | [X](https://x.com/WhaleInsider/status/2098511096038498591) |
 | @StockMKTNewz | Fri Sep 11 20:22:58 +0000 2026 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees  Anthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ | [X](https://x.com/StockMKTNewz/status/2098507615315648591) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 14:32:05 +0000 2026 | JUST IN: $ETH rallies above 7.5% in the past 24 hours. https://t.co/43QWMSUv1u | [X](https://x.com/WhaleInsider/status/2098419313346576672) |
 | @StockMKTNewz | Fri Sep 11 14:26:30 +0000 2026 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center infrastructure forming a key part of the investment - CNBC https://t.co/4M0UiZThdr | [X](https://x.com/StockMKTNewz/status/2098417906161705470) |
 | @StockMKTNewz | Fri Sep 11 13:36:16 +0000 2026 | JUST IN:  Leopold Aschenbrenner's Situation Awareness has reportedly been active in the options market and has been buying "significant" stakes in names like   CoreWeave $CRWV  Sandisk $SNDK  Bloom Energy $BE  $AMD https://t.co/kkEYNHriBM | [X](https://x.com/StockMKTNewz/status/2098405267708805502) |
-| @StockMKTNewz | Fri Sep 11 13:47:55 +0000 2026 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | [X](https://x.com/StockMKTNewz/status/2098408199590171112) |
 
 ## 选题推荐
 
@@ -237,6 +237,7 @@
 | 1 | US GOVERNMENT BUDGET UPDATE The federal budget deficit hit $1.97 trillion for the first 11 m… | StockMKTNewz | 8375 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get … | WhaleInsider | 7430 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Another Anthropic researcher says ‘humans may not survive’ the AI race after announ… | WhaleInsider | 14244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | StockMKTNewz | 6533 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3714,6 +3715,13 @@ Major banks are in talks with Anthropic to help manage its employees’ expected
 
 An Anthropic researcher resigned over AI-safety concerns.  He warned humans may not survive the AI race.
 
+### JPMorgan cuts Situational Awareness lending after AI losses
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-jpmorgan-situational-awareness-lending/when2buy-image-model.png`
+
+JPMorgan cut off lending to Situational Awareness after the AI-focused hedge fund suffered losses.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3810,12 +3818,12 @@ An Anthropic researcher resigned over AI-safety concerns.  He warned humans may 
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 17 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
 | Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
+| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 17 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | Astra GPT 6 takes control of the Rallies AI portfolio | 2026-09-11T00:17:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098204457721123197) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
-| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 16 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
@@ -3917,6 +3925,7 @@ An Anthropic researcher resigned over AI-safety concerns.  He warned humans may 
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
+| Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -3945,23 +3954,26 @@ An Anthropic researcher resigned over AI-safety concerns.  He warned humans may 
 | S&P 500 on pace for fourth straight red day | 2026-09-10T16:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098080452909445345) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 | UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
+| Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
+| Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
-| Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
-| Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 
 ## 最近运行
 
+- `2026-09-11T21:04:00Z` **publish / succeeded** — Newest fresh JPMorgan/Situational Awareness package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T21:04:06Z
+- `2026-09-11T21:03:10Z` **produce / succeeded** — Produced one newest fresh JPMorgan/Situational Awareness package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-11T21:01:02Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T21:00:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-11T20:49:33Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T20:48:39Z` **produce / succeeded** — Produced the single newest fresh Anthropic resignation package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T20:46:46Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
@@ -3978,7 +3990,3 @@ An Anthropic researcher resigned over AI-safety concerns.  He warned humans may 
 - `2026-09-11T20:17:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T20:16:40Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T20:16:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T20:05:43Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T20:05:04Z` **produce / succeeded** — Produced the single newest fresh federal budget-deficit package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-11T20:01:18Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T20:01:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 2 new post(s).
