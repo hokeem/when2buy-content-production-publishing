@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T20:35:10.569535+00:00`
+- 状态更新：`2026-09-11T20:49:52.189797+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**625**
-- 待选选题：**548**
-- 待发布制作包：**2**
-- 已验证发布：**239**
+- 对标帖子快照：**627**
+- 待选选题：**550**
+- 待发布制作包：**1**
+- 已验证发布：**240**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 20:36:45 +0000 2026 | Rocket Lab $RKLB just posted this:  "Rocket Lab has filed a formal protest with the Government Accountability Office challenging NASA’s award decision for the Mars Telecommunications Network" https://t.co/nS3yJflM9t | [X](https://x.com/StockMKTNewz/status/2098511083937956226) |
+| @WhaleInsider | Fri Sep 11 20:36:48 +0000 2026 | JUST IN: Another Anthropic researcher says ‘humans may not survive’ the AI race after announcing resignation. https://t.co/SJLRJgM7XX | [X](https://x.com/WhaleInsider/status/2098511096038498591) |
 | @StockMKTNewz | Fri Sep 11 20:22:58 +0000 2026 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees  Anthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ | [X](https://x.com/StockMKTNewz/status/2098507615315648591) |
 | @WhaleInsider | Fri Sep 11 20:30:29 +0000 2026 | JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get unique NFT airdrops. Phase 2: 1% supply raffled to top holders + Tier-1 CEX listing. Phase 3: CatRobinHat launchpad. https://t.co/E7gQ07yAqi | [X](https://x.com/WhaleInsider/status/2098509506690871689) |
 | @WhaleInsider | Fri Sep 11 19:50:21 +0000 2026 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." https://t.co/yvLyzeWyXF | [X](https://x.com/WhaleInsider/status/2098499407008199000) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 14:26:30 +0000 2026 | The United Arab Emirates 🇦🇪 plans to invest $46.4 billion in Germany 🇩🇪, with data center infrastructure forming a key part of the investment - CNBC https://t.co/4M0UiZThdr | [X](https://x.com/StockMKTNewz/status/2098417906161705470) |
 | @StockMKTNewz | Fri Sep 11 13:36:16 +0000 2026 | JUST IN:  Leopold Aschenbrenner's Situation Awareness has reportedly been active in the options market and has been buying "significant" stakes in names like   CoreWeave $CRWV  Sandisk $SNDK  Bloom Energy $BE  $AMD https://t.co/kkEYNHriBM | [X](https://x.com/StockMKTNewz/status/2098405267708805502) |
 | @StockMKTNewz | Fri Sep 11 13:47:55 +0000 2026 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | [X](https://x.com/StockMKTNewz/status/2098408199590171112) |
-| @StockMKTNewz | Fri Sep 11 13:51:12 +0000 2026 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:  -  INFLATION CLEARLY DECELERATING OVER PAST 3 MONTHS, IF FED HIKES, TRUMP WILL HAVE AN OPINION I'M SURE | [X](https://x.com/StockMKTNewz/status/2098409025255748058) |
-| @StockMKTNewz | Fri Sep 11 13:54:59 +0000 2026 | 🇺🇸 WHITE HOUSE ECONOMIC ADVISER HASSETT JUST SAID:  - $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY | [X](https://x.com/StockMKTNewz/status/2098409975974383854) |
 
 ## 选题推荐
 
@@ -236,6 +236,7 @@
 | 1 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking r… | StockMKTNewz | 10344 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | US GOVERNMENT BUDGET UPDATE The federal budget deficit hit $1.97 trillion for the first 11 m… | StockMKTNewz | 8375 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get … | WhaleInsider | 7430 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Another Anthropic researcher says ‘humans may not survive’ the AI race after announ… | WhaleInsider | 14244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -320,6 +321,7 @@
 | 2 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults w… | StockMKTNewz | 7318 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." http… | WhaleInsider | 17429 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth f… | StockMKTNewz | 8323 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Rocket Lab $RKLB just posted this: "Rocket Lab has filed a formal protest with the Governmen… | StockMKTNewz | 9988 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3672,7 +3674,7 @@ Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.  The list i
 
 ### Citi expects a Fed rate hike next week
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-citi-fed-rate-hike-next-week/when2buy-image-model.png`
 
 Citi now expects the Fed to raise rates next week under Chair Kevin Warsh.
@@ -3704,6 +3706,13 @@ Trump says a proposed $5,000 dividend for every U.S. adult will happen.
 - 配图：`deliverables/pkg-20260911-anthropic-employee-advisors/when2buy-image-model.png`
 
 Major banks are in talks with Anthropic to help manage its employees’ expected windfalls.  Anthropic plans to assemble a list of advisors to help employees navigate the anticipated wealth.
+
+### Anthropic researcher resigns over AI-safety concerns
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-anthropic-researcher-resigns/when2buy-image.png`
+
+An Anthropic researcher resigned over AI-safety concerns.  He warned humans may not survive the AI race.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3949,9 +3958,14 @@ Major banks are in talks with Anthropic to help manage its employees’ expected
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
+| Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 
 ## 最近运行
 
+- `2026-09-11T20:49:33Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T20:48:39Z` **produce / succeeded** — Produced the single newest fresh Anthropic resignation package with an inspected entity-led image and exact-logo composite.
+- `2026-09-11T20:46:46Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-11T20:46:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 2 new post(s).
 - `2026-09-11T20:35:10Z` **publish / succeeded** — Newest fresh Anthropic advisors package remained ready; Postiz safely deferred before acceptance because the 15-minute submission interval was active. minimum_interval; retryAt=2026-09-11T20:35:28Z
 - `2026-09-11T20:34:21.197975+00:00` **produce / succeeded** — Produced one newest fresh non-promotional Anthropic advisors package with a complete entity-led image and exact-logo composite. Skipped newer promotional crypto launch item per editorial rules.
 - `2026-09-11T20:32:31Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3968,7 +3982,3 @@ Major banks are in talks with Anthropic to help manage its employees’ expected
 - `2026-09-11T20:05:04Z` **produce / succeeded** — Produced the single newest fresh federal budget-deficit package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-11T20:01:18Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T20:01:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 2 new post(s).
-- `2026-09-11T19:48:40Z` **full / succeeded** — Newest Citi/Fed rate-hike package safely deferred before Postiz acceptance because the minimum submission interval was active; no accepted task was created and no retry is permitted. minimum_interval; retryAt=2026-09-11T19:48:29Z
-- `2026-09-11T19:47:06Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T19:45:40Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T19:33:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
