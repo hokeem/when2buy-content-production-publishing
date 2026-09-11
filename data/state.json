@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T08:31:58.204661+00:00",
+  "updatedAt": "2026-09-11T08:49:16.966404+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15825,6 +15825,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098330814857506832",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098330814857506832",
+      "postedAt": "Fri Sep 11 08:40:26 +0000 2026",
+      "text": "JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond market, with settlements using the RBI’s wholesale digital rupee. https://t.co/34cLGQCe73",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR7EwKibkAActzh.jpg",
+        "https://pbs.twimg.com/media/HR7EwKdbwAAx4JC.jpg"
+      ],
+      "engagement": {
+        "likes": 28,
+        "replies": 12,
+        "reposts": 8,
+        "quotes": 1,
+        "views": 10827
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T08:46:33Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7EwKibkAActzh.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098330814857506832-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7EwKdbwAAx4JC.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098330814857506832-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -25268,6 +25302,25 @@
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098330814857506832",
+      "rank": 1,
+      "title": "JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond mark…",
+      "benchmarkPostId": "2098330814857506832",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098330814857506832",
+      "score": 12327,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T08:46:37Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -37266,6 +37319,36 @@
       },
       "expiredAt": "2026-09-11T02:32:02Z",
       "expiryReason": "source_ttl_exceeded"
+    },
+    {
+      "id": "pkg-20260911-india-corporate-bond-tokenization",
+      "benchmarkPostId": "2098330814857506832",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098330814857506832",
+      "title": "India tokenizes corporate bonds in digital-rupee pilot",
+      "status": "published",
+      "postText": "India just launched a pilot to tokenize its $620B corporate-bond market.\n\nSettlements will use the RBI’s wholesale digital rupee.",
+      "mirroredFacts": [
+        "India launched a pilot to tokenize its $620 billion corporate-bond market.",
+        "Settlements use the RBI's wholesale digital rupee."
+      ],
+      "verificationSources": [
+        "https://recindia.nic.in/rec-limited-successfully-issued-indias-first-pilot-issue-on-tokenized-corporate-bonds-under-sebi-regulatory-sandbox-framework",
+        "https://indianexpress.com/article/business/banking-and-finance/sebi-rbi-launch-demat-2-0-pilot-for-corporate-bond-tokenisation-10872369/",
+        "https://x.com/WhaleInsider/status/2098330814857506832"
+      ],
+      "imagePath": "deliverables/pkg-20260911-india-corporate-bond-tokenization/when2buy-image-model.png",
+      "createdAt": "2026-09-11T08:48:47.343795+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Square 1:1 editorial financial illustration of an Indian corporate bond certificate transitioning into linked blockchain ledger blocks and a digital rupee settlement token in a central-bank setting; no generated text or branding, clean lower-right logo-safe area; exact repository logo composited once after generation.",
+        "logoApplied": true,
+        "qaStatus": "passed"
+      },
+      "postizPostId": "cmtwpsdnu0k76lm0yfb0b6g59",
+      "postizSubmissionAt": "2026-09-11T08:48:49Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-11T08:49:16Z",
+      "publishedAt": "2026-09-11T08:48:00.000Z"
     }
   ],
   "posts": [
@@ -41414,6 +41497,24 @@
         "lastAttemptAt": "2026-09-11T08:01:57.966045Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098333032608629050",
+      "packageId": "pkg-20260911-india-corporate-bond-tokenization",
+      "title": "India tokenizes corporate bonds in digital-rupee pilot",
+      "text": "India just launched a pilot to tokenize its $620B corporate-bond market.\n\nSettlements will use the RBI’s wholesale digital rupee.",
+      "status": "published",
+      "publishedAt": "2026-09-11T08:48:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098333032608629050",
+      "postizPostId": "cmtwpsdnu0k76lm0yfb0b6g59",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-11T08:48:00.000Z",
+        "windowEnd": "2026-09-14T08:48:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -311386,6 +311487,55 @@
       "startedAt": "2026-09-11T08:31:58Z",
       "completedAt": "2026-09-11T08:31:58Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T084539Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T08:45:39Z",
+      "completedAt": "2026-09-11T08:45:39Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T084633Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T08:46:33Z",
+      "completedAt": "2026-09-11T08:46:33Z",
+      "summary": "Apify scanned both benchmark accounts; captured 122 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T084637Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T08:46:37Z",
+      "completedAt": "2026-09-11T08:46:37Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T084847Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T08:48:47.343948+00:00",
+      "completedAt": "2026-09-11T08:48:47.343954+00:00",
+      "summary": "Produced one fresh India corporate-bond tokenisation package with exact-logo compositing.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T084916Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T08:49:16Z",
+      "completedAt": "2026-09-11T08:49:16Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ],
