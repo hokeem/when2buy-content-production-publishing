@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T06:02:18.698538+00:00",
+  "updatedAt": "2026-09-11T06:16:31.452612+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15757,6 +15757,28 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098293048258031651",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098293048258031651",
+      "postedAt": "Fri Sep 11 06:10:21 +0000 2026",
+      "text": "JUST IN: $BTC Spot ETFs see a total net outflow of $282.56 million. https://t.co/HjZyvxz1lF",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR6iZ0DaQAABUTK.jpg",
+        "https://pbs.twimg.com/media/HR6iZyJWMAcNJ3t.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 9,
+        "reposts": 6,
+        "quotes": 2,
+        "views": 10885
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T06:16:27Z"
     }
   ],
   "radar": [
@@ -304257,6 +304279,37 @@
       "status": "succeeded",
       "startedAt": "2026-09-11T06:01:42Z",
       "completedAt": "2026-09-11T06:01:42Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T061538Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T06:15:38Z",
+      "completedAt": "2026-09-11T06:15:38Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T061627Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T06:16:27Z",
+      "completedAt": "2026-09-11T06:16:27Z",
+      "summary": "Apify scanned both benchmark accounts; captured 35 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T061631Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T06:16:31Z",
+      "completedAt": "2026-09-11T06:16:31Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
