@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T07:32:04.026275+00:00`
+- 状态更新：`2026-09-11T07:47:21.496058+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**573**
 - 待选选题：**497**
@@ -3648,6 +3648,8 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T07:47:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T07:47:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 83 eligible originals and added 0 new post(s).
 - `2026-09-11T07:31:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T07:31:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
 - `2026-09-11T07:31:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3666,5 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T06:01:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T06:01:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T05:47:16Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T05:47:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
-- `2026-09-11T05:45:35Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
