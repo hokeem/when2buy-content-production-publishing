@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T10:02:59.880120+00:00`
+- 状态更新：`2026-09-11T10:21:13.200562+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**574**
-- 待选选题：**498**
-- 待发布制作包：**0**
+- 对标帖子快照：**575**
+- 待选选题：**499**
+- 待发布制作包：**1**
 - 已验证发布：**225**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 10:02:13 +0000 2026 | JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain, with spot and DEX trading on Santro Exchange now live. https://t.co/pP4bNWUUac | [X](https://x.com/WhaleInsider/status/2098351397963956345) |
 | @WhaleInsider | Fri Sep 11 08:40:26 +0000 2026 | JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond market, with settlements using the RBI’s wholesale digital rupee. https://t.co/34cLGQCe73 | [X](https://x.com/WhaleInsider/status/2098330814857506832) |
 | @WhaleInsider | Fri Sep 11 07:13:35 +0000 2026 | JUST IN: Franklin ETF clients buy $5.14 million worth of $XRP. https://t.co/j3Qv39DNRt | [X](https://x.com/WhaleInsider/status/2098308959945855348) |
 | @WhaleInsider | Fri Sep 11 06:10:21 +0000 2026 | JUST IN: $BTC Spot ETFs see a total net outflow of $282.56 million. https://t.co/HjZyvxz1lF | [X](https://x.com/WhaleInsider/status/2098293048258031651) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Thu Sep 10 19:06:19 +0000 2026 | JUST IN: https://t.co/Y8024oa8ZP announces new launch mode, along with its official runner, fully supported by the launchpad. Hold $STONKCHAD and earn RWA rewards directly to your wallet. https://t.co/YUZYxpvn1V | [X](https://x.com/WhaleInsider/status/2098125939636871240) |
 | @WhaleInsider | Thu Sep 10 19:15:12 +0000 2026 | JUST IN: 🇧🇷 Nu, one of the world’s largest digital financial platforms with more than 140M customers, is integrating $CRCL stablecoins into its new multi-currency digital account. https://t.co/gLFzGwpu9Q | [X](https://x.com/WhaleInsider/status/2098128172797530309) |
 | @WhaleInsider | Thu Sep 10 18:50:48 +0000 2026 | JUST IN: The official PNUT and Gigachad X accounts both posted Roblox-themed tweets, causing $ROBLOXIANS to gain traction. https://t.co/SEUuII622O | [X](https://x.com/WhaleInsider/status/2098122034635038838) |
-| @StockMKTNewz | Thu Sep 10 18:17:11 +0000 2026 | The average price of regular gas in the United States 🇺🇸 is $4.28 per gallon today up from $4.14 last week | [X](https://x.com/StockMKTNewz/status/2098113572123394403) |
 
 ## 选题推荐
 
@@ -209,6 +209,7 @@
 | 1 | This is how the Software sector ETF $IGV has performed each full year since 2002: 2002: -44.… | StockMKTNewz | 6718 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI is considering slowing down the development of cutting-edge artificial intelligence I… | StockMKTNewz | 8244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇳 India launches blockchain pilot to tokenize its $620 billion corporate bond mark… | WhaleInsider | 12327 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAH… | WhaleInsider | 18368 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3424,6 +3425,13 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 India just launched a pilot to tokenize its $620B corporate-bond market.  Settlements will use the RBI’s wholesale digital rupee.
 
+### SANTAHOOD launches on Robinhood Chain
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-santahood-robinhood-chain/when2buy-image-model.png`
+
+$SANTAHOOD has launched as a Santa-themed token on Robinhood Chain.  Spot and DEX trading are live on Santro Exchange.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3657,6 +3665,13 @@ India just launched a pilot to tokenize its $620B corporate-bond market.  Settle
 
 ## 最近运行
 
+- `2026-09-11T10:21:13Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T10:21:09Z` **publish / succeeded** — Safely deferred the newest fresh SANTAHOOD package because the rolling 24-hour Postiz limit was exhausted; no submission was accepted. daily_limit; retryAt=2026-09-11T13:05:38Z
+- `2026-09-11T10:20:16Z` **produce / succeeded** — Produced one newest fresh SANTAHOOD package with exact-logo composite and visual QA.
+- `2026-09-11T10:16:49Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
+- `2026-09-11T10:16:41Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T10:16:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 1 new post(s).
+- `2026-09-11T10:15:37Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:01:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T10:01:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T09:48:24Z` **full / partial** — Freshness-first cycle completed without publication; the bounded Apify collection timed out before adding new benchmark records, and the hard 90-minute queue was empty. apify_collection_timeout; no fresh eligible source was available, so no package was produced or submitted.
@@ -3670,10 +3685,3 @@ India just launched a pilot to tokenize its $620B corporate-bond market.  Settle
 - `2026-09-11T09:01:52Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T09:01:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-11T08:49:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T08:48:47.343948+00:00` **produce / succeeded** — Produced one fresh India corporate-bond tokenisation package with exact-logo compositing.
-- `2026-09-11T08:46:37Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T08:46:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 1 new post(s).
-- `2026-09-11T08:45:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T08:31:58Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T08:30:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T08:16:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

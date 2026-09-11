@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T10:02:59.880120+00:00",
+  "updatedAt": "2026-09-11T10:21:13.200562+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15859,6 +15859,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098351397963956345",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098351397963956345",
+      "postedAt": "Fri Sep 11 10:02:13 +0000 2026",
+      "text": "JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAHOOD has launched as a Santa-themed token on Robinhood Chain, with spot and DEX trading on Santro Exchange now live. https://t.co/pP4bNWUUac",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HR7XePrXYAUS5XF.jpg",
+        "https://pbs.twimg.com/media/HR7XeQLbkAANZDu.jpg"
+      ],
+      "engagement": {
+        "likes": 125,
+        "replies": 19,
+        "reposts": 15,
+        "quotes": 1,
+        "views": 14298
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-11T10:16:33Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7XePrXYAUS5XF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098351397963956345-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR7XeQLbkAANZDu.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098351397963956345-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -25316,6 +25350,25 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-11T08:46:37Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098351397963956345",
+      "rank": 1,
+      "title": "JUST IN: Robinhood previously tweeted, “Santa would love Robinhood.” One year later, $SANTAH…",
+      "benchmarkPostId": "2098351397963956345",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098351397963956345",
+      "score": 18368,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-11T10:16:41Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -37349,6 +37402,45 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-11T08:49:16Z",
       "publishedAt": "2026-09-11T08:48:00.000Z"
+    },
+    {
+      "id": "pkg-20260911-santahood-robinhood-chain",
+      "benchmarkPostId": "2098351397963956345",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098351397963956345",
+      "title": "SANTAHOOD launches on Robinhood Chain",
+      "status": "ready",
+      "postText": "$SANTAHOOD has launched as a Santa-themed token on Robinhood Chain.\n\nSpot and DEX trading are live on Santro Exchange.",
+      "mirroredFacts": [
+        "$SANTAHOOD launched as a Santa-themed token on Robinhood Chain.",
+        "Spot and DEX trading are live on Santro Exchange."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098351397963956345",
+        "https://www.santahood.com/",
+        "https://dexscreener.com/robinhood/0x38bb87Cf3E7344A82be7CD671c191f015b97eEe6"
+      ],
+      "imagePath": "deliverables/pkg-20260911-santahood-robinhood-chain/when2buy-image-model.png",
+      "createdAt": "2026-09-11T10:20:16Z",
+      "sourceExpiresAt": "2026-09-11T11:32:13Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Original square entity-led premium financial-news visual of a Santa-themed token on Robinhood Chain, with spot and DEX trading live on Santro Exchange; near-black fintech blockchain environment, red-and-silver Santa coin, linked exchange rails, no generated text or logos, lower-right logo-safe space.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-11T10:20:16Z",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led token and blockchain trading scene",
+            "no generated readable text, source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "exact repository logo composited once in lower-right clear space",
+            "no damaged visual",
+            "final raster inspected after logo composite"
+          ],
+          "result": "passed"
+        }
+      }
     }
   ],
   "posts": [
@@ -318466,6 +318558,82 @@
       "startedAt": "2026-09-11T10:01:53Z",
       "completedAt": "2026-09-11T10:01:53Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T101537Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T10:15:37Z",
+      "completedAt": "2026-09-11T10:15:37Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T101633Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T10:16:33Z",
+      "completedAt": "2026-09-11T10:16:33Z",
+      "summary": "Apify scanned both benchmark accounts; captured 44 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T101641Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T10:16:41Z",
+      "completedAt": "2026-09-11T10:16:41Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T101649Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T10:16:49Z",
+      "completedAt": "2026-09-11T10:16:49Z",
+      "summary": "Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T102016Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T10:20:16Z",
+      "completedAt": "2026-09-11T10:20:16Z",
+      "summary": "Produced one newest fresh SANTAHOOD package with exact-logo composite and visual QA.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T102109Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T10:21:09Z",
+      "completedAt": "2026-09-11T10:21:09Z",
+      "summary": "Safely deferred the newest fresh SANTAHOOD package because the rolling 24-hour Postiz limit was exhausted; no submission was accepted.",
+      "reason": "daily_limit; retryAt=2026-09-11T13:05:38Z",
+      "selectedPackageIds": [
+        "pkg-20260911-santahood-robinhood-chain"
+      ],
+      "publishOutcome": "deferred",
+      "retryAt": "2026-09-11T13:05:38Z"
+    },
+    {
+      "id": "run-20260911T102113Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T10:21:13Z",
+      "completedAt": "2026-09-11T10:21:13Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
   ],
