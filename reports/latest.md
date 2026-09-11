@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T00:05:05.743201+00:00`
+- 状态更新：`2026-09-11T00:18:40.088773+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**569**
 - 待选选题：**495**
-- 待发布制作包：**1**
-- 已验证发布：**222**
+- 待发布制作包：**0**
+- 已验证发布：**223**
 
 ## 对标账号扫描
 
@@ -3395,7 +3395,7 @@ Amazon Leo just added six Ariane 64 launches, expanding its Arianespace commitme
 
 ### Astra GPT 6 takes control of the Rallies AI portfolio
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260911-astra-gpt6-rallies-arena/when2buy-image-model.png`
 
 OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI Stock Market Arena.
@@ -3627,9 +3627,14 @@ OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI St
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 | Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098197615901024660) |
+| Astra GPT 6 takes control of the Rallies AI portfolio | 2026-09-11T00:17:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098204457721123197) |
 
 ## 最近运行
 
+- `2026-09-11T00:18:21Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T00:17:06Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T00:16:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
+- `2026-09-11T00:15:59Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:05:05Z` **publish / succeeded** — Postiz batch safely deferred the sole fresh package because the minimum accepted-submission interval was active; no task was accepted and no retry was made. minimum_interval; retryAt=2026-09-11T00:05:44Z
 - `2026-09-11T00:04:01Z` **produce / succeeded** — Produced the single newest fresh Astra GPT 6 package with inspected entity-led visual and exact-logo composite.
 - `2026-09-11T00:01:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3646,7 +3651,3 @@ OpenAI's Astra GPT 6 is now in control of the GPT portfolio in the Rallies AI St
 - `2026-09-10T23:17:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
 - `2026-09-10T23:16:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-10T23:15:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T23:03:31Z` **publish / succeeded** — Safe deferred outcome: delivery policy minimum interval blocked submission; no Postiz task was accepted and no retry is authorized. minimum_interval
-- `2026-09-10T23:02:21Z` **produce / succeeded** — Produced the single newest fresh GameStop/Ryan Cohen package with primary-source verification, inspected entity-led image, and exact-logo composite.
-- `2026-09-10T23:01:38Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-10T23:01:34Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
