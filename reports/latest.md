@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T18:06:17.898928+00:00`
+- 状态更新：`2026-09-11T18:18:16.579641+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**613**
-- 待选选题：**536**
-- 待发布制作包：**0**
+- 对标帖子快照：**614**
+- 待选选题：**537**
+- 待发布制作包：**1**
 - 已验证发布：**235**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Fri Sep 11 18:07:11 +0000 2026 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to "earn" funds. https://t.co/Y9zCMjRGP8 | [X](https://x.com/WhaleInsider/status/2098473442752278666) |
 | @WhaleInsider | Fri Sep 11 17:51:27 +0000 2026 | JUST IN: @MetaWin player turns $5 into $25,430.  Unlike other casinos, every win that MetaWin promotes is by a real player.  They have a $1M airdrop going out this month to players.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/QNElpQ5icx | [X](https://x.com/WhaleInsider/status/2098469483350295001) |
 | @WhaleInsider | Fri Sep 11 17:37:58 +0000 2026 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme coin could be the next PEPE. https://t.co/asWjWGss6R | [X](https://x.com/WhaleInsider/status/2098466092888764797) |
 | @StockMKTNewz | Fri Sep 11 16:50:25 +0000 2026 | If I gave you $420,000 but said you have to invest the money by the end of today and can't touch it until 2036   What would you do? | [X](https://x.com/StockMKTNewz/status/2098454124006142064) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 12:43:26 +0000 2026 | I added more to this   Know if the Fed raises rates I will be taking an L 😅  My new "cost basis" is $0.35  So if the Fed kept rates unchanged and if I had $35 I would end up with $100   DONT RAISE RATES ON ME KEVIN | [X](https://x.com/StockMKTNewz/status/2098391967948324950) |
 | @StockMKTNewz | Fri Sep 11 11:41:47 +0000 2026 | $OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK | [X](https://x.com/StockMKTNewz/status/2098376454073438400) |
 | @StockMKTNewz | Fri Sep 11 11:47:34 +0000 2026 | The rise of the iPhone: Apple's Revenue by segment https://t.co/w7dvl1FweO | [X](https://x.com/StockMKTNewz/status/2098377908536365082) |
-| @StockMKTNewz | Fri Sep 11 11:56:51 +0000 2026 | The meme coin is now down by 99% in just 2 days | [X](https://x.com/StockMKTNewz/status/2098380246059782301) |
 
 ## 选题推荐
 
@@ -229,6 +229,7 @@
 | 1 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of… | WhaleInsider | 11816 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto mar… | WhaleInsider | 16771 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme co… | WhaleInsider | 15422 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax … | WhaleInsider | 14426 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3637,6 +3638,13 @@ A $420,000 investment locked until 2036 creates a 10-year horizon.
 
 PENPE rallies 143% in the past 24 hours.
 
+### Lutnick says $5,000 payments would use earned funds
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260911-lutnick-5000-earned-funds/when2buy-image-model.png`
+
+Howard Lutnick says the proposed $5,000 payments would not depend on tax dollars.  He says the funds would come from an attempt to earn the money instead.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3857,6 +3865,7 @@ PENPE rallies 143% in the past 24 hours.
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
+| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -3876,10 +3885,13 @@ PENPE rallies 143% in the past 24 hours.
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
-| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098473162690420849) |
 
 ## 最近运行
 
+- `2026-09-11T18:18:16Z` **full / succeeded** — Newest fresh Lutnick $5,000 package was safely deferred by the 15-minute Postiz submission gap; no accepted task was created and no retry is permitted. minimum_interval; retryAt 2026-09-11T18:20:39Z
+- `2026-09-11T18:17:36.849798+00:00` **produce / succeeded** — Produced one newest fresh Lutnick $5,000 package with entity-led image and exact-logo composite.
+- `2026-09-11T18:15:49Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T18:15:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-11T18:06:17Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T18:05:15.998703+00:00` **produce / succeeded** — Produced one newest fresh PENPE package with entity-led image and exact-logo composite.
 - `2026-09-11T18:02:23Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3896,7 +3908,3 @@ PENPE rallies 143% in the past 24 hours.
 - `2026-09-11T17:17:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-11T17:15:37Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T17:15:28Z` **publish / succeeded** — Reconciled 1 published, 0 pending, and 0 terminal Postiz deliveries.
-- `2026-09-11T17:06:12.958247+00:00` **produce / succeeded** — Produced one newest fresh Coinbase policy package with one complete square entity-led image and one exact-logo composite.
-- `2026-09-11T17:01:43Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T17:01:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
-- `2026-09-11T17:00:36Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 1 unsent stale package(s).

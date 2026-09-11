@@ -1,44 +1,49 @@
 {
-  "generatedAt": "2026-09-11T18:02:23Z",
+  "generatedAt": "2026-09-11T18:15:49Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098466092888764797",
+      "benchmarkPostId": "2098473442752278666",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098466092888764797",
-      "originalText": "JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme coin could be the next PEPE. https://t.co/asWjWGss6R",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098473442752278666",
+      "originalText": "JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to \"earn\" funds. https://t.co/Y9zCMjRGP8",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8_yX5XkAIY-D6.jpg",
-        "https://pbs.twimg.com/media/HR8_yYkawAAboQj.jpg"
+        "https://pbs.twimg.com/media/HR9GaCxa8AApJd5.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR9GaCxa8AApJd5.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098473442752278666-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
-        "likes": 33,
-        "replies": 20,
+        "likes": 27,
+        "replies": 17,
         "reposts": 9,
         "quotes": 2,
-        "views": 13392
+        "views": 12636
       },
-      "postedAt": "Fri Sep 11 17:37:58 +0000 2026",
-      "score": 15422,
-      "heatScore": 15422,
+      "postedAt": "Fri Sep 11 18:07:11 +0000 2026",
+      "score": 14426,
+      "heatScore": 14426,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
         "marketImpact": 5,
-        "visualPotential": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 19,
+      "editorialScore": 17,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 24.4,
-        "expiresAt": "2026-09-11T19:07:58Z",
+        "ageMinutes": 8.6,
+        "expiresAt": "2026-09-11T19:37:11Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
