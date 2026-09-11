@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T02:46:22.467392+00:00`
+- 状态更新：`2026-09-11T03:02:26.488221+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**571**
 - 待选选题：**497**
@@ -3453,9 +3453,9 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 | Meta rolls out Muse personal AI assistant | 2026-09-09T05:53:00.000Z | 45 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097564224717533384) |
 | Zoom $ZM just announced that Jeff Epstein has joined its Board of Directors, effective immediately. | 2026-09-04T04:49:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735963796599251) |
 | UNIPCS6900 launches on Robinhood Chain | 2026-09-09T06:31:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097573644444823640) |
+| Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 44 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
 | Tesla Cybercab interior: day one | 2026-09-07T08:32:00.000Z | 43 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879304479293464) |
 | Nvidia chips in Armenia-Azerbaijan talks | 2026-09-07T05:33:00.000Z | 42 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834411216159009) |
-| Ryan Cohen buys $20.4M of GameStop stock | 2026-09-10T23:17:00.000Z | 42 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098189298495570024) |
 | JUST IN: $PEPE surges 13% in 24 hours as on-chain data points to major withdrawals amid growing ETF | 2026-09-04T04:32:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731821082448155) |
 | BROADCOM'S $AVGO CEO JUST SAID: - IN 2027, WE HAVE SECURED THE SUPPLY TO DOUBLE AI REVENUE TO ~$115 | 2026-09-04T12:44:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095855505831010807) |
 | Nike $NKE reaches fresh decade-plus lows | 2026-09-09T05:36:00.000Z | 41 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097559818341110052) |
@@ -3544,6 +3544,7 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
+| Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -3551,7 +3552,6 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
 | Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
-| Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -3627,13 +3627,13 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
+| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 3 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
 | Robinhood Chain generates 17,171 ETH in revenue | 2026-09-09T06:10:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568335147962382) |
 | Cresta targets AI-agent customer support | 2026-09-09T06:14:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097569348282175687) |
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
-| Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 2 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
@@ -3648,6 +3648,9 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T03:01:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T03:01:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 85 eligible originals and added 0 new post(s).
+- `2026-09-11T03:00:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T02:46:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T02:46:17Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).
 - `2026-09-11T02:45:36Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3665,6 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T01:47:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
 - `2026-09-11T01:45:45Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T01:34:34Z` **publish / succeeded** — The sole newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-11T07:00:00Z
-- `2026-09-11T01:33:36Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T01:33:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
-- `2026-09-11T01:32:03Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 21 eligible originals and added 0 new post(s).
