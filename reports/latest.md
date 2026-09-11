@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T16:50:15.181619+00:00`
+- 状态更新：`2026-09-11T17:08:02.197591+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**609**
-- 待选选题：**533**
-- 待发布制作包：**2**
+- 对标帖子快照：**611**
+- 待选选题：**535**
+- 待发布制作包：**1**
 - 已验证发布：**232**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 16:50:25 +0000 2026 | If I gave you $420,000 but said you have to invest the money by the end of today and can't touch it until 2036   What would you do? | [X](https://x.com/StockMKTNewz/status/2098454124006142064) |
+| @WhaleInsider | Fri Sep 11 16:50:37 +0000 2026 | JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto market structure even if CLARITY Act fails. https://t.co/AGBEypHeWM | [X](https://x.com/WhaleInsider/status/2098454174077792679) |
 | @WhaleInsider | Fri Sep 11 16:27:42 +0000 2026 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of the biggest heads-up poker game ever. https://t.co/uGHb9iMHAh | [X](https://x.com/WhaleInsider/status/2098448408344186893) |
 | @StockMKTNewz | Fri Sep 11 16:05:03 +0000 2026 | $DELL stock hit new ALL TIME HIGHS today  🟢 https://t.co/I5FMpy4KZ3 | [X](https://x.com/StockMKTNewz/status/2098442708297597298) |
 | @StockMKTNewz | Fri Sep 11 16:09:13 +0000 2026 | Tesla $TSLA posted this today  "Semi is coming to Europe" https://t.co/gkB2qs7uUb | [X](https://x.com/StockMKTNewz/status/2098443757209137467) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 11:56:51 +0000 2026 | The meme coin is now down by 99% in just 2 days | [X](https://x.com/StockMKTNewz/status/2098380246059782301) |
 | @StockMKTNewz | Fri Sep 11 12:11:00 +0000 2026 | The 🇺🇸 nationwide average price of diesel hit $6 per gallon today for the first time - NBC https://t.co/kMyU0ZDU9G | [X](https://x.com/StockMKTNewz/status/2098383808324096072) |
 | @WhaleInsider | Fri Sep 11 11:16:08 +0000 2026 | JUST IN: 🇷🇺🇮🇳 Russia and India working on mechanism to use digital currencies for bilateral trade payments - Sberbank CEO Herman Gref. https://t.co/H4T6eqo3mp | [X](https://x.com/WhaleInsider/status/2098369999073149003) |
-| @StockMKTNewz | Fri Sep 11 11:24:15 +0000 2026 | Apple $AAPL will reportedly pay Samsung ~$250 per foldable iPhone Duo sold as Apple uses Samsung's screens - MacRumors https://t.co/d6kn2K2Vsy | [X](https://x.com/StockMKTNewz/status/2098372040822554995) |
-| @StockMKTNewz | Fri Sep 11 11:11:13 +0000 2026 | Nvidia $NVDA posted this:  “Robotaxis are hitting the road. And NVIDIA is helping power them.” https://t.co/EaFNfYndAi | [X](https://x.com/StockMKTNewz/status/2098368762542010806) |
 
 ## 选题推荐
 
@@ -227,6 +227,7 @@
 | 1 | JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer … | WhaleInsider | 14429 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Tesla $TSLA posted this today "Semi is coming to Europe" https://t.co/gkB2qs7uUb | StockMKTNewz | 8663 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of… | WhaleInsider | 11816 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto mar… | WhaleInsider | 16771 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -306,6 +307,7 @@
 | 2 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at … | StockMKTNewz | 10244 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | StockMKTNewz | 16656 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | $DELL stock hit new ALL TIME HIGHS today 🟢 https://t.co/I5FMpy4KZ3 | StockMKTNewz | 10689 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | If I gave you $420,000 but said you have to invest the money by the end of today and can't t… | StockMKTNewz | 11648 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3580,7 +3582,7 @@ Celsius CEO John Fieldly just bought 18,000 $CELH shares at an average price of 
 
 ### Giannis buys Miami mansion for $13.5M
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-giannis-miami-mansion-135m/when2buy-image.png`
 
 Giannis Antetokounmpo just bought a Miami mansion for $13.5 million.
@@ -3612,6 +3614,13 @@ Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the first hand of t
 - 配图：`deliverables/pkg-20260911-dell-all-time-high/when2buy-image.png`
 
 Dell $DELL just hit new all-time highs today.
+
+### Coinbase policy says crypto rules keep moving
+
+- 状态：`publishing`
+- 配图：`deliverables/pkg-20260911-coinbase-crypto-policy/when2buy-image.png`
+
+Coinbase's U.S. policy team says regulators will keep advancing crypto market-structure rules even if the CLARITY Act fails.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -3721,11 +3730,11 @@ Dell $DELL just hit new all-time highs today.
 | CNBC'S RICK SANTELLI TO RETIRE | 2026-09-05T06:42:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096126961492082889) |
 | NVIDIA's September market-cap history | 2026-09-07T07:14:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859679486095536) |
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
+| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
-| Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
@@ -3787,6 +3796,7 @@ Dell $DELL just hit new all-time highs today.
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
+| IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
@@ -3810,7 +3820,8 @@ Dell $DELL just hit new all-time highs today.
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
-| IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
+| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
+| Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -3824,7 +3835,6 @@ Dell $DELL just hit new all-time highs today.
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
-| Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -3849,10 +3859,13 @@ Dell $DELL just hit new all-time highs today.
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
-| Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 
 ## 最近运行
 
+- `2026-09-11T17:06:12.958247+00:00` **produce / succeeded** — Produced one newest fresh Coinbase policy package with one complete square entity-led image and one exact-logo composite.
+- `2026-09-11T17:01:43Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T17:01:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 2 new post(s).
+- `2026-09-11T17:00:36Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T16:49:53Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T16:49:04Z` **produce / succeeded** — Produced one newest fresh Dell all-time-high package with complete entity-led square visual and exact-logo composite.
 - `2026-09-11T16:47:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 0 new post(s).
@@ -3869,7 +3882,3 @@ Dell $DELL just hit new all-time highs today.
 - `2026-09-11T16:18:11Z` **produce / succeeded** — Produced one newest fresh Tesla Semi Europe package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-11T16:16:28Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T16:16:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 2 new post(s).
-- `2026-09-11T16:15:39Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T16:03:21Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T16:03:14Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 83 eligible originals and added 0 new post(s).
-- `2026-09-11T16:03:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 35 eligible originals and added 0 new post(s).

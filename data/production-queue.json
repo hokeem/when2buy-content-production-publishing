@@ -1,10 +1,92 @@
 {
-  "generatedAt": "2026-09-11T16:47:11Z",
+  "generatedAt": "2026-09-11T17:01:43Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
+      "benchmarkPostId": "2098454174077792679",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098454174077792679",
+      "originalText": "JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto market structure even if CLARITY Act fails. https://t.co/AGBEypHeWM",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2098454124379418627/img/E1YKOBjUjSbCDrGE.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098454124379418627/img/E1YKOBjUjSbCDrGE.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098454174077792679-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 46,
+        "replies": 23,
+        "reposts": 9,
+        "quotes": 3,
+        "views": 14301
+      },
+      "postedAt": "Fri Sep 11 16:50:37 +0000 2026",
+      "score": 16771,
+      "heatScore": 16771,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 16,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 11.1,
+        "expiresAt": "2026-09-11T18:20:37Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098454124006142064",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098454124006142064",
+      "originalText": "If I gave you $420,000 but said you have to invest the money by the end of today and can't touch it until 2036 \n\nWhat would you do?",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 15,
+        "replies": 40,
+        "reposts": 2,
+        "quotes": 1,
+        "views": 9588
+      },
+      "postedAt": "Fri Sep 11 16:50:25 +0000 2026",
+      "score": 11648,
+      "heatScore": 11648,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 20,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 11.3,
+        "expiresAt": "2026-09-11T18:20:25Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
       "benchmarkPostId": "2098448408344186893",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-ossi-ketola-duel-million",
@@ -14,7 +96,13 @@
       "originalMediaUrls": [
         "https://pbs.twimg.com/amplify_video_thumb/2098448313993601024/img/e5vgAeLeh7IkeCe4.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098448313993601024/img/e5vgAeLeh7IkeCe4.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098448408344186893-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 14,
         "replies": 14,
@@ -36,59 +124,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 19.5,
+        "ageMinutes": 34.0,
         "expiresAt": "2026-09-11T17:57:42Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
-      "benchmarkPostId": "2098442708297597298",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098442708297597298",
-      "originalText": "$DELL stock hit new ALL TIME HIGHS today\n\n🟢 https://t.co/I5FMpy4KZ3",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8qerLa8AAHBQy.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8qerLa8AAHBQy.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098442708297597298-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 35,
-        "replies": 14,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 9379
-      },
-      "postedAt": "Fri Sep 11 16:05:03 +0000 2026",
-      "score": 10689,
-      "heatScore": 10689,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 42.1,
-        "expiresAt": "2026-09-11T17:35:03Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "benchmarkPostId": "2098436214864904690",
       "benchmarkAccount": "WhaleInsider",
       "packageId": "pkg-20260911-unicredit-crypto-services",
@@ -132,53 +175,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 67.9,
+        "ageMinutes": 82.5,
         "expiresAt": "2026-09-11T17:09:15Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 4,
-      "benchmarkPostId": "2098431791933620311",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-giannis-miami-mansion-135m",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098431791933620311",
-      "originalText": "Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0RT",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HR8gltiaEAECU0S.png"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HR8gltiaEAECU0S.png",
-          "path": "output/benchmark-media/StockMKTNewz/2098431791933620311-1.png",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 20,
-        "replies": 7,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 11377
-      },
-      "postedAt": "Fri Sep 11 15:21:40 +0000 2026",
-      "score": 12107,
-      "heatScore": 12107,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 85.5,
-        "expiresAt": "2026-09-11T16:51:40Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
