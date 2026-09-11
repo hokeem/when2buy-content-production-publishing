@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T06:16:31.452612+00:00",
+  "updatedAt": "2026-09-11T06:31:10.598718+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -15778,7 +15778,19 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-11T06:16:27Z"
+      "capturedAt": "2026-09-11T06:16:27Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR6iZ0DaQAABUTK.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098293048258031651-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HR6iZyJWMAcNJ3t.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098293048258031651-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -304310,6 +304322,28 @@
       "status": "succeeded",
       "startedAt": "2026-09-11T06:16:31Z",
       "completedAt": "2026-09-11T06:16:31Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260911T063056Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T06:30:56Z",
+      "completedAt": "2026-09-11T06:30:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260911T063110Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-11T06:31:10Z",
+      "completedAt": "2026-09-11T06:31:10Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
