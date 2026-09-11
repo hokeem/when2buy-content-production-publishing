@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T19:21:30.436695+00:00`
+- 状态更新：`2026-09-11T19:34:35.258671+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**620**
-- 待选选题：**543**
+- 对标帖子快照：**621**
+- 待选选题：**544**
 - 待发布制作包：**3**
-- 已验证发布：**236**
+- 已验证发布：**237**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Fri Sep 11 19:23:08 +0000 2026 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking relationship with Clear Street - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098492555679662501) |
 | @StockMKTNewz | Fri Sep 11 19:09:34 +0000 2026 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week  Citi expects the Fed to be cutting rates by the middle of 2027 | [X](https://x.com/StockMKTNewz/status/2098489144276123754) |
 | @StockMKTNewz | Fri Sep 11 19:13:30 +0000 2026 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults will happen https://t.co/i2U8d3xIat | [X](https://x.com/StockMKTNewz/status/2098490133007753576) |
 | @WhaleInsider | Fri Sep 11 19:15:43 +0000 2026 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/Q934niMGTj | [X](https://x.com/WhaleInsider/status/2098490691844206770) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 12:56:55 +0000 2026 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI anticipation builds, with holders earning $TTWO rewards. https://t.co/qiIJq4club | [X](https://x.com/WhaleInsider/status/2098395364755706185) |
 | @WhaleInsider | Fri Sep 11 13:03:00 +0000 2026 | JUST IN: Over $130,000,000 liquidated from the crypto market in the past 60 minutes. https://t.co/Nj5JbUM0AQ | [X](https://x.com/WhaleInsider/status/2098396894326063300) |
 | @StockMKTNewz | Fri Sep 11 13:06:25 +0000 2026 | MICRON'S TAIWAN WORKERS JUST GOT A BONUS EQUALING 35 TO 68 MONTHS OF PAY  Micron $MU said it will give its Taiwanese employees a $31,600 cash bonus and additional stock rewards.   All global employees will receive equities as part of an annual performance-related bonus pool https://t.co/lt7b6VaXTR | [X](https://x.com/StockMKTNewz/status/2098397752774234368) |
-| @WhaleInsider | Fri Sep 11 12:29:55 +0000 2026 | NEW: @NBCNews covers SolCex Exchange and its upcoming stock trading launch, with stocks scheduled to launch on the platform on September 15. https://t.co/HLbVD9UUtn | [X](https://x.com/WhaleInsider/status/2098388566233542821) |
 
 ## 选题推荐
 
@@ -233,6 +233,7 @@
 | 1 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | StockMKTNewz | 8989 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026 There are … | StockMKTNewz | 6569 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/… | WhaleInsider | 5717 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking r… | StockMKTNewz | 10344 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3672,6 +3673,13 @@ Invesco ETFs are outperforming the Invesco QQQ Trust so far in 2026.  The list i
 
 Citi now expects the Fed to raise rates next week under Chair Kevin Warsh.
 
+### Situational Awareness establishes Clear Street relationship
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260911-situational-awareness-clear-street/when2buy-image.png`
+
+Leopold Aschenbrenner's Situational Awareness has established a prime brokerage relationship with Clear Street.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3913,9 +3921,15 @@ Citi now expects the Fed to raise rates next week under Chair Kevin Warsh.
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
+| Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
 
 ## 最近运行
 
+- `2026-09-11T19:33:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-11T19:33:19Z` **produce / succeeded** — Produced one newest fresh Situational Awareness package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-11T19:31:48Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T19:31:38Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T19:31:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-11T19:21:30Z` **full / succeeded** — Newest Citi/Fed package safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-11T19:32:02Z
 - `2026-09-11T19:20:38Z` **produce / succeeded** — Produced one newest fresh Citi/Fed rate-hike package with an inspected entity-led image and exact-logo composite.
 - `2026-09-11T19:18:33Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3931,8 +3945,3 @@ Citi now expects the Fed to raise rates next week under Chair Kevin Warsh.
 - `2026-09-11T18:48:17Z` **produce / succeeded** — Produced the single newest fresh benchmark package with one inspected entity-led image and exact-logo composite.
 - `2026-09-11T18:46:11Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T18:46:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T18:33:09Z` **full / succeeded** — Newest fresh JPMorgan/Fed rate-hike item was safely deferred because the exact benchmark claim could not be corroborated by authoritative current sources; no package or accepted Postiz task was created. verification_required
-- `2026-09-11T18:32:03Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T18:31:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 122 eligible originals and added 2 new post(s).
-- `2026-09-11T18:30:37Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T18:18:16Z` **full / succeeded** — Newest fresh Lutnick $5,000 package was safely deferred by the 15-minute Postiz submission gap; no accepted task was created and no retry is permitted. minimum_interval; retryAt 2026-09-11T18:20:39Z
