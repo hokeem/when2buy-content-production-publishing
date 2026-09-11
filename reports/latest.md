@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T01:06:03.690960+00:00`
+- 状态更新：`2026-09-11T01:06:52.631236+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**571**
 - 待选选题：**497**
@@ -3648,6 +3648,7 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 
 ## 最近运行
 
+- `2026-09-11T01:06:52Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T01:06:03Z` **publish / succeeded** — Newest fresh package was safely deferred by the enforced rolling 24-hour Postiz limit; no submission was accepted and the ready package remains recoverable. daily_limit; retryAt=2026-09-11T07:00:00Z
 - `2026-09-11T01:03:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T01:02:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 1 new post(s).
@@ -3667,4 +3668,3 @@ OpenAI is considering slowing the development of cutting-edge artificial intelli
 - `2026-09-11T00:16:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
 - `2026-09-11T00:15:59Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T00:05:05Z` **publish / succeeded** — Postiz batch safely deferred the sole fresh package because the minimum accepted-submission interval was active; no task was accepted and no retry was made. minimum_interval; retryAt=2026-09-11T00:05:44Z
-- `2026-09-11T00:04:01Z` **produce / succeeded** — Produced the single newest fresh Astra GPT 6 package with inspected entity-led visual and exact-logo composite.
