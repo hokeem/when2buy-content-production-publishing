@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T12:49:41.334544+00:00`
+- 状态更新：`2026-09-11T13:03:48.303650+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**591**
 - 待选选题：**515**
-- 待发布制作包：**3**
+- 待发布制作包：**2**
 - 已验证发布：**225**
 
 ## 对标账号扫描
@@ -3478,7 +3478,7 @@ NVIDIA's DRIVE platform is helping power robotaxis hitting the road.
 
 ### Apple iPhone Duo display cost
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260911-apple-samsung-foldable-display-cost/when2buy-image-model.png`
 
 Apple's iPhone Duo uses Samsung's foldable displays, reportedly costing about $250 per phone.
@@ -3669,6 +3669,7 @@ Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.
 | Duke annual cost tops $100,000 | 2026-09-07T06:54:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854587550679371) |
 | Nvidia and Apple supplier Foxconn brought in $29.1 Billion of revenue in August up 52% YoY | 2026-09-07T07:36:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096865262234677561) |
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
+| The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3690,7 +3691,6 @@ Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.
 | Robinhood Chain tokenized stocks reach $160M | 2026-09-09T08:53:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097609478095110200) |
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
-| The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
@@ -3730,6 +3730,9 @@ Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.
 
 ## 最近运行
 
+- `2026-09-11T13:03:48.210551+00:00` **full / succeeded** — Fresh Fed rate-hike odds package was safely deferred because the rolling 24-hour Postiz limit was exhausted. daily_limit
+- `2026-09-11T13:02:03Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-11T13:00:45Z` **queue / succeeded** — Prepared 9 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-11T12:49:41Z` **full / succeeded** — Collected both benchmark feeds, archived media, rebuilt the hard 90-minute queue, produced the sole newest fresh Fed rate-odds package, and safely deferred the one Postiz submission because the rolling 24-hour limit was exhausted. daily_limit
 - `2026-09-11T12:48:50Z` **produce / succeeded** — Produced the single newest fresh Fed rate-odds package with authoritative fact verification, generated entity visual, and exact-logo composite.
 - `2026-09-11T12:46:23Z` **queue / succeeded** — Prepared 10 fresh candidate(s); expired 0 unsent stale package(s).
@@ -3747,6 +3750,3 @@ Markets are pricing roughly a 70% chance of a 25-basis-point Fed hike next week.
 - `2026-09-11T11:50:14.139596+00:00` **produce / succeeded** — Produced one newest fresh Apple/Samsung display-cost package with generated entity visual and exact-logo composite.
 - `2026-09-11T11:48:47Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T11:47:22Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T11:32:54Z` **queue / succeeded** — Prepared 7 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-11T11:32:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 2 new post(s).
-- `2026-09-11T11:30:42Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
