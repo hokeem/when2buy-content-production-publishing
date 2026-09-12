@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T11:16:42.714519+00:00",
+  "updatedAt": "2026-09-12T11:35:12.013770+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17521,6 +17521,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098735109092372568",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098735109092372568",
+      "postedAt": "Sat Sep 12 11:26:57 +0000 2026",
+      "text": "JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit in New Delhi. https://t.co/1TavRkJheB",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSA0dC5boAA5onI.jpg"
+      ],
+      "engagement": {
+        "likes": 20,
+        "replies": 13,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 11011
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T11:31:02Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSA0dC5boAA5onI.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098735109092372568-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -28125,6 +28153,25 @@
         "when2buyFit": 0,
         "marketImpact": 3,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098735109092372568",
+      "rank": 1,
+      "title": "JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed A…",
+      "benchmarkPostId": "2098735109092372568",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098735109092372568",
+      "score": 12181,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T11:31:07Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -41828,6 +41875,49 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-12T09:49:16Z",
       "publishedAt": "2026-09-12T09:48:00.000Z"
+    },
+    {
+      "id": "pkg-20260912-brics-iran-uae-new-delhi",
+      "benchmarkPostId": "2098735109092372568",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098735109092372568",
+      "title": "Iran and UAE at BRICS in New Delhi",
+      "status": "ready",
+      "postText": "Iranian President Masoud Pezeshkian and Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan are in New Delhi for the BRICS Summit.",
+      "mirroredFacts": [
+        "The benchmark post states that Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit in New Delhi.",
+        "India's Press Information Bureau confirms Pezeshkian's participation in the BRICS Summit in New Delhi.",
+        "The UAE's official news agency confirms Sheikh Khaled bin Mohamed bin Zayed Al Nahyan is leading the UAE delegation on behalf of President Mohamed bin Zayed.",
+        "The package uses the narrowest source-supported event wording and does not assert the unconfirmed bilateral meeting."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098735109092372568",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2309308&lang=2&reg=48",
+        "https://www.wam.ae/en/article/c26ddbe-behalf-uae-president-crown-prince-abu-dhabi-leads"
+      ],
+      "verificationStatus": "verified_authoritative_reporting",
+      "verificationNote": "Benchmark discovery was narrowed to facts supported by India's PIB and UAE WAM; the benchmark's claimed bilateral meeting was not independently asserted.",
+      "imagePath": "deliverables/pkg-20260912-brics-iran-uae-new-delhi/when2buy-image.png",
+      "createdAt": "2026-09-12T11:35:11.916016+00:00",
+      "sourceExpiresAt": "2026-09-12T12:56:57Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led BRICS summit scene in New Delhi with Iranian President and UAE delegation context, no generated text or branding; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-12T11:35:11.916016+00:00",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete entity-led diplomatic summit scene",
+            "factual text composited once",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "narrowed to authoritative source-supported facts"
+          ]
+        }
+      }
     }
   ],
   "posts": [
@@ -422330,6 +422420,40 @@
       "summary": "Scanned both benchmark feeds; no new eligible originals and no fresh hard-TTL queue candidate. No publication attempted.",
       "reason": "no_fresh_eligible_source",
       "outcome": "no_publish"
+    },
+    {
+      "id": "run-20260912T113102Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T11:31:02Z",
+      "completedAt": "2026-09-12T11:31:02Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T113107Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T11:31:07Z",
+      "completedAt": "2026-09-12T11:31:07Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T113511Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T11:35:11.916016+00:00",
+      "completedAt": "2026-09-12T11:35:11.916016+00:00",
+      "summary": "Produced one newest fresh package with authoritative fact narrowing, one complete square entity visual, and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260912-brics-iran-uae-new-delhi"
+      ]
     }
   ],
   "deliveryCircuitBreaker": {

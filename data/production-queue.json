@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-09-12T11:16:10Z",
+  "generatedAt": "2026-09-12T11:31:07Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
-  "items": [],
+  "items": [
+    {
+      "rank": 1,
+      "benchmarkPostId": "2098735109092372568",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098735109092372568",
+      "originalText": "JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit in New Delhi. https://t.co/1TavRkJheB",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HSA0dC5boAA5onI.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSA0dC5boAA5onI.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098735109092372568-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 20,
+        "replies": 13,
+        "reposts": 5,
+        "quotes": 0,
+        "views": 11011
+      },
+      "postedAt": "Sat Sep 12 11:26:57 +0000 2026",
+      "score": 12181,
+      "heatScore": 12181,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 4.2,
+        "expiresAt": "2026-09-12T12:56:57Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    }
+  ],
   "sourceTtlMinutes": 90
 }

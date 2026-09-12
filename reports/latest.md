@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T11:16:42.714519+00:00`
+- 状态更新：`2026-09-12T11:35:12.013770+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**635**
-- 待选选题：**558**
-- 待发布制作包：**0**
+- 对标帖子快照：**636**
+- 待选选题：**559**
+- 待发布制作包：**1**
 - 已验证发布：**249**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Sat Sep 12 11:26:57 +0000 2026 | JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit in New Delhi. https://t.co/1TavRkJheB | [X](https://x.com/WhaleInsider/status/2098735109092372568) |
 | @WhaleInsider | Sat Sep 12 09:36:11 +0000 2026 | JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him. https://t.co/R45M7mfDBO | [X](https://x.com/WhaleInsider/status/2098707236117741745) |
 | @WhaleInsider | Sat Sep 12 08:38:02 +0000 2026 | JUST IN: 🇺🇸 Odds of a Fed rate hike this month surge to 81%, per Kalshi traders. https://t.co/SW4k887gwo | [X](https://x.com/WhaleInsider/status/2098692599393423656) |
 | @WhaleInsider | Sat Sep 12 07:25:10 +0000 2026 | JUST IN: 🇺🇸 Goldman Sachs warns of rate hike next week. https://t.co/kraAilsbAI | [X](https://x.com/WhaleInsider/status/2098674263930593636) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 16:27:42 +0000 2026 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of the biggest heads-up poker game ever. https://t.co/uGHb9iMHAh | [X](https://x.com/WhaleInsider/status/2098448408344186893) |
 | @StockMKTNewz | Fri Sep 11 16:05:03 +0000 2026 | $DELL stock hit new ALL TIME HIGHS today  🟢 https://t.co/I5FMpy4KZ3 | [X](https://x.com/StockMKTNewz/status/2098442708297597298) |
 | @StockMKTNewz | Fri Sep 11 16:09:13 +0000 2026 | Tesla $TSLA posted this today  "Semi is coming to Europe" https://t.co/gkB2qs7uUb | [X](https://x.com/StockMKTNewz/status/2098443757209137467) |
-| @WhaleInsider | Fri Sep 11 15:39:15 +0000 2026 | JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer crypto services. https://t.co/hMYigRD9hS | [X](https://x.com/WhaleInsider/status/2098436214864904690) |
 
 ## 选题推荐
 
@@ -245,6 +245,7 @@
 | 1 | JUST IN: 🇺🇸 Goldman Sachs warns of rate hike next week. https://t.co/kraAilsbAI | WhaleInsider | 12589 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Odds of a Fed rate hike this month surge to 81%, per Kalshi traders. https://t.c… | WhaleInsider | 14046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t … | WhaleInsider | 14893 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed A… | WhaleInsider | 12181 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3785,6 +3786,13 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 
 Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot locate him.
 
+### Iran and UAE at BRICS in New Delhi
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260912-brics-iran-uae-new-delhi/when2buy-image.png`
+
+Iranian President Masoud Pezeshkian and Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan are in New Delhi for the BRICS Summit.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4042,6 +4050,9 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 
 ## 最近运行
 
+- `2026-09-12T11:35:11.916016+00:00` **produce / succeeded** — Produced one newest fresh package with authoritative fact narrowing, one complete square entity visual, and exact-logo composite.
+- `2026-09-12T11:31:07Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T11:31:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-12T11:16:42.604330Z` **full / succeeded** — Scanned both benchmark feeds; no new eligible originals and no fresh hard-TTL queue candidate. No publication attempted. no_fresh_eligible_source
 - `2026-09-12T11:16:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T11:16:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -4059,6 +4070,3 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 - `2026-09-12T09:48:46Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:48:25Z` **produce / succeeded** — Produced one newest fresh Iran leadership package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-12T09:46:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T09:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
-- `2026-09-12T09:46:47Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T09:46:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
