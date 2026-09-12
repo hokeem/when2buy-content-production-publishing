@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T15:17:02.887009+00:00`
+- 状态更新：`2026-09-12T15:34:28.652773+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**648**
-- 待选选题：**570**
+- 对标帖子快照：**649**
+- 待选选题：**571**
 - 待发布制作包：**0**
-- 已验证发布：**253**
+- 已验证发布：**254**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 15:18:10 +0000 2026 | Anthropic’s valuation has increased by more than 7,500% over the last 2 years https://t.co/7hGTfU07Fn | [X](https://x.com/StockMKTNewz/status/2098793299662274652) |
 | @StockMKTNewz | Sat Sep 12 14:42:50 +0000 2026 | Which ETF do you hold the most of? | [X](https://x.com/StockMKTNewz/status/2098784406156521744) |
 | @StockMKTNewz | Sat Sep 12 14:06:24 +0000 2026 | ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS:   - WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS | [X](https://x.com/StockMKTNewz/status/2098775238838288484) |
 | @WhaleInsider | Sat Sep 12 13:50:19 +0000 2026 | JUST IN: Traders speculate on potential LeBron James coin launch after Vlad Tenev followed him on X. https://t.co/O2gZklp7r0 | [X](https://x.com/WhaleInsider/status/2098771189644533915) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 19:52:24 +0000 2026 | US GOVERNMENT BUDGET UPDATE  The federal budget deficit hit $1.97 trillion for the first 11 months of the fiscal year  Spending for fiscal 2026 to date totaled $6.81 trillion, up 3% YoY, while revenues were $4.85 trillion, also 3% YoY. The US Government's fiscal year ends in September - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098499922106384614) |
 | @StockMKTNewz | Fri Sep 11 19:23:08 +0000 2026 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking relationship with Clear Street - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098492555679662501) |
 | @StockMKTNewz | Fri Sep 11 19:09:34 +0000 2026 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week  Citi expects the Fed to be cutting rates by the middle of 2027 | [X](https://x.com/StockMKTNewz/status/2098489144276123754) |
-| @StockMKTNewz | Fri Sep 11 19:13:30 +0000 2026 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults will happen https://t.co/i2U8d3xIat | [X](https://x.com/StockMKTNewz/status/2098490133007753576) |
 
 ## 选题推荐
 
@@ -252,6 +252,7 @@
 | 1 | JUST IN: Robinhood Chain $HOOD hit a new all-time high of $531 million in daily perps volume… | WhaleInsider | 11030 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS: - WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE… | StockMKTNewz | 9544 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Which ETF do you hold the most of? | StockMKTNewz | 5902 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Anthropic’s valuation has increased by more than 7,500% over the last 2 years https://t.co/7… | StockMKTNewz | 13577 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3846,6 +3847,13 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 
 3 of Microsoft's 10 largest acquisitions are video-game companies: Activision Blizzard ($75.4B), ZeniMax Media ($8.1B), and Mojang ($2.5B).
 
+### Anthropic valuation rises more than 7,500%
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-anthropic-valuation-7500/when2buy-image.png`
+
+Anthropic's valuation has increased by more than 7,500% over the last 2 years.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4104,9 +4112,14 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
+| Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
 
 ## 最近运行
 
+- `2026-09-12T15:33:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T15:32:50Z` **produce / succeeded** — Produced one newest fresh Anthropic valuation package with an inspected entity-led image and exact-logo composite.
+- `2026-09-12T15:30:59Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T15:30:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-12T15:17:02Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload; no compliant copy, image, or publication was created, and the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
 - `2026-09-12T15:16:27Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T15:16:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 45 eligible originals and added 0 new post(s).
@@ -4123,7 +4136,3 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 - `2026-09-12T14:34:24Z` **produce / succeeded** — Produced the sole newest fresh Microsoft acquisitions package with an inspected entity-led visual and exact-logo composite.
 - `2026-09-12T14:31:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T14:31:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-12T14:30:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T14:20:05Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T14:18:48Z` **produce / succeeded** — Produced one newest fresh Anthropic package with verified source mapping, generated entity visual, exact-logo composite, and QA pass.
-- `2026-09-12T14:16:33Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
