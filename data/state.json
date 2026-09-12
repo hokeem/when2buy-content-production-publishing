@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T23:04:30.611034+00:00",
+  "updatedAt": "2026-09-12T23:17:57.109766+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -48207,12 +48207,14 @@
       "url": "https://x.com/_When2buy/status/2097825543597256803",
       "postizPostId": "cmtupqxy006jkqk0yzpehbrl9",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T23:12:00Z",
         "windowEnd": "2026-09-12T23:12:00Z",
         "lastAttemptAt": "2026-09-12T23:02:17.633808Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T23:17:08.108715Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -462263,6 +462265,38 @@
       "summary": "Apify benchmark scan exceeded the bounded timeout; no new source records were accepted, no fresh item was available, and no Postiz submission was attempted.",
       "reason": "apify_timeout; recoverable state preserved for the next scheduled run",
       "outcome": "pending_reconciliation"
+    },
+    {
+      "id": "run-20260912T231640Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T23:16:40Z",
+      "completedAt": "2026-09-12T23:16:40Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T231646Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T23:16:46Z",
+      "completedAt": "2026-09-12T23:16:46Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T231708Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T23:16:20Z",
+      "completedAt": "2026-09-12T23:17:08Z",
+      "summary": "Preflight and validation passed; Postiz reconciliation, Apify collection, benchmark-media archive, hard 90-minute queue rebuild, hourly metrics, security validation, reports, and fixed report-slug sync completed. No fresh eligible item remained, so no content was produced or published.",
+      "reason": "no_fresh_eligible_item",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
