@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T19:05:22.852813+00:00",
+  "updatedAt": "2026-09-12T19:20:30.824125+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -18328,6 +18328,28 @@
       "source": "apify",
       "isPinned": false,
       "capturedAt": "2026-09-12T19:02:28Z"
+    },
+    {
+      "id": "2098850220524118109",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098850220524118109",
+      "postedAt": "Sat Sep 12 19:04:21 +0000 2026",
+      "text": "JUST IN: $BANGERCAT, the first memecoin on Robinhood Chain feeding cats, paired with NVDA stock. https://t.co/VelHb5pKI7",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSCcFcXaAAANYAl.jpg",
+        "https://pbs.twimg.com/amplify_video_thumb/2098849484382093312/img/2la4GGkKhyRlNmdb.jpg"
+      ],
+      "engagement": {
+        "likes": 42,
+        "replies": 21,
+        "reposts": 7,
+        "quotes": 4,
+        "views": 14307
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T19:16:08Z"
     }
   ],
   "radar": [
@@ -29481,6 +29503,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098850220524118109",
+      "rank": 1,
+      "title": "JUST IN: $BANGERCAT, the first memecoin on Robinhood Chain feeding cats, paired with NVDA st…",
+      "benchmarkPostId": "2098850220524118109",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098850220524118109",
+      "score": 16577,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T19:16:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
         "marketImpact": 5,
         "visualPotential": 3,
         "factualClarity": 4
@@ -43916,7 +43957,7 @@
       "benchmarkPostId": "2098828384360861937",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098828384360861937",
       "title": "OpenAI pauses frontier training for safety work",
-      "status": "ready",
+      "status": "expired",
       "postText": "OpenAI has paused some frontier training runs to do more safety and alignment work.\n\nSmaller-scale training and evaluations continue while the largest planned run remains on hold.",
       "mirroredFacts": [
         "The benchmark says Sam Altman said OpenAI paused training runs for safety work.",
@@ -43951,7 +43992,9 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-12T19:16:19Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260912-tesla-go-for-launch",
@@ -44038,6 +44081,45 @@
         "retryAt": "2026-09-12T19:04:59Z",
         "recordedAt": "2026-09-12T19:05:22.850098+00:00",
         "accepted": false
+      }
+    },
+    {
+      "id": "pkg-20260912-bangercat-nvda-pairing",
+      "benchmarkPostId": "2098850220524118109",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098850220524118109",
+      "title": "$BANGERCAT pairs with NVDA on Robinhood Chain",
+      "status": "ready",
+      "postText": "On Robinhood Chain, $BANGERCAT is the first memecoin feeding cats and is paired with NVDA stock.",
+      "mirroredFacts": [
+        "$BANGERCAT is described as the first memecoin on Robinhood Chain feeding cats.",
+        "$BANGERCAT is paired with NVDA stock."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098850220524118109"
+      ],
+      "imagePath": "deliverables/pkg-20260912-bangercat-nvda-pairing/when2buy-image.png",
+      "createdAt": "2026-09-12T19:18:49.240473Z",
+      "sourceExpiresAt": "2026-09-12T20:34:21Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: stylized-concept. Complete square 1:1 premium entity-led visual for $BANGERCAT on Robinhood Chain, represented by a refined unbranded cat-themed crypto token paired with a sleek GPU and market-compute motif; near-black cinematic blockchain and compute environment, cool blue-white light, restrained red accents, clean upper-left typography space, clean lower-right logo-safe area; no generated readable text, letters, numbers, logos, watermark, source names, handles, URLs, attribution, disclaimer, commentary, CTA, tagline, hashtags, pure-text card, generic radar graphic, or copied mascot artwork.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "canvas": "1254x1254",
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-12T19:18:49.240473Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete cat-token and GPU entity-led scene",
+            "factual overlay proofread",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, hashtags, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
       }
     }
   ],
@@ -449847,6 +449929,44 @@
         "pkg-20260912-ai-training-slowdown"
       ],
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260912T191608Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:16:08Z",
+      "completedAt": "2026-09-12T19:16:08Z",
+      "summary": "Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T191623Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:16:23Z",
+      "completedAt": "2026-09-12T19:16:23Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T192005Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-12T19:16:08Z",
+      "completedAt": "2026-09-12T19:20:05Z",
+      "summary": "Preflight and state validation passed; Apify collected one new eligible original, package statuses were reconciled, the hard 90-minute queue was rebuilt, one newest fresh BANGERCAT package was produced with exact-logo image QA, content validation passed, publication safely deferred by the daily account limit, metrics were idempotent, reports were rendered, and fixed report slugs were updated.",
+      "reason": "daily_limit",
+      "selectedPackageIds": [
+        "pkg-20260912-bangercat-nvda-pairing"
+      ],
+      "reportUrls": {
+        "content": "https://reports.aitist.ai/when2buy/content-run-panel/",
+        "performance": "https://reports.aitist.ai/when2buy/performance-dashboard/"
+      }
     }
   ],
   "deliveryCircuitBreaker": {
