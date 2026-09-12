@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T23:33:36.328113+00:00",
+  "updatedAt": "2026-09-12T23:46:41.077060+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -462316,6 +462316,37 @@
       "summary": "Bounded Apify benchmark scan timed out before a new radar record was accepted; existing queue had no fresh candidate, no production or Postiz submission was attempted, and state is recoverable for the next scheduled run.",
       "reason": "apify_timeout",
       "outcome": "pending_reconciliation"
+    },
+    {
+      "id": "run-20260912T234625Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T23:46:25Z",
+      "completedAt": "2026-09-12T23:46:25Z",
+      "summary": "Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T234632Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T23:46:32Z",
+      "completedAt": "2026-09-12T23:46:32Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T234641Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T23:46:41Z",
+      "completedAt": "2026-09-12T23:46:41Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
