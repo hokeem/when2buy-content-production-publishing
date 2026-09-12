@@ -1,20 +1,77 @@
 {
-  "generatedAt": "2026-09-12T16:01:29Z",
+  "generatedAt": "2026-09-12T16:16:35Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098803086466629882",
+      "benchmarkPostId": "2098806318689587292",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
       "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098806318689587292",
+      "originalText": "JUST IN: An official Amazon X account replied to $RUFUS team, confirming Amazon’s AI assistant, ‘Rufus’, is named after the first dog to join Amazon. https://t.co/SZxHm8jDRl",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HSB1OBmWUAE1hlV.jpg",
+        "https://pbs.twimg.com/media/HSB1OBoWoAUyIjF.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSB1OBmWUAE1hlV.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098806318689587292-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSB1OBoWoAUyIjF.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098806318689587292-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 21,
+        "replies": 10,
+        "reposts": 7,
+        "quotes": 2,
+        "views": 12241
+      },
+      "postedAt": "Sat Sep 12 16:09:54 +0000 2026",
+      "score": 13531,
+      "heatScore": 13531,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 6.7,
+        "expiresAt": "2026-09-12T17:39:54Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098803086466629882",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": "pkg-20260912-anthropic-slowdown-rogue-agents",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/WhaleInsider/status/2098803086466629882",
       "originalText": "JUST IN: Anthropic CEO Dario Amodei calls for slower AI development, warns rogue AI agents could take over the internet in 6 to 12 months. https://t.co/dJt04hDI0y",
       "originalMediaUrls": [
         "https://pbs.twimg.com/media/HSByR-AbUAAAUV0.jpg"
       ],
-      "archivedMedia": [],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSByR-AbUAAAUV0.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098803086466629882-1.jpg",
+          "status": "archived"
+        }
+      ],
       "engagement": {
         "likes": 27,
         "replies": 15,
@@ -36,14 +93,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 4.4,
+        "ageMinutes": 19.5,
         "expiresAt": "2026-09-12T17:27:04Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "benchmarkPostId": "2098797888063312188",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260912-openai-valuation-766",
@@ -81,45 +138,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 25.1,
+        "ageMinutes": 40.2,
         "expiresAt": "2026-09-12T17:06:24Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
-      "benchmarkPostId": "2098784406156521744",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098784406156521744",
-      "originalText": "Which ETF do you hold the most of?",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 6,
-        "replies": 14,
-        "reposts": 0,
-        "quotes": 0,
-        "views": 5222
-      },
-      "postedAt": "Sat Sep 12 14:42:50 +0000 2026",
-      "score": 5902,
-      "heatScore": 5902,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 3
-      },
-      "editorialScore": 14,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 78.7,
-        "expiresAt": "2026-09-12T16:12:50Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

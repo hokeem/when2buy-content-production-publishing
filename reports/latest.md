@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T16:04:40.742771+00:00`
+- 状态更新：`2026-09-12T16:19:39.131113+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**651**
-- 待选选题：**573**
+- 对标帖子快照：**652**
+- 待选选题：**574**
 - 待发布制作包：**1**
-- 已验证发布：**254**
+- 已验证发布：**255**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Sat Sep 12 16:09:54 +0000 2026 | JUST IN: An official Amazon X account replied to $RUFUS team, confirming Amazon’s AI assistant, ‘Rufus’, is named after the first dog to join Amazon. https://t.co/SZxHm8jDRl | [X](https://x.com/WhaleInsider/status/2098806318689587292) |
 | @WhaleInsider | Sat Sep 12 15:57:04 +0000 2026 | JUST IN: Anthropic CEO Dario Amodei calls for slower AI development, warns rogue AI agents could take over the internet in 6 to 12 months. https://t.co/dJt04hDI0y | [X](https://x.com/WhaleInsider/status/2098803086466629882) |
 | @StockMKTNewz | Sat Sep 12 15:36:24 +0000 2026 | OpenAI’s valuation has increased by 766% 🟢 over the last 2 years https://t.co/exg6zaJvTG | [X](https://x.com/StockMKTNewz/status/2098797888063312188) |
 | @StockMKTNewz | Sat Sep 12 15:18:10 +0000 2026 | Anthropic’s valuation has increased by more than 7,500% over the last 2 years https://t.co/7hGTfU07Fn | [X](https://x.com/StockMKTNewz/status/2098793299662274652) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 20:22:58 +0000 2026 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees  Anthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ | [X](https://x.com/StockMKTNewz/status/2098507615315648591) |
 | @WhaleInsider | Fri Sep 11 20:30:29 +0000 2026 | JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get unique NFT airdrops. Phase 2: 1% supply raffled to top holders + Tier-1 CEX listing. Phase 3: CatRobinHat launchpad. https://t.co/E7gQ07yAqi | [X](https://x.com/WhaleInsider/status/2098509506690871689) |
 | @WhaleInsider | Fri Sep 11 19:50:21 +0000 2026 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." https://t.co/yvLyzeWyXF | [X](https://x.com/WhaleInsider/status/2098499407008199000) |
-| @StockMKTNewz | Fri Sep 11 19:52:24 +0000 2026 | US GOVERNMENT BUDGET UPDATE  The federal budget deficit hit $1.97 trillion for the first 11 months of the fiscal year  Spending for fiscal 2026 to date totaled $6.81 trillion, up 3% YoY, while revenues were $4.85 trillion, also 3% YoY. The US Government's fiscal year ends in September - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098499922106384614) |
 
 ## 选题推荐
 
@@ -255,6 +255,7 @@
 | 1 | Anthropic’s valuation has increased by more than 7,500% over the last 2 years https://t.co/7… | StockMKTNewz | 13577 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI’s valuation has increased by 766% 🟢 over the last 2 years https://t.co/exg6zaJvTG | StockMKTNewz | 9456 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Anthropic CEO Dario Amodei calls for slower AI development, warns rogue AI agents c… | WhaleInsider | 13100 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: An official Amazon X account replied to $RUFUS team, confirming Amazon’s AI assista… | WhaleInsider | 13531 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3870,6 +3871,13 @@ OpenAI's valuation has increased by 766% over the last two years.
 
 Anthropic CEO Dario Amodei is calling for slower AI development, warning rogue AI agents could take over the internet within 6–12 months.
 
+### Amazon Rufus named after its first dog
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-amazon-rufus-origin/when2buy-image.png`
+
+Amazon's Rufus AI assistant is named after Rufus, the corgi who was Amazon's first dog.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4129,9 +4137,15 @@ Anthropic CEO Dario Amodei is calling for slower AI development, warning rogue A
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
+| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
 
 ## 最近运行
 
+- `2026-09-12T16:19:18Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T16:18:28Z` **produce / succeeded** — Produced one newest fresh Amazon Rufus package with an inspected entity-led image and exact-logo composite.
+- `2026-09-12T16:16:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T16:16:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
+- `2026-09-12T16:15:31Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T16:04:40Z` **full / succeeded** — Newest Anthropic slowdown package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T16:18:39Z
 - `2026-09-12T16:03:32Z` **produce / succeeded** — Produced one newest fresh Anthropic package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-12T16:01:29Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4147,8 +4161,3 @@ Anthropic CEO Dario Amodei is calling for slower AI development, warning rogue A
 - `2026-09-12T15:17:02Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload; no compliant copy, image, or publication was created, and the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
 - `2026-09-12T15:16:27Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T15:16:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 45 eligible originals and added 0 new post(s).
-- `2026-09-12T15:15:40Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T15:02:39Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload, so no compliant copy or publication was created; the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
-- `2026-09-12T15:02:01Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T15:01:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-12T15:00:34Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
