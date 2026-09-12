@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T20:19:24.177801+00:00`
+- 状态更新：`2026-09-12T20:33:24.724111+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**668**
 - 待选选题：**590**
@@ -4248,6 +4248,11 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 
 ## 最近运行
 
+- `2026-09-12T20:33:24Z` **full / succeeded** — Freshness-first run collected both benchmark feeds, reconciled Postiz, rebuilt the hard-TTL queue, collected hourly metrics, and safely deferred the sole ready package before submission. minimum_interval; no Postiz task accepted; no retry permitted
+- `2026-09-12T20:31:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T20:31:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-12T20:31:39Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T20:31:32Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T20:18:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T20:18:15Z` **produce / succeeded** — Produced one newest fresh AI data-center package with a complete square entity-led visual and exact-logo composite.
 - `2026-09-12T20:16:20Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4263,8 +4268,3 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 - `2026-09-12T19:34:11Z` **produce / succeeded** — Produced one newest fresh Base tokenized-stocks volume package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-12T19:31:32Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T19:31:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-12T19:16:08Z` **full / partial** — Preflight and state validation passed; Apify collected one new eligible original, package statuses were reconciled, the hard 90-minute queue was rebuilt, one newest fresh BANGERCAT package was produced with exact-logo image QA, content validation passed, publication safely deferred by the daily account limit, metrics were idempotent, reports were rendered, and fixed report slugs were updated. daily_limit
-- `2026-09-12T19:16:23Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T19:16:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).
-- `2026-09-12T19:05:22.850098+00:00` **publish / succeeded** — Postiz submission safely deferred by the 15-minute minimum interval; no task accepted and no retry performed. minimum_interval
-- `2026-09-12T19:05:03Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).

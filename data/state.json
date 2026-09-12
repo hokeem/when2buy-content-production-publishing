@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T20:19:24.177801+00:00",
+  "updatedAt": "2026-09-12T20:33:24.724111+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -48039,12 +48039,14 @@
       "url": "https://x.com/_When2buy/status/2097785187346338125",
       "postizPostId": "cmtujztnt050oqk0ydwqlbd1e",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T20:31:00Z",
         "windowEnd": "2026-09-12T20:31:00Z",
         "lastAttemptAt": "2026-09-12T20:02:20.772695Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T20:32:42.993286Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -453283,6 +453285,61 @@
       "completedAt": "2026-09-12T20:18:56Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260912T203132Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T20:31:32Z",
+      "completedAt": "2026-09-12T20:31:32Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T203139Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T20:31:39Z",
+      "completedAt": "2026-09-12T20:31:39Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T203147Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T20:31:47Z",
+      "completedAt": "2026-09-12T20:31:47Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T203157Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T20:31:57Z",
+      "completedAt": "2026-09-12T20:31:57Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T203324Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T20:33:24Z",
+      "completedAt": "2026-09-12T20:33:24Z",
+      "summary": "Freshness-first run collected both benchmark feeds, reconciled Postiz, rebuilt the hard-TTL queue, collected hourly metrics, and safely deferred the sole ready package before submission.",
+      "reason": "minimum_interval; no Postiz task accepted; no retry permitted",
+      "selectedPackageId": "pkg-20260912-bangercat-nvda-pairing",
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
