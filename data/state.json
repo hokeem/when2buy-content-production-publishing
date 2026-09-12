@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T10:17:22.799834+00:00",
+  "updatedAt": "2026-09-12T10:31:41.533802+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -45090,12 +45090,14 @@
       "url": "https://x.com/_When2buy/status/2097631684166619203",
       "postizPostId": "cmtty8cvn00q8lm0y25e82lev",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T10:21:00Z",
         "windowEnd": "2026-09-12T10:21:00Z",
         "lastAttemptAt": "2026-09-12T10:02:45.383768Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T10:31:41.485252Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -45107,12 +45109,14 @@
       "url": "https://x.com/_When2buy/status/2097632198967099767",
       "postizPostId": "cmttyb0o2016lqk0yvus69i5t",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T10:23:00Z",
         "windowEnd": "2026-09-12T10:23:00Z",
         "lastAttemptAt": "2026-09-12T10:02:45.383768Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T10:31:41.485252Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
