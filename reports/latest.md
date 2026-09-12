@@ -1,16 +1,20 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T12:05:29.642469+00:00`
+- 状态更新：`2026-09-12T12:35:23.186132+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**637**
-- 待选选题：**560**
-- 待发布制作包：**2**
+- 对标帖子快照：**641**
+- 待选选题：**564**
+- 待发布制作包：**3**
 - 已验证发布：**249**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 12:10:22 +0000 2026 | ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK  - Jpmorgan - Bank of America  - Goldman Sachs - Citi - Morgan Stanley - Wells Fargo - Barclays - Deutsche - Nomura - Piper Sandler - TD - UBS - RBC - HSBC https://t.co/MfnE7Fanec | [X](https://x.com/StockMKTNewz/status/2098746035497517074) |
+| @WhaleInsider | Sat Sep 12 12:18:37 +0000 2026 | FUN FACT: Amazon’s first-ever dog was a corgi named Rufus.   They later named their official AI agent Rufus after him. https://t.co/qhCYxKT8xt | [X](https://x.com/WhaleInsider/status/2098748110839112031) |
+| @WhaleInsider | Sat Sep 12 12:26:12 +0000 2026 | JUST IN: Solana flips Robinhood Chain in 24H DEX volume - DefiLlama. https://t.co/qOeAYbvWfX | [X](https://x.com/WhaleInsider/status/2098750019817836940) |
+| @StockMKTNewz | Sat Sep 12 12:28:28 +0000 2026 | Japan’s 🇯🇵 era of interest rates being around 0% seems to have come to an end  https://t.co/MY4ZaWxYTv | [X](https://x.com/StockMKTNewz/status/2098750591115592166) |
 | @StockMKTNewz | Sat Sep 12 11:32:43 +0000 2026 | Oracle $ORCL founder Larry Ellison has entered into a new trading plan that would allow him to sell up to 50 million of his shares in Oracle stock worth ~$7.5 billion at the current price - CNBC https://t.co/90ZXya9uqD | [X](https://x.com/StockMKTNewz/status/2098736561269465361) |
 | @WhaleInsider | Sat Sep 12 11:26:57 +0000 2026 | JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit in New Delhi. https://t.co/1TavRkJheB | [X](https://x.com/WhaleInsider/status/2098735109092372568) |
 | @WhaleInsider | Sat Sep 12 09:36:11 +0000 2026 | JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him. https://t.co/R45M7mfDBO | [X](https://x.com/WhaleInsider/status/2098707236117741745) |
@@ -37,10 +41,6 @@
 | @WhaleInsider | Fri Sep 11 18:07:11 +0000 2026 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to "earn" funds. https://t.co/Y9zCMjRGP8 | [X](https://x.com/WhaleInsider/status/2098473442752278666) |
 | @WhaleInsider | Fri Sep 11 17:51:27 +0000 2026 | JUST IN: @MetaWin player turns $5 into $25,430.  Unlike other casinos, every win that MetaWin promotes is by a real player.  They have a $1M airdrop going out this month to players.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/QNElpQ5icx | [X](https://x.com/WhaleInsider/status/2098469483350295001) |
 | @WhaleInsider | Fri Sep 11 17:37:58 +0000 2026 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme coin could be the next PEPE. https://t.co/asWjWGss6R | [X](https://x.com/WhaleInsider/status/2098466092888764797) |
-| @StockMKTNewz | Fri Sep 11 16:50:25 +0000 2026 | If I gave you $420,000 but said you have to invest the money by the end of today and can't touch it until 2036   What would you do? | [X](https://x.com/StockMKTNewz/status/2098454124006142064) |
-| @WhaleInsider | Fri Sep 11 16:50:37 +0000 2026 | JUST IN: 🇺🇸 Coinbase VP of US Policy says regulators will still be ‘executing’ on crypto market structure even if CLARITY Act fails. https://t.co/AGBEypHeWM | [X](https://x.com/WhaleInsider/status/2098454174077792679) |
-| @WhaleInsider | Fri Sep 11 16:27:42 +0000 2026 | JUST IN: Ossi (Monarch) Ketola, owner of Duel, just won $1 million on the very first hand of the biggest heads-up poker game ever. https://t.co/uGHb9iMHAh | [X](https://x.com/WhaleInsider/status/2098448408344186893) |
-| @StockMKTNewz | Fri Sep 11 16:05:03 +0000 2026 | $DELL stock hit new ALL TIME HIGHS today  🟢 https://t.co/I5FMpy4KZ3 | [X](https://x.com/StockMKTNewz/status/2098442708297597298) |
 
 ## 选题推荐
 
@@ -247,6 +247,7 @@
 | 1 | JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t … | WhaleInsider | 14893 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed A… | WhaleInsider | 12181 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Oracle $ORCL founder Larry Ellison has entered into a new trading plan that would allow him … | StockMKTNewz | 8348 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Japan’s 🇯🇵 era of interest rates being around 0% seems to have come to an end https://t.co/M… | StockMKTNewz | 4840 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -332,6 +333,7 @@
 | 2 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." http… | WhaleInsider | 17429 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth f… | StockMKTNewz | 8323 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Rocket Lab $RKLB just posted this: "Rocket Lab has filed a formal protest with the Governmen… | StockMKTNewz | 9988 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: Solana flips Robinhood Chain in 24H DEX volume - DefiLlama. https://t.co/qOeAYbvWfX | WhaleInsider | 13419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -368,6 +370,7 @@
 | 3 | JUST IN: Leaked GTA VI footage revealed Jason’s dog as “Rico”, fueling $RICO hype as GTA VI … | WhaleInsider | 24629 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | StockMKTNewz | 15705 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week Citi expects the Fed to … | StockMKTNewz | 9148 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | FUN FACT: Amazon’s first-ever dog was a corgi named Rufus. They later named their official A… | WhaleInsider | 18491 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -388,6 +391,7 @@
 | 4 | $OKLO JUST ANNOUNCED PLANS TO RAISE UP TO $1 BILLION BY SELLING SHARES OF COMMON STOCK | StockMKTNewz | 14055 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | 🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS US CPI for August just came … | StockMKTNewz | 31787 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: Leopold Aschenbrenner's Situation Awareness has reportedly been active in the optio… | StockMKTNewz | 32473 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK - Jpm… | StockMKTNewz | 11368 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3801,6 +3805,13 @@ Iranian President Masoud Pezeshkian and Abu Dhabi Crown Prince Sheikh Khaled bin
 
 Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The stake is worth about $7.5B at the current price.
 
+### Japan moves beyond near-zero rates
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260912-japan-rate-regime/when2buy-image.png`
+
+Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is now 1.0%.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4058,6 +4069,11 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 
 ## 最近运行
 
+- `2026-09-12T12:35:23Z` **full / succeeded** — Newest Japan-rate package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z
+- `2026-09-12T12:34:26Z` **produce / succeeded** — Produced one newest fresh Japan-rate package with an inspected entity-led image and exact-logo composite.
+- `2026-09-12T12:32:29Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T12:32:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 121 eligible originals and added 4 new post(s).
+- `2026-09-12T12:30:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T12:05:29Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T12:05:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
 - `2026-09-12T12:04:49Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4073,8 +4089,3 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 - `2026-09-12T11:31:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-12T11:16:42.604330Z` **full / succeeded** — Scanned both benchmark feeds; no new eligible originals and no fresh hard-TTL queue candidate. No publication attempted. no_fresh_eligible_source
 - `2026-09-12T11:16:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T11:16:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T11:01:15Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T11:01:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T10:46:05Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T10:45:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
