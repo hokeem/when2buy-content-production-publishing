@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-11T23:40:17.868225+00:00`
+- 状态更新：`2026-09-12T00:01:53.184399+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**631**
 - 待选选题：**554**
@@ -3844,11 +3844,11 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
 | Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097663884169728471) |
+| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | Robinhood Chain: stock-token holder ranking reported | 2026-09-03T08:26:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095428221366091837) |
 | Moonshot AI: reported Hong Kong IPO filing and $3B target | 2026-09-03T11:38:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095476518642397201) |
 | NVIDIA FY29 profit forecast | 2026-09-07T07:14:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096859829679837591) |
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 17 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
-| Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
 | Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 17 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | Astra GPT 6 takes control of the Rallies AI portfolio | 2026-09-11T00:17:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098204457721123197) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
@@ -3867,6 +3867,7 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
+| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -3909,6 +3910,9 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
 | Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 8 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
 | Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
+| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
+| Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
+| Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3923,9 +3927,7 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
-| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
-| Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
-| Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
+| SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3936,7 +3938,6 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Fed officials consider fewer policy meetings | 2026-09-09T12:31:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097664411699958174) |
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
-| SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -3990,6 +3991,7 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 | UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
+| Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -4001,11 +4003,12 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
-| Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098557219952591135) |
 
 ## 最近运行
 
+- `2026-09-12T00:01:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T00:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
+- `2026-09-12T00:00:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T23:40:17Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-11T23:38:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T23:38:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -4023,6 +4026,3 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 - `2026-09-11T22:46:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T22:46:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T22:46:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T22:32:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-11T22:31:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-11T22:16:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

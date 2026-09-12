@@ -1,45 +1,7 @@
 {
-  "generatedAt": "2026-09-11T23:38:53Z",
+  "generatedAt": "2026-09-12T00:01:53Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
-  "items": [
-    {
-      "rank": 1,
-      "benchmarkPostId": "2098551762961481832",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260911-anthropic-2t-ipo",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098551762961481832",
-      "originalText": "Anthropic is looking to go public at a valuation of $2 Trillion",
-      "originalMediaUrls": [],
-      "archivedMedia": [],
-      "engagement": {
-        "likes": 32,
-        "replies": 8,
-        "reposts": 6,
-        "quotes": 0,
-        "views": 10306
-      },
-      "postedAt": "Fri Sep 11 23:18:24 +0000 2026",
-      "score": 11566,
-      "heatScore": 11566,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 18,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 20.5,
-        "expiresAt": "2026-09-12T00:48:24Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    }
-  ],
+  "items": [],
   "sourceTtlMinutes": 90
 }
