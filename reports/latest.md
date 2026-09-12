@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T17:51:32.621038+00:00`
+- 状态更新：`2026-09-12T18:04:59.093344+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**660**
 - 待选选题：**582**
-- 待发布制作包：**1**
+- 待发布制作包：**2**
 - 已验证发布：**258**
 
 ## 对标账号扫描
@@ -3888,7 +3888,7 @@ Amazon's Rufus AI assistant is named after Rufus, the corgi who was Amazon's fir
 
 ### Larry Ellison cancels Oracle stock-sale plan
 
-- 状态：`blocked`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260912-oracle-ellison-plan-cancelled/when2buy-image.png`
 
 Larry Ellison cancels his plan to sell Oracle stock.
@@ -3920,6 +3920,13 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 - 配图：`deliverables/pkg-20260912-openai-humanoid-robot-demo/when2buy-image.png`
 
 OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
+
+### $250M USDC minted at USDC Treasury
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260912-usdc-mint/when2buy-image.png`
+
+$250M in USDC was just minted at the USDC Treasury.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -4081,6 +4088,7 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 | BTC $85K probability | 2026-09-07T07:53:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869655126421647) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834492367614102) |
 | Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 8 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
+| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
@@ -4095,8 +4103,8 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 | Robinhood Chain tops $2M in 24-hour fees | 2026-09-09T07:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097593108846579977) |
 | Google commits €13B to Finland AI infrastructure | 2026-09-09T09:11:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097613994546823332) |
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
-| MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
+| Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098710516722180398) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -4108,7 +4116,6 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | JPMorgan cuts Situational Awareness lending after AI losses | 2026-09-11T21:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098528976335716596) |
-| Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098710516722180398) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -4149,6 +4156,8 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 | Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
+| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
+| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -4167,7 +4176,8 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
 | BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
 | Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098766721083650170) |
-| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
+| Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
+| OpenAI is not going public in 2026 | 2026-09-12T17:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098827679504138289) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -4181,12 +4191,13 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
-| Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
-| OpenAI is not going public in 2026 | 2026-09-12T17:34:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098827679504138289) |
-| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 
 ## 最近运行
 
+- `2026-09-12T17:55:00Z` **full / succeeded** — Newest fresh USDC package was safely deferred by the Postiz minimum-interval limiter; no accepted task was created and no retry is permitted. minimum_interval; retryAt 2026-09-12T18:05:30Z
+- `2026-09-12T18:03:46Z` **produce / succeeded** — Produced one newest fresh USDC package with a complete entity-led square image, exact-logo composite, and QA.
+- `2026-09-12T18:01:46Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-12T18:01:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-12T17:50:57Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T17:50:11Z` **produce / succeeded** — Produced newest fresh benchmark item with original factual copy and exact-logo square entity visual.
 - `2026-09-12T17:47:07Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4203,7 +4214,3 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 - `2026-09-12T17:15:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
 - `2026-09-12T17:15:39Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T17:07:10Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T17:04:19Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T17:03:32Z` **produce / succeeded** — Produced one newest fresh frontier-AI pacing package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-12T17:01:50Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T17:01:33Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
