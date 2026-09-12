@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T07:16:15.395072+00:00`
+- 状态更新：`2026-09-12T07:34:57.006665+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**632**
-- 待选选题：**555**
+- 对标帖子快照：**633**
+- 待选选题：**556**
 - 待发布制作包：**0**
-- 已验证发布：**246**
+- 已验证发布：**247**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Sat Sep 12 07:25:10 +0000 2026 | JUST IN: 🇺🇸 Goldman Sachs warns of rate hike next week. https://t.co/kraAilsbAI | [X](https://x.com/WhaleInsider/status/2098674263930593636) |
 | @WhaleInsider | Sat Sep 12 05:36:40 +0000 2026 | JUST IN: BlackRock ETF clients buy $148.82 million worth of $ETH. https://t.co/0WpYk9Sg5M | [X](https://x.com/WhaleInsider/status/2098646959653359712) |
 | @StockMKTNewz | Fri Sep 11 23:18:24 +0000 2026 | Anthropic is looking to go public at a valuation of $2 Trillion | [X](https://x.com/StockMKTNewz/status/2098551762961481832) |
 | @StockMKTNewz | Fri Sep 11 23:04:36 +0000 2026 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | [X](https://x.com/StockMKTNewz/status/2098548293533929670) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 15:39:15 +0000 2026 | JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer crypto services. https://t.co/hMYigRD9hS | [X](https://x.com/WhaleInsider/status/2098436214864904690) |
 | @StockMKTNewz | Fri Sep 11 15:09:26 +0000 2026 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | [X](https://x.com/StockMKTNewz/status/2098428713742356683) |
 | @StockMKTNewz | Fri Sep 11 15:21:40 +0000 2026 | Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0RT | [X](https://x.com/StockMKTNewz/status/2098431791933620311) |
-| @StockMKTNewz | Fri Sep 11 14:52:03 +0000 2026 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at an average cost of $27.44 per share https://t.co/uRyL6pOwoT | [X](https://x.com/StockMKTNewz/status/2098424336709193934) |
 
 ## 选题推荐
 
@@ -242,6 +242,7 @@
 | 1 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | StockMKTNewz | 11281 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Anthropic is looking to go public at a valuation of $2 Trillion | StockMKTNewz | 11566 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: BlackRock ETF clients buy $148.82 million worth of $ETH. https://t.co/0WpYk9Sg5M | WhaleInsider | 19833 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇺🇸 Goldman Sachs warns of rate hike next week. https://t.co/kraAilsbAI | WhaleInsider | 12589 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3761,6 +3762,13 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 
 BlackRock ETF clients bought $148.82M worth of $ETH.
 
+### Goldman Sachs expects a Fed hike next week
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-goldman-fed-rate-hike/when2buy-image-model.png`
+
+Goldman Sachs now expects a 25-basis-point Fed rate hike next week.  The FOMC decision is due Wednesday.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4006,15 +4014,21 @@ BlackRock ETF clients bought $148.82M worth of $ETH.
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
+| BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
+| Goldman Sachs expects a Fed hike next week | 2026-09-12T07:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098676535809155376) |
 
 ## 最近运行
 
+- `2026-09-12T07:34:15Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T07:33:24Z` **produce / succeeded** — Produced one fresh Goldman/Fed package with a complete square entity-led visual and exact-logo compositing.
+- `2026-09-12T07:31:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T07:31:32Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T07:31:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-12T07:16:15Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:16:10Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T07:15:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4030,8 +4044,3 @@ BlackRock ETF clients bought $148.82M worth of $ETH.
 - `2026-09-12T06:31:50Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T06:31:44Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T06:31:36Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T06:31:30Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T06:17:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T06:16:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T06:04:28Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T06:02:16Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
