@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T12:47:29.347362+00:00`
+- 状态更新：`2026-09-12T13:03:32.020761+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**641**
-- 待选选题：**564**
-- 待发布制作包：**3**
+- 对标帖子快照：**642**
+- 待选选题：**565**
+- 待发布制作包：**1**
 - 已验证发布：**249**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 12:58:43 +0000 2026 | This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb | [X](https://x.com/StockMKTNewz/status/2098758203030802691) |
 | @StockMKTNewz | Sat Sep 12 12:10:22 +0000 2026 | ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK  - Jpmorgan - Bank of America  - Goldman Sachs - Citi - Morgan Stanley - Wells Fargo - Barclays - Deutsche - Nomura - Piper Sandler - TD - UBS - RBC - HSBC https://t.co/MfnE7Fanec | [X](https://x.com/StockMKTNewz/status/2098746035497517074) |
 | @WhaleInsider | Sat Sep 12 12:18:37 +0000 2026 | FUN FACT: Amazon’s first-ever dog was a corgi named Rufus.   They later named their official AI agent Rufus after him. https://t.co/qhCYxKT8xt | [X](https://x.com/WhaleInsider/status/2098748110839112031) |
 | @WhaleInsider | Sat Sep 12 12:26:12 +0000 2026 | JUST IN: Solana flips Robinhood Chain in 24H DEX volume - DefiLlama. https://t.co/qOeAYbvWfX | [X](https://x.com/WhaleInsider/status/2098750019817836940) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 18:26:23 +0000 2026 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | [X](https://x.com/StockMKTNewz/status/2098478277132169552) |
 | @WhaleInsider | Fri Sep 11 18:07:11 +0000 2026 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to "earn" funds. https://t.co/Y9zCMjRGP8 | [X](https://x.com/WhaleInsider/status/2098473442752278666) |
 | @WhaleInsider | Fri Sep 11 17:51:27 +0000 2026 | JUST IN: @MetaWin player turns $5 into $25,430.  Unlike other casinos, every win that MetaWin promotes is by a real player.  They have a $1M airdrop going out this month to players.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/QNElpQ5icx | [X](https://x.com/WhaleInsider/status/2098469483350295001) |
-| @WhaleInsider | Fri Sep 11 17:37:58 +0000 2026 | JUST IN: $PENPE rallies 143% in the past 24 hours, with traders speculating that the meme coin could be the next PEPE. https://t.co/asWjWGss6R | [X](https://x.com/WhaleInsider/status/2098466092888764797) |
 
 ## 选题推荐
 
@@ -248,6 +248,7 @@
 | 1 | JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed A… | WhaleInsider | 12181 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Oracle $ORCL founder Larry Ellison has entered into a new trading plan that would allow him … | StockMKTNewz | 8348 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Japan’s 🇯🇵 era of interest rates being around 0% seems to have come to an end https://t.co/M… | StockMKTNewz | 4840 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb | StockMKTNewz | 5167 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3793,14 +3794,14 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 
 ### Iran and UAE at BRICS in New Delhi
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260912-brics-iran-uae-new-delhi/when2buy-image.png`
 
 Iranian President Masoud Pezeshkian and Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan are in New Delhi for the BRICS Summit.
 
 ### Larry Ellison trading plan permits up to 50M Oracle shares
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260912-oracle-ellison-trading-plan/when2buy-image.png`
 
 Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The stake is worth about $7.5B at the current price.
@@ -4069,6 +4070,10 @@ Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is
 
 ## 最近运行
 
+- `2026-09-12T13:02:58Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-12T13:02:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 0 new post(s).
+- `2026-09-12T13:02:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
+- `2026-09-12T13:00:53Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T12:47:29Z` **full / succeeded** — Freshest Japan rate-regime package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z
 - `2026-09-12T12:46:07Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T12:46:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -4085,7 +4090,3 @@ Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is
 - `2026-09-12T12:01:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T11:52:00Z` **full / succeeded** — Processed the newest fresh Oracle benchmark with an authoritative verification, complete square visual, and one safe Postiz submission attempt; daily account limit deferred delivery. daily_limit; retryAt 2026-09-12T13:19:26Z; package expires 2026-09-12T13:02:43Z
 - `2026-09-12T11:46:58Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T11:46:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
-- `2026-09-12T11:45:44Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T11:35:11.916016+00:00` **produce / succeeded** — Produced one newest fresh package with authoritative fact narrowing, one complete square entity visual, and exact-logo composite.
-- `2026-09-12T11:31:07Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
