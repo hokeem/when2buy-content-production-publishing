@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T15:02:39.484180+00:00",
+  "updatedAt": "2026-09-12T15:17:02.887009+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -435822,6 +435822,49 @@
       "selectedBenchmarkPostId": "2098784406156521744",
       "publicationOutcome": "deferred",
       "metrics": "collected"
+    },
+    {
+      "id": "run-20260912T151540Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T15:15:40Z",
+      "completedAt": "2026-09-12T15:15:40Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T151621Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T15:16:21Z",
+      "completedAt": "2026-09-12T15:16:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 45 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T151627Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T15:16:27Z",
+      "completedAt": "2026-09-12T15:16:27Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T151702Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T15:17:02Z",
+      "completedAt": "2026-09-12T15:17:02Z",
+      "summary": "Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload; no compliant copy, image, or publication was created, and the older candidate was not backfilled.",
+      "reason": "No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.",
+      "selectedBenchmarkPostId": "2098784406156521744",
+      "publicationOutcome": "deferred",
+      "metrics": "already collected during the current UTC hour"
     }
   ],
   "deliveryCircuitBreaker": {

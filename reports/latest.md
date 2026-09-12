@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T15:02:39.484180+00:00`
+- 状态更新：`2026-09-12T15:17:02.887009+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**648**
 - 待选选题：**570**
@@ -4107,6 +4107,10 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 
 ## 最近运行
 
+- `2026-09-12T15:17:02Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload; no compliant copy, image, or publication was created, and the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
+- `2026-09-12T15:16:27Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T15:16:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 45 eligible originals and added 0 new post(s).
+- `2026-09-12T15:15:40Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T15:02:39Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload, so no compliant copy or publication was created; the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
 - `2026-09-12T15:02:01Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T15:01:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -4123,7 +4127,3 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 - `2026-09-12T14:20:05Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T14:18:48Z` **produce / succeeded** — Produced one newest fresh Anthropic package with verified source mapping, generated entity visual, exact-logo composite, and QA pass.
 - `2026-09-12T14:16:33Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T14:16:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
-- `2026-09-12T14:04:50Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T14:04:01Z` **produce / succeeded** — Produced one newest fresh Robinhood Chain package with a complete entity-led square visual and one exact-logo composite.
-- `2026-09-12T14:01:14Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
