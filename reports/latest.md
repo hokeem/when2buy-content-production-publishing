@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T07:04:24.105776+00:00`
+- 状态更新：`2026-09-12T07:16:15.395072+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**632**
 - 待选选题：**555**
@@ -4015,6 +4015,10 @@ BlackRock ETF clients bought $148.82M worth of $ETH.
 
 ## 最近运行
 
+- `2026-09-12T07:16:15Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T07:16:10Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-12T07:15:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T07:15:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:04:23Z` **full / partial** — Freshness-first cycle completed without publication; bounded Apify and hourly metrics attempts did not yield a new deliverable. Reconciliation, media archive, package status reconciliation, and hard-TTL queue rebuild completed. No fresh eligible item was available in the 90-minute queue; no Postiz submission made. Collector and metrics attempts remain recoverable on the next Cron run.
 - `2026-09-12T07:02:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:01:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4031,7 +4035,3 @@ BlackRock ETF clients bought $148.82M worth of $ETH.
 - `2026-09-12T06:16:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T06:04:28Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T06:02:16Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T06:01:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
-- `2026-09-12T06:00:35Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T05:46:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T05:46:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

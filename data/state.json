@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T07:04:24.105776+00:00",
+  "updatedAt": "2026-09-12T07:16:15.395072+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -404707,6 +404707,46 @@
       "summary": "Freshness-first cycle completed without publication; bounded Apify and hourly metrics attempts did not yield a new deliverable. Reconciliation, media archive, package status reconciliation, and hard-TTL queue rebuild completed.",
       "reason": "No fresh eligible item was available in the 90-minute queue; no Postiz submission made. Collector and metrics attempts remain recoverable on the next Cron run.",
       "selectedPackageId": null
+    },
+    {
+      "id": "run-20260912T071533Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T07:15:33Z",
+      "completedAt": "2026-09-12T07:15:33Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T071545Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T07:15:45Z",
+      "completedAt": "2026-09-12T07:15:45Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T071610Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T07:16:10Z",
+      "completedAt": "2026-09-12T07:16:10Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T071615Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T07:16:15Z",
+      "completedAt": "2026-09-12T07:16:15Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
