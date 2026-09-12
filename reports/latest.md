@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T11:49:53.958542+00:00`
+- 状态更新：`2026-09-12T12:03:06.574363+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**637**
 - 待选选题：**560**
@@ -3912,12 +3912,12 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
+| Goldman Sachs expects a Fed hike next week | 2026-09-12T07:33:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098676535809155376) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
 | Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
-| Goldman Sachs expects a Fed hike next week | 2026-09-12T07:33:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098676535809155376) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -3988,6 +3988,7 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | JPMorgan cuts Situational Awareness lending after AI losses | 2026-09-11T21:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098528976335716596) |
+| Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098710516722180398) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -4025,7 +4026,7 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
-| Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098710516722180398) |
+| Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -4033,7 +4034,6 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
-| Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -4058,6 +4058,9 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 
 ## 最近运行
 
+- `2026-09-12T12:03:06Z` **full / succeeded** — Freshest Oracle trading-plan package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z; package expires 2026-09-12T13:02:43Z
+- `2026-09-12T12:01:20Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T12:01:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T11:52:00Z` **full / succeeded** — Processed the newest fresh Oracle benchmark with an authoritative verification, complete square visual, and one safe Postiz submission attempt; daily account limit deferred delivery. daily_limit; retryAt 2026-09-12T13:19:26Z; package expires 2026-09-12T13:02:43Z
 - `2026-09-12T11:46:58Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T11:46:46Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
@@ -4075,6 +4078,3 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 - `2026-09-12T10:32:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T10:32:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T10:17:22Z` **full / succeeded** — Freshness-first scan completed: both benchmark feeds returned no new eligible originals, hard 90-minute queue was empty, and no package was submitted. no_new_fresh_eligible_benchmark_posts
-- `2026-09-12T10:16:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T10:16:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T10:02:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
