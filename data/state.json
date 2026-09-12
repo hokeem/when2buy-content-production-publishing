@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T17:07:10.676708+00:00",
+  "updatedAt": "2026-09-12T17:17:07.981925+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -442674,6 +442674,49 @@
       "completedAt": "2026-09-12T17:07:10Z",
       "summary": "Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260912T171539Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:15:39Z",
+      "completedAt": "2026-09-12T17:15:39Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T171559Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:15:59Z",
+      "completedAt": "2026-09-12T17:15:59Z",
+      "summary": "Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T171609Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:16:09Z",
+      "completedAt": "2026-09-12T17:16:09Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T171654Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:16:54Z",
+      "completedAt": "2026-09-12T17:16:54Z",
+      "summary": "Scanned both benchmark feeds, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, and safely deferred the newest item because it was a meme-only post with no factual event payload; no older backlog was processed.",
+      "reason": "No factual payload; copy constraints prohibit commentary, attribution, disclaimer, CTA, and fabricated facts.",
+      "selectedBenchmarkPostId": "2098816733683298438",
+      "publicationOutcome": "deferred",
+      "metrics": "hourly collection checked; no new observations required"
     }
   ],
   "deliveryCircuitBreaker": {

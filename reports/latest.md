@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T17:07:10.676708+00:00`
+- 状态更新：`2026-09-12T17:17:07.981925+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**656**
 - 待选选题：**578**
@@ -4167,6 +4167,10 @@ Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
 
 ## 最近运行
 
+- `2026-09-12T17:16:54Z` **full / succeeded** — Scanned both benchmark feeds, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, and safely deferred the newest item because it was a meme-only post with no factual event payload; no older backlog was processed. No factual payload; copy constraints prohibit commentary, attribution, disclaimer, CTA, and fabricated facts.
+- `2026-09-12T17:16:09Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T17:15:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
+- `2026-09-12T17:15:39Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T17:07:10Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T17:04:19Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T17:03:32Z` **produce / succeeded** — Produced one newest fresh frontier-AI pacing package with a complete entity-led square visual and exact-logo composite.
@@ -4183,7 +4187,3 @@ Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
 - `2026-09-12T16:32:32Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T16:31:52Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T16:31:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 114 eligible originals and added 1 new post(s).
-- `2026-09-12T16:30:51Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T16:19:18Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T16:18:28Z` **produce / succeeded** — Produced one newest fresh Amazon Rufus package with an inspected entity-led image and exact-logo composite.
-- `2026-09-12T16:16:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
