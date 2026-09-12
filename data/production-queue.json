@@ -1,42 +1,161 @@
 {
-  "generatedAt": "2026-09-12T18:32:05Z",
+  "generatedAt": "2026-09-12T18:48:35Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098829379946082537",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260912-usdc-mint",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098829379946082537",
-      "originalText": "JUST IN: $250,000,000 $USDC just minted at USDC Treasury. https://t.co/fmLU9P2EHl",
+      "benchmarkPostId": "2098844654116503859",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098844654116503859",
+      "originalText": "Tesla $TSLA just posted this photo with the caption\n\n\"Go for launch\" https://t.co/pKJ13cRHaZ",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HSCKMgxWoAER710.jpg",
-        "https://pbs.twimg.com/media/HSCKMhLasAEvX8Z.jpg"
+        "https://pbs.twimg.com/media/HSCYBvrawAANbVB.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/media/HSCKMgxWoAER710.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098829379946082537-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HSCKMhLasAEvX8Z.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098829379946082537-2.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HSCYBvrawAANbVB.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098844654116503859-1.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 37,
-        "replies": 16,
-        "reposts": 11,
-        "quotes": 1,
-        "views": 11330
+        "likes": 15,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 5956
       },
-      "postedAt": "Sat Sep 12 17:41:33 +0000 2026",
-      "score": 13320,
-      "heatScore": 13320,
+      "postedAt": "Sat Sep 12 18:42:14 +0000 2026",
+      "score": 6556,
+      "heatScore": 6556,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 6.4,
+        "expiresAt": "2026-09-12T20:12:14Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 2,
+      "benchmarkPostId": "2098844550047420916",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098844550047420916",
+      "originalText": "Sam Altman just said he thinks all the people leading US AI will come together and agree to slow down the pace of AI training",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 10,
+        "replies": 4,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 5813
+      },
+      "postedAt": "Sat Sep 12 18:41:50 +0000 2026",
+      "score": 6273,
+      "heatScore": 6273,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 16,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 6.8,
+        "expiresAt": "2026-09-12T20:11:50Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098843285825409037",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098843285825409037",
+      "originalText": "JUST IN: 🇺🇸 White House Executive Director Patrick Witt says today is a \"bad day to be a CLARITY Act doomer.\" https://t.co/AQdcXddIRF",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HSCW1vcbUAASG5i.jpg",
+        "https://pbs.twimg.com/media/HSCW1v4bkAAsQ1f.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCW1vcbUAASG5i.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098843285825409037-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCW1v4bkAAsQ1f.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098843285825409037-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 70,
+        "replies": 16,
+        "reposts": 13,
+        "quotes": 4,
+        "views": 13425
+      },
+      "postedAt": "Sat Sep 12 18:36:48 +0000 2026",
+      "score": 16355,
+      "heatScore": 16355,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 15,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 11.8,
+        "expiresAt": "2026-09-12T20:06:48Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
+      "benchmarkPostId": "2098839733463920980",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098839733463920980",
+      "originalText": "If you had invested $10,000 into each of the current top 10 largest ETFs ranked by Assets Under Management 10 years ago and held them to today\n\nYou would currently have $288,000",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 14,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 13845
+      },
+      "postedAt": "Sat Sep 12 18:22:41 +0000 2026",
+      "score": 14335,
+      "heatScore": 14335,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
@@ -48,18 +167,18 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 50.5,
-        "expiresAt": "2026-09-12T19:11:33Z",
+        "ageMinutes": 25.9,
+        "expiresAt": "2026-09-12T19:52:41Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 2,
+      "rank": 5,
       "benchmarkPostId": "2098828384360861937",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260912-openai-training-safety-pause",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098828384360861937",
       "originalText": "SAM ALTMAN SAYS OPENAI HAS PAUSED TRAINING RUNS FOR SAFETY WORK AND WILL DO MORE OF IT\n\n\"We want to ensure that no one's taking the 10% risk, certainly not us, of something really terrible happening.\"",
       "originalMediaUrls": [],
@@ -85,7 +204,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 54.5,
+        "ageMinutes": 71.0,
         "expiresAt": "2026-09-12T19:07:35Z",
         "ttlMinutes": 90
       },

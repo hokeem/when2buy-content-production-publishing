@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T18:33:40.174857+00:00",
+  "updatedAt": "2026-09-12T18:50:58.769877+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -18205,6 +18205,108 @@
       "isPinned": false,
       "capturedAt": "2026-09-12T17:46:52Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098844654116503859",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098844654116503859",
+      "postedAt": "Sat Sep 12 18:42:14 +0000 2026",
+      "text": "Tesla $TSLA just posted this photo with the caption\n\n\"Go for launch\" https://t.co/pKJ13cRHaZ",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSCYBvrawAANbVB.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 5956
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T18:46:43Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCYBvrawAANbVB.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098844654116503859-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098844550047420916",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098844550047420916",
+      "postedAt": "Sat Sep 12 18:41:50 +0000 2026",
+      "text": "Sam Altman just said he thinks all the people leading US AI will come together and agree to slow down the pace of AI training",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 10,
+        "replies": 4,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 5813
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T18:46:43Z",
+      "mediaArchive": []
+    },
+    {
+      "id": "2098843285825409037",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098843285825409037",
+      "postedAt": "Sat Sep 12 18:36:48 +0000 2026",
+      "text": "JUST IN: 🇺🇸 White House Executive Director Patrick Witt says today is a \"bad day to be a CLARITY Act doomer.\" https://t.co/AQdcXddIRF",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSCW1vcbUAASG5i.jpg",
+        "https://pbs.twimg.com/media/HSCW1v4bkAAsQ1f.jpg"
+      ],
+      "engagement": {
+        "likes": 70,
+        "replies": 16,
+        "reposts": 13,
+        "quotes": 4,
+        "views": 13425
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T18:46:43Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCW1vcbUAASG5i.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098843285825409037-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCW1v4bkAAsQ1f.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098843285825409037-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098839733463920980",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098839733463920980",
+      "postedAt": "Sat Sep 12 18:22:41 +0000 2026",
+      "text": "If you had invested $10,000 into each of the current top 10 largest ETFs ranked by Assets Under Management 10 years ago and held them to today\n\nYou would currently have $288,000",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 14,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "views": 13845
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T18:46:43Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -29265,6 +29367,82 @@
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098844654116503859",
+      "rank": 1,
+      "title": "Tesla $TSLA just posted this photo with the caption \"Go for launch\" https://t.co/pKJ13cRHaZ",
+      "benchmarkPostId": "2098844654116503859",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098844654116503859",
+      "score": 6556,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T18:46:50Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098844550047420916",
+      "rank": 2,
+      "title": "Sam Altman just said he thinks all the people leading US AI will come together and agree to …",
+      "benchmarkPostId": "2098844550047420916",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098844550047420916",
+      "score": 6273,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T18:46:50Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098843285825409037",
+      "rank": 3,
+      "title": "JUST IN: 🇺🇸 White House Executive Director Patrick Witt says today is a \"bad day to be a CLA…",
+      "benchmarkPostId": "2098843285825409037",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098843285825409037",
+      "score": 16355,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T18:46:50Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098839733463920980",
+      "rank": 4,
+      "title": "If you had invested $10,000 into each of the current top 10 largest ETFs ranked by Assets Un…",
+      "benchmarkPostId": "2098839733463920980",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098839733463920980",
+      "score": 14335,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T18:46:50Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
         "factualClarity": 4
       }
     }
@@ -43692,6 +43870,91 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-12T18:33:28Z",
       "publishedAt": "2026-09-12T18:32:00.000Z"
+    },
+    {
+      "id": "pkg-20260912-openai-training-safety-pause",
+      "benchmarkPostId": "2098828384360861937",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098828384360861937",
+      "title": "OpenAI pauses frontier training for safety work",
+      "status": "ready",
+      "postText": "OpenAI has paused some frontier training runs to do more safety and alignment work.\n\nSmaller-scale training and evaluations continue while the largest planned run remains on hold.",
+      "mirroredFacts": [
+        "The benchmark says Sam Altman said OpenAI paused training runs for safety work.",
+        "OpenAI's public account says some frontier RL training was paused while safety, alignment, and security standards were addressed.",
+        "OpenAI says smaller-scale training and evaluations continue while its largest planned frontier RL run remains on hold."
+      ],
+      "verificationSources": [
+        "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+        "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+        "https://x.com/StockMKTNewz/status/2098828384360861937"
+      ],
+      "imagePath": "deliverables/pkg-20260912-openai-training-safety-pause/when2buy-image.png",
+      "createdAt": "2026-09-12T18:00:00Z",
+      "sourceExpiresAt": "2026-09-12T19:07:35Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square 1:1 entity-led cinematic realistic AI research and frontier-compute laboratory scene showing a paused training state with server racks, a safety review workspace, and restrained red pause indicators; near-black base, white and cool blue highlights, strong upper-left negative space; no readable text, logos, watermark, attribution, disclaimer, commentary, CTA, tagline, hashtags, pure-text card, or generic radar background; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "canvas": "1254x1254",
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-12T18:00:00Z",
+          "result": "passed",
+          "checks": [
+            "square 1:1 1254x1254 PNG",
+            "complete AI research and frontier-compute entity-led scene",
+            "exact repository logo composited once",
+            "public copy factual payload proofread",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, hashtags, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260912-tesla-go-for-launch",
+      "benchmarkPostId": "2098844654116503859",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098844654116503859",
+      "title": "Tesla posts go-for-launch image",
+      "status": "published",
+      "postText": "Tesla $TSLA just posted a photo with the caption: \"Go for launch.\"",
+      "mirroredFacts": [
+        "Tesla posted a photo with the caption \"Go for launch.\""
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098844654116503859"
+      ],
+      "imagePath": "deliverables/pkg-20260912-tesla-go-for-launch/when2buy-image.png",
+      "createdAt": "2026-09-12T18:49:32Z",
+      "sourceExpiresAt": "2026-09-12T20:12:14Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square 1:1 entity-led cinematic realistic electric vehicle staged at an industrial launch-prep test facility at dawn, vehicle dominant center-right, clean upper-left negative space, near-black graphite base, white and cool blue highlights, restrained red accent; no rocket, no readable text, logos, watermark, attribution, disclaimer, commentary, CTA, tagline, hashtags, pure-text card, or generic radar background; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "canvas": "1254x1254",
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-12T18:49:32Z",
+          "result": "passed",
+          "checks": [
+            "square 1:1 1254x1254 PNG",
+            "complete Tesla vehicle entity-led scene",
+            "exact repository logo composited once",
+            "caption fact proofread",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, hashtags, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtyqpblz1ea2qk0yqg7i0ga8",
+      "postizSubmissionAt": "2026-09-12T18:49:59Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-12T18:50:30Z",
+      "publishedAt": "2026-09-12T18:49:00.000Z"
     }
   ],
   "posts": [
@@ -48559,6 +48822,24 @@
         "windowStart": "2026-09-12T18:32:00Z",
         "windowEnd": "2026-09-15T18:32:00Z",
         "lastAttemptAt": "2026-09-12T18:33:39.805248Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098846713868161054",
+      "packageId": "pkg-20260912-tesla-go-for-launch",
+      "title": "Tesla posts go-for-launch image",
+      "text": "Tesla $TSLA just posted a photo with the caption: \"Go for launch.\"",
+      "status": "published",
+      "publishedAt": "2026-09-12T18:49:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098846713868161054",
+      "postizPostId": "cmtyqpblz1ea2qk0yqg7i0ga8",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-12T18:49:00Z",
+        "windowEnd": "2026-09-15T18:49:00Z",
+        "lastAttemptAt": "2026-09-12T18:50:58.420489Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -421500,6 +421781,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-12T18:33:39.805248Z"
       }
+    },
+    {
+      "id": "metric-2098846713868161054-20260912T185058Z",
+      "postId": "2098846713868161054",
+      "observedAt": "2026-09-12T18:50:58.420489Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtyqpblz1ea2qk0yqg7i0ga8",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtyqpblz1ea2qk0yqg7i0ga8",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-12"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-12"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-12"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-12"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-12"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-12T18:50:58.420489Z"
+      }
     }
   ],
   "experiments": [],
@@ -446342,6 +446665,55 @@
       "status": "succeeded",
       "startedAt": "2026-09-12T18:33:28Z",
       "completedAt": "2026-09-12T18:33:28Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T184539Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T18:45:39Z",
+      "completedAt": "2026-09-12T18:45:39Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T184643Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T18:46:43Z",
+      "completedAt": "2026-09-12T18:46:43Z",
+      "summary": "Apify scanned both benchmark accounts; captured 116 eligible originals and added 4 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T184650Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T18:46:50Z",
+      "completedAt": "2026-09-12T18:46:50Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T184835Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T18:48:35Z",
+      "completedAt": "2026-09-12T18:48:35Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T185030Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T18:50:30Z",
+      "completedAt": "2026-09-12T18:50:30Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }

@@ -1,16 +1,20 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T18:33:40.174857+00:00`
+- 状态更新：`2026-09-12T18:50:58.769877+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**660**
-- 待选选题：**582**
-- 待发布制作包：**0**
-- 已验证发布：**259**
+- 对标帖子快照：**664**
+- 待选选题：**586**
+- 待发布制作包：**1**
+- 已验证发布：**260**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 18:22:41 +0000 2026 | If you had invested $10,000 into each of the current top 10 largest ETFs ranked by Assets Under Management 10 years ago and held them to today  You would currently have $288,000 | [X](https://x.com/StockMKTNewz/status/2098839733463920980) |
+| @WhaleInsider | Sat Sep 12 18:36:48 +0000 2026 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says today is a "bad day to be a CLARITY Act doomer." https://t.co/AQdcXddIRF | [X](https://x.com/WhaleInsider/status/2098843285825409037) |
+| @StockMKTNewz | Sat Sep 12 18:41:50 +0000 2026 | Sam Altman just said he thinks all the people leading US AI will come together and agree to slow down the pace of AI training | [X](https://x.com/StockMKTNewz/status/2098844550047420916) |
+| @StockMKTNewz | Sat Sep 12 18:42:14 +0000 2026 | Tesla $TSLA just posted this photo with the caption  "Go for launch" https://t.co/pKJ13cRHaZ | [X](https://x.com/StockMKTNewz/status/2098844654116503859) |
 | @StockMKTNewz | Sat Sep 12 17:37:35 +0000 2026 | SAM ALTMAN SAYS OPENAI HAS PAUSED TRAINING RUNS FOR SAFETY WORK AND WILL DO MORE OF IT  "We want to ensure that no one's taking the 10% risk, certainly not us, of something really terrible happening." | [X](https://x.com/StockMKTNewz/status/2098828384360861937) |
 | @WhaleInsider | Sat Sep 12 17:41:33 +0000 2026 | JUST IN: $250,000,000 $USDC just minted at USDC Treasury. https://t.co/fmLU9P2EHl | [X](https://x.com/WhaleInsider/status/2098829379946082537) |
 | @StockMKTNewz | Sat Sep 12 17:42:49 +0000 2026 | Sam Altman said OpenAI will have a "impressive demo" of a Humanoid Robot in 2027 https://t.co/TajpFNsCl1 | [X](https://x.com/StockMKTNewz/status/2098829700558631099) |
@@ -37,10 +41,6 @@
 | @StockMKTNewz | Sat Sep 12 11:32:43 +0000 2026 | Oracle $ORCL founder Larry Ellison has entered into a new trading plan that would allow him to sell up to 50 million of his shares in Oracle stock worth ~$7.5 billion at the current price - CNBC https://t.co/90ZXya9uqD | [X](https://x.com/StockMKTNewz/status/2098736561269465361) |
 | @WhaleInsider | Sat Sep 12 11:26:57 +0000 2026 | JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit in New Delhi. https://t.co/1TavRkJheB | [X](https://x.com/WhaleInsider/status/2098735109092372568) |
 | @WhaleInsider | Sat Sep 12 09:36:11 +0000 2026 | JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him. https://t.co/R45M7mfDBO | [X](https://x.com/WhaleInsider/status/2098707236117741745) |
-| @WhaleInsider | Sat Sep 12 08:38:02 +0000 2026 | JUST IN: 🇺🇸 Odds of a Fed rate hike this month surge to 81%, per Kalshi traders. https://t.co/SW4k887gwo | [X](https://x.com/WhaleInsider/status/2098692599393423656) |
-| @WhaleInsider | Sat Sep 12 07:25:10 +0000 2026 | JUST IN: 🇺🇸 Goldman Sachs warns of rate hike next week. https://t.co/kraAilsbAI | [X](https://x.com/WhaleInsider/status/2098674263930593636) |
-| @WhaleInsider | Sat Sep 12 05:36:40 +0000 2026 | JUST IN: BlackRock ETF clients buy $148.82 million worth of $ETH. https://t.co/0WpYk9Sg5M | [X](https://x.com/WhaleInsider/status/2098646959653359712) |
-| @StockMKTNewz | Fri Sep 11 23:18:24 +0000 2026 | Anthropic is looking to go public at a valuation of $2 Trillion | [X](https://x.com/StockMKTNewz/status/2098551762961481832) |
 
 ## 选题推荐
 
@@ -261,6 +261,7 @@
 | 1 | JUST IN: Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development… | WhaleInsider | 13055 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI is not going public in 2026 https://t.co/8OeRD0eIxI | StockMKTNewz | 5653 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Sam Altman said OpenAI will have a "impressive demo" of a Humanoid Robot in 2027 https://t.c… | StockMKTNewz | 6126 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Tesla $TSLA just posted this photo with the caption "Go for launch" https://t.co/pKJ13cRHaZ | StockMKTNewz | 6556 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -350,6 +351,7 @@
 | 2 | 3 out of Microsoft's $MSFT top 10 largest acquisitions in its history are for video game com… | StockMKTNewz | 9630 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | I fixed the famous photo https://t.co/wchFCEPGSz | StockMKTNewz | 10390 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: $250,000,000 $USDC just minted at USDC Treasury. https://t.co/fmLU9P2EHl | WhaleInsider | 13320 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | Sam Altman just said he thinks all the people leading US AI will come together and agree to … | StockMKTNewz | 6273 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -389,6 +391,7 @@
 | 3 | FUN FACT: Amazon’s first-ever dog was a corgi named Rufus. They later named their official A… | WhaleInsider | 18491 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Traders speculate on potential LeBron James coin launch after Vlad Tenev followed h… | WhaleInsider | 17985 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | SAM ALTMAN SAYS OPENAI HAS PAUSED TRAINING RUNS FOR SAFETY WORK AND WILL DO MORE OF IT "We w… | StockMKTNewz | 10327 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says today is a "bad day to be a CLA… | WhaleInsider | 16355 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -410,6 +413,7 @@
 | 4 | 🇺🇸 INFLATION FOR AUGUST JUST CAME OUT IN LINE WITH EXPECTATIONS US CPI for August just came … | StockMKTNewz | 31787 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: Leopold Aschenbrenner's Situation Awareness has reportedly been active in the optio… | StockMKTNewz | 32473 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK - Jpm… | StockMKTNewz | 11368 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 4 | If you had invested $10,000 into each of the current top 10 largest ETFs ranked by Assets Un… | StockMKTNewz | 14335 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 5 | JUST IN: Call tracker MWX Alpha from @mwx_ai flagged $FONE at $253K MC on Aug 27 at 7:05 AM,… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | APPLE $AAPL SAYS OPENAI IS DESTROYING EVIDENCE IN TRADE SECRETS CASE - Bloomberg | StockMKTNewz | 17 | Fresh benchmark signal; verify the primary source before writing. |
 | 5 | JUST IN: Roblox $RBLX shares edge higher as recently launched memecoin tied to the stock gai… | WhaleInsider | 20 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3928,6 +3932,20 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 
 $250M in USDC was just minted at the USDC Treasury.
 
+### OpenAI pauses frontier training for safety work
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260912-openai-training-safety-pause/when2buy-image.png`
+
+OpenAI has paused some frontier training runs to do more safety and alignment work.  Smaller-scale training and evaluations continue while the largest planned run remains on hold.
+
+### Tesla posts go-for-launch image
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-tesla-go-for-launch/when2buy-image.png`
+
+Tesla $TSLA just posted a photo with the caption: "Go for launch."
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4192,9 +4210,15 @@ $250M in USDC was just minted at the USDC Treasury.
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
 | $250M USDC minted at USDC Treasury | 2026-09-12T18:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098842430468690120) |
+| Tesla posts go-for-launch image | 2026-09-12T18:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098846713868161054) |
 
 ## 最近运行
 
+- `2026-09-12T18:50:30Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T18:48:35Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T18:46:50Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T18:46:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 4 new post(s).
+- `2026-09-12T18:45:39Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T18:33:28Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T18:32:05Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T18:31:45Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4210,8 +4234,3 @@ $250M in USDC was just minted at the USDC Treasury.
 - `2026-09-12T17:50:11Z` **produce / succeeded** — Produced newest fresh benchmark item with original factual copy and exact-logo square entity visual.
 - `2026-09-12T17:47:07Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T17:46:58Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T17:46:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 115 eligible originals and added 3 new post(s).
-- `2026-09-12T17:45:43Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T17:34:50Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T17:31:36Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
-- `2026-09-12T17:31:13Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
