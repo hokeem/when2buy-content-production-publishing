@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T12:35:23.186132+00:00",
+  "updatedAt": "2026-09-12T12:47:29.347362+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -45573,12 +45573,14 @@
       "url": "https://x.com/_When2buy/status/2097660078849728766",
       "postizPostId": "cmtu29cwe00huqk0y3jjkr342",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T12:14:00Z",
         "windowEnd": "2026-09-12T12:14:00Z",
         "lastAttemptAt": "2026-09-12T12:01:48.359364Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T12:46:34.129779Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -45590,12 +45592,14 @@
       "url": "https://x.com/_When2buy/status/2097660614202257592",
       "postizPostId": "cmtu2c6wy00inqk0yqnplwv0s",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T12:16:00Z",
         "windowEnd": "2026-09-12T12:16:00Z",
         "lastAttemptAt": "2026-09-12T12:01:48.359364Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T12:46:34.129779Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -45607,12 +45611,14 @@
       "url": "https://x.com/_When2buy/status/2097663884169728471",
       "postizPostId": "cmtu2sptu00r0qk0yhnglln4q",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T12:29:00Z",
         "windowEnd": "2026-09-12T12:29:00Z",
         "lastAttemptAt": "2026-09-12T12:01:48.359364Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T12:46:34.129779Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -45624,12 +45630,14 @@
       "url": "https://x.com/_When2buy/status/2097664411699958174",
       "postizPostId": "cmtu2vme900lplm0yjt502a9d",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T12:31:00Z",
         "windowEnd": "2026-09-12T12:31:00Z",
         "lastAttemptAt": "2026-09-12T12:01:48.359364Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T12:46:34.129779Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -426080,6 +426088,39 @@
       "startedAt": "2026-09-12T12:35:23Z",
       "completedAt": "2026-09-12T12:35:23Z",
       "summary": "Newest Japan-rate package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted.",
+      "reason": "daily_limit; retryAt 2026-09-12T13:19:26Z",
+      "selectedPackageId": "pkg-20260912-japan-rate-regime",
+      "outcome": "deferred"
+    },
+    {
+      "id": "run-20260912T124601Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T12:46:01Z",
+      "completedAt": "2026-09-12T12:46:01Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T124607Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T12:46:07Z",
+      "completedAt": "2026-09-12T12:46:07Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T124729Z-deferred",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T12:47:29Z",
+      "completedAt": "2026-09-12T12:47:29Z",
+      "summary": "Freshest Japan rate-regime package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted.",
       "reason": "daily_limit; retryAt 2026-09-12T13:19:26Z",
       "selectedPackageId": "pkg-20260912-japan-rate-regime",
       "outcome": "deferred"

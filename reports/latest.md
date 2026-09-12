@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T12:35:23.186132+00:00`
+- 状态更新：`2026-09-12T12:47:29.347362+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**641**
 - 待选选题：**564**
@@ -4069,6 +4069,9 @@ Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is
 
 ## 最近运行
 
+- `2026-09-12T12:47:29Z` **full / succeeded** — Freshest Japan rate-regime package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z
+- `2026-09-12T12:46:07Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T12:46:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T12:35:23Z` **full / succeeded** — Newest Japan-rate package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z
 - `2026-09-12T12:34:26Z` **produce / succeeded** — Produced one newest fresh Japan-rate package with an inspected entity-led image and exact-logo composite.
 - `2026-09-12T12:32:29Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4086,6 +4089,3 @@ Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is
 - `2026-09-12T11:45:44Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T11:35:11.916016+00:00` **produce / succeeded** — Produced one newest fresh package with authoritative fact narrowing, one complete square entity visual, and exact-logo composite.
 - `2026-09-12T11:31:07Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T11:31:02Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
-- `2026-09-12T11:16:42.604330Z` **full / succeeded** — Scanned both benchmark feeds; no new eligible originals and no fresh hard-TTL queue candidate. No publication attempted. no_fresh_eligible_source
-- `2026-09-12T11:16:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
