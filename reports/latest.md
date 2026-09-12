@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T15:48:04.177898+00:00`
+- 状态更新：`2026-09-12T16:04:40.742771+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**650**
-- 待选选题：**572**
-- 待发布制作包：**0**
+- 对标帖子快照：**651**
+- 待选选题：**573**
+- 待发布制作包：**1**
 - 已验证发布：**254**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Sat Sep 12 15:57:04 +0000 2026 | JUST IN: Anthropic CEO Dario Amodei calls for slower AI development, warns rogue AI agents could take over the internet in 6 to 12 months. https://t.co/dJt04hDI0y | [X](https://x.com/WhaleInsider/status/2098803086466629882) |
 | @StockMKTNewz | Sat Sep 12 15:36:24 +0000 2026 | OpenAI’s valuation has increased by 766% 🟢 over the last 2 years https://t.co/exg6zaJvTG | [X](https://x.com/StockMKTNewz/status/2098797888063312188) |
 | @StockMKTNewz | Sat Sep 12 15:18:10 +0000 2026 | Anthropic’s valuation has increased by more than 7,500% over the last 2 years https://t.co/7hGTfU07Fn | [X](https://x.com/StockMKTNewz/status/2098793299662274652) |
 | @StockMKTNewz | Sat Sep 12 14:42:50 +0000 2026 | Which ETF do you hold the most of? | [X](https://x.com/StockMKTNewz/status/2098784406156521744) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 20:30:29 +0000 2026 | JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get unique NFT airdrops. Phase 2: 1% supply raffled to top holders + Tier-1 CEX listing. Phase 3: CatRobinHat launchpad. https://t.co/E7gQ07yAqi | [X](https://x.com/WhaleInsider/status/2098509506690871689) |
 | @WhaleInsider | Fri Sep 11 19:50:21 +0000 2026 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." https://t.co/yvLyzeWyXF | [X](https://x.com/WhaleInsider/status/2098499407008199000) |
 | @StockMKTNewz | Fri Sep 11 19:52:24 +0000 2026 | US GOVERNMENT BUDGET UPDATE  The federal budget deficit hit $1.97 trillion for the first 11 months of the fiscal year  Spending for fiscal 2026 to date totaled $6.81 trillion, up 3% YoY, while revenues were $4.85 trillion, also 3% YoY. The US Government's fiscal year ends in September - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098499922106384614) |
-| @StockMKTNewz | Fri Sep 11 19:23:08 +0000 2026 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking relationship with Clear Street - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098492555679662501) |
 
 ## 选题推荐
 
@@ -254,6 +254,7 @@
 | 1 | Which ETF do you hold the most of? | StockMKTNewz | 5902 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Anthropic’s valuation has increased by more than 7,500% over the last 2 years https://t.co/7… | StockMKTNewz | 13577 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI’s valuation has increased by 766% 🟢 over the last 2 years https://t.co/exg6zaJvTG | StockMKTNewz | 9456 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Anthropic CEO Dario Amodei calls for slower AI development, warns rogue AI agents c… | WhaleInsider | 13100 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3862,6 +3863,13 @@ Anthropic's valuation has increased by more than 7,500% over the last 2 years.
 
 OpenAI's valuation has increased by 766% over the last two years.
 
+### Anthropic CEO calls for slower AI development
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260912-anthropic-slowdown-rogue-agents/when2buy-image.png`
+
+Anthropic CEO Dario Amodei is calling for slower AI development, warning rogue AI agents could take over the internet within 6–12 months.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -3986,6 +3994,7 @@ OpenAI's valuation has increased by 766% over the last two years.
 | Howard Lutnick disclosed $250M+ income | 2026-09-07T08:33:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879675360620883) |
 | Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
 | Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
+| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
@@ -3995,7 +4004,6 @@ OpenAI's valuation has increased by 766% over the last two years.
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
-| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -4073,6 +4081,7 @@ OpenAI's valuation has increased by 766% over the last two years.
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
+| Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098778671192633553) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -4088,7 +4097,6 @@ OpenAI's valuation has increased by 766% over the last two years.
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 | Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
-| Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098778671192633553) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -4124,6 +4132,10 @@ OpenAI's valuation has increased by 766% over the last two years.
 
 ## 最近运行
 
+- `2026-09-12T16:04:40Z` **full / succeeded** — Newest Anthropic slowdown package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T16:18:39Z
+- `2026-09-12T16:03:32Z` **produce / succeeded** — Produced one newest fresh Anthropic package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-12T16:01:29Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T16:01:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
 - `2026-09-12T15:48:04.174262+00:00` **produce / partial** — Produced the newest fresh OpenAI valuation package with an inspected entity-led image and exact-logo composite; publication blocked because the exact benchmark percentage could not be verified. blocked_unverified_benchmark_claim
 - `2026-09-12T15:46:08Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T15:45:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
@@ -4140,7 +4152,3 @@ OpenAI's valuation has increased by 766% over the last two years.
 - `2026-09-12T15:02:01Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T15:01:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-12T15:00:34Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T14:45:00Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload, so no compliant copy or publication was created; the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
-- `2026-09-12T14:46:27Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T14:46:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 1 new post(s).
-- `2026-09-12T14:45:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
