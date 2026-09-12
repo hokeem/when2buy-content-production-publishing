@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T06:47:34.183824+00:00`
+- 状态更新：`2026-09-12T07:03:25.546134+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**632**
 - 待选选题：**555**
@@ -4015,6 +4015,11 @@ BlackRock ETF clients bought $148.82M worth of $ETH.
 
 ## 最近运行
 
+- `2026-09-12T07:03:25Z` **full / partial** — Freshness-first cycle completed without publication; Apify and hourly metrics calls hit bounded timeouts, while reconciliation, archive, queue rebuild, validation, and report rendering completed. No fresh eligible item was available in the rebuilt 90-minute TTL queue; no Postiz submission made. Apify and metrics remain recoverable for the next Cron run.
+- `2026-09-12T07:02:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T07:01:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T07:01:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-12T07:00:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T06:47:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T06:47:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T06:45:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4030,8 +4035,3 @@ BlackRock ETF clients bought $148.82M worth of $ETH.
 - `2026-09-12T06:00:35Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T05:46:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T05:46:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T05:32:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T05:32:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T05:30:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T05:16:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T05:16:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
