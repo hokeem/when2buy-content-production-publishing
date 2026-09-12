@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T18:04:59.093344+00:00`
+- 状态更新：`2026-09-12T18:17:47.526242+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**660**
 - 待选选题：**582**
-- 待发布制作包：**2**
+- 待发布制作包：**1**
 - 已验证发布：**258**
 
 ## 对标账号扫描
@@ -3902,7 +3902,7 @@ Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
 
 ### OpenAI CEO says now is an ill-advised time to go public
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260912-openai-public-listing/when2buy-image.png`
 
 OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.  He is not looking to take OpenAI public in 2026.
@@ -4194,6 +4194,9 @@ $250M in USDC was just minted at the USDC Treasury.
 
 ## 最近运行
 
+- `2026-09-12T18:17:47Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T18:17:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
+- `2026-09-12T18:15:46Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T17:55:00Z` **full / succeeded** — Newest fresh USDC package was safely deferred by the Postiz minimum-interval limiter; no accepted task was created and no retry is permitted. minimum_interval; retryAt 2026-09-12T18:05:30Z
 - `2026-09-12T18:03:46Z` **produce / succeeded** — Produced one newest fresh USDC package with a complete entity-led square image, exact-logo composite, and QA.
 - `2026-09-12T18:01:46Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
@@ -4211,6 +4214,3 @@ $250M in USDC was just minted at the USDC Treasury.
 - `2026-09-12T17:30:46Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T17:16:54Z` **full / succeeded** — Scanned both benchmark feeds, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, and safely deferred the newest item because it was a meme-only post with no factual event payload; no older backlog was processed. No factual payload; copy constraints prohibit commentary, attribution, disclaimer, CTA, and fabricated facts.
 - `2026-09-12T17:16:09Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T17:15:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
-- `2026-09-12T17:15:39Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T17:07:10Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).

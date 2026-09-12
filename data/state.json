@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T18:04:59.093344+00:00",
+  "updatedAt": "2026-09-12T18:17:47.526242+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -43522,7 +43522,7 @@
       "benchmarkPostId": "2098814769964679425",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098814769964679425",
       "title": "OpenAI CEO says now is an ill-advised time to go public",
-      "status": "ready",
+      "status": "expired",
       "postText": "OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.\n\nHe is not looking to take OpenAI public in 2026.",
       "mirroredFacts": [
         "Sam Altman said now is an ill-advised time for OpenAI to go public.",
@@ -43557,7 +43557,9 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-12T18:15:40Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260912-openai-no-public-listing-2026",
@@ -446210,6 +446212,37 @@
       "reason": "minimum_interval; retryAt 2026-09-12T18:05:30Z",
       "selectedPackageId": "pkg-20260912-usdc-mint",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260912T181546Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T18:15:46Z",
+      "completedAt": "2026-09-12T18:15:46Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T181726Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T18:17:26Z",
+      "completedAt": "2026-09-12T18:17:26Z",
+      "summary": "Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T181747Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T18:17:47Z",
+      "completedAt": "2026-09-12T18:17:47Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
