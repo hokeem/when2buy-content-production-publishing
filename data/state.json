@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T02:16:23.403261+00:00",
+  "updatedAt": "2026-09-12T02:31:30.285486+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -387431,6 +387431,37 @@
         "provider": "Apify",
         "actor": "apidojo/twitter-profile-scraper"
       }
+    },
+    {
+      "id": "run-20260912T023046Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T02:30:46Z",
+      "completedAt": "2026-09-12T02:30:46Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T023100Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T02:31:00Z",
+      "completedAt": "2026-09-12T02:31:00Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T023130Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T02:31:30Z",
+      "completedAt": "2026-09-12T02:31:30Z",
+      "summary": "Freshness-first cycle completed: reconciled Postiz, scanned both benchmark feeds, archived media, rebuilt the hard 90-minute queue, collected hourly metrics, and found no eligible fresh item. No publication submitted.",
+      "reason": "No new non-pinned original from @WhaleInsider or @StockMKTNewz was eligible within the 90-minute source TTL."
     }
   ],
   "deliveryCircuitBreaker": {
