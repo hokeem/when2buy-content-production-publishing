@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T08:50:08.254386+00:00`
+- 状态更新：`2026-09-12T09:02:06.591553+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**634**
 - 待选选题：**557**
@@ -3910,6 +3910,7 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
 | PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
+| Goldman Sachs expects a Fed hike next week | 2026-09-12T07:33:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098676535809155376) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -3952,7 +3953,6 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
-| Goldman Sachs expects a Fed hike next week | 2026-09-12T07:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098676535809155376) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -4029,10 +4029,12 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098695636640227383) |
+| Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
 
 ## 最近运行
 
+- `2026-09-12T09:01:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T09:01:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T08:50:08Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T08:49:05.810334+00:00` **produce / succeeded** — Produced one newest fresh Fed-hike package with a complete entity-led image and exact-logo composite.
 - `2026-09-12T08:47:11Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4051,5 +4053,3 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 - `2026-09-12T07:47:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T07:34:15Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T07:33:24Z` **produce / succeeded** — Produced one fresh Goldman/Fed package with a complete square entity-led visual and exact-logo compositing.
-- `2026-09-12T07:31:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T07:31:32Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
