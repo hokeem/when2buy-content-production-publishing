@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T10:46:33.687263+00:00`
+- 状态更新：`2026-09-12T11:01:49.824164+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**635**
 - 待选选题：**558**
@@ -3883,11 +3883,11 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 | Jets playoff prediction contract offers $136 on $1,000 stake | 2026-09-08T02:26:00.000Z | 17 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097149656405008457) |
 | Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 17 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | Astra GPT 6 takes control of the Rallies AI portfolio | 2026-09-11T00:17:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098204457721123197) |
+| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
-| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
@@ -4009,6 +4009,7 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
+| Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098710516722180398) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -4016,7 +4017,7 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
-| Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098710516722180398) |
+| Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -4027,7 +4028,6 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 | UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
 | BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
-| Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -4042,6 +4042,8 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 
 ## 最近运行
 
+- `2026-09-12T11:01:15Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T11:01:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T10:46:05Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T10:45:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
 - `2026-09-12T10:32:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4060,5 +4062,3 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 - `2026-09-12T09:45:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:32:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:17:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T09:15:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T09:01:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
