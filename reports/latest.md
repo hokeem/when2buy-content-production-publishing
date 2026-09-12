@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T14:04:50.050906+00:00`
+- 状态更新：`2026-09-12T14:20:05.535807+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**646**
-- 待选选题：**568**
+- 对标帖子快照：**647**
+- 待选选题：**569**
 - 待发布制作包：**0**
-- 已验证发布：**251**
+- 已验证发布：**252**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 14:06:24 +0000 2026 | ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS:   - WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS | [X](https://x.com/StockMKTNewz/status/2098775238838288484) |
 | @WhaleInsider | Sat Sep 12 13:50:19 +0000 2026 | JUST IN: Traders speculate on potential LeBron James coin launch after Vlad Tenev followed him on X. https://t.co/O2gZklp7r0 | [X](https://x.com/WhaleInsider/status/2098771189644533915) |
 | @StockMKTNewz | Sat Sep 12 13:50:21 +0000 2026 | 3 out of Microsoft's $MSFT top 10 largest acquisitions in its history are for video game companies  - Activision Blizzard for $75.4B in 2022 - Zenimax Media for $8.1B in 2020 - Mojang Studios for $2.5B in 2014 | [X](https://x.com/StockMKTNewz/status/2098771198326771884) |
 | @WhaleInsider | Sat Sep 12 13:59:08 +0000 2026 | JUST IN: Robinhood Chain $HOOD hit a new all-time high of $531 million in daily perps volume yesterday. https://t.co/4Nmlxs0afO | [X](https://x.com/WhaleInsider/status/2098773406279684318) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 19:09:34 +0000 2026 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week  Citi expects the Fed to be cutting rates by the middle of 2027 | [X](https://x.com/StockMKTNewz/status/2098489144276123754) |
 | @StockMKTNewz | Fri Sep 11 19:13:30 +0000 2026 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults will happen https://t.co/i2U8d3xIat | [X](https://x.com/StockMKTNewz/status/2098490133007753576) |
 | @WhaleInsider | Fri Sep 11 19:15:43 +0000 2026 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/Q934niMGTj | [X](https://x.com/WhaleInsider/status/2098490691844206770) |
-| @StockMKTNewz | Fri Sep 11 18:57:47 +0000 2026 | Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026   There are 49 names on the list below, more than I would have though | [X](https://x.com/StockMKTNewz/status/2098486176764056032) |
 
 ## 选题推荐
 
@@ -250,6 +250,7 @@
 | 1 | Japan’s 🇯🇵 era of interest rates being around 0% seems to have come to an end https://t.co/M… | StockMKTNewz | 4840 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb | StockMKTNewz | 5167 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD hit a new all-time high of $531 million in daily perps volume… | WhaleInsider | 11030 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS: - WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE… | StockMKTNewz | 9544 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3830,6 +3831,13 @@ This is what a $2.9M home looks like in the Flint, Michigan area.
 
 Robinhood Chain $HOOD hit a new all-time high of $531M in daily perps volume yesterday.
 
+### Anthropic CEO calls for slower AI model capability gains
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-anthropic-slowdown/when2buy-image.png`
+
+Anthropic CEO Dario Amodei says the pace of AI model capability improvements must slow.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4063,6 +4071,7 @@ Robinhood Chain $HOOD hit a new all-time high of $531M in daily perps volume yes
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
+| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -4085,10 +4094,14 @@ Robinhood Chain $HOOD hit a new all-time high of $531M in daily perps volume yes
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098774824114114765) |
+| Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098778671192633553) |
 
 ## 最近运行
 
+- `2026-09-12T14:20:05Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T14:18:48Z` **produce / succeeded** — Produced one newest fresh Anthropic package with verified source mapping, generated entity visual, exact-logo composite, and QA pass.
+- `2026-09-12T14:16:33Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T14:16:18Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 18 eligible originals and added 1 new post(s).
 - `2026-09-12T14:04:50Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T14:04:01Z` **produce / succeeded** — Produced one newest fresh Robinhood Chain package with a complete entity-led square visual and one exact-logo composite.
 - `2026-09-12T14:01:14Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
@@ -4105,7 +4118,3 @@ Robinhood Chain $HOOD hit a new all-time high of $531M in daily perps volume yes
 - `2026-09-12T13:16:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T13:02:58Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T13:02:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 0 new post(s).
-- `2026-09-12T13:02:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
-- `2026-09-12T13:00:53Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T12:47:29Z` **full / succeeded** — Freshest Japan rate-regime package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z
-- `2026-09-12T12:46:07Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).

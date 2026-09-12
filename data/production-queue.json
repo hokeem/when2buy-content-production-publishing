@@ -1,49 +1,41 @@
 {
-  "generatedAt": "2026-09-12T14:01:14Z",
+  "generatedAt": "2026-09-12T14:16:33Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098773406279684318",
-      "benchmarkAccount": "WhaleInsider",
+      "benchmarkPostId": "2098775238838288484",
+      "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098773406279684318",
-      "originalText": "JUST IN: Robinhood Chain $HOOD hit a new all-time high of $531 million in daily perps volume yesterday. https://t.co/4Nmlxs0afO",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HSBXSY8XEAkpyeO.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HSBXSY8XEAkpyeO.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098773406279684318-1.jpg",
-          "status": "archived"
-        }
-      ],
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098775238838288484",
+      "originalText": "ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS: \n\n- WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
       "engagement": {
-        "likes": 23,
-        "replies": 9,
-        "reposts": 7,
+        "likes": 38,
+        "replies": 14,
+        "reposts": 1,
         "quotes": 2,
-        "views": 9740
+        "views": 8054
       },
-      "postedAt": "Sat Sep 12 13:59:08 +0000 2026",
-      "score": 11030,
-      "heatScore": 11030,
+      "postedAt": "Sat Sep 12 14:06:24 +0000 2026",
+      "score": 9544,
+      "heatScore": 9544,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
-        "marketImpact": 5,
-        "visualPotential": 5,
+        "marketImpact": 3,
+        "visualPotential": 3,
         "factualClarity": 4
       },
-      "editorialScore": 20,
+      "editorialScore": 16,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 2.1,
-        "expiresAt": "2026-09-12T15:29:08Z",
+        "ageMinutes": 10.2,
+        "expiresAt": "2026-09-12T15:36:24Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -79,7 +71,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 10.9,
+        "ageMinutes": 26.2,
         "expiresAt": "2026-09-12T15:20:21Z",
         "ttlMinutes": 90
       },
@@ -124,7 +116,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 10.9,
+        "ageMinutes": 26.2,
         "expiresAt": "2026-09-12T15:20:19Z",
         "ttlMinutes": 90
       },
