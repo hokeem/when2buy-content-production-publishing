@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T15:34:28.652773+00:00`
+- 状态更新：`2026-09-12T15:48:04.177898+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**649**
-- 待选选题：**571**
+- 对标帖子快照：**650**
+- 待选选题：**572**
 - 待发布制作包：**0**
 - 已验证发布：**254**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 15:36:24 +0000 2026 | OpenAI’s valuation has increased by 766% 🟢 over the last 2 years https://t.co/exg6zaJvTG | [X](https://x.com/StockMKTNewz/status/2098797888063312188) |
 | @StockMKTNewz | Sat Sep 12 15:18:10 +0000 2026 | Anthropic’s valuation has increased by more than 7,500% over the last 2 years https://t.co/7hGTfU07Fn | [X](https://x.com/StockMKTNewz/status/2098793299662274652) |
 | @StockMKTNewz | Sat Sep 12 14:42:50 +0000 2026 | Which ETF do you hold the most of? | [X](https://x.com/StockMKTNewz/status/2098784406156521744) |
 | @StockMKTNewz | Sat Sep 12 14:06:24 +0000 2026 | ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS:   - WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS | [X](https://x.com/StockMKTNewz/status/2098775238838288484) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 19:50:21 +0000 2026 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." https://t.co/yvLyzeWyXF | [X](https://x.com/WhaleInsider/status/2098499407008199000) |
 | @StockMKTNewz | Fri Sep 11 19:52:24 +0000 2026 | US GOVERNMENT BUDGET UPDATE  The federal budget deficit hit $1.97 trillion for the first 11 months of the fiscal year  Spending for fiscal 2026 to date totaled $6.81 trillion, up 3% YoY, while revenues were $4.85 trillion, also 3% YoY. The US Government's fiscal year ends in September - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098499922106384614) |
 | @StockMKTNewz | Fri Sep 11 19:23:08 +0000 2026 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking relationship with Clear Street - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098492555679662501) |
-| @StockMKTNewz | Fri Sep 11 19:09:34 +0000 2026 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week  Citi expects the Fed to be cutting rates by the middle of 2027 | [X](https://x.com/StockMKTNewz/status/2098489144276123754) |
 
 ## 选题推荐
 
@@ -253,6 +253,7 @@
 | 1 | ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS: - WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE… | StockMKTNewz | 9544 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Which ETF do you hold the most of? | StockMKTNewz | 5902 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Anthropic’s valuation has increased by more than 7,500% over the last 2 years https://t.co/7… | StockMKTNewz | 13577 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | OpenAI’s valuation has increased by 766% 🟢 over the last 2 years https://t.co/exg6zaJvTG | StockMKTNewz | 9456 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3854,6 +3855,13 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 
 Anthropic's valuation has increased by more than 7,500% over the last 2 years.
 
+### OpenAI valuation up 766% in two years
+
+- 状态：`blocked`
+- 配图：`deliverables/pkg-20260912-openai-valuation-766/when2buy-image.png`
+
+OpenAI's valuation has increased by 766% over the last two years.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4116,6 +4124,10 @@ Anthropic's valuation has increased by more than 7,500% over the last 2 years.
 
 ## 最近运行
 
+- `2026-09-12T15:48:04.174262+00:00` **produce / partial** — Produced the newest fresh OpenAI valuation package with an inspected entity-led image and exact-logo composite; publication blocked because the exact benchmark percentage could not be verified. blocked_unverified_benchmark_claim
+- `2026-09-12T15:46:08Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T15:45:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 17 eligible originals and added 1 new post(s).
+- `2026-09-12T15:45:37Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T15:33:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T15:32:50Z` **produce / succeeded** — Produced one newest fresh Anthropic valuation package with an inspected entity-led image and exact-logo composite.
 - `2026-09-12T15:30:59Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4132,7 +4144,3 @@ Anthropic's valuation has increased by more than 7,500% over the last 2 years.
 - `2026-09-12T14:46:27Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T14:46:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 1 new post(s).
 - `2026-09-12T14:45:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T14:35:15Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T14:34:24Z` **produce / succeeded** — Produced the sole newest fresh Microsoft acquisitions package with an inspected entity-led visual and exact-logo composite.
-- `2026-09-12T14:31:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T14:31:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
