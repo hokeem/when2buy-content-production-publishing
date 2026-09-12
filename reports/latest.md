@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T08:03:16.614794+00:00`
+- 状态更新：`2026-09-12T08:17:14.091848+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**633**
 - 待选选题：**556**
@@ -4024,6 +4024,8 @@ Goldman Sachs now expects a 25-basis-point Fed rate hike next week.  The FOMC de
 
 ## 最近运行
 
+- `2026-09-12T08:17:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T08:16:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 125 eligible originals and added 0 new post(s).
 - `2026-09-12T08:02:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T08:02:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T08:02:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
@@ -4042,5 +4044,3 @@ Goldman Sachs now expects a 25-basis-point Fed rate hike next week.  The FOMC de
 - `2026-09-12T07:15:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:04:23Z` **full / partial** — Freshness-first cycle completed without publication; bounded Apify and hourly metrics attempts did not yield a new deliverable. Reconciliation, media archive, package status reconciliation, and hard-TTL queue rebuild completed. No fresh eligible item was available in the 90-minute queue; no Postiz submission made. Collector and metrics attempts remain recoverable on the next Cron run.
 - `2026-09-12T07:02:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T07:01:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T07:01:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
