@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T05:32:30.495210+00:00`
+- 状态更新：`2026-09-12T05:46:55.112793+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**631**
 - 待选选题：**554**
@@ -4006,6 +4006,8 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 
 ## 最近运行
 
+- `2026-09-12T05:46:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T05:46:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T05:32:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T05:32:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T05:30:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4024,5 +4026,3 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 - `2026-09-12T04:04:09Z` **full / partial** — Freshness-first run scanned both benchmark feeds, archived media, reconciled Postiz/package state, and rebuilt an empty hard-TTL queue; no publication was attempted. Hourly public metrics collection exceeded its bounded timeout and was stopped safely; next scheduled run should retry metrics.
 - `2026-09-12T04:02:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T04:00:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T03:46:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T03:45:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
