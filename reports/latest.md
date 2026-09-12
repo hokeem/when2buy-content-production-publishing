@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T09:32:09.844261+00:00`
+- 状态更新：`2026-09-12T09:49:16.696736+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**634**
-- 待选选题：**557**
+- 对标帖子快照：**635**
+- 待选选题：**558**
 - 待发布制作包：**0**
-- 已验证发布：**248**
+- 已验证发布：**249**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Sat Sep 12 09:36:11 +0000 2026 | JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him. https://t.co/R45M7mfDBO | [X](https://x.com/WhaleInsider/status/2098707236117741745) |
 | @WhaleInsider | Sat Sep 12 08:38:02 +0000 2026 | JUST IN: 🇺🇸 Odds of a Fed rate hike this month surge to 81%, per Kalshi traders. https://t.co/SW4k887gwo | [X](https://x.com/WhaleInsider/status/2098692599393423656) |
 | @WhaleInsider | Sat Sep 12 07:25:10 +0000 2026 | JUST IN: 🇺🇸 Goldman Sachs warns of rate hike next week. https://t.co/kraAilsbAI | [X](https://x.com/WhaleInsider/status/2098674263930593636) |
 | @WhaleInsider | Sat Sep 12 05:36:40 +0000 2026 | JUST IN: BlackRock ETF clients buy $148.82 million worth of $ETH. https://t.co/0WpYk9Sg5M | [X](https://x.com/WhaleInsider/status/2098646959653359712) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 16:05:03 +0000 2026 | $DELL stock hit new ALL TIME HIGHS today  🟢 https://t.co/I5FMpy4KZ3 | [X](https://x.com/StockMKTNewz/status/2098442708297597298) |
 | @StockMKTNewz | Fri Sep 11 16:09:13 +0000 2026 | Tesla $TSLA posted this today  "Semi is coming to Europe" https://t.co/gkB2qs7uUb | [X](https://x.com/StockMKTNewz/status/2098443757209137467) |
 | @WhaleInsider | Fri Sep 11 15:39:15 +0000 2026 | JUST IN: 🇮🇹 UniCredit, Italy's 2nd-largest bank with 20 million+ users, is looking to offer crypto services. https://t.co/hMYigRD9hS | [X](https://x.com/WhaleInsider/status/2098436214864904690) |
-| @StockMKTNewz | Fri Sep 11 15:09:26 +0000 2026 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | [X](https://x.com/StockMKTNewz/status/2098428713742356683) |
 
 ## 选题推荐
 
@@ -244,6 +244,7 @@
 | 1 | JUST IN: BlackRock ETF clients buy $148.82 million worth of $ETH. https://t.co/0WpYk9Sg5M | WhaleInsider | 19833 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Goldman Sachs warns of rate hike next week. https://t.co/kraAilsbAI | WhaleInsider | 12589 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: 🇺🇸 Odds of a Fed rate hike this month surge to 81%, per Kalshi traders. https://t.c… | WhaleInsider | 14046 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t … | WhaleInsider | 14893 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3777,6 +3778,13 @@ Goldman Sachs now expects a 25-basis-point Fed rate hike next week.  The FOMC de
 
 Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 
+### Iran president says Mojtaba Khamenei is alive
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-iran-leadership-location/when2buy-image.png`
+
+Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot locate him.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4030,9 +4038,18 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
+| Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098710516722180398) |
 
 ## 最近运行
 
+- `2026-09-12T09:49:16Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T09:48:46Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T09:48:25Z` **produce / succeeded** — Produced one newest fresh Iran leadership package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-12T09:46:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T09:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
+- `2026-09-12T09:46:47Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T09:46:41Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
+- `2026-09-12T09:45:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:32:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:17:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:15:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4045,11 +4062,3 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 - `2026-09-12T08:31:19Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T08:31:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
 - `2026-09-12T08:30:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T08:17:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T08:16:55Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 125 eligible originals and added 0 new post(s).
-- `2026-09-12T08:02:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T08:02:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T08:02:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
-- `2026-09-12T08:00:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T07:47:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T07:47:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).

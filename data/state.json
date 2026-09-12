@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T09:32:09.844261+00:00",
+  "updatedAt": "2026-09-12T09:49:16.696736+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17487,6 +17487,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098707236117741745",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098707236117741745",
+      "postedAt": "Sat Sep 12 09:36:11 +0000 2026",
+      "text": "JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him. https://t.co/R45M7mfDBO",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSAbGswawAA7Nyc.jpg",
+        "https://pbs.twimg.com/media/HSAbGssaMAAz3gv.jpg"
+      ],
+      "engagement": {
+        "likes": 38,
+        "replies": 16,
+        "reposts": 10,
+        "quotes": 0,
+        "views": 12993
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T09:46:41Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSAbGswawAA7Nyc.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098707236117741745-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSAbGssaMAAz3gv.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098707236117741745-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -28071,6 +28105,25 @@
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098707236117741745",
+      "rank": 1,
+      "title": "JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t …",
+      "benchmarkPostId": "2098707236117741745",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098707236117741745",
+      "score": 14893,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T09:46:47Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
         "visualPotential": 5,
         "factualClarity": 4
       }
@@ -41733,6 +41786,48 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-12T08:50:08Z",
       "publishedAt": "2026-09-12T08:49:00.000Z"
+    },
+    {
+      "id": "pkg-20260912-iran-leadership-location",
+      "benchmarkPostId": "2098707236117741745",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098707236117741745",
+      "title": "Iran president says Mojtaba Khamenei is alive",
+      "status": "published",
+      "postText": "Iran President says Supreme Leader Mojtaba Khamenei is alive.\n\nThe U.S. cannot locate him.",
+      "mirroredFacts": [
+        "Iran's president says Supreme Leader Mojtaba Khamenei is alive.",
+        "The U.S. cannot locate him, according to the statement captured by the benchmark post."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098707236117741745"
+      ],
+      "imagePath": "deliverables/pkg-20260912-iran-leadership-location/when2buy-image.png",
+      "createdAt": "2026-09-12T09:48:25Z",
+      "sourceExpiresAt": "Sat Sep 12 09:36:11 +0000 2026",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: historical-scene. Complete square 1:1 premium breaking-news editorial visual about the Iranian president stating that Supreme Leader Mojtaba Khamenei is alive and that the United States cannot locate him. Cinematic realistic government communications room at night with an unbranded map of Iran and the Persian Gulf, secure briefing folder, dark diplomatic silhouettes only, no identifiable faces. Near-black charcoal palette, crisp white rim light, restrained deep-red accent, clean upper-left typography space and clean lower-right logo-safe space. No generated readable text, letters, numbers, flags, logos, source names, handles, URLs, attribution, disclaimer, commentary, CTA, tagline, watermark, generic radar graphic, pure-text card, extra claims, gore, weapons, or recognizable public figure portrait. Exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-12T09:48:25Z",
+          "result": "passed",
+          "checks": [
+            "square 1254x1254 PNG",
+            "complete map-and-briefing entity scene",
+            "factual typography proofread",
+            "exact repository logo composited once",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+            "not a pure-text card or generic-radar visual",
+            "no extra geopolitical claims"
+          ]
+        }
+      },
+      "postizPostId": "cmty7ddz017fuqk0y9ddgr83d",
+      "postizSubmissionAt": "2026-09-12T09:48:49Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-12T09:49:16Z",
+      "publishedAt": "2026-09-12T09:48:00.000Z"
     }
   ],
   "posts": [
@@ -46364,6 +46459,24 @@
         "lastAttemptAt": "2026-09-12T09:01:46.472488Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098710516722180398",
+      "packageId": "pkg-20260912-iran-leadership-location",
+      "title": "Iran president says Mojtaba Khamenei is alive",
+      "text": "Iran President says Supreme Leader Mojtaba Khamenei is alive.\n\nThe U.S. cannot locate him.",
+      "status": "published",
+      "publishedAt": "2026-09-12T09:48:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098710516722180398",
+      "postizPostId": "cmty7ddz017fuqk0y9ddgr83d",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-12T09:48:00.000Z",
+        "windowEnd": "2026-09-15T09:48:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -415517,6 +415630,87 @@
       "startedAt": "2026-09-12T09:32:09Z",
       "completedAt": "2026-09-12T09:32:09Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T094544Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T09:45:44Z",
+      "completedAt": "2026-09-12T09:45:44Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T094641Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T09:46:41Z",
+      "completedAt": "2026-09-12T09:46:41Z",
+      "summary": "Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T094647Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T09:46:47Z",
+      "completedAt": "2026-09-12T09:46:47Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T094648Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T09:46:48Z",
+      "completedAt": "2026-09-12T09:46:48Z",
+      "summary": "Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T094653Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T09:46:53Z",
+      "completedAt": "2026-09-12T09:46:53Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T094825Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T09:48:25Z",
+      "completedAt": "2026-09-12T09:48:25Z",
+      "summary": "Produced one newest fresh Iran leadership package with a complete entity-led square visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260912-iran-leadership-location"
+    },
+    {
+      "id": "run-20260912T094846Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T09:48:46Z",
+      "completedAt": "2026-09-12T09:48:46Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T094916Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T09:49:16Z",
+      "completedAt": "2026-09-12T09:49:16Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ],
