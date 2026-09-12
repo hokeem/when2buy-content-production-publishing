@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T01:32:18.222431+00:00`
+- 状态更新：`2026-09-12T02:02:06.265627+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**631**
 - 待选选题：**554**
@@ -3855,6 +3855,7 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
 | JUST IN: BlackRock clients buy $117.38 million worth of $BTC. | 2026-09-06T06:42:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489273486966979) |
+| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
 | BlackRock clients buy $72.07M of ETH | 2026-09-04T09:25:00.000Z | 15 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095805634109382831) |
 | JUST IN: Daily volume on Robinhood chain $HOOD continues to hit new highs, now nearing $2 billion - | 2026-09-04T06:43:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764780548346157) |
 | 🇺🇸 President Trump just said that the stock market should have gone up today | 2026-09-05T00:44:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036799080776086) |
@@ -3863,7 +3864,6 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
-| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
@@ -4006,6 +4006,11 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 
 ## 最近运行
 
+- `2026-09-12T02:01:18Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T02:01:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
+- `2026-09-12T02:00:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T01:46:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T01:46:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
 - `2026-09-12T01:32:18Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T01:32:13Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
 - `2026-09-12T01:30:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4021,8 +4026,3 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 - `2026-09-12T00:45:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T00:31:37Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T00:31:31Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
-- `2026-09-12T00:30:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T00:16:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T00:01:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T00:01:15Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 0 new post(s).
-- `2026-09-12T00:00:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
