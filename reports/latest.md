@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T18:17:47.526242+00:00`
+- 状态更新：`2026-09-12T18:33:40.174857+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**660**
 - 待选选题：**582**
-- 待发布制作包：**1**
-- 已验证发布：**258**
+- 待发布制作包：**0**
+- 已验证发布：**259**
 
 ## 对标账号扫描
 
@@ -3923,7 +3923,7 @@ OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
 
 ### $250M USDC minted at USDC Treasury
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260912-usdc-mint/when2buy-image.png`
 
 $250M in USDC was just minted at the USDC Treasury.
@@ -4191,9 +4191,14 @@ $250M in USDC was just minted at the USDC Treasury.
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
+| $250M USDC minted at USDC Treasury | 2026-09-12T18:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098842430468690120) |
 
 ## 最近运行
 
+- `2026-09-12T18:33:28Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T18:32:05Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T18:31:45Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T18:30:43Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T18:17:47Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T18:17:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 15 eligible originals and added 0 new post(s).
 - `2026-09-12T18:15:46Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
@@ -4210,7 +4215,3 @@ $250M in USDC was just minted at the USDC Treasury.
 - `2026-09-12T17:34:50Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T17:31:36Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
 - `2026-09-12T17:31:13Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T17:31:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
-- `2026-09-12T17:30:46Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T17:16:54Z` **full / succeeded** — Scanned both benchmark feeds, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, and safely deferred the newest item because it was a meme-only post with no factual event payload; no older backlog was processed. No factual payload; copy constraints prohibit commentary, attribution, disclaimer, CTA, and fabricated facts.
-- `2026-09-12T17:16:09Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).

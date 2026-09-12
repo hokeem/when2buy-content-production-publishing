@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:17:47Z",
+  "generatedAt": "2026-09-12T18:32:05Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
@@ -48,7 +48,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 36.2,
+        "ageMinutes": 50.5,
         "expiresAt": "2026-09-12T19:11:33Z",
         "ttlMinutes": 90
       },
@@ -85,53 +85,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 40.2,
+        "ageMinutes": 54.5,
         "expiresAt": "2026-09-12T19:07:35Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 3,
-      "benchmarkPostId": "2098816733683298438",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098816733683298438",
-      "originalText": "I fixed the famous photo https://t.co/wchFCEPGSz",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HSB-seJbMAAXP3d.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HSB-seJbMAAXP3d.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098816733683298438-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 18,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 9860
-      },
-      "postedAt": "Sat Sep 12 16:51:18 +0000 2026",
-      "score": 10390,
-      "heatScore": 10390,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 3,
-        "visualPotential": 3,
-        "factualClarity": 3
-      },
-      "editorialScore": 14,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 86.5,
-        "expiresAt": "2026-09-12T18:21:18Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
