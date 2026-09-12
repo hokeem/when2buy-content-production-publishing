@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T20:47:20.513829+00:00`
+- 状态更新：`2026-09-12T21:02:50.627656+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**668**
 - 待选选题：**590**
@@ -4063,6 +4063,7 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
+| Tesla posts go-for-launch image | 2026-09-12T18:49:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098846713868161054) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
 | Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
@@ -4077,7 +4078,6 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 | Amazon Leo expands to 24 launches | 2026-09-10T23:50:00.000Z | 17 | 0 | 0 | 1 | [X](https://x.com/_When2buy/status/2098197615901024660) |
 | Astra GPT 6 takes control of the Rallies AI portfolio | 2026-09-11T00:17:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098204457721123197) |
 | Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
-| Tesla posts go-for-launch image | 2026-09-12T18:49:00.000Z | 17 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098846713868161054) |
 | Apple CEO transition: Ternus in, Cook to chair | 2026-08-31T07:58:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094334035149607267) |
 | NVIDIA to acquire Hugging Face for $12.93B | 2026-09-03T12:44:00.000Z | 16 | 0 | 1 | 0 | [X](https://x.com/_When2buy/status/2095493296038748333) |
 | OUTAGE REPORT: Claude, OpenAI, and Grok are all currently experiencing problems right now | 2026-09-04T04:46:00.000Z | 16 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735316141560171) |
@@ -4230,6 +4230,7 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
 | BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
 | Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098782483789824319) |
+| Tokenized stocks on Base hit a new daily DEX volume high | 2026-09-12T19:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098857934738628843) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -4238,16 +4239,18 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
 | $250M USDC minted at USDC Treasury | 2026-09-12T18:32:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098842430468690120) |
-| Tokenized stocks on Base hit a new daily DEX volume high | 2026-09-12T19:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098857934738628843) |
+| AI data-center buildout accelerates | 2026-09-12T20:18:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098868980626964677) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| AI data-center buildout accelerates | 2026-09-12T20:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098868980626964677) |
 
 ## 最近运行
 
+- `2026-09-12T21:02:19Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T21:02:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-12T21:00:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T20:47:20Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T20:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 105 eligible originals and added 0 new post(s).
 - `2026-09-12T20:45:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 1 unsent stale package(s).
@@ -4265,6 +4268,3 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 - `2026-09-12T20:02:08Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T20:01:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T19:48:00Z` **publish / succeeded** — Postiz submission safely deferred by the 15-minute minimum interval; no task accepted and no retry performed. minimum_interval
-- `2026-09-12T19:46:26Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T19:46:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-12T19:35:03Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
