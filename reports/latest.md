@@ -1,16 +1,18 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T16:48:56.784169+00:00`
+- 状态更新：`2026-09-12T17:05:38.877711+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**654**
-- 待选选题：**576**
+- 对标帖子快照：**656**
+- 待选选题：**578**
 - 待发布制作包：**2**
-- 已验证发布：**255**
+- 已验证发布：**256**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 16:51:18 +0000 2026 | I fixed the famous photo https://t.co/wchFCEPGSz | [X](https://x.com/StockMKTNewz/status/2098816733683298438) |
+| @WhaleInsider | Sat Sep 12 16:56:49 +0000 2026 | JUST IN: Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development. https://t.co/py2zT1Al5f | [X](https://x.com/WhaleInsider/status/2098818125097583056) |
 | @StockMKTNewz | Sat Sep 12 16:43:29 +0000 2026 | JUST IN:  OpenAI CEO Sam Altman just said that right now would be an "ill-advised" time to go public  OpenAI CEO Sam Altman said he is not looking to take the company public in 2026 - Fortune https://t.co/cHmppswxVR | [X](https://x.com/StockMKTNewz/status/2098814769964679425) |
 | @StockMKTNewz | Sat Sep 12 16:17:47 +0000 2026 | LARRY ELLISON CANCELS HIS PLAN TO SELL ORACLE STOCK  I guess he changed his mind overnight? | [X](https://x.com/StockMKTNewz/status/2098808300481483246) |
 | @WhaleInsider | Sat Sep 12 16:09:54 +0000 2026 | JUST IN: An official Amazon X account replied to $RUFUS team, confirming Amazon’s AI assistant, ‘Rufus’, is named after the first dog to join Amazon. https://t.co/SZxHm8jDRl | [X](https://x.com/WhaleInsider/status/2098806318689587292) |
@@ -39,8 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 21:11:06 +0000 2026 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen  Van Geelen will stay on as the CEO of Citrini for now - Bloomberg https://t.co/64WF7lAS1g | [X](https://x.com/StockMKTNewz/status/2098519730105520465) |
 | @StockMKTNewz | Fri Sep 11 20:57:29 +0000 2026 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | [X](https://x.com/StockMKTNewz/status/2098516300498674037) |
 | @StockMKTNewz | Fri Sep 11 20:36:45 +0000 2026 | Rocket Lab $RKLB just posted this:  "Rocket Lab has filed a formal protest with the Government Accountability Office challenging NASA’s award decision for the Mars Telecommunications Network" https://t.co/nS3yJflM9t | [X](https://x.com/StockMKTNewz/status/2098511083937956226) |
-| @WhaleInsider | Fri Sep 11 20:36:48 +0000 2026 | JUST IN: Another Anthropic researcher says ‘humans may not survive’ the AI race after announcing resignation. https://t.co/SJLRJgM7XX | [X](https://x.com/WhaleInsider/status/2098511096038498591) |
-| @StockMKTNewz | Fri Sep 11 20:22:58 +0000 2026 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees  Anthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ | [X](https://x.com/StockMKTNewz/status/2098507615315648591) |
 
 ## 选题推荐
 
@@ -258,6 +258,7 @@
 | 1 | JUST IN: An official Amazon X account replied to $RUFUS team, confirming Amazon’s AI assista… | WhaleInsider | 13531 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | LARRY ELLISON CANCELS HIS PLAN TO SELL ORACLE STOCK I guess he changed his mind overnight? | StockMKTNewz | 14169 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: OpenAI CEO Sam Altman just said that right now would be an "ill-advised" time to go… | StockMKTNewz | 5224 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development… | WhaleInsider | 13055 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -345,6 +346,7 @@
 | 2 | Rocket Lab $RKLB just posted this: "Rocket Lab has filed a formal protest with the Governmen… | StockMKTNewz | 9988 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Solana flips Robinhood Chain in 24H DEX volume - DefiLlama. https://t.co/qOeAYbvWfX | WhaleInsider | 13419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | 3 out of Microsoft's $MSFT top 10 largest acquisitions in its history are for video game com… | StockMKTNewz | 9630 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | I fixed the famous photo https://t.co/wchFCEPGSz | StockMKTNewz | 10390 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3894,6 +3896,13 @@ Larry Ellison cancels his plan to sell Oracle stock.
 
 OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.  He is not looking to take OpenAI public in 2026.
 
+### Sam Altman backs pacing frontier AI development
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-frontier-ai-pacing/when2buy-image.png`
+
+Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4105,6 +4114,7 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
+| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
 | Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098778671192633553) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
@@ -4128,7 +4138,6 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
-| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -4140,6 +4149,7 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
 | BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
 | Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098766721083650170) |
+| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -4153,10 +4163,15 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
-| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
+| Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
 
 ## 最近运行
 
+- `2026-09-12T17:04:19Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T17:03:32Z` **produce / succeeded** — Produced one newest fresh frontier-AI pacing package with a complete entity-led square visual and exact-logo composite.
+- `2026-09-12T17:01:50Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T17:01:33Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T17:01:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 2 new post(s).
 - `2026-09-12T16:48:56Z` **full / succeeded** — Newest OpenAI public-listing package was produced and safely deferred by the Postiz account limit; no accepted task was created. daily_limit
 - `2026-09-12T16:48:28Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
 - `2026-09-12T16:48:13Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
@@ -4172,8 +4187,3 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 - `2026-09-12T16:18:28Z` **produce / succeeded** — Produced one newest fresh Amazon Rufus package with an inspected entity-led image and exact-logo composite.
 - `2026-09-12T16:16:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T16:16:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-12T16:15:31Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T16:04:40Z` **full / succeeded** — Newest Anthropic slowdown package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T16:18:39Z
-- `2026-09-12T16:03:32Z` **produce / succeeded** — Produced one newest fresh Anthropic package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-12T16:01:29Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T16:01:24Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
