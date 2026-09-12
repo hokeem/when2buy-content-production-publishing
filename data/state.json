@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T04:02:51.406514+00:00",
+  "updatedAt": "2026-09-12T04:04:10.086273+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -396101,6 +396101,17 @@
       "completedAt": "2026-09-12T04:02:23Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260912T040409Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-12T04:04:09Z",
+      "completedAt": "2026-09-12T04:04:09Z",
+      "summary": "Freshness-first run scanned both benchmark feeds, archived media, reconciled Postiz/package state, and rebuilt an empty hard-TTL queue; no publication was attempted.",
+      "reason": "Hourly public metrics collection exceeded its bounded timeout and was stopped safely; next scheduled run should retry metrics.",
+      "outcome": "no_fresh_candidate",
+      "metrics": "deferred_timeout"
     }
   ],
   "deliveryCircuitBreaker": {
