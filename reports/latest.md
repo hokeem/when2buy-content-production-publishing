@@ -1,11 +1,11 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T14:20:05.535807+00:00`
+- 状态更新：`2026-09-12T14:35:15.802431+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**647**
 - 待选选题：**569**
 - 待发布制作包：**0**
-- 已验证发布：**252**
+- 已验证发布：**253**
 
 ## 对标账号扫描
 
@@ -3838,6 +3838,13 @@ Robinhood Chain $HOOD hit a new all-time high of $531M in daily perps volume yes
 
 Anthropic CEO Dario Amodei says the pace of AI model capability improvements must slow.
 
+### Microsoft gaming acquisitions
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-microsoft-gaming-acquisitions/when2buy-image-model.png`
+
+3 of Microsoft's 10 largest acquisitions are video-game companies: Activision Blizzard ($75.4B), ZeniMax Media ($8.1B), and Mojang ($2.5B).
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4095,9 +4102,15 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098778671192633553) |
+| Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098782483789824319) |
 
 ## 最近运行
 
+- `2026-09-12T14:35:15Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T14:34:24Z` **produce / succeeded** — Produced the sole newest fresh Microsoft acquisitions package with an inspected entity-led visual and exact-logo composite.
+- `2026-09-12T14:31:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T14:31:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
+- `2026-09-12T14:30:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T14:20:05Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T14:18:48Z` **produce / succeeded** — Produced one newest fresh Anthropic package with verified source mapping, generated entity visual, exact-logo composite, and QA pass.
 - `2026-09-12T14:16:33Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4113,8 +4126,3 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 - `2026-09-12T13:31:25Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T13:31:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-12T13:19:43Z` **publish / succeeded** — Newest fresh Flint-area $2.9M home package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt=2026-09-12T13:19:26Z
-- `2026-09-12T13:17:58Z` **produce / succeeded** — Produced one newest fresh Flint-area $2.9M home package with generated entity visual and exact-logo composite.
-- `2026-09-12T13:16:12Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T13:16:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-12T13:02:58Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T13:02:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 0 new post(s).
