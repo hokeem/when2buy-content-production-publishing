@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T10:31:41.533802+00:00",
+  "updatedAt": "2026-09-12T10:32:28.187405+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -419078,6 +419078,28 @@
       "reason": "no_new_fresh_eligible_benchmark_posts",
       "outcome": "deferred",
       "selectedPackageId": null
+    },
+    {
+      "id": "run-20260912T103221Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T10:32:21Z",
+      "completedAt": "2026-09-12T10:32:21Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T103228Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T10:32:28Z",
+      "completedAt": "2026-09-12T10:32:28Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
