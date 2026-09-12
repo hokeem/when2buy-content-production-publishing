@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T10:32:28.187405+00:00`
+- 状态更新：`2026-09-12T10:46:33.687263+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**635**
 - 待选选题：**558**
@@ -4042,6 +4042,8 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 
 ## 最近运行
 
+- `2026-09-12T10:46:05Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T10:45:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
 - `2026-09-12T10:32:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T10:32:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T10:17:22Z` **full / succeeded** — Freshness-first scan completed: both benchmark feeds returned no new eligible originals, hard 90-minute queue was empty, and no package was submitted. no_new_fresh_eligible_benchmark_posts
@@ -4060,5 +4062,3 @@ Iran President says Supreme Leader Mojtaba Khamenei is alive.  The U.S. cannot l
 - `2026-09-12T09:17:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:15:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:01:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T09:01:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T08:50:08Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
