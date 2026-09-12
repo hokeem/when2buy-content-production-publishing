@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T05:46:55.112793+00:00`
+- 状态更新：`2026-09-12T06:05:22.417418+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**631**
-- 待选选题：**554**
+- 对标帖子快照：**632**
+- 待选选题：**555**
 - 待发布制作包：**0**
-- 已验证发布：**245**
+- 已验证发布：**246**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Sat Sep 12 05:36:40 +0000 2026 | JUST IN: BlackRock ETF clients buy $148.82 million worth of $ETH. https://t.co/0WpYk9Sg5M | [X](https://x.com/WhaleInsider/status/2098646959653359712) |
 | @StockMKTNewz | Fri Sep 11 23:18:24 +0000 2026 | Anthropic is looking to go public at a valuation of $2 Trillion | [X](https://x.com/StockMKTNewz/status/2098551762961481832) |
 | @StockMKTNewz | Fri Sep 11 23:04:36 +0000 2026 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | [X](https://x.com/StockMKTNewz/status/2098548293533929670) |
 | @StockMKTNewz | Fri Sep 11 21:11:06 +0000 2026 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen  Van Geelen will stay on as the CEO of Citrini for now - Bloomberg https://t.co/64WF7lAS1g | [X](https://x.com/StockMKTNewz/status/2098519730105520465) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 15:09:26 +0000 2026 | Claude just bought some Northrop Grumman $NOC stock in the Rallies AI Arena | [X](https://x.com/StockMKTNewz/status/2098428713742356683) |
 | @StockMKTNewz | Fri Sep 11 15:21:40 +0000 2026 | Giannis Antetokounmpo just bought this Miami mansion for $13.5 Million https://t.co/lUIvC5X0RT | [X](https://x.com/StockMKTNewz/status/2098431791933620311) |
 | @StockMKTNewz | Fri Sep 11 14:52:03 +0000 2026 | Celsius $CELH CEO John Fieldly just filed for his purchase of 18,000 shares of the stock at an average cost of $27.44 per share https://t.co/uRyL6pOwoT | [X](https://x.com/StockMKTNewz/status/2098424336709193934) |
-| @WhaleInsider | Fri Sep 11 14:55:15 +0000 2026 | JUST IN: 🇬🇧 UK House of Lords passes amendment requiring government to develop national cryptocurrency strategy. https://t.co/woYDTwUhWT | [X](https://x.com/WhaleInsider/status/2098425142598566035) |
 
 ## 选题推荐
 
@@ -241,6 +241,7 @@
 | 1 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen Van Geelen… | StockMKTNewz | 6894 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | StockMKTNewz | 11281 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Anthropic is looking to go public at a valuation of $2 Trillion | StockMKTNewz | 11566 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: BlackRock ETF clients buy $148.82 million worth of $ETH. https://t.co/0WpYk9Sg5M | WhaleInsider | 19833 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3753,6 +3754,13 @@ Nvidia $NVDA is reportedly considering an investment of up to $10B in Anthropic 
 
 Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 
+### BlackRock ETF clients buy $148.82M of ETH
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-blackrock-eth-etf-buying/when2buy-image-model.png`
+
+BlackRock ETF clients bought $148.82M worth of $ETH.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4003,9 +4011,14 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
+| BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
 
 ## 最近运行
 
+- `2026-09-12T06:04:28Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T06:02:16Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T06:01:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
+- `2026-09-12T06:00:35Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T05:46:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T05:46:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T05:32:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4022,7 +4035,3 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 - `2026-09-12T04:31:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T04:19:44Z` **full / succeeded** — Freshness-first run scanned both benchmark feeds through Apify, archived benchmark media, reconciled Postiz/package state, rebuilt an empty hard-90-minute queue, collected due metrics, and made no publication attempt because no new fresh eligible item was available. no_new_fresh_item
 - `2026-09-12T04:19:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T04:17:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T04:04:09Z` **full / partial** — Freshness-first run scanned both benchmark feeds, archived media, reconciled Postiz/package state, and rebuilt an empty hard-TTL queue; no publication was attempted. Hourly public metrics collection exceeded its bounded timeout and was stopped safely; next scheduled run should retry metrics.
-- `2026-09-12T04:02:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T04:00:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
