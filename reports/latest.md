@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T14:47:37.089572+00:00`
+- 状态更新：`2026-09-12T15:02:39.484180+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**648**
 - 待选选题：**570**
@@ -4098,15 +4098,19 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
+| Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098782483789824319) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098782483789824319) |
 
 ## 最近运行
 
+- `2026-09-12T15:02:39Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload, so no compliant copy or publication was created; the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
+- `2026-09-12T15:02:01Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T15:01:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
+- `2026-09-12T15:00:34Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T14:45:00Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload, so no compliant copy or publication was created; the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
 - `2026-09-12T14:46:27Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T14:46:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 1 new post(s).
@@ -4123,7 +4127,3 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 - `2026-09-12T14:04:50Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T14:04:01Z` **produce / succeeded** — Produced one newest fresh Robinhood Chain package with a complete entity-led square visual and one exact-logo composite.
 - `2026-09-12T14:01:14Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T14:00:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
-- `2026-09-12T13:46:58Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T13:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 0 new post(s).
-- `2026-09-12T13:45:29Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
