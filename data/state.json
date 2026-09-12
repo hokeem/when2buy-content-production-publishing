@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T23:17:57.109766+00:00",
+  "updatedAt": "2026-09-12T23:31:45.605490+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -462297,6 +462297,15 @@
       "summary": "Preflight and validation passed; Postiz reconciliation, Apify collection, benchmark-media archive, hard 90-minute queue rebuild, hourly metrics, security validation, reports, and fixed report-slug sync completed. No fresh eligible item remained, so no content was produced or published.",
       "reason": "no_fresh_eligible_item",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260912T233145Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T23:31:45Z",
+      "completedAt": "2026-09-12T23:31:45Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
