@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T07:47:55.343685+00:00`
+- 状态更新：`2026-09-12T08:03:16.614794+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**633**
 - 待选选题：**556**
@@ -3944,6 +3944,7 @@ Goldman Sachs now expects a 25-basis-point Fed rate hike next week.  The FOMC de
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
+| Goldman Sachs expects a Fed hike next week | 2026-09-12T07:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098676535809155376) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -4020,10 +4021,13 @@ Goldman Sachs now expects a 25-basis-point Fed rate hike next week.  The FOMC de
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Goldman Sachs expects a Fed hike next week | 2026-09-12T07:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098676535809155376) |
 
 ## 最近运行
 
+- `2026-09-12T08:02:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T08:02:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T08:02:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 126 eligible originals and added 0 new post(s).
+- `2026-09-12T08:00:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:47:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:47:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T07:47:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -4040,7 +4044,3 @@ Goldman Sachs now expects a 25-basis-point Fed rate hike next week.  The FOMC de
 - `2026-09-12T07:02:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:01:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:01:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T07:00:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T06:47:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T06:47:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T06:45:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
