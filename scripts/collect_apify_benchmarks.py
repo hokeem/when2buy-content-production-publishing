@@ -155,7 +155,13 @@ def main():
             raise SystemExit("APIFY_TOKEN is required. Set it in the environment; never commit it.")
         raw = run_actor(token, os.environ.get("APIFY_ACTOR_ID", ACTOR_DEFAULT), args.max_posts)
 
-    normalized = [post for item in raw if isinstance(item, dict) for post in [normalize(item)] if post]
+    normalized = [
+        post
+        for item in raw
+        if isinstance(item, dict)
+        for post in [normalize(item)]
+        if post and not post["isPinned"]
+    ]
     normalized.sort(key=lambda post: (post["postedAt"], post["id"]), reverse=True)
     if args.dry_run:
         print(json.dumps(normalized, ensure_ascii=False, indent=2))
