@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T17:05:38.877711+00:00",
+  "updatedAt": "2026-09-12T17:07:10.676708+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -43127,7 +43127,7 @@
       "benchmarkPostId": "2098797888063312188",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098797888063312188",
       "title": "OpenAI valuation up 766% in two years",
-      "status": "blocked",
+      "status": "expired",
       "postText": "OpenAI's valuation has increased by 766% over the last two years.",
       "mirroredFacts": [
         "The benchmark post claims OpenAI's valuation increased by 766% over the last two years."
@@ -43158,7 +43158,10 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-12T17:07:06Z",
+      "expiryReason": "source_ttl_exceeded",
+      "sourceExpiresAt": "2026-09-12T17:06:24Z"
     },
     {
       "id": "pkg-20260912-anthropic-slowdown-rogue-agents",
@@ -442661,6 +442664,15 @@
       "startedAt": "2026-09-12T17:04:19Z",
       "completedAt": "2026-09-12T17:04:19Z",
       "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T170710Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:07:10Z",
+      "completedAt": "2026-09-12T17:07:10Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).",
       "reason": ""
     }
   ],

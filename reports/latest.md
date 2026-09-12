@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T17:05:38.877711+00:00`
+- 状态更新：`2026-09-12T17:07:10.676708+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**656**
 - 待选选题：**578**
@@ -3863,7 +3863,7 @@ Anthropic's valuation has increased by more than 7,500% over the last 2 years.
 
 ### OpenAI valuation up 766% in two years
 
-- 状态：`blocked`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260912-openai-valuation-766/when2buy-image.png`
 
 OpenAI's valuation has increased by 766% over the last two years.
@@ -4167,6 +4167,7 @@ Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
 
 ## 最近运行
 
+- `2026-09-12T17:07:10Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T17:04:19Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T17:03:32Z` **produce / succeeded** — Produced one newest fresh frontier-AI pacing package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-12T17:01:50Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4186,4 +4187,3 @@ Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
 - `2026-09-12T16:19:18Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T16:18:28Z` **produce / succeeded** — Produced one newest fresh Amazon Rufus package with an inspected entity-led image and exact-logo composite.
 - `2026-09-12T16:16:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T16:16:29Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
