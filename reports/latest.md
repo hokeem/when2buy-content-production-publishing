@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T21:02:50.627656+00:00`
+- 状态更新：`2026-09-12T21:19:45.772576+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**668**
-- 待选选题：**590**
+- 对标帖子快照：**669**
+- 待选选题：**591**
 - 待发布制作包：**0**
-- 已验证发布：**262**
+- 已验证发布：**263**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 21:04:16 +0000 2026 | Tilman Fertitta who owns the Houston Rockets, is selling this 252-foot yacht for $192 Million because its not big enough??? https://t.co/a5qK2TOshF | [X](https://x.com/StockMKTNewz/status/2098880395525652644) |
 | @StockMKTNewz | Sat Sep 12 20:10:32 +0000 2026 | The rise of the AI Data Center  The amount being spent to build data centers as grown exponentially since the release of ChatGPT  This is what that looks like https://t.co/DaxLMjTMr3 | [X](https://x.com/StockMKTNewz/status/2098866872368148899) |
 | @WhaleInsider | Sat Sep 12 19:23:47 +0000 2026 | JUST IN: Tokenized stocks on Base record a new daily DEX trading volume high of $100,000,000 - Token Terminal. https://t.co/O1UlsTQrri | [X](https://x.com/WhaleInsider/status/2098855109228728502) |
 | @WhaleInsider | Sat Sep 12 19:04:21 +0000 2026 | JUST IN: $BANGERCAT, the first memecoin on Robinhood Chain feeding cats, paired with NVDA stock. https://t.co/VelHb5pKI7 | [X](https://x.com/WhaleInsider/status/2098850220524118109) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Sat Sep 12 12:58:43 +0000 2026 | This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb | [X](https://x.com/StockMKTNewz/status/2098758203030802691) |
 | @StockMKTNewz | Sat Sep 12 12:10:22 +0000 2026 | ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK  - Jpmorgan - Bank of America  - Goldman Sachs - Citi - Morgan Stanley - Wells Fargo - Barclays - Deutsche - Nomura - Piper Sandler - TD - UBS - RBC - HSBC https://t.co/MfnE7Fanec | [X](https://x.com/StockMKTNewz/status/2098746035497517074) |
 | @WhaleInsider | Sat Sep 12 12:18:37 +0000 2026 | FUN FACT: Amazon’s first-ever dog was a corgi named Rufus.   They later named their official AI agent Rufus after him. https://t.co/qhCYxKT8xt | [X](https://x.com/WhaleInsider/status/2098748110839112031) |
-| @WhaleInsider | Sat Sep 12 12:26:12 +0000 2026 | JUST IN: Solana flips Robinhood Chain in 24H DEX volume - DefiLlama. https://t.co/qOeAYbvWfX | [X](https://x.com/WhaleInsider/status/2098750019817836940) |
 
 ## 选题推荐
 
@@ -266,6 +266,7 @@
 | 1 | JUST IN: $BANGERCAT, the first memecoin on Robinhood Chain feeding cats, paired with NVDA st… | WhaleInsider | 16577 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Tokenized stocks on Base record a new daily DEX trading volume high of $100,000,000… | WhaleInsider | 13609 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | The rise of the AI Data Center The amount being spent to build data centers as grown exponen… | StockMKTNewz | 6842 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Tilman Fertitta who owns the Houston Rockets, is selling this 252-foot yacht for $192 Millio… | StockMKTNewz | 12818 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3978,6 +3979,13 @@ Tokenized stocks on Base just hit a new daily DEX trading-volume high of $100M.
 
 AI data-center construction is accelerating after ChatGPT.  The IEA expects data-center electricity demand to roughly double to 945 TWh by 2030.
 
+### Tilman Fertitta selling 252-foot yacht for $192M
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-fertitta-yacht-192m/when2buy-image.png`
+
+Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big enough.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4245,9 +4253,15 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
+| Tilman Fertitta selling 252-foot yacht for $192M | 2026-09-12T21:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098884173159346414) |
 
 ## 最近运行
 
+- `2026-09-12T21:19:22Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T21:18:42Z` **produce / succeeded** — Produced one newest fresh yacht package with entity-led square visual and exact-logo composite.
+- `2026-09-12T21:16:35Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T21:16:22Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 1 new post(s).
+- `2026-09-12T21:15:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T21:02:19Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T21:02:06Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T21:00:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4263,8 +4277,3 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 - `2026-09-12T20:18:15Z` **produce / succeeded** — Produced one newest fresh AI data-center package with a complete square entity-led visual and exact-logo composite.
 - `2026-09-12T20:16:20Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T20:16:11Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T20:16:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 13 eligible originals and added 1 new post(s).
-- `2026-09-12T20:02:20Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T20:02:08Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T20:01:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-12T19:48:00Z` **publish / succeeded** — Postiz submission safely deferred by the 15-minute minimum interval; no task accepted and no retry performed. minimum_interval

@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-09-12T21:02:19Z",
+  "generatedAt": "2026-09-12T21:16:35Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
-  "items": [],
+  "items": [
+    {
+      "rank": 1,
+      "benchmarkPostId": "2098880395525652644",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098880395525652644",
+      "originalText": "Tilman Fertitta who owns the Houston Rockets, is selling this 252-foot yacht for $192 Million because its not big enough??? https://t.co/a5qK2TOshF",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HSC4L2OboAArmKg.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSC4L2OboAArmKg.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098880395525652644-1.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 14,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 12298
+      },
+      "postedAt": "Sat Sep 12 21:04:16 +0000 2026",
+      "score": 12818,
+      "heatScore": 12818,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 19,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 12.3,
+        "expiresAt": "2026-09-12T22:34:16Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    }
+  ],
   "sourceTtlMinutes": 90
 }
