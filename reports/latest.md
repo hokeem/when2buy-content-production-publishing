@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T21:46:47.753248+00:00`
+- 状态更新：`2026-09-12T22:03:25.546698+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4067,11 +4067,11 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | JUST IN: BlackRock clients sell 2,605 $BTC worth $201.18 million. | 2026-09-04T04:47:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735589316469042) |
 | $LAPTOP memecoin falls 90% from peak | 2026-09-09T13:00:00.000Z | 22 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097672115789128095) |
 | IQ launches on Robinhood Chain with Intel pairing | 2026-09-09T09:13:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097614505312506296) |
+| Tesla posts go-for-launch image | 2026-09-12T18:49:00.000Z | 21 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098846713868161054) |
 | Meta revenue per employee reaches $2.9M | 2026-09-07T06:52:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854301000003651) |
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
-| Tesla posts go-for-launch image | 2026-09-12T18:49:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098846713868161054) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
 | Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
@@ -4165,6 +4165,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
 | Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098710516722180398) |
+| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -4178,7 +4179,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | JPMorgan cuts Situational Awareness lending after AI losses | 2026-09-11T21:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098528976335716596) |
 | Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
 | Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098778671192633553) |
-| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-12T22:02:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T22:01:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 0 new post(s).
+- `2026-09-12T22:00:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T21:46:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T21:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 40 eligible originals and added 0 new post(s).
 - `2026-09-12T21:46:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-12T21:00:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T20:47:20Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T20:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 105 eligible originals and added 0 new post(s).
-- `2026-09-12T20:45:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T20:33:24Z` **full / succeeded** — Freshness-first run collected both benchmark feeds, reconciled Postiz, rebuilt the hard-TTL queue, collected hourly metrics, and safely deferred the sole ready package before submission. minimum_interval; no Postiz task accepted; no retry permitted
-- `2026-09-12T20:31:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
