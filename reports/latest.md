@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T16:19:39.131113+00:00`
+- 状态更新：`2026-09-12T16:35:44.243336+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**652**
-- 待选选题：**574**
+- 对标帖子快照：**653**
+- 待选选题：**575**
 - 待发布制作包：**1**
 - 已验证发布：**255**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 16:17:47 +0000 2026 | LARRY ELLISON CANCELS HIS PLAN TO SELL ORACLE STOCK  I guess he changed his mind overnight? | [X](https://x.com/StockMKTNewz/status/2098808300481483246) |
 | @WhaleInsider | Sat Sep 12 16:09:54 +0000 2026 | JUST IN: An official Amazon X account replied to $RUFUS team, confirming Amazon’s AI assistant, ‘Rufus’, is named after the first dog to join Amazon. https://t.co/SZxHm8jDRl | [X](https://x.com/WhaleInsider/status/2098806318689587292) |
 | @WhaleInsider | Sat Sep 12 15:57:04 +0000 2026 | JUST IN: Anthropic CEO Dario Amodei calls for slower AI development, warns rogue AI agents could take over the internet in 6 to 12 months. https://t.co/dJt04hDI0y | [X](https://x.com/WhaleInsider/status/2098803086466629882) |
 | @StockMKTNewz | Sat Sep 12 15:36:24 +0000 2026 | OpenAI’s valuation has increased by 766% 🟢 over the last 2 years https://t.co/exg6zaJvTG | [X](https://x.com/StockMKTNewz/status/2098797888063312188) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 20:36:48 +0000 2026 | JUST IN: Another Anthropic researcher says ‘humans may not survive’ the AI race after announcing resignation. https://t.co/SJLRJgM7XX | [X](https://x.com/WhaleInsider/status/2098511096038498591) |
 | @StockMKTNewz | Fri Sep 11 20:22:58 +0000 2026 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth for their employees  Anthropic is planning to put together a list of advisors to help employees navigate their anticipated windfalls - Bloomberg https://t.co/UXYqz6UCyJ | [X](https://x.com/StockMKTNewz/status/2098507615315648591) |
 | @WhaleInsider | Fri Sep 11 20:30:29 +0000 2026 | JUST IN: Cat Robin Hat launches Sept 16 at 20:00 UTC on Robinhood. First 10,000 holders get unique NFT airdrops. Phase 2: 1% supply raffled to top holders + Tier-1 CEX listing. Phase 3: CatRobinHat launchpad. https://t.co/E7gQ07yAqi | [X](https://x.com/WhaleInsider/status/2098509506690871689) |
-| @WhaleInsider | Fri Sep 11 19:50:21 +0000 2026 | JUST IN: 🇺🇸 President Trump says the $5,000 dividend for all U.S. adults "will happen." https://t.co/yvLyzeWyXF | [X](https://x.com/WhaleInsider/status/2098499407008199000) |
 
 ## 选题推荐
 
@@ -256,6 +256,7 @@
 | 1 | OpenAI’s valuation has increased by 766% 🟢 over the last 2 years https://t.co/exg6zaJvTG | StockMKTNewz | 9456 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Anthropic CEO Dario Amodei calls for slower AI development, warns rogue AI agents c… | WhaleInsider | 13100 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: An official Amazon X account replied to $RUFUS team, confirming Amazon’s AI assista… | WhaleInsider | 13531 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | LARRY ELLISON CANCELS HIS PLAN TO SELL ORACLE STOCK I guess he changed his mind overnight? | StockMKTNewz | 14169 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3878,6 +3879,13 @@ Anthropic CEO Dario Amodei is calling for slower AI development, warning rogue A
 
 Amazon's Rufus AI assistant is named after Rufus, the corgi who was Amazon's first dog.
 
+### Larry Ellison cancels Oracle stock-sale plan
+
+- 状态：`blocked`
+- 配图：`deliverables/pkg-20260912-oracle-ellison-plan-cancelled/when2buy-image.png`
+
+Larry Ellison cancels his plan to sell Oracle stock.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4141,6 +4149,11 @@ Amazon's Rufus AI assistant is named after Rufus, the corgi who was Amazon's fir
 
 ## 最近运行
 
+- `2026-09-12T16:31:47Z` **full / succeeded** — Scanned both benchmark feeds, reconciled Postiz, rebuilt the hard-90-minute queue, produced the newest Oracle package, and safely skipped publication because authoritative reporting conflicts with the benchmark cancellation claim. verification_conflict; no Postiz submission created
+- `2026-09-12T16:32:32Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T16:31:52Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T16:31:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 114 eligible originals and added 1 new post(s).
+- `2026-09-12T16:30:51Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T16:19:18Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T16:18:28Z` **produce / succeeded** — Produced one newest fresh Amazon Rufus package with an inspected entity-led image and exact-logo composite.
 - `2026-09-12T16:16:35Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4156,8 +4169,3 @@ Amazon's Rufus AI assistant is named after Rufus, the corgi who was Amazon's fir
 - `2026-09-12T15:45:37Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T15:33:58Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T15:32:50Z` **produce / succeeded** — Produced one newest fresh Anthropic valuation package with an inspected entity-led image and exact-logo composite.
-- `2026-09-12T15:30:59Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T15:30:53Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-12T15:17:02Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload; no compliant copy, image, or publication was created, and the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
-- `2026-09-12T15:16:27Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T15:16:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 45 eligible originals and added 0 new post(s).

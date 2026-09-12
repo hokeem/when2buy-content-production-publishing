@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T16:19:39.131113+00:00",
+  "updatedAt": "2026-09-12T16:35:44.243336+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17985,6 +17985,26 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098808300481483246",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098808300481483246",
+      "postedAt": "Sat Sep 12 16:17:47 +0000 2026",
+      "text": "LARRY ELLISON CANCELS HIS PLAN TO SELL ORACLE STOCK\n\nI guess he changed his mind overnight?",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 47,
+        "replies": 7,
+        "reposts": 5,
+        "quotes": 2,
+        "views": 12579
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T16:31:47Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -28892,6 +28912,25 @@
         "freshness": 5,
         "when2buyFit": 1,
         "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098808300481483246",
+      "rank": 1,
+      "title": "LARRY ELLISON CANCELS HIS PLAN TO SELL ORACLE STOCK I guess he changed his mind overnight?",
+      "benchmarkPostId": "2098808300481483246",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098808300481483246",
+      "score": 14169,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T16:31:52Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
       }
@@ -43055,6 +43094,43 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-12T16:19:18Z",
       "publishedAt": "2026-09-12T16:18:00.000Z"
+    },
+    {
+      "id": "pkg-20260912-oracle-ellison-plan-cancelled",
+      "benchmarkPostId": "2098808300481483246",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098808300481483246",
+      "title": "Larry Ellison cancels Oracle stock-sale plan",
+      "status": "blocked",
+      "postText": "Larry Ellison cancels his plan to sell Oracle stock.",
+      "mirroredFacts": [
+        "The benchmark post says Larry Ellison cancelled his plan to sell Oracle stock.",
+        "Current authoritative reporting located during this run instead describes an active plan adopted June 22, 2026, permitting sales of up to 50 million Oracle shares."
+      ],
+      "verificationSources": [
+        "https://investor.oracle.com/sec-filings/sec-filings-details/default.aspx?FilingId=18800937",
+        "https://news.bloomberglaw.com/daily-labor-report/oracle-to-spend-an-additional-700-million-on-more-job-cuts",
+        "https://x.com/StockMKTNewz/status/2098808300481483246"
+      ],
+      "verificationStatus": "blocked_conflicting_authoritative_reporting",
+      "verificationNote": "Not publishable: the benchmark cancellation claim could not be reconciled with current authoritative reporting describing an active June 22, 2026 Rule 10b5-1 plan.",
+      "imagePath": "deliverables/pkg-20260912-oracle-ellison-plan-cancelled/when2buy-image.png",
+      "sourceExpiresAt": "2026-09-12T17:47:47Z",
+      "createdAt": "2026-09-12T16:34:45Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Entity-led square Oracle headquarters, filing folder, and stock chart; premium near-black financial-news visual with controlled red accents; no generated logos or text; exact repository logo composited once in the lower-right clear space.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "canvas": "1254x1254",
+        "qaStatus": "passed",
+        "qaChecks": [
+          "square 1:1 canvas",
+          "entity-led visual",
+          "exact logo composited once",
+          "no source handle, URL, disclaimer, commentary, or CTA on image"
+        ]
+      }
     }
   ],
   "posts": [
@@ -439348,6 +439424,58 @@
       "completedAt": "2026-09-12T16:19:18Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260912T163051Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T16:30:51Z",
+      "completedAt": "2026-09-12T16:30:51Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T163147Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T16:31:47Z",
+      "completedAt": "2026-09-12T16:31:47Z",
+      "summary": "Apify scanned both benchmark accounts; captured 114 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T163152Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T16:31:52Z",
+      "completedAt": "2026-09-12T16:31:52Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T163232Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T16:32:32Z",
+      "completedAt": "2026-09-12T16:32:32Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T163500Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T16:31:47Z",
+      "completedAt": "2026-09-12T16:35:00Z",
+      "summary": "Scanned both benchmark feeds, reconciled Postiz, rebuilt the hard-90-minute queue, produced the newest Oracle package, and safely skipped publication because authoritative reporting conflicts with the benchmark cancellation claim.",
+      "reason": "verification_conflict; no Postiz submission created",
+      "selectedPackageId": "pkg-20260912-oracle-ellison-plan-cancelled",
+      "outcome": "blocked",
+      "metrics": "hourly collection checked; no new observations required"
     }
   ],
   "deliveryCircuitBreaker": {
