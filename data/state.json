@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T23:03:06.930355+00:00",
+  "updatedAt": "2026-09-12T23:04:30.611034+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -462253,6 +462253,16 @@
       "completedAt": "2026-09-12T23:03:06Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260912T230430Z-partial",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-12T23:04:30Z",
+      "completedAt": "2026-09-12T23:04:30Z",
+      "summary": "Apify benchmark scan exceeded the bounded timeout; no new source records were accepted, no fresh item was available, and no Postiz submission was attempted.",
+      "reason": "apify_timeout; recoverable state preserved for the next scheduled run",
+      "outcome": "pending_reconciliation"
     }
   ],
   "deliveryCircuitBreaker": {
