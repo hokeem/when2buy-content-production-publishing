@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T19:20:30.824125+00:00",
+  "updatedAt": "2026-09-12T19:35:03.107955+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -18327,7 +18327,14 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-12T19:02:28Z"
+      "capturedAt": "2026-09-12T19:02:28Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098845890534391821/img/EF4dZqawLLGo4ems.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098846450834718989-1.jpg",
+          "status": "archived"
+        }
+      ]
     },
     {
       "id": "2098850220524118109",
@@ -18349,7 +18356,47 @@
       },
       "source": "apify",
       "isPinned": false,
-      "capturedAt": "2026-09-12T19:16:08Z"
+      "capturedAt": "2026-09-12T19:16:08Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCcFcXaAAANYAl.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098850220524118109-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098849484382093312/img/2la4GGkKhyRlNmdb.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098850220524118109-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098855109228728502",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098855109228728502",
+      "postedAt": "Sat Sep 12 19:23:47 +0000 2026",
+      "text": "JUST IN: Tokenized stocks on Base record a new daily DEX trading volume high of $100,000,000 - Token Terminal. https://t.co/O1UlsTQrri",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSChmBoaoAACSUl.jpg"
+      ],
+      "engagement": {
+        "likes": 31,
+        "replies": 14,
+        "reposts": 9,
+        "quotes": 1,
+        "views": 11919
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T19:31:26Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSChmBoaoAACSUl.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098855109228728502-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -29519,6 +29566,25 @@
       "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
       "status": "queued",
       "createdAt": "2026-09-12T19:16:23Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098855109228728502",
+      "rank": 1,
+      "title": "JUST IN: Tokenized stocks on Base record a new daily DEX trading volume high of $100,000,000…",
+      "benchmarkPostId": "2098855109228728502",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098855109228728502",
+      "score": 13609,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T19:31:32Z",
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 2,
@@ -44121,6 +44187,51 @@
           ]
         }
       }
+    },
+    {
+      "id": "pkg-20260912-base-tokenized-stocks-volume",
+      "benchmarkPostId": "2098855109228728502",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098855109228728502",
+      "title": "Tokenized stocks on Base hit a new daily DEX volume high",
+      "status": "published",
+      "postText": "Tokenized stocks on Base just hit a new daily DEX trading-volume high of $100M.",
+      "mirroredFacts": [
+        "Tokenized stocks on Base recorded a new daily decentralized-exchange trading-volume high of $100 million."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098855109228728502",
+        "https://tokenterminal.com/resources/newsletter/tokenized-stocks-from-public-equities-to-private-markets",
+        "https://brand.base.org/stocks"
+      ],
+      "imagePath": "deliverables/pkg-20260912-base-tokenized-stocks-volume/when2buy-image.png",
+      "createdAt": "2026-09-12T19:34:11Z",
+      "sourceExpiresAt": "2026-09-12T20:53:47Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: productivity-visual. Complete square 1:1 entity-led premium financial-news visual about tokenized stocks on Base reaching a new daily decentralized-exchange trading-volume high of $100M. Cinematic near-black institutional digital-asset trading room, neutral unbranded equity tokens and security certificates flowing through a blue chain/exchange motif, rising volume bars, cool blue-white light and restrained red accent. Leave upper-left headline space and lower-right logo-safe space. No generated readable text, letters, numbers, logos, watermarks, source, attribution, disclaimer, commentary, CTA, tagline, hashtags, pure-text card, or generic abstract background; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "canvas": "1254x1254",
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-12T19:34:11Z",
+          "result": "passed",
+          "checks": [
+            "square 1:1 1254x1254 PNG",
+            "complete Base tokenized-stocks entity-led trading scene",
+            "headline and $100M number proofread",
+            "exact repository logo composited once",
+            "no third-party marks, source, attribution, disclaimer, commentary, CTA, tagline, hashtags, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtysap2c1ewsqk0ygb23neuh",
+      "postizSubmissionAt": "2026-09-12T19:34:35Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-12T19:35:03Z",
+      "publishedAt": "2026-09-12T19:34:00.000Z"
     }
   ],
   "posts": [
@@ -49008,6 +49119,24 @@
         "lastAttemptAt": "2026-09-12T19:04:40.473908Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098857934738628843",
+      "packageId": "pkg-20260912-base-tokenized-stocks-volume",
+      "title": "Tokenized stocks on Base hit a new daily DEX volume high",
+      "text": "Tokenized stocks on Base just hit a new daily DEX trading-volume high of $100M.",
+      "status": "published",
+      "publishedAt": "2026-09-12T19:34:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098857934738628843",
+      "postizPostId": "cmtysap2c1ewsqk0ygb23neuh",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-12T19:34:00.000Z",
+        "windowEnd": "2026-09-15T19:34:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -449967,6 +450096,49 @@
         "content": "https://reports.aitist.ai/when2buy/content-run-panel/",
         "performance": "https://reports.aitist.ai/when2buy/performance-dashboard/"
       }
+    },
+    {
+      "id": "run-20260912T193126Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:31:26Z",
+      "completedAt": "2026-09-12T19:31:26Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T193132Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:31:32Z",
+      "completedAt": "2026-09-12T19:31:32Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T193411Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:34:11Z",
+      "completedAt": "2026-09-12T19:34:11Z",
+      "summary": "Produced one newest fresh Base tokenized-stocks volume package with a complete entity-led square visual and exact-logo composite.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260912-base-tokenized-stocks-volume"
+      ]
+    },
+    {
+      "id": "run-20260912T193503Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:35:03Z",
+      "completedAt": "2026-09-12T19:35:03Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
