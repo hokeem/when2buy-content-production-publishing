@@ -1,55 +1,10 @@
 {
-  "generatedAt": "2026-09-12T13:31:25Z",
+  "generatedAt": "2026-09-12T13:46:58Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098758203030802691",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": "pkg-20260912-flint-29m-home",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098758203030802691",
-      "originalText": "This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HSBJdgrWQAEwWDy.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HSBJdgrWQAEwWDy.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098758203030802691-1.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 3,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "views": 5017
-      },
-      "postedAt": "Sat Sep 12 12:58:43 +0000 2026",
-      "score": 5167,
-      "heatScore": 5167,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 0,
-        "marketImpact": 5,
-        "visualPotential": 5,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 32.7,
-        "expiresAt": "2026-09-12T14:28:43Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 2,
       "benchmarkPostId": "2098750591115592166",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260912-japan-rate-regime",
@@ -87,14 +42,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 63.0,
+        "ageMinutes": 78.5,
         "expiresAt": "2026-09-12T13:58:28Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "benchmarkPostId": "2098750019817836940",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -132,14 +87,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 65.2,
+        "ageMinutes": 80.8,
         "expiresAt": "2026-09-12T13:56:12Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 3,
       "benchmarkPostId": "2098748110839112031",
       "benchmarkAccount": "WhaleInsider",
       "packageId": null,
@@ -183,53 +138,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 72.8,
+        "ageMinutes": 88.4,
         "expiresAt": "2026-09-12T13:48:37Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    },
-    {
-      "rank": 5,
-      "benchmarkPostId": "2098746035497517074",
-      "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098746035497517074",
-      "originalText": "ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK\n\n- Jpmorgan\n- Bank of America \n- Goldman Sachs\n- Citi\n- Morgan Stanley\n- Wells Fargo\n- Barclays\n- Deutsche\n- Nomura\n- Piper Sandler\n- TD\n- UBS\n- RBC\n- HSBC https://t.co/MfnE7Fanec",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HSA8C2AbUAEH-yK.png"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HSA8C2AbUAEH-yK.png",
-          "path": "output/benchmark-media/StockMKTNewz/2098746035497517074-1.png",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 33,
-        "replies": 13,
-        "reposts": 4,
-        "quotes": 0,
-        "views": 9988
-      },
-      "postedAt": "Sat Sep 12 12:10:22 +0000 2026",
-      "score": 11368,
-      "heatScore": 11368,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 81.1,
-        "expiresAt": "2026-09-12T13:40:22Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."

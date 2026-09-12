@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T13:32:40.177231+00:00`
+- 状态更新：`2026-09-12T13:47:24.597798+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**643**
 - 待选选题：**565**
@@ -4063,6 +4063,7 @@ This is what a $2.9M home looks like in the Flint, Michigan area.
 | UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
 | BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
+| Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098766721083650170) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -4074,10 +4075,12 @@ This is what a $2.9M home looks like in the Flint, Michigan area.
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098766721083650170) |
 
 ## 最近运行
 
+- `2026-09-12T13:46:58Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T13:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 0 new post(s).
+- `2026-09-12T13:45:29Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T13:32:40Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T13:31:25Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T13:31:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
@@ -4095,6 +4098,3 @@ This is what a $2.9M home looks like in the Flint, Michigan area.
 - `2026-09-12T12:35:23Z` **full / succeeded** — Newest Japan-rate package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z
 - `2026-09-12T12:34:26Z` **produce / succeeded** — Produced one newest fresh Japan-rate package with an inspected entity-led image and exact-logo composite.
 - `2026-09-12T12:32:29Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T12:32:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 121 eligible originals and added 4 new post(s).
-- `2026-09-12T12:30:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T12:05:29Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
