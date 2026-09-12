@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T13:03:32.020761+00:00`
+- 状态更新：`2026-09-12T13:19:43.988150+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**642**
 - 待选选题：**565**
-- 待发布制作包：**1**
+- 待发布制作包：**2**
 - 已验证发布：**249**
 
 ## 对标账号扫描
@@ -3813,6 +3813,13 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 
 Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is now 1.0%.
 
+### Flint area $2.9M home
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260912-flint-29m-home/when2buy-image.png`
+
+This is what a $2.9M home looks like in the Flint, Michigan area.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4070,6 +4077,10 @@ Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is
 
 ## 最近运行
 
+- `2026-09-12T13:19:43Z` **publish / succeeded** — Newest fresh Flint-area $2.9M home package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt=2026-09-12T13:19:26Z
+- `2026-09-12T13:17:58Z` **produce / succeeded** — Produced one newest fresh Flint-area $2.9M home package with generated entity visual and exact-logo composite.
+- `2026-09-12T13:16:12Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T13:16:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T13:02:58Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T13:02:38Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 37 eligible originals and added 0 new post(s).
 - `2026-09-12T13:02:08Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 120 eligible originals and added 1 new post(s).
@@ -4086,7 +4097,3 @@ Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is
 - `2026-09-12T12:05:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
 - `2026-09-12T12:04:49Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T12:03:06Z` **full / succeeded** — Freshest Oracle trading-plan package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z; package expires 2026-09-12T13:02:43Z
-- `2026-09-12T12:01:20Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T12:01:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-12T11:52:00Z` **full / succeeded** — Processed the newest fresh Oracle benchmark with an authoritative verification, complete square visual, and one safe Postiz submission attempt; daily account limit deferred delivery. daily_limit; retryAt 2026-09-12T13:19:26Z; package expires 2026-09-12T13:02:43Z
-- `2026-09-12T11:46:58Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
