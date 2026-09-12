@@ -1,10 +1,10 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T20:33:24.724111+00:00`
+- 状态更新：`2026-09-12T20:47:20.513829+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**668**
 - 待选选题：**590**
-- 待发布制作包：**1**
+- 待发布制作包：**0**
 - 已验证发布：**262**
 
 ## 对标账号扫描
@@ -3959,7 +3959,7 @@ Sam Altman says U.S. AI leaders may agree to slow AI training.  OpenAI says it h
 
 ### $BANGERCAT pairs with NVDA on Robinhood Chain
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260912-bangercat-nvda-pairing/when2buy-image.png`
 
 On Robinhood Chain, $BANGERCAT is the first memecoin feeding cats and is paired with NVDA stock.
@@ -4248,6 +4248,9 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 
 ## 最近运行
 
+- `2026-09-12T20:47:20Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T20:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 105 eligible originals and added 0 new post(s).
+- `2026-09-12T20:45:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T20:33:24Z` **full / succeeded** — Freshness-first run collected both benchmark feeds, reconciled Postiz, rebuilt the hard-TTL queue, collected hourly metrics, and safely deferred the sole ready package before submission. minimum_interval; no Postiz task accepted; no retry permitted
 - `2026-09-12T20:31:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T20:31:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -4265,6 +4268,3 @@ AI data-center construction is accelerating after ChatGPT.  The IEA expects data
 - `2026-09-12T19:46:26Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T19:46:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T19:35:03Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T19:34:11Z` **produce / succeeded** — Produced one newest fresh Base tokenized-stocks volume package with a complete entity-led square visual and exact-logo composite.
-- `2026-09-12T19:31:32Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T19:31:26Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).

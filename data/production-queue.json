@@ -1,59 +1,7 @@
 {
-  "generatedAt": "2026-09-12T20:31:57Z",
+  "generatedAt": "2026-09-12T20:47:20Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
-  "items": [
-    {
-      "rank": 1,
-      "benchmarkPostId": "2098850220524118109",
-      "benchmarkAccount": "WhaleInsider",
-      "packageId": "pkg-20260912-bangercat-nvda-pairing",
-      "packageStatus": "ready",
-      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098850220524118109",
-      "originalText": "JUST IN: $BANGERCAT, the first memecoin on Robinhood Chain feeding cats, paired with NVDA stock. https://t.co/VelHb5pKI7",
-      "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HSCcFcXaAAANYAl.jpg",
-        "https://pbs.twimg.com/amplify_video_thumb/2098849484382093312/img/2la4GGkKhyRlNmdb.jpg"
-      ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HSCcFcXaAAANYAl.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098850220524118109-1.jpg",
-          "status": "archived"
-        },
-        {
-          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098849484382093312/img/2la4GGkKhyRlNmdb.jpg",
-          "path": "output/benchmark-media/WhaleInsider/2098850220524118109-2.jpg",
-          "status": "archived"
-        }
-      ],
-      "engagement": {
-        "likes": 42,
-        "replies": 21,
-        "reposts": 7,
-        "quotes": 4,
-        "views": 14307
-      },
-      "postedAt": "Sat Sep 12 19:04:21 +0000 2026",
-      "score": 16577,
-      "heatScore": 16577,
-      "scoreBreakdown": {
-        "freshness": 5,
-        "when2buyFit": 2,
-        "marketImpact": 5,
-        "visualPotential": 3,
-        "factualClarity": 4
-      },
-      "editorialScore": 19,
-      "freshness": {
-        "eligible": true,
-        "reason": "fresh",
-        "ageMinutes": 87.6,
-        "expiresAt": "2026-09-12T20:34:21Z",
-        "ttlMinutes": 90
-      },
-      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
-    }
-  ],
+  "items": [],
   "sourceTtlMinutes": 90
 }
