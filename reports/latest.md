@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T04:19:44.674204+00:00`
+- 状态更新：`2026-09-12T04:31:42.260120+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**631**
 - 待选选题：**554**
@@ -4006,6 +4006,8 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 
 ## 最近运行
 
+- `2026-09-12T04:31:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T04:31:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T04:19:44Z` **full / succeeded** — Freshness-first run scanned both benchmark feeds through Apify, archived benchmark media, reconciled Postiz/package state, rebuilt an empty hard-90-minute queue, collected due metrics, and made no publication attempt because no new fresh eligible item was available. no_new_fresh_item
 - `2026-09-12T04:19:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T04:17:56Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
@@ -4024,5 +4026,3 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 - `2026-09-12T03:00:52Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T02:47:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
 - `2026-09-12T02:46:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T02:45:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T02:31:30Z` **full / succeeded** — Freshness-first cycle completed: reconciled Postiz, scanned both benchmark feeds, archived media, rebuilt the hard 90-minute queue, collected hourly metrics, and found no eligible fresh item. No publication submitted. No new non-pinned original from @WhaleInsider or @StockMKTNewz was eligible within the 90-minute source TTL.
