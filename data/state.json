@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T07:03:25.546134+00:00",
+  "updatedAt": "2026-09-12T07:04:24.105776+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -44675,12 +44675,14 @@
       "url": "https://x.com/_When2buy/status/2097574132317897127",
       "postizPostId": "cmttq2b6608hoqk0ymin9uxey",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T06:33:00Z",
         "windowEnd": "2026-09-12T06:33:00Z",
         "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T07:02:28.587787Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -44692,12 +44694,14 @@
       "url": "https://x.com/_When2buy/status/2097574655683166484",
       "postizPostId": "cmttq4uky08crlm0y9evhwllr",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T06:35:00Z",
         "windowEnd": "2026-09-12T06:35:00Z",
         "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T07:02:28.587787Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -44712,9 +44716,9 @@
         "status": "active",
         "windowStart": "2026-09-09T07:39:00Z",
         "windowEnd": "2026-09-12T07:39:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44729,9 +44733,9 @@
         "status": "active",
         "windowStart": "2026-09-09T07:48:00Z",
         "windowEnd": "2026-09-12T07:48:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44746,9 +44750,9 @@
         "status": "active",
         "windowStart": "2026-09-09T08:53:00Z",
         "windowEnd": "2026-09-12T08:53:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44763,9 +44767,9 @@
         "status": "active",
         "windowStart": "2026-09-09T09:11:00Z",
         "windowEnd": "2026-09-12T09:11:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44780,9 +44784,9 @@
         "status": "active",
         "windowStart": "2026-09-09T09:13:00Z",
         "windowEnd": "2026-09-12T09:13:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44797,9 +44801,9 @@
         "status": "active",
         "windowStart": "2026-09-09T09:40:00Z",
         "windowEnd": "2026-09-12T09:40:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44814,9 +44818,9 @@
         "status": "active",
         "windowStart": "2026-09-09T10:21:00Z",
         "windowEnd": "2026-09-12T10:21:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44831,9 +44835,9 @@
         "status": "active",
         "windowStart": "2026-09-09T10:23:00Z",
         "windowEnd": "2026-09-12T10:23:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44848,9 +44852,9 @@
         "status": "active",
         "windowStart": "2026-09-09T10:41:00Z",
         "windowEnd": "2026-09-12T10:41:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44865,9 +44869,9 @@
         "status": "active",
         "windowStart": "2026-09-09T10:43:00Z",
         "windowEnd": "2026-09-12T10:43:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44882,9 +44886,9 @@
         "status": "active",
         "windowStart": "2026-09-09T12:14:00Z",
         "windowEnd": "2026-09-12T12:14:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44899,9 +44903,9 @@
         "status": "active",
         "windowStart": "2026-09-09T12:16:00Z",
         "windowEnd": "2026-09-12T12:16:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44916,9 +44920,9 @@
         "status": "active",
         "windowStart": "2026-09-09T12:29:00Z",
         "windowEnd": "2026-09-12T12:29:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44933,9 +44937,9 @@
         "status": "active",
         "windowStart": "2026-09-09T12:31:00Z",
         "windowEnd": "2026-09-12T12:31:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44951,9 +44955,9 @@
         "status": "active",
         "windowStart": "2026-09-09T13:00:00Z",
         "windowEnd": "2026-09-12T13:00:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       },
       "reconciledAt": "2026-09-09T13:04:29.886223Z"
     },
@@ -44969,9 +44973,9 @@
         "status": "active",
         "windowStart": "2026-09-09T13:20:00Z",
         "windowEnd": "2026-09-12T13:20:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -44986,9 +44990,9 @@
         "status": "active",
         "windowStart": "2026-09-09T13:42:00Z",
         "windowEnd": "2026-09-12T13:42:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45004,9 +45008,9 @@
         "status": "active",
         "windowStart": "2026-09-09T14:00:00Z",
         "windowEnd": "2026-09-12T14:00:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       },
       "reconciledAt": "2026-09-09T14:20:36.105201Z"
     },
@@ -45022,9 +45026,9 @@
         "status": "active",
         "windowStart": "2026-09-09T14:20:00Z",
         "windowEnd": "2026-09-12T14:20:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45039,9 +45043,9 @@
         "status": "active",
         "windowStart": "2026-09-09T14:31:00Z",
         "windowEnd": "2026-09-12T14:31:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45056,9 +45060,9 @@
         "status": "active",
         "windowStart": "2026-09-09T14:33:00Z",
         "windowEnd": "2026-09-12T14:33:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45073,9 +45077,9 @@
         "status": "active",
         "windowStart": "2026-09-09T14:52:00Z",
         "windowEnd": "2026-09-12T14:52:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45090,9 +45094,9 @@
         "status": "active",
         "windowStart": "2026-09-09T15:58:00Z",
         "windowEnd": "2026-09-12T15:58:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45107,9 +45111,9 @@
         "status": "active",
         "windowStart": "2026-09-09T16:11:00Z",
         "windowEnd": "2026-09-12T16:11:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45124,9 +45128,9 @@
         "status": "active",
         "windowStart": "2026-09-09T16:13:00Z",
         "windowEnd": "2026-09-12T16:13:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45141,9 +45145,9 @@
         "status": "active",
         "windowStart": "2026-09-09T19:32:00Z",
         "windowEnd": "2026-09-12T19:32:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45158,9 +45162,9 @@
         "status": "active",
         "windowStart": "2026-09-09T19:34:00Z",
         "windowEnd": "2026-09-12T19:34:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45175,9 +45179,9 @@
         "status": "active",
         "windowStart": "2026-09-09T19:50:00Z",
         "windowEnd": "2026-09-12T19:50:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45193,9 +45197,9 @@
         "status": "active",
         "windowStart": "2026-09-09T19:59:00Z",
         "windowEnd": "2026-09-12T19:59:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       },
       "reconciledAt": "2026-09-09T20:30:40.574854Z"
     },
@@ -45211,9 +45215,9 @@
         "status": "active",
         "windowStart": "2026-09-09T20:31:00Z",
         "windowEnd": "2026-09-12T20:31:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45228,9 +45232,9 @@
         "status": "active",
         "windowStart": "2026-09-09T21:13:00Z",
         "windowEnd": "2026-09-12T21:13:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45245,9 +45249,9 @@
         "status": "active",
         "windowStart": "2026-09-09T21:50:00Z",
         "windowEnd": "2026-09-12T21:50:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45262,9 +45266,9 @@
         "status": "active",
         "windowStart": "2026-09-09T22:50:00Z",
         "windowEnd": "2026-09-12T22:50:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45279,9 +45283,9 @@
         "status": "active",
         "windowStart": "2026-09-09T23:12:00Z",
         "windowEnd": "2026-09-12T23:12:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45296,9 +45300,9 @@
         "status": "active",
         "windowStart": "2026-09-09T23:50:00Z",
         "windowEnd": "2026-09-12T23:50:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45313,9 +45317,9 @@
         "status": "active",
         "windowStart": "2026-09-10T00:11:00Z",
         "windowEnd": "2026-09-13T00:11:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45330,9 +45334,9 @@
         "status": "active",
         "windowStart": "2026-09-10T00:40:00Z",
         "windowEnd": "2026-09-13T00:40:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45348,9 +45352,9 @@
         "status": "active",
         "windowStart": "2026-09-10T07:00:00Z",
         "windowEnd": "2026-09-13T07:00:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       },
       "reconciledAt": "2026-09-10T07:19:09.146813Z"
     },
@@ -45367,9 +45371,9 @@
         "status": "active",
         "windowStart": "2026-09-10T13:05:00Z",
         "windowEnd": "2026-09-13T13:05:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45385,9 +45389,9 @@
         "status": "active",
         "windowStart": "2026-09-10T13:36:00Z",
         "windowEnd": "2026-09-13T13:36:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45403,9 +45407,9 @@
         "status": "active",
         "windowStart": "2026-09-10T14:02:00Z",
         "windowEnd": "2026-09-13T14:02:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       },
       "reconciledAt": "2026-09-10T14:04:04Z"
     },
@@ -45422,9 +45426,9 @@
         "status": "active",
         "windowStart": "2026-09-10T14:19:00Z",
         "windowEnd": "2026-09-13T14:19:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45440,9 +45444,9 @@
         "status": "active",
         "windowStart": "2026-09-10T16:04:00Z",
         "windowEnd": "2026-09-13T16:04:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45458,9 +45462,9 @@
         "status": "active",
         "windowStart": "2026-09-10T16:20:00Z",
         "windowEnd": "2026-09-13T16:20:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45476,9 +45480,9 @@
         "status": "active",
         "windowStart": "2026-09-10T16:47:00Z",
         "windowEnd": "2026-09-13T16:47:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45494,9 +45498,9 @@
         "status": "active",
         "windowStart": "2026-09-10T17:03:00Z",
         "windowEnd": "2026-09-13T17:03:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45512,9 +45516,9 @@
         "status": "active",
         "windowStart": "2026-09-10T17:19:00Z",
         "windowEnd": "2026-09-13T17:19:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45530,9 +45534,9 @@
         "status": "active",
         "windowStart": "2026-09-10T17:48:00Z",
         "windowEnd": "2026-09-13T17:48:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45548,9 +45552,9 @@
         "status": "active",
         "windowStart": "2026-09-10T19:32:00Z",
         "windowEnd": "2026-09-13T19:32:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45566,9 +45570,9 @@
         "status": "active",
         "windowStart": "2026-09-10T19:47:00Z",
         "windowEnd": "2026-09-13T19:47:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45584,9 +45588,9 @@
         "status": "active",
         "windowStart": "2026-09-10T20:04:00Z",
         "windowEnd": "2026-09-13T20:04:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45602,9 +45606,9 @@
         "status": "active",
         "windowStart": "2026-09-10T20:19:00Z",
         "windowEnd": "2026-09-13T20:19:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45620,9 +45624,9 @@
         "status": "active",
         "windowStart": "2026-09-10T20:35:00Z",
         "windowEnd": "2026-09-13T20:35:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45638,9 +45642,9 @@
         "status": "active",
         "windowStart": "2026-09-10T21:19:00Z",
         "windowEnd": "2026-09-13T21:19:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45656,9 +45660,9 @@
         "status": "active",
         "windowStart": "2026-09-10T22:02:00Z",
         "windowEnd": "2026-09-13T22:02:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45674,9 +45678,9 @@
         "status": "active",
         "windowStart": "2026-09-10T22:50:00Z",
         "windowEnd": "2026-09-13T22:50:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45692,9 +45696,9 @@
         "status": "active",
         "windowStart": "2026-09-10T23:17:00Z",
         "windowEnd": "2026-09-13T23:17:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45710,9 +45714,9 @@
         "status": "active",
         "windowStart": "2026-09-10T23:50:00Z",
         "windowEnd": "2026-09-13T23:50:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45728,9 +45732,9 @@
         "status": "active",
         "windowStart": "2026-09-11T00:17:00Z",
         "windowEnd": "2026-09-14T00:17:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45746,9 +45750,9 @@
         "status": "active",
         "windowStart": "2026-09-11T00:47:00Z",
         "windowEnd": "2026-09-14T00:47:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45764,9 +45768,9 @@
         "status": "active",
         "windowStart": "2026-09-11T08:48:00Z",
         "windowEnd": "2026-09-14T08:48:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45782,9 +45786,9 @@
         "status": "active",
         "windowStart": "2026-09-11T13:19:00Z",
         "windowEnd": "2026-09-14T13:19:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45800,9 +45804,9 @@
         "status": "active",
         "windowStart": "2026-09-11T13:49:00Z",
         "windowEnd": "2026-09-14T13:49:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45818,9 +45822,9 @@
         "status": "active",
         "windowStart": "2026-09-11T14:18:00Z",
         "windowEnd": "2026-09-14T14:18:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45836,9 +45840,9 @@
         "status": "active",
         "windowStart": "2026-09-11T14:33:00Z",
         "windowEnd": "2026-09-14T14:33:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45854,9 +45858,9 @@
         "status": "active",
         "windowStart": "2026-09-11T15:05:00Z",
         "windowEnd": "2026-09-14T15:05:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45872,9 +45876,9 @@
         "status": "active",
         "windowStart": "2026-09-11T16:18:00Z",
         "windowEnd": "2026-09-14T16:18:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45890,9 +45894,9 @@
         "status": "active",
         "windowStart": "2026-09-11T16:49:00Z",
         "windowEnd": "2026-09-14T16:49:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45908,9 +45912,9 @@
         "status": "active",
         "windowStart": "2026-09-11T17:06:00Z",
         "windowEnd": "2026-09-14T17:06:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       },
       "reconciledAt": "2026-09-11T17:15:28Z"
     },
@@ -45927,9 +45931,9 @@
         "status": "active",
         "windowStart": "2026-09-11T17:32:00Z",
         "windowEnd": "2026-09-14T17:32:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45945,9 +45949,9 @@
         "status": "active",
         "windowStart": "2026-09-11T18:05:00Z",
         "windowEnd": "2026-09-14T18:05:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45963,9 +45967,9 @@
         "status": "active",
         "windowStart": "2026-09-11T18:48:00Z",
         "windowEnd": "2026-09-14T18:48:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45981,9 +45985,9 @@
         "status": "active",
         "windowStart": "2026-09-11T19:33:00Z",
         "windowEnd": "2026-09-14T19:33:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -45999,9 +46003,9 @@
         "status": "active",
         "windowStart": "2026-09-11T20:05:00Z",
         "windowEnd": "2026-09-14T20:05:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -46017,9 +46021,9 @@
         "status": "active",
         "windowStart": "2026-09-11T20:20:00Z",
         "windowEnd": "2026-09-14T20:20:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -46035,9 +46039,9 @@
         "status": "active",
         "windowStart": "2026-09-11T20:49:00Z",
         "windowEnd": "2026-09-14T20:49:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -46053,9 +46057,9 @@
         "status": "active",
         "windowStart": "2026-09-11T21:19:00Z",
         "windowEnd": "2026-09-14T21:19:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -46071,9 +46075,9 @@
         "status": "active",
         "windowStart": "2026-09-11T21:47:00Z",
         "windowEnd": "2026-09-14T21:47:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -46089,9 +46093,9 @@
         "status": "active",
         "windowStart": "2026-09-11T22:03:00Z",
         "windowEnd": "2026-09-14T22:03:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -46107,9 +46111,9 @@
         "status": "active",
         "windowStart": "2026-09-11T23:19:00Z",
         "windowEnd": "2026-09-14T23:19:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -46125,9 +46129,9 @@
         "status": "active",
         "windowStart": "2026-09-11T23:39:00Z",
         "windowEnd": "2026-09-14T23:39:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     },
     {
@@ -46143,9 +46147,9 @@
         "status": "active",
         "windowStart": "2026-09-12T06:04:00Z",
         "windowEnd": "2026-09-15T06:04:00Z",
-        "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
-        "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptAt": "2026-09-12T07:02:28.587787Z",
+        "lastAttemptSource": "Postiz public API → public X fallback",
+        "lastAttemptResult": "no observation appended: Postiz=POSTIZ_API_KEY is unavailable in the local credential paths; public X=public X did not expose any parseable numeric counters"
       }
     }
   ],
@@ -404695,13 +404699,13 @@
       "reason": ""
     },
     {
-      "id": "run-20260912T070325Z-full",
+      "id": "run-20260912T070423Z-full",
       "mode": "full",
       "status": "partial",
-      "startedAt": "2026-09-12T07:03:25Z",
-      "completedAt": "2026-09-12T07:03:25Z",
-      "summary": "Freshness-first cycle completed without publication; Apify and hourly metrics calls hit bounded timeouts, while reconciliation, archive, queue rebuild, validation, and report rendering completed.",
-      "reason": "No fresh eligible item was available in the rebuilt 90-minute TTL queue; no Postiz submission made. Apify and metrics remain recoverable for the next Cron run.",
+      "startedAt": "2026-09-12T07:04:23Z",
+      "completedAt": "2026-09-12T07:04:23Z",
+      "summary": "Freshness-first cycle completed without publication; bounded Apify and hourly metrics attempts did not yield a new deliverable. Reconciliation, media archive, package status reconciliation, and hard-TTL queue rebuild completed.",
+      "reason": "No fresh eligible item was available in the 90-minute queue; no Postiz submission made. Collector and metrics attempts remain recoverable on the next Cron run.",
       "selectedPackageId": null
     }
   ],
