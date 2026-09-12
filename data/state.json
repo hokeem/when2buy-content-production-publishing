@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T10:03:15.764323+00:00",
+  "updatedAt": "2026-09-12T10:17:22.799834+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -419041,6 +419041,39 @@
       "completedAt": "2026-09-12T10:02:31Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260912T101637Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T10:16:37Z",
+      "completedAt": "2026-09-12T10:16:37Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T101649Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T10:16:49Z",
+      "completedAt": "2026-09-12T10:16:49Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T101722Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T10:17:22Z",
+      "completedAt": "2026-09-12T10:17:22Z",
+      "summary": "Freshness-first scan completed: both benchmark feeds returned no new eligible originals, hard 90-minute queue was empty, and no package was submitted.",
+      "reason": "no_new_fresh_eligible_benchmark_posts",
+      "outcome": "deferred",
+      "selectedPackageId": null
     }
   ],
   "deliveryCircuitBreaker": {
