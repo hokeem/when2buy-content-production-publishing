@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T04:04:10.086273+00:00",
+  "updatedAt": "2026-09-12T04:19:44.674204+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -396112,6 +396112,51 @@
       "reason": "Hourly public metrics collection exceeded its bounded timeout and was stopped safely; next scheduled run should retry metrics.",
       "outcome": "no_fresh_candidate",
       "metrics": "deferred_timeout"
+    },
+    {
+      "id": "run-20260912T041756Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T04:17:56Z",
+      "completedAt": "2026-09-12T04:17:56Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T041900Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T04:19:00Z",
+      "completedAt": "2026-09-12T04:19:00Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T041944Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T04:19:44Z",
+      "completedAt": "2026-09-12T04:19:44Z",
+      "summary": "Freshness-first run scanned both benchmark feeds through Apify, archived benchmark media, reconciled Postiz/package state, rebuilt an empty hard-90-minute queue, collected due metrics, and made no publication attempt because no new fresh eligible item was available.",
+      "reason": "no_new_fresh_item",
+      "outcome": "no_fresh_item",
+      "selectedPackageId": null,
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "newPosts": 0
+      },
+      "publication": {
+        "attempted": false,
+        "status": "not_attempted"
+      }
     }
   ],
   "deliveryCircuitBreaker": {
