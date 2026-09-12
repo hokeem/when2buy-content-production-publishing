@@ -1,36 +1,30 @@
 {
-  "generatedAt": "2026-09-12T18:48:35Z",
+  "generatedAt": "2026-09-12T19:05:03Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098844654116503859",
+      "benchmarkPostId": "2098846450834718989",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098844654116503859",
-      "originalText": "Tesla $TSLA just posted this photo with the caption\n\n\"Go for launch\" https://t.co/pKJ13cRHaZ",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098846450834718989",
+      "originalText": "Tesla $TSLA now has a 19 day countdown on their website with the word “Roadster” at the bottom 👀 https://t.co/uWXPcsLMei",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/media/HSCYBvrawAANbVB.jpg"
+        "https://pbs.twimg.com/amplify_video_thumb/2098845890534391821/img/EF4dZqawLLGo4ems.jpg"
       ],
-      "archivedMedia": [
-        {
-          "sourceUrl": "https://pbs.twimg.com/media/HSCYBvrawAANbVB.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098844654116503859-1.jpg",
-          "status": "archived"
-        }
-      ],
+      "archivedMedia": [],
       "engagement": {
-        "likes": 15,
-        "replies": 5,
-        "reposts": 2,
-        "quotes": 0,
-        "views": 5956
+        "likes": 41,
+        "replies": 3,
+        "reposts": 6,
+        "quotes": 1,
+        "views": 9254
       },
-      "postedAt": "Sat Sep 12 18:42:14 +0000 2026",
-      "score": 6556,
-      "heatScore": 6556,
+      "postedAt": "Sat Sep 12 18:49:23 +0000 2026",
+      "score": 10554,
+      "heatScore": 10554,
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 1,
@@ -42,8 +36,8 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 6.4,
-        "expiresAt": "2026-09-12T20:12:14Z",
+        "ageMinutes": 15.7,
+        "expiresAt": "2026-09-12T20:19:23Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
@@ -52,8 +46,8 @@
       "rank": 2,
       "benchmarkPostId": "2098844550047420916",
       "benchmarkAccount": "StockMKTNewz",
-      "packageId": null,
-      "packageStatus": "unproduced",
+      "packageId": "pkg-20260912-ai-training-slowdown",
+      "packageStatus": "ready",
       "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098844550047420916",
       "originalText": "Sam Altman just said he thinks all the people leading US AI will come together and agree to slow down the pace of AI training",
       "originalMediaUrls": [],
@@ -79,7 +73,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 6.8,
+        "ageMinutes": 23.2,
         "expiresAt": "2026-09-12T20:11:50Z",
         "ttlMinutes": 90
       },
@@ -130,7 +124,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 11.8,
+        "ageMinutes": 28.3,
         "expiresAt": "2026-09-12T20:06:48Z",
         "ttlMinutes": 90
       },
@@ -167,7 +161,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 25.9,
+        "ageMinutes": 42.4,
         "expiresAt": "2026-09-12T19:52:41Z",
         "ttlMinutes": 90
       },
@@ -204,7 +198,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 71.0,
+        "ageMinutes": 87.5,
         "expiresAt": "2026-09-12T19:07:35Z",
         "ttlMinutes": 90
       },

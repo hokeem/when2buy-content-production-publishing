@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T18:50:58.769877+00:00`
+- 状态更新：`2026-09-12T19:05:22.852813+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**664**
-- 待选选题：**586**
-- 待发布制作包：**1**
+- 对标帖子快照：**665**
+- 待选选题：**587**
+- 待发布制作包：**2**
 - 已验证发布：**260**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 18:49:23 +0000 2026 | Tesla $TSLA now has a 19 day countdown on their website with the word “Roadster” at the bottom 👀 https://t.co/uWXPcsLMei | [X](https://x.com/StockMKTNewz/status/2098846450834718989) |
 | @StockMKTNewz | Sat Sep 12 18:22:41 +0000 2026 | If you had invested $10,000 into each of the current top 10 largest ETFs ranked by Assets Under Management 10 years ago and held them to today  You would currently have $288,000 | [X](https://x.com/StockMKTNewz/status/2098839733463920980) |
 | @WhaleInsider | Sat Sep 12 18:36:48 +0000 2026 | JUST IN: 🇺🇸 White House Executive Director Patrick Witt says today is a "bad day to be a CLARITY Act doomer." https://t.co/AQdcXddIRF | [X](https://x.com/WhaleInsider/status/2098843285825409037) |
 | @StockMKTNewz | Sat Sep 12 18:41:50 +0000 2026 | Sam Altman just said he thinks all the people leading US AI will come together and agree to slow down the pace of AI training | [X](https://x.com/StockMKTNewz/status/2098844550047420916) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Sat Sep 12 12:28:28 +0000 2026 | Japan’s 🇯🇵 era of interest rates being around 0% seems to have come to an end  https://t.co/MY4ZaWxYTv | [X](https://x.com/StockMKTNewz/status/2098750591115592166) |
 | @StockMKTNewz | Sat Sep 12 11:32:43 +0000 2026 | Oracle $ORCL founder Larry Ellison has entered into a new trading plan that would allow him to sell up to 50 million of his shares in Oracle stock worth ~$7.5 billion at the current price - CNBC https://t.co/90ZXya9uqD | [X](https://x.com/StockMKTNewz/status/2098736561269465361) |
 | @WhaleInsider | Sat Sep 12 11:26:57 +0000 2026 | JUST IN: 🇮🇳 Iranian President Masoud Pezeshkian met UAE President Sheikh Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit in New Delhi. https://t.co/1TavRkJheB | [X](https://x.com/WhaleInsider/status/2098735109092372568) |
-| @WhaleInsider | Sat Sep 12 09:36:11 +0000 2026 | JUST IN: 🇮🇷 Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him. https://t.co/R45M7mfDBO | [X](https://x.com/WhaleInsider/status/2098707236117741745) |
 
 ## 选题推荐
 
@@ -262,6 +262,7 @@
 | 1 | OpenAI is not going public in 2026 https://t.co/8OeRD0eIxI | StockMKTNewz | 5653 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Sam Altman said OpenAI will have a "impressive demo" of a Humanoid Robot in 2027 https://t.c… | StockMKTNewz | 6126 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Tesla $TSLA just posted this photo with the caption "Go for launch" https://t.co/pKJ13cRHaZ | StockMKTNewz | 6556 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Tesla $TSLA now has a 19 day countdown on their website with the word “Roadster” at the bott… | StockMKTNewz | 10554 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3946,6 +3947,13 @@ OpenAI has paused some frontier training runs to do more safety and alignment wo
 
 Tesla $TSLA just posted a photo with the caption: "Go for launch."
 
+### Sam Altman says AI leaders may slow training
+
+- 状态：`ready`
+- 配图：`deliverables/pkg-20260912-ai-training-slowdown/when2buy-image.png`
+
+Sam Altman says U.S. AI leaders may agree to slow AI training.  OpenAI says it has already temporarily slowed the pace of scaling while strengthening monitoring, alignment and containment safeguards.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4071,6 +4079,7 @@ Tesla $TSLA just posted a photo with the caption: "Go for launch."
 | Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
 | Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
+| Tesla posts go-for-launch image | 2026-09-12T18:49:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098846713868161054) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
@@ -4100,6 +4109,7 @@ Tesla $TSLA just posted a photo with the caption: "Go for launch."
 | Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
 | SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
+| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
@@ -4134,6 +4144,8 @@ Tesla $TSLA just posted a photo with the caption: "Go for launch."
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | JPMorgan cuts Situational Awareness lending after AI losses | 2026-09-11T21:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098528976335716596) |
+| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
+| Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098778671192633553) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
 | 🇺🇸 President Trump just said "Lower the interest rates because the U.S.A. is a much stronger credit | 2026-09-05T06:44:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127492960735481) |
@@ -4157,8 +4169,7 @@ Tesla $TSLA just posted a photo with the caption: "Go for launch."
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
-| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
-| Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098778671192633553) |
+| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
 | ALRIGHT I'm dumb but I just entered into the largest prediction market trade I have taken yet I am i | 2026-09-05T06:43:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127220427481484) |
@@ -4174,8 +4185,7 @@ Tesla $TSLA just posted a photo with the caption: "Go for launch."
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 | Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
-| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
-| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
+| OpenAI is not going public in 2026 | 2026-09-12T17:34:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098827679504138289) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -4183,6 +4193,8 @@ Tesla $TSLA just posted a photo with the caption: "Go for launch."
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
+| Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098766721083650170) |
+| Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -4193,27 +4205,29 @@ Tesla $TSLA just posted a photo with the caption: "Go for launch."
 | UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
 | BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
-| Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098766721083650170) |
-| Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
-| OpenAI is not going public in 2026 | 2026-09-12T17:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098827679504138289) |
+| Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098782483789824319) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
 | Treasury plans up to $6B longer-term debt buyback | 2026-09-09T16:13:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097720108869361945) |
 | Fed 25 bp hike odds reach 63% | 2026-09-10T14:19:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098053832127480145) |
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
-| Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098782483789824319) |
+| Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
+| $250M USDC minted at USDC Treasury | 2026-09-12T18:32:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098842430468690120) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
-| $250M USDC minted at USDC Treasury | 2026-09-12T18:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098842430468690120) |
-| Tesla posts go-for-launch image | 2026-09-12T18:49:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098846713868161054) |
 
 ## 最近运行
 
+- `2026-09-12T19:05:22.850098+00:00` **publish / succeeded** — Postiz submission safely deferred by the 15-minute minimum interval; no task accepted and no retry performed. minimum_interval
+- `2026-09-12T19:05:03Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T19:04:02.199215+00:00` **produce / succeeded** — Produced exactly one newest fresh AI-training package with archived-source mapping and exact-logo image QA.
+- `2026-09-12T19:02:28Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 1 new post(s).
+- `2026-09-12T19:02:11Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T19:00:28Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T18:50:30Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T18:48:35Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T18:46:50Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4228,9 +4242,3 @@ Tesla $TSLA just posted a photo with the caption: "Go for launch."
 - `2026-09-12T18:15:46Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T17:55:00Z` **full / succeeded** — Newest fresh USDC package was safely deferred by the Postiz minimum-interval limiter; no accepted task was created and no retry is permitted. minimum_interval; retryAt 2026-09-12T18:05:30Z
 - `2026-09-12T18:03:46Z` **produce / succeeded** — Produced one newest fresh USDC package with a complete entity-led square image, exact-logo composite, and QA.
-- `2026-09-12T18:01:46Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 1 unsent stale package(s).
-- `2026-09-12T18:01:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-12T17:50:57Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T17:50:11Z` **produce / succeeded** — Produced newest fresh benchmark item with original factual copy and exact-logo square entity visual.
-- `2026-09-12T17:47:07Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T17:46:58Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
