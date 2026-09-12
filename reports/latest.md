@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T21:31:39.573212+00:00`
+- 状态更新：`2026-09-12T21:46:47.753248+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,10 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-12T21:46:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T21:46:37Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 40 eligible originals and added 0 new post(s).
+- `2026-09-12T21:46:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T21:45:50Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T21:31:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T21:31:33Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T21:30:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4273,7 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-12T20:45:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T20:33:24Z` **full / succeeded** — Freshness-first run collected both benchmark feeds, reconciled Postiz, rebuilt the hard-TTL queue, collected hourly metrics, and safely deferred the sole ready package before submission. minimum_interval; no Postiz task accepted; no retry permitted
 - `2026-09-12T20:31:57Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T20:31:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-12T20:31:39Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T20:31:32Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-12T20:18:56Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
