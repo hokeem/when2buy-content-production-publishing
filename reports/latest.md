@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T12:03:06.574363+00:00`
+- 状态更新：`2026-09-12T12:05:29.642469+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**637**
 - 待选选题：**560**
@@ -4058,6 +4058,9 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 
 ## 最近运行
 
+- `2026-09-12T12:05:29Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T12:05:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
+- `2026-09-12T12:04:49Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T12:03:06Z` **full / succeeded** — Freshest Oracle trading-plan package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z; package expires 2026-09-12T13:02:43Z
 - `2026-09-12T12:01:20Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T12:01:12Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
@@ -4075,6 +4078,3 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 - `2026-09-12T11:01:00Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T10:46:05Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T10:45:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 19 eligible originals and added 0 new post(s).
-- `2026-09-12T10:32:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T10:32:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T10:17:22Z` **full / succeeded** — Freshness-first scan completed: both benchmark feeds returned no new eligible originals, hard 90-minute queue was empty, and no package was submitted. no_new_fresh_eligible_benchmark_posts
