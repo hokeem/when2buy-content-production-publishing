@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T06:05:22.417418+00:00`
+- 状态更新：`2026-09-12T06:17:12.654377+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**632**
 - 待选选题：**555**
@@ -4015,6 +4015,8 @@ BlackRock ETF clients bought $148.82M worth of $ETH.
 
 ## 最近运行
 
+- `2026-09-12T06:17:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T06:16:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T06:04:28Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T06:02:16Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T06:01:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 36 eligible originals and added 1 new post(s).
@@ -4033,5 +4035,3 @@ BlackRock ETF clients bought $148.82M worth of $ETH.
 - `2026-09-12T04:46:04Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T04:31:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T04:31:36Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T04:19:44Z` **full / succeeded** — Freshness-first run scanned both benchmark feeds through Apify, archived benchmark media, reconciled Postiz/package state, rebuilt an empty hard-90-minute queue, collected due metrics, and made no publication attempt because no new fresh eligible item was available. no_new_fresh_item
-- `2026-09-12T04:19:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

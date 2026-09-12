@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T06:05:22.417418+00:00",
+  "updatedAt": "2026-09-12T06:17:12.654377+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -44542,12 +44542,14 @@
       "url": "https://x.com/_When2buy/status/2097567823543636175",
       "postizPostId": "cmttp628x0825lm0yrcc31v65",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T06:08:00Z",
         "windowEnd": "2026-09-12T06:08:00Z",
         "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T06:17:12.574534Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -44559,12 +44561,14 @@
       "url": "https://x.com/_When2buy/status/2097568335147962382",
       "postizPostId": "cmttp8l8a082qlm0y1r4s1z85",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T06:10:00Z",
         "windowEnd": "2026-09-12T06:10:00Z",
         "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T06:17:12.574534Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -44576,12 +44580,14 @@
       "url": "https://x.com/_When2buy/status/2097568844399415429",
       "postizPostId": "cmttpb83j083zlm0ynsg4c2be",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T06:12:00Z",
         "windowEnd": "2026-09-12T06:12:00Z",
         "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T06:17:12.574534Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -44593,12 +44599,14 @@
       "url": "https://x.com/_When2buy/status/2097569348282175687",
       "postizPostId": "cmttpduxl089qqk0ysqj88x0b",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T06:14:00Z",
         "windowEnd": "2026-09-12T06:14:00Z",
         "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T06:17:12.574534Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -44610,12 +44618,14 @@
       "url": "https://x.com/_When2buy/status/2097569842102706604",
       "postizPostId": "cmttpgdyg084wlm0y907wmk70",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T06:16:00Z",
         "windowEnd": "2026-09-12T06:16:00Z",
         "lastAttemptAt": "2026-09-12T06:04:44.926448Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T06:17:12.574534Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -404541,6 +404551,28 @@
       "startedAt": "2026-09-12T06:04:28Z",
       "completedAt": "2026-09-12T06:04:28Z",
       "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T061650Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T06:16:50Z",
+      "completedAt": "2026-09-12T06:16:50Z",
+      "summary": "Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T061700Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T06:17:00Z",
+      "completedAt": "2026-09-12T06:17:00Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
   ],
