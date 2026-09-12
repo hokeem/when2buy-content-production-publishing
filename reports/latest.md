@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T13:19:43.988150+00:00`
+- 状态更新：`2026-09-12T13:32:40.177231+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**642**
+- 对标帖子快照：**643**
 - 待选选题：**565**
-- 待发布制作包：**2**
-- 已验证发布：**249**
+- 待发布制作包：**1**
+- 已验证发布：**250**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 13:27:14 +0000 2026 | The top 10 largest stocks in the world are now worth a combined $29.97 Trillion up from $29.95T last week https://t.co/Pz29xa56jh | [X](https://x.com/StockMKTNewz/status/2098765380625875341) |
 | @StockMKTNewz | Sat Sep 12 12:58:43 +0000 2026 | This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb | [X](https://x.com/StockMKTNewz/status/2098758203030802691) |
 | @StockMKTNewz | Sat Sep 12 12:10:22 +0000 2026 | ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK  - Jpmorgan - Bank of America  - Goldman Sachs - Citi - Morgan Stanley - Wells Fargo - Barclays - Deutsche - Nomura - Piper Sandler - TD - UBS - RBC - HSBC https://t.co/MfnE7Fanec | [X](https://x.com/StockMKTNewz/status/2098746035497517074) |
 | @WhaleInsider | Sat Sep 12 12:18:37 +0000 2026 | FUN FACT: Amazon’s first-ever dog was a corgi named Rufus.   They later named their official AI agent Rufus after him. https://t.co/qhCYxKT8xt | [X](https://x.com/WhaleInsider/status/2098748110839112031) |
@@ -40,7 +41,6 @@
 | @WhaleInsider | Fri Sep 11 18:22:54 +0000 2026 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | [X](https://x.com/WhaleInsider/status/2098477399683781099) |
 | @StockMKTNewz | Fri Sep 11 18:26:23 +0000 2026 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | [X](https://x.com/StockMKTNewz/status/2098478277132169552) |
 | @WhaleInsider | Fri Sep 11 18:07:11 +0000 2026 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to "earn" funds. https://t.co/Y9zCMjRGP8 | [X](https://x.com/WhaleInsider/status/2098473442752278666) |
-| @WhaleInsider | Fri Sep 11 17:51:27 +0000 2026 | JUST IN: @MetaWin player turns $5 into $25,430.  Unlike other casinos, every win that MetaWin promotes is by a real player.  They have a $1M airdrop going out this month to players.  Everyone who deposits on https://t.co/WKcp4l4N4H qualifies. https://t.co/QNElpQ5icx | [X](https://x.com/WhaleInsider/status/2098469483350295001) |
 
 ## 选题推荐
 
@@ -3815,7 +3815,7 @@ Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is
 
 ### Flint area $2.9M home
 
-- 状态：`ready`
+- 状态：`published`
 - 配图：`deliverables/pkg-20260912-flint-29m-home/when2buy-image.png`
 
 This is what a $2.9M home looks like in the Flint, Michigan area.
@@ -4074,9 +4074,13 @@ This is what a $2.9M home looks like in the Flint, Michigan area.
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
+| Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098766721083650170) |
 
 ## 最近运行
 
+- `2026-09-12T13:32:40Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T13:31:25Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T13:31:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
 - `2026-09-12T13:19:43Z` **publish / succeeded** — Newest fresh Flint-area $2.9M home package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt=2026-09-12T13:19:26Z
 - `2026-09-12T13:17:58Z` **produce / succeeded** — Produced one newest fresh Flint-area $2.9M home package with generated entity visual and exact-logo composite.
 - `2026-09-12T13:16:12Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4094,6 +4098,3 @@ This is what a $2.9M home looks like in the Flint, Michigan area.
 - `2026-09-12T12:32:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 121 eligible originals and added 4 new post(s).
 - `2026-09-12T12:30:48Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T12:05:29Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T12:05:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 44 eligible originals and added 0 new post(s).
-- `2026-09-12T12:04:49Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T12:03:06Z` **full / succeeded** — Freshest Oracle trading-plan package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z; package expires 2026-09-12T13:02:43Z

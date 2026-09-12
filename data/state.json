@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T13:19:43.988150+00:00",
+  "updatedAt": "2026-09-12T13:32:40.177231+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17723,6 +17723,27 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098765380625875341",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098765380625875341",
+      "postedAt": "Sat Sep 12 13:27:14 +0000 2026",
+      "text": "The top 10 largest stocks in the world are now worth a combined $29.97 Trillion up from $29.95T last week https://t.co/Pz29xa56jh",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSBPBv6XcA4mv3n.jpg"
+      ],
+      "engagement": {
+        "likes": 10,
+        "replies": 1,
+        "reposts": 3,
+        "quotes": 0,
+        "views": 5049
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T13:31:11Z"
     }
   ],
   "radar": [
@@ -42292,7 +42313,7 @@
       "benchmarkPostId": "2098758203030802691",
       "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098758203030802691",
       "title": "Flint area $2.9M home",
-      "status": "ready",
+      "status": "published",
       "postText": "This is what a $2.9M home looks like in the Flint, Michigan area.",
       "mirroredFacts": [
         "The benchmark post shows a $2.9 million home in the Flint, Michigan area."
@@ -42320,7 +42341,12 @@
             "not a pure-text card"
           ]
         }
-      }
+      },
+      "postizPostId": "cmtyfck3619xaqk0y8zfdb5h5",
+      "postizSubmissionAt": "2026-09-12T13:32:07Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-12T13:32:40Z",
+      "publishedAt": "2026-09-12T13:32:00.000Z"
     }
   ],
   "posts": [
@@ -45756,12 +45782,14 @@
       "url": "https://x.com/_When2buy/status/2097676757918941397",
       "postizPostId": "cmtu4mmxz01cnqk0yx4paysdq",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T13:20:00Z",
         "windowEnd": "2026-09-12T13:20:00Z",
         "lastAttemptAt": "2026-09-12T13:03:03.446943Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T13:31:56.399045Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -46990,6 +47018,24 @@
         "lastAttemptAt": "2026-09-12T13:03:03.446943Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098766721083650170",
+      "packageId": "pkg-20260912-flint-29m-home",
+      "title": "Flint area $2.9M home",
+      "text": "This is what a $2.9M home looks like in the Flint, Michigan area.",
+      "status": "published",
+      "publishedAt": "2026-09-12T13:32:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098766721083650170",
+      "postizPostId": "cmtyfck3619xaqk0y8zfdb5h5",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-12T13:32:00.000Z",
+        "windowEnd": "2026-09-15T13:32:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -429238,6 +429284,37 @@
       "reason": "daily_limit; retryAt=2026-09-12T13:19:26Z",
       "selectedPackageId": "pkg-20260912-flint-29m-home",
       "outcome": "deferred"
+    },
+    {
+      "id": "run-20260912T133111Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T13:31:11Z",
+      "completedAt": "2026-09-12T13:31:11Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T133125Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T13:31:25Z",
+      "completedAt": "2026-09-12T13:31:25Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T133240Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T13:32:40Z",
+      "completedAt": "2026-09-12T13:32:40Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
