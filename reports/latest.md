@@ -1,16 +1,17 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T17:17:07.981925+00:00`
+- 状态更新：`2026-09-12T17:35:01.988096+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**656**
-- 待选选题：**578**
-- 待发布制作包：**2**
-- 已验证发布：**256**
+- 对标帖子快照：**657**
+- 待选选题：**579**
+- 待发布制作包：**1**
+- 已验证发布：**257**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 17:27:41 +0000 2026 | OpenAI is not going public in 2026  https://t.co/8OeRD0eIxI | [X](https://x.com/StockMKTNewz/status/2098825890427797751) |
 | @StockMKTNewz | Sat Sep 12 16:51:18 +0000 2026 | I fixed the famous photo https://t.co/wchFCEPGSz | [X](https://x.com/StockMKTNewz/status/2098816733683298438) |
 | @WhaleInsider | Sat Sep 12 16:56:49 +0000 2026 | JUST IN: Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development. https://t.co/py2zT1Al5f | [X](https://x.com/WhaleInsider/status/2098818125097583056) |
 | @StockMKTNewz | Sat Sep 12 16:43:29 +0000 2026 | JUST IN:  OpenAI CEO Sam Altman just said that right now would be an "ill-advised" time to go public  OpenAI CEO Sam Altman said he is not looking to take the company public in 2026 - Fortune https://t.co/cHmppswxVR | [X](https://x.com/StockMKTNewz/status/2098814769964679425) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 23:04:36 +0000 2026 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | [X](https://x.com/StockMKTNewz/status/2098548293533929670) |
 | @StockMKTNewz | Fri Sep 11 21:11:06 +0000 2026 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen  Van Geelen will stay on as the CEO of Citrini for now - Bloomberg https://t.co/64WF7lAS1g | [X](https://x.com/StockMKTNewz/status/2098519730105520465) |
 | @StockMKTNewz | Fri Sep 11 20:57:29 +0000 2026 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | [X](https://x.com/StockMKTNewz/status/2098516300498674037) |
-| @StockMKTNewz | Fri Sep 11 20:36:45 +0000 2026 | Rocket Lab $RKLB just posted this:  "Rocket Lab has filed a formal protest with the Government Accountability Office challenging NASA’s award decision for the Mars Telecommunications Network" https://t.co/nS3yJflM9t | [X](https://x.com/StockMKTNewz/status/2098511083937956226) |
 
 ## 选题推荐
 
@@ -259,6 +259,7 @@
 | 1 | LARRY ELLISON CANCELS HIS PLAN TO SELL ORACLE STOCK I guess he changed his mind overnight? | StockMKTNewz | 14169 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: OpenAI CEO Sam Altman just said that right now would be an "ill-advised" time to go… | StockMKTNewz | 5224 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development… | WhaleInsider | 13055 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | OpenAI is not going public in 2026 https://t.co/8OeRD0eIxI | StockMKTNewz | 5653 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3870,7 +3871,7 @@ OpenAI's valuation has increased by 766% over the last two years.
 
 ### Anthropic CEO calls for slower AI development
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260912-anthropic-slowdown-rogue-agents/when2buy-image.png`
 
 Anthropic CEO Dario Amodei is calling for slower AI development, warning rogue AI agents could take over the internet within 6–12 months.
@@ -3889,6 +3890,13 @@ Amazon's Rufus AI assistant is named after Rufus, the corgi who was Amazon's fir
 
 Larry Ellison cancels his plan to sell Oracle stock.
 
+### Sam Altman backs pacing frontier AI development
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-frontier-ai-pacing/when2buy-image.png`
+
+Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
+
 ### OpenAI CEO says now is an ill-advised time to go public
 
 - 状态：`ready`
@@ -3896,12 +3904,12 @@ Larry Ellison cancels his plan to sell Oracle stock.
 
 OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.  He is not looking to take OpenAI public in 2026.
 
-### Sam Altman backs pacing frontier AI development
+### OpenAI is not going public in 2026
 
 - 状态：`published`
-- 配图：`deliverables/pkg-20260912-frontier-ai-pacing/when2buy-image.png`
+- 配图：`deliverables/pkg-20260912-openai-public-listing/when2buy-image.png`
 
-Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
+OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.  He is not looking to take OpenAI public in 2026.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -4164,9 +4172,15 @@ Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
 | Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
+| OpenAI is not going public in 2026 | 2026-09-12T17:34:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098827679504138289) |
 
 ## 最近运行
 
+- `2026-09-12T17:34:50Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T17:31:36Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
+- `2026-09-12T17:31:13Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T17:31:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).
+- `2026-09-12T17:30:46Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T17:16:54Z` **full / succeeded** — Scanned both benchmark feeds, archived media, reconciled Postiz and package statuses, rebuilt the hard-90-minute queue, and safely deferred the newest item because it was a meme-only post with no factual event payload; no older backlog was processed. No factual payload; copy constraints prohibit commentary, attribution, disclaimer, CTA, and fabricated facts.
 - `2026-09-12T17:16:09Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T17:15:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
@@ -4182,8 +4196,3 @@ Sam Altman agrees with Dario Amodei's proposal to pace frontier AI development.
 - `2026-09-12T16:48:13Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
 - `2026-09-12T16:48:02Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
 - `2026-09-12T16:46:03Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T16:45:57Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 1 new post(s).
-- `2026-09-12T16:31:47Z` **full / succeeded** — Scanned both benchmark feeds, reconciled Postiz, rebuilt the hard-90-minute queue, produced the newest Oracle package, and safely skipped publication because authoritative reporting conflicts with the benchmark cancellation claim. verification_conflict; no Postiz submission created
-- `2026-09-12T16:32:32Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T16:31:52Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T16:31:47Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 114 eligible originals and added 1 new post(s).

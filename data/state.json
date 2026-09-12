@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T17:17:07.981925+00:00",
+  "updatedAt": "2026-09-12T17:35:01.988096+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -18095,6 +18095,34 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098825890427797751",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098825890427797751",
+      "postedAt": "Sat Sep 12 17:27:41 +0000 2026",
+      "text": "OpenAI is not going public in 2026  https://t.co/8OeRD0eIxI",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2098825449199767552/img/xZFJoZuVLxe9iCAC.jpg"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 1,
+        "views": 5473
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T17:31:06Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098825449199767552/img/xZFJoZuVLxe9iCAC.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098825890427797751-1.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -29077,6 +29105,25 @@
       "scoreBreakdown": {
         "freshness": 5,
         "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2098825890427797751",
+      "rank": 1,
+      "title": "OpenAI is not going public in 2026 https://t.co/8OeRD0eIxI",
+      "benchmarkPostId": "2098825890427797751",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098825890427797751",
+      "score": 5653,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T17:31:13Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 3
@@ -43168,7 +43215,7 @@
       "benchmarkPostId": "2098803086466629882",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098803086466629882",
       "title": "Anthropic CEO calls for slower AI development",
-      "status": "ready",
+      "status": "expired",
       "postText": "Anthropic CEO Dario Amodei is calling for slower AI development, warning rogue AI agents could take over the internet within 6–12 months.",
       "mirroredFacts": [
         "Anthropic CEO Dario Amodei called for slower AI development.",
@@ -43199,7 +43246,9 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
-      }
+      },
+      "expiredAt": "2026-09-12T17:30:42Z",
+      "expiryReason": "source_ttl_exceeded"
     },
     {
       "id": "pkg-20260912-amazon-rufus-origin",
@@ -43283,48 +43332,6 @@
       }
     },
     {
-      "id": "pkg-20260912-openai-public-listing",
-      "benchmarkPostId": "2098814769964679425",
-      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098814769964679425",
-      "title": "OpenAI CEO says now is an ill-advised time to go public",
-      "status": "ready",
-      "postText": "OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.\n\nHe is not looking to take OpenAI public in 2026.",
-      "mirroredFacts": [
-        "Sam Altman said now is an ill-advised time for OpenAI to go public.",
-        "He said he is not looking to take OpenAI public in 2026."
-      ],
-      "verificationSources": [
-        "https://x.com/StockMKTNewz/status/2098814769964679425",
-        "https://fortune.com/article/why-is-openai-ceo-sam-altman-not-excited-about-being-ceo-of-public-company/",
-        "https://www.fortune.com/2026/06/08/chatgpt-maker-openai-files-ipo-anthropic/"
-      ],
-      "imagePath": "deliverables/pkg-20260912-openai-public-listing/when2buy-image.png",
-      "createdAt": "2026-09-12T16:48:28Z",
-      "sourceExpiresAt": "2026-09-12T18:13:29Z",
-      "visualProduction": {
-        "method": "image_model",
-        "prompt": "Use case: ads-marketing. Complete square 1:1 entity-led premium financial-news visual about OpenAI CEO Sam Altman saying now is an ill-advised time for OpenAI to go public and that the company is not looking to go public in 2026. Cinematic near-black private AI company headquarters and boardroom at night, glass tower, subtle public-markets skyline and a closed stock-exchange bell, thoughtful executive silhouette, cool blue-white highlights and restrained red accent. No generated readable text, letters, numbers, logos, watermark, source, attribution, disclaimer, commentary, CTA, tagline, hashtags, pure-text card, or generic radar background; exact repository logo composited once afterward.",
-        "logoApplied": true,
-        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
-        "logoCount": 1,
-        "canvas": "1254x1254",
-        "qaStatus": "passed",
-        "qa": {
-          "inspectedAt": "2026-09-12T16:48:28Z",
-          "result": "passed",
-          "checks": [
-            "square 1:1 1254x1254 PNG",
-            "complete OpenAI public-listing entity-led scene",
-            "copy and 2026 fact proofread",
-            "exact repository logo composited once",
-            "generated OpenAI mark removed before exact logo composite",
-            "no source, attribution, disclaimer, commentary, CTA, tagline, hashtags, or watermark",
-            "not a pure-text card or generic-radar visual"
-          ]
-        }
-      }
-    },
-    {
       "id": "pkg-20260912-frontier-ai-pacing",
       "benchmarkPostId": "2098818125097583056",
       "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098818125097583056",
@@ -43368,6 +43375,92 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-12T17:04:19Z",
       "publishedAt": "2026-09-12T17:03:00.000Z"
+    },
+    {
+      "id": "pkg-20260912-openai-public-listing",
+      "benchmarkPostId": "2098814769964679425",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098814769964679425",
+      "title": "OpenAI CEO says now is an ill-advised time to go public",
+      "status": "ready",
+      "postText": "OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.\n\nHe is not looking to take OpenAI public in 2026.",
+      "mirroredFacts": [
+        "Sam Altman said now is an ill-advised time for OpenAI to go public.",
+        "He said he is not looking to take OpenAI public in 2026."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098814769964679425",
+        "https://fortune.com/article/why-is-openai-ceo-sam-altman-not-excited-about-being-ceo-of-public-company/",
+        "https://www.fortune.com/2026/06/08/chatgpt-maker-openai-files-ipo-anthropic/"
+      ],
+      "imagePath": "deliverables/pkg-20260912-openai-public-listing/when2buy-image.png",
+      "createdAt": "2026-09-12T17:31:36Z",
+      "sourceExpiresAt": "2026-09-12T18:13:29Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Complete square 1:1 entity-led premium financial-news visual about OpenAI CEO Sam Altman saying now is an ill-advised time for OpenAI to go public and that the company is not looking to go public in 2026. Cinematic near-black private AI company headquarters and boardroom at night, glass tower, subtle public-markets skyline and a closed stock-exchange bell, thoughtful executive silhouette, cool blue-white highlights and restrained red accent. No generated readable text, letters, numbers, logos, watermark, source, attribution, disclaimer, commentary, CTA, tagline, hashtags, pure-text card, or generic radar background; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "canvas": "1254x1254",
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-12T17:31:36Z",
+          "result": "passed",
+          "checks": [
+            "square 1:1 1254x1254 PNG",
+            "complete OpenAI public-listing entity-led scene",
+            "copy and 2026 fact proofread",
+            "exact repository logo composited once",
+            "generated OpenAI mark removed before exact logo composite",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, hashtags, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pkg-20260912-openai-no-public-listing-2026",
+      "benchmarkPostId": "2098825890427797751",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098825890427797751",
+      "title": "OpenAI is not going public in 2026",
+      "status": "published",
+      "postText": "OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.\n\nHe is not looking to take OpenAI public in 2026.",
+      "mirroredFacts": [
+        "Sam Altman said now would be an ill-advised time for OpenAI to go public.",
+        "He said he is not looking to take OpenAI public in 2026."
+      ],
+      "verificationSources": [
+        "https://fortune.com/article/why-is-openai-ceo-sam-altman-not-excited-about-being-ceo-of-public-company/",
+        "https://www.fortune.com/2026/06/08/chatgpt-maker-openai-files-ipo-anthropic/",
+        "https://x.com/StockMKTNewz/status/2098825890427797751"
+      ],
+      "imagePath": "deliverables/pkg-20260912-openai-public-listing/when2buy-image.png",
+      "createdAt": "2026-09-12T17:35:00Z",
+      "sourceExpiresAt": "2026-09-12T18:57:41Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Use case: ads-marketing. Complete square 1:1 entity-led premium financial-news scene about OpenAI CEO Sam Altman saying now is an ill-advised time for OpenAI to go public and that OpenAI is not looking to go public in 2026. Near-black private AI company headquarters and boardroom at night, glass tower, subtle public-markets skyline and closed stock-exchange bell, thoughtful executive silhouette, luminous AI datacenter/chip motif, cinematic realistic editorial financial-news photography, cool blue-white highlights with one restrained red accent. No generated readable text, letters, numbers, logos, watermark, source, attribution, disclaimer, commentary, CTA, tagline, hashtags, pure-text card, or generic radar background; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "canvas": "1254x1254",
+        "qaStatus": "passed",
+        "qa": {
+          "result": "passed",
+          "checks": [
+            "square 1:1 1254x1254 PNG",
+            "complete OpenAI entity-led boardroom and AI infrastructure scene",
+            "exact repository logo composited once in bottom-right clear space",
+            "no generated readable text or extra logos",
+            "public copy ends after factual payload with no tagline, attribution, source, disclaimer, commentary, or CTA"
+          ]
+        }
+      },
+      "postizPostId": "cmtyo03fj15rxlm0ycz7mk3ja",
+      "postizSubmissionAt": "2026-09-12T17:34:22Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-12T17:34:50Z",
+      "publishedAt": "2026-09-12T17:34:00.000Z"
     }
   ],
   "posts": [
@@ -48181,6 +48274,24 @@
         "windowStart": "2026-09-12T17:03:00Z",
         "windowEnd": "2026-09-15T17:03:00Z",
         "lastAttemptAt": "2026-09-12T17:05:21.365052Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098827679504138289",
+      "packageId": "pkg-20260912-openai-no-public-listing-2026",
+      "title": "OpenAI is not going public in 2026",
+      "text": "OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.\n\nHe is not looking to take OpenAI public in 2026.",
+      "status": "published",
+      "publishedAt": "2026-09-12T17:34:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098827679504138289",
+      "postizPostId": "cmtyo03fj15rxlm0ycz7mk3ja",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-12T17:34:00Z",
+        "windowEnd": "2026-09-15T17:34:00Z",
+        "lastAttemptAt": "2026-09-12T17:35:01.664354Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -418098,6 +418209,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-12T17:05:21.365052Z"
       }
+    },
+    {
+      "id": "metric-2098827679504138289-20260912T173501Z",
+      "postId": "2098827679504138289",
+      "observedAt": "2026-09-12T17:35:01.664354Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtyo03fj15rxlm0ycz7mk3ja",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtyo03fj15rxlm0ycz7mk3ja",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-12"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-12"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-12"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-12"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-12"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-12T17:35:01.664354Z"
+      }
     }
   ],
   "experiments": [],
@@ -442717,6 +442870,58 @@
       "selectedBenchmarkPostId": "2098816733683298438",
       "publicationOutcome": "deferred",
       "metrics": "hourly collection checked; no new observations required"
+    },
+    {
+      "id": "run-20260912T173046Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:30:46Z",
+      "completedAt": "2026-09-12T17:30:46Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T173107Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:31:07Z",
+      "completedAt": "2026-09-12T17:31:07Z",
+      "summary": "Apify scanned both benchmark accounts; captured 33 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T173113Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:31:13Z",
+      "completedAt": "2026-09-12T17:31:13Z",
+      "summary": "Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T173136Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:31:36Z",
+      "completedAt": "2026-09-12T17:31:36Z",
+      "summary": "Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard.",
+      "reason": "delivery_guard_daily_limit",
+      "selectedPackageIds": [
+        "pkg-20260912-openai-public-listing"
+      ]
+    },
+    {
+      "id": "run-20260912T173450Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:34:50Z",
+      "completedAt": "2026-09-12T17:34:50Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
