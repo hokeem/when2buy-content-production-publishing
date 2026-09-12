@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T00:48:49.736651+00:00`
+- 状态更新：`2026-09-12T01:03:26.236163+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**631**
 - 待选选题：**554**
@@ -3863,11 +3863,11 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
+| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
-| Nvidia considers up to $10B Anthropic IPO investment | 2026-09-11T23:19:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098552201325269207) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -3903,6 +3903,7 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
 | Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
 | Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098458731663245381) |
+| Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
@@ -3912,7 +3913,7 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
-| Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
+| SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -3927,7 +3928,6 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
-| SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -3982,6 +3982,7 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | China rejects U.S. AI distillation claims | 2026-09-09T10:21:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097631684166619203) |
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
+| Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -3991,7 +3992,6 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 | SpaceX signs $1.11B-a-month AI hosting agreement | 2026-09-10T22:50:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098182454305784207) |
 | UK Lords back digital-asset strategy amendment | 2026-09-11T15:05:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098427918854836731) |
 | Trump says proposed $5,000 dividend will happen | 2026-09-11T20:20:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098507094156853326) |
-| Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -4006,6 +4006,8 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 
 ## 最近运行
 
+- `2026-09-12T01:01:57Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T01:01:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T00:48:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T00:48:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 6 eligible originals and added 0 new post(s).
 - `2026-09-12T00:47:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4024,5 +4026,3 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 - `2026-09-11T23:31:00Z` **full / succeeded** — Apify scanned both exact benchmark feeds, reconciled Postiz, archived no new media, rebuilt the hard 90-minute queue, produced and QA-passed one newest fresh package, and safely deferred its sole Postiz submission under the minimum-interval limiter. deferred: minimum_interval; accepted submissions remain at least 15 minutes apart; no retry was attempted.
 - `2026-09-11T23:32:22Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-11T23:32:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-11T23:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
-- `2026-09-11T23:20:10Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
