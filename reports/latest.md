@@ -1,9 +1,9 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T14:35:15.802431+00:00`
+- 状态更新：`2026-09-12T14:47:37.089572+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**647**
-- 待选选题：**569**
+- 对标帖子快照：**648**
+- 待选选题：**570**
 - 待发布制作包：**0**
 - 已验证发布：**253**
 
@@ -11,6 +11,7 @@
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 14:42:50 +0000 2026 | Which ETF do you hold the most of? | [X](https://x.com/StockMKTNewz/status/2098784406156521744) |
 | @StockMKTNewz | Sat Sep 12 14:06:24 +0000 2026 | ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS:   - WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS | [X](https://x.com/StockMKTNewz/status/2098775238838288484) |
 | @WhaleInsider | Sat Sep 12 13:50:19 +0000 2026 | JUST IN: Traders speculate on potential LeBron James coin launch after Vlad Tenev followed him on X. https://t.co/O2gZklp7r0 | [X](https://x.com/WhaleInsider/status/2098771189644533915) |
 | @StockMKTNewz | Sat Sep 12 13:50:21 +0000 2026 | 3 out of Microsoft's $MSFT top 10 largest acquisitions in its history are for video game companies  - Activision Blizzard for $75.4B in 2022 - Zenimax Media for $8.1B in 2020 - Mojang Studios for $2.5B in 2014 | [X](https://x.com/StockMKTNewz/status/2098771198326771884) |
@@ -40,7 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 19:23:08 +0000 2026 | Leopold Aschenbrenner's hedge fund, Situational Awareness, has established a prime broking relationship with Clear Street - Bloomberg | [X](https://x.com/StockMKTNewz/status/2098492555679662501) |
 | @StockMKTNewz | Fri Sep 11 19:09:34 +0000 2026 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week  Citi expects the Fed to be cutting rates by the middle of 2027 | [X](https://x.com/StockMKTNewz/status/2098489144276123754) |
 | @StockMKTNewz | Fri Sep 11 19:13:30 +0000 2026 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults will happen https://t.co/i2U8d3xIat | [X](https://x.com/StockMKTNewz/status/2098490133007753576) |
-| @WhaleInsider | Fri Sep 11 19:15:43 +0000 2026 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/Q934niMGTj | [X](https://x.com/WhaleInsider/status/2098490691844206770) |
 
 ## 选题推荐
 
@@ -251,6 +251,7 @@
 | 1 | This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb | StockMKTNewz | 5167 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Robinhood Chain $HOOD hit a new all-time high of $531 million in daily perps volume… | WhaleInsider | 11030 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | ANTHROPIC'S CEO DARIO AMODEI JUST SAID THIS: - WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE… | StockMKTNewz | 9544 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Which ETF do you hold the most of? | StockMKTNewz | 5902 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -4071,6 +4072,7 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 | Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
+| Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098778671192633553) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
 | Cognition raises more than $2B at $48B valuation | 2026-09-09T06:08:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097567823543636175) |
@@ -4101,11 +4103,14 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
-| Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098778671192633553) |
-| Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098782483789824319) |
+| Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098782483789824319) |
 
 ## 最近运行
 
+- `2026-09-12T14:45:00Z` **full / succeeded** — Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload, so no compliant copy or publication was created; the older candidate was not backfilled. No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.
+- `2026-09-12T14:46:27Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T14:46:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 70 eligible originals and added 1 new post(s).
+- `2026-09-12T14:45:53Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T14:35:15Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T14:34:24Z` **produce / succeeded** — Produced the sole newest fresh Microsoft acquisitions package with an inspected entity-led visual and exact-logo composite.
 - `2026-09-12T14:31:32Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4122,7 +4127,3 @@ Anthropic CEO Dario Amodei says the pace of AI model capability improvements mus
 - `2026-09-12T13:46:58Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T13:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 0 new post(s).
 - `2026-09-12T13:45:29Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T13:32:40Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T13:31:25Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T13:31:11Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 1 new post(s).
-- `2026-09-12T13:19:43Z` **publish / succeeded** — Newest fresh Flint-area $2.9M home package was safely deferred by the Postiz daily account limit; no accepted task was created and no retry is permitted. daily_limit; retryAt=2026-09-12T13:19:26Z

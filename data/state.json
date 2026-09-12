@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T14:35:15.802431+00:00",
+  "updatedAt": "2026-09-12T14:47:37.089572+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17847,6 +17847,25 @@
       "isPinned": false,
       "capturedAt": "2026-09-12T14:16:18Z",
       "mediaArchive": []
+    },
+    {
+      "id": "2098784406156521744",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098784406156521744",
+      "postedAt": "Sat Sep 12 14:42:50 +0000 2026",
+      "text": "Which ETF do you hold the most of?",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 14,
+        "reposts": 0,
+        "quotes": 0,
+        "views": 5222
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T14:46:22Z"
     }
   ],
   "radar": [
@@ -28661,6 +28680,25 @@
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098784406156521744",
+      "rank": 1,
+      "title": "Which ETF do you hold the most of?",
+      "benchmarkPostId": "2098784406156521744",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098784406156521744",
+      "score": 5902,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T14:46:27Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 3
       }
     }
   ],
@@ -46150,12 +46188,14 @@
       "url": "https://x.com/_When2buy/status/2097691839725961267",
       "postizPostId": "cmtu6rp7x00tnqk0y1coxfzim",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T14:20:00Z",
         "windowEnd": "2026-09-12T14:20:00Z",
         "lastAttemptAt": "2026-09-12T14:01:22.504120Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T14:47:18.051403Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -46167,12 +46207,14 @@
       "url": "https://x.com/_When2buy/status/2097694447798722955",
       "postizPostId": "cmtu753dc00xvqk0yt4qniyv4",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T14:31:00Z",
         "windowEnd": "2026-09-12T14:31:00Z",
         "lastAttemptAt": "2026-09-12T14:01:22.504120Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T14:47:18.051403Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -46184,12 +46226,14 @@
       "url": "https://x.com/_When2buy/status/2097694968186024281",
       "postizPostId": "cmtu77r6w027flm0yuiaeioix",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-09T14:33:00Z",
         "windowEnd": "2026-09-12T14:33:00Z",
         "lastAttemptAt": "2026-09-12T14:01:22.504120Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-12T14:47:18.051403Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -47380,11 +47424,11 @@
       "postizPostId": "cmtyh1nbe12y2lm0ymllsj4c0",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-12T14:19:00.000Z",
+        "windowStart": "2026-09-12T14:19:00Z",
         "windowEnd": "2026-09-15T14:19:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-12T14:47:18.051403Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     },
     {
@@ -47398,11 +47442,11 @@
       "postizPostId": "cmtyhl5cx1apmqk0ydt3nkeqn",
       "metricsTracking": {
         "status": "active",
-        "windowStart": "2026-09-12T14:34:00.000Z",
+        "windowStart": "2026-09-12T14:34:00Z",
         "windowEnd": "2026-09-15T14:34:00Z",
-        "lastAttemptAt": null,
-        "lastAttemptSource": null,
-        "lastAttemptResult": null
+        "lastAttemptAt": "2026-09-12T14:47:18.051403Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
       }
     }
   ],
@@ -408708,6 +408752,90 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-12T14:19:02.122429Z"
       }
+    },
+    {
+      "id": "metric-2098778671192633553-20260912T144718Z",
+      "postId": "2098778671192633553",
+      "observedAt": "2026-09-12T14:47:18.051403Z",
+      "views": 4,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtyh1nbe12y2lm0ymllsj4c0",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtyh1nbe12y2lm0ymllsj4c0",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-12"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-12"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-12"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-12"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-12"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-12T14:47:18.051403Z"
+      }
+    },
+    {
+      "id": "metric-2098782483789824319-20260912T144718Z",
+      "postId": "2098782483789824319",
+      "observedAt": "2026-09-12T14:47:18.051403Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtyhl5cx1apmqk0ydt3nkeqn",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtyhl5cx1apmqk0ydt3nkeqn",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-12"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-12"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-12"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-12"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-12"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-12T14:47:18.051403Z"
+      }
     }
   ],
   "experiments": [],
@@ -432791,6 +432919,49 @@
       "completedAt": "2026-09-12T14:35:15Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260912T144553Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T14:45:53Z",
+      "completedAt": "2026-09-12T14:45:53Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T144623Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T14:46:23Z",
+      "completedAt": "2026-09-12T14:46:23Z",
+      "summary": "Apify scanned both benchmark accounts; captured 70 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T144627Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T14:46:27Z",
+      "completedAt": "2026-09-12T14:46:27Z",
+      "summary": "Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T145000Z-full",
+      "mode": "full",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T14:45:00Z",
+      "completedAt": "2026-09-12T14:50:00Z",
+      "summary": "Freshest queue item was safely deferred: the newest original was an engagement poll with no factual event payload, so no compliant copy or publication was created; the older candidate was not backfilled.",
+      "reason": "No factual payload and the requested copy constraints prohibit a CTA, commentary, attribution, disclaimer, or fabricated facts.",
+      "selectedBenchmarkPostId": "2098784406156521744",
+      "publicationOutcome": "deferred",
+      "metrics": "collected"
     }
   ],
   "deliveryCircuitBreaker": {
