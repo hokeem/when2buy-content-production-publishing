@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T08:31:19.551364+00:00",
+  "updatedAt": "2026-09-12T08:50:08.254386+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -17453,6 +17453,40 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098692599393423656",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098692599393423656",
+      "postedAt": "Sat Sep 12 08:38:02 +0000 2026",
+      "text": "JUST IN: 🇺🇸 Odds of a Fed rate hike this month surge to 81%, per Kalshi traders. https://t.co/SW4k887gwo",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSANyv6WwAMwAV8.jpg",
+        "https://pbs.twimg.com/media/HSANywbacAAG4Ap.jpg"
+      ],
+      "engagement": {
+        "likes": 34,
+        "replies": 13,
+        "reposts": 9,
+        "quotes": 3,
+        "views": 12216
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T08:47:05Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSANyv6WwAMwAV8.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098692599393423656-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSANywbacAAG4Ap.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098692599393423656-2.jpg",
+          "status": "archived"
+        }
+      ]
     }
   ],
   "radar": [
@@ -28019,6 +28053,25 @@
         "when2buyFit": 1,
         "marketImpact": 3,
         "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098692599393423656",
+      "rank": 1,
+      "title": "JUST IN: 🇺🇸 Odds of a Fed rate hike this month surge to 81%, per Kalshi traders. https://t.c…",
+      "benchmarkPostId": "2098692599393423656",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098692599393423656",
+      "score": 14046,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T08:47:11Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
         "factualClarity": 4
       }
     }
@@ -41642,6 +41695,44 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-12T07:34:15Z",
       "publishedAt": "2026-09-12T07:33:00.000Z"
+    },
+    {
+      "id": "pkg-20260912-fed-hike-odds-81",
+      "benchmarkPostId": "2098692599393423656",
+      "benchmarkPostUrl": "https://x.com/WhaleInsider/status/2098692599393423656",
+      "title": "Fed hike odds surge to 81%",
+      "status": "published",
+      "postText": "Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.",
+      "mirroredFacts": [
+        "The selected WhaleInsider original states that odds of a Fed rate hike this month surged to 81%.",
+        "The selected original was captured through Apify and remained within the 90-minute source TTL at production time."
+      ],
+      "verificationSources": [
+        "https://x.com/WhaleInsider/status/2098692599393423656"
+      ],
+      "verificationStatus": "benchmark_discovery_signal",
+      "verificationNote": "Narrow discovery payload preserved without adding an unverified market interpretation.",
+      "imagePath": "deliverables/pkg-20260912-fed-hike-odds-81/when2buy-image.png",
+      "createdAt": "2026-09-12T08:49:05.810182+00:00",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square entity-led Federal Reserve building scene with an upward probability gauge, near-black premium financial-news environment, typography-safe upper-left space, no generated text or branding; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "qaStatus": "passed",
+        "qaChecks": [
+          "square 1254x1254 PNG",
+          "complete entity-led Federal Reserve scene",
+          "factual text composited once",
+          "exact repository logo composited once",
+          "no source, attribution, disclaimer, commentary, CTA, tagline, or watermark",
+          "not a pure-text card or generic-radar visual"
+        ]
+      },
+      "postizPostId": "cmty59bug0zcglm0yul8kfe4w",
+      "postizSubmissionAt": "2026-09-12T08:49:40Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-12T08:50:08Z",
+      "publishedAt": "2026-09-12T08:49:00.000Z"
     }
   ],
   "posts": [
@@ -46249,6 +46340,24 @@
         "lastAttemptAt": "2026-09-12T08:02:46.447132Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098695636640227383",
+      "packageId": "pkg-20260912-fed-hike-odds-81",
+      "title": "Fed hike odds surge to 81%",
+      "text": "Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.",
+      "status": "published",
+      "publishedAt": "2026-09-12T08:49:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098695636640227383",
+      "postizPostId": "cmty59bug0zcglm0yul8kfe4w",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-12T08:49:00.000Z",
+        "windowEnd": "2026-09-15T08:49:00Z",
+        "lastAttemptAt": null,
+        "lastAttemptSource": null,
+        "lastAttemptResult": null
       }
     }
   ],
@@ -411910,6 +412019,47 @@
       "startedAt": "2026-09-12T08:31:19Z",
       "completedAt": "2026-09-12T08:31:19Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T084705Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T08:47:05Z",
+      "completedAt": "2026-09-12T08:47:05Z",
+      "summary": "Apify scanned both benchmark accounts; captured 15 eligible originals and added 1 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T084711Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T08:47:11Z",
+      "completedAt": "2026-09-12T08:47:11Z",
+      "summary": "Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T084905Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T08:49:05.810334+00:00",
+      "completedAt": "2026-09-12T08:49:05.810342+00:00",
+      "summary": "Produced one newest fresh Fed-hike package with a complete entity-led image and exact-logo composite.",
+      "reason": "",
+      "selectedPackageId": "pkg-20260912-fed-hike-odds-81"
+    },
+    {
+      "id": "run-20260912T085008Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T08:50:08Z",
+      "completedAt": "2026-09-12T08:50:08Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
   ],

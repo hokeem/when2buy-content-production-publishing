@@ -1,7 +1,59 @@
 {
-  "generatedAt": "2026-09-12T08:31:19Z",
+  "generatedAt": "2026-09-12T08:47:11Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
-  "items": [],
+  "items": [
+    {
+      "rank": 1,
+      "benchmarkPostId": "2098692599393423656",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098692599393423656",
+      "originalText": "JUST IN: 🇺🇸 Odds of a Fed rate hike this month surge to 81%, per Kalshi traders. https://t.co/SW4k887gwo",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HSANyv6WwAMwAV8.jpg",
+        "https://pbs.twimg.com/media/HSANywbacAAG4Ap.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSANyv6WwAMwAV8.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098692599393423656-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSANywbacAAG4Ap.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098692599393423656-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 34,
+        "replies": 13,
+        "reposts": 9,
+        "quotes": 3,
+        "views": 12216
+      },
+      "postedAt": "Sat Sep 12 08:38:02 +0000 2026",
+      "score": 14046,
+      "heatScore": 14046,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 5,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 20,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 9.2,
+        "expiresAt": "2026-09-12T10:08:02Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    }
+  ],
   "sourceTtlMinutes": 90
 }
