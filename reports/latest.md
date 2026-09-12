@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T19:35:03.107955+00:00`
+- 状态更新：`2026-09-12T19:48:00.025664+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**667**
 - 待选选题：**589**
@@ -4239,6 +4239,9 @@ Tokenized stocks on Base just hit a new daily DEX trading-volume high of $100M.
 
 ## 最近运行
 
+- `2026-09-12T19:48:00Z` **publish / succeeded** — Postiz submission safely deferred by the 15-minute minimum interval; no task accepted and no retry performed. minimum_interval
+- `2026-09-12T19:46:26Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T19:46:07Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
 - `2026-09-12T19:35:03Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T19:34:11Z` **produce / succeeded** — Produced one newest fresh Base tokenized-stocks volume package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-12T19:31:32Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4256,6 +4259,3 @@ Tokenized stocks on Base just hit a new daily DEX trading-volume high of $100M.
 - `2026-09-12T18:48:35Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T18:46:50Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T18:46:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 116 eligible originals and added 4 new post(s).
-- `2026-09-12T18:45:39Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T18:33:28Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T18:32:05Z` **queue / succeeded** — Prepared 2 fresh candidate(s); expired 0 unsent stale package(s).

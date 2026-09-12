@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T19:35:03.107955+00:00",
+  "updatedAt": "2026-09-12T19:48:00.025664+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -44186,6 +44186,13 @@
             "not a pure-text card or generic-radar visual"
           ]
         }
+      },
+      "lastDeliveryOutcome": {
+        "status": "deferred",
+        "reason": "minimum_interval",
+        "retryAt": "2026-09-12T19:49:35Z",
+        "recordedAt": "2026-09-12T19:48:00Z",
+        "accepted": false
       }
     },
     {
@@ -450139,6 +450146,41 @@
       "completedAt": "2026-09-12T19:35:03Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
+    },
+    {
+      "id": "run-20260912T194607Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:46:07Z",
+      "completedAt": "2026-09-12T19:46:07Z",
+      "summary": "Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T194626Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:46:26Z",
+      "completedAt": "2026-09-12T19:46:26Z",
+      "summary": "Prepared 5 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T194800Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T19:48:00Z",
+      "completedAt": "2026-09-12T19:48:00Z",
+      "summary": "Postiz submission safely deferred by the 15-minute minimum interval; no task accepted and no retry performed.",
+      "reason": "minimum_interval",
+      "selectedPackageIds": [
+        "pkg-20260912-bangercat-nvda-pairing"
+      ],
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
