@@ -1,55 +1,143 @@
 {
-  "generatedAt": "2026-09-12T17:31:13Z",
+  "generatedAt": "2026-09-12T17:47:07Z",
   "timezone": "Asia/Shanghai",
   "selectionPolicy": "hard source-age gate; newest fresh eligible first; engagement breaks timestamp ties; expired backlog is never republished",
   "items": [
     {
       "rank": 1,
-      "benchmarkPostId": "2098825890427797751",
+      "benchmarkPostId": "2098829700558631099",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
       "packageStatus": "unproduced",
-      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098825890427797751",
-      "originalText": "OpenAI is not going public in 2026  https://t.co/8OeRD0eIxI",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098829700558631099",
+      "originalText": "Sam Altman said OpenAI will have a \"impressive demo\" of a Humanoid Robot in 2027 https://t.co/TajpFNsCl1",
       "originalMediaUrls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2098825449199767552/img/xZFJoZuVLxe9iCAC.jpg"
+        "https://pbs.twimg.com/media/HSCKdqXXUAQDJnU.jpg"
       ],
       "archivedMedia": [
         {
-          "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098825449199767552/img/xZFJoZuVLxe9iCAC.jpg",
-          "path": "output/benchmark-media/StockMKTNewz/2098825890427797751-1.jpg",
+          "sourceUrl": "https://pbs.twimg.com/media/HSCKdqXXUAQDJnU.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098829700558631099-1.jpg",
           "status": "archived"
         }
       ],
       "engagement": {
-        "likes": 2,
-        "replies": 2,
-        "reposts": 0,
+        "likes": 15,
+        "replies": 5,
+        "reposts": 1,
         "quotes": 1,
-        "views": 5473
+        "views": 5516
       },
-      "postedAt": "Sat Sep 12 17:27:41 +0000 2026",
-      "score": 5653,
-      "heatScore": 5653,
+      "postedAt": "Sat Sep 12 17:42:49 +0000 2026",
+      "score": 6126,
+      "heatScore": 6126,
       "scoreBreakdown": {
         "freshness": 5,
-        "when2buyFit": 1,
+        "when2buyFit": 2,
         "marketImpact": 3,
         "visualPotential": 3,
-        "factualClarity": 3
+        "factualClarity": 4
       },
-      "editorialScore": 15,
+      "editorialScore": 17,
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 3.5,
-        "expiresAt": "2026-09-12T18:57:41Z",
+        "ageMinutes": 4.3,
+        "expiresAt": "2026-09-12T19:12:49Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
       "rank": 2,
+      "benchmarkPostId": "2098829379946082537",
+      "benchmarkAccount": "WhaleInsider",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/WhaleInsider/status/2098829379946082537",
+      "originalText": "JUST IN: $250,000,000 $USDC just minted at USDC Treasury. https://t.co/fmLU9P2EHl",
+      "originalMediaUrls": [
+        "https://pbs.twimg.com/media/HSCKMgxWoAER710.jpg",
+        "https://pbs.twimg.com/media/HSCKMhLasAEvX8Z.jpg"
+      ],
+      "archivedMedia": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCKMgxWoAER710.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098829379946082537-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCKMhLasAEvX8Z.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098829379946082537-2.jpg",
+          "status": "archived"
+        }
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 16,
+        "reposts": 11,
+        "quotes": 1,
+        "views": 11330
+      },
+      "postedAt": "Sat Sep 12 17:41:33 +0000 2026",
+      "score": 13320,
+      "heatScore": 13320,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      },
+      "editorialScore": 17,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 5.6,
+        "expiresAt": "2026-09-12T19:11:33Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 3,
+      "benchmarkPostId": "2098828384360861937",
+      "benchmarkAccount": "StockMKTNewz",
+      "packageId": null,
+      "packageStatus": "unproduced",
+      "benchmarkUrl": "https://x.com/StockMKTNewz/status/2098828384360861937",
+      "originalText": "SAM ALTMAN SAYS OPENAI HAS PAUSED TRAINING RUNS FOR SAFETY WORK AND WILL DO MORE OF IT\n\n\"We want to ensure that no one's taking the 10% risk, certainly not us, of something really terrible happening.\"",
+      "originalMediaUrls": [],
+      "archivedMedia": [],
+      "engagement": {
+        "likes": 18,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 9667
+      },
+      "postedAt": "Sat Sep 12 17:37:35 +0000 2026",
+      "score": 10327,
+      "heatScore": 10327,
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
+      },
+      "editorialScore": 18,
+      "freshness": {
+        "eligible": true,
+        "reason": "fresh",
+        "ageMinutes": 9.5,
+        "expiresAt": "2026-09-12T19:07:35Z",
+        "ttlMinutes": 90
+      },
+      "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
+    },
+    {
+      "rank": 4,
       "benchmarkPostId": "2098816733683298438",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": null,
@@ -87,14 +175,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 39.9,
+        "ageMinutes": 55.8,
         "expiresAt": "2026-09-12T18:21:18Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "benchmarkPostId": "2098814769964679425",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260912-openai-public-listing",
@@ -132,14 +220,14 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 47.7,
+        "ageMinutes": 63.6,
         "expiresAt": "2026-09-12T18:13:29Z",
         "ttlMinutes": 90
       },
       "productionInstruction": "Process in postedAt order. Keep the newest unpinned topic even when caption and media conflict; use the narrowest accurate event wording rather than selecting an older post. Make one original entity-led 1:1 when2buy visual and independently worded English X post; retain source mapping internally."
     },
     {
-      "rank": 4,
+      "rank": 6,
       "benchmarkPostId": "2098808300481483246",
       "benchmarkAccount": "StockMKTNewz",
       "packageId": "pkg-20260912-oracle-ellison-plan-cancelled",
@@ -169,7 +257,7 @@
       "freshness": {
         "eligible": true,
         "reason": "fresh",
-        "ageMinutes": 73.4,
+        "ageMinutes": 89.3,
         "expiresAt": "2026-09-12T17:47:47Z",
         "ttlMinutes": 90
       },

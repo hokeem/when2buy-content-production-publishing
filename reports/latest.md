@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T17:35:01.988096+00:00`
+- 状态更新：`2026-09-12T17:51:32.621038+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**657**
-- 待选选题：**579**
+- 对标帖子快照：**660**
+- 待选选题：**582**
 - 待发布制作包：**1**
-- 已验证发布：**257**
+- 已验证发布：**258**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @StockMKTNewz | Sat Sep 12 17:37:35 +0000 2026 | SAM ALTMAN SAYS OPENAI HAS PAUSED TRAINING RUNS FOR SAFETY WORK AND WILL DO MORE OF IT  "We want to ensure that no one's taking the 10% risk, certainly not us, of something really terrible happening." | [X](https://x.com/StockMKTNewz/status/2098828384360861937) |
+| @WhaleInsider | Sat Sep 12 17:41:33 +0000 2026 | JUST IN: $250,000,000 $USDC just minted at USDC Treasury. https://t.co/fmLU9P2EHl | [X](https://x.com/WhaleInsider/status/2098829379946082537) |
+| @StockMKTNewz | Sat Sep 12 17:42:49 +0000 2026 | Sam Altman said OpenAI will have a "impressive demo" of a Humanoid Robot in 2027 https://t.co/TajpFNsCl1 | [X](https://x.com/StockMKTNewz/status/2098829700558631099) |
 | @StockMKTNewz | Sat Sep 12 17:27:41 +0000 2026 | OpenAI is not going public in 2026  https://t.co/8OeRD0eIxI | [X](https://x.com/StockMKTNewz/status/2098825890427797751) |
 | @StockMKTNewz | Sat Sep 12 16:51:18 +0000 2026 | I fixed the famous photo https://t.co/wchFCEPGSz | [X](https://x.com/StockMKTNewz/status/2098816733683298438) |
 | @WhaleInsider | Sat Sep 12 16:56:49 +0000 2026 | JUST IN: Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development. https://t.co/py2zT1Al5f | [X](https://x.com/WhaleInsider/status/2098818125097583056) |
@@ -38,9 +41,6 @@
 | @WhaleInsider | Sat Sep 12 07:25:10 +0000 2026 | JUST IN: 🇺🇸 Goldman Sachs warns of rate hike next week. https://t.co/kraAilsbAI | [X](https://x.com/WhaleInsider/status/2098674263930593636) |
 | @WhaleInsider | Sat Sep 12 05:36:40 +0000 2026 | JUST IN: BlackRock ETF clients buy $148.82 million worth of $ETH. https://t.co/0WpYk9Sg5M | [X](https://x.com/WhaleInsider/status/2098646959653359712) |
 | @StockMKTNewz | Fri Sep 11 23:18:24 +0000 2026 | Anthropic is looking to go public at a valuation of $2 Trillion | [X](https://x.com/StockMKTNewz/status/2098551762961481832) |
-| @StockMKTNewz | Fri Sep 11 23:04:36 +0000 2026 | Nvidia $NVDA is reportedly considering investing up to $10 Billion into the Anthropic IPO | [X](https://x.com/StockMKTNewz/status/2098548293533929670) |
-| @StockMKTNewz | Fri Sep 11 21:11:06 +0000 2026 | SemiAnalysis has agreed to acquire Citrini Research from founder James Van Geelen  Van Geelen will stay on as the CEO of Citrini for now - Bloomberg https://t.co/64WF7lAS1g | [X](https://x.com/StockMKTNewz/status/2098519730105520465) |
-| @StockMKTNewz | Fri Sep 11 20:57:29 +0000 2026 | JPMORGAN CUT OFF SITUATIONAL AWARENESS LENDING AFTER AI LOSSES - Financial Times | [X](https://x.com/StockMKTNewz/status/2098516300498674037) |
 
 ## 选题推荐
 
@@ -260,6 +260,7 @@
 | 1 | JUST IN: OpenAI CEO Sam Altman just said that right now would be an "ill-advised" time to go… | StockMKTNewz | 5224 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | JUST IN: Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development… | WhaleInsider | 13055 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | OpenAI is not going public in 2026 https://t.co/8OeRD0eIxI | StockMKTNewz | 5653 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | Sam Altman said OpenAI will have a "impressive demo" of a Humanoid Robot in 2027 https://t.c… | StockMKTNewz | 6126 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -348,6 +349,7 @@
 | 2 | JUST IN: Solana flips Robinhood Chain in 24H DEX volume - DefiLlama. https://t.co/qOeAYbvWfX | WhaleInsider | 13419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | 3 out of Microsoft's $MSFT top 10 largest acquisitions in its history are for video game com… | StockMKTNewz | 9630 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | I fixed the famous photo https://t.co/wchFCEPGSz | StockMKTNewz | 10390 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | JUST IN: $250,000,000 $USDC just minted at USDC Treasury. https://t.co/fmLU9P2EHl | WhaleInsider | 13320 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -386,6 +388,7 @@
 | 3 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week Citi expects the Fed to … | StockMKTNewz | 9148 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | FUN FACT: Amazon’s first-ever dog was a corgi named Rufus. They later named their official A… | WhaleInsider | 18491 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: Traders speculate on potential LeBron James coin launch after Vlad Tenev followed h… | WhaleInsider | 17985 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | SAM ALTMAN SAYS OPENAI HAS PAUSED TRAINING RUNS FOR SAFETY WORK AND WILL DO MORE OF IT "We w… | StockMKTNewz | 10327 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3911,6 +3914,13 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 
 OpenAI CEO Sam Altman says now is an ill-advised time for the company to go public.  He is not looking to take OpenAI public in 2026.
 
+### OpenAI humanoid robot demo set for 2027
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-openai-humanoid-robot-demo/when2buy-image.png`
+
+OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.
+
 
 ## 已发内容（按最新浏览量排序）
 
@@ -4173,9 +4183,16 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
 | Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
 | OpenAI is not going public in 2026 | 2026-09-12T17:34:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098827679504138289) |
+| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 
 ## 最近运行
 
+- `2026-09-12T17:50:57Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T17:50:11Z` **produce / succeeded** — Produced newest fresh benchmark item with original factual copy and exact-logo square entity visual.
+- `2026-09-12T17:47:07Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T17:46:58Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T17:46:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 115 eligible originals and added 3 new post(s).
+- `2026-09-12T17:45:43Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T17:34:50Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
 - `2026-09-12T17:31:36Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
 - `2026-09-12T17:31:13Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4190,9 +4207,3 @@ OpenAI CEO Sam Altman says now is an ill-advised time for the company to go publ
 - `2026-09-12T17:03:32Z` **produce / succeeded** — Produced one newest fresh frontier-AI pacing package with a complete entity-led square visual and exact-logo composite.
 - `2026-09-12T17:01:50Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T17:01:33Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T17:01:27Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 2 new post(s).
-- `2026-09-12T16:48:56Z` **full / succeeded** — Newest OpenAI public-listing package was produced and safely deferred by the Postiz account limit; no accepted task was created. daily_limit
-- `2026-09-12T16:48:28Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
-- `2026-09-12T16:48:13Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
-- `2026-09-12T16:48:02Z` **produce / succeeded** — Produced one newest fresh OpenAI public-listing package with a complete entity-led square visual and exact-logo composite; publication deferred by delivery guard. delivery_guard_daily_limit
-- `2026-09-12T16:46:03Z` **queue / succeeded** — Prepared 4 fresh candidate(s); expired 0 unsent stale package(s).

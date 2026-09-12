@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T17:35:01.988096+00:00",
+  "updatedAt": "2026-09-12T17:51:32.621038+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -18123,6 +18123,88 @@
           "status": "archived"
         }
       ]
+    },
+    {
+      "id": "2098829700558631099",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098829700558631099",
+      "postedAt": "Sat Sep 12 17:42:49 +0000 2026",
+      "text": "Sam Altman said OpenAI will have a \"impressive demo\" of a Humanoid Robot in 2027 https://t.co/TajpFNsCl1",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSCKdqXXUAQDJnU.jpg"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 1,
+        "views": 5516
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T17:46:52Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCKdqXXUAQDJnU.jpg",
+          "path": "output/benchmark-media/StockMKTNewz/2098829700558631099-1.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098829379946082537",
+      "account": "WhaleInsider",
+      "url": "https://x.com/WhaleInsider/status/2098829379946082537",
+      "postedAt": "Sat Sep 12 17:41:33 +0000 2026",
+      "text": "JUST IN: $250,000,000 $USDC just minted at USDC Treasury. https://t.co/fmLU9P2EHl",
+      "mediaType": "media",
+      "mediaUrls": [
+        "https://pbs.twimg.com/media/HSCKMgxWoAER710.jpg",
+        "https://pbs.twimg.com/media/HSCKMhLasAEvX8Z.jpg"
+      ],
+      "engagement": {
+        "likes": 37,
+        "replies": 16,
+        "reposts": 11,
+        "quotes": 1,
+        "views": 11330
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T17:46:52Z",
+      "mediaArchive": [
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCKMgxWoAER710.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098829379946082537-1.jpg",
+          "status": "archived"
+        },
+        {
+          "sourceUrl": "https://pbs.twimg.com/media/HSCKMhLasAEvX8Z.jpg",
+          "path": "output/benchmark-media/WhaleInsider/2098829379946082537-2.jpg",
+          "status": "archived"
+        }
+      ]
+    },
+    {
+      "id": "2098828384360861937",
+      "account": "StockMKTNewz",
+      "url": "https://x.com/StockMKTNewz/status/2098828384360861937",
+      "postedAt": "Sat Sep 12 17:37:35 +0000 2026",
+      "text": "SAM ALTMAN SAYS OPENAI HAS PAUSED TRAINING RUNS FOR SAFETY WORK AND WILL DO MORE OF IT\n\n\"We want to ensure that no one's taking the 10% risk, certainly not us, of something really terrible happening.\"",
+      "mediaType": "text",
+      "mediaUrls": [],
+      "engagement": {
+        "likes": 18,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "views": 9667
+      },
+      "source": "apify",
+      "isPinned": false,
+      "capturedAt": "2026-09-12T17:46:52Z",
+      "mediaArchive": []
     }
   ],
   "radar": [
@@ -29127,6 +29209,63 @@
         "marketImpact": 3,
         "visualPotential": 3,
         "factualClarity": 3
+      }
+    },
+    {
+      "id": "radar-2098829700558631099",
+      "rank": 1,
+      "title": "Sam Altman said OpenAI will have a \"impressive demo\" of a Humanoid Robot in 2027 https://t.c…",
+      "benchmarkPostId": "2098829700558631099",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098829700558631099",
+      "score": 6126,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T17:46:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 2,
+        "marketImpact": 3,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098829379946082537",
+      "rank": 2,
+      "title": "JUST IN: $250,000,000 $USDC just minted at USDC Treasury. https://t.co/fmLU9P2EHl",
+      "benchmarkPostId": "2098829379946082537",
+      "sourceAccount": "WhaleInsider",
+      "sourcePostUrl": "https://x.com/WhaleInsider/status/2098829379946082537",
+      "score": 13320,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T17:46:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 0,
+        "marketImpact": 5,
+        "visualPotential": 3,
+        "factualClarity": 4
+      }
+    },
+    {
+      "id": "radar-2098828384360861937",
+      "rank": 3,
+      "title": "SAM ALTMAN SAYS OPENAI HAS PAUSED TRAINING RUNS FOR SAFETY WORK AND WILL DO MORE OF IT \"We w…",
+      "benchmarkPostId": "2098828384360861937",
+      "sourceAccount": "StockMKTNewz",
+      "sourcePostUrl": "https://x.com/StockMKTNewz/status/2098828384360861937",
+      "score": 10327,
+      "whyNow": "Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post.",
+      "status": "queued",
+      "createdAt": "2026-09-12T17:46:58Z",
+      "scoreBreakdown": {
+        "freshness": 5,
+        "when2buyFit": 1,
+        "marketImpact": 3,
+        "visualPotential": 5,
+        "factualClarity": 4
       }
     }
   ],
@@ -43461,6 +43600,50 @@
       "deliveryState": "PUBLISHED",
       "deliveryCheckedAt": "2026-09-12T17:34:50Z",
       "publishedAt": "2026-09-12T17:34:00.000Z"
+    },
+    {
+      "id": "pkg-20260912-openai-humanoid-robot-demo",
+      "benchmarkPostId": "2098829700558631099",
+      "benchmarkPostUrl": "https://x.com/StockMKTNewz/status/2098829700558631099",
+      "title": "OpenAI humanoid robot demo set for 2027",
+      "status": "published",
+      "postText": "OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.",
+      "mirroredFacts": [
+        "Sam Altman said OpenAI will have an impressive demo of a humanoid robot in 2027."
+      ],
+      "verificationSources": [
+        "https://x.com/StockMKTNewz/status/2098829700558631099",
+        "https://blog.samaltman.com/the-gentle-singularity"
+      ],
+      "imagePath": "deliverables/pkg-20260912-openai-humanoid-robot-demo/when2buy-image.png",
+      "createdAt": "2026-09-12T17:50:11Z",
+      "sourceExpiresAt": "2026-09-12T19:12:49Z",
+      "visualProduction": {
+        "method": "image_model",
+        "prompt": "Complete square 1:1 entity-led cinematic realistic humanoid robot prototype in a near-black AI robotics laboratory at night, beside AI compute racks and a glass research campus; robot dominant center-right, clean upper-left negative space, cool blue-white light and one restrained red accent; no readable text, logos, watermark, attribution, disclaimer, commentary, CTA, tagline, hashtags, pure-text card, or generic radar background; exact repository logo composited once afterward.",
+        "logoApplied": true,
+        "logoPath": "skills/when2buy-content-publisher/assets/when2buy-logo-reference.png",
+        "logoCount": 1,
+        "canvas": "1254x1254",
+        "qaStatus": "passed",
+        "qa": {
+          "inspectedAt": "2026-09-12T17:50:11Z",
+          "result": "passed",
+          "checks": [
+            "square 1:1 1254x1254 PNG",
+            "complete humanoid-robot entity-led scene",
+            "exact repository logo composited once",
+            "headline and 2027 fact proofread",
+            "no source, attribution, disclaimer, commentary, CTA, tagline, hashtags, or watermark",
+            "not a pure-text card or generic-radar visual"
+          ]
+        }
+      },
+      "postizPostId": "cmtyoktsy1dl4qk0yiew7pve6",
+      "postizSubmissionAt": "2026-09-12T17:50:30Z",
+      "deliveryState": "PUBLISHED",
+      "deliveryCheckedAt": "2026-09-12T17:50:57Z",
+      "publishedAt": "2026-09-12T17:50:00.000Z"
     }
   ],
   "posts": [
@@ -48292,6 +48475,24 @@
         "windowStart": "2026-09-12T17:34:00Z",
         "windowEnd": "2026-09-15T17:34:00Z",
         "lastAttemptAt": "2026-09-12T17:35:01.664354Z",
+        "lastAttemptSource": "Postiz public API",
+        "lastAttemptResult": "metrics captured from Postiz public API"
+      }
+    },
+    {
+      "id": "2098831736620912937",
+      "packageId": "pkg-20260912-openai-humanoid-robot-demo",
+      "title": "OpenAI humanoid robot demo set for 2027",
+      "text": "OpenAI will have an impressive humanoid-robot demo in 2027, Sam Altman says.",
+      "status": "published",
+      "publishedAt": "2026-09-12T17:50:00.000Z",
+      "url": "https://x.com/_When2buy/status/2098831736620912937",
+      "postizPostId": "cmtyoktsy1dl4qk0yiew7pve6",
+      "metricsTracking": {
+        "status": "active",
+        "windowStart": "2026-09-12T17:50:00Z",
+        "windowEnd": "2026-09-15T17:50:00Z",
+        "lastAttemptAt": "2026-09-12T17:51:32.274961Z",
         "lastAttemptSource": "Postiz public API",
         "lastAttemptResult": "metrics captured from Postiz public API"
       }
@@ -418251,6 +418452,48 @@
         "result": "analytics labels mapped to dashboard fields",
         "checkedAt": "2026-09-12T17:35:01.664354Z"
       }
+    },
+    {
+      "id": "metric-2098831736620912937-20260912T175132Z",
+      "postId": "2098831736620912937",
+      "observedAt": "2026-09-12T17:51:32.274961Z",
+      "views": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "evidence": {
+        "source": "Postiz public API",
+        "endpoint": "/analytics/post/cmtyoktsy1dl4qk0yiew7pve6",
+        "query": {
+          "date": 1
+        },
+        "postizPostId": "cmtyoktsy1dl4qk0yiew7pve6",
+        "fieldMap": {
+          "views": {
+            "sourceLabel": "Impressions",
+            "analyticsDate": "2026-09-12"
+          },
+          "likes": {
+            "sourceLabel": "Likes",
+            "analyticsDate": "2026-09-12"
+          },
+          "reposts": {
+            "sourceLabel": "Retweets",
+            "analyticsDate": "2026-09-12"
+          },
+          "replies": {
+            "sourceLabel": "Replies",
+            "analyticsDate": "2026-09-12"
+          },
+          "bookmarks": {
+            "sourceLabel": "Bookmarks",
+            "analyticsDate": "2026-09-12"
+          }
+        },
+        "result": "analytics labels mapped to dashboard fields",
+        "checkedAt": "2026-09-12T17:51:32.274961Z"
+      }
     }
   ],
   "experiments": [],
@@ -442920,6 +443163,67 @@
       "status": "succeeded",
       "startedAt": "2026-09-12T17:34:50Z",
       "completedAt": "2026-09-12T17:34:50Z",
+      "summary": "Published through Postiz and verified a public X release URL.",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T174543Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:45:43Z",
+      "completedAt": "2026-09-12T17:45:43Z",
+      "summary": "Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T174652Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:46:52Z",
+      "completedAt": "2026-09-12T17:46:52Z",
+      "summary": "Apify scanned both benchmark accounts; captured 115 eligible originals and added 3 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260912T174658Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:46:58Z",
+      "completedAt": "2026-09-12T17:46:58Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T174707Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:47:07Z",
+      "completedAt": "2026-09-12T17:47:07Z",
+      "summary": "Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260912T175011Z-produce",
+      "mode": "produce",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:50:11Z",
+      "completedAt": "2026-09-12T17:50:11Z",
+      "summary": "Produced newest fresh benchmark item with original factual copy and exact-logo square entity visual.",
+      "reason": "",
+      "selectedPackageIds": [
+        "pkg-20260912-openai-humanoid-robot-demo"
+      ]
+    },
+    {
+      "id": "run-20260912T175057Z-publish",
+      "mode": "publish",
+      "status": "succeeded",
+      "startedAt": "2026-09-12T17:50:57Z",
+      "completedAt": "2026-09-12T17:50:57Z",
       "summary": "Published through Postiz and verified a public X release URL.",
       "reason": ""
     }
