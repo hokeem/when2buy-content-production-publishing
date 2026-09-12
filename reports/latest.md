@@ -1,16 +1,19 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T13:47:24.597798+00:00`
+- 状态更新：`2026-09-12T14:04:50.050906+00:00`
 - X 账号：`@_When2buy`
-- 对标帖子快照：**643**
-- 待选选题：**565**
-- 待发布制作包：**1**
-- 已验证发布：**250**
+- 对标帖子快照：**646**
+- 待选选题：**568**
+- 待发布制作包：**0**
+- 已验证发布：**251**
 
 ## 对标账号扫描
 
 | 账号 | 时间 | 内容 | URL |
 |---|---|---|---|
+| @WhaleInsider | Sat Sep 12 13:50:19 +0000 2026 | JUST IN: Traders speculate on potential LeBron James coin launch after Vlad Tenev followed him on X. https://t.co/O2gZklp7r0 | [X](https://x.com/WhaleInsider/status/2098771189644533915) |
+| @StockMKTNewz | Sat Sep 12 13:50:21 +0000 2026 | 3 out of Microsoft's $MSFT top 10 largest acquisitions in its history are for video game companies  - Activision Blizzard for $75.4B in 2022 - Zenimax Media for $8.1B in 2020 - Mojang Studios for $2.5B in 2014 | [X](https://x.com/StockMKTNewz/status/2098771198326771884) |
+| @WhaleInsider | Sat Sep 12 13:59:08 +0000 2026 | JUST IN: Robinhood Chain $HOOD hit a new all-time high of $531 million in daily perps volume yesterday. https://t.co/4Nmlxs0afO | [X](https://x.com/WhaleInsider/status/2098773406279684318) |
 | @StockMKTNewz | Sat Sep 12 13:27:14 +0000 2026 | The top 10 largest stocks in the world are now worth a combined $29.97 Trillion up from $29.95T last week https://t.co/Pz29xa56jh | [X](https://x.com/StockMKTNewz/status/2098765380625875341) |
 | @StockMKTNewz | Sat Sep 12 12:58:43 +0000 2026 | This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb | [X](https://x.com/StockMKTNewz/status/2098758203030802691) |
 | @StockMKTNewz | Sat Sep 12 12:10:22 +0000 2026 | ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK  - Jpmorgan - Bank of America  - Goldman Sachs - Citi - Morgan Stanley - Wells Fargo - Barclays - Deutsche - Nomura - Piper Sandler - TD - UBS - RBC - HSBC https://t.co/MfnE7Fanec | [X](https://x.com/StockMKTNewz/status/2098746035497517074) |
@@ -38,9 +41,6 @@
 | @StockMKTNewz | Fri Sep 11 19:13:30 +0000 2026 | 🇺🇸 President Trump just reiterated that the $5,000 payments to all United States 🇺🇸 adults will happen https://t.co/i2U8d3xIat | [X](https://x.com/StockMKTNewz/status/2098490133007753576) |
 | @WhaleInsider | Fri Sep 11 19:15:43 +0000 2026 | JUST IN: 🇺🇸 Citi now expects Kevin Warsh and the Fed to raise rates next week. https://t.co/Q934niMGTj | [X](https://x.com/WhaleInsider/status/2098490691844206770) |
 | @StockMKTNewz | Fri Sep 11 18:57:47 +0000 2026 | Here are the Invesco ETFs outperforming the Invesco QQQ Trust $QQQ so far in 2026   There are 49 names on the list below, more than I would have though | [X](https://x.com/StockMKTNewz/status/2098486176764056032) |
-| @WhaleInsider | Fri Sep 11 18:22:54 +0000 2026 | FUN FACT: The name of the famous stonk mascot is called ‘Meme Man’. https://t.co/ubaEpljz9s | [X](https://x.com/WhaleInsider/status/2098477399683781099) |
-| @StockMKTNewz | Fri Sep 11 18:26:23 +0000 2026 | JPMorgan now thinks we get 2 rate hikes from the Fed in 2026 | [X](https://x.com/StockMKTNewz/status/2098478277132169552) |
-| @WhaleInsider | Fri Sep 11 18:07:11 +0000 2026 | JUST IN: 🇺🇸 Howard Lutnick told NBC on Thursday that $5,000 payments will not depend on tax dollars but on an attempt to "earn" funds. https://t.co/Y9zCMjRGP8 | [X](https://x.com/WhaleInsider/status/2098473442752278666) |
 
 ## 选题推荐
 
@@ -249,6 +249,7 @@
 | 1 | Oracle $ORCL founder Larry Ellison has entered into a new trading plan that would allow him … | StockMKTNewz | 8348 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | Japan’s 🇯🇵 era of interest rates being around 0% seems to have come to an end https://t.co/M… | StockMKTNewz | 4840 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 1 | This is what $2.9 Million looks like in the Flint, Michigan area https://t.co/pFBF5HUsSb | StockMKTNewz | 5167 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 1 | JUST IN: Robinhood Chain $HOOD hit a new all-time high of $531 million in daily perps volume… | WhaleInsider | 11030 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | A RATE HIKE IS CURRENTLY THE MOST LIKELY OUTCOME FOR SEPTEMBER There is now a 55% chance tha… | StockMKTNewz | 20 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | JUST IN: The official Roblox X account replied to the $ROBLOXIANS team - marking the first R… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 2 | MOONSHOT AI FILES CONFIDENTIALLY FOR HONG KONG IPO Chinese AI startup Moonshot, developer of… | StockMKTNewz | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -335,6 +336,7 @@
 | 2 | A bunch of huge banks have been in talks with Anthropic to help manage the incoming wealth f… | StockMKTNewz | 8323 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | Rocket Lab $RKLB just posted this: "Rocket Lab has filed a formal protest with the Governmen… | StockMKTNewz | 9988 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 2 | JUST IN: Solana flips Robinhood Chain in 24H DEX volume - DefiLlama. https://t.co/qOeAYbvWfX | WhaleInsider | 13419 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 2 | 3 out of Microsoft's $MSFT top 10 largest acquisitions in its history are for video game com… | StockMKTNewz | 9630 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | JUST IN: CK Zheng, former Credit Suisse global head of valuation risk, says Bitcoin’s worst … | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | FORD IS TARGETING MORE THAN 100,000 SALES IN YEAR ONE FOR ITS NEW ELECTRIC TRUCK The truck c… | StockMKTNewz | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 3 | JUST IN: 🇨🇳 Chinese AI startup Moonshot confidentially files for Hong Kong IPO and is target… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -372,6 +374,7 @@
 | 3 | Leopold Aschenbrenner right now https://t.co/CdB351ArJY | StockMKTNewz | 15705 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | Citi now expect Kevin Warsh and the 🇺🇸 Fed to RAISE RATES next week Citi expects the Fed to … | StockMKTNewz | 9148 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 3 | FUN FACT: Amazon’s first-ever dog was a corgi named Rufus. They later named their official A… | WhaleInsider | 18491 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
+| 3 | JUST IN: Traders speculate on potential LeBron James coin launch after Vlad Tenev followed h… | WhaleInsider | 17985 | Newest eligible unpinned benchmark signal; if caption and media conflict, keep this topic and use the narrowest accurate wording instead of skipping to an older post. |
 | 4 | JUST IN: PumpFun sends 132.94K $SOL ($13.74M) to Kraken, likely to sell - Onchain Lens. http… | WhaleInsider | 19 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: $PANDA is the first Robinhood coin to distribute Coinbase stock $COIN to its holder… | WhaleInsider | 18 | Fresh benchmark signal; verify the primary source before writing. |
 | 4 | JUST IN: Robinhood Chain $HOOD generates over $4 million in 24H revenue, beating all major c… | WhaleInsider | 21 | Fresh benchmark signal; verify the primary source before writing. |
@@ -3808,7 +3811,7 @@ Larry Ellison's new trading plan permits selling up to 50M $ORCL shares.  The st
 
 ### Japan moves beyond near-zero rates
 
-- 状态：`ready`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260912-japan-rate-regime/when2buy-image.png`
 
 Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is now 1.0%.
@@ -3819,6 +3822,13 @@ Japan's near-zero interest-rate era is over.  The Bank of Japan's policy rate is
 - 配图：`deliverables/pkg-20260912-flint-29m-home/when2buy-image.png`
 
 This is what a $2.9M home looks like in the Flint, Michigan area.
+
+### Robinhood Chain record perps volume
+
+- 状态：`published`
+- 配图：`deliverables/pkg-20260912-robinhood-chain-perps/when2buy-image.png`
+
+Robinhood Chain $HOOD hit a new all-time high of $531M in daily perps volume yesterday.
 
 
 ## 已发内容（按最新浏览量排序）
@@ -4075,9 +4085,14 @@ This is what a $2.9M home looks like in the Flint, Michigan area.
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
 | $420,000 investment horizon to 2036 | 2026-09-11T17:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098464949123305478) |
 | U.S. federal budget deficit reaches $1.97T | 2026-09-11T20:05:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098503272248279382) |
+| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 待抓取 | — | — | — | [X](https://x.com/_When2buy/status/2098774824114114765) |
 
 ## 最近运行
 
+- `2026-09-12T14:04:50Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
+- `2026-09-12T14:04:01Z` **produce / succeeded** — Produced one newest fresh Robinhood Chain package with a complete entity-led square visual and one exact-logo composite.
+- `2026-09-12T14:01:14Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 1 unsent stale package(s).
+- `2026-09-12T14:00:59Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 3 new post(s).
 - `2026-09-12T13:46:58Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T13:46:45Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 118 eligible originals and added 0 new post(s).
 - `2026-09-12T13:45:29Z` **queue / succeeded** — Prepared 3 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4094,7 +4109,3 @@ This is what a $2.9M home looks like in the Flint, Michigan area.
 - `2026-09-12T13:00:53Z` **queue / succeeded** — Prepared 5 fresh candidate(s); expired 1 unsent stale package(s).
 - `2026-09-12T12:47:29Z` **full / succeeded** — Freshest Japan rate-regime package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z
 - `2026-09-12T12:46:07Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T12:46:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 9 eligible originals and added 0 new post(s).
-- `2026-09-12T12:35:23Z` **full / succeeded** — Newest Japan-rate package was safely deferred before submission because the rolling 24-hour Postiz limit was exhausted; no accepted task was created and no retry is permitted. daily_limit; retryAt 2026-09-12T13:19:26Z
-- `2026-09-12T12:34:26Z` **produce / succeeded** — Produced one newest fresh Japan-rate package with an inspected entity-led image and exact-logo composite.
-- `2026-09-12T12:32:29Z` **queue / succeeded** — Prepared 6 fresh candidate(s); expired 0 unsent stale package(s).
