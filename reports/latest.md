@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T00:47:22.228266+00:00`
+- 状态更新：`2026-09-12T00:48:49.736651+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**631**
 - 待选选题：**554**
@@ -4006,6 +4006,8 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 
 ## 最近运行
 
+- `2026-09-12T00:48:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T00:48:01Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 6 eligible originals and added 0 new post(s).
 - `2026-09-12T00:47:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T00:46:48Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T00:45:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4024,5 +4026,3 @@ Anthropic is reportedly targeting a $2 trillion valuation for a future IPO.
 - `2026-09-11T23:32:09Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-11T23:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 1 new post(s).
 - `2026-09-11T23:20:10Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-11T23:19:22.778471+00:00` **produce / succeeded** — Produced one newest fresh Nvidia/Anthropic package with verified facts and an exact-logo square visual.
-- `2026-09-11T23:17:12Z` **queue / succeeded** — Prepared 1 fresh candidate(s); expired 0 unsent stale package(s).
