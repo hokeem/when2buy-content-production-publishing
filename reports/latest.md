@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T09:02:06.591553+00:00`
+- 状态更新：`2026-09-12T09:17:30.473890+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**634**
 - 待选选题：**557**
@@ -4033,6 +4033,8 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 
 ## 最近运行
 
+- `2026-09-12T09:17:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-12T09:15:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:01:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T09:01:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T08:50:08Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
@@ -4051,5 +4053,3 @@ Kalshi-implied odds of a Federal Reserve rate hike this month surged to 81%.
 - `2026-09-12T07:47:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T07:47:23Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
 - `2026-09-12T07:47:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 10 eligible originals and added 0 new post(s).
-- `2026-09-12T07:34:15Z` **publish / succeeded** — Published through Postiz and verified a public X release URL.
-- `2026-09-12T07:33:24Z` **produce / succeeded** — Produced one fresh Goldman/Fed package with a complete square entity-led visual and exact-logo compositing.
