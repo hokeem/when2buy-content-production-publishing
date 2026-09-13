@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T10:46:22.479588+00:00`
+- 状态更新：`2026-09-13T11:01:47.247584+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4122,6 +4122,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
+| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -4139,7 +4140,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
 | Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
 | Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098458731663245381) |
-| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
 | SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
@@ -4257,6 +4257,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T11:01:37Z` **full / blocked** — Metrics refreshed; the mandated Apify scan for @WhaleInsider and @StockMKTNewz was rejected before collection by the monthly usage hard limit, so no fresh item was eligible for production or publication. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T10:46:22Z` **full / blocked** — Postiz reconciliation, Apify benchmark scan, media archive, package reconciliation, and hard-TTL queue rebuild completed; no fresh item was processed because Apify rejected the scan at its provider usage limit. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T10:45:51Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T10:30:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4276,4 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T09:00:55Z` **full / partial** — Preflight, state validation, and 72-hour Postiz reconciliation passed; the required Apify scan was blocked before new benchmark data could be collected. Apify HTTP 403: platform-feature-disabled / Monthly usage hard limit exceeded. No new originals collected, no media archived, no queue item produced, and no Postiz submission made.
 - `2026-09-13T08:46:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T08:32:09Z` **full / partial** — Required Apify collection for @WhaleInsider and @StockMKTNewz was blocked by the provider monthly usage hard limit; no new source was admitted, no media was archived, and no publication was attempted. apify_monthly_usage_hard_limit
-- `2026-09-13T08:30:50Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
