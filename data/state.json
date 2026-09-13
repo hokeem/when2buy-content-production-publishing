@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T14:32:42.653902+00:00",
+  "updatedAt": "2026-09-13T14:46:27.613950+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -499914,6 +499914,36 @@
       "outcome": "blocked",
       "recoverable": true,
       "nextAction": "Retry benchmark collection on the next scheduled run after Apify quota is available."
+    },
+    {
+      "id": "run-20260913T144544Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T14:45:44Z",
+      "completedAt": "2026-09-13T14:45:44Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T144605Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T14:46:05Z",
+      "completedAt": "2026-09-13T14:46:05Z",
+      "summary": "Reconciled Postiz and completed preflight, but the required Apify scan was blocked before fresh benchmark collection.",
+      "reason": "Apify returned platform-feature-disabled: Monthly usage hard limit exceeded for @WhaleInsider; no source substitution, backlog publish, or retry was performed.",
+      "nextAction": "Retry the next scheduled run when Apify access is available; begin with fresh scans and keep the hard 90-minute TTL.",
+      "selectedPackageId": null,
+      "outcome": "deferred"
+    },
+    {
+      "id": "run-20260913T144627Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T14:46:27Z",
+      "completedAt": "2026-09-13T14:46:27Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
