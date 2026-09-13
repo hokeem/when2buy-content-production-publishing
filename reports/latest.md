@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T18:46:49.052786+00:00`
+- 状态更新：`2026-09-13T19:02:15.093147+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4200,6 +4200,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Robinhood Chain tokenized stocks reach $160M | 2026-09-09T08:53:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097609478095110200) |
 | Global data-center capex could reach $31.6T | 2026-09-09T12:16:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660614202257592) |
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
+| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
 | Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
@@ -4215,7 +4216,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Interest-rate target | 2026-09-07T07:54:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096869885339132326) |
 | Foldable dual-screen trading | 2026-09-09T23:12:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097825543597256803) |
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
-| Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
 | Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098766721083650170) |
@@ -4227,6 +4227,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
+| AI data-center buildout accelerates | 2026-09-12T20:18:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098868980626964677) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -4239,7 +4240,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
 | Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098782483789824319) |
 | Tokenized stocks on Base hit a new daily DEX volume high | 2026-09-12T19:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098857934738628843) |
-| AI data-center buildout accelerates | 2026-09-12T20:18:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098868980626964677) |
 | Tilman Fertitta selling 252-foot yacht for $192M | 2026-09-12T21:18:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098884173159346414) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T19:02:00Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
+- `2026-09-13T19:01:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T19:01:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T18:46:48Z` **full / partial** — Preflight, Postiz reconciliation, Apify collection attempt, package reconciliation, and hard-TTL queue rebuild completed; no publication attempted. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No new benchmark scan completed; no fresh unproduced item was available in durable state.
 - `2026-09-13T18:46:37Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T18:45:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T17:30:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T17:16:16Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
 - `2026-09-13T17:16:16Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T17:01:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T17:01:40Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
-- `2026-09-13T17:01:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
