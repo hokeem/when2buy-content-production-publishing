@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T17:02:25.299672+00:00`
+- 状态更新：`2026-09-13T17:16:34.621162+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,8 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T17:16:16Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
+- `2026-09-13T17:16:16Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T17:01:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T17:01:40Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
 - `2026-09-13T17:01:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4275,5 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T15:31:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T15:16:00Z` **full / blocked** — Preflight, state validation, Postiz reconciliation, package reconciliation, TTL queue rebuild, security scan, and report rendering passed; Apify collection was blocked by HTTP 403 monthly usage hard limit exceeded. apify_monthly_usage_hard_limit_exceeded; no new benchmark originals collected; no cached or stale item substituted; no production or publication attempted
 - `2026-09-13T15:15:58Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T15:15:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T15:00:42Z` **full / blocked** — Preflight, state validation, and 72-hour Postiz reconciliation passed; the mandatory Apify scan could not collect either benchmark feed because the provider returned HTTP 403 monthly usage hard limit exceeded. No new benchmark originals were collected. No cached or stale item was substituted; no queue rebuild, production, or publication was attempted. Next scheduled run can resume after Apify access recovers.
