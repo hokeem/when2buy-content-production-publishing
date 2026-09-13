@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T10:16:28.154078+00:00",
+  "updatedAt": "2026-09-13T10:30:55.520507+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -489422,6 +489422,15 @@
       "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; recover on next scheduled run.",
       "outcome": "blocked_before_selection",
       "metrics": "already completed on the first run of the current UTC hour; no additional collection required"
+    },
+    {
+      "id": "run-20260913T103055Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T10:30:55Z",
+      "completedAt": "2026-09-13T10:30:55Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
