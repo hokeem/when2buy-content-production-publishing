@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T01:17:47.777346+00:00`
+- 状态更新：`2026-09-13T01:31:28.568400+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,8 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T01:31:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T01:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
 - `2026-09-13T01:17:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T01:17:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 31 eligible originals and added 0 new post(s).
 - `2026-09-13T01:16:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 31 eligible originals and added 0 new post(s).
@@ -4275,5 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T00:01:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T00:01:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 48 eligible originals and added 0 new post(s).
 - `2026-09-13T00:00:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T23:46:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T23:46:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
