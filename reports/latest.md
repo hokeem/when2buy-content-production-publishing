@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T00:47:34.369333+00:00`
+- 状态更新：`2026-09-13T01:02:18.037160+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4104,6 +4104,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
 | Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
+| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -4111,7 +4112,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Howard Lutnick disclosed $250M+ income | 2026-09-07T08:33:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879675360620883) |
 | Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
 | Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
-| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
@@ -4121,6 +4121,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
+| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -4128,7 +4129,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Ethereum bridged to Robinhood Chain tops $700M | 2026-09-08T07:30:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097226225660158456) |
 | ETH ETFs record $24.29M in inflows | 2026-09-09T07:39:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097590718340771958) |
 | Whole Foods store workers average more than $21 an hour | 2026-09-10T17:48:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098106569653473354) |
-| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | This is what $3.3 Million gets you less than 2 hours away from New York City A Pyramid house on an i | 2026-09-04T04:31:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731588999131275) |
 | Apple gains more than 10x in a decade | 2026-09-07T05:34:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834524735013203) |
 | Robinhood Chain leads weekly fees | 2026-09-07T06:16:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845250576977938) |
@@ -4257,6 +4257,8 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T01:01:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T01:01:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
 - `2026-09-13T00:47:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T00:46:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-13T00:33:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4275,5 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-12T23:33:36Z` **full / partial** — Bounded Apify benchmark scan timed out before a new radar record was accepted; existing queue had no fresh candidate, no production or Postiz submission was attempted, and state is recoverable for the next scheduled run. apify_timeout
 - `2026-09-12T23:31:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T23:16:20Z` **full / succeeded** — Preflight and validation passed; Postiz reconciliation, Apify collection, benchmark-media archive, hard 90-minute queue rebuild, hourly metrics, security validation, reports, and fixed report-slug sync completed. No fresh eligible item remained, so no content was produced or published. no_fresh_eligible_item
-- `2026-09-12T23:16:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T23:16:40Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
