@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T11:16:03.921824+00:00",
+  "updatedAt": "2026-09-13T11:31:45.666644+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -492045,6 +492045,34 @@
       "reason": "apify_monthly_usage_hard_limit_exceeded",
       "outcome": "deferred",
       "selectedPackageId": null
+    },
+    {
+      "id": "run-20260913T113047Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T11:30:47Z",
+      "completedAt": "2026-09-13T11:30:47Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T113108Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T11:31:08Z",
+      "completedAt": "2026-09-13T11:31:08Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T113055Z-full-apify-blocked",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T11:30:55+00:00",
+      "completedAt": "2026-09-13T11:31:30+00:00",
+      "summary": "Preflight, Postiz reconciliation, state validation, Apify scan attempt, media archive, package reconciliation, hard 90-minute TTL queue rebuild, security validation, and reporting completed; no publication was attempted.",
+      "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No new eligible benchmark posts were collected; production queue was empty.",
+      "selectedPackageIds": []
     }
   ],
   "deliveryCircuitBreaker": {
