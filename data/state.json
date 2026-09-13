@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T08:46:22.291873+00:00",
+  "updatedAt": "2026-09-13T09:01:11.002313+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -486717,6 +486717,23 @@
       "completedAt": "2026-09-13T08:46:22Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260913T090055Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T09:00:55Z",
+      "completedAt": "2026-09-13T09:00:55Z",
+      "summary": "Preflight, state validation, and 72-hour Postiz reconciliation passed; the required Apify scan was blocked before new benchmark data could be collected.",
+      "reason": "Apify HTTP 403: platform-feature-disabled / Monthly usage hard limit exceeded. No new originals collected, no media archived, no queue item produced, and no Postiz submission made.",
+      "outcome": "recoverable",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ]
+      }
     }
   ],
   "deliveryCircuitBreaker": {
