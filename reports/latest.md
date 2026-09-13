@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T12:31:29.977470+00:00`
+- 状态更新：`2026-09-13T12:46:32.279414+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T12:46:14Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and hard-TTL queue rebuild completed; Apify benchmark collection was blocked before any new source or package could be created. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No production or Postiz submission was attempted.
+- `2026-09-13T12:46:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T12:45:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T12:31:29Z` **full / partial** — Freshness-first run completed Postiz reconciliation, attempted both benchmark feeds, archived media, reconciled package statuses, and rebuilt the hard-90-minute queue; no publication attempted. Apify HTTP 403 platform-feature-disabled: monthly usage hard limit exceeded; next run should retry collection.
 - `2026-09-13T12:30:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T12:16:17Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T11:16:03Z` **full / blocked** — Preflight and Postiz reconciliation passed; the mandated Apify scan for @WhaleInsider and @StockMKTNewz was rejected before collection by the monthly usage hard limit, so the rebuilt hard-90-minute queue had no fresh candidate and no publication was attempted. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T11:15:50Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T11:01:37Z` **full / blocked** — Metrics refreshed; the mandated Apify scan for @WhaleInsider and @StockMKTNewz was rejected before collection by the monthly usage hard limit, so no fresh item was eligible for production or publication. apify_monthly_usage_hard_limit_exceeded
-- `2026-09-13T10:46:22Z` **full / blocked** — Postiz reconciliation, Apify benchmark scan, media archive, package reconciliation, and hard-TTL queue rebuild completed; no fresh item was processed because Apify rejected the scan at its provider usage limit. apify_monthly_usage_hard_limit_exceeded
-- `2026-09-13T10:45:51Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T10:30:55Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

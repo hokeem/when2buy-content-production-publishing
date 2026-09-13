@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T12:31:29.977470+00:00",
+  "updatedAt": "2026-09-13T12:46:32.279414+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -494738,6 +494738,35 @@
       "reason": "Apify HTTP 403 platform-feature-disabled: monthly usage hard limit exceeded; next run should retry collection.",
       "outcome": "blocked_external_collection",
       "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260913T124534Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T12:45:34Z",
+      "completedAt": "2026-09-13T12:45:34Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T124631Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T12:46:31Z",
+      "completedAt": "2026-09-13T12:46:31Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T124614Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T12:46:14Z",
+      "completedAt": "2026-09-13T12:46:14Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, and hard-TTL queue rebuild completed; Apify benchmark collection was blocked before any new source or package could be created.",
+      "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No production or Postiz submission was attempted.",
+      "selectedPackageIds": [],
+      "outcome": "blocked"
     }
   ],
   "deliveryCircuitBreaker": {
