@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T16:31:26.431930+00:00",
+  "updatedAt": "2026-09-13T16:46:21.626276+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -504895,6 +504895,33 @@
       "status": "partial",
       "startedAt": "2026-09-13T16:31:10Z",
       "completedAt": "2026-09-13T16:31:10Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write.",
+      "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.",
+      "selectedPackageIds": [],
+      "collection": {
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked",
+        "error": "HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded"
+      }
+    },
+    {
+      "id": "run-20260913T164614Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T16:46:14Z",
+      "completedAt": "2026-09-13T16:46:14Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T164621Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T16:46:21Z",
+      "completedAt": "2026-09-13T16:46:21Z",
       "summary": "Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write.",
       "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.",
       "selectedPackageIds": [],
