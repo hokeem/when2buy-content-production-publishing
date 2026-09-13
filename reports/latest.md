@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T04:46:28.678927+00:00`
+- 状态更新：`2026-09-13T05:02:00.609523+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4112,6 +4112,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Howard Lutnick disclosed $250M+ income | 2026-09-07T08:33:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879675360620883) |
 | Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
 | Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
+| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
@@ -4121,7 +4122,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Fed hike odds near 55% | 2026-09-09T10:41:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097636596166336949) |
 | India FIU notices 15 crypto platforms | 2026-09-09T10:43:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097637139089703163) |
 | Robinhood Chain leads tokenized equity volume | 2026-09-09T14:31:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694447798722955) |
-| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | SEC crypto-assets proposal: Atkins remarks reported | 2026-09-03T08:24:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095427724378767851) |
 | This is what $5.35 Million gets you in Cleveland Ohio | 2026-09-04T06:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095764914346598739) |
 | This is my 2nd largest ETF holding ... What do you think? | 2026-09-07T00:44:00.000Z | 10 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761466556932161) |
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T05:02:00Z` **full / partial** — Postiz reconciliation, hourly metrics, hard-TTL queue rebuild, validation, and report rendering completed; no fresh item was processed. Apify collection for @WhaleInsider failed with HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No stale source or backlog was substituted; no image or Postiz submission was made.
+- `2026-09-13T05:01:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T05:00:29Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T04:46:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T04:31:21Z` **full / partial** — Freshness run safely stopped after Apify collection was blocked by the provider monthly usage hard limit; no item selected or published. TTL queue rebuilt with 0 fresh candidates. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded.
 - `2026-09-13T04:31:04Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T03:30:41Z` **produce / succeeded** — Produced the first five timestamp-first packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-13T03:16:40Z` **full / partial** — Preflight, 72-hour Postiz reconciliation, Apify attempt, media archive, package-status reconciliation, hard-TTL queue rebuild, validation, security, and reports completed; no fresh item was selected or published. Apify HTTP 403: monthly usage hard limit exceeded; no new benchmark data or Postiz submission was attempted.
 - `2026-09-13T03:16:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T03:15:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T03:00:00Z` **full / partial** — Preflight, state validation, 72-hour Postiz reconciliation, first-hour metrics attempt, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; Apify collection failed closed before any new source data or publication. Apify HTTP 403: monthly usage hard limit exceeded; no package was selected and no Postiz submission was attempted.
-- `2026-09-13T03:01:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
