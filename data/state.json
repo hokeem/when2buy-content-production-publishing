@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T09:31:52.615162+00:00",
+  "updatedAt": "2026-09-13T09:46:36.273150+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -486793,6 +486793,34 @@
       "outcome": "partial",
       "nextAction": "Retry on the next scheduled run after Apify access is restored; do not publish backlog.",
       "metrics": "not first run of hour; no new observations required"
+    },
+    {
+      "id": "run-20260913T094531Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T09:45:31Z",
+      "completedAt": "2026-09-13T09:45:31Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T094600Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T09:46:00Z",
+      "completedAt": "2026-09-13T09:46:00Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T094700Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T09:47:00Z",
+      "completedAt": "2026-09-13T09:47:00Z",
+      "summary": "Freshness-first run stopped safely after Apify collection was rejected by the provider monthly hard limit; no new benchmark originals, packages, or Postiz submission.",
+      "reason": "Apify returned HTTP 403 platform-feature-disabled (Monthly usage hard limit exceeded) for @WhaleInsider; the next scheduled run should retry collection.",
+      "selectedPackageIds": []
     }
   ],
   "deliveryCircuitBreaker": {
