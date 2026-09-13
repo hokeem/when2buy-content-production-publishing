@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T01:02:18.037160+00:00`
+- 状态更新：`2026-09-13T01:17:47.777346+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,10 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T01:17:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T01:17:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 31 eligible originals and added 0 new post(s).
+- `2026-09-13T01:16:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 31 eligible originals and added 0 new post(s).
+- `2026-09-13T01:15:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T01:01:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T01:01:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
 - `2026-09-13T00:47:14Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4273,7 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T00:00:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T23:46:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T23:46:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T23:46:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-12T23:33:36Z` **full / partial** — Bounded Apify benchmark scan timed out before a new radar record was accepted; existing queue had no fresh candidate, no production or Postiz submission was attempted, and state is recoverable for the next scheduled run. apify_timeout
-- `2026-09-12T23:31:45Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T23:16:20Z` **full / succeeded** — Preflight and validation passed; Postiz reconciliation, Apify collection, benchmark-media archive, hard 90-minute queue rebuild, hourly metrics, security validation, reports, and fixed report-slug sync completed. No fresh eligible item remained, so no content was produced or published. no_fresh_eligible_item
