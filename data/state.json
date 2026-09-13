@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T15:01:05.199670+00:00",
+  "updatedAt": "2026-09-13T15:16:59.785739+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -499962,6 +499962,35 @@
         ],
         "error": "HTTP 403 platform-feature-disabled monthly usage hard limit exceeded"
       }
+    },
+    {
+      "id": "run-20260913T151533Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T15:15:33Z",
+      "completedAt": "2026-09-13T15:15:33Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T151558Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T15:15:58Z",
+      "completedAt": "2026-09-13T15:15:58Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T151600Z-full-apify-blocked",
+      "mode": "full",
+      "status": "blocked",
+      "startedAt": "2026-09-13T15:16:00Z",
+      "completedAt": "2026-09-13T15:16:00Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, package reconciliation, TTL queue rebuild, security scan, and report rendering passed; Apify collection was blocked by HTTP 403 monthly usage hard limit exceeded.",
+      "reason": "apify_monthly_usage_hard_limit_exceeded; no new benchmark originals collected; no cached or stale item substituted; no production or publication attempted",
+      "outcome": "blocked",
+      "selectedPackageIds": []
     }
   ],
   "deliveryCircuitBreaker": {
