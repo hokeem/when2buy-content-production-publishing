@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T05:16:53.940817+00:00",
+  "updatedAt": "2026-09-13T05:32:00.577642+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -478647,6 +478647,27 @@
       "completedAt": "2026-09-13T05:16:53Z",
       "summary": "Preflight, 72-hour Postiz reconciliation, existing-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; fresh source collection was blocked by Apify monthly usage hard limit, so no item was produced or published.",
       "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No publish attempt made.",
+      "outcome": "blocked_recoverable",
+      "selectedPackageId": null,
+      "metrics": "not due; run was not the first hourly slot"
+    },
+    {
+      "id": "run-20260913T053131Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T05:31:31Z",
+      "completedAt": "2026-09-13T05:31:31Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T053200Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T05:32:00Z",
+      "completedAt": "2026-09-13T05:32:00Z",
+      "summary": "Preflight, 72-hour Postiz reconciliation, existing-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; fresh source collection was blocked by Apify monthly usage hard limit, so no item was produced or published.",
+      "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No stale source or backlog was substituted; no image or Postiz submission was made.",
       "outcome": "blocked_recoverable",
       "selectedPackageId": null,
       "metrics": "not due; run was not the first hourly slot"
