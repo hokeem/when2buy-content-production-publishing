@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T05:46:55.807356+00:00`
+- 状态更新：`2026-09-13T06:02:30.335540+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4218,6 +4218,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
 | Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
+| Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098766721083650170) |
 | Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
 | China's U.S. Treasury holdings reach 25-year low | 2026-09-08T07:46:00.000Z | 3 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097230288871154032) |
@@ -4226,7 +4227,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Meta Muse usage runs 10x above test cohorts | 2026-09-09T12:14:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097660078849728766) |
 | Fed hike odds at 61% | 2026-09-10T13:05:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098035293232500991) |
 | Anthropic reportedly targets $2T IPO valuation | 2026-09-11T23:39:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098557219952591135) |
-| Flint area $2.9M home | 2026-09-12T13:32:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098766721083650170) |
 | JUST IN: Daily trading volume on Uniswap's Robinhood Chain deployment reaches $1.7 billion, up 10x i | 2026-09-04T04:33:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731932638466218) |
 | 401(k) millionaires reach 769,000 | 2026-09-07T06:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849736842232137) |
 | Housing-affordability searches hit a record high | 2026-09-07T06:52:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096854162210509026) |
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T06:07:00Z` **full / partial** — Apify scan blocked by provider monthly usage hard limit; no fresh benchmark posts collected, no package processed, and no publication attempted. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. Safe retry on the next scheduled run.
+- `2026-09-13T06:01:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T06:01:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T05:46:55Z` **full / partial** — Freshness-first run completed reconciliation, media archive, package-status reconciliation, hard-TTL queue rebuild, and report rendering; Apify collection was blocked by the provider monthly usage hard limit, so no fresh item was selected and no image or Postiz submission was made. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No stale source or backlog was substituted.
 - `2026-09-13T05:46:20Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T05:45:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T04:01:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T04:01:03Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T03:46:23Z` **full / partial** — Preflight and Postiz reconciliation completed; Apify scan was blocked by the provider monthly hard limit, so no new originals, media archive, production package, or publication was attempted. TTL queue rebuilt empty. Apify HTTP 403: monthly usage hard limit exceeded; recover on next scheduled run.
-- `2026-09-13T03:45:52Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T03:32:33Z` **full / partial** — Preflight, Postiz reconciliation, Apify collection attempt, media archive, package-status reconciliation, hard-TTL queue rebuild, metrics, validation, security, and reports completed; no fresh item was selected or published. Apify HTTP 403: monthly usage hard limit exceeded; no new benchmark data or Postiz submission was attempted.
-- `2026-09-13T03:31:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
