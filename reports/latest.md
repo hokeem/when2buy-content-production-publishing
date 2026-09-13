@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T09:16:26.184410+00:00`
+- 状态更新：`2026-09-13T09:31:52.615162+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T09:31:52Z` **full / partial** — Freshness-first run stopped safely after Apify collection was rejected by the provider monthly hard limit; no new benchmark originals, packages, or Postiz submission. apify_platform_feature_disabled_monthly_usage_hard_limit_exceeded
+- `2026-09-13T09:31:16Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T09:30:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T09:16:25Z` **full / partial** — Freshness-first run stopped safely after Apify collection was rejected by the provider monthly hard limit; no new benchmark originals, packages, or Postiz submission. apify_platform_feature_disabled_monthly_usage_hard_limit_exceeded
 - `2026-09-13T09:15:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T09:15:33Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T07:31:24Z` **full / partial** — Preflight, Postiz reconciliation, state validation, media archive check, package reconciliation, hard-TTL queue rebuild, and report rendering completed; no publication was attempted. Apify collection was blocked by HTTP 403 platform-feature-disabled monthly usage hard limit; next scheduled run should retry collection.
 - `2026-09-13T07:31:37Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T07:30:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T07:16:40Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T07:16:00Z` **full / partial** — Freshness collection stopped safely because Apify reported its monthly usage hard limit exceeded; no source was collected and no package was published. apify_platform_feature_disabled_monthly_usage_hard_limit_exceeded
-- `2026-09-13T07:15:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

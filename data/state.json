@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T09:16:26.184410+00:00",
+  "updatedAt": "2026-09-13T09:31:52.615162+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -486763,6 +486763,36 @@
       "reason": "apify_platform_feature_disabled_monthly_usage_hard_limit_exceeded",
       "outcome": "partial",
       "nextAction": "Retry on the next scheduled run after Apify access is restored; do not publish backlog."
+    },
+    {
+      "id": "run-20260913T093046Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T09:30:46Z",
+      "completedAt": "2026-09-13T09:30:46Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T093116Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T09:31:16Z",
+      "completedAt": "2026-09-13T09:31:16Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T093152Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T09:31:52Z",
+      "completedAt": "2026-09-13T09:31:52Z",
+      "summary": "Freshness-first run stopped safely after Apify collection was rejected by the provider monthly hard limit; no new benchmark originals, packages, or Postiz submission.",
+      "reason": "apify_platform_feature_disabled_monthly_usage_hard_limit_exceeded",
+      "outcome": "partial",
+      "nextAction": "Retry on the next scheduled run after Apify access is restored; do not publish backlog.",
+      "metrics": "not first run of hour; no new observations required"
     }
   ],
   "deliveryCircuitBreaker": {
