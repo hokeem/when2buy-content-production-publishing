@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T04:01:52.786500+00:00`
+- 状态更新：`2026-09-13T04:16:26.903980+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T04:16:26Z` **full / partial** — Preflight, Postiz reconciliation, Apify scan attempt, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh benchmark item was available because Apify monthly usage hard limit was exceeded. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T04:01:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T04:01:03Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T03:46:23Z` **full / partial** — Preflight and Postiz reconciliation completed; Apify scan was blocked by the provider monthly hard limit, so no new originals, media archive, production package, or publication was attempted. TTL queue rebuilt empty. Apify HTTP 403: monthly usage hard limit exceeded; recover on next scheduled run.
@@ -4276,4 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T03:00:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T02:46:06Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and TTL queue rebuild completed; benchmark collection was blocked by Apify monthly usage hard limit before any source state was written. No package was selected or published. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T02:45:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T02:31:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

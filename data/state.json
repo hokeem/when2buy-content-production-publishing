@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T04:01:52.786500+00:00",
+  "updatedAt": "2026-09-13T04:16:26.903980+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -475958,6 +475958,18 @@
       "completedAt": "2026-09-13T04:01:24Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260913T041626Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T04:16:26Z",
+      "completedAt": "2026-09-13T04:16:26Z",
+      "summary": "Preflight, Postiz reconciliation, Apify scan attempt, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; no fresh benchmark item was available because Apify monthly usage hard limit was exceeded.",
+      "reason": "apify_monthly_usage_hard_limit_exceeded",
+      "outcome": "deferred",
+      "selectedPackageIds": [],
+      "publication": "not_attempted"
     }
   ],
   "deliveryCircuitBreaker": {
