@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T12:46:32.279414+00:00`
+- 状态更新：`2026-09-13T13:02:26.956217+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4105,6 +4105,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
 | Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
 | PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
+| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -4112,7 +4113,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Howard Lutnick disclosed $250M+ income | 2026-09-07T08:33:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096879675360620883) |
 | Bessent urges Senate passage of the CLARITY Act | 2026-09-09T19:59:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097777745279537626) |
 | Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
-| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | JUST IN: Robinhood Chain $HOOD generated $8.2 million in revenue yesterday. | 2026-09-06T00:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096398792233017423) |
 | JUST IN: Robinhood Chain $HOOD tokenized assets hit $149M in total value, spanning stocks, ETFs, com | 2026-09-06T12:42:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579773963391239) |
 | Trump says he speaks with Fed Chair Kevin Warsh | 2026-09-07T08:12:00.000Z | 11 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096874367053640141) |
@@ -4257,6 +4257,10 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T13:01:28Z` **full / partial** — Preflight, state validation, Postiz reconciliation, Apify collection attempt, media archive, package-status reconciliation, hard-TTL queue rebuild, hourly metrics, security validation, and report rendering completed; no publication was attempted because Apify monthly usage hard limit blocked source collection. apify_monthly_usage_hard_limit_exceeded
+- `2026-09-13T13:01:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T13:01:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T13:00:54Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T12:46:14Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and hard-TTL queue rebuild completed; Apify benchmark collection was blocked before any new source or package could be created. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No production or Postiz submission was attempted.
 - `2026-09-13T12:46:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T12:45:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4273,7 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T11:32:37.819347+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
 - `2026-09-13T11:30:55+00:00` **full / partial** — Preflight, Postiz reconciliation, state validation, Apify scan attempt, media archive, package reconciliation, hard 90-minute TTL queue rebuild, security validation, and reporting completed; no publication was attempted. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No new eligible benchmark posts were collected; production queue was empty.
 - `2026-09-13T11:31:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T11:30:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T11:16:03Z` **full / blocked** — Preflight and Postiz reconciliation passed; the mandated Apify scan for @WhaleInsider and @StockMKTNewz was rejected before collection by the monthly usage hard limit, so the rebuilt hard-90-minute queue had no fresh candidate and no publication was attempted. apify_monthly_usage_hard_limit_exceeded
-- `2026-09-13T11:15:50Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T11:01:37Z` **full / blocked** — Metrics refreshed; the mandated Apify scan for @WhaleInsider and @StockMKTNewz was rejected before collection by the monthly usage hard limit, so no fresh item was eligible for production or publication. apify_monthly_usage_hard_limit_exceeded
