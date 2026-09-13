@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T15:47:02.576552+00:00`
+- 状态更新：`2026-09-13T16:01:58.323188+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,8 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T16:01:02Z` **full / partial** — Apify scan attempted for @WhaleInsider and @StockMKTNewz but provider monthly hard limit blocked collection; existing media archived, Postiz reconciled, hard 90-minute queue rebuilt with no fresh candidates, metrics attempted, and no package submitted. apify_monthly_usage_hard_limit_exceeded
+- `2026-09-13T16:01:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T15:47:02Z` **full / partial** — Apify scan attempted for @WhaleInsider and @StockMKTNewz but provider monthly hard limit blocked collection; existing media archived, Postiz reconciled, hard 90-minute queue rebuilt with no fresh candidates, metrics refreshed, and no package submitted. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T15:46:10Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T15:31:31Z` **full / partial** — Apify benchmark scan was attempted for both required accounts but was blocked by the provider monthly hard limit; existing benchmark media was archived and the hard 90-minute queue was rebuilt. No package was produced or submitted. apify_monthly_usage_hard_limit_exceeded; recover on next scheduled run
@@ -4275,5 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T14:16:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T14:02:33Z` **full / partial** — Freshness-first run completed recovery checks but Apify discovery was blocked by the platform monthly usage hard limit (HTTP 403). No fresh item was available, no package was produced, and no publication was attempted. Existing media archive, package reconciliation, and hard-TTL queue rebuild completed safely. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T14:01:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T14:00:50Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T13:32:00Z` **full / partial** — Freshness-first run reconciled Postiz, archived benchmark media, reconciled package statuses, and rebuilt the hard 90-minute queue; no item was published. Apify collection was blocked by the platform monthly usage hard limit (HTTP 403). No substitute source or backlog publication was used.
