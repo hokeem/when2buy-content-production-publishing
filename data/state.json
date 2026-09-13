@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T08:16:41.166898+00:00",
+  "updatedAt": "2026-09-13T08:30:50.823806+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -486689,6 +486689,15 @@
       "reason": "apify_monthly_usage_hard_limit",
       "outcome": "no_fresh_item",
       "metrics": "first run of hour already completed metrics collection; no additional pass required"
+    },
+    {
+      "id": "run-20260913T083050Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T08:30:50Z",
+      "completedAt": "2026-09-13T08:30:50Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {

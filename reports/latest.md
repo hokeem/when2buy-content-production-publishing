@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T08:16:41.166898+00:00`
+- 状态更新：`2026-09-13T08:30:50.823806+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T08:30:50Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T08:16:29Z` **full / partial** — Freshness-first run completed safe local reconciliation and hard-TTL queue rebuild; Apify collection was blocked by the provider monthly usage hard limit, so no fresh source was admitted and no publication was attempted. apify_monthly_usage_hard_limit
 - `2026-09-13T08:16:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T08:00:53Z` **full / partial** — Hourly public metrics completed; required Apify benchmark collection was blocked by the provider monthly usage hard limit, so no fresh source was collected and no publication was attempted. apify_monthly_usage_hard_limit
@@ -4276,4 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T06:46:12Z` **full / blocked** — Apify collection blocked by provider monthly usage hard limit; no fresh benchmark scan completed and no publication attempted. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T06:45:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T06:45:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T06:30:44Z` **full / blocked** — Preflight and Postiz reconciliation completed; Apify collection for @WhaleInsider and @StockMKTNewz was rejected before mutation because the service monthly usage hard limit was exceeded. No source scan, media archive, TTL queue rebuild, production, or publication was performed. Apify platform-feature-disabled: Monthly usage hard limit exceeded; recover on next scheduled run.
