@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T13:32:09.108503+00:00",
+  "updatedAt": "2026-09-13T13:46:32.998091+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -497409,6 +497409,33 @@
       "reason": "Apify HTTP 403 platform-feature-disabled: monthly usage hard limit exceeded; no publication attempted. Recoverable on the next scheduled run.",
       "outcome": "blocked",
       "selectedPackageId": null
+    },
+    {
+      "id": "run-20260913T134618Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T13:46:18Z",
+      "completedAt": "2026-09-13T13:46:18Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T000000Z-full-apify-blocked",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T13:32:00Z",
+      "completedAt": "2026-09-13T13:34:00Z",
+      "summary": "Freshness-first run reconciled Postiz, archived benchmark media, reconciled package statuses, and rebuilt the hard 90-minute queue; no item was published.",
+      "reason": "Apify collection was blocked by the platform monthly usage hard limit (HTTP 403). No substitute source or backlog publication was used.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked",
+        "error": "platform-feature-disabled: Monthly usage hard limit exceeded"
+      }
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T13:32:09.108503+00:00`
+- 状态更新：`2026-09-13T13:46:32.998091+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,8 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T13:32:00Z` **full / partial** — Freshness-first run reconciled Postiz, archived benchmark media, reconciled package statuses, and rebuilt the hard 90-minute queue; no item was published. Apify collection was blocked by the platform monthly usage hard limit (HTTP 403). No substitute source or backlog publication was used.
+- `2026-09-13T13:46:18Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T13:31:40Z` **full / partial** — Preflight, Postiz reconciliation, Apify discovery attempt, benchmark-media archive pass, package reconciliation, hard-TTL queue rebuild, and first-hour metrics completed; no fresh item was processed. Apify HTTP 403 platform-feature-disabled: monthly usage hard limit exceeded; no publication attempted. Recoverable on the next scheduled run.
 - `2026-09-13T13:31:29Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T13:16:19Z` **full / partial** — Preflight, Postiz reconciliation, Apify discovery attempt, existing-media archive pass, package reconciliation, and hard-TTL queue rebuild completed; no fresh item was processed because Apify returned a provider usage-limit error. Apify HTTP 403 platform-feature-disabled: monthly usage hard limit exceeded; no publication attempted.
@@ -4275,5 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T12:02:08.062192+00:00` **full / partial** — Freshness-first run completed reconciliation, metrics, package-status reconciliation, and hard-TTL queue rebuild; no publication attempted. Apify collection for @WhaleInsider and @StockMKTNewz was blocked by HTTP 403 platform-feature-disabled monthly usage hard limit. No fresh source was available, so no package was produced or submitted.
 - `2026-09-13T12:01:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T12:00:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T11:46:21Z` **full / partial** — Preflight, state validation, Postiz reconciliation, Apify collection attempt, media archive, package reconciliation, hard 90-minute TTL queue rebuild, and security validation completed; no publication was attempted. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No new eligible benchmark posts were collected; production queue was empty.
-- `2026-09-13T11:46:06Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
