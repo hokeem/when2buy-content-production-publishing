@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T12:16:17.199753+00:00",
+  "updatedAt": "2026-09-13T12:31:29.977470+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -494718,6 +494718,26 @@
       "completedAt": "2026-09-13T12:16:17Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260913T123045Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T12:30:45Z",
+      "completedAt": "2026-09-13T12:30:45Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T123129Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T12:31:29Z",
+      "completedAt": "2026-09-13T12:31:29Z",
+      "summary": "Freshness-first run completed Postiz reconciliation, attempted both benchmark feeds, archived media, reconciled package statuses, and rebuilt the hard-90-minute queue; no publication attempted.",
+      "reason": "Apify HTTP 403 platform-feature-disabled: monthly usage hard limit exceeded; next run should retry collection.",
+      "outcome": "blocked_external_collection",
+      "selectedPackageIds": []
     }
   ],
   "deliveryCircuitBreaker": {
