@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T02:46:07.051128+00:00",
+  "updatedAt": "2026-09-13T03:02:52.320025+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -470594,6 +470594,42 @@
       "summary": "Preflight, state validation, Postiz reconciliation, and TTL queue rebuild completed; benchmark collection was blocked by Apify monthly usage hard limit before any source state was written. No package was selected or published.",
       "reason": "apify_monthly_usage_hard_limit_exceeded",
       "outcome": "blocked_external_dependency"
+    },
+    {
+      "id": "run-20260913T030048Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T03:00:48Z",
+      "completedAt": "2026-09-13T03:00:48Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T030126Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T03:01:26Z",
+      "completedAt": "2026-09-13T03:01:26Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T030000Z-full-apify-limit",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T03:00:00Z",
+      "completedAt": "2026-09-13T03:04:30Z",
+      "summary": "Preflight, state validation, 72-hour Postiz reconciliation, first-hour metrics attempt, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; Apify collection failed closed before any new source data or publication.",
+      "reason": "Apify HTTP 403: monthly usage hard limit exceeded; no package was selected and no Postiz submission was attempted.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked_provider_limit"
+      },
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {

@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T02:46:07.051128+00:00`
+- 状态更新：`2026-09-13T03:02:52.320025+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T03:00:00Z` **full / partial** — Preflight, state validation, 72-hour Postiz reconciliation, first-hour metrics attempt, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; Apify collection failed closed before any new source data or publication. Apify HTTP 403: monthly usage hard limit exceeded; no package was selected and no Postiz submission was attempted.
+- `2026-09-13T03:01:26Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T03:00:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T02:46:06Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and TTL queue rebuild completed; benchmark collection was blocked by Apify monthly usage hard limit before any source state was written. No package was selected or published. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T02:45:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T02:31:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T01:17:47Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T01:17:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 31 eligible originals and added 0 new post(s).
 - `2026-09-13T01:16:54Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 31 eligible originals and added 0 new post(s).
-- `2026-09-13T01:15:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T01:01:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T01:01:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
