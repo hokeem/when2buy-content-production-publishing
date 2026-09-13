@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T05:02:00.609523+00:00`
+- 状态更新：`2026-09-13T05:16:53.940817+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,8 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T05:16:53Z` **full / partial** — Preflight, 72-hour Postiz reconciliation, existing-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; fresh source collection was blocked by Apify monthly usage hard limit, so no item was produced or published. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No publish attempt made.
+- `2026-09-13T05:16:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T05:02:00Z` **full / partial** — Postiz reconciliation, hourly metrics, hard-TTL queue rebuild, validation, and report rendering completed; no fresh item was processed. Apify collection for @WhaleInsider failed with HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No stale source or backlog was substituted; no image or Postiz submission was made.
 - `2026-09-13T05:01:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T05:00:29Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4275,5 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T03:30:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 8 unsent stale package(s).
 - `2026-09-13T03:30:43.301114+00:00` **produce / succeeded** — Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.
 - `2026-09-13T03:30:41Z` **produce / succeeded** — Produced the first five timestamp-first packages with inspected image-model visuals and exact-logo compositing.
-- `2026-09-13T03:16:40Z` **full / partial** — Preflight, 72-hour Postiz reconciliation, Apify attempt, media archive, package-status reconciliation, hard-TTL queue rebuild, validation, security, and reports completed; no fresh item was selected or published. Apify HTTP 403: monthly usage hard limit exceeded; no new benchmark data or Postiz submission was attempted.
-- `2026-09-13T03:16:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
