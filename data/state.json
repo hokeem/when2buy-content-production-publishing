@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T10:02:17.392977+00:00",
+  "updatedAt": "2026-09-13T10:16:28.154078+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -489402,6 +489402,26 @@
       "summary": "Apify collection blocked by the platform monthly usage hard limit; existing media archive, Postiz reconciliation, hard 90-minute queue rebuild, and first-hour 72-hour metrics pass completed. No package was selected or submitted.",
       "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; recover on next scheduled run.",
       "outcome": "blocked_before_selection"
+    },
+    {
+      "id": "run-20260913T101603Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T10:16:03Z",
+      "completedAt": "2026-09-13T10:16:03Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T101628Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T10:16:28Z",
+      "completedAt": "2026-09-13T10:16:28Z",
+      "summary": "Freshness-first run completed reconciliation, attempted both required Apify feeds, archived media, reconciled package statuses, and rebuilt the hard 90-minute queue. No fresh candidate was selected or submitted.",
+      "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; recover on next scheduled run.",
+      "outcome": "blocked_before_selection",
+      "metrics": "already completed on the first run of the current UTC hour; no additional collection required"
     }
   ],
   "deliveryCircuitBreaker": {
