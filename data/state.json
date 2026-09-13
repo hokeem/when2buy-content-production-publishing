@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T15:16:59.785739+00:00",
+  "updatedAt": "2026-09-13T15:31:31.718487+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -499991,6 +499991,26 @@
       "reason": "apify_monthly_usage_hard_limit_exceeded; no new benchmark originals collected; no cached or stale item substituted; no production or publication attempted",
       "outcome": "blocked",
       "selectedPackageIds": []
+    },
+    {
+      "id": "run-20260913T153131Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T15:31:31Z",
+      "completedAt": "2026-09-13T15:31:31Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T153131Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T15:31:31Z",
+      "completedAt": "2026-09-13T15:31:31Z",
+      "summary": "Apify benchmark scan was attempted for both required accounts but was blocked by the provider monthly hard limit; existing benchmark media was archived and the hard 90-minute queue was rebuilt. No package was produced or submitted.",
+      "reason": "apify_monthly_usage_hard_limit_exceeded; recover on next scheduled run",
+      "outcome": "deferred",
+      "nextAction": "retry Apify collection on next Cron; never publish backlog or expired items"
     }
   ],
   "deliveryCircuitBreaker": {
