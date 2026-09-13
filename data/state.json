@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T04:31:21.407447+00:00",
+  "updatedAt": "2026-09-13T04:46:28.678927+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -475988,6 +475988,15 @@
       "completedAt": "2026-09-13T04:31:21Z",
       "summary": "Freshness run safely stopped after Apify collection was blocked by the provider monthly usage hard limit; no item selected or published. TTL queue rebuilt with 0 fresh candidates.",
       "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded."
+    },
+    {
+      "id": "run-20260913T044628Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T04:46:28Z",
+      "completedAt": "2026-09-13T04:46:28Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
