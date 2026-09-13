@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T06:46:21.103651+00:00`
+- 状态更新：`2026-09-13T07:02:12.551029+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4152,6 +4152,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
 | JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
+| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
 | Jaguar Land Rover plans job cuts | 2026-09-07T06:17:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096845481288851512) |
@@ -4177,7 +4178,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | The Boring Company reaches $23B valuation | 2026-09-10T14:02:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098049818765721963) |
 | IGV software ETF performance history | 2026-09-11T00:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098211892053610889) |
 | JPMorgan cuts Situational Awareness lending after AI losses | 2026-09-11T21:47:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098528976335716596) |
-| Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
 | Anthropic CEO calls for slower AI model capability gains | 2026-09-12T14:19:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098778671192633553) |
 | JUST IN: Hook has launched licensed music remix platform with a 20m+ song catalogue via partnership | 2026-09-04T04:32:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731705965605202) |
 | JUST IN: Franklin, Canary and Grayscale ETF clients buy a combined $14.38 million worth of $XRP. | 2026-09-04T04:50:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736249491603788) |
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T070117Z` **full / partial** — No publication: Apify benchmark collection was blocked by the provider monthly usage hard limit; package reconciliation and TTL queue rebuild completed with 0 candidates. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded
+- `2026-09-13T07:01:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T07:00:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T06:46:12Z` **full / blocked** — Apify collection blocked by provider monthly usage hard limit; no fresh benchmark scan completed and no publication attempted. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T06:45:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T06:45:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T05:16:53Z` **full / partial** — Preflight, 72-hour Postiz reconciliation, existing-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; fresh source collection was blocked by Apify monthly usage hard limit, so no item was produced or published. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No publish attempt made.
 - `2026-09-13T05:16:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T05:02:00Z` **full / partial** — Postiz reconciliation, hourly metrics, hard-TTL queue rebuild, validation, and report rendering completed; no fresh item was processed. Apify collection for @WhaleInsider failed with HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No stale source or backlog was substituted; no image or Postiz submission was made.
-- `2026-09-13T05:01:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T05:00:29Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T04:46:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
