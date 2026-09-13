@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T05:32:00.577642+00:00`
+- 状态更新：`2026-09-13T05:46:55.807356+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T05:46:55Z` **full / partial** — Freshness-first run completed reconciliation, media archive, package-status reconciliation, hard-TTL queue rebuild, and report rendering; Apify collection was blocked by the provider monthly usage hard limit, so no fresh item was selected and no image or Postiz submission was made. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No stale source or backlog was substituted.
+- `2026-09-13T05:46:20Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T05:45:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T05:32:00Z` **full / partial** — Preflight, 72-hour Postiz reconciliation, existing-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; fresh source collection was blocked by Apify monthly usage hard limit, so no item was produced or published. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No stale source or backlog was substituted; no image or Postiz submission was made.
 - `2026-09-13T05:31:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T05:16:53Z` **full / partial** — Preflight, 72-hour Postiz reconciliation, existing-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; fresh source collection was blocked by Apify monthly usage hard limit, so no item was produced or published. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No publish attempt made.
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T03:45:52Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T03:32:33Z` **full / partial** — Preflight, Postiz reconciliation, Apify collection attempt, media archive, package-status reconciliation, hard-TTL queue rebuild, metrics, validation, security, and reports completed; no fresh item was selected or published. Apify HTTP 403: monthly usage hard limit exceeded; no new benchmark data or Postiz submission was attempted.
 - `2026-09-13T03:31:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T03:31:12.993183+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
-- `2026-09-13T03:31:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T03:30:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 8 unsent stale package(s).
