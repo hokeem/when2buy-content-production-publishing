@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T08:32:32.633767+00:00`
+- 状态更新：`2026-09-13T08:46:22.291873+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T08:46:22Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T08:32:09Z` **full / partial** — Required Apify collection for @WhaleInsider and @StockMKTNewz was blocked by the provider monthly usage hard limit; no new source was admitted, no media was archived, and no publication was attempted. apify_monthly_usage_hard_limit
 - `2026-09-13T08:30:50Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T08:16:29Z` **full / partial** — Freshness-first run completed safe local reconciliation and hard-TTL queue rebuild; Apify collection was blocked by the provider monthly usage hard limit, so no fresh source was admitted and no publication was attempted. apify_monthly_usage_hard_limit
@@ -4276,4 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T07:01:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T07:00:39Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T06:46:12Z` **full / blocked** — Apify collection blocked by provider monthly usage hard limit; no fresh benchmark scan completed and no publication attempted. apify_monthly_usage_hard_limit_exceeded
-- `2026-09-13T06:45:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

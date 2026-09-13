@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T08:32:32.633767+00:00",
+  "updatedAt": "2026-09-13T08:46:22.291873+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -486708,6 +486708,15 @@
       "summary": "Required Apify collection for @WhaleInsider and @StockMKTNewz was blocked by the provider monthly usage hard limit; no new source was admitted, no media was archived, and no publication was attempted.",
       "reason": "apify_monthly_usage_hard_limit",
       "outcome": "no_fresh_item"
+    },
+    {
+      "id": "run-20260913T084622Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T08:46:22Z",
+      "completedAt": "2026-09-13T08:46:22Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
