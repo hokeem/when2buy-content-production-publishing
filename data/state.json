@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T06:16:34.681890+00:00",
+  "updatedAt": "2026-09-13T06:31:13.834903+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -481357,6 +481357,19 @@
         ]
       },
       "outcome": "recoverable_partial"
+    },
+    {
+      "id": "run-20260913T063044Z-full",
+      "mode": "full",
+      "status": "blocked",
+      "startedAt": "2026-09-13T06:30:44Z",
+      "completedAt": "2026-09-13T06:31:20Z",
+      "summary": "Preflight and Postiz reconciliation completed; Apify collection for @WhaleInsider and @StockMKTNewz was rejected before mutation because the service monthly usage hard limit was exceeded. No source scan, media archive, TTL queue rebuild, production, or publication was performed.",
+      "reason": "Apify platform-feature-disabled: Monthly usage hard limit exceeded; recover on next scheduled run.",
+      "outcome": "blocked",
+      "recoverable": true,
+      "selectedPackageId": null,
+      "publication": "not attempted"
     }
   ],
   "deliveryCircuitBreaker": {
