@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T01:46:23.350110+00:00`
+- 状态更新：`2026-09-13T02:02:26.138773+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4142,6 +4142,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
 | SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
+| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
 | Here is how much fees Robinhood $HOOD has generated from its Robinhood Chain If Robinhood brought in | 2026-09-04T04:31:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731474226163957) |
 | Nvidia gains more than 15,000% in a decade | 2026-09-07T05:55:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096839822057115976) |
 | Apple's September market-cap history | 2026-09-07T07:15:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096860021741265261) |
@@ -4165,7 +4166,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | PENGUIN team burns 200M tokens | 2026-09-09T14:20:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097691839725961267) |
 | Hassett says inflation is decelerating | 2026-09-11T14:33:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098419869192753392) |
 | Iran president says Mojtaba Khamenei is alive | 2026-09-12T09:48:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098710516722180398) |
-| Amazon Rufus named after its first dog | 2026-09-12T16:18:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098808658432078334) |
 | JUST IN: $169,000,000 worth of shorts liquidated from the crypto market in the past 24 hours. | 2026-09-04T06:45:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095765184359088366) |
 | JUST IN: THE S&amp;P 500 IS CHANGING These stocks are being added to the index: - Bloomb Energy $BE | 2026-09-05T12:43:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096217796002881854) |
 | Robinhood Chain tops $8M in Friday fees | 2026-09-07T05:32:00.000Z | 6 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096834091673063588) |
@@ -4202,6 +4202,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | European gas rises above €80/MWh | 2026-09-09T14:52:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097699721834082622) |
 | SpaceX says its next Starship flight will be revenue-generating | 2026-09-10T20:04:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098140676957569227) |
 | India tokenizes corporate bonds in digital-rupee pilot | 2026-09-11T08:48:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098333032608629050) |
+| Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 | OpenAI is not going public in 2026 | 2026-09-12T17:34:00.000Z | 5 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098827679504138289) |
 | All these stocks hit new 52 WEEK HIGHS at some point today Snowflake $SNOW Pfizer $PFE Dell Technolo | 2026-09-04T04:28:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095730900017537282) |
 | NEW: The Bank for International Settlements publishes a paper using the $XRP Ledger as a proof-of-co | 2026-09-05T00:42:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096036275862266165) |
@@ -4216,7 +4217,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Ripple expands GSmart AI across treasury operations | 2026-09-10T16:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098091020374482976) |
 | Nu integrates USDC into new multi-currency account | 2026-09-10T19:32:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098132516674892282) |
 | Vanguard growth and large/mega-cap ETFs beat the S&P 500 over a decade | 2026-09-10T19:47:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098136515163627648) |
-| Anthropic researcher resigns over AI-safety concerns | 2026-09-11T20:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098514298909933583) |
 | Fed hike odds surge to 81% | 2026-09-12T08:49:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098695636640227383) |
 | Sam Altman backs pacing frontier AI development | 2026-09-12T17:03:00.000Z | 4 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098819990384504984) |
 | Fed plans up to $2.122B in Treasury-bill purchases | 2026-09-07T06:34:00.000Z | 3 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096849615861793099) |
@@ -4239,6 +4239,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | BlackRock ETF clients buy $148.82M of ETH | 2026-09-12T06:04:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098653943924670912) |
 | Microsoft gaming acquisitions | 2026-09-12T14:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098782483789824319) |
 | Tokenized stocks on Base hit a new daily DEX volume high | 2026-09-12T19:34:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098857934738628843) |
+| AI data-center buildout accelerates | 2026-09-12T20:18:00.000Z | 2 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098868980626964677) |
 | Gallup economy rating deteriorates | 2026-09-09T05:30:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558293493563872) |
 | Iran sets new conditions for U.S. talks | 2026-09-09T06:12:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097568844399415429) |
 | U.S. stocks open lower | 2026-09-09T13:42:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097682264595534272) |
@@ -4247,7 +4248,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | U.S. stocks reopen green | 2026-09-11T13:49:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098408730555719704) |
 | Anthropic valuation rises more than 7,500% | 2026-09-12T15:33:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098797258720543143) |
 | $250M USDC minted at USDC Treasury | 2026-09-12T18:32:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098842430468690120) |
-| AI data-center buildout accelerates | 2026-09-12T20:18:00.000Z | 1 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098868980626964677) |
 | Intel proposed stock offering | 2026-08-10T00:00:00+08:00 |  |  |  |  | [X](https://x.com/_When2buy/status/2084535905050829005) |
 | $7.2M Greek luxury property | 2026-09-09T05:32:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097558827457822859) |
 | Hassett says $5,000 checks can pair with fiscal responsibility | 2026-09-11T14:18:00.000Z | 0 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098416071581843624) |
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T02:01:06Z` **full / partial** — Postiz reconciliation, preflight, state validation, package-status reconciliation, and hard-TTL queue rebuild completed; Apify collection was blocked by the provider monthly usage hard limit, so no fresh item was selected and no publication was attempted. apify_monthly_usage_hard_limit_exceeded
+- `2026-09-13T02:01:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T02:00:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T01:46:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T01:46:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
 - `2026-09-13T01:31:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T00:31:48Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T00:31:43Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
 - `2026-09-13T00:30:36Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T00:16:57Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T00:16:50Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
-- `2026-09-13T00:01:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
