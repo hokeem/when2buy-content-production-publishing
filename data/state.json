@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T14:02:34.095721+00:00",
+  "updatedAt": "2026-09-13T14:16:23.869198+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -497465,6 +497465,25 @@
       "reason": "apify_monthly_usage_hard_limit_exceeded",
       "outcome": "blocked",
       "nextAction": "retry next scheduled run"
+    },
+    {
+      "id": "run-20260913T141613Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T14:16:13Z",
+      "completedAt": "2026-09-13T14:16:13Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T000000Z-full-blocked",
+      "mode": "full",
+      "status": "blocked",
+      "startedAt": "2026-09-13T00:00:00Z",
+      "completedAt": "2026-09-13T00:00:00Z",
+      "summary": "Freshness-first run stopped before collection or publication because Apify rejected the benchmark scan.",
+      "reason": "Apify API returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. No new source data was captured; no package was submitted.",
+      "recovery": "Retry on the next scheduled run after Apify capacity is restored; do not publish backlog."
     }
   ],
   "deliveryCircuitBreaker": {
