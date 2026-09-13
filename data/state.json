@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T21:16:26.145936+00:00",
+  "updatedAt": "2026-09-13T21:31:33.548867+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -48580,12 +48580,14 @@
       "url": "https://x.com/_When2buy/status/2098159492718641248",
       "postizPostId": "cmtw15ke00dd9lm0yfvyor36b",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-10T21:19:00Z",
         "windowEnd": "2026-09-13T21:19:00Z",
         "lastAttemptAt": "2026-09-13T21:01:16.852646Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-13T21:31:23.583035Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -516069,6 +516071,26 @@
       "completedAt": "2026-09-13T21:16:26Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260913T213105Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T21:31:05Z",
+      "completedAt": "2026-09-13T21:31:05Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T213133Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T21:31:33Z",
+      "completedAt": "2026-09-13T21:31:33Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, hourly public-metrics pass, package-status reconciliation, and hard-TTL queue rebuild completed; Apify discovery stopped by provider usage limit before any new benchmark state write.",
+      "reason": "apify_monthly_usage_hard_limit_http_403",
+      "outcome": "no_publication",
+      "nextAction": "Retry next scheduled run after Apify usage limit is restored; do not publish backlog."
     }
   ],
   "deliveryCircuitBreaker": {
