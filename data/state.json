@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T02:16:37.939805+00:00",
+  "updatedAt": "2026-09-13T02:31:32.034530+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -470557,6 +470557,24 @@
           "StockMKTNewz"
         ]
       }
+    },
+    {
+      "id": "run-20260913T023000Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T02:30:00Z",
+      "completedAt": "2026-09-13T02:30:20Z",
+      "summary": "Required Apify scan could not complete because the Apify monthly usage hard limit was exceeded; no source data was written and no publication was attempted.",
+      "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded. Recover on the next scheduled run after quota is restored."
+    },
+    {
+      "id": "run-20260913T023132Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T02:31:32Z",
+      "completedAt": "2026-09-13T02:31:32Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
