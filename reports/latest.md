@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T09:46:36.273150+00:00`
+- 状态更新：`2026-09-13T10:02:17.392977+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4139,6 +4139,7 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Fed rate-hike odds reach 76% | 2026-09-11T13:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098401142220923209) |
 | Tesla Semi coming to Europe | 2026-09-11T16:18:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098446248693088603) |
 | Coinbase policy says crypto rules keep moving | 2026-09-11T17:06:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098458731663245381) |
+| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | Situational Awareness establishes Clear Street relationship | 2026-09-11T19:33:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098495269382058381) |
 | SemiAnalysis acquires Citrini Research | 2026-09-11T21:19:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098522052089254273) |
 | Rocket Lab files formal protest over NASA Mars telecom award | 2026-09-11T22:03:00.000Z | 9 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098533054226878507) |
@@ -4151,7 +4152,6 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Spot Bitcoin ETFs show $120.24M early net outflow | 2026-09-10T07:00:00.000Z | 8 | 1 | 0 | 0 | [X](https://x.com/_When2buy/status/2097943932235853884) |
 | MetaMask expands TRON connectivity | 2026-09-10T21:19:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098159492718641248) |
 | Dell $DELL hits new all-time highs | 2026-09-11T16:49:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098453985023983918) |
-| JPMorgan sees two Fed hikes in 2026 | 2026-09-11T18:48:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098484047551078908) |
 | Robinhood Chain record perps volume | 2026-09-12T14:04:00.000Z | 8 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098774824114114765) |
 | JUST IN: 🇺🇸 Fed's Williams says ‘Recent data have been encouraging on inflation.’ | 2026-09-03T11:55:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095480844748231138) |
 | JUST IN: 🇺🇸 U.S. dollar has lost 97% of its purchasing power since the Federal Reserve was founded i | 2026-09-07T00:45:00.000Z | 7 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096761735374164145) |
@@ -4257,6 +4257,8 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T10:02:17Z` **full / partial** — Apify collection blocked by the platform monthly usage hard limit; existing media archive, Postiz reconciliation, hard 90-minute queue rebuild, and first-hour 72-hour metrics pass completed. No package was selected or submitted. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; recover on next scheduled run.
+- `2026-09-13T10:01:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T09:47:00Z` **full / partial** — Freshness-first run stopped safely after Apify collection was rejected by the provider monthly hard limit; no new benchmark originals, packages, or Postiz submission. Apify returned HTTP 403 platform-feature-disabled (Monthly usage hard limit exceeded) for @WhaleInsider; the next scheduled run should retry collection.
 - `2026-09-13T09:46:00Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T09:45:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4275,5 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T08:00:53Z` **full / partial** — Hourly public metrics completed; required Apify benchmark collection was blocked by the provider monthly usage hard limit, so no fresh source was collected and no publication was attempted. apify_monthly_usage_hard_limit
 - `2026-09-13T08:01:24Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T08:00:44Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T07:46:07Z` **full / partial** — Preflight, Postiz reconciliation, state validation, Apify attempt, media archive check, package reconciliation, and hard-TTL queue rebuild completed; no publication was attempted. Apify collection blocked by HTTP 403 platform-feature-disabled monthly usage hard limit; queue contained zero fresh eligible originals. Next scheduled run should retry collection.
-- `2026-09-13T07:46:20Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
