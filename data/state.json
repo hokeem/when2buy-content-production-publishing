@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T20:16:34.576623+00:00",
+  "updatedAt": "2026-09-13T20:31:58.211831+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -513992,6 +513992,35 @@
       "status": "succeeded",
       "startedAt": "2026-09-13T20:16:34Z",
       "completedAt": "2026-09-13T20:16:34Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T203040Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T20:30:40Z",
+      "completedAt": "2026-09-13T20:30:40Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T203125Z-full",
+      "mode": "full",
+      "status": "blocked",
+      "startedAt": "2026-09-13T20:31:25Z",
+      "completedAt": "2026-09-13T20:31:25Z",
+      "summary": "Freshness run stopped before discovery because Apify rejected both-feed collection with provider usage limit.",
+      "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; no publish attempted.",
+      "recoverable": true,
+      "nextAction": "Retry on the next scheduled cycle after Apify usage is available."
+    },
+    {
+      "id": "run-20260913T203158Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T20:31:58Z",
+      "completedAt": "2026-09-13T20:31:58Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
