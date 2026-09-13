@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T07:02:12.551029+00:00",
+  "updatedAt": "2026-09-13T07:16:40.812005+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -483989,6 +483989,35 @@
       "completedAt": "2026-09-13T070117Z",
       "summary": "No publication: Apify benchmark collection was blocked by the provider monthly usage hard limit; package reconciliation and TTL queue rebuild completed with 0 candidates.",
       "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded"
+    },
+    {
+      "id": "run-20260913T071538Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T07:15:38Z",
+      "completedAt": "2026-09-13T07:15:38Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T071600Z-full-apify-blocked",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T07:16:00Z",
+      "completedAt": "2026-09-13T07:16:00Z",
+      "summary": "Freshness collection stopped safely because Apify reported its monthly usage hard limit exceeded; no source was collected and no package was published.",
+      "reason": "apify_platform_feature_disabled_monthly_usage_hard_limit_exceeded",
+      "outcome": "blocked",
+      "nextAction": "Retry on the next scheduled run when Apify collection is available; never publish backlog or expired items."
+    },
+    {
+      "id": "run-20260913T071640Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T07:16:40Z",
+      "completedAt": "2026-09-13T07:16:40Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
