@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T18:16:17.511643+00:00",
+  "updatedAt": "2026-09-13T18:31:28.316260+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -509526,6 +509526,50 @@
       "completedAt": "2026-09-13T18:16:17Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260913T183040Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T18:30:40Z",
+      "completedAt": "2026-09-13T18:30:40Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T183101Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T18:31:01Z",
+      "completedAt": "2026-09-13T18:31:01Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T183112Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T18:31:12Z",
+      "completedAt": "2026-09-13T18:31:12Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, package reconciliation, and hard 90-minute TTL queue rebuild completed; required Apify collection for @WhaleInsider and @StockMKTNewz was blocked by the provider monthly usage hard limit, so no fresh item was eligible and no package was produced or submitted.",
+      "reason": "Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked"
+      },
+      "reconciliation": {
+        "postiz": "completed",
+        "packages": "completed"
+      },
+      "queue": {
+        "ttlMinutes": 90,
+        "candidates": 0
+      },
+      "nextAction": "Retry on the next scheduled Cron after Apify usage is available; never publish backlog or expired items."
     }
   ],
   "deliveryCircuitBreaker": {
