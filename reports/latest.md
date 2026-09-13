@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T07:16:40.812005+00:00`
+- 状态更新：`2026-09-13T07:31:53.789476+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T07:31:24Z` **full / partial** — Preflight, Postiz reconciliation, state validation, media archive check, package reconciliation, hard-TTL queue rebuild, and report rendering completed; no publication was attempted. Apify collection was blocked by HTTP 403 platform-feature-disabled monthly usage hard limit; next scheduled run should retry collection.
+- `2026-09-13T07:31:37Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T07:30:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T07:16:40Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T07:16:00Z` **full / partial** — Freshness collection stopped safely because Apify reported its monthly usage hard limit exceeded; no source was collected and no package was published. apify_platform_feature_disabled_monthly_usage_hard_limit_exceeded
 - `2026-09-13T07:15:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T06:01:02Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T05:46:55Z` **full / partial** — Freshness-first run completed reconciliation, media archive, package-status reconciliation, hard-TTL queue rebuild, and report rendering; Apify collection was blocked by the provider monthly usage hard limit, so no fresh item was selected and no image or Postiz submission was made. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No stale source or backlog was substituted.
 - `2026-09-13T05:46:20Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T05:45:53Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T05:32:00Z` **full / partial** — Preflight, 72-hour Postiz reconciliation, existing-media archive, package-status reconciliation, and hard-TTL queue rebuild completed; fresh source collection was blocked by Apify monthly usage hard limit, so no item was produced or published. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded; next run should retry Apify collection. No stale source or backlog was substituted; no image or Postiz submission was made.
-- `2026-09-13T05:31:31Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

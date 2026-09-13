@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T07:16:40.812005+00:00",
+  "updatedAt": "2026-09-13T07:31:53.789476+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -484018,6 +484018,40 @@
       "completedAt": "2026-09-13T07:16:40Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260913T073030Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T07:30:30Z",
+      "completedAt": "2026-09-13T07:30:30Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T073137Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T07:31:37Z",
+      "completedAt": "2026-09-13T07:31:37Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T073124Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T07:31:24Z",
+      "completedAt": "2026-09-13T07:32:30Z",
+      "summary": "Preflight, Postiz reconciliation, state validation, media archive check, package reconciliation, hard-TTL queue rebuild, and report rendering completed; no publication was attempted.",
+      "reason": "Apify collection was blocked by HTTP 403 platform-feature-disabled monthly usage hard limit; next scheduled run should retry collection.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ]
+      }
     }
   ],
   "deliveryCircuitBreaker": {
