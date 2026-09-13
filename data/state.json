@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T10:30:55.520507+00:00",
+  "updatedAt": "2026-09-13T10:46:22.479588+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -489431,6 +489431,27 @@
       "completedAt": "2026-09-13T10:30:55Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
+    },
+    {
+      "id": "run-20260913T104551Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T10:45:51Z",
+      "completedAt": "2026-09-13T10:45:51Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T104622Z-full",
+      "mode": "full",
+      "status": "blocked",
+      "startedAt": "2026-09-13T10:46:22Z",
+      "completedAt": "2026-09-13T10:46:22Z",
+      "summary": "Postiz reconciliation, Apify benchmark scan, media archive, package reconciliation, and hard-TTL queue rebuild completed; no fresh item was processed because Apify rejected the scan at its provider usage limit.",
+      "reason": "apify_monthly_usage_hard_limit_exceeded",
+      "outcome": "deferred",
+      "selectedPackageId": null,
+      "metrics": "not first run of hour"
     }
   ],
   "deliveryCircuitBreaker": {
