@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T03:02:52.320025+00:00",
+  "updatedAt": "2026-09-13T03:16:40.692623+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -470621,6 +470621,42 @@
       "completedAt": "2026-09-13T03:04:30Z",
       "summary": "Preflight, state validation, 72-hour Postiz reconciliation, first-hour metrics attempt, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; Apify collection failed closed before any new source data or publication.",
       "reason": "Apify HTTP 403: monthly usage hard limit exceeded; no package was selected and no Postiz submission was attempted.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked_provider_limit"
+      },
+      "outcome": "deferred"
+    },
+    {
+      "id": "run-20260913T031542Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T03:15:42Z",
+      "completedAt": "2026-09-13T03:15:42Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T031609Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T03:16:09Z",
+      "completedAt": "2026-09-13T03:16:09Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T031640Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T03:16:40Z",
+      "completedAt": "2026-09-13T03:16:40Z",
+      "summary": "Preflight, 72-hour Postiz reconciliation, Apify attempt, media archive, package-status reconciliation, hard-TTL queue rebuild, validation, security, and reports completed; no fresh item was selected or published.",
+      "reason": "Apify HTTP 403: monthly usage hard limit exceeded; no new benchmark data or Postiz submission was attempted.",
       "collector": {
         "provider": "Apify",
         "accounts": [
