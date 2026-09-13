@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T16:16:23.684387+00:00",
+  "updatedAt": "2026-09-13T16:31:26.431930+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -48360,12 +48360,14 @@
       "url": "https://x.com/_When2buy/status/2098080452909445345",
       "postizPostId": "cmtvpx6w10904lm0yc2cyonzq",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-10T16:04:00Z",
         "windowEnd": "2026-09-13T16:04:00Z",
         "lastAttemptAt": "2026-09-13T16:01:27.947336Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-13T16:31:26.379732Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -48378,12 +48380,14 @@
       "url": "https://x.com/_When2buy/status/2098084400001105925",
       "postizPostId": "cmtvqhsq4097llm0ywtp750rt",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-10T16:20:00Z",
         "windowEnd": "2026-09-13T16:20:00Z",
         "lastAttemptAt": "2026-09-13T16:01:27.947336Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-13T16:31:26.379732Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -504864,6 +504868,33 @@
       "status": "partial",
       "startedAt": "2026-09-13T16:16:23Z",
       "completedAt": "2026-09-13T16:16:23Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write.",
+      "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.",
+      "selectedPackageIds": [],
+      "collection": {
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked",
+        "error": "HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded"
+      }
+    },
+    {
+      "id": "run-20260913T163110Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T16:31:10Z",
+      "completedAt": "2026-09-13T16:31:10Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T163110Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T16:31:10Z",
+      "completedAt": "2026-09-13T16:31:10Z",
       "summary": "Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write.",
       "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.",
       "selectedPackageIds": [],
