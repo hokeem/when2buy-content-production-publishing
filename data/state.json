@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T07:31:53.789476+00:00",
+  "updatedAt": "2026-09-13T07:46:45.133763+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -484052,6 +484052,32 @@
           "StockMKTNewz"
         ]
       }
+    },
+    {
+      "id": "run-20260913T074620Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T07:46:20Z",
+      "completedAt": "2026-09-13T07:46:20Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T074607Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T07:46:07Z",
+      "completedAt": "2026-09-13T07:47:00Z",
+      "summary": "Preflight, Postiz reconciliation, state validation, Apify attempt, media archive check, package reconciliation, and hard-TTL queue rebuild completed; no publication was attempted.",
+      "reason": "Apify collection blocked by HTTP 403 platform-feature-disabled monthly usage hard limit; queue contained zero fresh eligible originals. Next scheduled run should retry collection.",
+      "collector": {
+        "provider": "Apify",
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ]
+      },
+      "outcome": "deferred"
     }
   ],
   "deliveryCircuitBreaker": {
