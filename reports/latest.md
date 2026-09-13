@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T03:16:40.692623+00:00`
+- 状态更新：`2026-09-13T03:32:33.389153+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -1608,10 +1608,10 @@ Fed's Hammack says local contacts point to raising rates to curb inflation.  Whe
 
 ### Micron $MU returns above $1,000 per share
 
-- 状态：`failed`
-- 配图：`deliverables/pkg-20260907-micron-mu-1000-per-share/when2buy-image-model-v2.png`
+- 状态：`expired`
+- 配图：`deliverables/pkg-20260907-micron-mu-1000-per-share/when2buy-image-model.png`
 
-Micron $MU stock is back above $1,000 per share.  When2Buy — your U.S. stock partner.
+Micron $MU stock is back above $1,000 per share.
 
 ### JUST IN: @MetaWin player turns $45 into over $87,000 following their airdrop announcement. $1M will
 
@@ -1622,10 +1622,10 @@ Market radar: @WhaleInsider reports: JUST IN: @MetaWin player turns $45 into ove
 
 ### U.S. stock market closed Monday
 
-- 状态：`failed`
-- 配图：`deliverables/pkg-20260907-us-stock-market-closed-labor-day/when2buy-image-model-v4.png`
+- 状态：`expired`
+- 配图：`deliverables/pkg-20260907-us-stock-market-closed-monday/when2buy-image-model-v2.png`
 
-The U.S. stock market is closed Monday for Labor Day.  When2Buy — your U.S. stock partner.
+The U.S. stock market is closed Monday for Labor Day.
 
 ### JUST IN: $304,000,000 worth of long positions liquidated from the crypto market in the past 24 hours
 
@@ -1657,10 +1657,10 @@ Market radar: @WhaleInsider reports: NEW: The Bank for International Settlements
 
 ### Lululemon $LULU short-selling talk
 
-- 状态：`failed`
-- 配图：`deliverables/pkg-20260907-lululemon-short-talk/when2buy-image-model-v2.png`
+- 状态：`expired`
+- 配图：`deliverables/pkg-20260907-lululemon-short-talk/when2buy-image-model.png`
 
-Lululemon $LULU is getting short-call attention, with Michael Burry the target of the jab.  When2Buy — your U.S. stock partner.
+Lululemon $LULU is drawing short-selling talk in a jab aimed at Michael Burry.
 
 ### Mark Zuckerberg and Meta Platforms $META confirmed that their annual Meta Connect event will take pl
 
@@ -2140,7 +2140,7 @@ UBS Global Wealth Management sees 25 bp Fed rate hikes in September and December
 
 ### Bitcoin $85,000 forecast
 
-- 状态：`failed`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-btc-kalshi-85000/when2buy-image-model-v3.png`
 
 Bitcoin $BTC is forecast to reach $85,000 this month in Kalshi trading.  When2Buy — your U.S. stock partner.
@@ -2175,29 +2175,29 @@ Massachusetts just saw its most expensive home sale on record.  When2Buy — you
 
 ### China and Qatar deepen energy, investment and AI cooperation
 
-- 状态：`failed`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-china-qatar-cooperation/when2buy-image-model-v2.png`
 
 China and Qatar are deepening cooperation across energy, investment and AI.  When2Buy — your U.S. stock partner.
 
 ### Robinhood CEO names Capital beside Cashcat
 
-- 状态：`failed`
+- 状态：`expired`
 - 配图：`deliverables/pkg-20260907-robinhood-capital-cat/when2buy-image-model-v2.png`
 
 Robinhood CEO Vlad Tenev named the cat beside Cashcat "Capital."  The developer is followed by Vlad himself.  When2Buy — your U.S. stock partner.
 
 ### AppLovin $APP down 52% in 2026
 
-- 状态：`failed`
-- 配图：`deliverables/pkg-20260907-applovin-app-minus-52/when2buy-image-model-v3.png`
+- 状态：`expired`
+- 配图：`deliverables/pkg-20260907-applovin-app-minus-52/when2buy-image-model-v2.png`
 
 $APP is the Nasdaq-100's worst-performing stock so far in 2026, down 52%.  When2Buy — your U.S. stock partner.
 
 ### The Trade Desk $TTD trails the S&P 500
 
-- 状态：`failed`
-- 配图：`deliverables/pkg-20260907-trade-desk-ttd-sp500-worst/when2buy-image-model-v3.png`
+- 状态：`expired`
+- 配图：`deliverables/pkg-20260907-trade-desk-ttd-sp500-worst/when2buy-image-model-v2.png`
 
 $TTD is the S&P 500's worst-performing stock so far in 2026.  The Trade Desk is set to leave the index later this month.  When2Buy — your U.S. stock partner.
 
@@ -4257,6 +4257,13 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T03:32:33Z` **full / partial** — Preflight, Postiz reconciliation, Apify collection attempt, media archive, package-status reconciliation, hard-TTL queue rebuild, metrics, validation, security, and reports completed; no fresh item was selected or published. Apify HTTP 403: monthly usage hard limit exceeded; no new benchmark data or Postiz submission was attempted.
+- `2026-09-13T03:31:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T03:31:12.993183+00:00` **report / blocked** — Rendered local report artifacts; stable report update did not run. Terminal panel blocker: report-hub registry returned HTTP 401 after loading /root/.report-skill/tokens.env; no existing slug could be resolved, so no public destination was created or changed.
+- `2026-09-13T03:31:08Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T03:30:59Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 8 unsent stale package(s).
+- `2026-09-13T03:30:43.301114+00:00` **produce / succeeded** — Remade three eligible timestamp-first packages with image-model visuals, exact-logo compositing, and visual QA.
+- `2026-09-13T03:30:41Z` **produce / succeeded** — Produced the first five timestamp-first packages with inspected image-model visuals and exact-logo compositing.
 - `2026-09-13T03:16:40Z` **full / partial** — Preflight, 72-hour Postiz reconciliation, Apify attempt, media archive, package-status reconciliation, hard-TTL queue rebuild, validation, security, and reports completed; no fresh item was selected or published. Apify HTTP 403: monthly usage hard limit exceeded; no new benchmark data or Postiz submission was attempted.
 - `2026-09-13T03:16:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T03:15:42Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
@@ -4270,10 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T02:16:37Z` **full / partial** — Preflight, state validation, Postiz reconciliation, metrics check, media archive, package-status reconciliation, and hard-TTL queue rebuild completed; Apify collection was blocked by the provider monthly usage hard limit, so no fresh item was selected and no publication was attempted. apify_monthly_usage_hard_limit_exceeded
 - `2026-09-13T02:16:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T02:15:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T02:01:06Z` **full / partial** — Postiz reconciliation, preflight, state validation, package-status reconciliation, and hard-TTL queue rebuild completed; Apify collection was blocked by the provider monthly usage hard limit, so no fresh item was selected and no publication was attempted. apify_monthly_usage_hard_limit_exceeded
-- `2026-09-13T02:01:11Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T02:00:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T01:46:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T01:46:16Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
-- `2026-09-13T01:31:28Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T01:31:21Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 7 eligible originals and added 0 new post(s).
