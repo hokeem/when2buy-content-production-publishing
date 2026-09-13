@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-12T23:46:41.077060+00:00`
+- 状态更新：`2026-09-13T00:02:25.981506+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4072,10 +4072,10 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Qualcomm flags smartphone-cycle low | 2026-09-09T06:33:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097574132317897127) |
 | OpenAI's 10,000-agent Navier-Stokes run | 2026-09-09T13:20:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097676757918941397) |
 | Lockheed Martin wins $826M Air Force award | 2026-09-09T21:50:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097804907198009403) |
+| NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 20 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097847871278293375) |
 | Bitcoin: CK Zheng's $150K late-2027 forecast | 2026-09-01T04:47:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2094648465645265080) |
 | 🇺🇸 President Trump just said - THE STOCK MARKET WILL GO UP | 2026-09-04T04:46:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095735450812158361) |
 | Robinhood CEO on products built around public shares | 2026-09-09T15:58:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097716375548772402) |
-| NVIDIA and Australia expand AI-factory infrastructure | 2026-09-10T00:40:00.000Z | 19 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097847871278293375) |
 | John Ternus is expected to lead Apple’s $AAPL iPhone event Wednesday, with Tim Cook not expected to appear | 2026-09-07T12:53:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096945164745048157) |
 | Apple special event begins at 1 PM ET | 2026-09-09T05:15:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097554517546172524) |
 | Fidelity expects CLARITY Act delay | 2026-09-09T12:29:00.000Z | 18 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097663884169728471) |
@@ -4257,6 +4257,9 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T00:01:46Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T00:01:39Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 48 eligible originals and added 0 new post(s).
+- `2026-09-13T00:00:43Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T23:46:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T23:46:32Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T23:46:25Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
@@ -4274,6 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-12T22:31:13Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-12T22:31:05Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 8 eligible originals and added 0 new post(s).
 - `2026-09-12T22:16:25Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T22:16:19Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).
-- `2026-09-12T22:02:23Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-12T22:01:52Z` **radar / succeeded** — Apify scanned both benchmark accounts; captured 16 eligible originals and added 0 new post(s).
