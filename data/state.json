@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T00:16:57.027923+00:00",
+  "updatedAt": "2026-09-13T00:33:09.048269+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -48245,12 +48245,14 @@
       "url": "https://x.com/_When2buy/status/2097840407136833587",
       "postizPostId": "cmturuzhk071kqk0yvdcbkimt",
       "metricsTracking": {
-        "status": "active",
+        "status": "complete",
         "windowStart": "2026-09-10T00:11:00Z",
         "windowEnd": "2026-09-13T00:11:00Z",
         "lastAttemptAt": "2026-09-13T00:02:00.432712Z",
         "lastAttemptSource": "Postiz public API",
-        "lastAttemptResult": "metrics captured from Postiz public API"
+        "lastAttemptResult": "metrics captured from Postiz public API",
+        "completedAt": "2026-09-13T00:33:03.256466Z",
+        "completionReason": "72h tracking window ended"
       }
     },
     {
@@ -465088,6 +465090,59 @@
       "status": "succeeded",
       "startedAt": "2026-09-13T00:16:57Z",
       "completedAt": "2026-09-13T00:16:57Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T003036Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T00:30:36Z",
+      "completedAt": "2026-09-13T00:30:36Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T003143Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T00:31:43Z",
+      "completedAt": "2026-09-13T00:31:43Z",
+      "summary": "Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260913T003148Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T00:31:48Z",
+      "completedAt": "2026-09-13T00:31:48Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T003222Z-radar",
+      "mode": "radar",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T00:32:22Z",
+      "completedAt": "2026-09-13T00:32:22Z",
+      "summary": "Apify scanned both benchmark accounts; captured 32 eligible originals and added 0 new post(s).",
+      "reason": "",
+      "collector": {
+        "provider": "Apify",
+        "actor": "apidojo/twitter-profile-scraper"
+      }
+    },
+    {
+      "id": "run-20260913T003309Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T00:33:09Z",
+      "completedAt": "2026-09-13T00:33:09Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
