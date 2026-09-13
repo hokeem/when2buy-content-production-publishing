@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-13T20:01:48.645461+00:00`
+- 状态更新：`2026-09-13T20:16:34.576623+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4257,6 +4257,10 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-13T20:16:34Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T20:16:21Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
+- `2026-09-13T20:16:15Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
+- `2026-09-13T20:15:38Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T20:01:27Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T20:01:20Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
 - `2026-09-13T19:46:36Z` **full / partial** — Preflight, state validation, Postiz reconciliation, hourly metrics, media archival, package reconciliation, and hard-TTL queue rebuild completed; no fresh candidate was processed. Apify collection blocked by HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
@@ -4273,7 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T18:45:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T18:31:12Z` **full / partial** — Preflight, state validation, Postiz reconciliation, package reconciliation, and hard 90-minute TTL queue rebuild completed; required Apify collection for @WhaleInsider and @StockMKTNewz was blocked by the provider monthly usage hard limit, so no fresh item was eligible and no package was produced or submitted. Apify HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded.
 - `2026-09-13T18:31:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T18:30:40Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T18:16:17Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T18:16:10Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
-- `2026-09-13T18:15:49Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).

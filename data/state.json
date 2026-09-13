@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T20:01:48.645461+00:00",
+  "updatedAt": "2026-09-13T20:16:34.576623+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -513947,6 +513947,51 @@
       "status": "succeeded",
       "startedAt": "2026-09-13T20:01:27Z",
       "completedAt": "2026-09-13T20:01:27Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T201538Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T20:15:38Z",
+      "completedAt": "2026-09-13T20:15:38Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T201615Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T20:16:15Z",
+      "completedAt": "2026-09-13T20:16:15Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write.",
+      "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.",
+      "selectedPackageIds": [],
+      "collection": {
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked",
+        "error": "HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded"
+      }
+    },
+    {
+      "id": "run-20260913T201621Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T20:16:21Z",
+      "completedAt": "2026-09-13T20:16:21Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T201634Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T20:16:34Z",
+      "completedAt": "2026-09-13T20:16:34Z",
       "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
       "reason": ""
     }
