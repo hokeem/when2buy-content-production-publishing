@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T08:01:58.000064+00:00",
+  "updatedAt": "2026-09-13T08:16:41.166898+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -486669,6 +486669,26 @@
       "reason": "apify_monthly_usage_hard_limit",
       "outcome": "blocked",
       "metrics": "201 observations appended for eligible releases in the latest 72 hours"
+    },
+    {
+      "id": "run-20260913T081600Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T08:16:00Z",
+      "completedAt": "2026-09-13T08:16:00Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T081629Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-13T08:16:29Z",
+      "completedAt": "2026-09-13T08:16:29Z",
+      "summary": "Freshness-first run completed safe local reconciliation and hard-TTL queue rebuild; Apify collection was blocked by the provider monthly usage hard limit, so no fresh source was admitted and no publication was attempted.",
+      "reason": "apify_monthly_usage_hard_limit",
+      "outcome": "no_fresh_item",
+      "metrics": "first run of hour already completed metrics collection; no additional pass required"
     }
   ],
   "deliveryCircuitBreaker": {
