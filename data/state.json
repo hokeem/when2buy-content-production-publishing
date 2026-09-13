@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T12:02:08.065002+00:00",
+  "updatedAt": "2026-09-13T12:16:17.199753+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -494700,6 +494700,24 @@
       "completedAt": "2026-09-13T12:02:08.062192+00:00",
       "summary": "Freshness-first run completed reconciliation, metrics, package-status reconciliation, and hard-TTL queue rebuild; no publication attempted.",
       "reason": "Apify collection for @WhaleInsider and @StockMKTNewz was blocked by HTTP 403 platform-feature-disabled monthly usage hard limit. No fresh source was available, so no package was produced or submitted."
+    },
+    {
+      "id": "run-20260913T121558Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T12:15:58Z",
+      "completedAt": "2026-09-13T12:15:58Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260913T121617Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-13T12:16:17Z",
+      "completedAt": "2026-09-13T12:16:17Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
