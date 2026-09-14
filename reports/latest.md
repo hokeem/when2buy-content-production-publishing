@@ -1,6 +1,6 @@
 # when2buy Agent 运行报告
 
-- 状态更新：`2026-09-14T00:46:22.981774+00:00`
+- 状态更新：`2026-09-14T01:01:51.179189+00:00`
 - X 账号：`@_When2buy`
 - 对标帖子快照：**669**
 - 待选选题：**591**
@@ -4098,15 +4098,15 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 | Dell reaches a new 52-week high | 2026-09-09T05:38:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097560322815176821) |
 | Analog Devices to acquire Alif for $1.35B | 2026-09-09T14:33:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097694968186024281) |
 | ZYN expands strengths and moves flagship cans to 20 pouches | 2026-09-09T23:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097835292837462250) |
+| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
 | Goldman Sachs expects a Fed hike next week | 2026-09-12T07:33:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098676535809155376) |
+| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 14 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | 🇺🇸 President Trump just posted this: "Now that we have it under U.S.A. control, should we change the | 2026-09-04T04:49:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095736109175341104) |
 | Tesla’s $TSLA self driving Cybercabs are now reportedly being tested with a safety driver in New Yor | 2026-09-05T06:44:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096127353290363156) |
 | JUST IN: 50% chance of Fed hiking rates by 25 bps this month, per Kalshi traders. | 2026-09-06T00:43:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096399055203238203) |
 | Meta is the only top-ten company stock higher today | 2026-09-09T16:11:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2097719576993968514) |
 | Pentagon AI chief pushes back on AI doom warnings | 2026-09-10T17:03:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098095203039219975) |
 | Anthropic accuses Moonshot AI of routing requests to Claude | 2026-09-10T17:19:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098099141377421621) |
-| PENPE rallies 143% in 24 hours | 2026-09-11T18:05:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098473162690420849) |
-| OpenAI humanoid robot demo set for 2027 | 2026-09-12T17:50:00.000Z | 13 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2098831736620912937) |
 | Each of these 4 stocks have seen their market caps increase by more than $100 Billion so far today S | 2026-09-04T04:29:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2095731013137956986) |
 | JUST IN: BlackRock clients buy $57.79 million worth of $ETH. | 2026-09-06T06:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096489403720102140) |
 | JUST IN: $BTC ETFs have recorded net inflows for 3 consecutive weeks. | 2026-09-06T12:42:00.000Z | 12 | 0 | 0 | 0 | [X](https://x.com/_When2buy/status/2096579911805010395) |
@@ -4257,6 +4257,8 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 
 ## 最近运行
 
+- `2026-09-14T01:01:21Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
+- `2026-09-14T01:01:09Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-14T00:45:55Z` **full / partial** — Preflight, state validation, Postiz reconciliation, package-status reconciliation, and hard-TTL queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; recoverable for the next scheduled run.
 - `2026-09-14T00:46:01Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-14T00:31:10Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
@@ -4275,5 +4277,3 @@ Tilman Fertitta is selling his 252-foot yacht for $192M because it's not big eno
 - `2026-09-13T23:01:41Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
 - `2026-09-13T23:01:33Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
 - `2026-09-13T22:45:56Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T22:45:30Z` **queue / succeeded** — Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).
-- `2026-09-13T22:31:27Z` **full / partial** — Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write. Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.
