@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T02:31:40.963339+00:00",
+  "updatedAt": "2026-09-14T02:46:18.456000+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -525305,6 +525305,42 @@
       "status": "partial",
       "startedAt": "2026-09-14T02:31:40Z",
       "completedAt": "2026-09-14T02:31:40Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write.",
+      "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.",
+      "selectedPackageIds": [],
+      "collection": {
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked",
+        "error": "HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded"
+      }
+    },
+    {
+      "id": "run-20260914T024545Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-14T02:45:45Z",
+      "completedAt": "2026-09-14T02:45:45Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260914T024617Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-14T02:46:17Z",
+      "completedAt": "2026-09-14T02:46:17Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260914T024618Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-14T02:46:18Z",
+      "completedAt": "2026-09-14T02:46:18Z",
       "summary": "Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write.",
       "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.",
       "selectedPackageIds": [],
