@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T03:31:28.625359+00:00",
+  "updatedAt": "2026-09-14T04:16:39.016062+00:00",
   "account": {
     "handle": "_When2buy",
     "timezone": "Asia/Shanghai"
@@ -527053,6 +527053,42 @@
         "status": "blocked",
         "error": "HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded"
       }
+    },
+    {
+      "id": "run-20260914T041602Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-14T04:16:02Z",
+      "completedAt": "2026-09-14T04:16:02Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
+    },
+    {
+      "id": "run-20260914T041631Z-full",
+      "mode": "full",
+      "status": "partial",
+      "startedAt": "2026-09-14T04:16:31Z",
+      "completedAt": "2026-09-14T04:16:31Z",
+      "summary": "Preflight, state validation, Postiz reconciliation, and queue rebuild completed; required Apify benchmark collection was blocked before any source or package write.",
+      "reason": "Apify returned HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded while collecting @WhaleInsider. No publication attempted; next scheduled run should retry collection after the external limit is restored.",
+      "selectedPackageIds": [],
+      "collection": {
+        "accounts": [
+          "WhaleInsider",
+          "StockMKTNewz"
+        ],
+        "status": "blocked",
+        "error": "HTTP 403 platform-feature-disabled: Monthly usage hard limit exceeded"
+      }
+    },
+    {
+      "id": "run-20260914T041639Z-queue",
+      "mode": "queue",
+      "status": "succeeded",
+      "startedAt": "2026-09-14T04:16:39Z",
+      "completedAt": "2026-09-14T04:16:39Z",
+      "summary": "Prepared 0 fresh candidate(s); expired 0 unsent stale package(s).",
+      "reason": ""
     }
   ],
   "deliveryCircuitBreaker": {
